@@ -20,13 +20,22 @@ async function readJson<T>(filePath: string): Promise<T> {
   return JSON.parse(raw) as T;
 }
 
-async function readMarkdown(filePath: string): Promise<string> {
+interface ParsedMarkdown<T = Record<string, unknown>> {
+  data: T;
+  content: string;
+}
+
+async function readMarkdown<T = Record<string, unknown>>(
+  filePath: string,
+): Promise<ParsedMarkdown<T>> {
   try {
     const raw = await fs.readFile(filePath, "utf8");
-    const { content } = matter(raw);
-    return content.trim();
+    const { data, content } = matter(raw);
+    return { data: data as T, content: content.trim() };
   } catch (err) {
-    if ((err as NodeJS.ErrnoException).code === "ENOENT") return "";
+    if ((err as NodeJS.ErrnoException).code === "ENOENT") {
+      return { data: {} as T, content: "" };
+    }
     throw err;
   }
 }
@@ -52,14 +61,28 @@ export async function getGames(): Promise<Game[]> {
   return Promise.all(ids.map((id) => getGame(id)));
 }
 
+interface GameFrontmatter {
+  title?: string;
+  tagline?: string;
+  description?: string;
+}
+
 export async function getGame(gameId: string): Promise<Game> {
   const gameDir = path.join(GAMES_ROOT, gameId);
   const meta = await readJson<GameMeta>(path.join(gameDir, "meta.json"));
-  const [descriptionEs, descriptionEn] = await Promise.all([
-    readMarkdown(path.join(gameDir, "es.md")),
-    readMarkdown(path.join(gameDir, "en.md")),
+  const [es, en] = await Promise.all([
+    readMarkdown<GameFrontmatter>(path.join(gameDir, "es.md")),
+    readMarkdown<GameFrontmatter>(path.join(gameDir, "en.md")),
   ]);
-  return { ...meta, descriptionEs, descriptionEn };
+  return {
+    ...meta,
+    taglineEs: es.data.tagline ?? "",
+    taglineEn: en.data.tagline ?? "",
+    summaryEs: es.data.description ?? "",
+    summaryEn: en.data.description ?? "",
+    descriptionEs: es.content,
+    descriptionEn: en.content,
+  };
 }
 
 export async function getToolIds(gameId: string): Promise<string[]> {
@@ -77,11 +100,11 @@ export async function getTool(
 ): Promise<Tool> {
   const toolDir = path.join(GAMES_ROOT, gameId, "tools", toolId);
   const meta = await readJson<ToolMeta>(path.join(toolDir, "meta.json"));
-  const [contentEs, contentEn] = await Promise.all([
+  const [es, en] = await Promise.all([
     readMarkdown(path.join(toolDir, "es.md")),
     readMarkdown(path.join(toolDir, "en.md")),
   ]);
-  return { ...meta, contentEs, contentEn };
+  return { ...meta, contentEs: es.content, contentEn: en.content };
 }
 
 export async function getCreatorIds(gameId: string): Promise<string[]> {

@@ -24,10 +24,12 @@
     "toolsHeading": "Herramientas",
     "creatorsHeading": "Creadores",
     "resourcesHeading": "Recursos",
+    "aboutHeading": "Sobre el juego",
     "developer": "Desarrollador",
     "released": "Lanzamiento",
     "platforms": "Plataformas",
-    "officialSite": "Sitio oficial"
+    "officialSite": "Sitio oficial",
+    "resourceCount": "{count, plural, one {# recurso} other {# recursos}}"
   },
   "tool": {
     "goToTool": "Ir a la herramienta",

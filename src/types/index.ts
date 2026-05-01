@@ -113,6 +113,10 @@ export interface GameMeta {
 }
 
 export interface Game extends GameMeta {
+  taglineEs: string;
+  taglineEn: string;
+  summaryEs: string;
+  summaryEn: string;
   descriptionEs: string;
   descriptionEn: string;
 }
@@ -172,6 +176,7 @@ export interface CreatorPlatform {
   url: string;
   channelId?: string;
   primary?: boolean;
+  label?: string;
 }
 
 export interface CreatorMeta {

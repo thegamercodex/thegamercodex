@@ -24,10 +24,12 @@
     "toolsHeading": "Tools",
     "creatorsHeading": "Creators",
     "resourcesHeading": "Resources",
+    "aboutHeading": "About the game",
     "developer": "Developer",
     "released": "Released",
     "platforms": "Platforms",
-    "officialSite": "Official site"
+    "officialSite": "Official site",
+    "resourceCount": "{count, plural, one {# resource} other {# resources}}"
   },
   "tool": {
     "goToTool": "Go to tool",
