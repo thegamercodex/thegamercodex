@@ -1,0 +1,63 @@
+{
+  "common": {
+    "siteName": "TheGamerCodex",
+    "siteTagline": "Compendio curado de herramientas y recursos para gamers",
+    "loading": "Cargando…",
+    "viewAll": "Ver todo",
+    "readMore": "Leer más",
+    "backToHome": "Volver al inicio"
+  },
+  "nav": {
+    "games": "Juegos",
+    "tools": "Herramientas",
+    "creators": "Creadores",
+    "resources": "Recursos",
+    "about": "Acerca de",
+    "switchLanguage": "Cambiar idioma"
+  },
+  "home": {
+    "heroTitle": "El compendio definitivo para gamers",
+    "heroSubtitle": "Herramientas, creadores y recursos curados para los juegos que más te importan.",
+    "gamesHeading": "Juegos disponibles"
+  },
+  "game": {
+    "toolsHeading": "Herramientas",
+    "creatorsHeading": "Creadores",
+    "resourcesHeading": "Recursos",
+    "developer": "Desarrollador",
+    "released": "Lanzamiento",
+    "platforms": "Plataformas",
+    "officialSite": "Sitio oficial"
+  },
+  "tool": {
+    "goToTool": "Ir a la herramienta",
+    "viewSource": "Ver código fuente",
+    "category": "Categoría",
+    "type": "Tipo",
+    "license": "Licencia",
+    "platforms": "Plataformas",
+    "languages": "Idiomas",
+    "difficulty": "Dificultad",
+    "lastVerified": "Verificada el",
+    "essential": "Esencial",
+    "free": "Gratis",
+    "official": "Oficial",
+    "openSource": "Open source",
+    "relatedTools": "Herramientas relacionadas",
+    "alternatives": "Alternativas"
+  },
+  "creator": {
+    "country": "País",
+    "active": "Activo",
+    "inactive": "Inactivo",
+    "platforms": "Plataformas",
+    "specialties": "Especialidades",
+    "latestVideos": "Últimos videos",
+    "watchOnYouTube": "Ver en YouTube"
+  },
+  "difficulty": {
+    "beginner": "Principiante",
+    "intermediate": "Intermedio",
+    "advanced": "Avanzado"
+  }
+}

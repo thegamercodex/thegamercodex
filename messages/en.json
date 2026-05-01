@@ -1,0 +1,63 @@
+{
+  "common": {
+    "siteName": "TheGamerCodex",
+    "siteTagline": "Curated compendium of gaming tools and resources",
+    "loading": "Loading…",
+    "viewAll": "View all",
+    "readMore": "Read more",
+    "backToHome": "Back to home"
+  },
+  "nav": {
+    "games": "Games",
+    "tools": "Tools",
+    "creators": "Creators",
+    "resources": "Resources",
+    "about": "About",
+    "switchLanguage": "Switch language"
+  },
+  "home": {
+    "heroTitle": "The definitive codex for gamers",
+    "heroSubtitle": "Curated tools, creators and resources for the games that matter most to you.",
+    "gamesHeading": "Available games"
+  },
+  "game": {
+    "toolsHeading": "Tools",
+    "creatorsHeading": "Creators",
+    "resourcesHeading": "Resources",
+    "developer": "Developer",
+    "released": "Released",
+    "platforms": "Platforms",
+    "officialSite": "Official site"
+  },
+  "tool": {
+    "goToTool": "Go to tool",
+    "viewSource": "View source",
+    "category": "Category",
+    "type": "Type",
+    "license": "License",
+    "platforms": "Platforms",
+    "languages": "Languages",
+    "difficulty": "Difficulty",
+    "lastVerified": "Last verified",
+    "essential": "Essential",
+    "free": "Free",
+    "official": "Official",
+    "openSource": "Open source",
+    "relatedTools": "Related tools",
+    "alternatives": "Alternatives"
+  },
+  "creator": {
+    "country": "Country",
+    "active": "Active",
+    "inactive": "Inactive",
+    "platforms": "Platforms",
+    "specialties": "Specialties",
+    "latestVideos": "Latest videos",
+    "watchOnYouTube": "Watch on YouTube"
+  },
+  "difficulty": {
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  }
+}
