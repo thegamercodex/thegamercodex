@@ -1,0 +1,37 @@
+{
+  "id": "awakened-poe-trade",
+  "name": "Awakened PoE Trade",
+  "shortName": "APT",
+  "taglineEs": "Overlay de trading y precios que funciona dentro del juego",
+  "taglineEn": "In-game overlay for trading and price checking",
+  "url": "https://snosme.github.io/awakened-poe-trade/",
+  "category": "trading",
+  "type": "overlay",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/SnosMe/awakened-poe-trade",
+  "license": "MIT",
+  "platforms": ["windows", "linux"],
+  "languages": ["en", "ru", "fr", "de", "es", "pt", "ko", "zh-tw"],
+  "tags": ["trading", "price-check", "overlay", "in-game", "essential"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-04-30",
+  "logo": "/games/path-of-exile/tools/awakened-poe-trade/logo.png",
+  "screenshots": [
+    {
+      "url": "/games/path-of-exile/tools/awakened-poe-trade/screenshot-pricecheck.png",
+      "captionEs": "Price check instantáneo de un item al pasar el mouse",
+      "captionEn": "Instant item price check on hover"
+    },
+    {
+      "url": "/games/path-of-exile/tools/awakened-poe-trade/screenshot-search.png",
+      "captionEs": "Búsqueda en el trade oficial generada automáticamente",
+      "captionEn": "Auto-generated official trade search"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["poe-ninja", "path-of-building"],
+  "alternatives": ["exilence-next"]
+}

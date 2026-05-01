@@ -1,0 +1,35 @@
+{
+  "id": "poe-lab",
+  "name": "PoeLab",
+  "shortName": "PoeLab",
+  "taglineEs": "Mapas diarios actualizados de los Laberintos para correrlos eficientemente",
+  "taglineEn": "Daily updated Labyrinth maps for efficient running",
+  "url": "https://www.poelab.com",
+  "category": "leveling",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["labyrinth", "ascendancy", "daily-update", "leveling", "essential"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-04-30",
+  "logo": "/games/path-of-exile/tools/poe-lab/logo.png",
+  "screenshots": [
+    {
+      "url": "/games/path-of-exile/tools/poe-lab/screenshot-map.png",
+      "captionEs": "Mapa del Labyrinth del día con ruta óptima marcada",
+      "captionEn": "Daily Labyrinth map with optimal route marked"
+    },
+    {
+      "url": "/games/path-of-exile/tools/poe-lab/screenshot-difficulty.png",
+      "captionEs": "Selector de dificultad del laberinto",
+      "captionEn": "Labyrinth difficulty selector"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["path-of-building"],
+  "alternatives": []
+}

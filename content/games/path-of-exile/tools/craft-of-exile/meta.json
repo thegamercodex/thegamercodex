@@ -1,0 +1,39 @@
+{
+  "id": "craft-of-exile",
+  "name": "Craft of Exile",
+  "shortName": "CoE",
+  "taglineEs": "Simulador completo de crafteo de items para Path of Exile",
+  "taglineEn": "Complete item crafting simulator for Path of Exile",
+  "url": "https://www.craftofexile.com",
+  "category": "crafting",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["crafting", "simulator", "calculator", "advanced"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-04-30",
+  "logo": "/games/path-of-exile/tools/craft-of-exile/logo.png",
+  "screenshots": [
+    {
+      "url": "/games/path-of-exile/tools/craft-of-exile/screenshot-emulator.png",
+      "captionEs": "Emulador de crafteo mostrando probabilidades en tiempo real",
+      "captionEn": "Crafting emulator showing real-time probabilities"
+    },
+    {
+      "url": "/games/path-of-exile/tools/craft-of-exile/screenshot-modpool.png",
+      "captionEs": "Pool de modificadores filtrable por base de item y nivel",
+      "captionEn": "Modifier pool filterable by item base and level"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["path-of-building", "poe-ninja"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Siegrest",
+    "url": "https://www.craftofexile.com"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "kroximatuz",
+  "name": "KroximatuZ",
+  "country": "AR",
+  "languages": ["es"],
+  "active": true,
+  "joinedYear": 2019,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@KroximatuZ",
+      "url": "https://www.youtube.com/@KroximatuZ",
+      "channelId": "UCMw6ArgxuMj1eikyN9UTsSw",
+      "primary": true
+    },
+    {
+      "type": "youtube",
+      "handle": "@Kroxi-Chan",
+      "url": "https://www.youtube.com/@Kroxi-Chan",
+      "channelId": "VERIFICAR",
+      "label": "Canal secundario"
+    },
+    {
+      "type": "twitch",
+      "handle": "kroximatuz",
+      "url": "https://www.twitch.tv/kroximatuz"
+    },
+    {
+      "type": "kick",
+      "handle": "kroximatuz",
+      "url": "https://kick.com/kroximatuz"
+    },
+    {
+      "type": "twitter",
+      "handle": "@kroximatuz",
+      "url": "https://twitter.com/kroximatuz"
+    },
+    {
+      "type": "discord",
+      "url": "https://discord.gg/Ns6ARWUpuv"
+    },
+    {
+      "type": "patreon",
+      "handle": "kroximatuz",
+      "url": "https://www.patreon.com/kroximatuz"
+    }
+  ],
+  "specialties": [
+    "league-mechanics",
+    "build-guides",
+    "beginner-friendly"
+  ],
+  "games": ["path-of-exile"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Creator argentino y referente de Path of Exile en español. Activo desde 2019, su canal cubre principalmente PoE con un enfoque didáctico, especialmente fuerte explicando mecánicas de cada nueva liga. Combina videos editados con streams en Twitch y Kick, manteniendo una de las pocas fuentes consistentes de contenido de PoE en castellano.",
+  "noteEn": "Argentine creator and reference for Spanish-language Path of Exile content. Active since 2019, his channel mainly covers PoE with an educational approach, particularly strong at explaining each new league's mechanics. He combines edited videos with streams on Twitch and Kick, maintaining one of the few consistent sources of PoE content in Spanish.",
+  "highlightsEs": [
+    "Referente del contenido de PoE en español, activo desde 2019",
+    "Enfoque didáctico explicando mecánicas de cada nueva liga",
+    "Activo en YouTube, Twitch y Kick simultáneamente",
+    "Comunidad hispanohablante a través de su Discord"
+  ],
+  "highlightsEn": [
+    "Reference for Spanish-language PoE content, active since 2019",
+    "Educational approach explaining each new league's mechanics",
+    "Active on YouTube, Twitch and Kick simultaneously",
+    "Spanish-speaking community through his Discord"
+  ],
+  "avatar": "/games/path-of-exile/creators/kroximatuz/avatar.jpg",
+  "banner": "/games/path-of-exile/creators/kroximatuz/banner.jpg"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "path-of-building",
+  "name": "Path of Building Community",
+  "shortName": "PoB",
+  "taglineEs": "La calculadora de DPS y planificador de builds más usado de PoE",
+  "taglineEn": "The most-used DPS calculator and build planner for PoE",
+  "url": "https://pathofbuilding.community",
+  "category": "build-planning",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+  "license": "MIT",
+  "platforms": ["windows", "macos", "linux"],
+  "languages": ["en"],
+  "tags": ["dps-calculator", "build-planner", "tree-planner", "offline", "essential"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-04-30",
+  "logo": "/games/path-of-exile/tools/path-of-building/logo.png",
+  "screenshots": [
+    {
+      "url": "/games/path-of-exile/tools/path-of-building/screenshot-tree.png",
+      "captionEs": "Vista del árbol de habilidades pasivas con build planificada",
+      "captionEn": "Passive skill tree view with planned build"
+    },
+    {
+      "url": "/games/path-of-exile/tools/path-of-building/screenshot-calcs.png",
+      "captionEs": "Pestaña de cálculos detallados de DPS",
+      "captionEn": "Detailed DPS calculations tab"
+    }
+  ],
+  "videos": [
+    {
+      "youtubeId": "REPLACE_WITH_REAL_ID",
+      "title": "Path of Building - Complete Beginner Tutorial",
+      "creator": "Zizaran",
+      "language": "en",
+      "duration": "24:18",
+      "noteEs": "Tutorial completo desde instalación hasta uso avanzado. Recomendado para empezar desde cero.",
+      "noteEn": "Complete tutorial from installation to advanced usage. Recommended to start from scratch."
+    }
+  ],
+  "relatedTools": ["poe-ninja", "craft-of-exile"],
+  "alternatives": []
+}

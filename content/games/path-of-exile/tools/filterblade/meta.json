@@ -1,0 +1,39 @@
+{
+  "id": "filterblade",
+  "name": "FilterBlade",
+  "shortName": "FilterBlade",
+  "taglineEs": "Editor visual del filtro de loot oficial de NeverSink",
+  "taglineEn": "Visual editor for NeverSink's official loot filter",
+  "url": "https://www.filterblade.xyz",
+  "category": "filters",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["loot-filter", "customization", "neversink", "essential"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-04-30",
+  "logo": "/games/path-of-exile/tools/filterblade/logo.png",
+  "screenshots": [
+    {
+      "url": "/games/path-of-exile/tools/filterblade/screenshot-editor.png",
+      "captionEs": "Editor visual mostrando cómo se verán los items en el juego",
+      "captionEn": "Visual editor showing how items will appear in-game"
+    },
+    {
+      "url": "/games/path-of-exile/tools/filterblade/screenshot-customization.png",
+      "captionEs": "Personalización de colores, sonidos y íconos por tipo de item",
+      "captionEn": "Customization of colors, sounds and icons per item type"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [],
+  "alternatives": [],
+  "createdBy": {
+    "name": "NeverSink",
+    "url": "https://www.youtube.com/@NeverSinkLootFilter"
+  }
+}

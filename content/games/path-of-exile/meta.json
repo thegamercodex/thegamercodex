@@ -1,0 +1,159 @@
+{
+  "id": "path-of-exile",
+  "name": "Path of Exile",
+  "shortName": "PoE",
+  "developer": "Grinding Gear Games",
+  "releaseYear": 2013,
+  "officialUrl": "https://www.pathofexile.com",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/238960/Path_of_Exile/",
+      "appId": "238960",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "epic",
+      "url": "https://store.epicgames.com/en-US/p/path-of-exile",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10000875",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/store/path-of-exile/bw5pq56cd2vw",
+      "model": "free-to-play"
+    }
+  ],
+  "priceTracker": "https://isthereanydeal.com/game/path-of-exile/",
+  "monetization": {
+    "model": "free-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["cosmetic", "stash-tabs", "quality-of-life"],
+    "payToWin": false,
+    "noteEs": "Las microtransacciones son cosméticas y de comodidad como espacio extra de stash. No hay ventajas de poder comprables.",
+    "noteEn": "Microtransactions are cosmetic and quality-of-life like extra stash space. No buyable power advantages."
+  },
+  "platforms": ["windows", "macos", "playstation", "xbox"],
+  "genres": ["arpg", "free-to-play", "online"],
+  "theme": {
+    "primary": "#a08c5a",
+    "secondary": "#1a1a1a",
+    "accent": "#c9a961",
+    "background": "#0d0d0d",
+    "text": "#e8e0d0"
+  },
+  "logo": "/games/path-of-exile/logo.svg",
+  "heroImage": "/games/path-of-exile/hero.jpg",
+  "toolCategories": [
+    {
+      "id": "build-planning",
+      "nameEs": "Planificación de Builds",
+      "nameEn": "Build Planning",
+      "descriptionEs": "Herramientas para diseñar, simular y optimizar builds",
+      "descriptionEn": "Tools to design, simulate and optimize builds",
+      "icon": "🧮"
+    },
+    {
+      "id": "trading",
+      "nameEs": "Comercio",
+      "nameEn": "Trading",
+      "descriptionEs": "Herramientas para comprar, vender y rastrear precios",
+      "descriptionEn": "Tools to buy, sell and track prices",
+      "icon": "💰"
+    },
+    {
+      "id": "crafting",
+      "nameEs": "Crafteo",
+      "nameEn": "Crafting",
+      "descriptionEs": "Calculadoras y simuladores de crafteo de items",
+      "descriptionEn": "Item crafting calculators and simulators",
+      "icon": "⚒️"
+    },
+    {
+      "id": "atlas-maps",
+      "nameEs": "Atlas y Mapas",
+      "nameEn": "Atlas & Maps",
+      "descriptionEs": "Planificadores del Atlas y herramientas para mapeo",
+      "descriptionEn": "Atlas planners and mapping tools",
+      "icon": "🗺️"
+    },
+    {
+      "id": "filters",
+      "nameEs": "Filtros de Loot",
+      "nameEn": "Loot Filters",
+      "descriptionEs": "Filtros para resaltar items importantes en pantalla",
+      "descriptionEn": "Filters to highlight important items on screen",
+      "icon": "🔍"
+    },
+    {
+      "id": "economy",
+      "nameEs": "Economía",
+      "nameEn": "Economy",
+      "descriptionEs": "Tracking de precios y tendencias de la economía",
+      "descriptionEn": "Price tracking and economy trends",
+      "icon": "📊"
+    },
+    {
+      "id": "leveling",
+      "nameEs": "Leveleo",
+      "nameEn": "Leveling",
+      "descriptionEs": "Guías y trackers para subir de nivel eficientemente",
+      "descriptionEn": "Guides and trackers for efficient leveling",
+      "icon": "⬆️"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis y bases de datos de información del juego",
+      "descriptionEn": "Wikis and game information databases",
+      "icon": "📚"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para empezar a jugar PoE",
+      "descriptionEn": "Essential resources to start playing PoE",
+      "icon": "🌱"
+    },
+    {
+      "id": "mechanics-per-league",
+      "nameEs": "Mecánicas por Liga",
+      "nameEn": "League Mechanics",
+      "descriptionEs": "Videos explicando las mecánicas de cada liga",
+      "descriptionEn": "Videos explaining each league's mechanics",
+      "icon": "⚔️"
+    },
+    {
+      "id": "build-guides",
+      "nameEs": "Guías de Builds",
+      "nameEn": "Build Guides",
+      "descriptionEs": "Builds destacadas y recomendaciones por arquetipo",
+      "descriptionEn": "Featured builds and archetype recommendations",
+      "icon": "🛡️"
+    },
+    {
+      "id": "trading-guides",
+      "nameEs": "Guías de Comercio",
+      "nameEn": "Trading Guides",
+      "descriptionEs": "Cómo dominar el sistema de trading y maximizar ganancias",
+      "descriptionEn": "How to master trading and maximize profits",
+      "icon": "💎"
+    },
+    {
+      "id": "boss-guides",
+      "nameEs": "Guías de Bosses",
+      "nameEn": "Boss Guides",
+      "descriptionEs": "Estrategias y mecánicas de los jefes del endgame",
+      "descriptionEn": "Endgame boss strategies and mechanics",
+      "icon": "👹"
+    }
+  ]
+}

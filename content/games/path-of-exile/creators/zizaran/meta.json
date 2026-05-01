@@ -1,0 +1,57 @@
+{
+  "id": "zizaran",
+  "name": "Zizaran",
+  "realName": "Ziz",
+  "country": "UK",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Zizaran",
+      "url": "https://www.youtube.com/@Zizaran",
+      "channelId": "UCBHBPL3KKekISkzn4YBNdoA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "Zizaran",
+      "url": "https://www.twitch.tv/zizaran"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Zizaran",
+      "url": "https://twitter.com/Zizaran"
+    },
+    {
+      "type": "discord",
+      "url": "https://discord.gg/zizaran"
+    }
+  ],
+  "specialties": [
+    "build-guides",
+    "league-mechanics",
+    "trading",
+    "race-events",
+    "community-events"
+  ],
+  "games": ["path-of-exile"],
+  "contentTypes": ["videos", "live-streams", "guides", "events"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Uno de los creators más respetados y veteranos de Path of Exile. Su contenido va desde guías de builds y análisis profundos de mecánicas de league hasta la organización de eventos comunitarios masivos como las Gauntlet Races. Su enfoque didáctico lo hace especialmente accesible para jugadores intermedios que quieren mejorar.",
+  "noteEn": "One of the most respected and veteran Path of Exile creators. His content ranges from build guides and deep league mechanics analysis to organizing massive community events like the Gauntlet Races. His educational approach makes him especially accessible to intermediate players looking to improve.",
+  "highlightsEs": [
+    "Guías de builds detalladas con explicación pedagógica",
+    "Cobertura completa de cada nueva league con day-1 y day-2 streams",
+    "Organización de Gauntlet Races, eventos competitivos comunitarios",
+    "Entrevistas con desarrolladores de GGG"
+  ],
+  "highlightsEn": [
+    "Detailed build guides with pedagogical explanations",
+    "Complete coverage of each new league with day-1 and day-2 streams",
+    "Organization of Gauntlet Races, competitive community events",
+    "Interviews with GGG developers"
+  ],
+  "avatar": "/games/path-of-exile/creators/zizaran/avatar.jpg",
+  "banner": "/games/path-of-exile/creators/zizaran/banner.jpg"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "poedb",
+  "name": "PoEDB",
+  "shortName": "PoEDB",
+  "taglineEs": "Base de datos completa de items, monstruos, modificadores y mecánicas del juego",
+  "taglineEn": "Complete database of items, monsters, modifiers and game mechanics",
+  "url": "https://poedb.tw/us/",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en", "zh-tw"],
+  "tags": ["database", "wiki", "datamining", "reference", "essential"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-04-30",
+  "logo": "/games/path-of-exile/tools/poedb/logo.png",
+  "screenshots": [
+    {
+      "url": "/games/path-of-exile/tools/poedb/screenshot-item.png",
+      "captionEs": "Página de un item único con todos sus modificadores posibles",
+      "captionEn": "Unique item page with all its possible modifiers"
+    },
+    {
+      "url": "/games/path-of-exile/tools/poedb/screenshot-monster.png",
+      "captionEs": "Datos detallados de un monstruo con drops y resistencias",
+      "captionEn": "Detailed monster data with drops and resistances"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["craft-of-exile", "path-of-building"],
+  "alternatives": ["poe-wiki"]
+}
