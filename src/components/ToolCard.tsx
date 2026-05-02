@@ -36,8 +36,7 @@ export function ToolCard({ gameId, tool, category, locale }: ToolCardProps) {
             </h3>
             {tool.essential && (
               <Star
-                className="h-3.5 w-3.5 shrink-0 fill-current"
-                style={{ color: "var(--game-accent, var(--color-accent))" }}
+                className="h-3.5 w-3.5 shrink-0 fill-current text-highlight"
                 aria-label={t("essential")}
               />
             )}

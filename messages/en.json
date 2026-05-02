@@ -46,7 +46,20 @@
     "official": "Official",
     "openSource": "Open source",
     "relatedTools": "Related tools",
-    "alternatives": "Alternatives"
+    "alternatives": "Alternatives",
+    "quickTake": "Quick take",
+    "details": "Details",
+    "screenshots": "Screenshots",
+    "tags": "Tags"
+  },
+  "type": {
+    "software": "Software",
+    "web-app": "Web app",
+    "overlay": "Overlay",
+    "browser-extension": "Browser extension",
+    "mobile-app": "Mobile app",
+    "official-service": "Official service",
+    "reference": "Reference"
   },
   "creator": {
     "country": "Country",

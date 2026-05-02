@@ -19,17 +19,30 @@ export async function GameHero({ game, locale }: GameHeroProps) {
     <section className="border-b border-border">
       <div
         className="relative h-[220px] w-full overflow-hidden sm:h-[260px] md:h-[300px] lg:h-[330px]"
-        style={{ background: theme.secondary, color: theme.text }}
+        style={{
+          background: `linear-gradient(90deg, ${theme.background} 0%, ${theme.secondary} 50%, ${theme.background} 100%)`,
+          color: theme.text,
+        }}
       >
         {game.heroImage && (
-          <Image
-            src={game.heroImage}
-            alt={game.name}
-            fill
-            priority
-            sizes="100vw"
-            className="object-cover"
-          />
+          <div
+            className="absolute inset-y-0 left-1/2 w-full max-w-[1500px] -translate-x-1/2"
+            style={{
+              maskImage:
+                "linear-gradient(90deg, transparent 0%, black 6%, black 94%, transparent 100%)",
+              WebkitMaskImage:
+                "linear-gradient(90deg, transparent 0%, black 6%, black 94%, transparent 100%)",
+            }}
+          >
+            <Image
+              src={game.heroImage}
+              alt={game.name}
+              fill
+              priority
+              sizes="(min-width: 1500px) 1500px, 100vw"
+              className="object-cover"
+            />
+          </div>
         )}
         <div
           aria-hidden

@@ -166,6 +166,8 @@ export interface ToolMeta {
 }
 
 export interface Tool extends ToolMeta {
+  quickTakeEs: string;
+  quickTakeEn: string;
   contentEs: string;
   contentEn: string;
 }

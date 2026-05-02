@@ -94,6 +94,12 @@ export async function getTools(gameId: string): Promise<Tool[]> {
   return Promise.all(ids.map((id) => getTool(gameId, id)));
 }
 
+interface ToolFrontmatter {
+  title?: string;
+  description?: string;
+  quickTake?: string;
+}
+
 export async function getTool(
   gameId: string,
   toolId: string,
@@ -101,10 +107,16 @@ export async function getTool(
   const toolDir = path.join(GAMES_ROOT, gameId, "tools", toolId);
   const meta = await readJson<ToolMeta>(path.join(toolDir, "meta.json"));
   const [es, en] = await Promise.all([
-    readMarkdown(path.join(toolDir, "es.md")),
-    readMarkdown(path.join(toolDir, "en.md")),
+    readMarkdown<ToolFrontmatter>(path.join(toolDir, "es.md")),
+    readMarkdown<ToolFrontmatter>(path.join(toolDir, "en.md")),
   ]);
-  return { ...meta, contentEs: es.content, contentEn: en.content };
+  return {
+    ...meta,
+    quickTakeEs: es.data.quickTake ?? "",
+    quickTakeEn: en.data.quickTake ?? "",
+    contentEs: es.content,
+    contentEn: en.content,
+  };
 }
 
 export async function getCreatorIds(gameId: string): Promise<string[]> {
