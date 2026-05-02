@@ -311,6 +311,9 @@ Pasos 1-7, 9 y 10 del roadmap de PROJECT.md completos. `next build` pasa con SSG
 - ✅ Filtros y búsqueda (paso 7): `ToolsExplorer` (game page) con Fuse.js + chips de categoría/dificultad + toggles essential/free/openSource; `ResourceGrid` con search + filtros por type/language. Vista por defecto agrupada por categoría; cuando hay search/filtro activo cambia a grid plano con count.
 - ✅ Modo oscuro toggle (paso 9): `next-themes` con `attribute="class"` + `defaultTheme="dark"` + `enableSystem`. `ThemeToggle` en Header (Sun/Moon). Dos variantes en `globals.css`: `:root.dark` y `:root.light`. Game pages mantienen su tema inmersivo (override en `<div>` interior gana al `<html>`).
 - ✅ SEO completo (paso 10): `metadataBase` + `alternates.canonical/languages` (hreflang) en root layout y cada página. `sitemap.xml` y `robots.txt` dinámicos. JSON-LD por tipo (`WebSite` / `VideoGame` / `SoftwareApplication` / `Person` / `CollectionPage`) inyectado en cada page como `<script type="application/ld+json">`. URL base configurable via `NEXT_PUBLIC_SITE_URL`.
+- ✅ Reportes de enlaces caídos: botón en sidebar de tool detail abre modal con comentario opcional → `POST /api/report-broken-link` formatea HTML y reenvía a un canal privado de Telegram via bot. Token y `chat_id` en env vars server-only (`TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHANNEL_ID`).
+- ✅ Toggle grid/lista en `ToolsExplorer` con persistencia en localStorage (`thegamercodex:tools-view`). Vista lista usa `ToolListItem` con layout horizontal compacto + fecha de última verificación.
+- ✅ Script `npm run verify <gameId> <toolId>` actualiza `lastVerified` a hoy preservando el formato del `meta.json`. Soporta `--all <gameId>` para bulk update.
 
 **Pendiente**:
 - ⏳ Deploy a Vercel (paso 11).

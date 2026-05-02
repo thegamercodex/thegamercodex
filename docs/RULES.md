@@ -119,6 +119,15 @@ Lucide quitó todos los icons de marca. Mapeo a alternativas genéricas:
 - **`--highlight`** (amarillo gold) es siempre marca y va en endorsements editoriales (estrella ⭐ "essential"), no se usa para theming por juego.
 - Semánticos universales (`--success`, `--warning`, `--danger`, `--info`) son los mismos para PoE que para Genshin: el verde "Free" es el mismo verde en cualquier juego.
 
+## Mantenimiento de contenido
+
+- Para actualizar `lastVerified` de una o varias tools, usar el script en lugar de editar `meta.json` a mano:
+  ```
+  npm run verify <gameId> <toolId> [toolId ...]
+  npm run verify -- --all <gameId>
+  ```
+  El script hace replace por línea (preserva el formato del archivo) y valida que el campo exista.
+
 ## Process
 
 - Antes de declarar un cambio "listo", **correr `npx next build`** y verificar que pasa sin errores.

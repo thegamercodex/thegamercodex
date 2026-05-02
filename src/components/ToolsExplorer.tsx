@@ -1,12 +1,16 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import Fuse from "fuse.js";
-import { Search, X } from "lucide-react";
+import { LayoutGrid, List, Search, X } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { ToolCard } from "./ToolCard";
+import { ToolListItem } from "./ToolListItem";
 import { categoriesById, categoryName } from "@/lib/categories";
 import type { Difficulty, Locale, Tool, ToolCategory } from "@/types";
+
+type ViewMode = "grid" | "list";
+const VIEW_STORAGE_KEY = "thegamercodex:tools-view";
 
 interface ToolsExplorerProps {
   gameId: string;
@@ -37,6 +41,25 @@ export function ToolsExplorer({
   const [onlyFree, setOnlyFree] = useState(false);
   const [onlyOpenSource, setOnlyOpenSource] = useState(false);
   const [onlyEssential, setOnlyEssential] = useState(false);
+  const [view, setView] = useState<ViewMode>("list");
+
+  useEffect(() => {
+    try {
+      const stored = window.localStorage.getItem(VIEW_STORAGE_KEY);
+      if (stored === "grid" || stored === "list") setView(stored);
+    } catch {
+      // localStorage may be unavailable (private mode, disabled, etc.)
+    }
+  }, []);
+
+  const setViewPersistent = (next: ViewMode) => {
+    setView(next);
+    try {
+      window.localStorage.setItem(VIEW_STORAGE_KEY, next);
+    } catch {
+      // ignore
+    }
+  };
 
   const fuse = useMemo(
     () =>
@@ -217,11 +240,45 @@ export function ToolsExplorer({
           )}
         </div>
 
-        {filtersActive && (
+        <div className="flex items-center justify-between gap-3">
           <div className="text-xs text-foreground-muted">
-            {t("matchCount", { count: filtered.length })}
+            {filtersActive && t("matchCount", { count: filtered.length })}
           </div>
-        )}
+          <div
+            className="inline-flex items-center gap-0.5 rounded-md border border-border bg-muted/40 p-0.5"
+            role="group"
+            aria-label={t("viewGrid")}
+          >
+            <button
+              type="button"
+              onClick={() => setViewPersistent("grid")}
+              aria-pressed={view === "grid"}
+              aria-label={t("viewGrid")}
+              title={t("viewGrid")}
+              className={`inline-flex h-7 w-7 items-center justify-center rounded transition-colors ${
+                view === "grid"
+                  ? "bg-background text-foreground"
+                  : "text-foreground-muted hover:text-foreground"
+              }`}
+            >
+              <LayoutGrid className="h-3.5 w-3.5" />
+            </button>
+            <button
+              type="button"
+              onClick={() => setViewPersistent("list")}
+              aria-pressed={view === "list"}
+              aria-label={t("viewList")}
+              title={t("viewList")}
+              className={`inline-flex h-7 w-7 items-center justify-center rounded transition-colors ${
+                view === "list"
+                  ? "bg-background text-foreground"
+                  : "text-foreground-muted hover:text-foreground"
+              }`}
+            >
+              <List className="h-3.5 w-3.5" />
+            </button>
+          </div>
+        </div>
       </div>
 
       {filtered.length === 0 ? (
@@ -229,17 +286,31 @@ export function ToolsExplorer({
           {t("noResults")}
         </p>
       ) : filtersActive ? (
-        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {filtered.map((tool) => (
-            <ToolCard
-              key={tool.id}
-              gameId={gameId}
-              tool={tool}
-              category={categoryMap.get(tool.category)}
-              locale={locale}
-            />
-          ))}
-        </div>
+        view === "list" ? (
+          <div className="flex flex-col gap-2">
+            {filtered.map((tool) => (
+              <ToolListItem
+                key={tool.id}
+                gameId={gameId}
+                tool={tool}
+                category={categoryMap.get(tool.category)}
+                locale={locale}
+              />
+            ))}
+          </div>
+        ) : (
+          <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            {filtered.map((tool) => (
+              <ToolCard
+                key={tool.id}
+                gameId={gameId}
+                tool={tool}
+                category={categoryMap.get(tool.category)}
+                locale={locale}
+              />
+            ))}
+          </div>
+        )
       ) : (
         <div className="space-y-10">
           {grouped.map(({ category, tools: catTools }) => (
@@ -253,17 +324,31 @@ export function ToolsExplorer({
                   {catTools.length}
                 </span>
               </div>
-              <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
-                {catTools.map((tool) => (
-                  <ToolCard
-                    key={tool.id}
-                    gameId={gameId}
-                    tool={tool}
-                    category={category}
-                    locale={locale}
-                  />
-                ))}
-              </div>
+              {view === "list" ? (
+                <div className="flex flex-col gap-2">
+                  {catTools.map((tool) => (
+                    <ToolListItem
+                      key={tool.id}
+                      gameId={gameId}
+                      tool={tool}
+                      category={category}
+                      locale={locale}
+                    />
+                  ))}
+                </div>
+              ) : (
+                <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
+                  {catTools.map((tool) => (
+                    <ToolCard
+                      key={tool.id}
+                      gameId={gameId}
+                      tool={tool}
+                      category={category}
+                      locale={locale}
+                    />
+                  ))}
+                </div>
+              )}
             </div>
           ))}
         </div>

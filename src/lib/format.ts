@@ -33,3 +33,13 @@ export function formatDate(isoDate: string, locale: Locale): string {
     day: "numeric",
   });
 }
+
+export function formatDateShort(isoDate: string, locale: Locale): string {
+  const date = new Date(isoDate);
+  if (Number.isNaN(date.getTime())) return "";
+  return date.toLocaleDateString(locale, {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+  });
+}
