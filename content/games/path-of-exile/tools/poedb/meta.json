@@ -16,15 +16,15 @@
   "essential": true,
   "difficulty": "intermediate",
   "lastVerified": "2026-04-30",
-  "logo": "/games/path-of-exile/tools/poedb/logo.png",
+  "logo": "/images/tools/poedb-logo.png",
   "screenshots": [
     {
-      "url": "/games/path-of-exile/tools/poedb/screenshot-item.png",
+      "url": "/images/tools/poedb-screenshot-item.png",
       "captionEs": "Página de un item único con todos sus modificadores posibles",
       "captionEn": "Unique item page with all its possible modifiers"
     },
     {
-      "url": "/games/path-of-exile/tools/poedb/screenshot-monster.png",
+      "url": "/images/tools/poedb-screenshot-monster.png",
       "captionEs": "Datos detallados de un monstruo con drops y resistencias",
       "captionEn": "Detailed monster data with drops and resistances"
     }

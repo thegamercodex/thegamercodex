@@ -46,8 +46,8 @@
     "background": "#0d0d0d",
     "text": "#e8e0d0"
   },
-  "logo": "/games/path-of-exile/logo.png",
-  "heroImage": "/games/path-of-exile/hero.webp",
+  "logo": "/images/games/path-of-exile-logo.png",
+  "heroImage": "/images/games/path-of-exile-hero.webp",
   "toolCategories": [
     {
       "id": "build-planning",

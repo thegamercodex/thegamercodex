@@ -34,13 +34,31 @@ Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas está
 
 ## Imágenes y assets
 
+**Estructura flat en `public/images/`** organizada por tipo:
+
+| Tipo | Path | Convención de nombre |
+|---|---|---|
+| Game hero | `public/images/games/<game-id>-hero.<ext>` | `path-of-exile-hero.webp` |
+| Game logo | `public/images/games/<game-id>-logo.<ext>` | `path-of-exile-logo.png` |
+| Creator avatar | `public/images/creators/<creator-id>-avatar.<ext>` | `zizaran-avatar.jpg` |
+| Creator banner | `public/images/creators/<creator-id>-banner.<ext>` | `zizaran-banner.jpg` |
+| Tool logo | `public/images/tools/<tool-id>-logo.<ext>` | `maxroll-logo.png` |
+| Tool screenshot | `public/images/tools/<tool-id>-<descriptor>.<ext>` | `path-of-building-screenshot-tree.png` |
+
+**Reglas**:
+
+- Asume **ids únicos globalmente** (entre juegos, entre creators, entre tools). Si en el futuro hubiera colisión, agregar prefijo de juego al asset.
+- Tools multi-game (ej. Maxroll) reusan el mismo `<tool-id>-logo.<ext>` desde cualquier juego donde aparezcan.
 - Hero del juego **≥1500px de ancho** (cap visual del banner). Imágenes más chicas se ven pixeladas en monitores ultrawide.
 - Formato preferido: `.webp` o `.avif`. JPG si no hay otra opción.
-- Logo del juego: **PNG con fondo transparente**.
-- **Carpeta de avatares de creator es `creators/` (plural)**, no `creator/`. Coincide con `content/games/[game]/creators/`.
-- Path en `meta.json`: `/games/[game]/creators/[creator-id]/avatar.jpg`.
-- Si un asset no existe, los componentes hacen fallback automático (initial letter, sección omitida). **NO añadir imágenes rotas** a producción.
+- Logo del juego y de tools: **PNG con fondo transparente**.
+- Si un asset no existe, los componentes hacen fallback automático (initial letter, sección omitida) gracias a `existsSync`. **NO añadir imágenes rotas** a producción.
 - `next.config.ts` tiene `images.remotePatterns` para `**.ytimg.com` (thumbnails de YouTube). Otros dominios externos requieren agregar pattern.
+
+**En el `meta.json` el path empieza con `/images/...`** (no `/games/...`). Ejemplos:
+- Game: `"logo": "/images/games/path-of-exile-logo.png"`, `"heroImage": "/images/games/path-of-exile-hero.webp"`
+- Creator: `"avatar": "/images/creators/zizaran-avatar.jpg"`
+- Tool: `"logo": "/images/tools/maxroll-logo.png"`, screenshots: `"url": "/images/tools/maxroll-screenshot-build.png"`
 
 ## Lucide icons removidos
 

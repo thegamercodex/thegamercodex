@@ -16,15 +16,15 @@
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-04-30",
-  "logo": "/games/path-of-exile/tools/poe-lab/logo.png",
+  "logo": "/images/tools/poe-lab-logo.png",
   "screenshots": [
     {
-      "url": "/games/path-of-exile/tools/poe-lab/screenshot-map.png",
+      "url": "/images/tools/poe-lab-screenshot-map.png",
       "captionEs": "Mapa del Labyrinth del día con ruta óptima marcada",
       "captionEn": "Daily Labyrinth map with optimal route marked"
     },
     {
-      "url": "/games/path-of-exile/tools/poe-lab/screenshot-difficulty.png",
+      "url": "/images/tools/poe-lab-screenshot-difficulty.png",
       "captionEs": "Selector de dificultad del laberinto",
       "captionEn": "Labyrinth difficulty selector"
     }

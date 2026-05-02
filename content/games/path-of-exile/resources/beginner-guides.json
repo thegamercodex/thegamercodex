@@ -1,4 +1,80 @@
 {
   "category": "beginner-guides",
-  "resources": []
+  "resources": [
+    {
+      "id": "zizaran-poe-complete-noobs-2026",
+      "type": "video",
+      "title": "Path of Exile for Complete Noobs",
+      "creator": "Zizaran",
+      "creatorId": "zizaran",
+      "url": "https://www.youtube.com/watch?v=-zwY7PjMjRk",
+      "youtubeId": "-zwY7PjMjRk",
+      "language": "en",
+      "duration": "34:37",
+      "publishedDate": "2026-03-05",
+      "thumbnail": "https://i.ytimg.com/vi/-zwY7PjMjRk/maxresdefault.jpg",
+      "noteEs": "Zizaran explica los fundamentos absolutos de Path of Exile desde cero: qué es el juego, cómo funcionan las leagues, clases, ascendancies, árbol pasivo, gemas de skill y support, currency, crafting básico, y herramientas externas. Ideal para alguien que nunca ha tocado el juego.",
+      "noteEn": "Zizaran explains the absolute fundamentals of Path of Exile from scratch: what the game is, how leagues work, classes, ascendancies, passive tree, skill and support gems, currency, basic crafting, and external tools. Ideal for someone who has never touched the game."
+    },
+    {
+      "id": "misoxshiru-poe-beginners-guide-2026",
+      "type": "video",
+      "title": "Path of Exile for Beginners — The Only Guide You Need to Start",
+      "creator": "MisoxShiru",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=oVa9w2OIoLs",
+      "youtubeId": "oVa9w2OIoLs",
+      "language": "en",
+      "duration": "31:18",
+      "publishedDate": "2026-03-05",
+      "thumbnail": "https://i.ytimg.com/vi/oVa9w2OIoLs/maxresdefault.jpg",
+      "noteEs": "Guía completa para principiantes que cubre los sistemas esenciales de PoE: cómo elegir build, usar Path of Building, sockets y links, ascendancy trials, crafting bench, recipes útiles, y respec. Cubre lo necesario para terminar la campaña sin abrumarse.",
+      "noteEn": "Complete beginner guide covering PoE essential systems: choosing a build, using Path of Building, sockets and links, ascendancy trials, crafting bench, useful recipes, and respec. Covers what's needed to finish the campaign without getting overwhelmed."
+    },
+    {
+      "id": "raxxanterax-poe-step-by-step-build-guide-2024",
+      "type": "video",
+      "title": "Path of Exile Step by Step Build Guide For Beginners",
+      "creator": "Raxxanterax",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=30QY1HjcIt0",
+      "youtubeId": "30QY1HjcIt0",
+      "language": "en",
+      "duration": "1:36:05",
+      "publishedDate": "2024-08-01",
+      "thumbnail": "https://i.ytimg.com/vi/30QY1HjcIt0/maxresdefault.jpg",
+      "noteEs": "Guía paso a paso de hora y media donde Raxxanterax muestra cómo seguir una build guide de PoB de principio a fin con la build Ice Nova of Frostbolts. Cubre interpretación del PoB, passives, ascendancy, lab, hideout, crafting temprano, mid-game, mana reservation, endgame mapping, Atlas tree, regex de filters, y crafting completo de gear. El más completo y aplicado de los videos para principiantes que quieren aprender haciendo.",
+      "noteEn": "Hour-and-a-half step-by-step guide where Raxxanterax shows how to follow a PoB build guide from start to finish with the Ice Nova of Frostbolts build. Covers PoB interpretation, passives, ascendancy, lab, hideout, early crafting, mid-game, mana reservation, endgame mapping, Atlas tree, filter regex, and complete gear crafting. The most complete and applied of the beginner videos for learners who want to learn by doing."
+    },
+    {
+      "id": "bigducks-poe-league-start-guide-2025",
+      "type": "video",
+      "title": "FULL Guide on How to League Start in Path of Exile 1",
+      "creator": "Big Ducks",
+      "creatorId": "big-ducks",
+      "url": "https://www.youtube.com/watch?v=nEV9ufjNmZc",
+      "youtubeId": "nEV9ufjNmZc",
+      "language": "en",
+      "duration": "21:43",
+      "publishedDate": "2025-06-13",
+      "thumbnail": "https://i.ytimg.com/vi/nEV9ufjNmZc/maxresdefault.jpg",
+      "noteEs": "Guía completa de Big Ducks sobre cómo league start en PoE. Cubre selección de build, loot filter, navegación de la campaña, leveling de gemas, comprar y vender items, mapping de endgame, transición de build, y making currency. Excelente para entender el ciclo completo de empezar una league nueva.",
+      "noteEn": "Big Ducks' complete guide on how to league start in PoE. Covers build selection, loot filter, campaign navigation, gem leveling, buying and selling items, endgame mapping, build transition, and currency making. Excellent for understanding the complete cycle of starting a new league."
+    },
+    {
+      "id": "kroximatuz-9-tips-no-atascarte-poe-2024",
+      "type": "video",
+      "title": "9 Tips para no ATASCARTE en Path of Exile! | Guía de Novato a Experto",
+      "creator": "KroximatuZ",
+      "creatorId": "kroximatuz",
+      "url": "https://www.youtube.com/watch?v=w4H4OVvAmzI",
+      "youtubeId": "w4H4OVvAmzI",
+      "language": "es",
+      "duration": "25:58",
+      "publishedDate": "2024-10-26",
+      "thumbnail": "https://i.ytimg.com/vi/w4H4OVvAmzI/maxresdefault.jpg",
+      "noteEs": "KroximatuZ comparte 9 tips esenciales para principiantes que tienden a atascarse en PoE. Cubre misiones principales y secundarias, sockets y links, resistencias, lo que sucede en Act 5 y 10, importancia del Labyrinth, defensas de endgame, mejorar items fácilmente, uso correcto de flasks, y progresión del Atlas. La opción ideal para hispanohablantes que prefieren aprender en su idioma.",
+      "noteEn": "KroximatuZ shares 9 essential tips for beginners who tend to get stuck in PoE. Covers main and side missions, sockets and links, resistances, what happens in Act 5 and 10, the Labyrinth's importance, endgame defenses, easily improving items, correct flask usage, and Atlas progression. The ideal option for Spanish-speakers who prefer learning in their language."
+    }
+  ]
 }

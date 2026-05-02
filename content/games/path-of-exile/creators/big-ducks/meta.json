@@ -1,0 +1,57 @@
+{
+    "id": "big-ducks",
+    "name": "Big Ducks",
+    "country": "US",
+    "languages": ["en"],
+    "active": true,
+    "joinedYear": 2016,
+    "platforms": [
+      {
+        "type": "youtube",
+        "handle": "@BigDucks",
+        "url": "https://www.youtube.com/@BigDucks",
+        "channelId": "UC8XfFGnTEJH1CXjucYDA5ng",
+        "primary": true
+      },
+      {
+        "type": "twitch",
+        "handle": "bigducks",
+        "url": "https://www.twitch.tv/bigducks"
+      },
+      {
+        "type": "twitter",
+        "handle": "@Big_Ducks",
+        "url": "https://x.com/Big_Ducks"
+      },
+      {
+        "type": "patreon",
+        "handle": "bigducks",
+        "url": "https://www.patreon.com/bigducks"
+      }
+    ],
+    "specialties": [
+      "build-guides",
+      "currency-farming",
+      "league-mechanics",
+      "optimization"
+    ],
+    "games": ["path-of-exile"],
+    "contentTypes": ["videos", "live-streams"],
+    "audienceLevel": ["beginner", "intermediate", "advanced"],
+    "noteEs": "Creator estadounidense de Path of Exile activo desde 2016, con casi una década dedicado al juego. Reconocido por su contenido de currency farming, optimization, y guides accesibles tanto para principiantes como avanzados. Combina videos editados con streams diarios en Twitch, cubriendo desde league starts hasta estrategias avanzadas de farming. Su estilo directo y enfocado en eficiencia in-game lo hace particularmente popular entre jugadores que buscan maximizar su tiempo.",
+    "noteEn": "American Path of Exile creator active since 2016, with nearly a decade dedicated to the game. Known for content on currency farming, optimization, and guides accessible to both beginners and advanced players. Combines edited videos with daily Twitch streams, covering everything from league starts to advanced farming strategies. His direct style focused on in-game efficiency makes him particularly popular among players seeking to maximize their time.",
+    "highlightsEs": [
+      "Veterano del contenido de PoE, activo desde 2016",
+      "Especialista en currency farming y optimización de estrategias",
+      "Cobertura consistente de cada nueva league con guías de league start",
+      "Combina videos editados con streams diarios en Twitch"
+    ],
+    "highlightsEn": [
+      "PoE content veteran, active since 2016",
+      "Specialist in currency farming and strategy optimization",
+      "Consistent coverage of each new league with league start guides",
+      "Combines edited videos with daily Twitch streams"
+    ],
+    "avatar": "/images/creators/big-ducks-avatar.jpg",
+    "banner": "/images/creators/big-ducks-banner.jpg"
+  }

@@ -41,12 +41,14 @@ src/app/
 │       ├── tools/
 │       │   └── [tool]/
 │       │       └── page.tsx    ← Detalle de tool: header + quickTake + markdown + sidebar sticky con CTA y metadata ✅
-│       └── creators/
-│           └── [creator]/
-│               └── page.tsx    ← Detalle de creator: bio + highlights + canal + playlists con modal embed + sidebar ✅
+│       ├── creators/
+│       │   └── [creator]/
+│       │       └── page.tsx    ← Detalle de creator: bio + highlights + canal + playlists con modal embed + sidebar ✅
+│       └── resources/
+│           └── [category]/
+│               └── page.tsx    ← Resources por categoría: grid con thumbnail/type/duration, modal embed para videos ✅
 
 **Pendiente**:
-- `[game]/resources/[category]/page.tsx`: lista de recursos curados por categoría.
 - Sin páginas separadas de "lista de tools" o "lista de creators" — actualmente la página del juego ya las muestra todas.
 - Sin `/about` por ahora.
 
@@ -66,6 +68,7 @@ Decisión: con `next-intl` + `localePrefix: "always"`, no existe `src/app/layout
 - `<VideoCard>`: thumbnail YouTube con play overlay y fecha relativa. Acepta `onClick` (button → modal) o `href` (link → YouTube).
 - `<VideoPlayerModal>`: **Client**. Modal con iframe `youtube.com/embed/{id}?autoplay=1`, ESC/click-outside/X close, body scroll lock, link "Ver en YouTube".
 - `<PlaylistSection>`: **Client**. Heading + grid de VideoCards + maneja state del modal activo. Soporta subtitle (para disclaimers) y "Ver playlist completa →".
+- `<ResourceGrid>`: **Client**. Grid de resources mixtos (videos con modal embed, otros tipos con link externo). Pre-recibe `creatorIdsInCodex: string[]` desde el server para resolver links internos al creator cuando aplica.
 - `<MarkdownContent>`: renderiza body de markdown parseado con `marked` vía `dangerouslySetInnerHTML`. Estilos prose en `globals.css` (clase `.markdown-content`).
 
 **Pendientes**:

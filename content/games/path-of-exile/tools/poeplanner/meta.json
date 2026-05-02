@@ -16,15 +16,15 @@
     "essential": false,
     "difficulty": "beginner",
     "lastVerified": "2026-04-30",
-    "logo": "/games/path-of-exile/tools/poeplanner/logo.png",
+    "logo": "/images/tools/poeplanner-logo.png",
     "screenshots": [
       {
-        "url": "/games/path-of-exile/tools/poeplanner/screenshot-atlas.png",
+        "url": "/images/tools/poeplanner-screenshot-atlas.png",
         "captionEs": "Planificador de Atlas tree con nodos y allocations visualizados",
         "captionEn": "Atlas tree planner with nodes and allocations visualized"
       },
       {
-        "url": "/games/path-of-exile/tools/poeplanner/screenshot-passive.png",
+        "url": "/images/tools/poeplanner-screenshot-passive.png",
         "captionEs": "Planificador de árbol pasivo con búsqueda y filtros",
         "captionEn": "Passive tree planner with search and filters"
       }

@@ -16,15 +16,15 @@
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-04-30",
-  "logo": "/games/path-of-exile/tools/filterblade/logo.png",
+  "logo": "/images/tools/filterblade-logo.png",
   "screenshots": [
     {
-      "url": "/games/path-of-exile/tools/filterblade/screenshot-editor.png",
+      "url": "/images/tools/filterblade-screenshot-editor.png",
       "captionEs": "Editor visual mostrando cómo se verán los items en el juego",
       "captionEn": "Visual editor showing how items will appear in-game"
     },
     {
-      "url": "/games/path-of-exile/tools/filterblade/screenshot-customization.png",
+      "url": "/images/tools/filterblade-screenshot-customization.png",
       "captionEs": "Personalización de colores, sonidos y íconos por tipo de item",
       "captionEn": "Customization of colors, sounds and icons per item type"
     }

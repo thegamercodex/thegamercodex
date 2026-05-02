@@ -45,8 +45,8 @@
       "background": "#0d1424",
       "text": "#f0f0f5"
     },
-    "logo": "/games/genshin-impact/logo.png",
-    "heroImage": "/games/genshin-impact/hero.webp",
+    "logo": "/images/games/genshin-impact-logo.png",
+    "heroImage": "/images/games/genshin-impact-hero.webp",
     "toolCategories": [
       {
         "id": "character-builds",

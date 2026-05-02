@@ -16,15 +16,15 @@
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-04-30",
-  "logo": "/games/path-of-exile/tools/poe-ninja/logo.png",
+  "logo": "/images/tools/poe-ninja-logo.png",
   "screenshots": [
     {
-      "url": "/games/path-of-exile/tools/poe-ninja/screenshot-currency.png",
+      "url": "/images/tools/poe-ninja-screenshot-currency.png",
       "captionEs": "Vista de tasas de cambio entre currencies",
       "captionEn": "Currency exchange rates view"
     },
     {
-      "url": "/games/path-of-exile/tools/poe-ninja/screenshot-builds.png",
+      "url": "/images/tools/poe-ninja-screenshot-builds.png",
       "captionEs": "Explorador de builds de jugadores reales en la liga actual",
       "captionEn": "Browser of real player builds in the current league"
     }

@@ -240,11 +240,13 @@ export interface Resource {
   type: ResourceType;
   title: string;
   creator: string;
+  creatorId?: string | null;
   url: string;
   language: Locale;
   noteEs: string;
   noteEn: string;
   youtubeId?: string;
+  thumbnail?: string;
   duration?: string;
   publishedDate?: string;
   league?: string;

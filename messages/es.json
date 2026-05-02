@@ -88,5 +88,20 @@
     "beginner": "Principiante",
     "intermediate": "Intermedio",
     "advanced": "Avanzado"
+  },
+  "resources": {
+    "noResources": "Aún no hay recursos en esta categoría.",
+    "byCreator": "Por {creator}",
+    "openLink": "Abrir enlace",
+    "watchVideo": "Ver video",
+    "count": "{count, plural, =0 {sin recursos} one {# recurso} other {# recursos}}"
+  },
+  "resourceType": {
+    "video": "Video",
+    "article": "Artículo",
+    "guide": "Guía",
+    "stream": "Stream",
+    "podcast": "Podcast",
+    "infographic": "Infografía"
   }
 }

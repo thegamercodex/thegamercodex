@@ -81,9 +81,12 @@ thegamercodex/
 │   │           ├── tools/
 │   │           │   └── [tool]/
 │   │           │       └── page.tsx      ← Detalle de tool: header + quickTake + markdown + sidebar sticky
-│   │           └── creators/
-│   │               └── [creator]/
-│   │                   └── page.tsx      ← Detalle de creator: bio + highlights + canal + playlists + sidebar sticky
+│   │           ├── creators/
+│   │           │   └── [creator]/
+│   │           │       └── page.tsx      ← Detalle de creator: bio + highlights + canal + playlists + sidebar sticky
+│   │           └── resources/
+│   │               └── [category]/
+│   │                   └── page.tsx      ← Lista de resources por categoría con grid + modal embed para videos
 │   ├── i18n/
 │   │   ├── routing.ts                    ← defineRouting (locales, default, prefix)
 │   │   ├── request.ts                    ← getRequestConfig (carga messages/*.json)
@@ -101,6 +104,7 @@ thegamercodex/
 │   │   ├── VideoCard.tsx                 ← Thumbnail YouTube con play overlay; soporta onClick (modal) o href (link)
 │   │   ├── VideoPlayerModal.tsx          ← CLIENT. Modal con embed de YouTube (autoplay, ESC/click-outside/X close, body scroll lock)
 │   │   ├── PlaylistSection.tsx           ← CLIENT. Heading + grid de VideoCards; mantiene state del modal activo
+│   │   ├── ResourceGrid.tsx              ← CLIENT. Grid de resources (videos con modal, otros tipos con link externo)
 │   │   └── MarkdownContent.tsx           ← Renderiza markdown body parseado con marked
 │   ├── lib/
 │   │   ├── content.ts                    ← getGames, getGame, getTool(s), getCreator(s), getResources, getAllResources
@@ -111,17 +115,20 @@ thegamercodex/
 │   └── types/
 │       └── index.ts                      ← Game, Tool, Creator, Resource, Theme, badges/types/etc.
 ├── public/
-│   └── games/
-│       └── path-of-exile/
-│           ├── logo.png                  ← Logo del juego (overlay en banner + favicon de la pestaña)
-│           ├── hero.webp                 ← Banner del juego (preferir WebP/AVIF)
-│           ├── tools/
-│           │   └── [tool-id]/
-│           │       ├── logo.png
-│           │       └── screenshots/
-│           └── creators/
-│               └── [creator-id]/
-│                   └── avatar.jpg        ← Avatar (manual download desde YouTube; ver "Imágenes y assets")
+│   └── images/                           ← Assets visuales con estructura flat por tipo
+│       ├── games/
+│       │   ├── path-of-exile-logo.png    ← Logo del juego (overlay en banner + favicon)
+│       │   ├── path-of-exile-hero.webp   ← Banner del juego
+│       │   ├── genshin-impact-logo.png
+│       │   └── genshin-impact-hero.webp
+│       ├── creators/
+│       │   ├── zizaran-avatar.jpg        ← Avatar (descarga manual; ver `docs/RULES.md`)
+│       │   ├── kroximatuz-avatar.jpg
+│       │   └── big-ducks-avatar.jpg
+│       └── tools/
+│           ├── path-of-building-logo.png
+│           ├── path-of-building-screenshot-tree.png
+│           └── path-of-building-screenshot-calcs.png
 ├── messages/                             ← Strings traducidos de UI
 │   ├── es.json
 │   └── en.json
@@ -211,9 +218,15 @@ Mapeo `{ [gameId]: PlaylistRef[] }` para listar playlists del creator filtradas 
 
 Estructura: `{ "category": "id", "resources": [...] }`.
 
-Cada resource tiene: `id`, `type`, `title`, `creator`, `url`, `language`, `noteEs`, `noteEn`, más campos opcionales según tipo (`youtubeId`, `duration`, `publishedDate`, `league`, etc.).
+Cada resource tiene:
+- **Requeridos**: `id`, `type`, `title`, `creator`, `url`, `language`, `noteEs`, `noteEn`.
+- **Opcionales**: `creatorId` (string o `null` explícito si el creator no está en el codex), `thumbnail`, `youtubeId`, `duration`, `publishedDate`, `league`.
+
+Si `creatorId` está seteado y existe en `content/games/[game]/creators/[creatorId]/`, la UI linkea internamente al perfil del creator. Si es `null` o se omite, se muestra el `creator` como texto plano.
 
 Tipos de resource: `video`, `article`, `guide`, `stream`, `podcast`, `infographic`.
+
+Para videos de YouTube, `youtubeId` permite renderizar embed in-page (modal con autoplay) en lugar de mandar al usuario a YouTube. `thumbnail` permite override del thumbnail por defecto (`https://i.ytimg.com/vi/{id}/maxresdefault.jpg`).
 
 ## Funcionalidades Clave
 
@@ -277,6 +290,7 @@ Pasos 1-6 del roadmap de PROJECT.md completos. `next build` pasa con SSG + ISR (
 - ✅ Game page (paso 4): `GameHero` (banner con image cap 1500px + side gradient + mask fade para evitar pixelación en monitores ultrawide), tools agrupados por categoría, creators, resource categories con counts, markdown "About".
 - ✅ Tool detail (paso 5): breadcrumb, header con badges, quickTake callout, markdown analysis, screenshots gallery (filtrada por `existsSync`), sidebar sticky en desktop con CTA + metadata + related/alternatives.
 - ✅ Creator detail (paso 6): breadcrumb, header con avatar (`existsSync` fallback a inicial), bio note, highlights, sección de videos (canal primero + playlists del juego), modal con embed de YouTube (ESC/click-outside/X close, body scroll lock), sidebar con `PlatformLink`s + specialties + content types + audience.
+- ✅ Resources por categoría (`/[game]/resources/[category]`): breadcrumb, header con icon + nombre + count + descripción, grid de cards con thumbnail/duration/type/lang/relative date, modal embed para videos, link externo para otros tipos. Creator name linkea internamente cuando `creatorId` está en el codex.
 - ✅ Sistema de color multi-nivel (paleta marca + game theme override + highlight/semánticos universales). Ver "Sistema de Color".
 - ✅ Image optimization: AVIF/WebP fallback automático vía `next/image` + `next.config.ts`. `remotePatterns` para `**.ytimg.com`.
 - ✅ OG/Twitter metadata + favicon dinámico (logo del juego en pestaña cuando estás en su sección).
@@ -284,7 +298,6 @@ Pasos 1-6 del roadmap de PROJECT.md completos. `next build` pasa con SSG + ISR (
 - ✅ YouTube RSS integration: `getLatestVideos({channelId|playlistId}, limit)` con `fast-xml-parser`. Sin API key, sin quotas. ISR 6h.
 
 **Pendiente**:
-- ⏳ Página de resources por categoría (`[game]/resources/[category]/page.tsx`).
 - ⏳ Filtros y búsqueda (paso 7): client-side con Fuse.js sobre JSON estático.
 - ⏳ Modo oscuro toggle (paso 9): hoy es dark-default vía `prefers-color-scheme`, sin toggle manual.
 - ⏳ SEO completo (paso 10): sitemap, schema.org JSON-LD.

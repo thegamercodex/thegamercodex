@@ -16,15 +16,15 @@
     "essential": true,
     "difficulty": "beginner",
     "lastVerified": "2026-04-30",
-    "logo": "/games/path-of-exile/tools/maxroll/logo.png",
+    "logo": "/images/tools/maxroll-logo.png",
     "screenshots": [
       {
-        "url": "/games/path-of-exile/tools/maxroll/screenshot-build.png",
+        "url": "/images/tools/maxroll-screenshot-build.png",
         "captionEs": "Página de una build guide con árbol pasivo, gear y rotación",
         "captionEn": "Build guide page with passive tree, gear and rotation"
       },
       {
-        "url": "/games/path-of-exile/tools/maxroll/screenshot-tier-list.png",
+        "url": "/images/tools/maxroll-screenshot-tier-list.png",
         "captionEs": "Tier list de builds para la liga actual",
         "captionEn": "Tier list of builds for the current league"
       }

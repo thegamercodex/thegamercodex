@@ -30,6 +30,43 @@ Migración: si aplica, cómo migrar contenido existente al nuevo schema.
 
 ## Historial de cambios
 
+### 2026-05-01 - Refactor de paths de imágenes a estructura flat
+
+**Cambio**: paths de imágenes en `meta.json` migrados de estructura anidada por juego a estructura flat global por tipo de asset.
+
+**Antes**:
+- `/games/[game]/hero.webp`, `/games/[game]/logo.png`
+- `/games/[game]/creators/[creator]/avatar.jpg`
+- `/games/[game]/tools/[tool]/logo.png`
+- `/games/[game]/tools/[tool]/screenshots/[shot].png`
+
+**Después**:
+- `/images/games/[game-id]-hero.<ext>`, `/images/games/[game-id]-logo.<ext>`
+- `/images/creators/[creator-id]-avatar.<ext>`, `/images/creators/[creator-id]-banner.<ext>`
+- `/images/tools/[tool-id]-logo.<ext>`
+- `/images/tools/[tool-id]-<descriptor>.<ext>` (screenshots y otros)
+
+**Razón**: subir y encontrar assets era tedioso con paths anidados profundos. La estructura flat permite ver todos los assets de un tipo en una sola carpeta, con nombres autodescriptivos. Para tools multi-game como Maxroll, un solo `maxroll-logo.png` se reusa para todas las versiones (es el mismo logo).
+
+**Archivos afectados**:
+- Físicos: archivos en `public/games/...` movidos a `public/images/...` y la carpeta vieja eliminada.
+- Metadata: `meta.json` de games (`logo`, `heroImage`), creators (`avatar`, `banner`), tools (`logo`, `screenshots[].url`). Total: 14 archivos `meta.json` actualizados (2 games + 3 creators + 9 tools).
+- Documentación: `CLAUDE.md → "Estructura de Carpetas"` y `docs/RULES.md → "Imágenes y assets"` actualizados con la nueva convención.
+
+**Migración**: hecha en este commit. Asume que los `id` de game/creator/tool son únicos globalmente. Si hubiera colisión (mismo `id` en dos contextos diferentes), agregar prefijo de juego al asset name.
+
+### 2026-05-01 - Agregados campos creatorId y thumbnail al schema de Resource
+
+**Cambio**: agregados dos campos opcionales al schema de Resource (en `content/games/[game]/resources/[category].json`):
+- `creatorId: string | null` — id del creator en el codex si aplica. `null` explícito si el creator NO está en el codex (decisión editorial visible en el data).
+- `thumbnail: string` — URL del thumbnail. Para videos de YouTube se puede usar `https://i.ytimg.com/vi/{youtubeId}/maxresdefault.jpg` o el formato custom que devuelva el RSS feed.
+
+**Razón**: permitir cross-link interno desde resources hacia las páginas de creator (cuando el creator está documentado en el codex) y dar control sobre el thumbnail mostrado sin tener que parsear el feed o reconstruir la URL en runtime.
+
+**Archivos afectados**: `content/games/[game]/resources/[category].json` (todos los resources de tipo `video` típicamente; otros tipos pueden no tener thumbnail).
+
+**Migración**: no requerida. Campos opcionales. Resources existentes sin estos campos siguen renderizando — `creatorId` ausente se muestra como texto plano del campo `creator`, `thumbnail` ausente cae al patrón de YouTube (`i.ytimg.com/vi/{youtubeId}/hqdefault.jpg`).
+
 ### 2026-04-30 - Agregado campo multiGame al schema de Tool
 
 **Cambio**: agregado campo opcional `multiGame` al meta.json de tool. Estructura:

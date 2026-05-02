@@ -16,15 +16,15 @@
   "essential": false,
   "difficulty": "advanced",
   "lastVerified": "2026-04-30",
-  "logo": "/games/path-of-exile/tools/craft-of-exile/logo.png",
+  "logo": "/images/tools/craft-of-exile-logo.png",
   "screenshots": [
     {
-      "url": "/games/path-of-exile/tools/craft-of-exile/screenshot-emulator.png",
+      "url": "/images/tools/craft-of-exile-screenshot-emulator.png",
       "captionEs": "Emulador de crafteo mostrando probabilidades en tiempo real",
       "captionEn": "Crafting emulator showing real-time probabilities"
     },
     {
-      "url": "/games/path-of-exile/tools/craft-of-exile/screenshot-modpool.png",
+      "url": "/images/tools/craft-of-exile-screenshot-modpool.png",
       "captionEs": "Pool de modificadores filtrable por base de item y nivel",
       "captionEn": "Modifier pool filterable by item base and level"
     }
