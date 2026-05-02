@@ -32,6 +32,24 @@
     "system": "Sistema",
     "toggle": "Cambiar tema"
   },
+  "report": {
+    "brokenLink": "Reportar enlace caído",
+    "modalTitle": "Reportar enlace caído",
+    "modalDescription": "Si la herramienta dejó de funcionar o cambió de URL, avísanos. Revisamos cada reporte.",
+    "tool": "Herramienta",
+    "url": "URL actual",
+    "commentLabel": "Comentario (opcional)",
+    "commentPlaceholder": "Describe brevemente el problema (ej: el sitio devuelve 502 desde ayer)…",
+    "send": "Enviar reporte",
+    "sending": "Enviando…",
+    "cancel": "Cancelar",
+    "successTitle": "Reporte enviado",
+    "successMessage": "Gracias por avisarnos. Vamos a revisarlo pronto.",
+    "errorTitle": "No pudimos enviar el reporte",
+    "errorMessage": "Algo falló. Intenta de nuevo en un momento.",
+    "retry": "Intentar de nuevo",
+    "close": "Cerrar"
+  },
   "nav": {
     "games": "Juegos",
     "tools": "Herramientas",

@@ -27,7 +27,8 @@ Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas está
 ## Storage, APIs y arquitectura
 
 - **NO usar `localStorage` ni `sessionStorage`** en componentes server-rendered. El sitio es SSG, hay que ser cuidadoso con APIs de browser.
-- **NO crear API routes propias** sin razón clara. Por ahora todo es estático — servicios externos cubren funcionalidades.
+- **API routes**: usar cuando haya una razón concreta — proteger un secreto (token de bot, API key), validar input antes de reenviar a un tercero, u operar sobre input del usuario. **NO** las uses para hacer SSR de contenido que ya viene de archivos (eso es trabajo de SSG/ISR). Las routes deberían ser **stateless** (sin DB) mientras el contenido siga viviendo en archivos.
+- **Secretos**: variables de entorno **sin** prefijo `NEXT_PUBLIC_*` (server-only). Si lo prefijás con `NEXT_PUBLIC_*` queda en el bundle JS público. En duda, sin prefijo.
 - Donaciones futuras: Ko-fi link, sin backend.
 - Búsqueda: client-side con Fuse.js sobre JSON estático generado en build.
 - RSS de YouTube: build-time fetch + ISR de Next, sin API key.

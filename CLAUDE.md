@@ -255,14 +255,15 @@ Para videos de YouTube, `youtubeId` permite renderizar embed in-page (modal con 
 
 7. **SEO**: SSG completo, sitemap automático, metadata por página, schema.org markup.
 
-## Lo que NO necesita backend (importante)
+## Backend mínimo
 
-Por ahora **todo es estático**. No hay base de datos, no hay autenticación, no hay API routes propias. Servicios externos cubren funcionalidades:
+El contenido vive en archivos (SSG + ISR), no hay base de datos ni autenticación. API routes solo cuando hay razón concreta: proteger secretos (tokens de bots, API keys de terceros) o validar input antes de reenviar a un servicio externo. Mantener todo stateless mientras el contenido siga en archivos.
 
 - Donaciones (futuro): Ko-fi link, sin backend.
 - Analytics: Plausible o Vercel Analytics.
 - Búsqueda: client-side sobre JSON estático.
 - RSS de YouTube: build-time fetch, sin API key.
+- Reportes / contacto: API route que reenvía a webhook externo (Telegram, etc.) — el secreto vive en env var server-only.
 
 ## Roadmap
 

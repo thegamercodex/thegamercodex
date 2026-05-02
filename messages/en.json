@@ -32,6 +32,24 @@
     "system": "System",
     "toggle": "Toggle theme"
   },
+  "report": {
+    "brokenLink": "Report broken link",
+    "modalTitle": "Report broken link",
+    "modalDescription": "If the tool stopped working or moved to a new URL, let us know. We review every report.",
+    "tool": "Tool",
+    "url": "Current URL",
+    "commentLabel": "Comment (optional)",
+    "commentPlaceholder": "Briefly describe the issue (e.g., site returns 502 since yesterday)…",
+    "send": "Send report",
+    "sending": "Sending…",
+    "cancel": "Cancel",
+    "successTitle": "Report sent",
+    "successMessage": "Thanks for letting us know. We'll look into it soon.",
+    "errorTitle": "Couldn't send the report",
+    "errorMessage": "Something failed. Please try again in a moment.",
+    "retry": "Try again",
+    "close": "Close"
+  },
   "nav": {
     "games": "Games",
     "tools": "Tools",

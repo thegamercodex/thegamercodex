@@ -13,6 +13,7 @@ import {
   Star,
 } from "lucide-react";
 import { Link } from "@/i18n/navigation";
+import { BrokenLinkButton } from "@/components/BrokenLinkButton";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import {
   getGame,
@@ -448,6 +449,13 @@ export default async function ToolPage({ params }: PageParams) {
                 {t("viewSource")}
               </a>
             )}
+            <BrokenLinkButton
+              gameId={game.id}
+              toolId={tool.id}
+              toolName={tool.name}
+              toolUrl={tool.url}
+              locale={loc}
+            />
           </div>
 
           <dl className="mt-6 divide-y divide-border rounded-xl border border-border bg-muted/30 text-sm">
