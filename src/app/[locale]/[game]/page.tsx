@@ -14,6 +14,7 @@ import {
   getTools,
 } from "@/lib/content";
 import { categoryName } from "@/lib/categories";
+import { jsonLdScript, videoGameJsonLd } from "@/lib/jsonld";
 import type { Locale } from "@/types";
 
 interface PageParams {
@@ -31,6 +32,13 @@ export async function generateMetadata({
       title: `${game.name} — TheGamerCodex`,
       description: tagline,
       icons: game.logo ? { icon: game.logo } : undefined,
+      alternates: {
+        canonical: `/${locale}/${gameId}`,
+        languages: {
+          es: `/es/${gameId}`,
+          en: `/en/${gameId}`,
+        },
+      },
       openGraph: {
         title: game.name,
         description: tagline,
@@ -77,6 +85,12 @@ export default async function GamePage({ params }: PageParams) {
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: jsonLdScript(videoGameJsonLd(game, loc)),
+        }}
+      />
       <GameHero game={game} locale={loc} />
 
       <div className="mx-auto w-full max-w-6xl px-6">

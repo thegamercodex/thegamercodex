@@ -1,7 +1,26 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
+import type { Metadata } from "next";
 import { GameCard } from "@/components/GameCard";
 import { getGames } from "@/lib/content";
+import { jsonLdScript, websiteJsonLd } from "@/lib/jsonld";
 import type { Locale } from "@/types";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  return {
+    alternates: {
+      canonical: `/${locale}`,
+      languages: {
+        es: "/es",
+        en: "/en",
+      },
+    },
+  };
+}
 
 export default async function HomePage({
   params,
@@ -14,9 +33,14 @@ export default async function HomePage({
   const t = await getTranslations("home");
   const tCommon = await getTranslations("common");
   const games = await getGames();
+  const loc = locale as Locale;
 
   return (
     <main className="mx-auto w-full max-w-6xl flex-1 px-6 pb-24">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: jsonLdScript(websiteJsonLd(loc)) }}
+      />
       <section className="flex flex-col items-start gap-5 py-20 sm:py-28">
         <p className="text-xs font-semibold uppercase tracking-[0.25em] text-accent">
           {tCommon("siteName")}

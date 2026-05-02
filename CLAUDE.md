@@ -33,6 +33,7 @@ TheGamerCodex es un directorio web curado de herramientas y recursos para gamers
 - **YouTube RSS**: `fast-xml-parser` parsea feeds de canal y playlist. Sin API key, sin quotas. Cache build-time con `revalidate: 21600` (6h ISR).
 - **Theming claro/oscuro**: `next-themes` con `attribute="class"`, `defaultTheme="dark"`, `enableSystem`. Inyecta script anti-FOUC, persiste en localStorage. Las CSS vars cambian según `:root.dark` (default) vs `:root.light` en `globals.css`.
 - **Búsqueda client-side**: `fuse.js` para fuzzy search en `ToolsExplorer` (game page) y `ResourceGrid` (resources page). Sin index pre-build — se construye en cliente sobre los datos ya hidratados.
+- **SEO**: `sitemap.xml` y `robots.txt` dinámicos vía convenciones App Router (`src/app/sitemap.ts`, `src/app/robots.ts`). JSON-LD por página (`WebSite`, `VideoGame`, `SoftwareApplication`, `Person`, `CollectionPage`) generado en `src/lib/jsonld.ts`. `metadataBase` + `alternates.canonical` + `alternates.languages` (hreflang) en cada page. URL base via `NEXT_PUBLIC_SITE_URL` env var (default `https://thegamercodex.com`); ver `.env.example`.
 - **Hosting**: Vercel
 - **Repo**: GitHub (público), organización `thegamercodex`
 - **Node**: 22 LTS
@@ -74,6 +75,8 @@ thegamercodex/
 │   ├── app/
 │   │   ├── globals.css                   ← Tailwind v4 + tokens marca + prose styles
 │   │   ├── favicon.ico
+│   │   ├── sitemap.ts                    ← Sitemap dinámico con hreflang alternates
+│   │   ├── robots.ts                     ← robots.txt dinámico (allow all + sitemap link)
 │   │   └── [locale]/
 │   │       ├── layout.tsx                ← Root layout (html/body, Header, Footer, NextIntlClientProvider)
 │   │       ├── page.tsx                  ← Landing (hero + grid de juegos)
@@ -117,7 +120,9 @@ thegamercodex/
 │   │   ├── markdown.ts                   ← renderMarkdown (wrapper sobre marked)
 │   │   ├── categories.ts                 ← categoryName, categoryDescription, flagEmoji, humanize
 │   │   ├── format.ts                     ← relativeTime (Intl.RelativeTimeFormat), formatDate
-│   │   └── youtube.ts                    ← getLatestVideos({channelId|playlistId}, limit) — RSS feed parser
+│   │   ├── youtube.ts                    ← getLatestVideos({channelId|playlistId}, limit) — RSS feed parser
+│   │   ├── site.ts                       ← siteUrl(), absoluteUrl() — URL base con override por env var
+│   │   └── jsonld.ts                     ← Builders de schema.org JSON-LD por tipo de página
 │   └── types/
 │       └── index.ts                      ← Game, Tool, Creator, Resource, Theme, badges/types/etc.
 ├── public/
@@ -287,7 +292,7 @@ Los assets visuales (logos, screenshots, avatars) aún no están descargados. Us
 
 ## Estado Actual del Código
 
-Pasos 1-7 y 9 del roadmap de PROJECT.md completos. `next build` pasa con SSG + ISR (revalidate 6h en páginas de creator por el RSS de YouTube).
+Pasos 1-7, 9 y 10 del roadmap de PROJECT.md completos. `next build` pasa con SSG + ISR (revalidate 6h en páginas de creator por el RSS de YouTube).
 
 **Hecho**:
 - ✅ Setup base: `next-intl`, path alias `@/*`, tipos, `lib/content.ts`, `lib/markdown.ts`, `lib/categories.ts`, `lib/format.ts`, `lib/youtube.ts`.
@@ -304,9 +309,9 @@ Pasos 1-7 y 9 del roadmap de PROJECT.md completos. `next build` pasa con SSG + I
 - ✅ YouTube RSS integration: `getLatestVideos({channelId|playlistId}, limit)` con `fast-xml-parser`. Sin API key, sin quotas. ISR 6h.
 - ✅ Filtros y búsqueda (paso 7): `ToolsExplorer` (game page) con Fuse.js + chips de categoría/dificultad + toggles essential/free/openSource; `ResourceGrid` con search + filtros por type/language. Vista por defecto agrupada por categoría; cuando hay search/filtro activo cambia a grid plano con count.
 - ✅ Modo oscuro toggle (paso 9): `next-themes` con `attribute="class"` + `defaultTheme="dark"` + `enableSystem`. `ThemeToggle` en Header (Sun/Moon). Dos variantes en `globals.css`: `:root.dark` y `:root.light`. Game pages mantienen su tema inmersivo (override en `<div>` interior gana al `<html>`).
+- ✅ SEO completo (paso 10): `metadataBase` + `alternates.canonical/languages` (hreflang) en root layout y cada página. `sitemap.xml` y `robots.txt` dinámicos. JSON-LD por tipo (`WebSite` / `VideoGame` / `SoftwareApplication` / `Person` / `CollectionPage`) inyectado en cada page como `<script type="application/ld+json">`. URL base configurable via `NEXT_PUBLIC_SITE_URL`.
 
 **Pendiente**:
-- ⏳ SEO completo (paso 10): sitemap, schema.org JSON-LD.
 - ⏳ Deploy a Vercel (paso 11).
 - ⏳ Migración `middleware.ts` → `proxy.ts` cuando next-intl actualice docs (Next 16 lo deprecó).
 - ⏳ Segundo juego (Genshin Impact en proceso — ya tiene `meta.json` esqueleto).

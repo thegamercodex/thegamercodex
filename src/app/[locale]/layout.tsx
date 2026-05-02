@@ -7,6 +7,7 @@ import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { ThemeProvider } from "@/components/providers/ThemeProvider";
 import { routing } from "@/i18n/routing";
+import { siteUrl } from "@/lib/site";
 import "../globals.css";
 
 const geistSans = Geist({
@@ -32,7 +33,11 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: "common" });
 
   return {
-    title: t("siteName"),
+    metadataBase: new URL(siteUrl()),
+    title: {
+      default: t("siteName"),
+      template: `%s — ${t("siteName")}`,
+    },
     description: t("siteTagline"),
   };
 }

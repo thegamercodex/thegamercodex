@@ -76,6 +76,18 @@ Lucide quitó todos los icons de marca. Mapeo a alternativas genéricas:
 | Twitter / X | `AtSign` |
 | Fallback | `ExternalLink` |
 
+## SEO
+
+- **`metadataBase`** se setea solo una vez en `[locale]/layout.tsx` desde `siteUrl()`. **No** lo dupliques en pages individuales.
+- Cuando agregás un nuevo tipo de página (no solo un nuevo dato del mismo tipo):
+  1. Agregar entrada en `src/app/sitemap.ts` enumerando sus rutas.
+  2. Crear el builder de JSON-LD apropiado en `src/lib/jsonld.ts` (eligiendo el tipo schema.org más específico que aplique — ver [schema.org docs](https://schema.org/docs/full.html)).
+  3. Inyectar en la page como `<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdScript(...) }} />` lo antes posible en el JSX.
+  4. Agregar `alternates.canonical` + `alternates.languages` en `generateMetadata` con la ruta absoluta-relativa de cada locale.
+- **URLs en JSON-LD** siempre absolutas. Usar `absoluteUrl(path)` de `@/lib/site`, nunca strings relativas — Google los necesita absolutos.
+- **`NEXT_PUBLIC_SITE_URL`**: se setea en Vercel para staging/preview o subdomain temporal. Default code = dominio final (`https://thegamercodex.com`). No subir un `.env.local` con override pesado al repo (está en `.gitignore`).
+- Antes de hacer deploy productivo (que va a ser indexado), verificar que `siteUrl()` apunta al dominio correcto: el sitemap.xml lleva esas URLs y son lo que Google va a crawlear.
+
 ## Schema
 
 - **`createdBy`** es un objeto `{ name, url?, creatorId? }`, **NO un string**.

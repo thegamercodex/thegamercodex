@@ -16,6 +16,7 @@ import {
 } from "@/lib/content";
 import { flagEmoji, humanize } from "@/lib/categories";
 import { getLatestVideos } from "@/lib/youtube";
+import { jsonLdScript, personJsonLd } from "@/lib/jsonld";
 import type { Locale, PlaylistRef, YouTubeVideo } from "@/types";
 
 interface PageParams {
@@ -47,6 +48,13 @@ export async function generateMetadata({
     return {
       title: `${creator.name} — ${game.name} | TheGamerCodex`,
       description: note.slice(0, 160),
+      alternates: {
+        canonical: `/${locale}/${gameId}/creators/${creatorId}`,
+        languages: {
+          es: `/es/${gameId}/creators/${creatorId}`,
+          en: `/en/${gameId}/creators/${creatorId}`,
+        },
+      },
       openGraph: {
         title: `${creator.name} — ${game.name}`,
         description: note.slice(0, 200),
@@ -117,6 +125,12 @@ export default async function CreatorPage({ params }: PageParams) {
 
   return (
     <div className="mx-auto w-full max-w-6xl px-6 py-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: jsonLdScript(personJsonLd(creator, game, loc)),
+        }}
+      />
       <nav
         aria-label="Breadcrumb"
         className="mb-8 flex items-center gap-1.5 text-xs text-muted-foreground"

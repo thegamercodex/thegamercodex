@@ -23,6 +23,7 @@ import {
 } from "@/lib/content";
 import type { MultiGameRef } from "@/types";
 import { categoriesById, categoryName, humanize } from "@/lib/categories";
+import { jsonLdScript, softwareApplicationJsonLd } from "@/lib/jsonld";
 import type { Locale, Tool, ToolCategory } from "@/types";
 
 interface PageParams {
@@ -56,6 +57,13 @@ export async function generateMetadata({
       title: `${tool.name} — ${game.name} | TheGamerCodex`,
       description: tagline,
       icons: tool.logo ? { icon: tool.logo } : undefined,
+      alternates: {
+        canonical: `/${locale}/${gameId}/tools/${toolId}`,
+        languages: {
+          es: `/es/${gameId}/tools/${toolId}`,
+          en: `/en/${gameId}/tools/${toolId}`,
+        },
+      },
       openGraph: {
         title: `${tool.name} — ${game.name}`,
         description: tagline,
@@ -168,6 +176,12 @@ export default async function ToolPage({ params }: PageParams) {
 
   return (
     <div className="mx-auto w-full max-w-6xl px-6 py-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: jsonLdScript(softwareApplicationJsonLd(tool, game, loc)),
+        }}
+      />
       <nav
         aria-label="Breadcrumb"
         className="mb-8 flex items-center gap-1.5 text-xs text-muted-foreground"

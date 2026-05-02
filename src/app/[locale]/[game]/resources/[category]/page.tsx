@@ -11,6 +11,7 @@ import {
   getResources,
 } from "@/lib/content";
 import { categoriesById, categoryName, categoryDescription } from "@/lib/categories";
+import { collectionPageJsonLd, jsonLdScript } from "@/lib/jsonld";
 import type { Locale, ResourceCategory } from "@/types";
 
 interface PageParams {
@@ -41,6 +42,13 @@ export async function generateMetadata({
     return {
       title: `${categoryName(cat, loc)} — ${game.name} | TheGamerCodex`,
       description: categoryDescription(cat, loc),
+      alternates: {
+        canonical: `/${locale}/${gameId}/resources/${categoryId}`,
+        languages: {
+          es: `/es/${gameId}/resources/${categoryId}`,
+          en: `/en/${gameId}/resources/${categoryId}`,
+        },
+      },
     };
   } catch {
     return {};
@@ -74,6 +82,14 @@ export default async function ResourcesCategoryPage({ params }: PageParams) {
 
   return (
     <div className="mx-auto w-full max-w-6xl px-6 py-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: jsonLdScript(
+            collectionPageJsonLd(cat, resources, game, loc),
+          ),
+        }}
+      />
       <nav
         aria-label="Breadcrumb"
         className="mb-8 flex items-center gap-1.5 text-xs text-muted-foreground"
