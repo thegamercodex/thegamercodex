@@ -136,26 +136,20 @@ Tokens que NO se overridean (siguen marca incluso dentro de juegos):
 
 11. ⏳ **Deploy a Vercel**: conectar repo, configurar env vars, primer deploy productivo.
 
-## Notas Importantes
+## Notas de Implementación
 
-- **No usar localStorage o sessionStorage en componentes**: el sitio es SSG, hay que ser cuidadoso con APIs de browser.
+> **Para reglas operativas (qué hacer y qué NO hacer)** ver **`docs/RULES.md`**. Esta sección describe **cómo funcionan ciertas partes del código** — comportamiento técnico, no reglas. Para schema y rules de negocio ver `CLAUDE.md` y `docs/RULES.md`.
 
-- **Todos los textos de UI** (labels, botones, mensajes) van en `messages/es.json` y `messages/en.json`, no hardcodeados. Para plurales usar ICU (`{count, plural, one {# tool} other {# tools}}`).
+- **Fallbacks de imágenes (`existsSync`)**: las páginas (tool detail, creator detail, ToolCard, CreatorCard) chequean si un asset físico existe en `public/` antes de renderizar `next/image`. Si no existe, el componente cae a fallback (initial letter para avatares/logos, sección omitida para galleries de screenshots). Esto permite trabajar con metadatos completos sin tener todos los assets descargados.
 
-- **Los nombres propios** (de juegos, tools, creators) NO se traducen. "Path of Exile" se queda en ambos idiomas.
+- **Markdown body**: parseado con `marked` (no MDX). Frontmatter con `gray-matter`. El frontmatter expone campos opcionales como `quickTake` (tools) y `tagline`/`description` (game/tool) que se renderean en lugares específicos de la UI (callout en tool detail, hero del game, etc.).
 
-- **Las imágenes en `/public/games/`** pueden no existir todavía durante desarrollo. Las páginas usan `existsSync` para filtrar logos/screenshots faltantes y caer en fallbacks (initial letter, sección omitida). Sin imágenes rotas en pantalla.
+- **Campo `lastVerified`**: cada tool tiene la fecha de la última revisión humana. La UI lo muestra en la sidebar del detalle, formateado por locale via `Intl.DateTimeFormat`. Es un signal de credibilidad — indica que un humano vio la entry recientemente.
 
-- **Hero images del juego**: idealmente ≥1500px de ancho. El banner está capado a 1500px en pantalla con side gradient para evitar pixelación en monitores ultrawide. WebP/AVIF preferido — son notablemente más livianos que JPG.
+- **`gamePlaylists` rendering**: la página de creator hace fetch en paralelo del canal y todas las playlists del juego actual. Renderiza el canal primero (signal de actividad reciente del creator), después una sección por playlist. Si una playlist tiene `withDisclaimer: true`, se muestra subtitle de aviso. Ver schema en `CLAUDE.md → "Meta de Creator"`.
 
-- **Markdown body**: parseado con `marked` (no MDX). Frontmatter con `gray-matter`. Tools exponen un campo `quickTake` en frontmatter que se renderiza como callout destacado en el detalle.
+- **`multiGame` rendering**: el detalle del tool muestra una sección "También disponible para" con un bloque grande debajo del análisis y otra mini-list en el sidebar. Si el `gameId` está en el codex y la tool existe en sus tools, el link es interno (`<Link>`) con `ChevronRight`; sino es externo (`<a target="_blank">`) con `ArrowUpRight`. Ver schema en `CLAUDE.md → "Meta de Tool"`.
 
-- **El campo `lastVerified`** en cada tool indica cuándo fue revisada por última vez. UI lo muestra en la sidebar del detalle (formateado por locale via `Intl.DateTimeFormat`).
+- **`VideoPlayerModal` y body scroll lock**: cuando el modal está montado, bloquea `document.body.style.overflow = "hidden"` y lo restaura al desmontar. Cierra con ESC, click outside o botón X. Una sola instancia activa por sección de playlist (state local en `PlaylistSection`).
 
-- **`Github` icon de lucide-react** ya no existe (fue removido por temas de marca). Para referencias a repos GitHub usar `Code2` o un texto plano con `ExternalLink`. Tampoco hay íconos para Youtube/Twitch/Discord/etc — usar genéricos: `PlayCircle` para YouTube, `Tv` para Twitch/Kick, `MessagesSquare` para Discord, `Heart` para Patreon, `Music` para TikTok, `Camera` para Instagram, `AtSign` para Twitter/X.
-
-- **Avatares de creator (descarga manual)**: `public/games/[game]/creators/[creator-id]/avatar.jpg`. La carpeta es `creators/` (plural, igual que en `content/`). Cuando el roster crezca migraremos a YouTube Data API v3 con env var `YOUTUBE_API_KEY`.
-
-- **Playlists de YouTube por creator** (`gamePlaylists` en meta.json): mapping `{[gameId]: PlaylistRef[]}` donde `PlaylistRef = {id, name, withDisclaimer?}`. La página de creator siempre muestra el feed del canal primero (signal de actividad reciente), después una sección por cada playlist del juego actual. Ver schema completo en CLAUDE.md → "Meta de Creator".
-
-- **Modales y body scroll lock**: cuando un modal está abierto (ej. `VideoPlayerModal`), se bloquea `document.body.style.overflow = "hidden"` mientras está montado y se restaura al cerrar. Cierra con ESC, click fuera, o botón X.
+- **Game theme override**: `[game]/layout.tsx` usa `style={{...CSS vars}}` en un wrapper `<div>` para overridear los tokens de marca con los del juego (background, foreground, muted, accent + variantes derivadas por alpha). Componentes existentes usan los tokens estándar (`bg-background`, `text-muted-foreground`, etc.) y se "tematean" automáticamente al estar dentro del wrapper. Ver `CLAUDE.md → "Sistema de Color"`.

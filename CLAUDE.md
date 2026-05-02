@@ -2,13 +2,20 @@
 
 ## Importante para Claude Code
 
-Antes de empezar tareas, consulta las secciones relevantes de este documento:
+**Lectura obligatoria antes de cualquier cambio**:
 
-- **Tareas de diseño/frontend**: ver "Principios de Diseño y UX".
-- **Tareas de schema/contenido**: ver "Schema de Datos".
-- **Tareas de routing/arquitectura**: ver "Estructura de URLs Planeada" y "Estructura de Carpetas".
-- **Decisiones técnicas generales**: ver "Stack Técnico" y "Convenciones de Código".
-- **Estado actual del proyecto**: ver "Estado Actual del Contenido" y "Roadmap".
+1. **`docs/RULES.md`** — convenciones de código, reglas de schema, qué NO queremos en diseño, process rules (build, commit, push). Si vas a escribir código, leer primero.
+2. **`docs/SCHEMA_EVOLUTION.md`** — historial de cambios al schema de datos. Si vas a tocar algún `meta.json` o el TypeScript type, leer primero, y agregar entrada al final de la tarea.
+
+CLAUDE.md (este archivo) describe **qué es** el proyecto: arquitectura, stack, schema actual, estado y roadmap. Para cómo trabajar en él, ir a `docs/RULES.md`.
+
+Mapa rápido de secciones:
+
+- **Tareas de diseño/frontend**: ver "Principios de Diseño y UX" (acá) + "Diseño" en `docs/RULES.md`.
+- **Tareas de schema/contenido**: ver "Schema de Datos" (acá) + `docs/SCHEMA_EVOLUTION.md`.
+- **Tareas de routing/arquitectura**: ver "Estructura de URLs Planeada" y "Estructura de Carpetas" (acá).
+- **Decisiones técnicas generales**: ver "Stack Técnico" (acá) + "Código" en `docs/RULES.md`.
+- **Estado actual del proyecto**: ver "Estado Actual del Contenido" y "Estado Actual del Código" (acá).
 
 ## Qué es
 
@@ -136,11 +143,29 @@ El campo `theme` define colores específicos del juego (primary, secondary, acce
 
 ### Meta de Tool (`content/games/[game]/tools/[tool]/meta.json`)
 
-Campos principales: `id`, `name`, `shortName`, `taglineEs`, `taglineEn`, `url`, `category`, `type`, `official`, `free`, `openSource`, `github`, `license`, `platforms[]`, `languages[]`, `tags[]`, `essential`, `difficulty`, `lastVerified`, `logo`, `screenshots[]`, `videos[]`, `relatedTools[]`, `alternatives[]`, `createdBy`.
+Campos principales: `id`, `name`, `shortName`, `taglineEs`, `taglineEn`, `url`, `category`, `type`, `official`, `free`, `openSource`, `github`, `license`, `platforms[]`, `languages[]`, `tags[]`, `essential`, `difficulty`, `lastVerified`, `logo`, `screenshots[]`, `videos[]`, `relatedTools[]`, `alternatives[]`, `createdBy`, `multiGame`.
 
 Tipos de tool (`type`): `software`, `web-app`, `overlay`, `browser-extension`, `mobile-app`, `official-service`, `reference`.
 
 Niveles de dificultad: `beginner`, `intermediate`, `advanced`.
+
+**`createdBy`** (opcional): objeto `{ name: string, url?: string, creatorId?: string }` con el creador/equipo de la tool. Si `creatorId` apunta a un creator existente en `content/games/[game]/creators/[creatorId]/`, la UI puede linkear internamente al perfil del creator. Ejemplo: `{ "name": "Maxroll Team", "url": "https://maxroll.gg/about" }` o `{ "name": "KroximatuZ", "creatorId": "kroximatuz" }`.
+
+**`multiGame`** (opcional): indica que la tool cubre múltiples juegos. Estructura:
+
+```json
+"multiGame": {
+  "available": true,
+  "otherGames": [
+    { "gameId": "diablo-4", "url": "https://maxroll.gg/d4" },
+    { "gameId": "last-epoch", "url": "https://maxroll.gg/last-epoch" }
+  ]
+}
+```
+
+- Cuando `available: true`, `otherGames` lista los demás juegos donde la tool tiene presencia con sus URLs específicas.
+- Para tools exclusivas de un juego, se omite el campo o se define como `{ "available": false }`.
+- Ubicación en el meta.json: al final, después de `createdBy`.
 
 ### Markdown de Tool (`content/games/[game]/tools/[tool]/[locale].md`)
 
@@ -227,14 +252,7 @@ Por ahora **todo es estático**. No hay base de datos, no hay autenticación, no
 
 ## Convenciones de Código
 
-- TypeScript estricto.
-- Componentes funcionales con hooks.
-- Server Components por defecto, Client Components solo cuando sea necesario.
-- Naming: PascalCase para componentes, camelCase para funciones, kebab-case para archivos de contenido y rutas.
-- Imports absolutos con `@/*` → resuelve a `./src/*`. Ej: `@/lib/content`, `@/types`, `@/i18n/routing`, `@/i18n/navigation`.
-- Para navegación localizada usar `Link`/`redirect` de `@/i18n/navigation`, no de `next/link`.
-- `params` en App Router de Next 16 son `Promise<...>` — siempre `await params` antes de usar.
-- En páginas con i18n, llamar `setRequestLocale(locale)` al inicio para habilitar SSG con `next-intl`.
+Movido a **`docs/RULES.md` → "Código"**.
 
 ## Estado Actual del Contenido
 
@@ -242,7 +260,7 @@ Path of Exile tiene contenido inicial listo:
 
 - meta.json del juego ✅
 - es.md y en.md del juego ✅
-- 7 tools con meta.json + es.md + en.md: Path of Building, poe.ninja, awakened-poe-trade, FilterBlade, Craft of Exile, PoeLab, PoEDB ✅
+- 8 tools: Path of Building, poe.ninja, awakened-poe-trade, FilterBlade, Craft of Exile, PoeLab, PoEDB (con meta.json + es.md + en.md) y Maxroll (con meta.json — multi-game; cubre PoE + Diablo 4 + Last Epoch + D2R + Lost Ark) ✅
 - 2 creators con meta.json: Zizaran (inglés), KroximatuZ (español) ✅
 - 5 archivos resources/*.json (`beginner-guides`, `mechanics-per-league`, `build-guides`, `trading-guides`, `boss-guides`) con `{category, resources: []}` listos para llenar.
 
@@ -407,15 +425,7 @@ Esto preserva consistencia informativa: un usuario aprende a leer los estados (v
 
 ### Lo que NO queremos
 
-- ❌ Diseño tipo "AI corporate generic" (gradientes morados/azules genéricos, glassmorphism por todos lados, ilustraciones de Notion).
-
-- ❌ Demasiados emojis o elementos infantiles. Audiencia adulta y técnica.
-
-- ❌ Cards inconsistentes (cada componente con su estilo distinto).
-
-- ❌ Animaciones intrusivas (auto-play videos, parallax exagerado, popups).
-
-- ❌ Tipografías mixtas decorativas (Comic Sans, fuentes scripts, etc.).
+Movido a **`docs/RULES.md` → "Diseño — lo que NO queremos"**.
 
 ### Referencias para Consulta
 
@@ -426,3 +436,7 @@ Cuando haya duda sobre cómo manejar un componente o layout, consultar:
 - mobalytics.gg — herramientas de gaming bien diseñadas.
 
 - shadcn/ui (ui.shadcn.com) — patrones de componentes modernos sin ser genéricos.
+
+## Schema Evolution Notes
+
+Movido a **`docs/SCHEMA_EVOLUTION.md`**. Ese archivo contiene el historial de cambios al schema y las reglas para mantenerlo. Cuando hagas un cambio al schema (agregar/quitar/renombrar campos en algún `meta.json`), agregá entrada ahí siguiendo el formato.

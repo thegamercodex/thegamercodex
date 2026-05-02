@@ -137,6 +137,22 @@ export interface ToolVideo {
   noteEn: string;
 }
 
+export interface ToolCreator {
+  name: string;
+  url?: string;
+  creatorId?: string;
+}
+
+export interface MultiGameRef {
+  gameId: string;
+  url: string;
+}
+
+export interface MultiGameInfo {
+  available: boolean;
+  otherGames: MultiGameRef[];
+}
+
 export interface ToolMeta {
   id: string;
   name: string;
@@ -162,7 +178,8 @@ export interface ToolMeta {
   videos: ToolVideo[];
   relatedTools: string[];
   alternatives: string[];
-  createdBy?: string;
+  createdBy?: ToolCreator;
+  multiGame?: MultiGameInfo;
 }
 
 export interface Tool extends ToolMeta {

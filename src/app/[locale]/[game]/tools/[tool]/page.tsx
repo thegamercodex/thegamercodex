@@ -9,6 +9,7 @@ import {
   BadgeCheck,
   ChevronRight,
   Code2,
+  Layers,
   Star,
 } from "lucide-react";
 import { Link } from "@/i18n/navigation";
@@ -20,6 +21,7 @@ import {
   getToolIds,
   getTools,
 } from "@/lib/content";
+import type { MultiGameRef } from "@/types";
 import { categoriesById, categoryName, humanize } from "@/lib/categories";
 import type { Locale, Tool, ToolCategory } from "@/types";
 
@@ -118,6 +120,49 @@ export default async function ToolPage({ params }: PageParams) {
   const alternatives = tool.alternatives
     .map((id) => toolMap.get(id))
     .filter((tt): tt is Tool => Boolean(tt));
+
+  const hasMultiGame =
+    tool.multiGame?.available &&
+    (tool.multiGame.otherGames?.length ?? 0) > 0;
+
+  interface MultiGameLink {
+    ref: MultiGameRef;
+    displayName: string;
+    href: string;
+    isInternal: boolean;
+  }
+
+  let multiGameLinks: MultiGameLink[] = [];
+  if (hasMultiGame && tool.multiGame) {
+    const codexGameIds = new Set(await getGameIds());
+    const enriched = await Promise.all(
+      tool.multiGame.otherGames.map(async (ref) => {
+        const inCodex = codexGameIds.has(ref.gameId);
+        if (!inCodex) {
+          return {
+            ref,
+            displayName: humanize(ref.gameId),
+            href: ref.url,
+            isInternal: false,
+          };
+        }
+        const [otherGame, otherTools] = await Promise.all([
+          getGame(ref.gameId),
+          getToolIds(ref.gameId),
+        ]);
+        const hasToolInOtherGame = otherTools.includes(tool.id);
+        return {
+          ref,
+          displayName: otherGame.name,
+          href: hasToolInOtherGame
+            ? `/${ref.gameId}/tools/${tool.id}`
+            : ref.url,
+          isInternal: hasToolInOtherGame,
+        };
+      }),
+    );
+    multiGameLinks = enriched;
+  }
 
   const accentVar = "var(--game-accent)";
 
@@ -220,6 +265,12 @@ export default async function ToolPage({ params }: PageParams) {
               {t("official")}
             </span>
           )}
+          {hasMultiGame && (
+            <span className="inline-flex items-center gap-1 rounded-md border border-indigo-500/30 bg-indigo-500/10 px-2 py-0.5 font-medium text-indigo-400">
+              <Layers className="h-3 w-3" />
+              {t("multiGame")}
+            </span>
+          )}
           <span className="ml-auto rounded-md border border-border bg-muted/40 px-2 py-0.5 font-medium text-muted-foreground">
             {tDifficulty(tool.difficulty)}
           </span>
@@ -299,6 +350,62 @@ export default async function ToolPage({ params }: PageParams) {
                     </figure>
                   );
                 })}
+              </div>
+            </section>
+          )}
+
+          {hasMultiGame && (
+            <section className="mt-12 border-t border-border pt-10">
+              <div className="mb-5 flex items-center gap-2">
+                <Layers
+                  className="h-4 w-4 text-indigo-400"
+                  strokeWidth={2.25}
+                />
+                <h2 className="text-lg font-semibold tracking-tight">
+                  {t("alsoAvailableFor")}
+                </h2>
+              </div>
+              <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+                {multiGameLinks.map((link) =>
+                  link.isInternal ? (
+                    <Link
+                      key={link.ref.gameId}
+                      href={link.href}
+                      className="group flex items-center justify-between gap-3 rounded-lg border border-border bg-muted/40 p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-accent/60 hover:bg-muted/70"
+                    >
+                      <div className="min-w-0 flex-1">
+                        <p className="truncate text-sm font-semibold">
+                          {link.displayName}
+                        </p>
+                        <p className="mt-0.5 truncate text-xs text-muted-foreground">
+                          {loc === "es" ? "Ver en el codex" : "View in codex"}
+                        </p>
+                      </div>
+                      <ChevronRight className="h-4 w-4 shrink-0 text-muted-foreground transition-colors group-hover:text-foreground" />
+                    </Link>
+                  ) : (
+                    <a
+                      key={link.ref.gameId}
+                      href={link.href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="group flex items-center justify-between gap-3 rounded-lg border border-border bg-muted/40 p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-accent/60 hover:bg-muted/70"
+                    >
+                      <div className="min-w-0 flex-1">
+                        <p className="truncate text-sm font-semibold">
+                          {link.displayName}
+                        </p>
+                        <p
+                          className="mt-0.5 truncate text-xs text-muted-foreground"
+                          title={link.ref.url}
+                        >
+                          {link.ref.url.replace(/^https?:\/\//, "")}
+                        </p>
+                      </div>
+                      <ArrowUpRight className="h-4 w-4 shrink-0 text-muted-foreground transition-colors group-hover:text-foreground" />
+                    </a>
+                  ),
+                )}
               </div>
             </section>
           )}
@@ -408,6 +515,39 @@ export default async function ToolPage({ params }: PageParams) {
                     >
                       {rt.name}
                     </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {hasMultiGame && (
+            <div className="mt-6">
+              <p className="mb-2 text-[10px] font-semibold uppercase tracking-[0.25em] text-muted-foreground">
+                {t("alsoAvailableFor")}
+              </p>
+              <ul className="flex flex-col gap-1.5">
+                {multiGameLinks.map((link) => (
+                  <li key={link.ref.gameId}>
+                    {link.isInternal ? (
+                      <Link
+                        href={link.href}
+                        className="group flex items-center justify-between gap-2 rounded-md border border-border bg-muted/40 px-3 py-2 text-sm transition-colors hover:bg-muted"
+                      >
+                        <span className="truncate">{link.displayName}</span>
+                        <ChevronRight className="h-3.5 w-3.5 shrink-0 text-muted-foreground transition-colors group-hover:text-foreground" />
+                      </Link>
+                    ) : (
+                      <a
+                        href={link.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="group flex items-center justify-between gap-2 rounded-md border border-border bg-muted/40 px-3 py-2 text-sm transition-colors hover:bg-muted"
+                      >
+                        <span className="truncate">{link.displayName}</span>
+                        <ArrowUpRight className="h-3.5 w-3.5 shrink-0 text-muted-foreground transition-colors group-hover:text-foreground" />
+                      </a>
+                    )}
                   </li>
                 ))}
               </ul>

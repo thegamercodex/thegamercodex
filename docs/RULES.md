@@ -1,0 +1,99 @@
+# Reglas del proyecto
+
+Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas están agrupadas por categoría. CLAUDE.md describe **qué es** el proyecto, este archivo describe **cómo se trabaja en él**.
+
+## Código
+
+- TypeScript estricto. No hay `any` salvo en interop con APIs sin tipos.
+- Componentes funcionales con hooks.
+- **Server Components por defecto**. Marcar `"use client"` solo cuando sea necesario (state, effects, browser APIs, event handlers).
+- Naming:
+  - **PascalCase** para componentes (`GameCard.tsx`).
+  - **camelCase** para funciones y variables.
+  - **kebab-case** para archivos de contenido, rutas y carpetas (`path-of-exile/`, `craft-of-exile/`).
+- Imports absolutos con `@/*` → `./src/*`. Ej: `@/lib/content`, `@/types`, `@/i18n/routing`.
+- Para navegación localizada usar `Link`/`redirect` de `@/i18n/navigation`, **NO** `next/link` directo.
+- `params` en App Router de Next 16 son `Promise<...>` — siempre `await params` antes de usar.
+- En páginas con i18n, llamar `setRequestLocale(locale)` al inicio para habilitar SSG con `next-intl`.
+- No introducir abstracciones especulativas. Tres líneas similares es mejor que una abstracción prematura.
+
+## Contenido e i18n
+
+- **Todos los textos de UI** (labels, botones, mensajes) viven en `messages/es.json` y `messages/en.json`. **NO** hardcodear strings traducibles en componentes.
+- Para plurales usar ICU: `{count, plural, one {# tool} other {# tools}}`.
+- **Los nombres propios** (de juegos, tools, creators) **NO se traducen**. "Path of Exile" se queda en ambos idiomas. Lo mismo nombres de tools y handles.
+- Default locale es `es`. URL siempre incluye locale (`localePrefix: "always"`). No existe `src/app/layout.tsx` raíz — el root layout vive en `[locale]/layout.tsx`.
+
+## Storage, APIs y arquitectura
+
+- **NO usar `localStorage` ni `sessionStorage`** en componentes server-rendered. El sitio es SSG, hay que ser cuidadoso con APIs de browser.
+- **NO crear API routes propias** sin razón clara. Por ahora todo es estático — servicios externos cubren funcionalidades.
+- Donaciones futuras: Ko-fi link, sin backend.
+- Búsqueda: client-side con Fuse.js sobre JSON estático generado en build.
+- RSS de YouTube: build-time fetch + ISR de Next, sin API key.
+
+## Imágenes y assets
+
+- Hero del juego **≥1500px de ancho** (cap visual del banner). Imágenes más chicas se ven pixeladas en monitores ultrawide.
+- Formato preferido: `.webp` o `.avif`. JPG si no hay otra opción.
+- Logo del juego: **PNG con fondo transparente**.
+- **Carpeta de avatares de creator es `creators/` (plural)**, no `creator/`. Coincide con `content/games/[game]/creators/`.
+- Path en `meta.json`: `/games/[game]/creators/[creator-id]/avatar.jpg`.
+- Si un asset no existe, los componentes hacen fallback automático (initial letter, sección omitida). **NO añadir imágenes rotas** a producción.
+- `next.config.ts` tiene `images.remotePatterns` para `**.ytimg.com` (thumbnails de YouTube). Otros dominios externos requieren agregar pattern.
+
+## Lucide icons removidos
+
+Lucide quitó todos los icons de marca. Mapeo a alternativas genéricas:
+
+| Marca | Alternativa lucide |
+|---|---|
+| GitHub | `Code2` |
+| YouTube | `PlayCircle` |
+| Twitch / Kick | `Tv` |
+| Discord | `MessagesSquare` |
+| Patreon | `Heart` |
+| TikTok | `Music` |
+| Instagram | `Camera` |
+| Twitter / X | `AtSign` |
+| Fallback | `ExternalLink` |
+
+## Schema
+
+- **`createdBy`** es un objeto `{ name, url?, creatorId? }`, **NO un string**.
+- **`multiGame`** es opcional. Cuando se omite, la tool es mono-juego. NO usar `{ available: false }` — directamente omitir el campo.
+- **`gamePlaylists`** se define solo en la plataforma YouTube marcada `primary: true` del creator.
+- **`PlaylistRef`** acepta `withDisclaimer?: boolean` para playlists que mezclan contenido de varios juegos.
+- Cuando agregás/quitás/renombrás un campo en algún `meta.json`:
+  1. Sincronizar el TypeScript type en `src/types/index.ts`.
+  2. Actualizar la doc descriptiva en `CLAUDE.md → "Schema de Datos"`.
+  3. **Agregar entrada en `docs/SCHEMA_EVOLUTION.md`** con fecha, cambio, razón, archivos afectados, migración.
+
+## Diseño — lo que NO queremos
+
+- ❌ "AI corporate generic" (gradientes morados/azules genéricos, glassmorphism por todos lados, ilustraciones de Notion).
+- ❌ Demasiados emojis o elementos infantiles. Audiencia adulta y técnica.
+- ❌ Cards inconsistentes (cada componente con su estilo distinto).
+- ❌ Animaciones intrusivas (auto-play videos, parallax exagerado, popups).
+- ❌ Tipografías mixtas decorativas (Comic Sans, fuentes scripts, etc.).
+- ❌ Hex hardcodeado en componentes: usar tokens (`bg-background`, `text-accent`, `border-border-strong`, etc.). Ver `CLAUDE.md → "Sistema de Color"` para la lista completa.
+- ❌ `<a href="...">` para navegación interna localizada. Usar `<Link>` de `@/i18n/navigation`.
+
+## Diseño — preferencias
+
+- Modo oscuro por default (vía `prefers-color-scheme`).
+- Animaciones sutiles **150-200ms**. Nada largo.
+- Una sola familia tipográfica (Geist por ahora).
+- Hover effects con `accent` del contexto: chrome cyan en landing/header/footer, accent del juego dentro de su sección (heredado vía override en `[game]/layout.tsx`).
+- **`--highlight`** (amarillo gold) es siempre marca y va en endorsements editoriales (estrella ⭐ "essential"), no se usa para theming por juego.
+- Semánticos universales (`--success`, `--warning`, `--danger`, `--info`) son los mismos para PoE que para Genshin: el verde "Free" es el mismo verde en cualquier juego.
+
+## Process
+
+- Antes de declarar un cambio "listo", **correr `npx next build`** y verificar que pasa sin errores.
+- Para cambios UI/frontend, también verificar visualmente (curl al dev server o refresh en browser). Si no se puede testear visualmente, decirlo explícitamente.
+- **NO hacer commit/push automáticamente**. Pedir confirmación al usuario antes de cada commit/push.
+- Mensajes de commit: imperativos cortos en el subject; body explicando WHY (no WHAT — el diff dice el WHAT).
+- No usar emojis ni decoraciones en mensajes de commit, PRs, ni código.
+- En `git add`, listar archivos específicos. **NO usar `git add .` ni `git add -A`** — pueden incluir secrets o binarios sin querer.
+- Cuando termines un cambio al schema, recordar al usuario actualizar `docs/SCHEMA_EVOLUTION.md` si se olvidó.

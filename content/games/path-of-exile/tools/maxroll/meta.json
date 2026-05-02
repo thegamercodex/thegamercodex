@@ -35,5 +35,26 @@
     "createdBy": {
       "name": "Maxroll Team",
       "url": "https://maxroll.gg/about"
+    },
+    "multiGame": {
+      "available": true,
+      "otherGames": [
+        {
+          "gameId": "diablo-4",
+          "url": "https://maxroll.gg/d4"
+        },
+        {
+          "gameId": "last-epoch",
+          "url": "https://maxroll.gg/last-epoch"
+        },
+        {
+          "gameId": "diablo-2-resurrected",
+          "url": "https://maxroll.gg/d2"
+        },
+        {
+          "gameId": "lost-ark",
+          "url": "https://maxroll.gg/lost-ark"
+        }
+      ]
     }
   }
