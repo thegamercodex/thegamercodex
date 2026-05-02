@@ -31,6 +31,8 @@ TheGamerCodex es un directorio web curado de herramientas y recursos para gamers
 - **Íconos**: `lucide-react`. Brand icons (`Github`, `Youtube`, `Twitch`, `Discord`, etc.) ya **no se exportan** — usar genéricos: `Code2` para repos, `PlayCircle` para YouTube, `Tv` para Twitch/Kick, `MessagesSquare` para Discord, `Heart` para Patreon, `Music` para TikTok, `Camera` para Instagram, `AtSign` para Twitter/X, `ExternalLink` como fallback.
 - **Imágenes**: `next/image` con `images.formats: ["image/avif", "image/webp"]` en `next.config.ts` (el optimizer sirve AVIF a browsers que lo soportan, fallback a WebP, fallback a JPG). `images.remotePatterns` permite `**.ytimg.com` para thumbnails de YouTube.
 - **YouTube RSS**: `fast-xml-parser` parsea feeds de canal y playlist. Sin API key, sin quotas. Cache build-time con `revalidate: 21600` (6h ISR).
+- **Theming claro/oscuro**: `next-themes` con `attribute="class"`, `defaultTheme="dark"`, `enableSystem`. Inyecta script anti-FOUC, persiste en localStorage. Las CSS vars cambian según `:root.dark` (default) vs `:root.light` en `globals.css`.
+- **Búsqueda client-side**: `fuse.js` para fuzzy search en `ToolsExplorer` (game page) y `ResourceGrid` (resources page). Sin index pre-build — se construye en cliente sobre los datos ya hidratados.
 - **Hosting**: Vercel
 - **Repo**: GitHub (público), organización `thegamercodex`
 - **Node**: 22 LTS
@@ -93,18 +95,22 @@ thegamercodex/
 │   │   └── navigation.ts                 ← Link, redirect, usePathname, useRouter localizados
 │   ├── middleware.ts                     ← createMiddleware(routing) de next-intl
 │   ├── components/
-│   │   ├── Header.tsx                    ← Sticky navbar + LanguageSwitcher (chrome marca)
+│   │   ├── Header.tsx                    ← Sticky navbar + ThemeToggle + LanguageSwitcher (chrome marca)
 │   │   ├── Footer.tsx                    ← (chrome marca)
 │   │   ├── LanguageSwitcher.tsx          ← Toggle ES|EN, client component
+│   │   ├── ThemeToggle.tsx               ← CLIENT. Toggle Sun/Moon vía next-themes; persiste en localStorage
+│   │   ├── providers/
+│   │   │   └── ThemeProvider.tsx         ← CLIENT. Wrapper sobre next-themes ThemeProvider
 │   │   ├── GameCard.tsx                  ← Card para landing (thumbnail hero + logo overlay)
 │   │   ├── GameHero.tsx                  ← Banner del game page (image cap 1500px, side gradient, mask fade)
 │   │   ├── ToolCard.tsx                  ← Card de tool con badges
+│   │   ├── ToolsExplorer.tsx             ← CLIENT. Search (Fuse.js) + chips de categoría/dificultad + toggles essential/free/openSource. Vista agrupada por categoría → flat grid cuando hay filtro activo
 │   │   ├── CreatorCard.tsx               ← Card de creator con avatar (existsSync) + flag emoji
 │   │   ├── PlatformLink.tsx              ← Link a plataforma con icon mapeado por tipo (YouTube/Twitch/Discord/etc.)
 │   │   ├── VideoCard.tsx                 ← Thumbnail YouTube con play overlay; soporta onClick (modal) o href (link)
 │   │   ├── VideoPlayerModal.tsx          ← CLIENT. Modal con embed de YouTube (autoplay, ESC/click-outside/X close, body scroll lock)
 │   │   ├── PlaylistSection.tsx           ← CLIENT. Heading + grid de VideoCards; mantiene state del modal activo
-│   │   ├── ResourceGrid.tsx              ← CLIENT. Grid de resources (videos con modal, otros tipos con link externo)
+│   │   ├── ResourceGrid.tsx              ← CLIENT. Search (Fuse.js) + filtros type/language + grid de resources (videos con modal, otros tipos con link externo)
 │   │   └── MarkdownContent.tsx           ← Renderiza markdown body parseado con marked
 │   ├── lib/
 │   │   ├── content.ts                    ← getGames, getGame, getTool(s), getCreator(s), getResources, getAllResources
@@ -281,7 +287,7 @@ Los assets visuales (logos, screenshots, avatars) aún no están descargados. Us
 
 ## Estado Actual del Código
 
-Pasos 1-6 del roadmap de PROJECT.md completos. `next build` pasa con SSG + ISR (revalidate 6h en páginas de creator por el RSS de YouTube).
+Pasos 1-7 y 9 del roadmap de PROJECT.md completos. `next build` pasa con SSG + ISR (revalidate 6h en páginas de creator por el RSS de YouTube).
 
 **Hecho**:
 - ✅ Setup base: `next-intl`, path alias `@/*`, tipos, `lib/content.ts`, `lib/markdown.ts`, `lib/categories.ts`, `lib/format.ts`, `lib/youtube.ts`.
@@ -296,10 +302,10 @@ Pasos 1-6 del roadmap de PROJECT.md completos. `next build` pasa con SSG + ISR (
 - ✅ OG/Twitter metadata + favicon dinámico (logo del juego en pestaña cuando estás en su sección).
 - ✅ Existence checks (`existsSync`) para logos/screenshots/avatares: si el asset no existe, se renderiza fallback (initial letter) o se omite la sección.
 - ✅ YouTube RSS integration: `getLatestVideos({channelId|playlistId}, limit)` con `fast-xml-parser`. Sin API key, sin quotas. ISR 6h.
+- ✅ Filtros y búsqueda (paso 7): `ToolsExplorer` (game page) con Fuse.js + chips de categoría/dificultad + toggles essential/free/openSource; `ResourceGrid` con search + filtros por type/language. Vista por defecto agrupada por categoría; cuando hay search/filtro activo cambia a grid plano con count.
+- ✅ Modo oscuro toggle (paso 9): `next-themes` con `attribute="class"` + `defaultTheme="dark"` + `enableSystem`. `ThemeToggle` en Header (Sun/Moon). Dos variantes en `globals.css`: `:root.dark` y `:root.light`. Game pages mantienen su tema inmersivo (override en `<div>` interior gana al `<html>`).
 
 **Pendiente**:
-- ⏳ Filtros y búsqueda (paso 7): client-side con Fuse.js sobre JSON estático.
-- ⏳ Modo oscuro toggle (paso 9): hoy es dark-default vía `prefers-color-scheme`, sin toggle manual.
 - ⏳ SEO completo (paso 10): sitemap, schema.org JSON-LD.
 - ⏳ Deploy a Vercel (paso 11).
 - ⏳ Migración `middleware.ts` → `proxy.ts` cuando next-intl actualice docs (Next 16 lo deprecó).
@@ -372,7 +378,9 @@ Dos sistemas de color conviven y deben mantenerse en armonía cuando se agreguen
 
 ### 1. Paleta de marca (TheGamerCodex)
 
-Vive en `:root` de `src/app/globals.css`. Aplica en Header, Footer, landing y cualquier componente fuera de una sección de juego. Es **fija** — no cambia entre juegos.
+Vive en `:root` (= `:root.dark`) de `src/app/globals.css`. Aplica en Header, Footer, landing y cualquier componente fuera de una sección de juego.
+
+La marca tiene **dos variantes**: oscura (default) y clara. Vive en `:root.dark` y `:root.light`. `next-themes` toggle (Header) intercambia la clase en `<html>` y persiste preferencia. **Solo el chrome marca responde al toggle** — las páginas de juego mantienen su paleta inmersiva (siempre dark) porque el wrapper del juego override los tokens en un `<div>` interior, vence al `<html>` por especificidad.
 
 | Familia | Tokens | Uso |
 |---|---|---|

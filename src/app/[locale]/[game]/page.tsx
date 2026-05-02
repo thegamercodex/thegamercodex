@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 import { Link } from "@/i18n/navigation";
 import { ArrowRight } from "lucide-react";
 import { GameHero } from "@/components/GameHero";
-import { ToolCard } from "@/components/ToolCard";
+import { ToolsExplorer } from "@/components/ToolsExplorer";
 import { CreatorCard } from "@/components/CreatorCard";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import {
@@ -13,8 +13,8 @@ import {
   getGame,
   getTools,
 } from "@/lib/content";
-import { categoriesById, categoryName } from "@/lib/categories";
-import type { Locale, Tool, ToolCategory } from "@/types";
+import { categoryName } from "@/lib/categories";
+import type { Locale } from "@/types";
 
 interface PageParams {
   params: Promise<{ locale: string; game: string }>;
@@ -51,22 +51,6 @@ export async function generateMetadata({
   }
 }
 
-function groupToolsByCategory(
-  tools: Tool[],
-  categories: ToolCategory[],
-): { category: ToolCategory; tools: Tool[] }[] {
-  const map = categoriesById(categories);
-  const groups = new Map<string, Tool[]>();
-  for (const tool of tools) {
-    const list = groups.get(tool.category) ?? [];
-    list.push(tool);
-    groups.set(tool.category, list);
-  }
-  return categories
-    .filter((c) => groups.has(c.id))
-    .map((c) => ({ category: map.get(c.id)!, tools: groups.get(c.id) ?? [] }));
-}
-
 export default async function GamePage({ params }: PageParams) {
   const { locale, game: gameId } = await params;
   setRequestLocale(locale);
@@ -87,7 +71,6 @@ export default async function GamePage({ params }: PageParams) {
   const t = await getTranslations("game");
   const tCommon = await getTranslations("common");
   const description = loc === "es" ? game.descriptionEs : game.descriptionEn;
-  const groupedTools = groupToolsByCategory(tools, game.toolCategories);
   const resourceMap = new Map(
     resourceCollections.map((r) => [r.category, r.resources.length]),
   );
@@ -107,34 +90,12 @@ export default async function GamePage({ params }: PageParams) {
                 {tools.length}
               </span>
             </div>
-            <div className="space-y-10">
-              {groupedTools.map(({ category, tools: catTools }) => (
-                <div key={category.id}>
-                  <div className="mb-3 flex items-baseline gap-2">
-                    {category.icon && (
-                      <span aria-hidden>{category.icon}</span>
-                    )}
-                    <h3 className="text-base font-semibold">
-                      {categoryName(category, loc)}
-                    </h3>
-                    <span className="text-xs text-muted-foreground">
-                      {catTools.length}
-                    </span>
-                  </div>
-                  <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
-                    {catTools.map((tool) => (
-                      <ToolCard
-                        key={tool.id}
-                        gameId={game.id}
-                        tool={tool}
-                        category={category}
-                        locale={loc}
-                      />
-                    ))}
-                  </div>
-                </div>
-              ))}
-            </div>
+            <ToolsExplorer
+              gameId={game.id}
+              tools={tools}
+              categories={game.toolCategories}
+              locale={loc}
+            />
           </section>
         )}
 

@@ -2,6 +2,7 @@ import { getTranslations } from "next-intl/server";
 import { BookOpenText } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { LanguageSwitcher } from "./LanguageSwitcher";
+import { ThemeToggle } from "./ThemeToggle";
 
 export async function Header() {
   const t = await getTranslations("common");
@@ -24,7 +25,10 @@ export async function Header() {
           <span className="sr-only">{t("siteName")}</span>
         </Link>
 
-        <LanguageSwitcher />
+        <div className="flex items-center gap-2">
+          <ThemeToggle />
+          <LanguageSwitcher />
+        </div>
       </div>
     </header>
   );
