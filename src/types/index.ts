@@ -172,13 +172,19 @@ export interface Tool extends ToolMeta {
   contentEn: string;
 }
 
+export interface PlaylistRef {
+  id: string;
+  name: string;
+  withDisclaimer?: boolean;
+}
+
 export interface CreatorPlatform {
   type: CreatorPlatformType;
   handle?: string;
   url: string;
   channelId?: string;
   primary?: boolean;
-  label?: string;
+  gamePlaylists?: Record<string, PlaylistRef[]>;
 }
 
 export interface CreatorMeta {

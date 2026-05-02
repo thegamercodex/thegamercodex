@@ -21,8 +21,9 @@ TheGamerCodex es un directorio web curado de herramientas y recursos para gamers
 - **Estilos**: Tailwind CSS v4 (configurado vía `@tailwindcss/postcss`, sin `tailwind.config.*` — los tokens viven en `src/app/globals.css` con `@theme inline`)
 - **Contenido**: Markdown + JSON. Parser: `gray-matter` para frontmatter, `marked` para render del body a HTML
 - **i18n**: `next-intl` con locales `es` (default) y `en`, `localePrefix: "always"`
-- **Íconos**: `lucide-react` (nota: `Github` icon ya no se exporta — usar `Code2` u otra alternativa para refs a repos)
-- **Imágenes**: `next/image` con `images.formats: ["image/avif", "image/webp"]` en `next.config.ts` (el optimizer sirve AVIF a browsers que lo soportan, fallback a WebP, fallback a JPG)
+- **Íconos**: `lucide-react`. Brand icons (`Github`, `Youtube`, `Twitch`, `Discord`, etc.) ya **no se exportan** — usar genéricos: `Code2` para repos, `PlayCircle` para YouTube, `Tv` para Twitch/Kick, `MessagesSquare` para Discord, `Heart` para Patreon, `Music` para TikTok, `Camera` para Instagram, `AtSign` para Twitter/X, `ExternalLink` como fallback.
+- **Imágenes**: `next/image` con `images.formats: ["image/avif", "image/webp"]` en `next.config.ts` (el optimizer sirve AVIF a browsers que lo soportan, fallback a WebP, fallback a JPG). `images.remotePatterns` permite `**.ytimg.com` para thumbnails de YouTube.
+- **YouTube RSS**: `fast-xml-parser` parsea feeds de canal y playlist. Sin API key, sin quotas. Cache build-time con `revalidate: 21600` (6h ISR).
 - **Hosting**: Vercel
 - **Repo**: GitHub (público), organización `thegamercodex`
 - **Node**: 22 LTS
@@ -70,9 +71,12 @@ thegamercodex/
 │   │       └── [game]/
 │   │           ├── layout.tsx            ← Override de tokens marca → tokens del game theme
 │   │           ├── page.tsx              ← Hero del juego + tools agrupados + creators + resources + markdown about
-│   │           └── tools/
-│   │               └── [tool]/
-│   │                   └── page.tsx      ← Detalle de tool: header + quickTake + markdown + sidebar sticky
+│   │           ├── tools/
+│   │           │   └── [tool]/
+│   │           │       └── page.tsx      ← Detalle de tool: header + quickTake + markdown + sidebar sticky
+│   │           └── creators/
+│   │               └── [creator]/
+│   │                   └── page.tsx      ← Detalle de creator: bio + highlights + canal + playlists + sidebar sticky
 │   ├── i18n/
 │   │   ├── routing.ts                    ← defineRouting (locales, default, prefix)
 │   │   ├── request.ts                    ← getRequestConfig (carga messages/*.json)
@@ -85,12 +89,18 @@ thegamercodex/
 │   │   ├── GameCard.tsx                  ← Card para landing (thumbnail hero + logo overlay)
 │   │   ├── GameHero.tsx                  ← Banner del game page (image cap 1500px, side gradient, mask fade)
 │   │   ├── ToolCard.tsx                  ← Card de tool con badges
-│   │   ├── CreatorCard.tsx               ← Card de creator con flag emoji
+│   │   ├── CreatorCard.tsx               ← Card de creator con avatar (existsSync) + flag emoji
+│   │   ├── PlatformLink.tsx              ← Link a plataforma con icon mapeado por tipo (YouTube/Twitch/Discord/etc.)
+│   │   ├── VideoCard.tsx                 ← Thumbnail YouTube con play overlay; soporta onClick (modal) o href (link)
+│   │   ├── VideoPlayerModal.tsx          ← CLIENT. Modal con embed de YouTube (autoplay, ESC/click-outside/X close, body scroll lock)
+│   │   ├── PlaylistSection.tsx           ← CLIENT. Heading + grid de VideoCards; mantiene state del modal activo
 │   │   └── MarkdownContent.tsx           ← Renderiza markdown body parseado con marked
 │   ├── lib/
 │   │   ├── content.ts                    ← getGames, getGame, getTool(s), getCreator(s), getResources, getAllResources
 │   │   ├── markdown.ts                   ← renderMarkdown (wrapper sobre marked)
-│   │   └── categories.ts                 ← categoryName, categoryDescription, flagEmoji, humanize
+│   │   ├── categories.ts                 ← categoryName, categoryDescription, flagEmoji, humanize
+│   │   ├── format.ts                     ← relativeTime (Intl.RelativeTimeFormat), formatDate
+│   │   └── youtube.ts                    ← getLatestVideos({channelId|playlistId}, limit) — RSS feed parser
 │   └── types/
 │       └── index.ts                      ← Game, Tool, Creator, Resource, Theme, badges/types/etc.
 ├── public/
@@ -98,10 +108,13 @@ thegamercodex/
 │       └── path-of-exile/
 │           ├── logo.png                  ← Logo del juego (overlay en banner + favicon de la pestaña)
 │           ├── hero.webp                 ← Banner del juego (preferir WebP/AVIF)
-│           └── tools/
-│               └── [tool-id]/
-│                   ├── logo.png
-│                   └── screenshots/
+│           ├── tools/
+│           │   └── [tool-id]/
+│           │       ├── logo.png
+│           │       └── screenshots/
+│           └── creators/
+│               └── [creator-id]/
+│                   └── avatar.jpg        ← Avatar (manual download desde YouTube; ver "Imágenes y assets")
 ├── messages/                             ← Strings traducidos de UI
 │   ├── es.json
 │   └── en.json
@@ -140,11 +153,34 @@ Body: análisis completo en markdown (h2 principales, párrafos largos). Renderi
 
 ### Meta de Creator (`content/games/[game]/creators/[creator]/meta.json`)
 
-Campos principales: `id`, `name`, `country`, `languages[]`, `active`, `joinedYear`, `platforms[]`, `specialties[]`, `games[]`, `contentTypes[]`, `audienceLevel[]`, `noteEs`, `noteEn`, `highlightsEs[]`, `highlightsEn[]`, `avatar`, `banner`.
+Campos principales: `id`, `name`, `realName?`, `country`, `languages[]`, `active`, `joinedYear`, `platforms[]`, `specialties[]`, `games[]`, `contentTypes[]`, `audienceLevel[]`, `noteEs`, `noteEn`, `highlightsEs[]`, `highlightsEn[]`, `avatar`, `banner`.
+
+Cada `platform` tiene: `type`, `url`, `handle?`, `channelId?` (YouTube), `primary?`, `gamePlaylists?`.
 
 Tipos de plataforma: `youtube`, `twitch`, `kick`, `twitter`, `discord`, `patreon`, `tiktok`, `instagram`.
 
-El `channelId` de YouTube es crítico para la integración con RSS feeds que trae los últimos videos automáticamente.
+El `channelId` de YouTube es crítico para traer los últimos videos vía RSS automáticamente.
+
+#### `gamePlaylists` (opcional, solo en plataforma YouTube primary)
+
+Mapeo `{ [gameId]: PlaylistRef[] }` para listar playlists del creator filtradas por juego. Cada `PlaylistRef`:
+
+```json
+{
+  "id": "PL_bRMGT8zY2...",
+  "name": "De novato a experto",
+  "withDisclaimer": true   // opcional, default false
+}
+```
+
+- `id`: el `playlist_id` de YouTube (lo sacás del URL: `youtube.com/playlist?list=PLxxx`).
+- `name`: cómo se muestra como heading de la sub-sección. No traducible — es el nombre que el creator le puso.
+- `withDisclaimer`: si `true`, muestra subtitle "*esta playlist puede incluir contenido de otros juegos relacionados*" (útil para playlists tipo "Builds" que mezclan PoE 1 y PoE 2).
+
+**Comportamiento de la página de creator**:
+- Trae siempre **primero** los últimos 6 del canal (signal de actividad reciente; con disclaimer "puede incluir otros juegos").
+- Después renderiza una sección por cada playlist en `gamePlaylists[currentGameId]`, con link "Ver playlist completa →" a YouTube.
+- Si la creator no tiene `gamePlaylists` para el juego actual, solo se muestra el feed del canal.
 
 ### Resources (`content/games/[game]/resources/[category].json`)
 
@@ -214,28 +250,29 @@ Los assets visuales (logos, screenshots, avatars) aún no están descargados. Us
 
 ## Estado Actual del Código
 
-Pasos 1-5 del roadmap de PROJECT.md completos. `next build` pasa, 19 páginas SSG (4 de chrome × 2 locales + game page × 2 + tool detail × 14).
+Pasos 1-6 del roadmap de PROJECT.md completos. `next build` pasa con SSG + ISR (revalidate 6h en páginas de creator por el RSS de YouTube).
 
 **Hecho**:
-- ✅ Setup base: `next-intl`, path alias `@/*`, tipos, `lib/content.ts`, `lib/markdown.ts`, `lib/categories.ts`.
+- ✅ Setup base: `next-intl`, path alias `@/*`, tipos, `lib/content.ts`, `lib/markdown.ts`, `lib/categories.ts`, `lib/format.ts`, `lib/youtube.ts`.
 - ✅ Chrome (paso 2): `Header` (sticky con backdrop-blur), `Footer`, `LanguageSwitcher` (client component, mantiene la ruta al cambiar locale).
 - ✅ Landing (paso 3): hero + grid de `GameCard` con thumbnail de hero image y logo overlay.
 - ✅ Game page (paso 4): `GameHero` (banner con image cap 1500px + side gradient + mask fade para evitar pixelación en monitores ultrawide), tools agrupados por categoría, creators, resource categories con counts, markdown "About".
 - ✅ Tool detail (paso 5): breadcrumb, header con badges, quickTake callout, markdown analysis, screenshots gallery (filtrada por `existsSync`), sidebar sticky en desktop con CTA + metadata + related/alternatives.
+- ✅ Creator detail (paso 6): breadcrumb, header con avatar (`existsSync` fallback a inicial), bio note, highlights, sección de videos (canal primero + playlists del juego), modal con embed de YouTube (ESC/click-outside/X close, body scroll lock), sidebar con `PlatformLink`s + specialties + content types + audience.
 - ✅ Sistema de color multi-nivel (paleta marca + game theme override + highlight/semánticos universales). Ver "Sistema de Color".
-- ✅ Image optimization: AVIF/WebP fallback automático vía `next/image` + `next.config.ts`.
+- ✅ Image optimization: AVIF/WebP fallback automático vía `next/image` + `next.config.ts`. `remotePatterns` para `**.ytimg.com`.
 - ✅ OG/Twitter metadata + favicon dinámico (logo del juego en pestaña cuando estás en su sección).
-- ✅ Existence checks (`existsSync`) para logos/screenshots: si el asset no existe, se renderiza fallback (initial letter) o se omite la sección.
+- ✅ Existence checks (`existsSync`) para logos/screenshots/avatares: si el asset no existe, se renderiza fallback (initial letter) o se omite la sección.
+- ✅ YouTube RSS integration: `getLatestVideos({channelId|playlistId}, limit)` con `fast-xml-parser`. Sin API key, sin quotas. ISR 6h.
 
 **Pendiente**:
-- ⏳ Página de creator (paso 6): bio + últimos videos vía RSS de YouTube + links a plataformas.
 - ⏳ Página de resources por categoría (`[game]/resources/[category]/page.tsx`).
 - ⏳ Filtros y búsqueda (paso 7): client-side con Fuse.js sobre JSON estático.
 - ⏳ Modo oscuro toggle (paso 9): hoy es dark-default vía `prefers-color-scheme`, sin toggle manual.
 - ⏳ SEO completo (paso 10): sitemap, schema.org JSON-LD.
 - ⏳ Deploy a Vercel (paso 11).
-- ⏳ `lib/youtube.ts` (RSS fetch) + `scripts/fetch-creator-videos.ts` (build-time prefetch).
 - ⏳ Migración `middleware.ts` → `proxy.ts` cuando next-intl actualice docs (Next 16 lo deprecó).
+- ⏳ Segundo juego (Genshin Impact en proceso — ya tiene `meta.json` esqueleto).
 
 ## Principios de Diseño y UX
 
@@ -272,11 +309,15 @@ Pasos 1-5 del roadmap de PROJECT.md completos. `next build` pasa, 19 páginas SS
 
 - **Sidebars sticky**: en páginas de tool, el sidebar con metadata y CTA usa `lg:sticky lg:top-20 lg:self-start` para que el botón "Ir a la herramienta" siempre esté visible mientras se lee el análisis. En mobile el sidebar pasa a ser un bloque al final, con un CTA secundario al inicio del contenido.
 
+- **Reproducción de videos**: click en cualquier `VideoCard` abre un modal (`VideoPlayerModal`) con embed `youtube.com/embed/{id}?autoplay=1`. El modal tiene close (X), ESC, click-outside, body scroll lock, y link "Ver en YouTube" abajo del player. Mantiene al usuario en el sitio pero no oculta la opción de irse a YouTube. El `PlaylistSection` es client component y holds el state del modal activo (uno por sección, no global).
+
 ### Imágenes y assets
 
 - **Hero image del juego**: idealmente ≥1500px de ancho (cap del banner). El optimizer de Next escala adaptativamente; sources más grandes evitan blur en monitores ultrawide. Formato preferido: `.webp` (o `.avif`).
 - **Logo del juego**: PNG con fondo transparente. Se usa como overlay flotante en el banner Y como favicon de la pestaña cuando estás en una página del juego.
 - **Logos de tools / avatares de creators**: si el archivo no existe, los componentes hacen fallback a la inicial del nombre con color accent. No es necesario tener todos los assets durante desarrollo.
+- **Avatar de creator (descarga manual)**: bajar de YouTube/Twitch (right-click → guardar imagen) y guardar en `public/games/[game]/creators/[creator-id]/avatar.jpg`. **OJO con la pluralización**: la carpeta es `creators/` (plural) — no `creator/`. El path en `meta.json` debe matchear: `"avatar": "/games/[game]/creators/[creator-id]/avatar.jpg"`. Cuando el roster crezca a 20+ podemos migrar a YouTube Data API.
+- **Thumbnails de videos YouTube**: vienen del CDN `**.ytimg.com` (varios subdomains: `i.`, `i1.`, `i2.`, etc. para load balancing). El `remotePatterns` del config los acepta todos.
 
 ### Responsive
 

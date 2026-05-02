@@ -11,14 +11,14 @@
       "handle": "@KroximatuZ",
       "url": "https://www.youtube.com/@KroximatuZ",
       "channelId": "UCMw6ArgxuMj1eikyN9UTsSw",
-      "primary": true
-    },
-    {
-      "type": "youtube",
-      "handle": "@Kroxi-Chan",
-      "url": "https://www.youtube.com/@Kroxi-Chan",
-      "channelId": "VERIFICAR",
-      "label": "Canal secundario"
+      "primary": true,
+      "gamePlaylists": {
+        "path-of-exile": [
+          { "id": "PL_bRMGT8zY2WGwM9lDMQ0byXBNuMLVsz5", "name": "De novato a experto" },
+          { "id": "PL_bRMGT8zY2XYbeY0XBmerLZPSwcKyaAT", "name": "Fundamentales de PoE" },
+          { "id": "PL_bRMGT8zY2Uxq7Bd8SbXzee1IugNDLqo", "name": "Builds", "withDisclaimer": true }
+        ]
+      }
     },
     {
       "type": "twitch",

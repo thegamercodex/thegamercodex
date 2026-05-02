@@ -38,12 +38,14 @@ src/app/
 │   └── [game]/
 │       ├── layout.tsx          ← Override de tokens marca → tokens del game theme (5 colores → 13 CSS vars derivadas) ✅
 │       ├── page.tsx            ← Página del juego: hero + tools agrupados por categoría + creators + resources + markdown about ✅
-│       └── tools/
-│           └── [tool]/
-│               └── page.tsx    ← Detalle de tool: header + quickTake + markdown + sidebar sticky con CTA y metadata ✅
+│       ├── tools/
+│       │   └── [tool]/
+│       │       └── page.tsx    ← Detalle de tool: header + quickTake + markdown + sidebar sticky con CTA y metadata ✅
+│       └── creators/
+│           └── [creator]/
+│               └── page.tsx    ← Detalle de creator: bio + highlights + canal + playlists con modal embed + sidebar ✅
 
 **Pendiente**:
-- `[game]/creators/[creator]/page.tsx`: bio + últimos videos vía RSS + plataformas.
 - `[game]/resources/[category]/page.tsx`: lista de recursos curados por categoría.
 - Sin páginas separadas de "lista de tools" o "lista de creators" — actualmente la página del juego ya las muestra todas.
 - Sin `/about` por ahora.
@@ -53,17 +55,20 @@ Decisión: con `next-intl` + `localePrefix: "always"`, no existe `src/app/layout
 ### Componentes Clave
 
 **Existentes** (`src/components/`):
-- `<Header>`: sticky navbar con backdrop-blur + wordmark "TheGamer**Codex**" + `<LanguageSwitcher>`. Server component.
-- `<Footer>`: copyright + tagline + GitHub link. Server component.
-- `<LanguageSwitcher>`: toggle ES|EN. **Client component** — usa `useRouter`/`usePathname` de `@/i18n/navigation` para cambiar locale manteniendo la ruta.
+- `<Header>`: sticky navbar con backdrop-blur + wordmark "TheGamer**Codex**" + `<LanguageSwitcher>`. Server.
+- `<Footer>`: copyright + tagline + GitHub link. Server.
+- `<LanguageSwitcher>`: toggle ES|EN. **Client** — usa `useRouter`/`usePathname` de `@/i18n/navigation` para cambiar locale manteniendo la ruta.
 - `<GameCard>`: card del landing — thumbnail con hero image + logo overlay + nombre + tagline + genres.
 - `<GameHero>`: banner del game page — image cap a 1500px con side gradient + mask fade + content overlay (logo card + eyebrow + h1 + tagline).
 - `<ToolCard>`: card de tool en game page — initial letter fallback, badges de free/openSource/essential/official, difficulty pill.
-- `<CreatorCard>`: card de creator — initial avatar + flag emoji + languages + primary platform + note truncada.
+- `<CreatorCard>`: card de creator — avatar (next/image con `existsSync` fallback a inicial) + flag emoji + languages + primary platform + note truncada.
+- `<PlatformLink>`: link a plataforma con icon mapeado por tipo (PlayCircle/Tv/MessagesSquare/Heart/Music/Camera/AtSign/ExternalLink) + handle.
+- `<VideoCard>`: thumbnail YouTube con play overlay y fecha relativa. Acepta `onClick` (button → modal) o `href` (link → YouTube).
+- `<VideoPlayerModal>`: **Client**. Modal con iframe `youtube.com/embed/{id}?autoplay=1`, ESC/click-outside/X close, body scroll lock, link "Ver en YouTube".
+- `<PlaylistSection>`: **Client**. Heading + grid de VideoCards + maneja state del modal activo. Soporta subtitle (para disclaimers) y "Ver playlist completa →".
 - `<MarkdownContent>`: renderiza body de markdown parseado con `marked` vía `dangerouslySetInnerHTML`. Estilos prose en `globals.css` (clase `.markdown-content`).
 
 **Pendientes**:
-- `<VideoCard>`: card de un video YouTube con thumbnail + opciones de embed/abrir en YouTube.
 - `<CategoryFilter>`: filtros por categoría/tag/dificultad.
 - `<SearchBar>`: búsqueda con Fuse.js sobre JSON estático.
 
@@ -75,6 +80,8 @@ Decisión: con `next-intl` + `localePrefix: "always"`, no existe `src/app/layout
 - `content.ts`: lee filesystem y devuelve datos tipados. `getGames()`, `getGame(id)`, `getGameIds()`, `getTools(gameId)`, `getTool(gameId, toolId)`, `getToolIds(gameId)`, `getCreators(gameId)`, `getCreator(gameId, creatorId)`, `getCreatorIds(gameId)`, `getResources(gameId, category)`, `getAllResources(gameId)`. Combina `meta.json` + frontmatter del markdown + body del markdown en el tipo correspondiente.
 - `markdown.ts`: `renderMarkdown(source)` — wrapper sobre `marked` con configuración GFM.
 - `categories.ts`: helpers — `categoryName(cat, locale)`, `categoryDescription(cat, locale)`, `categoriesById(arr)`, `flagEmoji(countryCode)` (UK→GB), `humanize(slug)`.
+- `format.ts`: `relativeTime(iso, locale)` (Intl.RelativeTimeFormat — "hace 3 días" / "3 days ago"), `formatDate(iso, locale)`.
+- `youtube.ts`: `getLatestVideos(source, limit)` donde `source` es `{channelId}` o `{playlistId}`. Fetchea el RSS público de YouTube (`/feeds/videos.xml`), parsea con `fast-xml-parser`, devuelve `YouTubeVideo[]`. Sin API key. `revalidate: 21600` (6h ISR). Tolera errores devolviendo `[]`.
 
 **Configuración i18n**: NO está en `lib/`. Vive en `src/i18n/` (next-intl convention):
 - `routing.ts`: `defineRouting` (locales, default, prefix).
@@ -83,20 +90,15 @@ Decisión: con `next-intl` + `localePrefix: "always"`, no existe `src/app/layout
 
 **Tipos**: `src/types/index.ts` (no `lib/types.ts`).
 
-**Pendiente**:
-- `lib/youtube.ts`: `getLatestVideos(channelId, limit)` parsing del RSS feed de YouTube.
-
 ## Build Process
 
 1. `next build` corre Turbopack y genera todas las páginas estáticas leyendo de `content/`.
 
-2. **Image optimization**: `next.config.ts` tiene `images.formats: ["image/avif", "image/webp"]`. El optimizer sirve AVIF a browsers que lo soportan, fallback a WebP, fallback al formato source. Sources WebP/AVIF en repo son ideales para evitar reencoding.
+2. **Image optimization**: `next.config.ts` tiene `images.formats: ["image/avif", "image/webp"]`. El optimizer sirve AVIF a browsers que lo soportan, fallback a WebP, fallback al formato source. Sources WebP/AVIF en repo son ideales para evitar reencoding. `remotePatterns` permite `**.ytimg.com/vi/**` para thumbnails de YouTube.
 
-3. **Pendiente**: `prebuild` script que fetchee videos de YouTube de todos los creators y guarde en `content/cache/creator-videos.json` (cuando se implemente paso 6).
+3. **YouTube RSS via ISR**: las páginas de creator usan `fetch(url, { next: { revalidate: 21600 } })` directamente desde `lib/youtube.ts`. Next.js cachea el resultado por build y revalida cada 6h sin redeploy. NO hace falta script `prebuild` ni cache file separado — el cache nativo de Next maneja todo.
 
-4. **Pendiente**: Revalidation a 6 horas en páginas con datos de YouTube (cuando se implemente).
-
-5. **Pendiente**: Vercel deploy automático en cada push a `main` (cuando se conecte el repo en paso 11).
+4. **Pendiente**: Vercel deploy automático en cada push a `main` (cuando se conecte el repo en paso 11).
 
 ## Theming Dinámico
 
@@ -122,7 +124,7 @@ Tokens que NO se overridean (siguen marca incluso dentro de juegos):
 
 5. ✅ **Página de tool**: análisis completo + sidebar con metadata + CTA de "Ir a la herramienta".
 
-6. ⏳ **Página de creator**: bio + últimos videos (RSS) + links a plataformas.
+6. ✅ **Página de creator**: bio + highlights + sección de últimos videos del canal + secciones por playlist (con disclaimers configurables) + modal con embed + sidebar con `PlatformLink`s.
 
 7. ⏳ **Filtros y búsqueda**: client-side sobre JSON.
 
@@ -150,4 +152,10 @@ Tokens que NO se overridean (siguen marca incluso dentro de juegos):
 
 - **El campo `lastVerified`** en cada tool indica cuándo fue revisada por última vez. UI lo muestra en la sidebar del detalle (formateado por locale via `Intl.DateTimeFormat`).
 
-- **`Github` icon de lucide-react** ya no existe (fue removido por temas de marca). Para referencias a repos GitHub usar `Code2` o un texto plano con `ExternalLink`.
+- **`Github` icon de lucide-react** ya no existe (fue removido por temas de marca). Para referencias a repos GitHub usar `Code2` o un texto plano con `ExternalLink`. Tampoco hay íconos para Youtube/Twitch/Discord/etc — usar genéricos: `PlayCircle` para YouTube, `Tv` para Twitch/Kick, `MessagesSquare` para Discord, `Heart` para Patreon, `Music` para TikTok, `Camera` para Instagram, `AtSign` para Twitter/X.
+
+- **Avatares de creator (descarga manual)**: `public/games/[game]/creators/[creator-id]/avatar.jpg`. La carpeta es `creators/` (plural, igual que en `content/`). Cuando el roster crezca migraremos a YouTube Data API v3 con env var `YOUTUBE_API_KEY`.
+
+- **Playlists de YouTube por creator** (`gamePlaylists` en meta.json): mapping `{[gameId]: PlaylistRef[]}` donde `PlaylistRef = {id, name, withDisclaimer?}`. La página de creator siempre muestra el feed del canal primero (signal de actividad reciente), después una sección por cada playlist del juego actual. Ver schema completo en CLAUDE.md → "Meta de Creator".
+
+- **Modales y body scroll lock**: cuando un modal está abierto (ej. `VideoPlayerModal`), se bloquea `document.body.style.overflow = "hidden"` mientras está montado y se restaura al cerrar. Cierra con ESC, click fuera, o botón X.

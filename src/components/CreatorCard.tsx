@@ -1,3 +1,6 @@
+import { existsSync } from "node:fs";
+import path from "node:path";
+import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { flagEmoji } from "@/lib/categories";
@@ -16,6 +19,9 @@ export function CreatorCard({ gameId, creator, locale }: CreatorCardProps) {
   const primary =
     creator.platforms.find((p) => p.primary) ?? creator.platforms[0];
   const initial = creator.name.charAt(0).toUpperCase();
+  const hasAvatar =
+    Boolean(creator.avatar) &&
+    existsSync(path.join(process.cwd(), "public", creator.avatar));
 
   return (
     <Link
@@ -24,10 +30,20 @@ export function CreatorCard({ gameId, creator, locale }: CreatorCardProps) {
     >
       <div className="flex items-start gap-3">
         <div
-          className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full border border-border bg-background text-base font-semibold"
+          className="flex h-12 w-12 shrink-0 items-center justify-center overflow-hidden rounded-full border border-border bg-background text-base font-semibold"
           style={{ color: "var(--game-accent, var(--color-accent))" }}
         >
-          {initial}
+          {hasAvatar ? (
+            <Image
+              src={creator.avatar}
+              alt={`${creator.name} avatar`}
+              width={48}
+              height={48}
+              className="h-full w-full object-cover"
+            />
+          ) : (
+            initial
+          )}
         </div>
         <div className="min-w-0 flex-1">
           <div className="flex items-center gap-2">

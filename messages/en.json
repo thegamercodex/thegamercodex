@@ -11,6 +11,7 @@
     "games": "Games",
     "tools": "Tools",
     "creators": "Creators",
+    "creatorsList": "Creators",
     "resources": "Resources",
     "about": "About",
     "switchLanguage": "Switch language"
@@ -68,7 +69,18 @@
     "platforms": "Platforms",
     "specialties": "Specialties",
     "latestVideos": "Latest videos",
-    "watchOnYouTube": "Watch on YouTube"
+    "watchOnYouTube": "Watch on YouTube",
+    "highlights": "Highlights",
+    "languages": "Languages",
+    "joinedYear": "Active since",
+    "audienceLevel": "Audience",
+    "contentTypes": "Content types",
+    "noVideos": "Could not load latest videos.",
+    "videosFromChannelDisclaimer": "Latest videos from the channel — may include content from other games.",
+    "playlistMixedContent": "This playlist may include content from other related games.",
+    "viewAllPlaylist": "View full playlist",
+    "channelFeedFallback": "Latest videos from channel",
+    "closeVideo": "Close"
   },
   "difficulty": {
     "beginner": "Beginner",

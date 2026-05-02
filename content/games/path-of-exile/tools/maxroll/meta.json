@@ -1,0 +1,39 @@
+{
+    "id": "maxroll",
+    "name": "Maxroll",
+    "shortName": "Maxroll",
+    "taglineEs": "Hub de build guides profesionales escritas por jugadores top",
+    "taglineEn": "Hub of professional build guides written by top players",
+    "url": "https://maxroll.gg/poe",
+    "category": "reference",
+    "type": "web-app",
+    "official": false,
+    "free": true,
+    "openSource": false,
+    "platforms": ["web"],
+    "languages": ["en"],
+    "tags": ["build-guides", "endgame-strategies", "leveling", "essential", "editorial"],
+    "essential": true,
+    "difficulty": "beginner",
+    "lastVerified": "2026-04-30",
+    "logo": "/games/path-of-exile/tools/maxroll/logo.png",
+    "screenshots": [
+      {
+        "url": "/games/path-of-exile/tools/maxroll/screenshot-build.png",
+        "captionEs": "Página de una build guide con árbol pasivo, gear y rotación",
+        "captionEn": "Build guide page with passive tree, gear and rotation"
+      },
+      {
+        "url": "/games/path-of-exile/tools/maxroll/screenshot-tier-list.png",
+        "captionEs": "Tier list de builds para la liga actual",
+        "captionEn": "Tier list of builds for the current league"
+      }
+    ],
+    "videos": [],
+    "relatedTools": ["path-of-building", "poe-ninja"],
+    "alternatives": ["poe-vault"],
+    "createdBy": {
+      "name": "Maxroll Team",
+      "url": "https://maxroll.gg/about"
+    }
+  }

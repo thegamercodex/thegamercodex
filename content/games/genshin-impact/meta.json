@@ -1,0 +1,166 @@
+{
+    "id": "genshin-impact",
+    "name": "Genshin Impact",
+    "shortName": "Genshin",
+    "developer": "HoYoverse",
+    "releaseYear": 2020,
+    "officialUrl": "https://genshin.hoyoverse.com",
+    "stores": [
+      {
+        "platform": "epic",
+        "url": "https://store.epicgames.com/en-US/p/genshin-impact",
+        "model": "free-to-play"
+      },
+      {
+        "platform": "playstation",
+        "url": "https://store.playstation.com/en-us/concept/10001731",
+        "model": "free-to-play"
+      },
+      {
+        "platform": "ios",
+        "url": "https://apps.apple.com/us/app/genshin-impact/id1517783697",
+        "model": "free-to-play"
+      },
+      {
+        "platform": "android",
+        "url": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
+        "model": "free-to-play"
+      }
+    ],
+    "priceTracker": "https://isthereanydeal.com/game/genshin-impact/",
+    "platforms": ["windows", "macos", "playstation", "ios", "android"],
+    "genres": ["action-rpg", "open-world", "gacha", "free-to-play"],
+    "monetization": {
+      "model": "free-to-play",
+      "hasInGamePurchases": true,
+      "purchaseTypes": ["loot-boxes", "battle-pass", "cosmetic", "pay-to-skip", "currency"],
+      "payToWin": false,
+      "noteEs": "Sistema gacha con personajes y armas obtenibles por azar usando primogems. El juego se puede completar como F2P, pero obtener personajes 5-estrellas específicos puede requerir gasto significativo. Las microtransacciones incluyen un battle pass mensual y bundles de currency premium.",
+      "noteEn": "Gacha system with characters and weapons obtained by chance using primogems. The game can be completed as F2P, but obtaining specific 5-star characters can require significant spending. Microtransactions include a monthly battle pass and premium currency bundles."
+    },
+    "theme": {
+      "primary": "#4a90e2",
+      "secondary": "#1a2540",
+      "accent": "#ffb347",
+      "background": "#0d1424",
+      "text": "#f0f0f5"
+    },
+    "logo": "/games/genshin-impact/logo.png",
+    "heroImage": "/games/genshin-impact/hero.webp",
+    "toolCategories": [
+      {
+        "id": "character-builds",
+        "nameEs": "Builds de Personajes",
+        "nameEn": "Character Builds",
+        "descriptionEs": "Guías y calculadoras de builds para cada personaje",
+        "descriptionEn": "Build guides and calculators for each character",
+        "icon": "⚔️"
+      },
+      {
+        "id": "artifact-optimization",
+        "nameEs": "Optimización de Artefactos",
+        "nameEn": "Artifact Optimization",
+        "descriptionEs": "Calculadoras y simuladores para optimizar sets de artefactos",
+        "descriptionEn": "Calculators and simulators to optimize artifact sets",
+        "icon": "💎"
+      },
+      {
+        "id": "damage-calculation",
+        "nameEs": "Cálculo de Daño",
+        "nameEn": "Damage Calculation",
+        "descriptionEs": "Herramientas para simular y calcular daño de personajes",
+        "descriptionEn": "Tools to simulate and calculate character damage",
+        "icon": "🧮"
+      },
+      {
+        "id": "gacha-tracking",
+        "nameEs": "Tracking de Gacha",
+        "nameEn": "Gacha Tracking",
+        "descriptionEs": "Trackers de pulls, pity y estadísticas de wishes",
+        "descriptionEn": "Pull, pity and wish statistics trackers",
+        "icon": "🎰"
+      },
+      {
+        "id": "abyss-tower",
+        "nameEs": "Spiral Abyss",
+        "nameEn": "Spiral Abyss",
+        "descriptionEs": "Guías y team comps para el contenido endgame del Spiral Abyss",
+        "descriptionEn": "Guides and team comps for Spiral Abyss endgame content",
+        "icon": "🗼"
+      },
+      {
+        "id": "exploration-maps",
+        "nameEs": "Mapas Interactivos",
+        "nameEn": "Interactive Maps",
+        "descriptionEs": "Mapas con ubicaciones de chests, oculus y materiales",
+        "descriptionEn": "Maps with chest, oculus and material locations",
+        "icon": "🗺️"
+      },
+      {
+        "id": "team-building",
+        "nameEs": "Armado de Equipos",
+        "nameEn": "Team Building",
+        "descriptionEs": "Herramientas para crear y optimizar composiciones de equipo",
+        "descriptionEn": "Tools to create and optimize team compositions",
+        "icon": "👥"
+      },
+      {
+        "id": "reference",
+        "nameEs": "Referencia",
+        "nameEn": "Reference",
+        "descriptionEs": "Wikis y bases de datos del juego",
+        "descriptionEn": "Game wikis and databases",
+        "icon": "📚"
+      }
+    ],
+    "resourceCategories": [
+      {
+        "id": "beginner-guides",
+        "nameEs": "Guías para Principiantes",
+        "nameEn": "Beginner Guides",
+        "descriptionEs": "Recursos esenciales para empezar Genshin Impact",
+        "descriptionEn": "Essential resources to start Genshin Impact",
+        "icon": "🌱"
+      },
+      {
+        "id": "character-guides",
+        "nameEs": "Guías de Personajes",
+        "nameEn": "Character Guides",
+        "descriptionEs": "Guías detalladas por personaje específico",
+        "descriptionEn": "Detailed guides per specific character",
+        "icon": "🎭"
+      },
+      {
+        "id": "patch-coverage",
+        "nameEs": "Cobertura de Parches",
+        "nameEn": "Patch Coverage",
+        "descriptionEs": "Análisis de cada nueva versión del juego",
+        "descriptionEn": "Analysis of each new game version",
+        "icon": "📦"
+      },
+      {
+        "id": "event-guides",
+        "nameEs": "Guías de Eventos",
+        "nameEn": "Event Guides",
+        "descriptionEs": "Cómo completar eventos limitados eficientemente",
+        "descriptionEn": "How to efficiently complete limited events",
+        "icon": "🎉"
+      },
+      {
+        "id": "abyss-strategies",
+        "nameEs": "Estrategias del Abyss",
+        "nameEn": "Abyss Strategies",
+        "descriptionEs": "Team comps y estrategias para clear del Spiral Abyss",
+        "descriptionEn": "Team comps and strategies to clear Spiral Abyss",
+        "icon": "⚡"
+      },
+      {
+        "id": "lore-and-story",
+        "nameEs": "Lore e Historia",
+        "nameEn": "Lore and Story",
+        "descriptionEs": "Análisis del lore y teorías de historia del juego",
+        "descriptionEn": "Lore analysis and game story theories",
+        "icon": "📖"
+      }
+    ]
+  }
