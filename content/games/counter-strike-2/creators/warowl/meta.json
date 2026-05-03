@@ -1,0 +1,51 @@
+{
+  "id": "warowl",
+  "name": "WarOwl",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@TheWarOwl",
+      "url": "https://www.youtube.com/@TheWarOwl",
+      "channelId": "UCpFcHE36IoySjYj1Rytxyog",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "thewarowl",
+      "url": "https://www.twitch.tv/thewarowl"
+    },
+    {
+      "type": "twitter",
+      "handle": "@TheWarOwl",
+      "url": "https://twitter.com/TheWarOwl"
+    }
+  ],
+  "specialties": [
+    "tutorials",
+    "beginner-friendly",
+    "tips-and-tricks",
+    "casual-content"
+  ],
+  "games": ["counter-strike-2"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Anchor histórico de tutoriales de Counter-Strike. Empezó cubriendo CS:GO desde su lanzamiento en 2012 y se mantiene activo en CS2. Su nicho es claro: explicaciones accesibles para players nuevos o intermedios, con tono amistoso, edición pulida y rangos de complejidad bien dosificados. No asume background previo. Si querés aprender un concepto sin pelearte con jerga, WarOwl es first stop.",
+  "noteEn": "Historical anchor for Counter-Strike tutorials. Started covering CS:GO from its 2012 launch and stays active in CS2. His niche is clear: accessible explanations for new or intermediate players, friendly tone, polished editing, and well-paced complexity ranges. Doesn't assume prior background. If you want to learn a concept without fighting jargon, WarOwl is first stop.",
+  "highlightsEs": [
+    "Activo desde CS:GO 2012, transición fluida a CS2",
+    "Tutoriales accesibles para players nuevos e intermedios",
+    "Edición pulida con tono amistoso, sin hype excesivo",
+    "Cubre temas desde basics hasta concepts avanzados"
+  ],
+  "highlightsEn": [
+    "Active since CS:GO 2012, smooth transition to CS2",
+    "Accessible tutorials for new and intermediate players",
+    "Polished editing with friendly tone, no excessive hype",
+    "Covers topics from basics to advanced concepts"
+  ],
+  "avatar": "/images/creators/warowl-avatar.jpg",
+  "banner": "/images/creators/warowl-banner.jpg"
+}

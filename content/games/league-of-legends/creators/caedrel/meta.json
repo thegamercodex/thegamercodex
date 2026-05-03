@@ -1,0 +1,52 @@
+{
+  "id": "caedrel",
+  "name": "Caedrel",
+  "realName": "Marc Robert Lamont",
+  "country": "GB",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Caedrel",
+      "url": "https://www.youtube.com/@Caedrel",
+      "channelId": "UCOFiUtKui6-x4T-J7_DgCag",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "caedrel",
+      "url": "https://www.twitch.tv/caedrel"
+    },
+    {
+      "type": "twitter",
+      "handle": "@CaedrelOfficial",
+      "url": "https://twitter.com/CaedrelOfficial"
+    }
+  ],
+  "specialties": [
+    "casting",
+    "co-streaming",
+    "lec-analysis",
+    "esports-commentary"
+  ],
+  "games": ["league-of-legends"],
+  "contentTypes": ["videos", "live-streams", "casting"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Ex-pro británico (jungla) que pivotó a casting profesional y luego al modelo de co-streaming de la LEC. Tiene una de las audiencias más grandes de LoL en Twitch, especialmente durante temporadas de la liga europea. Su lectura del juego es accesible pero técnica — explica decisions estratégicas en tiempo real con tono entusiasta y honesto. Para fans de esports que quieren más que el broadcast oficial, Caedrel es default.",
+  "noteEn": "British ex-pro (jungler) who pivoted to professional casting and then the LEC co-streaming model. Has one of the largest LoL audiences on Twitch, especially during European league seasons. His read of the game is accessible but technical — explains strategic decisions in real time with enthusiastic and honest tone. For esports fans wanting more than the official broadcast, Caedrel is default.",
+  "highlightsEs": [
+    "Ex-pro de jungla y caster profesional, ahora co-streamer de LEC",
+    "Una de las audiencias más grandes de LoL en Twitch",
+    "Lectura técnica accesible con tono entusiasta",
+    "Cobertura central de la temporada competitiva europea"
+  ],
+  "highlightsEn": [
+    "Ex-pro jungler and professional caster, now LEC co-streamer",
+    "One of the largest LoL audiences on Twitch",
+    "Accessible technical read with enthusiastic tone",
+    "Core coverage of European competitive season"
+  ],
+  "avatar": "/images/creators/caedrel-avatar.jpg",
+  "banner": "/images/creators/caedrel-banner.jpg"
+}

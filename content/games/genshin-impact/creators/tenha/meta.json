@@ -1,0 +1,51 @@
+{
+  "id": "tenha",
+  "name": "Tenha",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@TenhaGames",
+      "url": "https://www.youtube.com/@TenhaGames",
+      "channelId": "UCOXPm9nqKtb2pIpO0UybBHA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "tenha",
+      "url": "https://www.twitch.tv/tenha"
+    },
+    {
+      "type": "twitter",
+      "handle": "@TenhaTV",
+      "url": "https://twitter.com/TenhaTV"
+    }
+  ],
+  "specialties": [
+    "guides",
+    "character-builds",
+    "patch-coverage",
+    "team-building"
+  ],
+  "games": ["genshin-impact"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Anchor de guides escritos en formato video para Genshin Impact. Su nicho fuerte son builds de characters específicos, team comp recommendations y cobertura de patches mayores. La cadencia es alta — cubre cada banner con análisis pre y post-release, y produce builds updated cada vez que cambia el meta. Para players que buscan guides accesibles sin tener que parsear theorycrafting profundo, Tenha es entry-point claro.",
+  "noteEn": "Anchor for video-format written guides for Genshin Impact. Strong niche is specific character builds, team comp recommendations, and major patch coverage. High cadence — covers each banner with pre and post-release analysis, and produces updated builds whenever the meta shifts. For players looking for accessible guides without parsing deep theorycrafting, Tenha is a clear entry point.",
+  "highlightsEs": [
+    "Cobertura completa de banners con análisis pre y post-release",
+    "Character builds y team comp accesibles sin theorycrafting profundo",
+    "Cadencia de uploads alta con cobertura de cada major patch",
+    "Combina YouTube con streams en Twitch"
+  ],
+  "highlightsEn": [
+    "Full banner coverage with pre and post-release analysis",
+    "Accessible character builds and team comp without deep theorycraft",
+    "High upload cadence with each major patch covered",
+    "Combines YouTube with Twitch streams"
+  ],
+  "avatar": "/images/creators/tenha-avatar.jpg",
+  "banner": "/images/creators/tenha-banner.jpg"
+}

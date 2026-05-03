@@ -1,0 +1,51 @@
+{
+  "id": "zajef77",
+  "name": "Zajef77",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Zajef77",
+      "url": "https://www.youtube.com/@Zajef77",
+      "channelId": "UCLErCzTZDMd1eONVsko53mg",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "zajef77",
+      "url": "https://www.twitch.tv/zajef77"
+    },
+    {
+      "type": "twitter",
+      "handle": "@zajef77",
+      "url": "https://twitter.com/zajef77"
+    }
+  ],
+  "specialties": [
+    "theorycraft",
+    "team-building",
+    "abyss-strategies",
+    "advanced-content"
+  ],
+  "games": ["genshin-impact"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Theorycrafter referente del scene de Genshin. Su content se centra en team building, comparaciones detalladas de characters y rotation analysis para Spiral Abyss. A diferencia de creators de guides accesibles, Zajef asume que ya entendés mecánicas del juego y querés profundizar en optimización. Para players intermedios/altos que buscan extraer rendimiento real de sus characters, es referencia.",
+  "noteEn": "Reference theorycrafter in the Genshin scene. His content focuses on team building, detailed character comparisons, and rotation analysis for Spiral Abyss. Unlike accessible-guide creators, Zajef assumes you already understand the game's mechanics and want to go deeper into optimization. For intermediate/advanced players seeking to extract real performance from their characters, a reference.",
+  "highlightsEs": [
+    "Theorycrafter referente del scene de Genshin",
+    "Team building, character comparisons y rotation analysis",
+    "Foco en optimización de Spiral Abyss",
+    "Asume audiencia intermedia/avanzada con conocimiento del juego"
+  ],
+  "highlightsEn": [
+    "Reference theorycrafter in Genshin scene",
+    "Team building, character comparisons, and rotation analysis",
+    "Focus on Spiral Abyss optimization",
+    "Assumes intermediate/advanced audience with game knowledge"
+  ],
+  "avatar": "/images/creators/zajef77-avatar.jpg",
+  "banner": "/images/creators/zajef77-banner.jpg"
+}

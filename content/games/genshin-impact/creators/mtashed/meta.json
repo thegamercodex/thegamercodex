@@ -1,0 +1,52 @@
+{
+  "id": "mtashed",
+  "name": "Mtashed",
+  "realName": "Tash",
+  "country": "CA",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Mtashed",
+      "url": "https://www.youtube.com/@Mtashed",
+      "channelId": "UCI0fV325v5QniwVJ74PAVcA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "mtashed",
+      "url": "https://www.twitch.tv/mtashed"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Mtashed",
+      "url": "https://twitter.com/Mtashed"
+    }
+  ],
+  "specialties": [
+    "whale-perspective",
+    "character-builds",
+    "primogem-spending",
+    "veteran-content"
+  ],
+  "games": ["genshin-impact"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Veterano canadiense de Genshin Impact, activo desde el lanzamiento del juego en 2020. Originalmente conocido en el scene de Destiny, pivotó a Genshin y se mantuvo como uno de los anchors EN. Su perspectiva es la del jugador whale: showcases de characters, comparaciones de wishing strategies, reactions a banners. Mantiene tono honesto sobre el costo monetario del juego en lugar de minimizarlo. Para players interesados en el lado spending del juego, referencia clara.",
+  "noteEn": "Canadian Genshin Impact veteran, active since the game's 2020 launch. Originally known in the Destiny scene, pivoted to Genshin and remained one of the EN anchors. His perspective is that of a whale player: character showcases, wishing strategy comparisons, banner reactions. Keeps an honest tone about the game's monetary cost instead of minimizing it. For players interested in the spending side of the game, a clear reference.",
+  "highlightsEs": [
+    "Veterano de Genshin desde el lanzamiento en 2020",
+    "Perspectiva de whale player con tono honesto sobre spending",
+    "Showcases de characters y reactions a banners",
+    "Combina YouTube y Twitch con cadencia regular"
+  ],
+  "highlightsEn": [
+    "Genshin veteran since the 2020 launch",
+    "Whale-player perspective with honest tone on spending",
+    "Character showcases and banner reactions",
+    "Combines YouTube and Twitch with regular cadence"
+  ],
+  "avatar": "/images/creators/mtashed-avatar.jpg",
+  "banner": "/images/creators/mtashed-banner.jpg"
+}

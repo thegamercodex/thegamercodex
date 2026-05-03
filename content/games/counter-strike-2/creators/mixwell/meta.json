@@ -1,0 +1,52 @@
+{
+  "id": "mixwell",
+  "name": "mixwell",
+  "realName": "Oscar Cañellas",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@mixwell",
+      "url": "https://www.youtube.com/@mixwell",
+      "channelId": "UC5-V4ct0rCex1H8FqWx696A",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "mixwell",
+      "url": "https://www.twitch.tv/mixwell"
+    },
+    {
+      "type": "twitter",
+      "handle": "@mixwell",
+      "url": "https://twitter.com/mixwell"
+    }
+  ],
+  "specialties": [
+    "spanish-coverage",
+    "ex-pro",
+    "high-level-gameplay",
+    "fps-analysis"
+  ],
+  "games": ["counter-strike-2"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Ex-pro español de Counter-Strike, una de las voces más reconocidas del scene hispanohablante de FPS competitivos. Su carrera incluyó equipos como G2 y OpTic. Hoy combina streams en Twitch con videos de YouTube cubriendo gameplay, análisis y commentary del juego competitivo, principalmente CS2 y Valorant. Para audiencia hispanohablante que quiere perspectiva pro de un caso real, mixwell es anchor obvio.",
+  "noteEn": "Spanish CS ex-pro, one of the most recognized voices in the Spanish-speaking competitive FPS scene. His career included teams like G2 and OpTic. Today he combines Twitch streams with YouTube videos covering gameplay, analysis, and competitive commentary, mainly CS2 and Valorant. For Spanish-speaking audiences wanting pro perspective from a real case, mixwell is an obvious anchor.",
+  "highlightsEs": [
+    "Ex-pro español con carrera en equipos top como G2 y OpTic",
+    "Anchor del scene hispanohablante de FPS competitivo",
+    "Streams diarios en Twitch con cobertura mixta CS2 / Valorant",
+    "Perspectiva pro accesible para audiencia hispanohablante"
+  ],
+  "highlightsEn": [
+    "Spanish ex-pro with career on top teams like G2 and OpTic",
+    "Anchor of Spanish-speaking competitive FPS scene",
+    "Daily Twitch streams with mixed CS2 / Valorant coverage",
+    "Pro perspective accessible to Spanish-speaking audience"
+  ],
+  "avatar": "/images/creators/mixwell-avatar.jpg",
+  "banner": "/images/creators/mixwell-banner.jpg"
+}

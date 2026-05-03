@@ -1,0 +1,51 @@
+{
+  "id": "pohx",
+  "name": "Pohx",
+  "country": "DE",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@PohxKappa",
+      "url": "https://www.youtube.com/@PohxKappa",
+      "channelId": "UCgv2_w0HveLN_JgFGTqwmTw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "pohx",
+      "url": "https://www.twitch.tv/pohx"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Pohx_Kappa",
+      "url": "https://twitter.com/Pohx_Kappa"
+    }
+  ],
+  "specialties": [
+    "build-guides",
+    "bossing",
+    "righteous-fire",
+    "league-mechanics"
+  ],
+  "games": ["path-of-exile"],
+  "contentTypes": ["videos", "live-streams", "guides"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Creator alemán reconocido como el referente de Righteous Fire y de builds de bossing en general. Su nicho fuerte es transformar arquetipos que parecen 'no aptos para boss kills' en builds end-game viables, con guías escritas paralelas a los videos. Para players que entran a una league con ganas de matar bosses sin pelearse con la matemática del juego, Pohx es punto de partida obvio.",
+  "noteEn": "German creator recognized as the reference for Righteous Fire and bossing builds in general. His strong niche is turning archetypes that seem 'not viable for boss kills' into end-game-capable builds, with written guides paralleling the videos. For players entering a league wanting to kill bosses without fighting the game's math, Pohx is an obvious starting point.",
+  "highlightsEs": [
+    "Especialista de Righteous Fire y bossing builds",
+    "Guías escritas detalladas paralelas a los videos en YouTube",
+    "Sitio propio (pohx.net) con builds organizados por league",
+    "Streams diarios en Twitch durante temporadas activas"
+  ],
+  "highlightsEn": [
+    "Righteous Fire and bossing-build specialist",
+    "Detailed written guides alongside YouTube videos",
+    "Own site (pohx.net) with builds organized per league",
+    "Daily Twitch streams during active leagues"
+  ],
+  "avatar": "/images/creators/pohx-avatar.jpg",
+  "banner": "/images/creators/pohx-banner.jpg"
+}

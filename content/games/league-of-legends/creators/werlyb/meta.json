@@ -1,0 +1,52 @@
+{
+  "id": "werlyb",
+  "name": "Werlyb",
+  "realName": "Adrián Jiménez Santos",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Werlyb",
+      "url": "https://www.youtube.com/@Werlyb",
+      "channelId": "UCs4tgNAXxQd_EZaPnOhtrpw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "werlyb",
+      "url": "https://www.twitch.tv/werlyb"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Werlyb",
+      "url": "https://twitter.com/Werlyb"
+    }
+  ],
+  "specialties": [
+    "spanish-coverage",
+    "ex-pro",
+    "ranked-grind",
+    "high-elo-gameplay"
+  ],
+  "games": ["league-of-legends"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Ex-pro español de LoL (top laner) con paso por equipos como Origen, Movistar Riders y otros. Hoy es streamer y content creator hispanohablante de los más reconocidos del scene de LoL. Su contenido principal son streams de ranked grind con commentary técnico, y videos ocasionales de análisis. Tono accesible y honesto, perspectiva pro de un jugador real de la escena europea. Para audiencia hispanohablante de LoL es referencia central.",
+  "noteEn": "Spanish LoL ex-pro (top laner) with stints on teams like Origen, Movistar Riders, and others. Today he's one of the most recognized Spanish-speaking streamers and content creators in the LoL scene. His main content is ranked grind streams with technical commentary, and occasional analysis videos. Accessible and honest tone, pro perspective from an actual European-scene player. For Spanish-speaking LoL audience, central reference.",
+  "highlightsEs": [
+    "Ex-pro español con carrera en Origen, Movistar Riders, otros",
+    "Anchor del scene hispanohablante de LoL",
+    "Streams de ranked grind con commentary técnico en tiempo real",
+    "Perspectiva pro accesible para audiencia hispanohablante"
+  ],
+  "highlightsEn": [
+    "Spanish ex-pro with career on Origen, Movistar Riders, others",
+    "Anchor of Spanish-speaking LoL scene",
+    "Ranked grind streams with real-time technical commentary",
+    "Pro perspective accessible to Spanish-speaking audience"
+  ],
+  "avatar": "/images/creators/werlyb-avatar.jpg",
+  "banner": "/images/creators/werlyb-banner.jpg"
+}

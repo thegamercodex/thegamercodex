@@ -1,0 +1,51 @@
+{
+  "id": "necrit",
+  "name": "Necrit",
+  "country": "PL",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@necrit",
+      "url": "https://www.youtube.com/@necrit",
+      "channelId": "UCiUHGAbtjCrLO3ZPrTfle3Q",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "necrit",
+      "url": "https://www.twitch.tv/necrit"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Necrit94",
+      "url": "https://twitter.com/Necrit94"
+    }
+  ],
+  "specialties": [
+    "lore",
+    "narrative-analysis",
+    "champion-stories",
+    "runeterra-universe"
+  ],
+  "games": ["league-of-legends"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Especialista en lore de LoL y el universo de Runeterra. Cubre las historias de champions, regiones, eventos narrativos de cada season y cinematics oficiales con análisis profundos. Polaco, mantiene cadencia regular en YouTube con videos largos en formato deep-dive. Para players que vienen del lado narrativo del juego (Arcane, comics, novels) y quieren contexto extendido, es la referencia central — más profundo que cualquier fuente oficial de Riot.",
+  "noteEn": "Specialist in LoL lore and the Runeterra universe. Covers champion stories, regions, narrative events of each season, and official cinematics with deep analysis. Polish, maintains regular cadence on YouTube with long deep-dive videos. For players coming from the game's narrative side (Arcane, comics, novels) and wanting extended context, it's the central reference — deeper than any official Riot source.",
+  "highlightsEs": [
+    "Especialista en lore de LoL y universo Runeterra",
+    "Análisis deep-dive de champions, regiones y eventos narrativos",
+    "Cobertura completa de cinematics oficiales con context",
+    "Cadencia regular en YouTube con videos long-form"
+  ],
+  "highlightsEn": [
+    "Specialist in LoL lore and the Runeterra universe",
+    "Deep-dive analysis of champions, regions, and narrative events",
+    "Full coverage of official cinematics with context",
+    "Regular YouTube cadence with long-form videos"
+  ],
+  "avatar": "/images/creators/necrit-avatar.jpg",
+  "banner": "/images/creators/necrit-banner.jpg"
+}

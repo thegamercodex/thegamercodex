@@ -1,0 +1,51 @@
+{
+  "id": "sevy",
+  "name": "Sevy",
+  "country": "PH",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@sevyplays",
+      "url": "https://www.youtube.com/@sevyplays",
+      "channelId": "UC-2O84hJLKm8CqqsZygV-lA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "sevyplays",
+      "url": "https://www.twitch.tv/sevyplays"
+    },
+    {
+      "type": "twitter",
+      "handle": "@sevyplays",
+      "url": "https://twitter.com/sevyplays"
+    }
+  ],
+  "specialties": [
+    "character-showcases",
+    "team-building",
+    "casual-perspective",
+    "f2p-friendly"
+  ],
+  "games": ["genshin-impact"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Creator filipino que cubre Genshin con tono casual y accesible. Su mix de content incluye character showcases, team building básico, reactions a banners y vlogs ocasionales sobre el ecosistema gacha. La perspectiva es F2P-friendly — no asume que el viewer tiene whale resources, lo cual lo hace contraste útil a creators más optimization-focused como Zajef o KyoStinV. Para audiencia que quiere disfrutar Genshin sin sentirse atrás del meta, Sevy funciona.",
+  "noteEn": "Filipino creator who covers Genshin with a casual and accessible tone. His content mix includes character showcases, basic team building, banner reactions, and occasional vlogs about the gacha ecosystem. The perspective is F2P-friendly — doesn't assume the viewer has whale resources, which makes him a useful contrast to more optimization-focused creators like Zajef or KyoStinV. For audiences who want to enjoy Genshin without feeling meta-behind, Sevy works.",
+  "highlightsEs": [
+    "Creator filipino con tono casual y F2P-friendly",
+    "Character showcases y team building básico accesible",
+    "Reactions a banners y vlogs sobre el ecosistema gacha",
+    "Contraste útil a creators de optimización pura"
+  ],
+  "highlightsEn": [
+    "Filipino creator with casual and F2P-friendly tone",
+    "Accessible character showcases and basic team building",
+    "Banner reactions and gacha ecosystem vlogs",
+    "Useful contrast to pure-optimization creators"
+  ],
+  "avatar": "/images/creators/sevy-avatar.jpg",
+  "banner": "/images/creators/sevy-banner.jpg"
+}

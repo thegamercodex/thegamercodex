@@ -1,0 +1,51 @@
+{
+  "id": "ohnepixel",
+  "name": "ohnePixel",
+  "country": "DE",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@ohnepixel",
+      "url": "https://www.youtube.com/@ohnepixel",
+      "channelId": "UC3ti8PjJczdDKHSwk7TESkw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "ohnepixel",
+      "url": "https://www.twitch.tv/ohnepixel"
+    },
+    {
+      "type": "twitter",
+      "handle": "@ohnePixel",
+      "url": "https://twitter.com/ohnePixel"
+    }
+  ],
+  "specialties": [
+    "skins",
+    "skin-investing",
+    "rare-items",
+    "market-analysis"
+  ],
+  "games": ["counter-strike-2"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Creator alemán especializado en skins de CS2 / CS:GO. Su content cubre el mercado de skins desde varios ángulos: rare items, investing strategies, history de cases, y reactions a market shifts post-update. Mantiene tono honesto sobre los riesgos del skin trading (volatilidad, scams, depreciación post-cambios de Valve) en lugar de venderlo como inversión segura. Para players con interés en la economy del juego más allá de jugar, es referencia.",
+  "noteEn": "German creator specialized in CS2 / CS:GO skins. His content covers the skin market from several angles: rare items, investing strategies, case history, and reactions to post-update market shifts. Keeps an honest tone about skin trading risks (volatility, scams, depreciation after Valve changes) rather than selling it as safe investment. For players interested in the game's economy beyond playing, a reference.",
+  "highlightsEs": [
+    "Especialización en skins, rare items y skin investing",
+    "Cobertura del mercado con tono editorial honesto sobre riesgos",
+    "Reactions y análisis post-update de cambios de Valve",
+    "Activo en YouTube y Twitch con cadencia regular"
+  ],
+  "highlightsEn": [
+    "Specialization in skins, rare items, and skin investing",
+    "Market coverage with honest editorial tone about risks",
+    "Post-Valve-update reactions and analysis",
+    "Active on YouTube and Twitch with regular cadence"
+  ],
+  "avatar": "/images/creators/ohnepixel-avatar.jpg",
+  "banner": "/images/creators/ohnepixel-banner.jpg"
+}

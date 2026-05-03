@@ -1,0 +1,51 @@
+{
+  "id": "kyostinv",
+  "name": "KyoStinV",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@KyoStinV",
+      "url": "https://www.youtube.com/@KyoStinV",
+      "channelId": "UCWwuijyo4x78iXup5hOvkbw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "kyostinv",
+      "url": "https://www.twitch.tv/kyostinv"
+    },
+    {
+      "type": "twitter",
+      "handle": "@KyoStinV",
+      "url": "https://twitter.com/KyoStinV"
+    }
+  ],
+  "specialties": [
+    "deep-theorycraft",
+    "damage-calculations",
+    "mechanics-analysis",
+    "advanced-rotations"
+  ],
+  "games": ["genshin-impact"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["advanced"],
+  "noteEs": "Theorycrafter de tier alto con foco en mecánicas profundas y damage calculations exactas. Su content suele entrar en niveles de detalle que otros guides resumen — frame-perfect rotations, edge cases de animation cancels, optimización fina de artifact substats. Para audiencia hardcore que ya consume guides accesibles y quiere ir más profundo, KyoStinV es next step. No es content para newcomers.",
+  "noteEn": "High-tier theorycrafter focused on deep mechanics and exact damage calculations. His content tends to reach detail levels other guides summarize — frame-perfect rotations, animation cancel edge cases, fine artifact substat optimization. For hardcore audiences who already consume accessible guides and want to go deeper, KyoStinV is the next step. Not content for newcomers.",
+  "highlightsEs": [
+    "Theorycraft profundo con damage calculations exactas",
+    "Frame-perfect rotations y animation cancel edge cases",
+    "Optimización fina de artifact substats",
+    "Target audiencia hardcore, no para newcomers"
+  ],
+  "highlightsEn": [
+    "Deep theorycraft with exact damage calculations",
+    "Frame-perfect rotations and animation cancel edge cases",
+    "Fine artifact substat optimization",
+    "Hardcore audience target, not for newcomers"
+  ],
+  "avatar": "/images/creators/kyostinv-avatar.jpg",
+  "banner": "/images/creators/kyostinv-banner.jpg"
+}

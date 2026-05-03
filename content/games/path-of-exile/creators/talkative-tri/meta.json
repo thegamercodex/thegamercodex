@@ -1,0 +1,51 @@
+{
+  "id": "talkative-tri",
+  "name": "Talkative Tri",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@TalkativeTri",
+      "url": "https://www.youtube.com/@TalkativeTri",
+      "channelId": "UCJQNiHTCkZl4XC_YwBoZf9Q",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "talkativetri",
+      "url": "https://www.twitch.tv/talkativetri"
+    },
+    {
+      "type": "twitter",
+      "handle": "@TalkativeTri",
+      "url": "https://twitter.com/TalkativeTri"
+    }
+  ],
+  "specialties": [
+    "news",
+    "community-discussion",
+    "league-mechanics",
+    "developer-interviews"
+  ],
+  "games": ["path-of-exile"],
+  "contentTypes": ["videos", "live-streams", "podcasts"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Creator centrado en discusión y news de Path of Exile más que en builds o farming. Su descripción de canal — 'I talk about games like Path of Exile 2' — captura bien el formato: videos largos analizando announces de GGG, decisions de diseño, controversies, y entrevistas con devs. Para players que quieren mantenerse al día en el ecosistema sin tener que filtrar Reddit y Discord, Tri funciona como digest editorializado.",
+  "noteEn": "Creator focused on Path of Exile discussion and news rather than builds or farming. His channel description — 'I talk about games like Path of Exile 2' — captures the format well: long videos analyzing GGG announcements, design decisions, controversies, and dev interviews. For players who want to stay current with the ecosystem without filtering Reddit and Discord, Tri works as an editorialized digest.",
+  "highlightsEs": [
+    "Discusión y news de PoE en formato long-form",
+    "Análisis editorial de announces y decisions de diseño de GGG",
+    "Entrevistas con desarrolladores",
+    "Cobertura central de PoE 2 desde su anuncio"
+  ],
+  "highlightsEn": [
+    "PoE discussion and news in long-form format",
+    "Editorial analysis of GGG announcements and design decisions",
+    "Dev interviews",
+    "Core PoE 2 coverage since its announcement"
+  ],
+  "avatar": "/images/creators/talkative-tri-avatar.jpg",
+  "banner": "/images/creators/talkative-tri-banner.jpg"
+}

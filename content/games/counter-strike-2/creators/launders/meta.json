@@ -1,0 +1,51 @@
+{
+  "id": "launders",
+  "name": "launders",
+  "country": "CA",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@launders",
+      "url": "https://www.youtube.com/@launders",
+      "channelId": "UCGzyw0aUIbRPfHR0ThS1nNw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "launders",
+      "url": "https://www.twitch.tv/launders"
+    },
+    {
+      "type": "twitter",
+      "handle": "@launders",
+      "url": "https://twitter.com/launders"
+    }
+  ],
+  "specialties": [
+    "coaching",
+    "demo-review",
+    "advanced-tactics",
+    "scrim-analysis"
+  ],
+  "games": ["counter-strike-2"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Ex-pro canadiense que pivotó a content creator y coach. Su descripción de canal — 'counter-strike 2 elitist' — describe bien el approach: análisis técnico denso, demo review de partidas pro, breakdowns de utility setups, comentarios honestos sobre meta y decisions de Valve. No es content para newcomers; asume que entendés el juego y querés profundizar. Para players intermedios/altos en serio sobre mejorar, es referencia obligada.",
+  "noteEn": "Canadian ex-pro who pivoted to content creator and coach. His channel description — 'counter-strike 2 elitist' — captures the approach well: dense technical analysis, pro demo review, utility setup breakdowns, honest commentary on meta and Valve decisions. Not content for newcomers; assumes you understand the game and want to go deeper. For serious intermediate/high-level players focused on improvement, mandatory reference.",
+  "highlightsEs": [
+    "Ex-pro canadiense con perspectiva técnica profunda",
+    "Demo review de partidas pro con breakdowns detallados",
+    "Análisis de utility setups y meta avanzado",
+    "Commentary editorial sobre decisions de Valve sin filtros"
+  ],
+  "highlightsEn": [
+    "Canadian ex-pro with deep technical perspective",
+    "Pro match demo reviews with detailed breakdowns",
+    "Utility setup analysis and advanced meta",
+    "Unfiltered editorial commentary on Valve decisions"
+  ],
+  "avatar": "/images/creators/launders-avatar.jpg",
+  "banner": "/images/creators/launders-banner.jpg"
+}

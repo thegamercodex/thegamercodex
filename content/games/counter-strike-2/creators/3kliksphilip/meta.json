@@ -1,0 +1,52 @@
+{
+  "id": "3kliksphilip",
+  "name": "3kliksphilip",
+  "realName": "Philip",
+  "country": "GB",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@3kliksphilip",
+      "url": "https://www.youtube.com/@3kliksphilip",
+      "channelId": "UCmu9PVIZBk-ZCi-Sk2F2utA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "3kliksphilip",
+      "url": "https://www.twitch.tv/3kliksphilip"
+    },
+    {
+      "type": "twitter",
+      "handle": "@3kliksphilip",
+      "url": "https://twitter.com/3kliksphilip"
+    }
+  ],
+  "specialties": [
+    "mechanics-analysis",
+    "engine-deep-dives",
+    "movement",
+    "experiments"
+  ],
+  "games": ["counter-strike-2"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Veterano británico de CS desde la era CS:S. Su content es de los más distintivos del scene: experimentos sobre cómo funciona el engine, análisis pedagógicos de movement y mecánicas, comparaciones de versiones del juego, y preguntas tipo 'qué pasaría si...' resueltas con tests propios. Tono calmo, sin hype, narración tipo documental. Es la voz educativa de CS por antonomasia, complementaria a tutoriales puros como WarOwl.",
+  "noteEn": "British CS veteran since the CS:S era. His content is among the most distinctive in the scene: experiments on how the engine works, pedagogical analysis of movement and mechanics, version comparisons, and 'what would happen if...' questions answered with self-run tests. Calm tone, no hype, documentary-style narration. The quintessential educational voice of CS, complementary to pure tutorials like WarOwl.",
+  "highlightsEs": [
+    "Veterano del scene de CS, activo desde CS:Source",
+    "Experimentos sobre engine y mecánicas con tests propios",
+    "Análisis de versiones del juego y cambios entre patches",
+    "Tono documental, sin hype ni rage-bait"
+  ],
+  "highlightsEn": [
+    "CS scene veteran, active since CS:Source",
+    "Engine and mechanics experiments with self-run tests",
+    "Game version analysis and inter-patch changes",
+    "Documentary tone, no hype or rage-bait"
+  ],
+  "avatar": "/images/creators/3kliksphilip-avatar.jpg",
+  "banner": "/images/creators/3kliksphilip-banner.jpg"
+}

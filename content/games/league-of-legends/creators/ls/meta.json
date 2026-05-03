@@ -1,0 +1,47 @@
+{
+  "id": "ls",
+  "name": "LS",
+  "realName": "Nick De Cesare",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@LSXYZ9",
+      "url": "https://www.youtube.com/@LSXYZ9",
+      "channelId": "UCWIfnDrWU_Cvc1a8qZribhA",
+      "primary": true
+    },
+    {
+      "type": "twitter",
+      "handle": "@LSXYZ9",
+      "url": "https://twitter.com/LSXYZ9"
+    }
+  ],
+  "specialties": [
+    "analysis",
+    "champion-tier-list",
+    "esports-commentary",
+    "draft-analysis"
+  ],
+  "games": ["league-of-legends"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Analista y ex-coach con uno de los reads más respetados (y polarizantes) del competitive de LoL. Su análisis de draft, tier lists y decisions de meta es referenciado por pros y casters profesionales. El tono es directo y sin filtro — algunos del scene lo encuentran demasiado agresivo, otros lo defienden como honestidad necesaria en un space lleno de complacencia. Para audiencia que valora análisis técnico fuerte, es referencia obligada con la advertencia editorial sobre estilo divisivo.",
+  "noteEn": "Analyst and ex-coach with one of the most respected (and polarizing) reads in competitive LoL. His draft analysis, tier lists, and meta decisions are referenced by pros and professional casters. The tone is direct and unfiltered — some in the scene find it too aggressive, others defend it as necessary honesty in a complacency-filled space. For audiences valuing strong technical analysis, mandatory reference with the editorial caveat about a divisive style.",
+  "highlightsEs": [
+    "Analista referenciado por pros y casters profesionales",
+    "Tier lists y draft analysis en formato detallado",
+    "Tono directo sin filtro, divisivo en el scene",
+    "Coverage activa del competitive internacional"
+  ],
+  "highlightsEn": [
+    "Analyst referenced by pros and professional casters",
+    "Detailed-format tier lists and draft analysis",
+    "Direct unfiltered tone, divisive in the scene",
+    "Active coverage of international competitive"
+  ],
+  "avatar": "/images/creators/ls-avatar.jpg",
+  "banner": "/images/creators/ls-banner.jpg"
+}

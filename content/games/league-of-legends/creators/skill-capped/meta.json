@@ -1,0 +1,51 @@
+{
+  "id": "skill-capped",
+  "name": "Skill Capped",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@SkillCapped",
+      "url": "https://www.youtube.com/@SkillCapped",
+      "channelId": "UCFl1mGlf5j0Qno1Kxnyv6FA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "skillcapped",
+      "url": "https://www.twitch.tv/skillcapped"
+    },
+    {
+      "type": "twitter",
+      "handle": "@skillcapped",
+      "url": "https://twitter.com/skillcapped"
+    }
+  ],
+  "specialties": [
+    "guides",
+    "champion-tutorials",
+    "ranked-tips",
+    "macro-strategy"
+  ],
+  "games": ["league-of-legends"],
+  "contentTypes": ["videos", "guides"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Plataforma educativa con uno de los canales de YouTube más grandes dedicados a guías de LoL. La operación es de equipo profesional, no creator individual: producen videos cortos (5-10 min) cubriendo champion tutorials, macro strategy, ranked tips y meta updates con cadencia casi diaria. El canal es entry-point gratuito a su producto pago (cursos en skill-capped.com). Para players que aprenden mejor con clips dirigidos que con streams largos, es referencia útil.",
+  "noteEn": "Educational platform with one of the largest YouTube channels dedicated to LoL guides. The operation is a professional team, not an individual creator: they produce short videos (5-10 min) covering champion tutorials, macro strategy, ranked tips, and meta updates with near-daily cadence. The channel is the free entry point to their paid product (courses on skill-capped.com). For players who learn better with directed clips than long streams, a useful reference.",
+  "highlightsEs": [
+    "Equipo profesional con cadencia casi diaria de uploads",
+    "Videos cortos (5-10 min) sobre tutorials, macro y meta",
+    "Channel YouTube como entry point del producto pago en skill-capped.com",
+    "Cobertura amplia: todos los roles, todos los rangos"
+  ],
+  "highlightsEn": [
+    "Professional team with near-daily upload cadence",
+    "Short videos (5-10 min) on tutorials, macro, and meta",
+    "YouTube channel as entry point to paid product on skill-capped.com",
+    "Broad coverage: all roles, all ranks"
+  ],
+  "avatar": "/images/creators/skill-capped-avatar.jpg",
+  "banner": "/images/creators/skill-capped-banner.jpg"
+}
