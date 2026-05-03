@@ -1,0 +1,39 @@
+{
+  "id": "tracker-gg-cs2",
+  "name": "Tracker.gg CS2",
+  "shortName": "Tracker.gg",
+  "taglineEs": "Tracker multi-juego con sección dedicada a CS2 — match history, stats agregadas y comparativas para usuarios que también juegan otros títulos",
+  "taglineEn": "Multi-game tracker with a dedicated CS2 section — match history, aggregated stats, and comparatives for users who also play other titles",
+  "url": "https://tracker.gg/cs2",
+  "category": "match-history",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en", "es", "pt", "fr", "de", "ja", "ko"],
+  "tags": ["match-history", "stats", "multi-game", "leaderboards", "freemium"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/tracker-gg-cs2-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/tracker-gg-cs2-profile.png",
+      "captionEs": "Perfil de jugador con stats agregadas, mejores armas y mapas",
+      "captionEn": "Player profile with aggregated stats, top weapons, and maps"
+    },
+    {
+      "url": "/images/tools/tracker-gg-cs2-leaderboard.png",
+      "captionEs": "Leaderboards globales y por región para CS2",
+      "captionEn": "Global and regional leaderboards for CS2"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["csstats-gg", "leetify"],
+  "alternatives": ["csstats-gg"],
+  "createdBy": {
+    "name": "Tracker Network",
+    "url": "https://tracker.gg/about"
+  }
+}

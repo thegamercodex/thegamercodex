@@ -1,0 +1,34 @@
+{
+  "id": "aim-botz",
+  "name": "Aim Botz",
+  "shortName": "Aim Botz",
+  "taglineEs": "Workshop map clásico de aim training en CS2: bots configurables, infinite ammo y métricas básicas para warmup y práctica diaria",
+  "taglineEn": "Classic aim training Workshop map in CS2: configurable bots, infinite ammo, and basic metrics for warmup and daily practice",
+  "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=243702660",
+  "category": "training-tools",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows", "linux"],
+  "languages": ["en"],
+  "tags": ["aim-training", "workshop-map", "warmup", "bots", "essential"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/aim-botz-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/aim-botz-arena.png",
+      "captionEs": "Arena con bots configurables — número, distancia, movement y armor",
+      "captionEn": "Arena with configurable bots — number, distance, movement, and armor"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["simple-radar", "csnades-gg"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "uLetsPlay",
+    "url": "https://steamcommunity.com/id/uLetsPlay"
+  }
+}

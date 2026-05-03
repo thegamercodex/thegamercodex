@@ -1,0 +1,39 @@
+{
+  "id": "csgostash",
+  "name": "CSGOSTASH",
+  "shortName": "csgostash",
+  "taglineEs": "Database de referencia de skins de CS2 con precios históricos, comparativas de wear y catálogo completo organizado por colección y case",
+  "taglineEn": "CS2 skin reference database with historical pricing, wear comparisons, and full catalog organized by collection and case",
+  "url": "https://csgostash.com",
+  "category": "skin-marketplace",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["skins", "database", "price-history", "wear-comparison", "reference", "catalog"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/csgostash-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/csgostash-skin.png",
+      "captionEs": "Página de skin con precio histórico, comparativa de wear y stickers compatibles",
+      "captionEn": "Skin page with price history, wear comparison, and compatible stickers"
+    },
+    {
+      "url": "/images/tools/csgostash-collection.png",
+      "captionEs": "Vista de colección con todos los skins y rarezas",
+      "captionEn": "Collection view with all skins and rarities"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["steam-community-market", "cs-money"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "csgostash team",
+    "url": "https://csgostash.com"
+  }
+}

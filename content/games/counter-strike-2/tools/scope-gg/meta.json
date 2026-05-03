@@ -1,0 +1,39 @@
+{
+  "id": "scope-gg",
+  "name": "scope.gg",
+  "shortName": "scope.gg",
+  "taglineEs": "Demo viewer 2D para CS2 con análisis específico de utility — smokes, flashes, molotovs y movement reproducidos visualmente",
+  "taglineEn": "2D demo viewer for CS2 with specialized utility analysis — smokes, flashes, molotovs, and movement replayed visually",
+  "url": "https://scope.gg",
+  "category": "demo-analysis",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["demo-viewer", "utility-analysis", "2d-replay", "smokes", "freemium"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/scope-gg-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/scope-gg-replay.png",
+      "captionEs": "Demo viewer 2D mostrando posiciones, utility lanzada y trayectorias en tiempo real",
+      "captionEn": "2D demo viewer showing positions, utility thrown, and trajectories in real time"
+    },
+    {
+      "url": "/images/tools/scope-gg-utility.png",
+      "captionEs": "Análisis de utility por mapa con efectividad de smokes y flashes por jugador",
+      "captionEn": "Per-map utility analysis with smoke and flash effectiveness per player"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["leetify", "csstats-gg", "csnades-gg"],
+  "alternatives": ["leetify"],
+  "createdBy": {
+    "name": "scope.gg team",
+    "url": "https://scope.gg"
+  }
+}

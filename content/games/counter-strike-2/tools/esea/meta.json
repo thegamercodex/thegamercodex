@@ -1,0 +1,39 @@
+{
+  "id": "esea",
+  "name": "ESEA",
+  "shortName": "ESEA",
+  "taglineEs": "Plataforma legacy de matchmaking competitivo de CS con anti-cheat propietario y ligas estructuradas, hoy parte de FACEIT Group",
+  "taglineEn": "Legacy CS competitive matchmaking platform with proprietary anti-cheat and structured leagues, now part of FACEIT Group",
+  "url": "https://play.esea.net",
+  "category": "competitive-platform",
+  "type": "web-app",
+  "official": false,
+  "free": false,
+  "openSource": false,
+  "platforms": ["web", "windows"],
+  "languages": ["en"],
+  "tags": ["competitive", "matchmaking", "anti-cheat", "leagues", "premier", "subscription"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/esea-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/esea-leagues.png",
+      "captionEs": "Vista de ligas activas (Premier, Main, Intermediate, Open) por región",
+      "captionEn": "View of active leagues (Premier, Main, Intermediate, Open) per region"
+    },
+    {
+      "url": "/images/tools/esea-profile.png",
+      "captionEs": "Perfil de jugador con estadísticas históricas y ranking ESEA",
+      "captionEn": "Player profile with historical stats and ESEA ranking"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["faceit", "csstats-gg"],
+  "alternatives": ["faceit"],
+  "createdBy": {
+    "name": "ESL FACEIT Group",
+    "url": "https://www.eslfaceitgroup.com"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "leetify",
+  "name": "Leetify",
+  "shortName": "Leetify",
+  "taglineEs": "Plataforma de coaching con IA para CS2 que analiza demos automáticamente y compara tu performance contra rangos superiores",
+  "taglineEn": "AI coaching platform for CS2 that automatically analyzes demos and compares your performance to higher ranks",
+  "url": "https://leetify.com",
+  "category": "match-history",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows"],
+  "languages": ["en"],
+  "tags": ["coaching", "ai", "demo-analysis", "match-history", "stats", "freemium"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/leetify-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/leetify-dashboard.png",
+      "captionEs": "Dashboard con scores de aim, utility, positioning y comparación contra rank superior",
+      "captionEn": "Dashboard with aim, utility, positioning scores and comparison against higher rank"
+    },
+    {
+      "url": "/images/tools/leetify-match.png",
+      "captionEs": "Análisis post-match con highlights de errores tácticos y oportunidades perdidas",
+      "captionEn": "Post-match analysis with tactical mistake highlights and missed opportunities"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["scope-gg", "csstats-gg", "tracker-gg-cs2"],
+  "alternatives": ["scope-gg", "csstats-gg"],
+  "createdBy": {
+    "name": "Leetify Inc.",
+    "url": "https://leetify.com/about"
+  }
+}

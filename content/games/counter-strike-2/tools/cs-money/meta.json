@@ -1,0 +1,39 @@
+{
+  "id": "cs-money",
+  "name": "CS.MONEY",
+  "shortName": "CS.MONEY",
+  "taglineEs": "Marketplace third-party de skins de CS2 con foco en trading skin-por-skin sin intermediario monetario",
+  "taglineEn": "Third-party CS2 skin marketplace focused on skin-for-skin trading without monetary intermediary",
+  "url": "https://cs.money",
+  "category": "skin-marketplace",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en", "es", "pt", "fr", "de", "it", "ru", "tr", "zh", "ja", "ko"],
+  "tags": ["skins", "trading", "marketplace", "third-party", "p2p"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/cs-money-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/cs-money-trade.png",
+      "captionEs": "Interfaz de trading skin-por-skin con valuación automática y diferencia de precio",
+      "captionEn": "Skin-for-skin trading interface with automatic valuation and price difference"
+    },
+    {
+      "url": "/images/tools/cs-money-inventory.png",
+      "captionEs": "Inventario con filtros por float, pattern, sticker y precio de mercado",
+      "captionEn": "Inventory with filters by float, pattern, sticker, and market price"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["steam-community-market", "csgostash"],
+  "alternatives": ["steam-community-market"],
+  "createdBy": {
+    "name": "CS.MONEY team",
+    "url": "https://cs.money/about"
+  }
+}

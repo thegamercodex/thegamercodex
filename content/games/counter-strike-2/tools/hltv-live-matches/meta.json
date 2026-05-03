@@ -1,0 +1,39 @@
+{
+  "id": "hltv-live-matches",
+  "name": "HLTV Live Matches",
+  "shortName": "HLTV Matches",
+  "taglineEs": "Vista en vivo de partidas profesionales en curso de CS2 con schedule, brackets, scoreboards en tiempo real y predicciones",
+  "taglineEn": "Live view of in-progress professional CS2 matches with schedule, brackets, real-time scoreboards, and predictions",
+  "url": "https://www.hltv.org/matches",
+  "category": "live-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["live-matches", "schedule", "brackets", "esports", "real-time"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/hltv-live-matches-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/hltv-live-matches-list.png",
+      "captionEs": "Listado de matches en curso, próximos y recientes con scores en vivo",
+      "captionEn": "List of live, upcoming, and recent matches with live scores"
+    },
+    {
+      "url": "/images/tools/hltv-live-matches-detail.png",
+      "captionEs": "Detalle de match individual con scoreboard real-time, mapa actual y stream embed",
+      "captionEn": "Individual match detail with real-time scoreboard, current map, and stream embed"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["hltv", "liquipedia-cs"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Better Collective",
+    "url": "https://www.bettercollective.com"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "simple-radar",
+  "name": "Simple Radar",
+  "shortName": "Simple Radar",
+  "taglineEs": "Mod visual que reemplaza los radares default de CS2 por versiones más legibles y limpias para mejorar awareness en partida",
+  "taglineEn": "Visual mod that replaces CS2 default radars with cleaner, more readable versions to improve in-game awareness",
+  "url": "https://readtldr.gg/simpleradar",
+  "category": "training-tools",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows", "linux", "macos"],
+  "languages": ["en"],
+  "tags": ["radar", "visual-mod", "ux-improvement", "readtldr", "active-pool"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/simple-radar-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/simple-radar-comparison.png",
+      "captionEs": "Comparativa lado a lado del radar default vs Simple Radar en Mirage",
+      "captionEn": "Side-by-side comparison of default radar vs Simple Radar on Mirage"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["csnades-gg", "aim-botz"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "readtldr.gg",
+    "url": "https://readtldr.gg"
+  }
+}
