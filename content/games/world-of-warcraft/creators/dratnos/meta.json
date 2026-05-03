@@ -1,0 +1,51 @@
+{
+  "id": "dratnos",
+  "name": "Dratnos",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Dratnos",
+      "url": "https://www.youtube.com/@Dratnos",
+      "channelId": "UCI-FRT31iq5_xoFG6ngNcpw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "dratnos",
+      "url": "https://www.twitch.tv/dratnos"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Dratnos",
+      "url": "https://twitter.com/Dratnos"
+    }
+  ],
+  "specialties": [
+    "mythic-plus",
+    "vod-review",
+    "casting",
+    "esports-analysis"
+  ],
+  "games": ["world-of-warcraft"],
+  "contentTypes": ["videos", "live-streams", "casting"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Voz de referencia del scene de Mythic+ en WoW. Combina streams largos en Twitch — en buena parte VOD review de keys altas — con casts profesionales del Mythic Dungeon International junto a Tettles. Su lectura del juego es técnica pero accesible: explica decisiones segundo a segundo en lugar de slogans. Es de los pocos creators que la escena entera (de pugs altos a pros) trata como autoridad sin disputa.",
+  "noteEn": "Reference voice for the WoW Mythic+ scene. Combines long Twitch streams — largely VOD review of high keys — with professional Mythic Dungeon International casting alongside Tettles. His read of the game is technical but accessible: he explains decisions second-by-second rather than in slogans. One of the few creators the entire scene (from high pugs to pros) treats as undisputed authority.",
+  "highlightsEs": [
+    "Co-caster oficial del Mythic Dungeon International junto a Tettles",
+    "VOD reviews de keys altas en stream casi diariamente",
+    "Análisis técnico accesible: pulls breakdown segundo a segundo",
+    "Referencia consensual del Mythic+ scene a nivel global"
+  ],
+  "highlightsEn": [
+    "Official co-caster of Mythic Dungeon International alongside Tettles",
+    "Near-daily Twitch VOD reviews of high keys",
+    "Accessible technical analysis: second-by-second pull breakdowns",
+    "Consensus reference of the global Mythic+ scene"
+  ],
+  "avatar": "/images/creators/dratnos-avatar.jpg",
+  "banner": "/images/creators/dratnos-banner.jpg"
+}

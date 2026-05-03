@@ -1,0 +1,51 @@
+{
+  "id": "mrgm",
+  "name": "MrGM",
+  "country": "GB",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@MrGM",
+      "url": "https://www.youtube.com/@MrGM",
+      "channelId": "UCjZfZo5bI5-ITtRPBPZkIhw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "mrgm",
+      "url": "https://www.twitch.tv/mrgm"
+    },
+    {
+      "type": "twitter",
+      "handle": "@MrGM_TV",
+      "url": "https://twitter.com/MrGM_TV"
+    }
+  ],
+  "specialties": [
+    "news",
+    "datamining",
+    "patch-coverage",
+    "hotfix-tracking"
+  ],
+  "games": ["world-of-warcraft"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Anchor de news y datamining de WoW. Publica casi a diario videos cortos cubriendo patch notes, hotfixes, datamined content de PTR y rumores oficiales/no oficiales. El tono es informativo y rápido: no editorializa pesadamente, lo que lo vuelve útil como first stop al despertar para saber qué pasó en las últimas 24h. Si seguís WoW de cerca, es difícil evitarlo en el feed.",
+  "noteEn": "WoW news and datamining anchor. Publishes near-daily short videos covering patch notes, hotfixes, PTR datamined content, and official/unofficial rumors. Tone is informative and quick: doesn't editorialize heavily, which makes it useful as the first morning stop to catch up on the last 24h. If you follow WoW closely, hard to avoid in the feed.",
+  "highlightsEs": [
+    "Cobertura diaria de news, patch notes y hotfixes",
+    "Datamining de PTR con interpretación accesible",
+    "Tono informativo neutro, no opinion-driven",
+    "Cadencia de publicación casi diaria desde hace años"
+  ],
+  "highlightsEn": [
+    "Daily coverage of news, patch notes, and hotfixes",
+    "PTR datamining with accessible interpretation",
+    "Neutral informative tone, not opinion-driven",
+    "Near-daily publishing cadence sustained over years"
+  ],
+  "avatar": "/images/creators/mrgm-avatar.jpg",
+  "banner": "/images/creators/mrgm-banner.jpg"
+}

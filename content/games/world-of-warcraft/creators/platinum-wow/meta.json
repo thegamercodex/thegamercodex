@@ -1,0 +1,51 @@
+{
+  "id": "platinum-wow",
+  "name": "Platinum WoW",
+  "country": "AU",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@PlatinumWoW",
+      "url": "https://www.youtube.com/@PlatinumWoW",
+      "channelId": "UCTqUnnRlK-n44W6xPlx6JVQ",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "platinumwow",
+      "url": "https://www.twitch.tv/platinumwow"
+    },
+    {
+      "type": "twitter",
+      "handle": "@PlatinumWoW",
+      "url": "https://twitter.com/PlatinumWoW"
+    }
+  ],
+  "specialties": [
+    "lore",
+    "narrative-analysis",
+    "warcraft-universe",
+    "story-deep-dives"
+  ],
+  "games": ["world-of-warcraft"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Especialista en lore de Warcraft. Su tagline — 'I'm here to make WoW Lore fun' — describe bien el approach: convierte la narrativa del universo en videos accesibles para fans casuales y profundos para los que ya conocen los Cronos. Cubre arcos completos (Sylvanas, Arthas, Illidan), libros oficiales y rincones más oscuros del lore. Australiano, activo en YouTube hace varios años con cadencia regular.",
+  "noteEn": "Warcraft lore specialist. His tagline — 'I'm here to make WoW Lore fun' — captures the approach well: turns the universe's narrative into videos accessible for casual fans and deep for those who already know the Chronicles. Covers full arcs (Sylvanas, Arthas, Illidan), official books, and darker corners of lore. Australian, active on YouTube for several years with regular cadence.",
+  "highlightsEs": [
+    "Especialización en lore de Warcraft con cadencia regular",
+    "Cubre arcos narrativos completos de personajes principales",
+    "Lecturas accesibles para casuales y profundas para hardcore lore",
+    "Australiano, activo en YouTube y Twitch"
+  ],
+  "highlightsEn": [
+    "Warcraft lore specialization with regular cadence",
+    "Covers full narrative arcs of major characters",
+    "Accessible reads for casuals and deep dives for hardcore lore fans",
+    "Australian, active on YouTube and Twitch"
+  ],
+  "avatar": "/images/creators/platinum-wow-avatar.jpg",
+  "banner": "/images/creators/platinum-wow-banner.jpg"
+}

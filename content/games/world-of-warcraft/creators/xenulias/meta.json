@@ -1,0 +1,47 @@
+{
+  "id": "xenulias",
+  "name": "Xenulias",
+  "realName": "Xenu",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@xenulias",
+      "url": "https://www.youtube.com/@xenulias",
+      "channelId": "UCQJ4OxLPYeiTiTMLUhHWHcw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "xenulias",
+      "url": "https://www.twitch.tv/xenulias"
+    }
+  ],
+  "specialties": [
+    "spanish-coverage",
+    "guides",
+    "mmo-reflection",
+    "patch-coverage"
+  ],
+  "games": ["world-of-warcraft"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Uno de los pocos creators de WoW en español con cadencia consistente y producción cuidada. Cubre el juego mezclando guías prácticas, ensayos sobre el estado del MMO y reflexiones más amplias del género. El tono es calmo y editorialmente honesto — no es hype-driven ni rage-bait, lo cual lo distingue del promedio del scene. Para hispanohablantes que buscan content de WoW sin tener que pasarse al inglés, es referencia obligada.",
+  "noteEn": "One of the few WoW creators in Spanish with consistent cadence and careful production. Covers the game mixing practical guides, essays on the MMO's state, and broader reflections on the genre. Tone is calm and editorially honest — not hype-driven or rage-bait, which sets him apart from the scene average. For Spanish-speakers looking for WoW content without switching to English, mandatory reference.",
+  "highlightsEs": [
+    "Anchor del contenido de WoW en español con cadencia consistente",
+    "Producción cuidada con tono calmado, sin rage-bait",
+    "Mezcla guías prácticas con ensayos de estado del MMO",
+    "Activo en YouTube y Twitch simultáneamente"
+  ],
+  "highlightsEn": [
+    "Anchor for Spanish-language WoW content with consistent cadence",
+    "Careful production with calm tone, no rage-bait",
+    "Mixes practical guides with essays on MMO state",
+    "Active on YouTube and Twitch simultaneously"
+  ],
+  "avatar": "/images/creators/xenulias-avatar.jpg",
+  "banner": "/images/creators/xenulias-banner.jpg"
+}

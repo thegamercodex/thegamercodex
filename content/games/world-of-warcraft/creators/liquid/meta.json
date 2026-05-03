@@ -1,0 +1,52 @@
+{
+  "id": "liquid",
+  "name": "Liquid",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2021,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@TeamLiquidMMO",
+      "url": "https://www.youtube.com/@TeamLiquidMMO",
+      "channelId": "UCANKeVhjyPq-BihWPg_k9Hw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "teamliquid",
+      "url": "https://www.twitch.tv/teamliquid"
+    },
+    {
+      "type": "twitter",
+      "handle": "@LiquidGuild",
+      "url": "https://twitter.com/LiquidGuild"
+    }
+  ],
+  "specialties": [
+    "world-first-race",
+    "mythic-raid",
+    "esports",
+    "raid-content"
+  ],
+  "games": ["world-of-warcraft"],
+  "contentTypes": ["videos", "live-streams", "events"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Guild de raid hardcore que opera bajo Team Liquid. Sucesora directa de Limit (la guild ganó múltiples World Firsts como Limit antes de la adquisición por Team Liquid en 2021). El canal Team Liquid MMO publica recap del Race to World First, killshots, entrevistas y vlogs de la prep. Para fans del competitive raiding, es una de las dos o tres ventanas oficiales al frente del race junto con Echo y Method.",
+  "noteEn": "Hardcore raid guild operating under Team Liquid. Direct successor to Limit (the guild won multiple World Firsts as Limit before the 2021 Team Liquid acquisition). The Team Liquid MMO channel publishes Race to World First recaps, killshots, interviews, and prep vlogs. For competitive raiding fans, it's one of the two or three official windows into the race front alongside Echo and Method.",
+  "highlightsEs": [
+    "Sucesora de Limit, múltiples World Firsts entre ambas eras",
+    "Canal oficial Team Liquid MMO con coverage del RWF",
+    "Recap, killshots, entrevistas y vlogs post-tier",
+    "Una de las top 3 guilds en cualquier RWF moderno"
+  ],
+  "highlightsEn": [
+    "Successor to Limit, multiple World Firsts across both eras",
+    "Official Team Liquid MMO channel with RWF coverage",
+    "Recaps, killshots, interviews, and post-tier vlogs",
+    "One of the top 3 guilds in any modern RWF"
+  ],
+  "avatar": "/images/creators/liquid-avatar.jpg",
+  "banner": "/images/creators/liquid-banner.jpg"
+}
