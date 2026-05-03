@@ -1,0 +1,41 @@
+{
+  "id": "loldraftai",
+  "name": "LoLDraftAI",
+  "shortName": "LoLDraftAI",
+  "taglineEs": "Asistente de draft basado en machine learning para League of Legends, con predicción de win rate y sugerencias de pick/ban entrenado sobre miles de partidas competitivas",
+  "taglineEn": "Machine-learning-based draft assistant for League of Legends, with win rate prediction and pick/ban suggestions trained on thousands of competitive matches",
+  "url": "https://loldraftai.com",
+  "category": "draft-analysis",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/loldraftai",
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["draft", "machine-learning", "win-rate-prediction", "pick-ban", "ai", "experimental"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/loldraftai-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/loldraftai-draft.png",
+      "captionEs": "Vista del simulador de draft con champions seleccionados por equipo, prediction de win rate y sugerencias de próximo pick",
+      "captionEn": "Draft simulator view with selected champions per team, win rate prediction, and next-pick suggestions"
+    },
+    {
+      "url": "/images/tools/loldraftai-suggestions.png",
+      "captionEs": "Panel de sugerencias de pick rankeadas por delta de win rate predicho según el modelo entrenado",
+      "captionEn": "Pick suggestions panel ranked by predicted win rate delta according to the trained model"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["lolalytics", "u-gg"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "LoLDraftAI",
+    "url": "https://loldraftai.com"
+  }
+}

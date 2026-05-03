@@ -1,0 +1,41 @@
+{
+  "id": "mobalytics",
+  "name": "Mobalytics",
+  "shortName": "Mobalytics",
+  "taglineEs": "Plataforma de coaching y mejora para League of Legends, con el GPI (Gamer Performance Index) y análisis de áreas a mejorar partida por partida",
+  "taglineEn": "Coaching and improvement platform for League of Legends, with the GPI (Gamer Performance Index) and per-match analysis of areas to improve",
+  "url": "https://mobalytics.gg",
+  "category": "coaching",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web", "windows"],
+  "languages": ["en", "es", "ko", "fr", "de", "pt", "ru"],
+  "tags": ["coaching", "gpi", "performance-tracker", "champion-builds", "tier-list", "overlay", "popular"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/mobalytics-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/mobalytics-gpi.png",
+      "captionEs": "Vista del GPI con las 8 áreas de performance del jugador y feedback contextual por categoría",
+      "captionEn": "GPI view with the 8 player performance areas and contextual feedback per category"
+    },
+    {
+      "url": "/images/tools/mobalytics-build.png",
+      "captionEs": "Vista de build por champion con runas, items y matchups, integrada con la guía de coaching",
+      "captionEn": "Per-champion build view with runes, items, and matchups, integrated with coaching guidance"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["op-gg", "u-gg", "porofessor", "blitz-gg"],
+  "alternatives": ["porofessor", "blitz-gg"],
+  "createdBy": {
+    "name": "Mobalytics",
+    "url": "https://mobalytics.gg/about"
+  }
+}

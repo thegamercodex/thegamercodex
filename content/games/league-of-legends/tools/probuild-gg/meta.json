@@ -1,0 +1,41 @@
+{
+  "id": "probuild-gg",
+  "name": "Probuild.gg",
+  "shortName": "Probuild.gg",
+  "taglineEs": "Builds de jugadores profesionales de League of Legends con UX moderno, presentación visual limpia y experiencia mobile decente",
+  "taglineEn": "Professional-player builds for League of Legends with modern UX, clean visual presentation, and a decent mobile experience",
+  "url": "https://www.probuild.gg",
+  "category": "probuilds",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["pro-builds", "professional", "modern-ui", "mobile-friendly", "lcs", "lck", "lec", "lpl"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/probuild-gg-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/probuild-gg-champion.png",
+      "captionEs": "Vista de champion con cards modernas que muestran build, runas y datos del pro en formato visual limpio",
+      "captionEn": "Champion view with modern cards showing build, runes, and pro data in clean visual format"
+    },
+    {
+      "url": "/images/tools/probuild-gg-mobile.png",
+      "captionEs": "Experiencia mobile de Probuild.gg con layout responsive optimizado para consulta en el teléfono",
+      "captionEn": "Probuild.gg mobile experience with responsive layout optimized for phone lookups"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["probuilds-net", "u-gg", "op-gg"],
+  "alternatives": ["probuilds-net", "u-gg"],
+  "createdBy": {
+    "name": "Probuild.gg",
+    "url": "https://www.probuild.gg"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "leaguepedia",
+  "name": "Leaguepedia",
+  "shortName": "Leaguepedia",
+  "taglineEs": "Enciclopedia comunitaria del esports de League of Legends — torneos, equipos, jugadores, rosters históricos y resultados de cada partida competitiva oficial",
+  "taglineEn": "Community encyclopedia of League of Legends esports — tournaments, teams, players, historical rosters, and results of every official competitive match",
+  "url": "https://lol.fandom.com/wiki/League_of_Legends_Esports_Wiki",
+  "category": "esports-database",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": "CC BY-SA 3.0",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["esports", "encyclopedia", "tournaments", "teams", "players", "rosters", "fandom"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/leaguepedia-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/leaguepedia-tournament.png",
+      "captionEs": "Página de torneo con bracket, resultados, MVPs, picks/bans y links a páginas individuales de cada partida",
+      "captionEn": "Tournament page with bracket, results, MVPs, picks/bans, and links to individual pages for each match"
+    },
+    {
+      "url": "/images/tools/leaguepedia-player.png",
+      "captionEs": "Página de jugador profesional con histórico de equipos, resultados por temporada, achievements y stats agregadas",
+      "captionEn": "Pro player page with team history, per-season results, achievements, and aggregated stats"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["lol-wiki", "gol-gg", "oracles-elixir"],
+  "alternatives": ["gol-gg", "oracles-elixir"],
+  "createdBy": {
+    "name": "Leaguepedia community",
+    "url": "https://lol.fandom.com/wiki/League_of_Legends_Esports_Wiki:About"
+  }
+}

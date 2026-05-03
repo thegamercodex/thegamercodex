@@ -1,0 +1,41 @@
+{
+  "id": "lolalytics",
+  "name": "Lolalytics",
+  "shortName": "Lolalytics",
+  "taglineEs": "Análisis estadístico profundo de League of Legends por matchup, patch, rango y región — la tool más granular del ecosistema para theorycrafting",
+  "taglineEn": "Deep statistical analysis of League of Legends by matchup, patch, rank, and region — the most granular tool in the ecosystem for theorycrafting",
+  "url": "https://lolalytics.com",
+  "category": "meta-analysis",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["statistics", "matchup-analysis", "tier-list", "patch-analysis", "theorycrafting", "transparent-methodology"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/lolalytics-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/lolalytics-matchup.png",
+      "captionEs": "Vista de matchup champion vs champion con win rate por skill cap, por duración de partida y por composición",
+      "captionEn": "Champion-vs-champion matchup view with win rate by skill cap, by game duration, and by composition"
+    },
+    {
+      "url": "/images/tools/lolalytics-patch.png",
+      "captionEs": "Análisis de cambios de patch con delta de win rate por champion, item y rune respecto al patch anterior",
+      "captionEn": "Patch change analysis with win rate delta by champion, item, and rune relative to the previous patch"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["league-of-graphs", "u-gg", "op-gg", "mobalytics"],
+  "alternatives": ["league-of-graphs", "u-gg"],
+  "createdBy": {
+    "name": "Lolalytics",
+    "url": "https://lolalytics.com/about/"
+  }
+}

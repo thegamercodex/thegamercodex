@@ -7,20 +7,20 @@ Estado del batch de 15 tools curadas para LoL (lista original armada en chat ext
 | # | Tool | URL | Categoría | Status | Notas |
 |---|---|---|---|---|---|
 | 1 | OP.GG | https://www.op.gg | match-history | ✅ done | Anchor editorial. essential: true. Diferenciado vs Blitz.gg en su md. |
-| 2 | U.GG | https://u.gg | champion-builds | ⏳ pending | Verificar status "Riot-approved" — afecta `official` field y editorial |
-| 3 | Mobalytics | https://mobalytics.gg | coaching | ⏳ pending | Confirmar si sigue independiente o se movió a Overwolf platform |
-| 4 | Porofessor | https://porofessor.gg | live-analysis | ⏳ pending | Overlay de champ select; type probable `overlay` |
-| 5 | Blitz.gg | https://blitz.gg | match-history | ⏳ pending | Pareja con OP.GG. Editorial debe destacar paywall agresivo y telemetría |
-| 6 | Lolalytics | https://lolalytics.com | meta-analysis | ⏳ pending | Pareja con League of Graphs |
-| 7 | League of Graphs | https://www.leagueofgraphs.com | meta-analysis | ⏳ pending | Pareja con Lolalytics — diferenciar profundidad estadística vs current-patch focus |
-| 8 | Probuilds.net | https://www.probuilds.net | probuilds | ⏳ pending | El clásico, pareja con Probuild.gg |
-| 9 | Probuild.gg | https://www.probuild.gg | probuilds | ⏳ pending | UX moderno, pareja con Probuilds.net |
-| 10 | LoL Wiki Oficial | https://wiki.leagueoflegends.com | wiki | ⏳ pending | Riot-hosted, oficial. Mismo patrón que warcraft-wiki.com vs Fandom legacy |
-| 11 | Leaguepedia | https://lol.fandom.com/wiki/League_of_Legends_Esports_Wiki | esports-database | ⏳ pending | Aún en Fandom. Verificar si hubo migración a wiki.gg como WoW |
-| 12 | Gol.gg | https://gol.gg | esports-stats | ⏳ pending | Database europea de pro stats, pareja con Oracle's Elixir |
-| 13 | Oracle's Elixir | https://oracleselixir.com | esports-stats | ⏳ pending | Referencia anglosajona, datasets descargables |
-| 14 | LoLDraftAI | https://loldraftai.com | draft-analysis | ⏳ pending | Niche; verificar actividad/release date — posible tool nueva sin tracción todavía |
-| 15 | ChampionMastery.gg | https://championmastery.gg | progression-tracker | ⏳ pending | Verificar actividad reciente |
+| 2 | U.GG | https://u.gg | champion-builds | ✅ done | `official: false` (myth busted: no Riot Partner program para sites). Sección "La diferencia con OP.GG" agregada. essential: false. |
+| 3 | Mobalytics | https://mobalytics.gg | coaching | ✅ done | Desktop app en Overwolf desde nov-2022 (mencionado honestamente en limitaciones). Web app sin Overwolf runtime. essential: false. Sin sección "Diferenciación" — cluster único en coaching. |
+| 4 | Porofessor | https://porofessor.gg | live-analysis | ✅ done | type `overlay`, desktop app standalone (NO Overwolf — diferencial vs Mobalytics). Sección "La diferencia con Blitz.gg" agregada (specialist vs generalist). essential: false. |
+| 5 | Blitz.gg | https://blitz.gg | match-history | ✅ done | type `overlay` (overlay-first). Sin sección "Diferenciación" propia (ya referenciado desde OP.GG y Porofessor). Editorial destaca paywall + telemetría + footprint, recomienda alternativas especializadas. essential: false. |
+| 6 | Lolalytics | https://lolalytics.com | meta-analysis | ✅ done | Sección "La diferencia con League of Graphs" agregada (current-patch focus vs historical depth). difficulty: intermediate. essential: false. |
+| 7 | League of Graphs | https://www.leagueofgraphs.com | meta-analysis | ✅ done | Sin sección "Diferenciación" propia (referenciado desde Lolalytics). Editorial enfoca historical depth + records + curiosity stats. essential: false. |
+| 8 | Probuilds.net | https://www.probuilds.net | probuilds | ✅ done | Sección "La diferencia con Probuild.gg" agregada (legacy UX vs modern). Caveat editorial: builds de pros no escalan a rango medio. essential: false. |
+| 9 | Probuild.gg | https://www.probuild.gg | probuilds | ✅ done | Sin sección "Diferenciación" propia (referenciado desde Probuilds.net). Editorial enfoca mobile UX + presentación moderna. essential: false. |
+| 10 | LoL Wiki Oficial | https://wiki.leagueoflegends.com | wiki | ✅ done | id: `lol-wiki`. official: true (Weird Gloop partnership con Riot). essential: true (referencia canónica de números). Sección sobre Fandom legacy explícita. Cobertura solo game content (no esports). |
+| 11 | Leaguepedia | https://lol.fandom.com/wiki/League_of_Legends_Esports_Wiki | esports-database | ✅ done | Sigue en Fandom (no migró a wiki.gg, asimetría vs game wiki). official: false. essential: false. Sección "La situación con Fandom" explícita sobre UX issues. Cobertura solo esports (no game content). |
+| 12 | Gol.gg | https://gol.gg | esports-stats | ✅ done | Sección "La diferencia con Oracle's Elixir" agregada (navegabilidad vs raw data + EU vs anglo emphasis). difficulty: intermediate. essential: false. |
+| 13 | Oracle's Elixir | https://oracleselixir.com | esports-stats | ✅ done | id: `oracles-elixir`. Sin sección "Diferenciación" propia (referenciado desde Gol.gg). Editorial enfoca CSV datasets + blog editorial + single-maintainer (Tim Sevenhuysen). essential: false. |
+| 14 | LoLDraftAI | https://loldraftai.com | draft-analysis | ✅ done | Activa, modelo retrainado cada patch. Open source. Caveats editoriales: tool joven ~1 año, bus-factor 1, signal directional. essential: false. difficulty: intermediate. |
+| 15 | ChampionMastery.gg | https://championmastery.gg | progression-tracker | ✅ done | id: `championmastery-gg`. Open source (Derpthemeus), MIT, GitHub activo (último commit 2025-07-04 reaccionando a deprecación de summoner IDs). Niche puro: leaderboards de mastery. essential: false. |
 
 ## Orden de procesamiento sugerido
 
@@ -32,13 +32,16 @@ Estado del batch de 15 tools curadas para LoL (lista original armada en chat ext
 6. Cluster esports stats: Gol.gg, Oracle's Elixir
 7. Niche: LoLDraftAI, ChampionMastery.gg
 
-## Dudas pendientes a verificar (antes de escribir editorial)
+## Dudas verificadas (research 2026-05-03)
 
-- **U.GG "Riot-approved"**: confirmar si tiene endorsement formal de Riot. Afecta el campo `official` (probablemente sigue siendo `false` aunque el editorial lo mencione) y el quickTake.
-- **Mobalytics ↔ Overwolf**: verificar si la app actual corre dentro de Overwolf platform o sigue siendo standalone. Cambia el editorial sobre privacy/telemetría.
-- **LoL Wiki dual versions**: el oficial (`wiki.leagueoflegends.com`, Riot-hosted) reemplazó al legacy de Fandom (`leagueoflegends.fandom.com`). El editorial debe mencionar ambos y explicar por qué el oficial es la fuente actual. Mismo patrón que WoW (Warcraft Wiki vs Wowpedia legacy) y PoE (poewiki.net vs Fandom).
-- **Leaguepedia migración**: actualmente en `lol.fandom.com`, verificar si hubo movida a `wiki.gg` (como Warcraft Wiki). Si todavía está en Fandom, mencionar las prácticas de la plataforma honestamente.
-- **LoLDraftAI y ChampionMastery.gg**: tools menos mainstream. Verificar release date, último commit (si tienen GitHub), actividad reciente. Si están abandonadas o son betas inestables, considerar quitarlas del batch.
+- **U.GG "Riot-approved"** → ❌ No existe programa formal "Riot-approved/Partner" para tools/sites. Riot Partner Program es para *content creators*, no apps. U.GG fue sponsor de un segmento del LCS en 2019 (one-off), y su propio sitio incluye disclaimer "isn't endorsed by Riot Games". **Decisión**: `official: false`. Editorial puede mencionar las relaciones comerciales puntuales sin elevarlas a endorsement.
+- **Mobalytics ↔ Overwolf** → ✅ Migrado. Desktop app **corre dentro de Overwolf desde nov-2022** (anuncio dev blog 15-nov-2022). La app vieja (Electron standalone) está congelada, todo feature nuevo va al build de Overwolf. **Decisión editorial**: mencionar honestamente que la versión desktop requiere instalar el cliente Overwolf (runtime separado, ads de la plataforma, telemetría propia). El web app en navegador NO tiene esta limitación.
+- **LoL Wiki situación** → 🟡 Split asimétrico:
+  - Game wiki (champions/items/lore) → migrado a `wiki.leagueoflegends.com`, operado por **Weird Gloop** en partnership con Riot, oficial. **Decisión**: este tool va con `official: true`.
+  - Esports wiki (Leaguepedia) → **sigue en Fandom** (`lol.fandom.com`), no migró. Editorial: mencionar honestamente las limitaciones de Fandom (ads, mobile UX) sin demonizar.
+  - Mismo patrón split que WoW (Warcraft Wiki oficial vs Wowpedia legacy) — pero en LoL el esports todavía no encontró su "wiki.gg moment".
+- **LoLDraftAI** → ✅ Activo y reciente. Sitio live, indicador "Patch 16.09 · Updated May 2", blog activo, Discord público. Open-sourced ~mayo 2025. **Caveat editorial**: muy joven (~1 año), branded sin attribution personal visible — bus-factor 1, mencionar en "Limitaciones honestas".
+- **ChampionMastery.gg** → ✅ Activo. Repo GitHub con commits jun-jul 2025 (último 2025-07-04 reaccionando a deprecación de summoner IDs por Riot). Single-maintainer ("Derpthemeus") con track record largo. **Caveat editorial**: tool de nicho (solo mastery scores), no replacement para op.gg/U.GG.
 
 ## Convenciones editoriales aplicadas (heredadas del anchor OP.GG)
 
@@ -54,3 +57,15 @@ Estado del batch de 15 tools curadas para LoL (lista original armada en chat ext
 - Correr `npx next build` para confirmar SSG limpio.
 - Commit en bloque con mensaje descriptivo (no individual por tool).
 - Actualizar este tracker borrando la fila o marcándola completed cuando todo esté en main.
+
+## Estado final del batch (2026-05-03)
+
+15/15 tools done. Distribución:
+- **essential: true** (2): op-gg (anchor match-history), lol-wiki (referencia canónica de números).
+- **official: true** (1): lol-wiki (Weird Gloop / Riot partnership).
+- **openSource: true** (2): loldraftai (proyecto branded sin attribution personal), championmastery-gg (Derpthemeus, MIT).
+- **type overlay** (2): porofessor, blitz-gg.
+- **type reference** (2): lol-wiki, leaguepedia.
+- **type web-app** (11): el resto.
+
+Pendiente antes de commit: `npx next build` (requiere Node ≥20.9, no se pudo correr en esta sesión por Node 18/20.0 viejos disponibles localmente). Validación visual post-deploy planeada por el usuario.

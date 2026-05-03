@@ -1,0 +1,41 @@
+{
+  "id": "porofessor",
+  "name": "Porofessor",
+  "shortName": "Porofessor",
+  "taglineEs": "Overlay y web app especializado en champ select para League of Legends, con info instantánea de teammates y oponentes en partidas en vivo",
+  "taglineEn": "Overlay and web app specialized in champ select for League of Legends, with instant teammate and opponent info in live games",
+  "url": "https://porofessor.gg",
+  "category": "live-analysis",
+  "type": "overlay",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web", "windows"],
+  "languages": ["en", "fr", "es", "de", "pt", "ko"],
+  "tags": ["champ-select", "overlay", "live-game", "scout", "teammate-info"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/porofessor-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/porofessor-champ-select.png",
+      "captionEs": "Vista de champ select con resumen de cada jugador: rank, win rate reciente, champion mastery y nivel de tilt",
+      "captionEn": "Champ select view with each player's summary: rank, recent win rate, champion mastery, and tilt level"
+    },
+    {
+      "url": "/images/tools/porofessor-live-game.png",
+      "captionEs": "Live game con stats agregadas, threat assessment del enemigo y sugerencias de bans pre-partida",
+      "captionEn": "Live game with aggregated stats, enemy threat assessment, and pre-match ban suggestions"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["blitz-gg", "op-gg", "mobalytics", "u-gg"],
+  "alternatives": ["blitz-gg", "mobalytics"],
+  "createdBy": {
+    "name": "Porofessor",
+    "url": "https://porofessor.gg/about"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "championmastery-gg",
+  "name": "ChampionMastery.gg",
+  "shortName": "ChampionMastery.gg",
+  "taglineEs": "Leaderboards globales de Champion Mastery por región — ranking público de los jugadores con más mastery points en cada champion de League of Legends",
+  "taglineEn": "Global Champion Mastery leaderboards by region — public ranking of players with the most mastery points on each League of Legends champion",
+  "url": "https://championmastery.gg",
+  "category": "progression-tracker",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Derpthemeus/ChampionMastery.GG",
+  "license": "MIT",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["champion-mastery", "leaderboards", "rankings", "one-tricks", "open-source", "niche"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/championmastery-gg-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/championmastery-gg-leaderboard.png",
+      "captionEs": "Leaderboard global por champion con ranking de los jugadores con más mastery points y región",
+      "captionEn": "Global per-champion leaderboard with ranking of players with the most mastery points and region"
+    },
+    {
+      "url": "/images/tools/championmastery-gg-summoner.png",
+      "captionEs": "Vista de summoner con todos sus champions ordenados por mastery points y nivel alcanzado",
+      "captionEn": "Summoner view with all their champions ordered by mastery points and reached level"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["op-gg", "u-gg"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Derpthemeus",
+    "url": "https://github.com/Derpthemeus"
+  }
+}

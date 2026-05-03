@@ -1,0 +1,41 @@
+{
+  "id": "league-of-graphs",
+  "name": "League of Graphs",
+  "shortName": "League of Graphs",
+  "taglineEs": "Análisis estadístico histórico de League of Legends con gráficos de evolución multi-patch, leaderboards de records y stats curiosas que ninguna otra tool muestra",
+  "taglineEn": "Historical statistical analysis of League of Legends with multi-patch evolution graphs, record leaderboards, and curious stats no other tool shows",
+  "url": "https://www.leagueofgraphs.com",
+  "category": "meta-analysis",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en", "fr", "de", "es", "pt"],
+  "tags": ["statistics", "historical-trends", "leaderboards", "records", "patch-evolution", "infographics"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/league-of-graphs-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/league-of-graphs-evolution.png",
+      "captionEs": "Gráfico de evolución de win rate de un champion a lo largo de múltiples patches con anotaciones de cambios de balance",
+      "captionEn": "Win rate evolution graph of a champion across multiple patches with balance change annotations"
+    },
+    {
+      "url": "/images/tools/league-of-graphs-records.png",
+      "captionEs": "Leaderboard de records con partidas más largas, más kills y otros highlights estadísticos del meta",
+      "captionEn": "Records leaderboard with longest matches, most kills, and other statistical meta highlights"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["lolalytics", "u-gg", "op-gg", "mobalytics"],
+  "alternatives": ["lolalytics", "u-gg"],
+  "createdBy": {
+    "name": "League of Graphs",
+    "url": "https://www.leagueofgraphs.com/about"
+  }
+}

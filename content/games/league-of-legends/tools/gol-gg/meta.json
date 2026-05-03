@@ -1,0 +1,41 @@
+{
+  "id": "gol-gg",
+  "name": "Gol.gg",
+  "shortName": "Gol.gg",
+  "taglineEs": "Database analítica de stats profesionales de League of Legends desde 2014, con métricas profundas por partida, jugador, equipo y torneo — referencia europea del esports analítico",
+  "taglineEn": "Analytical database of professional League of Legends stats since 2014, with deep metrics per match, player, team, and tournament — European reference for analytical esports",
+  "url": "https://gol.gg",
+  "category": "esports-stats",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en", "fr"],
+  "tags": ["esports-stats", "pro-stats", "analytics", "tournaments", "advanced-metrics", "vision-score", "gold-differential"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/gol-gg-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/gol-gg-tournament.png",
+      "captionEs": "Vista de torneo con stats agregadas: KDA, gold per minute, vision score, damage share por jugador y por rol",
+      "captionEn": "Tournament view with aggregated stats: KDA, gold per minute, vision score, damage share by player and by role"
+    },
+    {
+      "url": "/images/tools/gol-gg-match.png",
+      "captionEs": "Vista de partida con timeline detallado, gold differential, picks/bans y KDA por minuto",
+      "captionEn": "Match view with detailed timeline, gold differential, picks/bans, and per-minute KDA"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["oracles-elixir", "leaguepedia"],
+  "alternatives": ["oracles-elixir"],
+  "createdBy": {
+    "name": "Gol.gg",
+    "url": "https://gol.gg"
+  }
+}

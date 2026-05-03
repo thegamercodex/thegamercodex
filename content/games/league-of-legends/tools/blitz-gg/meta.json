@@ -1,0 +1,41 @@
+{
+  "id": "blitz-gg",
+  "name": "Blitz.gg",
+  "shortName": "Blitz",
+  "taglineEs": "Asistente all-in-one para League of Legends con overlay nativo, builds automatizadas, runas auto-importadas y dashboard post-partida",
+  "taglineEn": "All-in-one assistant for League of Legends with native overlay, automated builds, auto-imported runes, and post-match dashboard",
+  "url": "https://blitz.gg",
+  "category": "match-history",
+  "type": "overlay",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web", "windows", "macos"],
+  "languages": ["en", "es", "ko", "fr", "de", "pt"],
+  "tags": ["overlay", "all-in-one", "automation", "match-history", "champ-select", "rune-import", "popular"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/blitz-gg-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/blitz-gg-overlay.png",
+      "captionEs": "Overlay durante champ select con builds, runas y matchup info importables al cliente con un click",
+      "captionEn": "Overlay during champ select with builds, runes, and matchup info importable to the client in one click"
+    },
+    {
+      "url": "/images/tools/blitz-gg-dashboard.png",
+      "captionEs": "Dashboard post-partida con KDA, performance comparativo y recomendaciones automáticas de mejora",
+      "captionEn": "Post-match dashboard with KDA, comparative performance, and automatic improvement recommendations"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["op-gg", "porofessor", "u-gg", "mobalytics"],
+  "alternatives": ["porofessor", "mobalytics"],
+  "createdBy": {
+    "name": "Blitz Esports",
+    "url": "https://blitz.gg/about"
+  }
+}

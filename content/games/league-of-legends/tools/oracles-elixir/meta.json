@@ -1,0 +1,41 @@
+{
+  "id": "oracles-elixir",
+  "name": "Oracle's Elixir",
+  "shortName": "Oracle's Elixir",
+  "taglineEs": "Database analítica del esports profesional de League of Legends mantenida por Tim Sevenhuysen, con datasets descargables en CSV y blog editorial — referencia anglosajona del análisis estadístico riguroso",
+  "taglineEn": "Analytical database of professional League of Legends esports maintained by Tim Sevenhuysen, with downloadable CSV datasets and editorial blog — Anglo reference for rigorous statistical analysis",
+  "url": "https://oracleselixir.com",
+  "category": "esports-stats",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["esports-stats", "pro-stats", "datasets", "csv-export", "editorial-analysis", "lcs", "advanced-metrics"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/oracles-elixir-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/oracles-elixir-tournament.png",
+      "captionEs": "Vista de torneo con stats agregadas, links a datasets descargables y secciones de análisis editorial",
+      "captionEn": "Tournament view with aggregated stats, links to downloadable datasets, and editorial analysis sections"
+    },
+    {
+      "url": "/images/tools/oracles-elixir-data.png",
+      "captionEs": "Sección de descarga de datasets en CSV con métricas por partida agregadas, accesibles para análisis externo",
+      "captionEn": "CSV dataset download section with aggregated per-match metrics, accessible for external analysis"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["gol-gg", "leaguepedia"],
+  "alternatives": ["gol-gg"],
+  "createdBy": {
+    "name": "Tim Sevenhuysen",
+    "url": "https://oracleselixir.com/about"
+  }
+}
