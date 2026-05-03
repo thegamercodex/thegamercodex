@@ -1,0 +1,41 @@
+{
+  "id": "wowanalyzer",
+  "name": "WoWAnalyzer",
+  "shortName": "WoWAnalyzer",
+  "taglineEs": "Análisis automatizado spec-by-spec de logs de Warcraft Logs con sugerencias accionables sobre rotación, uptime de buffs y uso de cooldowns",
+  "taglineEn": "Automated spec-by-spec analysis of Warcraft Logs reports with actionable suggestions about rotation, buff uptime, and cooldown usage",
+  "url": "https://wowanalyzer.com",
+  "category": "raid-logs",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/WoWAnalyzer/WoWAnalyzer",
+  "license": "AGPL-3.0",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["log-analysis", "spec-specific", "open-source", "actionable-feedback", "rotation-analysis"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/wowanalyzer-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/wowanalyzer-suggestions.png",
+      "captionEs": "Pestaña de sugerencias con issues priorizados por impacto en DPS y feedback accionable",
+      "captionEn": "Suggestions tab with issues prioritized by DPS impact and actionable feedback"
+    },
+    {
+      "url": "/images/tools/wowanalyzer-timeline.png",
+      "captionEs": "Timeline detallado de cooldown usage y eventos críticos por spec",
+      "captionEn": "Detailed timeline of cooldown usage and critical events per spec"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["warcraft-logs", "wipefest"],
+  "alternatives": ["wipefest"],
+  "createdBy": {
+    "name": "WoWAnalyzer community contributors",
+    "url": "https://github.com/WoWAnalyzer/WoWAnalyzer"
+  }
+}

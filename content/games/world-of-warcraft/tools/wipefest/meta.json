@@ -1,0 +1,40 @@
+{
+  "id": "wipefest",
+  "name": "Wipefest",
+  "shortName": "Wipefest",
+  "taglineEs": "Análisis de mecánicas de boss y wipes a partir de logs de Warcraft Logs: quién murió por qué, qué mecánica falló y cómo evitarla",
+  "taglineEn": "Boss mechanic and wipe analysis from Warcraft Logs reports: who died from what, which mechanic failed, and how to avoid it",
+  "url": "https://www.wipefest.gg",
+  "category": "raid-logs",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["mechanics-analysis", "wipe-analysis", "raid-leader-tool", "boss-encounters"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/wipefest-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/wipefest-events.png",
+      "captionEs": "Lista de eventos de mecánica por jugador con impacto en daño taken y muertes",
+      "captionEn": "List of mechanic events per player with damage taken impact and deaths"
+    },
+    {
+      "url": "/images/tools/wipefest-overview.png",
+      "captionEs": "Overview de un boss con resumen de mecánicas falladas por jugador y wipe causa principal",
+      "captionEn": "Boss overview with summary of failed mechanics per player and main wipe cause"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["warcraft-logs", "wowanalyzer"],
+  "alternatives": ["wowanalyzer"],
+  "createdBy": {
+    "name": "Wipefest team",
+    "url": "https://www.wipefest.gg"
+  }
+}

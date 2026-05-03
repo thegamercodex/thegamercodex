@@ -1,0 +1,40 @@
+{
+  "id": "icy-veins",
+  "name": "Icy Veins",
+  "shortName": "Icy Veins",
+  "taglineEs": "Portal de guías escritas para WoW desde 2010, con cobertura mainstream amplia de clases, raids, Mythic+ y PvP — accesible para players nuevos sin sacrificar profundidad",
+  "taglineEn": "Written guides portal for WoW since 2010, with broad mainstream coverage of classes, raids, Mythic+, and PvP — accessible for new players without sacrificing depth",
+  "url": "https://www.icy-veins.com",
+  "category": "guides",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["guides", "class-guides", "raid-guides", "mythic-plus", "pvp-guides", "beginner-friendly"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/icy-veins-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/icy-veins-class-guide.png",
+      "captionEs": "Estructura típica de guía de clase con rotación, talents, gear y tips por contenido",
+      "captionEn": "Typical class-guide structure with rotation, talents, gear, and per-content tips"
+    },
+    {
+      "url": "/images/tools/icy-veins-raid-guide.png",
+      "captionEs": "Guía de raid con strats por boss, mecánicas explicadas y videos de referencia",
+      "captionEn": "Raid guide with per-boss strats, explained mechanics, and reference videos"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["wowhead", "method", "archon-gg"],
+  "alternatives": ["method", "archon-gg"],
+  "createdBy": {
+    "name": "Icy Veins (Stan and team)",
+    "url": "https://www.icy-veins.com/wow/about-us"
+  }
+}

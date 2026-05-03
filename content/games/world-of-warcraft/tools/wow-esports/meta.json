@@ -1,0 +1,40 @@
+{
+  "id": "wow-esports",
+  "name": "WoW Esports",
+  "shortName": "WoW Esports",
+  "taglineEs": "Portal oficial de Blizzard para esports de WoW: cobertura de Mythic Dungeon International (MDI), Arena World Championship (AWC) y Race to World First (RWF)",
+  "taglineEn": "Blizzard's official WoW esports portal: Mythic Dungeon International (MDI), Arena World Championship (AWC), and Race to World First (RWF) coverage",
+  "url": "https://worldofwarcraft.blizzard.com/en-us/esports",
+  "category": "esports-tracker",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en", "es", "fr", "de", "it", "pt-BR", "ru", "ko", "zh-CN"],
+  "tags": ["official", "mdi", "awc", "rwf", "blizzard-promoted", "schedule-tracking"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/wow-esports-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/wow-esports-mdi.png",
+      "captionEs": "Página de Mythic Dungeon International con bracket, schedule y teams clasificados",
+      "captionEn": "Mythic Dungeon International page with bracket, schedule, and qualified teams"
+    },
+    {
+      "url": "/images/tools/wow-esports-awc.png",
+      "captionEs": "Cobertura de Arena World Championship con results, replays y team profiles",
+      "captionEn": "Arena World Championship coverage with results, replays, and team profiles"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["method", "raider-io"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Blizzard Entertainment",
+    "url": "https://www.blizzard.com"
+  }
+}

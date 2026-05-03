@@ -1,0 +1,40 @@
+{
+  "id": "raider-io",
+  "name": "Raider.IO",
+  "shortName": "Raider.IO",
+  "taglineEs": "El estándar global de tracking de Mythic+ y raid progression: scores, runs cronometrados, leaderboards por dungeon y addon companion para lookups in-game",
+  "taglineEn": "The global standard for Mythic+ and raid progression tracking: scores, timed runs, per-dungeon leaderboards, and a companion addon for in-game lookups",
+  "url": "https://raider.io",
+  "category": "mythic-plus-tracker",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web", "windows", "macos"],
+  "languages": ["en"],
+  "tags": ["mythic-plus", "raid-progression", "rio-score", "addon", "leaderboards", "premium-available", "essential"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/raider-io-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/raider-io-character.png",
+      "captionEs": "Página de personaje con score de Mythic+ por dungeon y mejores runs cronometradas",
+      "captionEn": "Character page with Mythic+ score per dungeon and best timed runs"
+    },
+    {
+      "url": "/images/tools/raider-io-leaderboards.png",
+      "captionEs": "Leaderboards por dungeon con composición de comp, tiempo y afixes de la temporada",
+      "captionEn": "Per-dungeon leaderboards with comp composition, timing, and season affixes"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["warcraft-logs", "wowhead"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Aspyric (Raider.IO team)",
+    "url": "https://raider.io/about"
+  }
+}

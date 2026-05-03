@@ -1,0 +1,40 @@
+{
+  "id": "method",
+  "name": "Method",
+  "shortName": "Method",
+  "taglineEs": "Portal de guías de hardcore raiding desde la perspectiva de top guild Mythic, cobertura del current tier con análisis denso y guides escritas por content creators de world-first race",
+  "taglineEn": "Hardcore raiding guides portal from the perspective of a top Mythic guild, current-tier coverage with dense analysis and guides written by world-first race content creators",
+  "url": "https://www.method.gg",
+  "category": "guides",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["hardcore-guides", "mythic-raid", "world-first", "high-skill", "video-content"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/method-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/method-raid-guide.png",
+      "captionEs": "Guía de boss Mythic con análisis de mecánicas y rotación de cooldowns desde top-guild perspective",
+      "captionEn": "Mythic boss guide with mechanic analysis and cooldown rotation from top-guild perspective"
+    },
+    {
+      "url": "/images/tools/method-class-guide.png",
+      "captionEs": "Guía de clase con foco en optimización Mythic y discusión de talents por encounter",
+      "captionEn": "Class guide focused on Mythic optimization and per-encounter talent discussion"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["icy-veins", "archon-gg"],
+  "alternatives": ["icy-veins", "archon-gg"],
+  "createdBy": {
+    "name": "Method (esports organization)",
+    "url": "https://www.method.gg/about"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tradeskillmaster",
+  "name": "TradeSkillMaster",
+  "shortName": "TSM",
+  "taglineEs": "Suite de auction house y goldmaking más completa de WoW: addon in-game + desktop app obligatoria + sitio web. Indispensable para auction farming y crafting profitable",
+  "taglineEn": "The most complete auction house and goldmaking suite in WoW: in-game addon + mandatory desktop app + website. Indispensable for auction farming and profitable crafting",
+  "url": "https://tradeskillmaster.com",
+  "category": "auction-house-tracker",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["windows", "macos", "web"],
+  "languages": ["en"],
+  "tags": ["auction-house", "goldmaking", "price-scanning", "crafting", "premium-available"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/tradeskillmaster-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/tradeskillmaster-app.png",
+      "captionEs": "TSM Desktop App ejecutando price scanning y subiendo data al cliente in-game",
+      "captionEn": "TSM Desktop App running price scanning and uploading data to the in-game client"
+    },
+    {
+      "url": "/images/tools/tradeskillmaster-ah.png",
+      "captionEs": "Auction interface in-game con TSM mostrando mark-up por item y profit estimado",
+      "captionEn": "In-game auction interface with TSM showing per-item markup and estimated profit"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["wowhead"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "TradeSkillMaster team",
+    "url": "https://tradeskillmaster.com/about"
+  }
+}

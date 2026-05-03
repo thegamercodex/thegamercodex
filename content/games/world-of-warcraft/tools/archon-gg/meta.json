@@ -1,0 +1,40 @@
+{
+  "id": "archon-gg",
+  "name": "Archon.gg",
+  "shortName": "Archon",
+  "taglineEs": "Guías de WoW basadas en datos agregados de top players: builds, talents, stat priorities y rotación con porcentajes reales del top 1% del meta actual",
+  "taglineEn": "WoW guides based on aggregated data from top players: builds, talents, stat priorities, and rotation with real percentages from the top 1% of the current meta",
+  "url": "https://www.archon.gg",
+  "category": "guides",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["data-driven", "meta-stats", "talent-builds", "top-players", "current-meta"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/archon-gg-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/archon-gg-talents.png",
+      "captionEs": "Talent builds con porcentajes de uso entre top players, rankeados por win rate y popularidad",
+      "captionEn": "Talent builds with usage percentages among top players, ranked by win rate and popularity"
+    },
+    {
+      "url": "/images/tools/archon-gg-stats.png",
+      "captionEs": "Stat priority basada en data agregada de mejores parses del current tier",
+      "captionEn": "Stat priority based on aggregated data from best current-tier parses"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["icy-veins", "method", "raidbots"],
+  "alternatives": ["icy-veins", "method"],
+  "createdBy": {
+    "name": "Archon team",
+    "url": "https://www.archon.gg"
+  }
+}

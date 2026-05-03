@@ -1,0 +1,40 @@
+{
+  "id": "warcraft-logs",
+  "name": "Warcraft Logs",
+  "shortName": "WCL",
+  "taglineEs": "El estándar global de logging y análisis de raids en WoW: parses, rankings, leaderboards y archivo histórico de combat data desde 2014",
+  "taglineEn": "The global standard for raid logging and analysis in WoW: parses, rankings, leaderboards, and historical combat data archive since 2014",
+  "url": "https://www.warcraftlogs.com",
+  "category": "raid-logs",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web", "windows", "macos"],
+  "languages": ["en"],
+  "tags": ["combat-log", "parses", "rankings", "leaderboards", "raid-analysis", "premium-available", "essential"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/warcraft-logs-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/warcraft-logs-report.png",
+      "captionEs": "Reporte de raid con timeline de daño, eventos por jugador y comparación con percentiles globales",
+      "captionEn": "Raid report with damage timeline, per-player events, and comparison against global percentiles"
+    },
+    {
+      "url": "/images/tools/warcraft-logs-rankings.png",
+      "captionEs": "Rankings por boss y spec con parses históricos y filtros por difficulty",
+      "captionEn": "Rankings by boss and spec with historical parses and difficulty filters"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["wowanalyzer", "wipefest", "raider-io"],
+  "alternatives": ["wowanalyzer"],
+  "createdBy": {
+    "name": "Kihra (Fanbyte, subsidiary of Tencent)",
+    "url": "https://www.fanbyte.com"
+  }
+}
