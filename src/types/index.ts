@@ -20,7 +20,10 @@ export type StorePlatform =
   | "nintendo"
   | "battlenet"
   | "origin"
-  | "uplay";
+  | "uplay"
+  | "riot-client"
+  | "app-store"
+  | "google-play";
 
 export type ToolType =
   | "software"
@@ -29,7 +32,8 @@ export type ToolType =
   | "browser-extension"
   | "mobile-app"
   | "official-service"
-  | "reference";
+  | "reference"
+  | "discord";
 
 export type Difficulty = "beginner" | "intermediate" | "advanced";
 

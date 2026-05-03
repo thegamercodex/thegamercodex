@@ -1,0 +1,41 @@
+{
+    "id": "exilence-ce",
+    "name": "Exilence CE",
+    "shortName": "Exilence CE",
+    "taglineEs": "Tracker de net worth y profit por hora para Path of Exile, sucesor comunitario de Exilence Next",
+    "taglineEn": "Net worth and profit-per-hour tracker for Path of Exile, community successor to Exilence Next",
+    "url": "https://github.com/exilence-ce/exilence-ce",
+    "category": "economy",
+    "type": "software",
+    "official": false,
+    "free": true,
+    "openSource": true,
+    "github": "https://github.com/exilence-ce/exilence-ce",
+    "license": "CC-BY-NC-3.0",
+    "platforms": ["windows", "macos", "linux"],
+    "languages": ["en"],
+    "tags": ["net-worth", "profit-tracker", "stash-snapshot", "currency-tracking", "party-mode", "farming-analytics"],
+    "essential": false,
+    "difficulty": "intermediate",
+    "lastVerified": "2026-05-03",
+    "logo": "/images/tools/exilence-ce-logo.png",
+    "screenshots": [
+      {
+        "url": "/images/tools/exilence-ce-dashboard.png",
+        "captionEs": "Dashboard principal mostrando net worth total y desglose por categorías",
+        "captionEn": "Main dashboard showing total net worth and category breakdown"
+      },
+      {
+        "url": "/images/tools/exilence-ce-income.png",
+        "captionEs": "Gráfico de income por hora con snapshots históricos de la sesión",
+        "captionEn": "Hourly income graph with historical session snapshots"
+      }
+    ],
+    "videos": [],
+    "relatedTools": ["poe-ninja", "poe-trade-official"],
+    "alternatives": ["wealthy-exile"],
+    "createdBy": {
+      "name": "Exilence CE community (originally Viktor Gullmark)",
+      "url": "https://github.com/exilence-ce"
+    }
+  }

@@ -6,7 +6,7 @@
     "taglineEn": "GGG's official trading site, the backbone of the Path of Exile market",
     "url": "https://www.pathofexile.com/trade",
     "category": "trading",
-    "type": "web",
+    "type": "official-service",
     "official": true,
     "free": true,
     "openSource": false,
@@ -34,6 +34,8 @@
     "videos": [],
     "relatedTools": ["awakened-poe-trade", "poe-ninja"],
     "alternatives": [],
-    "createdBy": "Grinding Gear Games",
-    "multiGame": false
+    "createdBy": {
+      "name": "Grinding Gear Games",
+      "url": "https://www.grindinggear.com"
+    }
   }

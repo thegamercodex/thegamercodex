@@ -17,12 +17,12 @@
         "model": "free-to-play"
       },
       {
-        "platform": "ios",
+        "platform": "app-store",
         "url": "https://apps.apple.com/us/app/genshin-impact/id1517783697",
         "model": "free-to-play"
       },
       {
-        "platform": "android",
+        "platform": "google-play",
         "url": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
         "model": "free-to-play"
       }

@@ -1,0 +1,41 @@
+{
+    "id": "poe-filter",
+    "name": "PoE Filter",
+    "shortName": "PoE Filter",
+    "taglineEs": "Generador de loot filters minimalista que respeta la estética original de Path of Exile, alternativa filosófica a FilterBlade",
+    "taglineEn": "Minimalist loot filter generator that respects Path of Exile's original aesthetic, philosophical alternative to FilterBlade",
+    "url": "https://poe1filter.com",
+    "category": "filters",
+    "type": "web-app",
+    "official": false,
+    "free": true,
+    "openSource": false,
+    "github": null,
+    "license": null,
+    "platforms": ["web"],
+    "languages": ["en"],
+    "tags": ["loot-filter", "minimalist", "drop-tier-system", "poe-ninja-integration", "oauth-sync", "alternative-to-filterblade"],
+    "essential": false,
+    "difficulty": "beginner",
+    "lastVerified": "2026-05-03",
+    "logo": "/images/tools/poe-filter-logo.png",
+    "screenshots": [
+      {
+        "url": "/images/tools/poe-filter-tier-list.png",
+        "captionEs": "Sistema de Drop Tiers con drag-and-drop para personalizar valor de uniques y currency",
+        "captionEn": "Drop Tier system with drag-and-drop to customize unique and currency value"
+      },
+      {
+        "url": "/images/tools/poe-filter-in-game.png",
+        "captionEs": "Filter aplicado in-game mostrando estilos minimalistas con tiered highlights",
+        "captionEn": "Filter applied in-game showing minimalist styles with tiered highlights"
+      }
+    ],
+    "videos": [],
+    "relatedTools": ["filterblade", "poe-ninja", "poedb"],
+    "alternatives": ["filterblade"],
+    "createdBy": {
+      "name": "Independent developer (poe1filter.com / poe2filter.com)",
+      "url": "https://poe1filter.com"
+    }
+  }

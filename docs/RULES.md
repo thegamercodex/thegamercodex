@@ -51,8 +51,7 @@ Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas está
 - Asume **ids únicos globalmente** (entre juegos, entre creators, entre tools). Si en el futuro hubiera colisión, agregar prefijo de juego al asset.
 - Tools multi-game (ej. Maxroll) reusan el mismo `<tool-id>-logo.<ext>` desde cualquier juego donde aparezcan.
 - Hero del juego **≥1500px de ancho** (cap visual del banner). Imágenes más chicas se ven pixeladas en monitores ultrawide.
-- Formato preferido: `.webp` o `.avif`. JPG si no hay otra opción.
-- Logo del juego y de tools: **PNG con fondo transparente**.
+- **Formatos aceptados** (cualquier asset del proyecto: hero, logo, avatar, banner, screenshot): `.png`, `.jpg`, `.svg`, `.webp`. Para hero images preferir `.webp` por peso/calidad. Para logos preferir `.png` o `.svg` con fondo transparente. `.jpg` queda como opción válida cuando solo se tiene fuente JPEG.
 - Si un asset no existe, los componentes hacen fallback automático (initial letter, sección omitida) gracias a `existsSync`. **NO añadir imágenes rotas** a producción.
 - `next.config.ts` tiene `images.remotePatterns` para `**.ytimg.com` (thumbnails de YouTube). Otros dominios externos requieren agregar pattern.
 

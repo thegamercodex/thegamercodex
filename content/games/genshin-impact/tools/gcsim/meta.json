@@ -5,8 +5,8 @@
     "taglineEs": "Simulador Monte Carlo de combate y DPS de equipo, frame por frame",
     "taglineEn": "Monte Carlo combat and team DPS simulator, frame by frame",
     "url": "https://gcsim.app",
-    "category": "damage-calculator",
-    "type": "web",
+    "category": "damage-calculation",
+    "type": "web-app",
     "official": false,
     "free": true,
     "openSource": true,
@@ -34,6 +34,8 @@
     "videos": [],
     "relatedTools": ["genshin-optimizer", "akasha-system", "enka-network"],
     "alternatives": [],
-    "createdBy": "genshinsim",
-    "multiGame": false
+    "createdBy": {
+      "name": "genshinsim",
+      "url": "https://github.com/genshinsim"
+    }
   }

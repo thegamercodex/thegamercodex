@@ -1,0 +1,143 @@
+{
+    "id": "counter-strike-2",
+    "name": "Counter-Strike 2",
+    "shortName": "CS2",
+    "developer": "Valve Corporation",
+    "releaseYear": 2023,
+    "officialUrl": "https://www.counter-strike.net",
+    "stores": [
+      {
+        "platform": "steam",
+        "url": "https://store.steampowered.com/app/730/CounterStrike_2/",
+        "appId": "730",
+        "model": "free-to-play"
+      }
+    ],
+    "monetization": {
+      "model": "free-to-play",
+      "hasInGamePurchases": true,
+      "purchaseTypes": ["weapon-skins", "cases", "keys", "stickers", "agents", "gloves", "music-kits", "prime-status"],
+      "payToWin": false,
+      "noteEs": "Free-to-play con modelo de monetización basado en cosméticos (skins de armas, agents, stickers, gloves) intercambiables vía Steam Marketplace. Las cases requieren keys de $2.50 USD para abrirse y dropean skins de rareza variable. El Prime Status Upgrade (~$15 USD) es opcional y desbloquea matchmaking competitivo, drops semanales y filtros anti-cheat más estrictos. Ningún cosmético afecta gameplay. La economía de skins es masiva: en 2025 generó $1.16 billion USD via cases ($800M) y marketplace fees ($166M). Algunas skins raras valen miles de dólares, lo cual genera economía secundaria de trading especulativo, pero esto es independiente del competitive integrity del juego.",
+      "noteEn": "Free-to-play with cosmetics-based monetization model (weapon skins, agents, stickers, gloves) tradeable via Steam Marketplace. Cases require $2.50 USD keys to open and drop skins of variable rarity. Prime Status Upgrade (~$15 USD) is optional and unlocks competitive matchmaking, weekly drops, and stricter anti-cheat filters. No cosmetic affects gameplay. The skin economy is massive: in 2025 it generated $1.16 billion USD via cases ($800M) and marketplace fees ($166M). Some rare skins are worth thousands of dollars, generating a secondary speculative trading economy, but this is independent of the game's competitive integrity."
+    },
+    "platforms": ["windows", "linux"],
+    "genres": ["fps", "tactical-shooter", "competitive", "esports"],
+    "theme": {
+      "primary": "#1a1a1a",
+      "secondary": "#2a2d34",
+      "accent": "#de9b35",
+      "background": "#0d0d0d",
+      "text": "#e8e8e8"
+    },
+    "logo": "/images/games/counter-strike-2-logo.svg",
+    "heroImage": "/images/games/counter-strike-2-hero.jpg",
+    "toolCategories": [
+      {
+        "id": "esports-stats",
+        "nameEs": "Stats de esports",
+        "nameEn": "Esports stats",
+        "descriptionEs": "Estadísticas profesionales: rankings de equipos, jugadores, resultados de torneos y rating de performance.",
+        "descriptionEn": "Professional statistics: team rankings, players, tournament results, and performance ratings.",
+        "icon": "🏆"
+      },
+      {
+        "id": "match-history",
+        "nameEs": "Historial de partidas",
+        "nameEn": "Match history",
+        "descriptionEs": "Tracking de partidas, stats personales, performance por mapa y rating ELO.",
+        "descriptionEn": "Match tracking, personal stats, per-map performance, and ELO rating.",
+        "icon": "📊"
+      },
+      {
+        "id": "demo-analysis",
+        "nameEs": "Análisis de demos",
+        "nameEn": "Demo analysis",
+        "descriptionEs": "Herramientas para revisar demos, analizar errores tácticos, vision de map control y mejorar habilidad individual.",
+        "descriptionEn": "Tools to review demos, analyze tactical errors, map control vision, and improve individual skill.",
+        "icon": "🎬"
+      },
+      {
+        "id": "competitive-platform",
+        "nameEs": "Plataformas competitivas",
+        "nameEn": "Competitive platforms",
+        "descriptionEs": "Plataformas third-party con matchmaking propio, ligas y torneos: Faceit, ESEA y similares.",
+        "descriptionEn": "Third-party platforms with own matchmaking, leagues and tournaments: Faceit, ESEA, and similar.",
+        "icon": "⚔️"
+      },
+      {
+        "id": "skin-marketplace",
+        "nameEs": "Marketplace de skins",
+        "nameEn": "Skin marketplace",
+        "descriptionEs": "Plataformas de trading, pricing y análisis de la economía de skins de CS2.",
+        "descriptionEn": "Trading platforms, pricing tools, and CS2 skin economy analysis.",
+        "icon": "💰"
+      },
+      {
+        "id": "training-tools",
+        "nameEs": "Tools de entrenamiento",
+        "nameEn": "Training tools",
+        "descriptionEs": "Maps custom y servers de práctica para aim, recoil control, smokes, flashes y movement.",
+        "descriptionEn": "Custom maps and practice servers for aim, recoil control, smokes, flashes, and movement.",
+        "icon": "🎯"
+      },
+      {
+        "id": "lineups-database",
+        "nameEs": "Database de lineups",
+        "nameEn": "Lineups database",
+        "descriptionEs": "Bibliotecas de lineups de granadas, smokes, flashes y molotovs por mapa y posición.",
+        "descriptionEn": "Libraries of grenade lineups, smokes, flashes, and molotovs by map and position.",
+        "icon": "💣"
+      },
+      {
+        "id": "live-tracking",
+        "nameEs": "Tracking en vivo",
+        "nameEn": "Live tracking",
+        "descriptionEs": "Streams en vivo de torneos, brackets, schedules y predictions de matches profesionales.",
+        "descriptionEn": "Live tournament streams, brackets, schedules, and professional match predictions.",
+        "icon": "🔴"
+      }
+    ],
+    "resourceCategories": [
+      {
+        "id": "beginner-guides",
+        "nameEs": "Guías para principiantes",
+        "nameEn": "Beginner guides",
+        "descriptionEs": "Recursos de entrada: economía, callouts, fundamentos de aim y posicionamiento básico.",
+        "descriptionEn": "Entry resources: economy, callouts, aim fundamentals, and basic positioning.",
+        "icon": "🎓"
+      },
+      {
+        "id": "map-guides",
+        "nameEs": "Guías de mapas",
+        "nameEn": "Map guides",
+        "descriptionEs": "Walkthroughs por mapa: callouts, ángulos, posiciones meta, smokes y rotaciones.",
+        "descriptionEn": "Per-map walkthroughs: callouts, angles, meta positions, smokes, and rotations.",
+        "icon": "🗺️"
+      },
+      {
+        "id": "aim-improvement",
+        "nameEs": "Mejora de aim",
+        "nameEn": "Aim improvement",
+        "descriptionEs": "Recursos para mejorar precisión, recoil control, crosshair placement y reflejos.",
+        "descriptionEn": "Resources to improve precision, recoil control, crosshair placement, and reflexes.",
+        "icon": "🎯"
+      },
+      {
+        "id": "patch-coverage",
+        "nameEs": "Cobertura de updates",
+        "nameEn": "Update coverage",
+        "descriptionEs": "Análisis de cambios de Valve: balance de armas, mapas, mecánicas y meta shifts.",
+        "descriptionEn": "Analysis of Valve changes: weapon balance, maps, mechanics, and meta shifts.",
+        "icon": "📋"
+      },
+      {
+        "id": "esports-coverage",
+        "nameEs": "Cobertura de esports",
+        "nameEn": "Esports coverage",
+        "descriptionEs": "Majors, IEM, BLAST, ESL Pro League: análisis, predicciones, recaps de pro plays.",
+        "descriptionEn": "Majors, IEM, BLAST, ESL Pro League: analysis, predictions, pro play recaps.",
+        "icon": "📺"
+      }
+    ]
+  }

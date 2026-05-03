@@ -1,0 +1,166 @@
+{
+  "id": "league-of-legends",
+  "name": "League of Legends",
+  "shortName": "LoL",
+  "developer": "Riot Games",
+  "releaseYear": 2009,
+  "officialUrl": "https://www.leagueoflegends.com",
+  "stores": [
+    {
+      "platform": "riot-client",
+      "url": "https://www.leagueoflegends.com/en-us/how-to-play/",
+      "model": "free-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "free-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["cosmetics", "champions", "battle-pass", "loot-boxes"],
+    "payToWin": false,
+    "noteEs": "Free-to-play con monetización exclusivamente cosmética y desbloqueo de campeones. Todos los campeones se pueden conseguir gratis con currency in-game (Blue Essence) farmeable jugando partidas. Las skins son puramente cosméticas, no afectan gameplay. Las loot boxes (Hextech Chests) se obtienen jugando, no requieren compra obligatoria. No es pay-to-win en ningún sentido competitivo.",
+    "noteEn": "Free-to-play with exclusively cosmetic and champion unlock monetization. All champions can be obtained free with in-game currency (Blue Essence) farmable by playing matches. Skins are purely cosmetic, don't affect gameplay. Loot boxes (Hextech Chests) are obtained by playing, don't require mandatory purchase. Not pay-to-win in any competitive sense."
+  },
+  "platforms": ["windows", "macos"],
+  "genres": ["moba", "team-based", "competitive", "esports"],
+  "theme": {
+    "primary": "#0a1428",
+    "secondary": "#091428",
+    "accent": "#c89b3c",
+    "background": "#010a13",
+    "text": "#f0e6d2"
+  },
+  "logo": "/images/games/league-of-legends-logo.svg",
+  "heroImage": "/images/games/league-of-legends-hero.jpg",
+  "toolCategories": [
+    {
+      "id": "match-history",
+      "nameEs": "Historial de partidas",
+      "nameEn": "Match history",
+      "descriptionEs": "Tracking de partidas, stats personales, performance por champion y análisis post-game.",
+      "descriptionEn": "Match tracking, personal stats, per-champion performance, and post-game analysis.",
+      "icon": "📊"
+    },
+    {
+      "id": "champion-builds",
+      "nameEs": "Builds de campeones",
+      "nameEn": "Champion builds",
+      "descriptionEs": "Builds recomendadas de items, runas y orden de habilidades por champion según el meta.",
+      "descriptionEn": "Recommended item builds, runes, and skill orders per champion based on current meta.",
+      "icon": "⚔️"
+    },
+    {
+      "id": "coaching",
+      "nameEs": "Coaching y mejora",
+      "nameEn": "Coaching & improvement",
+      "descriptionEs": "Plataformas con análisis de comportamiento, GPI, sugerencias personalizadas y planes de mejora.",
+      "descriptionEn": "Platforms with behavior analysis, GPI, personalized suggestions, and improvement plans.",
+      "icon": "🎓"
+    },
+    {
+      "id": "live-analysis",
+      "nameEs": "Análisis en vivo",
+      "nameEn": "Live analysis",
+      "descriptionEs": "Overlays e insights en tiempo real durante champ select y partida.",
+      "descriptionEn": "Real-time overlays and insights during champ select and matches.",
+      "icon": "🔴"
+    },
+    {
+      "id": "meta-analysis",
+      "nameEs": "Análisis del meta",
+      "nameEn": "Meta analysis",
+      "descriptionEs": "Estadísticas globales de win rate, pick rate, ban rate y trends del patch actual.",
+      "descriptionEn": "Global statistics for win rate, pick rate, ban rate, and current patch trends.",
+      "icon": "📈"
+    },
+    {
+      "id": "probuilds",
+      "nameEs": "Builds de pros",
+      "nameEn": "Pro builds",
+      "descriptionEs": "Builds, runas y matches de jugadores profesionales de las ligas competitivas.",
+      "descriptionEn": "Builds, runes, and matches from professional players in competitive leagues.",
+      "icon": "🏅"
+    },
+    {
+      "id": "draft-analysis",
+      "nameEs": "Análisis de draft",
+      "nameEn": "Draft analysis",
+      "descriptionEs": "Predicción de win rate, sugerencias de picks/bans y análisis estratégico de composiciones.",
+      "descriptionEn": "Win rate prediction, pick/ban suggestions, and strategic team composition analysis.",
+      "icon": "🎯"
+    },
+    {
+      "id": "esports-database",
+      "nameEs": "Database de esports",
+      "nameEn": "Esports database",
+      "descriptionEs": "Wikis y enciclopedias de la scene competitiva: equipos, jugadores, ligas, historia de torneos.",
+      "descriptionEn": "Wikis and encyclopedias of the competitive scene: teams, players, leagues, tournament history.",
+      "icon": "🏆"
+    },
+    {
+      "id": "esports-stats",
+      "nameEs": "Stats de esports",
+      "nameEn": "Esports stats",
+      "descriptionEs": "Estadísticas profundas de pro plays: KDA, gold differential, vision score y métricas de equipo.",
+      "descriptionEn": "Deep pro play statistics: KDA, gold differential, vision score, and team metrics.",
+      "icon": "📉"
+    },
+    {
+      "id": "wiki",
+      "nameEs": "Wikis y referencia",
+      "nameEn": "Wikis & reference",
+      "descriptionEs": "Bases de datos enciclopédicas con campeones, items, mecánicas, lore e historia del juego.",
+      "descriptionEn": "Encyclopedic databases with champions, items, mechanics, lore, and game history.",
+      "icon": "📚"
+    },
+    {
+      "id": "progression-tracker",
+      "nameEs": "Tracking de progresión",
+      "nameEn": "Progression tracker",
+      "descriptionEs": "Leaderboards de Champion Mastery, milestones por campeón y rankings de mastery points.",
+      "descriptionEn": "Champion Mastery leaderboards, per-champion milestones, and mastery point rankings.",
+      "icon": "⭐"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para principiantes",
+      "nameEn": "Beginner guides",
+      "descriptionEs": "Recursos de entrada para nuevos jugadores: roles, mecánicas básicas, primeros campeones.",
+      "descriptionEn": "Entry resources for new players: roles, basic mechanics, first champions.",
+      "icon": "🎓"
+    },
+    {
+      "id": "champion-guides",
+      "nameEs": "Guías de campeones",
+      "nameEn": "Champion guides",
+      "descriptionEs": "Guías específicas por champion: matchups, combos, builds y tips avanzados.",
+      "descriptionEn": "Champion-specific guides: matchups, combos, builds, and advanced tips.",
+      "icon": "⚔️"
+    },
+    {
+      "id": "patch-coverage",
+      "nameEs": "Cobertura de parches",
+      "nameEn": "Patch coverage",
+      "descriptionEs": "Análisis de cambios de balance, items, runas y meta shifts cada dos semanas.",
+      "descriptionEn": "Analysis of balance changes, items, runes, and meta shifts every two weeks.",
+      "icon": "📋"
+    },
+    {
+      "id": "esports-coverage",
+      "nameEs": "Cobertura de esports",
+      "nameEn": "Esports coverage",
+      "descriptionEs": "LCK, LPL, LEC, LCS, MSI y Worlds: análisis, predicciones, recaps y entrevistas.",
+      "descriptionEn": "LCK, LPL, LEC, LCS, MSI, and Worlds: analysis, predictions, recaps, and interviews.",
+      "icon": "📺"
+    },
+    {
+      "id": "ranked-improvement",
+      "nameEs": "Mejora en ranked",
+      "nameEn": "Ranked improvement",
+      "descriptionEs": "Recursos para subir de elo: macro game, mentalidad, climbing strategies y review de partidas.",
+      "descriptionEn": "Resources for climbing elo: macro game, mindset, climbing strategies, and match reviews.",
+      "icon": "📈"
+    }
+  ]
+}

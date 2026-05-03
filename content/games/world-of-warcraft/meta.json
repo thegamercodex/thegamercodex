@@ -1,0 +1,150 @@
+{
+  "id": "world-of-warcraft",
+  "name": "World of Warcraft",
+  "shortName": "WoW",
+  "developer": "Blizzard Entertainment",
+  "releaseYear": 2004,
+  "officialUrl": "https://worldofwarcraft.blizzard.com",
+  "stores": [
+    {
+      "platform": "battlenet",
+      "url": "https://us.shop.battle.net/en-us/family/world-of-warcraft",
+      "model": "subscription"
+    }
+  ],
+  "monetization": {
+    "model": "subscription",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["subscription", "expansions", "cosmetics", "mounts", "pets", "services", "wow-token"],
+    "payToWin": false,
+    "noteEs": "Modelo de suscripción mensual ($14.99 USD) que da acceso completo al juego. Las expansiones se compran aparte (típicamente $50-90 USD cada una). El shop in-game vende mounts, pets y skins puramente cosméticos, además de servicios como cambio de servidor o transferencia de personaje. El WoW Token ($20 USD) permite convertir dinero real en gold in-game o redimirlo por tiempo de juego, lo cual técnicamente da ventajas económicas pero no afecta progresión PvE/PvP directamente. No es pay-to-win en sentido competitivo: el power se obtiene mediante gear que se dropea jugando, y no se puede comprar con dinero real.",
+    "noteEn": "Monthly subscription model ($14.99 USD) that grants full access to the game. Expansions are purchased separately (typically $50-90 USD each). The in-game shop sells purely cosmetic mounts, pets, and skins, plus services like server transfer or character transfer. The WoW Token ($20 USD) lets players convert real money to in-game gold or redeem it for game time, which technically grants economic advantages but doesn't directly affect PvE/PvP progression. Not pay-to-win in a competitive sense: power is obtained through gear that drops by playing, and cannot be purchased with real money."
+  },
+  "platforms": ["windows", "macos"],
+  "genres": ["mmorpg", "fantasy", "raid-pve", "pvp", "esports"],
+  "theme": {
+    "primary": "#1a1c2e",
+    "secondary": "#2d2438",
+    "accent": "#f8b700",
+    "background": "#0d0e1a",
+    "text": "#e8d5a0"
+  },
+  "logo": "/images/games/world-of-warcraft-logo.svg",
+  "heroImage": "/images/games/world-of-warcraft-hero.jpg",
+  "toolCategories": [
+    {
+      "id": "wiki",
+      "nameEs": "Wikis y databases",
+      "nameEn": "Wikis & databases",
+      "descriptionEs": "Bases de datos y enciclopedias con información completa de items, NPCs, quests, mecánicas y lore.",
+      "descriptionEn": "Databases and encyclopedias with complete information on items, NPCs, quests, mechanics, and lore.",
+      "icon": "📚"
+    },
+    {
+      "id": "raid-logs",
+      "nameEs": "Logs de combate y análisis",
+      "nameEn": "Combat logs & analysis",
+      "descriptionEs": "Herramientas para grabar y analizar el desempeño en raids, con métricas detalladas frame por frame.",
+      "descriptionEn": "Tools to record and analyze raid performance, with detailed frame-by-frame metrics.",
+      "icon": "📊"
+    },
+    {
+      "id": "mythic-plus-tracker",
+      "nameEs": "Tracking de Mythic+",
+      "nameEn": "Mythic+ tracking",
+      "descriptionEs": "Seguimiento de scores, runs, y progresión en dungeons cronometrados.",
+      "descriptionEn": "Tracking of scores, runs, and progression in timed dungeons.",
+      "icon": "🗝️"
+    },
+    {
+      "id": "guides",
+      "nameEs": "Guías de clase y contenido",
+      "nameEn": "Class & content guides",
+      "descriptionEs": "Guías escritas por theorycrafters para clases, raids, dungeons y PvP.",
+      "descriptionEn": "Written guides by theorycrafters for classes, raids, dungeons, and PvP.",
+      "icon": "📖"
+    },
+    {
+      "id": "addons",
+      "nameEs": "Repositorios de addons",
+      "nameEn": "Addon repositories",
+      "descriptionEs": "Plataformas de descarga y gestión de addons, WeakAuras y modificaciones de UI.",
+      "descriptionEn": "Download and management platforms for addons, WeakAuras, and UI modifications.",
+      "icon": "🧩"
+    },
+    {
+      "id": "auction-house-tracker",
+      "nameEs": "Auction house y goldmaking",
+      "nameEn": "Auction house & goldmaking",
+      "descriptionEs": "Herramientas para análisis de mercado, precios, y optimización de profit en la economía del servidor.",
+      "descriptionEn": "Tools for market analysis, pricing, and profit optimization in server economy.",
+      "icon": "💰"
+    },
+    {
+      "id": "esports-tracker",
+      "nameEs": "Tracking de esports",
+      "nameEn": "Esports tracking",
+      "descriptionEs": "Cobertura competitiva: MDI, AWC, Race to World First y rankings profesionales.",
+      "descriptionEn": "Competitive coverage: MDI, AWC, Race to World First, and professional rankings.",
+      "icon": "🏆"
+    },
+    {
+      "id": "gear-optimizer",
+      "nameEs": "Simuladores y optimizadores de gear",
+      "nameEn": "Simulators & gear optimizers",
+      "descriptionEs": "Simulación de combat para optimizar gear, talents, trinkets y tier sets via Monte Carlo.",
+      "descriptionEn": "Combat simulation to optimize gear, talents, trinkets, and tier sets via Monte Carlo.",
+      "icon": "⚙️"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para principiantes",
+      "nameEn": "Beginner guides",
+      "descriptionEs": "Recursos de entrada para nuevos jugadores: leveling, mecánicas básicas, primer endgame.",
+      "descriptionEn": "Entry resources for new players: leveling, basic mechanics, first endgame.",
+      "icon": "🎓"
+    },
+    {
+      "id": "class-guides",
+      "nameEs": "Guías de clase",
+      "nameEn": "Class guides",
+      "descriptionEs": "Guías específicas por clase y especialización en formato video o artículo.",
+      "descriptionEn": "Class and specialization-specific guides in video or article format.",
+      "icon": "⚔️"
+    },
+    {
+      "id": "raid-guides",
+      "nameEs": "Guías de raid",
+      "nameEn": "Raid guides",
+      "descriptionEs": "Walkthroughs de bosses, strats por mecánica y ejecutivos de cooldowns para cada raid.",
+      "descriptionEn": "Boss walkthroughs, mechanic strats, and cooldown executions for each raid.",
+      "icon": "🐉"
+    },
+    {
+      "id": "mythic-plus-coverage",
+      "nameEs": "Cobertura de Mythic+",
+      "nameEn": "Mythic+ coverage",
+      "descriptionEs": "Routes, affixes semanales, comp meta y guías por dungeon de la temporada actual.",
+      "descriptionEn": "Routes, weekly affixes, comp meta, and dungeon guides for the current season.",
+      "icon": "🗺️"
+    },
+    {
+      "id": "patch-coverage",
+      "nameEs": "Cobertura de patches",
+      "nameEn": "Patch coverage",
+      "descriptionEs": "Análisis de patch notes, cambios de balance, hotfixes y datamined content.",
+      "descriptionEn": "Patch notes analysis, balance changes, hotfixes, and datamined content.",
+      "icon": "📋"
+    },
+    {
+      "id": "esports-coverage",
+      "nameEs": "Cobertura de esports",
+      "nameEn": "Esports coverage",
+      "descriptionEs": "MDI, AWC, Race to World First: análisis, predicciones, recaps y entrevistas.",
+      "descriptionEn": "MDI, AWC, Race to World First: analysis, predictions, recaps, and interviews.",
+      "icon": "📺"
+    }
+  ]
+}

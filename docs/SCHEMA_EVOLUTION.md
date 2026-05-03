@@ -30,6 +30,46 @@ Migración: si aplica, cómo migrar contenido existente al nuevo schema.
 
 ## Historial de cambios
 
+### 2026-05-03 - Agregados `app-store` y `google-play` al union StorePlatform
+
+**Cambio**: agregadas `"app-store"` y `"google-play"` como variantes válidas del campo `platform` dentro de `Store`. El union pasa de 10 a 12 plataformas.
+
+**Razón**: juegos con distribución mobile (Genshin Impact, Honkai Star Rail, Zenless Zone Zero, Pokémon GO, etc.) se publican en App Store y Google Play. Antes se intentaba usar `"ios"` y `"android"` (que son `Platform`, no `StorePlatform`) — eso es semánticamente incorrecto: `ios`/`android` describen el sistema operativo soportado, no la tienda donde se compra/descarga.
+
+**Archivos afectados**:
+- `src/types/index.ts` — agregadas variantes al union `StorePlatform`.
+- `content/games/genshin-impact/meta.json` — migrado de `"ios"` → `"app-store"` y `"android"` → `"google-play"` en `stores[]`.
+- A futuro: cualquier juego mobile usa estos valores en su `stores[]` (mientras `platforms[]` sigue listando `"ios"` / `"android"` como soporte).
+
+**Migración**: si algún `meta.json` existente usa `"ios"` o `"android"` dentro de `stores[].platform`, cambiar a `"app-store"` y `"google-play"` respectivamente.
+
+### 2026-05-03 - Agregado `riot-client` al union StorePlatform
+
+**Cambio**: agregada `"riot-client"` como variante válida del campo `platform` dentro de `Store` (en `Game.stores[]`). El union pasa de 9 a 10 plataformas.
+
+**Razón**: Riot distribuye sus juegos (League of Legends, Valorant, TFT, Legends of Runeterra) exclusivamente vía su propio launcher (Riot Client), no vía Steam/Epic/etc. Sin esta variante no se puede modelar correctamente la "tienda" de un juego de Riot.
+
+**Archivos afectados**:
+- `src/types/index.ts` — agregada variante al union `StorePlatform`.
+- `content/games/league-of-legends/meta.json` — primer consumidor (cuando se complete su `stores[]`).
+- A futuro: Valorant, TFT, LoR usarán el mismo identificador.
+
+**Migración**: no requerida. Es solo agregar una variante; los `meta.json` existentes siguen siendo válidos.
+
+### 2026-05-03 - Agregado tipo `discord` al union ToolType
+
+**Cambio**: agregado `"discord"` como variante válida del campo `type` de Tool. El union pasa de 7 a 8 tipos: `software`, `web-app`, `overlay`, `browser-extension`, `mobile-app`, `official-service`, `reference`, `discord`.
+
+**Razón**: hubs comunitarios sobre Discord (ej: The Forbidden Trove en PoE) son tools relevantes en su propio derecho — bulk trading, mirror crafting services, carry services — y no encajan limpiamente en `web-app` ni `reference`. Tener un tipo dedicado deja claro al lector que la "tool" es un servidor de Discord, no un sitio que se visita.
+
+**Archivos afectados**:
+- `src/types/index.ts` — agregada variante al union `ToolType`.
+- `messages/es.json` y `messages/en.json` — agregada traducción de la key `type.discord` ("Servidor de Discord" / "Discord server").
+- `CLAUDE.md → "Schema de Datos" → "Meta de Tool"` — lista actualizada.
+- `content/games/path-of-exile/tools/tft/meta.json` — primer consumidor del tipo.
+
+**Migración**: no requerida. Es solo agregar una variante; los `meta.json` existentes siguen siendo válidos.
+
 ### 2026-05-01 - Refactor de paths de imágenes a estructura flat
 
 **Cambio**: paths de imágenes en `meta.json` migrados de estructura anidada por juego a estructura flat global por tipo de asset.

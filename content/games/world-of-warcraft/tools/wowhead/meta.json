@@ -1,0 +1,41 @@
+{
+    "id": "wowhead",
+    "name": "WoWHead",
+    "shortName": "WoWHead",
+    "taglineEs": "La database canónica de World of Warcraft con más de 20 años de operación, referencia obligada para items, quests, mecánicas, guías y noticias del juego",
+    "taglineEn": "The canonical World of Warcraft database with over 20 years of operation, mandatory reference for items, quests, mechanics, guides, and game news",
+    "url": "https://www.wowhead.com",
+    "category": "wiki",
+    "type": "reference",
+    "official": false,
+    "free": true,
+    "openSource": false,
+    "github": null,
+    "license": null,
+    "platforms": ["web", "windows", "macos"],
+    "languages": ["en", "es", "fr", "de", "it", "pt-BR", "ru", "ko", "zh-CN"],
+    "tags": ["database", "guides", "talent-calculator", "items", "quests", "news", "essential", "premium-available"],
+    "essential": true,
+    "difficulty": "beginner",
+    "lastVerified": "2026-05-03",
+    "logo": "/images/tools/wowhead-logo.png",
+    "screenshots": [
+      {
+        "url": "/images/tools/wowhead-item-page.png",
+        "captionEs": "Página de un item con datos completos: stats, drop sources, comentarios de comunidad y screenshots",
+        "captionEn": "Item page with complete data: stats, drop sources, community comments, and screenshots"
+      },
+      {
+        "url": "/images/tools/wowhead-talent-calculator.png",
+        "captionEs": "Talent Calculator integrado, con build sharing y export al juego",
+        "captionEn": "Integrated Talent Calculator with build sharing and in-game export"
+      }
+    ],
+    "videos": [],
+    "relatedTools": ["wowpedia", "icy-veins"],
+    "alternatives": ["wowpedia"],
+    "createdBy": {
+      "name": "ZAM Network LLC (Fanbyte, subsidiary of Tencent)",
+      "url": "https://www.fanbyte.com"
+    }
+  }

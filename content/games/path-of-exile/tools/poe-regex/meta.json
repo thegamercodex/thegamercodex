@@ -1,0 +1,40 @@
+{
+    "id": "poe-regex",
+    "name": "PoE Regex",
+    "shortName": "PoE Regex",
+    "taglineEs": "Generador de patrones regex para búsquedas avanzadas en stash, mapas y vendedores",
+    "taglineEn": "Regex pattern generator for advanced searches in stash, maps and vendors",
+    "url": "https://poe.re",
+    "category": "trading",
+    "type": "web-app",
+    "official": false,
+    "free": true,
+    "openSource": false,
+    "github": null,
+    "license": null,
+    "platforms": ["web"],
+    "languages": ["en"],
+    "tags": ["regex", "stash-search", "map-rolling", "vendor-search", "gwennen", "flasks", "efficiency"],
+    "essential": false,
+    "difficulty": "intermediate",
+    "lastVerified": "2026-05-03",
+    "logo": "/images/tools/poe-regex-logo.png",
+    "screenshots": [
+      {
+        "url": "/images/tools/poe-regex-map-mods.png",
+        "captionEs": "Generador de regex para filtrar mods de mapas según criterios del jugador",
+        "captionEn": "Regex generator for filtering map mods by player criteria"
+      },
+      {
+        "url": "/images/tools/poe-regex-output.png",
+        "captionEs": "Patrón regex generado, listo para copiar y pegar en el buscador del juego",
+        "captionEn": "Generated regex pattern, ready to copy and paste into the in-game search"
+      }
+    ],
+    "videos": [],
+    "relatedTools": ["awakened-poe-trade", "filterblade"],
+    "alternatives": [],
+    "createdBy": {
+      "name": "Community"
+    }
+  }
