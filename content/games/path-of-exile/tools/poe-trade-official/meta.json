@@ -1,0 +1,39 @@
+{
+    "id": "poe-trade-official",
+    "name": "Path of Exile Trade",
+    "shortName": "PoE Trade",
+    "taglineEs": "El sitio oficial de trading de GGG, columna vertebral del mercado de Path of Exile",
+    "taglineEn": "GGG's official trading site, the backbone of the Path of Exile market",
+    "url": "https://www.pathofexile.com/trade",
+    "category": "trading",
+    "type": "web",
+    "official": true,
+    "free": true,
+    "openSource": false,
+    "github": null,
+    "license": null,
+    "platforms": ["web"],
+    "languages": ["en", "es", "pt", "ru", "th", "de", "fr", "ko", "zh"],
+    "tags": ["trading", "marketplace", "official", "live-search", "bulk-exchange", "essential"],
+    "essential": true,
+    "difficulty": "intermediate",
+    "lastVerified": "2026-05-03",
+    "logo": "/images/tools/poe-trade-official-logo.png",
+    "screenshots": [
+      {
+        "url": "/images/tools/poe-trade-official-search.png",
+        "captionEs": "Interfaz de búsqueda de items con filtros de mods, stats y precio",
+        "captionEn": "Item search interface with mod, stat and price filters"
+      },
+      {
+        "url": "/images/tools/poe-trade-official-bulk.png",
+        "captionEs": "Bulk Item Exchange para intercambio masivo de currency",
+        "captionEn": "Bulk Item Exchange for currency mass trading"
+      }
+    ],
+    "videos": [],
+    "relatedTools": ["awakened-poe-trade", "poe-ninja"],
+    "alternatives": [],
+    "createdBy": "Grinding Gear Games",
+    "multiGame": false
+  }

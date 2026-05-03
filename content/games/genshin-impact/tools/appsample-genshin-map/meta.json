@@ -1,0 +1,35 @@
+{
+    "id": "appsample-genshin-map",
+    "name": "AppSample Genshin Impact Map",
+    "shortName": "AppSample Map",
+    "taglineEs": "Mapa interactivo comunitario alternativo de Genshin Impact con UI simple y tracking persistente",
+    "taglineEn": "Alternative community interactive map for Genshin Impact with simple UI and persistent tracking",
+    "url": "https://genshin-impact-map.appsample.com",
+    "category": "exploration-maps",
+    "type": "web-app",
+    "official": false,
+    "free": true,
+    "openSource": false,
+    "platforms": ["web"],
+    "languages": ["en"],
+    "tags": ["interactive-map", "exploration", "community", "alternative-map", "tracking"],
+    "essential": false,
+    "difficulty": "beginner",
+    "lastVerified": "2026-04-30",
+    "logo": "/images/tools/appsample-genshin-map-logo.png",
+    "screenshots": [
+      {
+        "url": "/images/tools/appsample-genshin-map-overview.png",
+        "captionEs": "Vista general del mapa con filtros de recursos por categoría",
+        "captionEn": "Map overview with resource filters by category"
+      },
+      {
+        "url": "/images/tools/appsample-genshin-map-tracking.png",
+        "captionEs": "Sistema de tracking de markers ya recolectados",
+        "captionEn": "Tracking system for already collected markers"
+      }
+    ],
+    "videos": [],
+    "relatedTools": ["hoyolab-map"],
+    "alternatives": ["hoyolab-map"]
+  }

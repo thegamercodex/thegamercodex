@@ -1,0 +1,39 @@
+{
+    "id": "kqm-team-compendium",
+    "name": "KQM Team Compendium",
+    "shortName": "KQM Compendium",
+    "taglineEs": "Catálogo técnico exhaustivo de team comps de Genshin Impact con análisis de theorycrafters de KQM",
+    "taglineEn": "Exhaustive technical catalog of Genshin Impact team comps with KQM theorycrafter analysis",
+    "url": "https://compendium.keqingmains.com",
+    "category": "team-building",
+    "type": "web-app",
+    "official": false,
+    "free": true,
+    "openSource": false,
+    "platforms": ["web"],
+    "languages": ["en"],
+    "tags": ["team-comps", "theorycrafting", "advanced", "technical-analysis", "kqm-quality"],
+    "essential": false,
+    "difficulty": "advanced",
+    "lastVerified": "2026-04-30",
+    "logo": "/images/tools/kqm-team-compendium-logo.png",
+    "screenshots": [
+      {
+        "url": "/images/tools/kqm-team-compendium-team.png",
+        "captionEs": "Análisis técnico de team comp con rotación detallada y sinergias",
+        "captionEn": "Technical team comp analysis with detailed rotation and synergies"
+      },
+      {
+        "url": "/images/tools/kqm-team-compendium-catalog.png",
+        "captionEs": "Catálogo navegable de team comps por arquetipo y meta",
+        "captionEn": "Navigable team comp catalog by archetype and meta"
+      }
+    ],
+    "videos": [],
+    "relatedTools": ["keqing-mains", "genshin-optimizer", "akasha-system"],
+    "alternatives": ["game8-genshin", "genshin-lab"],
+    "createdBy": {
+      "name": "KQM Team",
+      "url": "https://keqingmains.com/about"
+    }
+  }

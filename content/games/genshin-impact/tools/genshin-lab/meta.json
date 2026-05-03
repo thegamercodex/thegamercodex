@@ -1,0 +1,35 @@
+{
+    "id": "genshin-lab",
+    "name": "GenshinLab",
+    "shortName": "GenshinLab",
+    "taglineEs": "Plataforma de team builder, tier lists y guías de Genshin Impact",
+    "taglineEn": "Team builder, tier lists and guides platform for Genshin Impact",
+    "url": "https://genshinlab.com",
+    "category": "team-building",
+    "type": "web-app",
+    "official": false,
+    "free": true,
+    "openSource": false,
+    "platforms": ["web"],
+    "languages": ["en"],
+    "tags": ["team-builder", "tier-lists", "synergies", "beginner-friendly"],
+    "essential": false,
+    "difficulty": "beginner",
+    "lastVerified": "2026-04-30",
+    "logo": "/images/tools/genshin-lab-logo.png",
+    "screenshots": [
+      {
+        "url": "/images/tools/genshin-lab-team-builder.png",
+        "captionEs": "Team builder mostrando sinergias entre personajes seleccionados",
+        "captionEn": "Team builder showing synergies between selected characters"
+      },
+      {
+        "url": "/images/tools/genshin-lab-tier-list.png",
+        "captionEs": "Tier list de personajes con clasificación por roles",
+        "captionEn": "Character tier list with role-based classification"
+      }
+    ],
+    "videos": [],
+    "relatedTools": ["keqing-mains", "genshin-optimizer"],
+    "alternatives": []
+  }

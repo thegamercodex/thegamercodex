@@ -1,0 +1,35 @@
+{
+    "id": "honey-hunter-world",
+    "name": "Honey Hunter World",
+    "shortName": "Honey Impact",
+    "taglineEs": "Base de datos exhaustiva de Genshin Impact con datos datamined de cada personaje, arma, artefacto y enemigo",
+    "taglineEn": "Exhaustive Genshin Impact database with datamined data of every character, weapon, artifact and enemy",
+    "url": "https://genshin.honeyhunterworld.com",
+    "category": "reference",
+    "type": "reference",
+    "official": false,
+    "free": true,
+    "openSource": false,
+    "platforms": ["web"],
+    "languages": ["en", "es", "fr", "de", "id", "it", "ja", "ko", "pt", "ru", "th", "vi", "zh-cn", "zh-tw"],
+    "tags": ["database", "datamining", "wiki", "reference", "essential"],
+    "essential": true,
+    "difficulty": "intermediate",
+    "lastVerified": "2026-04-30",
+    "logo": "/images/tools/honey-hunter-world-logo.png",
+    "screenshots": [
+      {
+        "url": "/images/tools/honey-hunter-world-character.png",
+        "captionEs": "Página de personaje con stats por nivel, talents y constellations",
+        "captionEn": "Character page with stats per level, talents and constellations"
+      },
+      {
+        "url": "/images/tools/honey-hunter-world-database.png",
+        "captionEs": "Database navegable de items, materials y enemies",
+        "captionEn": "Navigable database of items, materials and enemies"
+      }
+    ],
+    "videos": [],
+    "relatedTools": ["genshin-optimizer", "keqing-mains"],
+    "alternatives": []
+  }

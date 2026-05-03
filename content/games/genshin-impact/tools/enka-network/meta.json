@@ -1,0 +1,53 @@
+{
+    "id": "enka-network",
+    "name": "Enka.Network",
+    "shortName": "Enka",
+    "taglineEs": "Plataforma de showcase y comparación de personajes basada en UID, con builds visibles públicamente",
+    "taglineEn": "Character showcase and comparison platform based on UID, with publicly visible builds",
+    "url": "https://enka.network",
+    "category": "reference",
+    "type": "web-app",
+    "official": false,
+    "free": true,
+    "openSource": true,
+    "github": "https://github.com/EnkaNetwork/API-docs",
+    "platforms": ["web"],
+    "languages": ["en", "es", "fr", "de", "id", "it", "ja", "ko", "pt", "ru", "th", "vi", "zh-cn", "zh-tw"],
+    "tags": ["showcase", "uid-lookup", "build-sharing", "api", "community-platform"],
+    "essential": false,
+    "difficulty": "beginner",
+    "lastVerified": "2026-04-30",
+    "logo": "/images/tools/enka-network-logo.png",
+    "screenshots": [
+      {
+        "url": "/images/tools/enka-network-profile.png",
+        "captionEs": "Perfil de jugador con personajes en showcase y builds detalladas",
+        "captionEn": "Player profile with showcased characters and detailed builds"
+      },
+      {
+        "url": "/images/tools/enka-network-character.png",
+        "captionEs": "Vista detallada de personaje con stats, weapon y artefactos",
+        "captionEn": "Detailed character view with stats, weapon and artifacts"
+      }
+    ],
+    "videos": [],
+    "relatedTools": ["akasha-system", "genshin-optimizer"],
+    "alternatives": [],
+    "createdBy": {
+      "name": "EnkaNetwork Team",
+      "url": "https://github.com/EnkaNetwork"
+    },
+    "multiGame": {
+      "available": true,
+      "otherGames": [
+        {
+          "gameId": "honkai-star-rail",
+          "url": "https://enka.network/hsr"
+        },
+        {
+          "gameId": "zenless-zone-zero",
+          "url": "https://enka.network/zzz"
+        }
+      ]
+    }
+  }

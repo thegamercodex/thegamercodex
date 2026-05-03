@@ -1,0 +1,35 @@
+{
+  "id": "aspirine",
+  "name": "Aspirine",
+  "shortName": "Aspirine",
+  "taglineEs": "Calculadora de daño y planificador de builds alternativa a Genshin Optimizer",
+  "taglineEn": "Damage calculator and build planner alternative to Genshin Optimizer",
+  "url": "https://genshin.aspirine.su",
+  "category": "damage-calculation",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en", "ru"],
+  "tags": ["damage-calculator", "build-planner", "lightweight"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-04-30",
+  "logo": "/images/tools/aspirine-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/aspirine-character.png",
+      "captionEs": "Vista de personaje con configuración de stats y artefactos",
+      "captionEn": "Character view with stats and artifacts configuration"
+    },
+    {
+      "url": "/images/tools/aspirine-comparison.png",
+      "captionEs": "Comparación de daño entre diferentes configuraciones",
+      "captionEn": "Damage comparison between different configurations"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["genshin-optimizer", "honey-hunter-world"],
+  "alternatives": ["genshin-optimizer"]
+}

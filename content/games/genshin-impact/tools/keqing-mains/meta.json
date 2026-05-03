@@ -1,0 +1,39 @@
+{
+    "id": "keqing-mains",
+    "name": "Keqing Mains",
+    "shortName": "KQM",
+    "taglineEs": "Hub de guías de personajes y theorycrafting profundo de Genshin Impact",
+    "taglineEn": "Hub of character guides and deep theorycrafting for Genshin Impact",
+    "url": "https://keqingmains.com",
+    "category": "character-builds",
+    "type": "web-app",
+    "official": false,
+    "free": true,
+    "openSource": false,
+    "platforms": ["web"],
+    "languages": ["en"],
+    "tags": ["character-guides", "theorycrafting", "tier-lists", "team-comps", "essential", "editorial"],
+    "essential": true,
+    "difficulty": "intermediate",
+    "lastVerified": "2026-04-30",
+    "logo": "/images/tools/keqing-mains-logo.png",
+    "screenshots": [
+      {
+        "url": "/images/tools/keqing-mains-character.png",
+        "captionEs": "Guía completa de personaje con builds, equipos y rotaciones",
+        "captionEn": "Complete character guide with builds, teams and rotations"
+      },
+      {
+        "url": "/images/tools/keqing-mains-tier-list.png",
+        "captionEs": "Tier list de personajes con análisis del meta actual",
+        "captionEn": "Character tier list with current meta analysis"
+      }
+    ],
+    "videos": [],
+    "relatedTools": ["genshin-optimizer", "paimon-moe"],
+    "alternatives": [],
+    "createdBy": {
+      "name": "KQM Team",
+      "url": "https://keqingmains.com/about"
+    }
+  }

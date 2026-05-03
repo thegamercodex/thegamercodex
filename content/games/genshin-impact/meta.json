@@ -81,14 +81,6 @@
         "icon": "🎰"
       },
       {
-        "id": "abyss-tower",
-        "nameEs": "Spiral Abyss",
-        "nameEn": "Spiral Abyss",
-        "descriptionEs": "Guías y team comps para el contenido endgame del Spiral Abyss",
-        "descriptionEn": "Guides and team comps for Spiral Abyss endgame content",
-        "icon": "🗼"
-      },
-      {
         "id": "exploration-maps",
         "nameEs": "Mapas Interactivos",
         "nameEn": "Interactive Maps",
