@@ -1,0 +1,41 @@
+{
+  "id": "op-gg",
+  "name": "OP.GG",
+  "shortName": "OP.GG",
+  "taglineEs": "El tracker de match history más popular de League of Legends, con stats por champion, tier lists y leaderboards",
+  "taglineEn": "The most popular League of Legends match history tracker, with per-champion stats, tier lists, and leaderboards",
+  "url": "https://www.op.gg",
+  "category": "match-history",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web", "windows", "macos"],
+  "languages": ["en", "es", "ko", "ja", "zh", "fr", "de", "pt", "ru", "vi", "th", "id"],
+  "tags": ["match-history", "tier-list", "champion-stats", "leaderboards", "summoner-search", "popular"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/op-gg-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/op-gg-summoner.png",
+      "captionEs": "Vista de summoner profile con últimas partidas, stats por champion y rank actual",
+      "captionEn": "Summoner profile view with recent matches, per-champion stats, and current rank"
+    },
+    {
+      "url": "/images/tools/op-gg-tier-list.png",
+      "captionEs": "Tier list por rol con win rate, pick rate y ban rate del patch actual",
+      "captionEn": "Per-role tier list with win rate, pick rate, and ban rate of the current patch"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["u-gg", "blitz-gg", "lolalytics", "league-of-graphs"],
+  "alternatives": ["u-gg", "blitz-gg"],
+  "createdBy": {
+    "name": "OP.GG",
+    "url": "https://www.op.gg/about"
+  }
+}

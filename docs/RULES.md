@@ -118,6 +118,40 @@ Lucide quitó todos los icons de marca. Mapeo a alternativas genéricas:
 - **`--highlight`** (amarillo gold) es siempre marca y va en endorsements editoriales (estrella ⭐ "essential"), no se usa para theming por juego.
 - Semánticos universales (`--success`, `--warning`, `--danger`, `--info`) son los mismos para PoE que para Genshin: el verde "Free" es el mismo verde en cualquier juego.
 
+## Editorial conventions para tool .md
+
+Cada tool tiene `es.md` y `en.md` con análisis editorial. Estructura estándar a seguir cuando se arman nuevas (mantener consistencia entre tools del mismo y de distintos juegos):
+
+**Frontmatter requerido**:
+- `title`: nombre completo de la tool (no se renderea, sirve de referencia).
+- `description`: 1-2 frases factuales, qué es la tool. Se expone en `Tool.summaryEs/En` (futuro uso para OG metadata).
+- `quickTake`: opinión editorial fuerte de 1-2 frases. Se renderiza como callout destacado en el detalle. Acá va la tesis: cuándo usarla, para quién, por qué importa.
+
+**Estructura del body** (en este orden, cada uno como `## H2`):
+
+1. **Qué es** — descripción factual: qué hace, quién la mantiene, free/paid, año aprox de inicio si lo conocemos.
+2. **Qué problema resuelve** — el pain point del jugador que la tool ataca. Por qué existe.
+3. **Diferenciación** (cuando aplica) — sección comparativa con tools del mismo cluster (ej: "La diferencia con Blitz.gg" para OP.GG). Solo cuando hay un competidor obvio que el lector va a evaluar en paralelo.
+4. **Para qué la usa la gente** — 3-5 casos de uso concretos en bullets con bold heading + descripción.
+5. **Para quién NO es esta herramienta** — honestidad: a quién le conviene otra cosa. Linkear mentalmente (no en md) a las alternativas.
+6. **Cómo se usa en la práctica** — flujo paso-a-paso, idealmente numerado.
+7. **Limitaciones honestas** — bullets con bold heading + descripción. Sin demonizar pero sin tampoco esquivar problemas reales (paywall, ads, lag, gaps).
+8. **Cómo empezar** — onboarding mínimo: instalación/registro/primer uso.
+
+**Tono**:
+- Honesto pero no agresivo. Mencionar paywalls, ads, telemetría cuando existan, sin convertir el análisis en rant.
+- Evitar superlativos vacíos ("la mejor tool del mercado"). Reemplazar por afirmaciones concretas y verificables.
+- Diferenciación editorial entre pares competidores debe ser explícita pero respetuosa.
+- Sin emojis en el cuerpo del análisis.
+
+**Longitud target**: ~80-100 líneas de markdown por archivo (suficiente para análisis denso sin volverse repetitivo). El template de referencia más extenso es `content/games/genshin-impact/tools/akasha-system/es.md` (~140 líneas) — útil cuando la tool requiere comparación profunda, pero la mayoría de las tools no lo necesitan.
+
+**Idiomas**: `es.md` y `en.md` mantienen estructura paralela (mismas secciones, mismo orden). El contenido se traduce, no se calca: cada idioma puede tener idioms y referencias adaptadas.
+
+## Tracking de batch tasks (tools/creators/resources en lote)
+
+Cuando hay un batch grande para procesar (ej: 15 tools de un juego nuevo), mantener el progreso en un archivo tracker en `docs/wip/<game>-tool-tracker.md`. Estructura: tabla con status por item (✅ done / 🔧 in-progress / ⏳ pending), notas editoriales descubiertas durante research (ej: "U.GG menciona Riot endorsement"), y dudas pendientes de investigar. Esto deja la sesión retomable desde otra máquina con un `git pull`. NO usar `.tmp/` para tracking — está gitignored y no sincroniza.
+
 ## Mantenimiento de contenido
 
 - Para actualizar `lastVerified` de una o varias tools, usar el script en lugar de editar `meta.json` a mano:
