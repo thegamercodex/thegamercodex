@@ -27,7 +27,11 @@ export function ToolListItem({
   return (
     <Link
       href={`/${gameId}/tools/${tool.id}`}
-      className="group grid grid-cols-[auto_1fr_auto] items-center gap-4 rounded-lg border border-border bg-muted/40 px-4 py-3 transition-all duration-200 hover:-translate-y-0.5 hover:border-[var(--game-accent,var(--color-accent))]/60 hover:bg-muted/70"
+      className={`group grid grid-cols-[auto_1fr_auto] items-center gap-4 rounded-lg border px-4 py-3 transition-all duration-200 hover:-translate-y-0.5 hover:border-[var(--game-accent,var(--color-accent))]/60 hover:bg-muted/70 ${
+        tool.official
+          ? "border-sky-500/20 bg-sky-500/[0.03]"
+          : "border-border bg-muted/40"
+      }`}
     >
       <div
         className="flex h-10 w-10 shrink-0 items-center justify-center rounded-md border border-border bg-background text-sm font-semibold"

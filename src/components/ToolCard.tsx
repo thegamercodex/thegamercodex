@@ -20,7 +20,11 @@ export function ToolCard({ gameId, tool, category, locale }: ToolCardProps) {
   return (
     <Link
       href={`/${gameId}/tools/${tool.id}`}
-      className="group flex flex-col gap-3 rounded-xl border border-border bg-muted/40 p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-[var(--game-accent,var(--color-accent))]/60 hover:bg-muted/70"
+      className={`group flex flex-col gap-3 rounded-xl border p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-[var(--game-accent,var(--color-accent))]/60 hover:bg-muted/70 ${
+        tool.official
+          ? "border-sky-500/20 bg-sky-500/[0.03]"
+          : "border-border bg-muted/40"
+      }`}
     >
       <div className="flex items-start gap-3">
         <div
