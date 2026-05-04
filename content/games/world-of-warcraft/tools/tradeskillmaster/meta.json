@@ -11,27 +11,37 @@
   "free": true,
   "openSource": false,
   "license": null,
-  "platforms": ["windows", "macos", "web"],
-  "languages": ["en"],
-  "tags": ["auction-house", "goldmaking", "price-scanning", "crafting", "premium-available"],
+  "platforms": [
+    "windows",
+    "macos",
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "auction-house",
+    "goldmaking",
+    "price-scanning",
+    "crafting",
+    "premium-available"
+  ],
   "essential": false,
   "difficulty": "advanced",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/tradeskillmaster-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/tradeskillmaster-app.png",
-      "captionEs": "TSM Desktop App ejecutando price scanning y subiendo data al cliente in-game",
-      "captionEn": "TSM Desktop App running price scanning and uploading data to the in-game client"
+      "url": "/images/tools/tradeskillmaster-ss-1.png"
     },
     {
-      "url": "/images/tools/tradeskillmaster-ah.png",
-      "captionEs": "Auction interface in-game con TSM mostrando mark-up por item y profit estimado",
-      "captionEn": "In-game auction interface with TSM showing per-item markup and estimated profit"
+      "url": "/images/tools/tradeskillmaster-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["wowhead"],
+  "relatedTools": [
+    "wowhead"
+  ],
   "alternatives": [],
   "createdBy": {
     "name": "TradeSkillMaster team",

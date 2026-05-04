@@ -1,41 +1,52 @@
 {
-    "id": "poe-wiki",
-    "name": "Path of Exile Wiki",
-    "shortName": "PoE Wiki",
-    "taglineEs": "La wiki canónica de Path of Exile, mantenida por la comunidad y hosteada por GGG, sucesora de la antigua wiki de Fandom",
-    "taglineEn": "The canonical Path of Exile wiki, community-maintained and hosted by GGG, successor to the old Fandom wiki",
-    "url": "https://www.poewiki.net",
-    "category": "reference",
-    "type": "reference",
-    "official": false,
-    "free": true,
-    "openSource": true,
-    "github": "https://github.com/Project-Path-of-Exile-Wiki",
-    "license": "CC-BY-NC-SA-3.0",
-    "platforms": ["web"],
-    "languages": ["en"],
-    "tags": ["wiki", "encyclopedia", "lore", "mechanics", "items", "skills", "league-history", "essential"],
-    "essential": true,
-    "difficulty": "beginner",
-    "lastVerified": "2026-05-03",
-    "logo": "/images/tools/poe-wiki-logo.png",
-    "screenshots": [
-      {
-        "url": "/images/tools/poe-wiki-home.png",
-        "captionEs": "Página principal de poewiki.net mostrando navegación por categorías y liga actual",
-        "captionEn": "poewiki.net home page showing category navigation and current league"
-      },
-      {
-        "url": "/images/tools/poe-wiki-item-page.png",
-        "captionEs": "Ejemplo de entrada de unique item con stats, drop sources y contexto",
-        "captionEn": "Example of a unique item entry with stats, drop sources and context"
-      }
-    ],
-    "videos": [],
-    "relatedTools": ["poedb"],
-    "alternatives": [],
-    "createdBy": {
-      "name": "Project Path of Exile Wiki community",
-      "url": "https://github.com/Project-Path-of-Exile-Wiki"
+  "id": "poe-wiki",
+  "name": "Path of Exile Wiki",
+  "shortName": "PoE Wiki",
+  "taglineEs": "La wiki canónica de Path of Exile, mantenida por la comunidad y hosteada por GGG, sucesora de la antigua wiki de Fandom",
+  "taglineEn": "The canonical Path of Exile wiki, community-maintained and hosted by GGG, successor to the old Fandom wiki",
+  "url": "https://www.poewiki.net",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Project-Path-of-Exile-Wiki",
+  "license": "CC-BY-NC-SA-3.0",
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "wiki",
+    "encyclopedia",
+    "lore",
+    "mechanics",
+    "items",
+    "skills",
+    "league-history",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/poe-wiki-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/poe-wiki-ss-1.png"
+    },
+    {
+      "url": "/images/tools/poe-wiki-ss-2.png"
     }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "poedb"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Project Path of Exile Wiki community",
+    "url": "https://github.com/Project-Path-of-Exile-Wiki"
   }
+}

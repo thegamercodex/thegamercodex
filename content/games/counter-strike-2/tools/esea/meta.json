@@ -10,28 +10,41 @@
   "official": false,
   "free": false,
   "openSource": false,
-  "platforms": ["web", "windows"],
-  "languages": ["en"],
-  "tags": ["competitive", "matchmaking", "anti-cheat", "leagues", "premier", "subscription"],
+  "platforms": [
+    "web",
+    "windows"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "competitive",
+    "matchmaking",
+    "anti-cheat",
+    "leagues",
+    "premier",
+    "subscription"
+  ],
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/esea-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/esea-leagues.png",
-      "captionEs": "Vista de ligas activas (Premier, Main, Intermediate, Open) por región",
-      "captionEn": "View of active leagues (Premier, Main, Intermediate, Open) per region"
+      "url": "/images/tools/esea-ss-1.png"
     },
     {
-      "url": "/images/tools/esea-profile.png",
-      "captionEs": "Perfil de jugador con estadísticas históricas y ranking ESEA",
-      "captionEn": "Player profile with historical stats and ESEA ranking"
+      "url": "/images/tools/esea-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["faceit", "csstats-gg"],
-  "alternatives": ["faceit"],
+  "relatedTools": [
+    "faceit",
+    "csstats-gg"
+  ],
+  "alternatives": [
+    "faceit"
+  ],
   "createdBy": {
     "name": "ESL FACEIT Group",
     "url": "https://www.eslfaceitgroup.com"

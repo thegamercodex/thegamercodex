@@ -12,28 +12,56 @@
   "openSource": false,
   "github": null,
   "license": null,
-  "platforms": ["web", "windows", "macos"],
-  "languages": ["en", "es", "ko", "ja", "zh", "fr", "de", "pt", "ru", "vi", "th", "id"],
-  "tags": ["match-history", "tier-list", "champion-stats", "leaderboards", "summoner-search", "popular"],
+  "platforms": [
+    "web",
+    "windows",
+    "macos"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ko",
+    "ja",
+    "zh",
+    "fr",
+    "de",
+    "pt",
+    "ru",
+    "vi",
+    "th",
+    "id"
+  ],
+  "tags": [
+    "match-history",
+    "tier-list",
+    "champion-stats",
+    "leaderboards",
+    "summoner-search",
+    "popular"
+  ],
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/op-gg-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/op-gg-summoner.png",
-      "captionEs": "Vista de summoner profile con últimas partidas, stats por champion y rank actual",
-      "captionEn": "Summoner profile view with recent matches, per-champion stats, and current rank"
+      "url": "/images/tools/op-gg-ss-1.png"
     },
     {
-      "url": "/images/tools/op-gg-tier-list.png",
-      "captionEs": "Tier list por rol con win rate, pick rate y ban rate del patch actual",
-      "captionEn": "Per-role tier list with win rate, pick rate, and ban rate of the current patch"
+      "url": "/images/tools/op-gg-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["u-gg", "blitz-gg", "lolalytics", "league-of-graphs"],
-  "alternatives": ["u-gg", "blitz-gg"],
+  "relatedTools": [
+    "u-gg",
+    "blitz-gg",
+    "lolalytics",
+    "league-of-graphs"
+  ],
+  "alternatives": [
+    "u-gg",
+    "blitz-gg"
+  ],
   "createdBy": {
     "name": "OP.GG",
     "url": "https://www.op.gg/about"

@@ -12,27 +12,47 @@
   "openSource": false,
   "github": null,
   "license": "CC BY-SA 4.0",
-  "platforms": ["web"],
-  "languages": ["en", "es", "fr", "de", "pt", "ko", "ja", "zh", "ru"],
-  "tags": ["wiki", "reference", "champions", "items", "lore", "official", "weird-gloop"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "pt",
+    "ko",
+    "ja",
+    "zh",
+    "ru"
+  ],
+  "tags": [
+    "wiki",
+    "reference",
+    "champions",
+    "items",
+    "lore",
+    "official",
+    "weird-gloop"
+  ],
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/lol-wiki-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/lol-wiki-champion.png",
-      "captionEs": "Página de champion con stats base, abilities completas con valores numéricos exactos, builds recomendadas y lore",
-      "captionEn": "Champion page with base stats, full abilities with exact numerical values, recommended builds, and lore"
+      "url": "/images/tools/lol-wiki-ss-1.png"
     },
     {
-      "url": "/images/tools/lol-wiki-item.png",
-      "captionEs": "Página de item con stats, costo, recipe, descripción de pasivas y notas de patches recientes",
-      "captionEn": "Item page with stats, cost, recipe, passive descriptions, and recent patch notes"
+      "url": "/images/tools/lol-wiki-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["leaguepedia", "u-gg", "lolalytics"],
+  "relatedTools": [
+    "leaguepedia",
+    "u-gg",
+    "lolalytics"
+  ],
   "alternatives": [],
   "createdBy": {
     "name": "Weird Gloop",

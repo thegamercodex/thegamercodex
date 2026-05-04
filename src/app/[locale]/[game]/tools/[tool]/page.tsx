@@ -15,6 +15,7 @@ import {
 import { Link } from "@/i18n/navigation";
 import { BrokenLinkButton } from "@/components/BrokenLinkButton";
 import { MarkdownContent } from "@/components/MarkdownContent";
+import { ScreenshotGallery } from "@/components/ScreenshotGallery";
 import {
   getGame,
   getGameIds,
@@ -341,30 +342,11 @@ export default async function ToolPage({ params }: PageParams) {
               <h2 className="mb-5 text-lg font-semibold tracking-tight">
                 {t("screenshots")}
               </h2>
-              <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
-                {visibleScreenshots.map((shot, i) => {
-                  const caption =
-                    loc === "es" ? shot.captionEs : shot.captionEn;
-                  return (
-                    <figure key={i} className="flex flex-col gap-2">
-                      <div className="relative aspect-video overflow-hidden rounded-lg border border-border bg-muted">
-                        <Image
-                          src={shot.url}
-                          alt={caption}
-                          fill
-                          sizes="(max-width: 640px) 100vw, 50vw"
-                          className="object-cover"
-                        />
-                      </div>
-                      {caption && (
-                        <figcaption className="text-xs text-muted-foreground">
-                          {caption}
-                        </figcaption>
-                      )}
-                    </figure>
-                  );
-                })}
-              </div>
+              <ScreenshotGallery
+                screenshots={visibleScreenshots}
+                toolName={tool.name}
+                locale={loc}
+              />
             </section>
           )}
 

@@ -10,22 +10,34 @@
   "official": false,
   "free": true,
   "openSource": false,
-  "platforms": ["windows", "linux"],
-  "languages": ["en"],
-  "tags": ["aim-training", "workshop-map", "warmup", "bots", "essential"],
+  "platforms": [
+    "windows",
+    "linux"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "aim-training",
+    "workshop-map",
+    "warmup",
+    "bots",
+    "essential"
+  ],
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/aim-botz-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/aim-botz-arena.png",
-      "captionEs": "Arena con bots configurables — número, distancia, movement y armor",
-      "captionEn": "Arena with configurable bots — number, distance, movement, and armor"
+      "url": "/images/tools/aim-botz-ss-1.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["simple-radar", "csnades-gg"],
+  "relatedTools": [
+    "simple-radar",
+    "csnades-gg"
+  ],
   "alternatives": [],
   "createdBy": {
     "name": "uLetsPlay",

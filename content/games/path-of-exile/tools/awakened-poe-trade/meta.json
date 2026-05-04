@@ -12,26 +12,45 @@
   "openSource": true,
   "github": "https://github.com/SnosMe/awakened-poe-trade",
   "license": "MIT",
-  "platforms": ["windows", "linux"],
-  "languages": ["en", "ru", "fr", "de", "es", "pt", "ko", "zh-tw"],
-  "tags": ["trading", "price-check", "overlay", "in-game", "essential"],
+  "platforms": [
+    "windows",
+    "linux"
+  ],
+  "languages": [
+    "en",
+    "ru",
+    "fr",
+    "de",
+    "es",
+    "pt",
+    "ko",
+    "zh-tw"
+  ],
+  "tags": [
+    "trading",
+    "price-check",
+    "overlay",
+    "in-game",
+    "essential"
+  ],
   "essential": true,
   "difficulty": "intermediate",
   "lastVerified": "2026-04-30",
   "logo": "/images/tools/awakened-poe-trade-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/awakened-poe-trade-screenshot-pricecheck.png",
-      "captionEs": "Price check instantáneo de un item al pasar el mouse",
-      "captionEn": "Instant item price check on hover"
+      "url": "/images/tools/awakened-poe-trade-ss-1.png"
     },
     {
-      "url": "/images/tools/awakened-poe-trade-screenshot-search.png",
-      "captionEs": "Búsqueda en el trade oficial generada automáticamente",
-      "captionEn": "Auto-generated official trade search"
+      "url": "/images/tools/awakened-poe-trade-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["poe-ninja", "path-of-building"],
-  "alternatives": ["exilence-next"]
+  "relatedTools": [
+    "poe-ninja",
+    "path-of-building"
+  ],
+  "alternatives": [
+    "exilence-next"
+  ]
 }

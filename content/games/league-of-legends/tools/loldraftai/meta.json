@@ -12,27 +12,37 @@
   "openSource": true,
   "github": "https://github.com/loldraftai",
   "license": null,
-  "platforms": ["web"],
-  "languages": ["en"],
-  "tags": ["draft", "machine-learning", "win-rate-prediction", "pick-ban", "ai", "experimental"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "draft",
+    "machine-learning",
+    "win-rate-prediction",
+    "pick-ban",
+    "ai",
+    "experimental"
+  ],
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/loldraftai-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/loldraftai-draft.png",
-      "captionEs": "Vista del simulador de draft con champions seleccionados por equipo, prediction de win rate y sugerencias de próximo pick",
-      "captionEn": "Draft simulator view with selected champions per team, win rate prediction, and next-pick suggestions"
+      "url": "/images/tools/loldraftai-ss-1.png"
     },
     {
-      "url": "/images/tools/loldraftai-suggestions.png",
-      "captionEs": "Panel de sugerencias de pick rankeadas por delta de win rate predicho según el modelo entrenado",
-      "captionEn": "Pick suggestions panel ranked by predicted win rate delta according to the trained model"
+      "url": "/images/tools/loldraftai-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["lolalytics", "u-gg"],
+  "relatedTools": [
+    "lolalytics",
+    "u-gg"
+  ],
   "alternatives": [],
   "createdBy": {
     "name": "LoLDraftAI",

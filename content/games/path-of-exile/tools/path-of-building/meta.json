@@ -12,23 +12,31 @@
   "openSource": true,
   "github": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
   "license": "MIT",
-  "platforms": ["windows", "macos", "linux"],
-  "languages": ["en"],
-  "tags": ["dps-calculator", "build-planner", "tree-planner", "offline", "essential"],
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "dps-calculator",
+    "build-planner",
+    "tree-planner",
+    "offline",
+    "essential"
+  ],
   "essential": true,
   "difficulty": "intermediate",
   "lastVerified": "2026-04-30",
   "logo": "/images/tools/path-of-building-logo.webp",
   "screenshots": [
     {
-      "url": "/images/tools/path-of-building-screenshot-tree.png",
-      "captionEs": "Vista del árbol de habilidades pasivas con build planificada",
-      "captionEn": "Passive skill tree view with planned build"
+      "url": "/images/tools/path-of-building-ss-1.png"
     },
     {
-      "url": "/images/tools/path-of-building-screenshot-calcs.png",
-      "captionEs": "Pestaña de cálculos detallados de DPS",
-      "captionEn": "Detailed DPS calculations tab"
+      "url": "/images/tools/path-of-building-ss-2.png"
     }
   ],
   "videos": [
@@ -42,6 +50,9 @@
       "noteEn": "Complete tutorial from installation to advanced usage. Recommended to start from scratch."
     }
   ],
-  "relatedTools": ["poe-ninja", "craft-of-exile"],
+  "relatedTools": [
+    "poe-ninja",
+    "craft-of-exile"
+  ],
   "alternatives": []
 }

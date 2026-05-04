@@ -10,27 +10,38 @@
   "official": false,
   "free": true,
   "openSource": false,
-  "platforms": ["web"],
-  "languages": ["en"],
-  "tags": ["lineups", "utility", "smokes", "flashes", "molotovs", "maps", "video-tutorials"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "lineups",
+    "utility",
+    "smokes",
+    "flashes",
+    "molotovs",
+    "maps",
+    "video-tutorials"
+  ],
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/csnades-gg-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/csnades-gg-map.png",
-      "captionEs": "Vista de mapa con todas las lineups categorizadas por origen y destino",
-      "captionEn": "Map view with all lineups categorized by origin and destination"
+      "url": "/images/tools/csnades-gg-ss-1.png"
     },
     {
-      "url": "/images/tools/csnades-gg-lineup.png",
-      "captionEs": "Detalle de lineup con video tutorial, posición exacta y descripción paso a paso",
-      "captionEn": "Lineup detail with video tutorial, exact position, and step-by-step description"
+      "url": "/images/tools/csnades-gg-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["scope-gg", "simple-radar"],
+  "relatedTools": [
+    "scope-gg",
+    "simple-radar"
+  ],
   "alternatives": [],
   "createdBy": {
     "name": "CSNADES.gg team",

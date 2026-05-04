@@ -1,41 +1,56 @@
 {
-    "id": "gcsim",
-    "name": "gcsim",
-    "shortName": "gcsim",
-    "taglineEs": "Simulador Monte Carlo de combate y DPS de equipo, frame por frame",
-    "taglineEn": "Monte Carlo combat and team DPS simulator, frame by frame",
-    "url": "https://gcsim.app",
-    "category": "damage-calculation",
-    "type": "web-app",
-    "official": false,
-    "free": true,
-    "openSource": true,
-    "github": "https://github.com/genshinsim/gcsim",
-    "license": "MIT",
-    "platforms": ["web", "windows", "macos", "linux"],
-    "languages": ["en"],
-    "tags": ["dps-simulator", "monte-carlo", "theorycrafting", "rotations", "team-comp", "combat-sim", "advanced"],
-    "essential": false,
-    "difficulty": "advanced",
-    "lastVerified": "2026-05-03",
-    "logo": "/images/tools/gcsim-logo.png",
-    "screenshots": [
-      {
-        "url": "/images/tools/gcsim-webapp.png",
-        "captionEs": "Interfaz web de gcsim mostrando configuración de equipo y resultados de simulación",
-        "captionEn": "gcsim web interface showing team config and simulation results"
-      },
-      {
-        "url": "/images/tools/gcsim-results.png",
-        "captionEs": "Distribución de DPS tras múltiples iteraciones Monte Carlo",
-        "captionEn": "DPS distribution across multiple Monte Carlo iterations"
-      }
-    ],
-    "videos": [],
-    "relatedTools": ["genshin-optimizer", "akasha-system", "enka-network"],
-    "alternatives": [],
-    "createdBy": {
-      "name": "genshinsim",
-      "url": "https://github.com/genshinsim"
+  "id": "gcsim",
+  "name": "gcsim",
+  "shortName": "gcsim",
+  "taglineEs": "Simulador Monte Carlo de combate y DPS de equipo, frame por frame",
+  "taglineEn": "Monte Carlo combat and team DPS simulator, frame by frame",
+  "url": "https://gcsim.app",
+  "category": "damage-calculation",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/genshinsim/gcsim",
+  "license": "MIT",
+  "platforms": [
+    "web",
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "dps-simulator",
+    "monte-carlo",
+    "theorycrafting",
+    "rotations",
+    "team-comp",
+    "combat-sim",
+    "advanced"
+  ],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/gcsim-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/gcsim-ss-1.png"
+    },
+    {
+      "url": "/images/tools/gcsim-ss-2.png"
     }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "genshin-optimizer",
+    "akasha-system",
+    "enka-network"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "genshinsim",
+    "url": "https://github.com/genshinsim"
   }
+}

@@ -11,28 +11,41 @@
   "free": true,
   "openSource": false,
   "license": "CC BY-SA 3.0",
-  "platforms": ["web"],
-  "languages": ["en"],
-  "tags": ["esports", "wiki", "encyclopedia", "tournaments", "teams", "players", "team-liquid"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "esports",
+    "wiki",
+    "encyclopedia",
+    "tournaments",
+    "teams",
+    "players",
+    "team-liquid"
+  ],
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/liquipedia-cs-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/liquipedia-cs-tournament.png",
-      "captionEs": "Página de torneo con bracket completo, prize pool, formato y enlaces a partidas individuales",
-      "captionEn": "Tournament page with full bracket, prize pool, format, and links to individual matches"
+      "url": "/images/tools/liquipedia-cs-ss-1.png"
     },
     {
-      "url": "/images/tools/liquipedia-cs-team.png",
-      "captionEs": "Página de equipo con roster actual, transfers históricos y achievements",
-      "captionEn": "Team page with current roster, historical transfers, and achievements"
+      "url": "/images/tools/liquipedia-cs-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["hltv", "hltv-live-matches"],
-  "alternatives": ["hltv"],
+  "relatedTools": [
+    "hltv",
+    "hltv-live-matches"
+  ],
+  "alternatives": [
+    "hltv"
+  ],
   "createdBy": {
     "name": "Liquipedia community / Team Liquid",
     "url": "https://liquipedia.net/counterstrike/Liquipedia:About"

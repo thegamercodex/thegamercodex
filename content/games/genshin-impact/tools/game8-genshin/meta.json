@@ -1,52 +1,69 @@
 {
-    "id": "game8-genshin",
-    "name": "Game8 Genshin Impact",
-    "shortName": "Game8",
-    "taglineEs": "Wiki integral con team comps, tier lists y guías de Genshin Impact en formato accesible",
-    "taglineEn": "Comprehensive wiki with team comps, tier lists, and accessible-format Genshin Impact guides",
-    "url": "https://game8.co/games/Genshin-Impact",
-    "category": "team-building",
-    "type": "web-app",
-    "official": false,
-    "free": true,
-    "openSource": false,
-    "platforms": ["web"],
-    "languages": ["en", "es", "ja", "ko", "zh-cn", "zh-tw"],
-    "tags": ["team-comps", "tier-lists", "guides", "wiki-style", "beginner-friendly"],
-    "essential": false,
-    "difficulty": "beginner",
-    "lastVerified": "2026-04-30",
-    "logo": "/images/tools/game8-genshin-logo.png",
-    "screenshots": [
+  "id": "game8-genshin",
+  "name": "Game8 Genshin Impact",
+  "shortName": "Game8",
+  "taglineEs": "Wiki integral con team comps, tier lists y guías de Genshin Impact en formato accesible",
+  "taglineEn": "Comprehensive wiki with team comps, tier lists, and accessible-format Genshin Impact guides",
+  "url": "https://game8.co/games/Genshin-Impact",
+  "category": "team-building",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja",
+    "ko",
+    "zh-cn",
+    "zh-tw"
+  ],
+  "tags": [
+    "team-comps",
+    "tier-lists",
+    "guides",
+    "wiki-style",
+    "beginner-friendly"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-04-30",
+  "logo": "/images/tools/game8-genshin-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/game8-genshin-ss-1.png"
+    },
+    {
+      "url": "/images/tools/game8-genshin-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "genshin-lab",
+    "keqing-mains"
+  ],
+  "alternatives": [
+    "genshin-lab",
+    "keqing-mains"
+  ],
+  "multiGame": {
+    "available": true,
+    "otherGames": [
       {
-        "url": "/images/tools/game8-genshin-team-comps.png",
-        "captionEs": "Catálogo de team comps populares con builds y rotaciones",
-        "captionEn": "Catalog of popular team comps with builds and rotations"
+        "gameId": "honkai-star-rail",
+        "url": "https://game8.co/games/Honkai-Star-Rail"
       },
       {
-        "url": "/images/tools/game8-genshin-tier-list.png",
-        "captionEs": "Tier list de personajes con análisis del meta actual",
-        "captionEn": "Character tier list with current meta analysis"
+        "gameId": "zenless-zone-zero",
+        "url": "https://game8.co/games/Zenless-Zone-Zero"
+      },
+      {
+        "gameId": "wuthering-waves",
+        "url": "https://game8.co/games/Wuthering-Waves"
       }
-    ],
-    "videos": [],
-    "relatedTools": ["genshin-lab", "keqing-mains"],
-    "alternatives": ["genshin-lab", "keqing-mains"],
-    "multiGame": {
-      "available": true,
-      "otherGames": [
-        {
-          "gameId": "honkai-star-rail",
-          "url": "https://game8.co/games/Honkai-Star-Rail"
-        },
-        {
-          "gameId": "zenless-zone-zero",
-          "url": "https://game8.co/games/Zenless-Zone-Zero"
-        },
-        {
-          "gameId": "wuthering-waves",
-          "url": "https://game8.co/games/Wuthering-Waves"
-        }
-      ]
-    }
+    ]
   }
+}

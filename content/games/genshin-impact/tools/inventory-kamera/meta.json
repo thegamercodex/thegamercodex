@@ -1,41 +1,52 @@
 {
-    "id": "inventory-kamera",
-    "name": "Inventory Kamera",
-    "shortName": "Kamera",
-    "taglineEs": "Scanner automático que importa tu inventory de Genshin Impact a Genshin Optimizer",
-    "taglineEn": "Automatic scanner that imports your Genshin Impact inventory into Genshin Optimizer",
-    "url": "https://github.com/Andrewthe13th/Inventory_Kamera",
-    "category": "artifact-optimization",
-    "type": "software",
-    "official": false,
-    "free": true,
-    "openSource": true,
-    "github": "https://github.com/Andrewthe13th/Inventory_Kamera",
-    "license": "GPL-3.0",
-    "platforms": ["windows"],
-    "languages": ["en"],
-    "tags": ["scanner", "ocr", "automation", "go-companion", "inventory-import"],
-    "essential": false,
-    "difficulty": "intermediate",
-    "lastVerified": "2026-04-30",
-    "logo": "/images/tools/inventory-kamera-logo.png",
-    "screenshots": [
-      {
-        "url": "/images/tools/inventory-kamera-scanning.png",
-        "captionEs": "Proceso de escaneo automático del inventory in-game",
-        "captionEn": "Automatic in-game inventory scanning process"
-      },
-      {
-        "url": "/images/tools/inventory-kamera-export.png",
-        "captionEs": "Exportación de datos en formato compatible con Genshin Optimizer",
-        "captionEn": "Data export in Genshin Optimizer compatible format"
-      }
-    ],
-    "videos": [],
-    "relatedTools": ["genshin-optimizer"],
-    "alternatives": ["amenoma", "genshin-art-scanner"],
-    "createdBy": {
-      "name": "Andrewthe13th & contributors",
-      "url": "https://github.com/Andrewthe13th"
+  "id": "inventory-kamera",
+  "name": "Inventory Kamera",
+  "shortName": "Kamera",
+  "taglineEs": "Scanner automático que importa tu inventory de Genshin Impact a Genshin Optimizer",
+  "taglineEn": "Automatic scanner that imports your Genshin Impact inventory into Genshin Optimizer",
+  "url": "https://github.com/Andrewthe13th/Inventory_Kamera",
+  "category": "artifact-optimization",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Andrewthe13th/Inventory_Kamera",
+  "license": "GPL-3.0",
+  "platforms": [
+    "windows"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "scanner",
+    "ocr",
+    "automation",
+    "go-companion",
+    "inventory-import"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-04-30",
+  "logo": "/images/tools/inventory-kamera-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/inventory-kamera-ss-1.png"
+    },
+    {
+      "url": "/images/tools/inventory-kamera-ss-2.png"
     }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "genshin-optimizer"
+  ],
+  "alternatives": [
+    "amenoma",
+    "genshin-art-scanner"
+  ],
+  "createdBy": {
+    "name": "Andrewthe13th & contributors",
+    "url": "https://github.com/Andrewthe13th"
   }
+}

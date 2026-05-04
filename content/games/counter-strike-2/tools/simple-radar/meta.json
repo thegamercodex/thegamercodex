@@ -10,22 +10,35 @@
   "official": false,
   "free": true,
   "openSource": false,
-  "platforms": ["windows", "linux", "macos"],
-  "languages": ["en"],
-  "tags": ["radar", "visual-mod", "ux-improvement", "readtldr", "active-pool"],
+  "platforms": [
+    "windows",
+    "linux",
+    "macos"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "radar",
+    "visual-mod",
+    "ux-improvement",
+    "readtldr",
+    "active-pool"
+  ],
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/simple-radar-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/simple-radar-comparison.png",
-      "captionEs": "Comparativa lado a lado del radar default vs Simple Radar en Mirage",
-      "captionEn": "Side-by-side comparison of default radar vs Simple Radar on Mirage"
+      "url": "/images/tools/simple-radar-ss-1.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["csnades-gg", "aim-botz"],
+  "relatedTools": [
+    "csnades-gg",
+    "aim-botz"
+  ],
   "alternatives": [],
   "createdBy": {
     "name": "readtldr.gg",

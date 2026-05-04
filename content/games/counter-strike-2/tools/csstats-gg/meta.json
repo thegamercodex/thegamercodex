@@ -10,28 +10,42 @@
   "official": false,
   "free": true,
   "openSource": false,
-  "platforms": ["web"],
-  "languages": ["en"],
-  "tags": ["match-history", "stats", "elo", "leaderboards", "esea-integration", "lightweight"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "match-history",
+    "stats",
+    "elo",
+    "leaderboards",
+    "esea-integration",
+    "lightweight"
+  ],
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/csstats-gg-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/csstats-gg-profile.png",
-      "captionEs": "Perfil de jugador con últimas partidas, stats por mapa y evolución de ELO",
-      "captionEn": "Player profile with recent matches, per-map stats, and ELO evolution"
+      "url": "/images/tools/csstats-gg-ss-1.png"
     },
     {
-      "url": "/images/tools/csstats-gg-leaderboard.png",
-      "captionEs": "Leaderboard global con filtros por región y rank",
-      "captionEn": "Global leaderboard with region and rank filters"
+      "url": "/images/tools/csstats-gg-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["leetify", "scope-gg", "tracker-gg-cs2"],
-  "alternatives": ["tracker-gg-cs2", "leetify"],
+  "relatedTools": [
+    "leetify",
+    "scope-gg",
+    "tracker-gg-cs2"
+  ],
+  "alternatives": [
+    "tracker-gg-cs2",
+    "leetify"
+  ],
   "createdBy": {
     "name": "csstats.gg team",
     "url": "https://csstats.gg"

@@ -1,41 +1,56 @@
 {
-    "id": "genshin-optimizer",
-    "name": "Genshin Optimizer",
-    "shortName": "GO",
-    "taglineEs": "Optimizador completo de builds, artefactos y daño para Genshin Impact",
-    "taglineEn": "Complete build, artifact and damage optimizer for Genshin Impact",
-    "url": "https://frzyc.github.io/genshin-optimizer",
-    "category": "artifact-optimization",
-    "type": "web-app",
-    "official": false,
-    "free": true,
-    "openSource": true,
-    "github": "https://github.com/frzyc/genshin-optimizer",
-    "license": "MIT",
-    "platforms": ["web"],
-    "languages": ["en", "es", "fr", "ja", "ko", "ru", "zh-cn", "zh-tw"],
-    "tags": ["damage-calculator", "artifact-optimizer", "build-planner", "essential", "open-source"],
-    "essential": true,
-    "difficulty": "intermediate",
-    "lastVerified": "2026-04-30",
-    "logo": "/images/tools/genshin-optimizer-logo.png",
-    "screenshots": [
-      {
-        "url": "/images/tools/genshin-optimizer-character.png",
-        "captionEs": "Vista de personaje con stats, weapon y artefactos asignados",
-        "captionEn": "Character view with stats, weapon and assigned artifacts"
-      },
-      {
-        "url": "/images/tools/genshin-optimizer-builds.png",
-        "captionEs": "Optimizador de artefactos generando builds óptimas",
-        "captionEn": "Artifact optimizer generating optimal builds"
-      }
-    ],
-    "videos": [],
-    "relatedTools": ["paimon-moe"],
-    "alternatives": [],
-    "createdBy": {
-      "name": "frzyc & contributors",
-      "url": "https://github.com/frzyc/genshin-optimizer"
+  "id": "genshin-optimizer",
+  "name": "Genshin Optimizer",
+  "shortName": "GO",
+  "taglineEs": "Optimizador completo de builds, artefactos y daño para Genshin Impact",
+  "taglineEn": "Complete build, artifact and damage optimizer for Genshin Impact",
+  "url": "https://frzyc.github.io/genshin-optimizer",
+  "category": "artifact-optimization",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/frzyc/genshin-optimizer",
+  "license": "MIT",
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "ja",
+    "ko",
+    "ru",
+    "zh-cn",
+    "zh-tw"
+  ],
+  "tags": [
+    "damage-calculator",
+    "artifact-optimizer",
+    "build-planner",
+    "essential",
+    "open-source"
+  ],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-04-30",
+  "logo": "/images/tools/genshin-optimizer-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/genshin-optimizer-ss-1.png"
+    },
+    {
+      "url": "/images/tools/genshin-optimizer-ss-2.png"
     }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "paimon-moe"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "frzyc & contributors",
+    "url": "https://github.com/frzyc/genshin-optimizer"
   }
+}

@@ -1,60 +1,71 @@
 {
-    "id": "maxroll",
-    "name": "Maxroll",
-    "shortName": "Maxroll",
-    "taglineEs": "Hub de build guides profesionales escritas por jugadores top",
-    "taglineEn": "Hub of professional build guides written by top players",
-    "url": "https://maxroll.gg/poe",
-    "category": "reference",
-    "type": "web-app",
-    "official": false,
-    "free": true,
-    "openSource": false,
-    "platforms": ["web"],
-    "languages": ["en"],
-    "tags": ["build-guides", "endgame-strategies", "leveling", "essential", "editorial"],
-    "essential": true,
-    "difficulty": "beginner",
-    "lastVerified": "2026-04-30",
-    "logo": "/images/tools/maxroll-logo.png",
-    "screenshots": [
+  "id": "maxroll",
+  "name": "Maxroll",
+  "shortName": "Maxroll",
+  "taglineEs": "Hub de build guides profesionales escritas por jugadores top",
+  "taglineEn": "Hub of professional build guides written by top players",
+  "url": "https://maxroll.gg/poe",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "build-guides",
+    "endgame-strategies",
+    "leveling",
+    "essential",
+    "editorial"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-04-30",
+  "logo": "/images/tools/maxroll-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/maxroll-ss-1.png"
+    },
+    {
+      "url": "/images/tools/maxroll-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "path-of-building",
+    "poe-ninja"
+  ],
+  "alternatives": [
+    "poe-vault"
+  ],
+  "createdBy": {
+    "name": "Maxroll Team",
+    "url": "https://maxroll.gg/about"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
       {
-        "url": "/images/tools/maxroll-screenshot-build.png",
-        "captionEs": "Página de una build guide con árbol pasivo, gear y rotación",
-        "captionEn": "Build guide page with passive tree, gear and rotation"
+        "gameId": "diablo-4",
+        "url": "https://maxroll.gg/d4"
       },
       {
-        "url": "/images/tools/maxroll-screenshot-tier-list.png",
-        "captionEs": "Tier list de builds para la liga actual",
-        "captionEn": "Tier list of builds for the current league"
+        "gameId": "last-epoch",
+        "url": "https://maxroll.gg/last-epoch"
+      },
+      {
+        "gameId": "diablo-2-resurrected",
+        "url": "https://maxroll.gg/d2"
+      },
+      {
+        "gameId": "lost-ark",
+        "url": "https://maxroll.gg/lost-ark"
       }
-    ],
-    "videos": [],
-    "relatedTools": ["path-of-building", "poe-ninja"],
-    "alternatives": ["poe-vault"],
-    "createdBy": {
-      "name": "Maxroll Team",
-      "url": "https://maxroll.gg/about"
-    },
-    "multiGame": {
-      "available": true,
-      "otherGames": [
-        {
-          "gameId": "diablo-4",
-          "url": "https://maxroll.gg/d4"
-        },
-        {
-          "gameId": "last-epoch",
-          "url": "https://maxroll.gg/last-epoch"
-        },
-        {
-          "gameId": "diablo-2-resurrected",
-          "url": "https://maxroll.gg/d2"
-        },
-        {
-          "gameId": "lost-ark",
-          "url": "https://maxroll.gg/lost-ark"
-        }
-      ]
-    }
+    ]
   }
+}

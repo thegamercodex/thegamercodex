@@ -12,28 +12,51 @@
   "openSource": false,
   "github": null,
   "license": null,
-  "platforms": ["web", "windows"],
-  "languages": ["en", "es", "ko", "fr", "de", "pt", "ru"],
-  "tags": ["coaching", "gpi", "performance-tracker", "champion-builds", "tier-list", "overlay", "popular"],
+  "platforms": [
+    "web",
+    "windows"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ko",
+    "fr",
+    "de",
+    "pt",
+    "ru"
+  ],
+  "tags": [
+    "coaching",
+    "gpi",
+    "performance-tracker",
+    "champion-builds",
+    "tier-list",
+    "overlay",
+    "popular"
+  ],
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/mobalytics-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/mobalytics-gpi.png",
-      "captionEs": "Vista del GPI con las 8 áreas de performance del jugador y feedback contextual por categoría",
-      "captionEn": "GPI view with the 8 player performance areas and contextual feedback per category"
+      "url": "/images/tools/mobalytics-ss-1.png"
     },
     {
-      "url": "/images/tools/mobalytics-build.png",
-      "captionEs": "Vista de build por champion con runas, items y matchups, integrada con la guía de coaching",
-      "captionEn": "Per-champion build view with runes, items, and matchups, integrated with coaching guidance"
+      "url": "/images/tools/mobalytics-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["op-gg", "u-gg", "porofessor", "blitz-gg"],
-  "alternatives": ["porofessor", "blitz-gg"],
+  "relatedTools": [
+    "op-gg",
+    "u-gg",
+    "porofessor",
+    "blitz-gg"
+  ],
+  "alternatives": [
+    "porofessor",
+    "blitz-gg"
+  ],
   "createdBy": {
     "name": "Mobalytics",
     "url": "https://mobalytics.gg/about"

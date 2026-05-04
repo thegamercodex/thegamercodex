@@ -10,28 +10,41 @@
   "official": false,
   "free": true,
   "openSource": false,
-  "platforms": ["web"],
-  "languages": ["en"],
-  "tags": ["esports", "rankings", "stats", "news", "rating-2.1", "match-archive", "essential"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "esports",
+    "rankings",
+    "stats",
+    "news",
+    "rating-2.1",
+    "match-archive",
+    "essential"
+  ],
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/hltv-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/hltv-rankings.png",
-      "captionEs": "Ranking mundial de equipos con puntos, cambios semanales y composición actual del roster",
-      "captionEn": "World team ranking with points, weekly changes, and current roster composition"
+      "url": "/images/tools/hltv-ss-1.png"
     },
     {
-      "url": "/images/tools/hltv-player.png",
-      "captionEs": "Página de jugador con HLTV Rating 2.1, stats por mapa, equipos y resultados históricos",
-      "captionEn": "Player page with HLTV Rating 2.1, per-map stats, teams, and historical results"
+      "url": "/images/tools/hltv-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["liquipedia-cs", "hltv-live-matches"],
-  "alternatives": ["liquipedia-cs"],
+  "relatedTools": [
+    "liquipedia-cs",
+    "hltv-live-matches"
+  ],
+  "alternatives": [
+    "liquipedia-cs"
+  ],
   "createdBy": {
     "name": "Better Collective",
     "url": "https://www.bettercollective.com"

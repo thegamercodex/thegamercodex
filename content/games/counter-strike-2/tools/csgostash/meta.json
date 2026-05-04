@@ -10,27 +10,37 @@
   "official": false,
   "free": true,
   "openSource": false,
-  "platforms": ["web"],
-  "languages": ["en"],
-  "tags": ["skins", "database", "price-history", "wear-comparison", "reference", "catalog"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "skins",
+    "database",
+    "price-history",
+    "wear-comparison",
+    "reference",
+    "catalog"
+  ],
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/csgostash-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/csgostash-skin.png",
-      "captionEs": "Página de skin con precio histórico, comparativa de wear y stickers compatibles",
-      "captionEn": "Skin page with price history, wear comparison, and compatible stickers"
+      "url": "/images/tools/csgostash-ss-1.png"
     },
     {
-      "url": "/images/tools/csgostash-collection.png",
-      "captionEs": "Vista de colección con todos los skins y rarezas",
-      "captionEn": "Collection view with all skins and rarities"
+      "url": "/images/tools/csgostash-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["steam-community-market", "cs-money"],
+  "relatedTools": [
+    "steam-community-market",
+    "cs-money"
+  ],
   "alternatives": [],
   "createdBy": {
     "name": "csgostash team",

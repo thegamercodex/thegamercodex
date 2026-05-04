@@ -1,35 +1,45 @@
 {
-    "id": "poeplanner",
-    "name": "PoEPlanner",
-    "shortName": "PoEPlanner",
-    "taglineEs": "Planificador de Atlas tree y árbol pasivo accesible desde el navegador",
-    "taglineEn": "Atlas tree and passive tree planner accessible from the browser",
-    "url": "https://poeplanner.com/atlas-tree",
-    "category": "atlas-maps",
-    "type": "web-app",
-    "official": false,
-    "free": true,
-    "openSource": false,
-    "platforms": ["web"],
-    "languages": ["en"],
-    "tags": ["atlas-tree", "passive-tree", "build-planning", "shareable-builds"],
-    "essential": false,
-    "difficulty": "beginner",
-    "lastVerified": "2026-04-30",
-    "logo": "/images/tools/poeplanner-logo.png",
-    "screenshots": [
-      {
-        "url": "/images/tools/poeplanner-screenshot-atlas.png",
-        "captionEs": "Planificador de Atlas tree con nodos y allocations visualizados",
-        "captionEn": "Atlas tree planner with nodes and allocations visualized"
-      },
-      {
-        "url": "/images/tools/poeplanner-screenshot-passive.png",
-        "captionEs": "Planificador de árbol pasivo con búsqueda y filtros",
-        "captionEn": "Passive tree planner with search and filters"
-      }
-    ],
-    "videos": [],
-    "relatedTools": ["path-of-building", "maxroll"],
-    "alternatives": ["path-of-building"]
-  }
+  "id": "poeplanner",
+  "name": "PoEPlanner",
+  "shortName": "PoEPlanner",
+  "taglineEs": "Planificador de Atlas tree y árbol pasivo accesible desde el navegador",
+  "taglineEn": "Atlas tree and passive tree planner accessible from the browser",
+  "url": "https://poeplanner.com/atlas-tree",
+  "category": "atlas-maps",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "atlas-tree",
+    "passive-tree",
+    "build-planning",
+    "shareable-builds"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-04-30",
+  "logo": "/images/tools/poeplanner-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/poeplanner-ss-1.png"
+    },
+    {
+      "url": "/images/tools/poeplanner-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "path-of-building",
+    "maxroll"
+  ],
+  "alternatives": [
+    "path-of-building"
+  ]
+}

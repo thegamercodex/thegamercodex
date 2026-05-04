@@ -12,28 +12,43 @@
   "openSource": false,
   "github": null,
   "license": null,
-  "platforms": ["web"],
-  "languages": ["en"],
-  "tags": ["pro-builds", "professional", "match-history", "lcs", "lck", "lec", "lpl"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "pro-builds",
+    "professional",
+    "match-history",
+    "lcs",
+    "lck",
+    "lec",
+    "lpl"
+  ],
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/probuilds-net-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/probuilds-net-champion.png",
-      "captionEs": "Vista de champion con builds recientes de pros, runas elegidas, hechizos y duración de partidas",
-      "captionEn": "Champion view with recent pro builds, chosen runes, summoner spells, and match duration"
+      "url": "/images/tools/probuilds-net-ss-1.png"
     },
     {
-      "url": "/images/tools/probuilds-net-pros.png",
-      "captionEs": "Lista de jugadores profesionales con sus últimas partidas de soloqueue tracked",
-      "captionEn": "List of professional players with their latest tracked soloqueue matches"
+      "url": "/images/tools/probuilds-net-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["probuild-gg", "u-gg", "op-gg"],
-  "alternatives": ["probuild-gg", "u-gg"],
+  "relatedTools": [
+    "probuild-gg",
+    "u-gg",
+    "op-gg"
+  ],
+  "alternatives": [
+    "probuild-gg",
+    "u-gg"
+  ],
   "createdBy": {
     "name": "Probuilds.net",
     "url": "https://www.probuilds.net"

@@ -10,28 +10,53 @@
   "official": false,
   "free": true,
   "openSource": false,
-  "platforms": ["web", "windows"],
-  "languages": ["en", "es", "pt", "fr", "de", "it", "ru", "tr", "ja", "ko", "zh"],
-  "tags": ["competitive", "matchmaking", "anti-cheat", "leagues", "tournaments", "elo", "essential"],
+  "platforms": [
+    "web",
+    "windows"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "pt",
+    "fr",
+    "de",
+    "it",
+    "ru",
+    "tr",
+    "ja",
+    "ko",
+    "zh"
+  ],
+  "tags": [
+    "competitive",
+    "matchmaking",
+    "anti-cheat",
+    "leagues",
+    "tournaments",
+    "elo",
+    "essential"
+  ],
   "essential": true,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/faceit-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/faceit-lobby.png",
-      "captionEs": "Lobby de matchmaking con map veto, queue de jugadores y ELO actual",
-      "captionEn": "Matchmaking lobby with map veto, player queue, and current ELO"
+      "url": "/images/tools/faceit-ss-1.png"
     },
     {
-      "url": "/images/tools/faceit-profile.png",
-      "captionEs": "Perfil de jugador con nivel Faceit (1-10), ELO, win rate y últimas partidas",
-      "captionEn": "Player profile with Faceit level (1-10), ELO, win rate, and recent matches"
+      "url": "/images/tools/faceit-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["esea", "leetify", "csstats-gg"],
-  "alternatives": ["esea"],
+  "relatedTools": [
+    "esea",
+    "leetify",
+    "csstats-gg"
+  ],
+  "alternatives": [
+    "esea"
+  ],
   "createdBy": {
     "name": "ESL FACEIT Group",
     "url": "https://www.eslfaceitgroup.com"

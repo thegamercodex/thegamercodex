@@ -10,28 +10,50 @@
   "official": true,
   "free": true,
   "openSource": false,
-  "platforms": ["web"],
-  "languages": ["en", "es", "pt", "fr", "de", "it", "ru", "tr", "zh", "ja", "ko"],
-  "tags": ["skins", "marketplace", "official", "valve", "steam-wallet", "essential"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "pt",
+    "fr",
+    "de",
+    "it",
+    "ru",
+    "tr",
+    "zh",
+    "ja",
+    "ko"
+  ],
+  "tags": [
+    "skins",
+    "marketplace",
+    "official",
+    "valve",
+    "steam-wallet",
+    "essential"
+  ],
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/steam-community-market-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/steam-community-market-listings.png",
-      "captionEs": "Listings de un skin con histórico de precios, oferta más baja y filtros",
-      "captionEn": "Listings for a skin with price history, lowest offer, and filters"
+      "url": "/images/tools/steam-community-market-ss-1.png"
     },
     {
-      "url": "/images/tools/steam-community-market-history.png",
-      "captionEs": "Histórico de precio de los últimos 12 meses con volumen de transacciones",
-      "captionEn": "Last 12 months price history with transaction volume"
+      "url": "/images/tools/steam-community-market-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["cs-money", "csgostash"],
-  "alternatives": ["cs-money"],
+  "relatedTools": [
+    "cs-money",
+    "csgostash"
+  ],
+  "alternatives": [
+    "cs-money"
+  ],
   "createdBy": {
     "name": "Valve Corporation",
     "url": "https://www.valvesoftware.com"

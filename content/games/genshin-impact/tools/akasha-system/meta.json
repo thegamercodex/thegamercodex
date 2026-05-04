@@ -1,40 +1,50 @@
 {
-    "id": "akasha-system",
-    "name": "Akasha System",
-    "shortName": "Akasha",
-    "taglineEs": "Rankings de daño basados en data real de jugadores top en Spiral Abyss",
-    "taglineEn": "Damage rankings based on real data from top Spiral Abyss players",
-    "url": "https://akasha.cv",
-    "category": "damage-calculation",
-    "type": "web-app",
-    "official": false,
-    "free": true,
-    "openSource": true,
-    "github": "https://github.com/danielo-dev/akasha-statistics",
-    "platforms": ["web"],
-    "languages": ["en"],
-    "tags": ["leaderboards", "abyss", "damage-rankings", "community-data", "advanced"],
-    "essential": false,
-    "difficulty": "advanced",
-    "lastVerified": "2026-04-30",
-    "logo": "/images/tools/akasha-system-logo.png",
-    "screenshots": [
-      {
-        "url": "/images/tools/akasha-system-leaderboard.png",
-        "captionEs": "Leaderboard de daño por personaje con builds completas visibles",
-        "captionEn": "Damage leaderboard per character with full builds visible"
-      },
-      {
-        "url": "/images/tools/akasha-system-profile.png",
-        "captionEs": "Perfil de jugador con estadísticas y comparación con la comunidad",
-        "captionEn": "Player profile with statistics and community comparison"
-      }
-    ],
-    "videos": [],
-    "relatedTools": ["genshin-optimizer", "keqing-mains", "honey-hunter-world"],
-    "alternatives": [],
-    "createdBy": {
-      "name": "Daniel & contributors",
-      "url": "https://github.com/danielo-dev/akasha-statistics"
+  "id": "akasha-system",
+  "name": "Akasha System",
+  "shortName": "Akasha",
+  "taglineEs": "Rankings de daño basados en data real de jugadores top en Spiral Abyss",
+  "taglineEn": "Damage rankings based on real data from top Spiral Abyss players",
+  "url": "https://akasha.cv",
+  "category": "damage-calculation",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/danielo-dev/akasha-statistics",
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "leaderboards",
+    "abyss",
+    "damage-rankings",
+    "community-data",
+    "advanced"
+  ],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-04-30",
+  "logo": "/images/tools/akasha-system-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/akasha-system-ss-1.png"
+    },
+    {
+      "url": "/images/tools/akasha-system-ss-2.png"
     }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "genshin-optimizer",
+    "keqing-mains",
+    "honey-hunter-world"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Daniel & contributors",
+    "url": "https://github.com/danielo-dev/akasha-statistics"
   }
+}

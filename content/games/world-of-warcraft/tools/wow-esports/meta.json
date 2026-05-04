@@ -11,27 +11,45 @@
   "free": true,
   "openSource": false,
   "license": null,
-  "platforms": ["web"],
-  "languages": ["en", "es", "fr", "de", "it", "pt-BR", "ru", "ko", "zh-CN"],
-  "tags": ["official", "mdi", "awc", "rwf", "blizzard-promoted", "schedule-tracking"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "it",
+    "pt-BR",
+    "ru",
+    "ko",
+    "zh-CN"
+  ],
+  "tags": [
+    "official",
+    "mdi",
+    "awc",
+    "rwf",
+    "blizzard-promoted",
+    "schedule-tracking"
+  ],
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/wow-esports-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/wow-esports-mdi.png",
-      "captionEs": "Página de Mythic Dungeon International con bracket, schedule y teams clasificados",
-      "captionEn": "Mythic Dungeon International page with bracket, schedule, and qualified teams"
+      "url": "/images/tools/wow-esports-ss-1.png"
     },
     {
-      "url": "/images/tools/wow-esports-awc.png",
-      "captionEs": "Cobertura de Arena World Championship con results, replays y team profiles",
-      "captionEn": "Arena World Championship coverage with results, replays, and team profiles"
+      "url": "/images/tools/wow-esports-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["method", "raider-io"],
+  "relatedTools": [
+    "method",
+    "raider-io"
+  ],
   "alternatives": [],
   "createdBy": {
     "name": "Blizzard Entertainment",

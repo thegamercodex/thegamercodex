@@ -10,26 +10,34 @@
   "official": false,
   "free": true,
   "openSource": false,
-  "platforms": ["web"],
-  "languages": ["en"],
-  "tags": ["labyrinth", "ascendancy", "daily-update", "leveling", "essential"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "labyrinth",
+    "ascendancy",
+    "daily-update",
+    "leveling",
+    "essential"
+  ],
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-04-30",
   "logo": "/images/tools/poe-lab-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/poe-lab-screenshot-map.png",
-      "captionEs": "Mapa del Labyrinth del día con ruta óptima marcada",
-      "captionEn": "Daily Labyrinth map with optimal route marked"
+      "url": "/images/tools/poe-lab-ss-1.png"
     },
     {
-      "url": "/images/tools/poe-lab-screenshot-difficulty.png",
-      "captionEs": "Selector de dificultad del laberinto",
-      "captionEn": "Labyrinth difficulty selector"
+      "url": "/images/tools/poe-lab-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["path-of-building"],
+  "relatedTools": [
+    "path-of-building"
+  ],
   "alternatives": []
 }

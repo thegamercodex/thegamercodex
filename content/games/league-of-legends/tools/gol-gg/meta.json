@@ -12,28 +12,42 @@
   "openSource": false,
   "github": null,
   "license": null,
-  "platforms": ["web"],
-  "languages": ["en", "fr"],
-  "tags": ["esports-stats", "pro-stats", "analytics", "tournaments", "advanced-metrics", "vision-score", "gold-differential"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "tags": [
+    "esports-stats",
+    "pro-stats",
+    "analytics",
+    "tournaments",
+    "advanced-metrics",
+    "vision-score",
+    "gold-differential"
+  ],
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/gol-gg-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/gol-gg-tournament.png",
-      "captionEs": "Vista de torneo con stats agregadas: KDA, gold per minute, vision score, damage share por jugador y por rol",
-      "captionEn": "Tournament view with aggregated stats: KDA, gold per minute, vision score, damage share by player and by role"
+      "url": "/images/tools/gol-gg-ss-1.png"
     },
     {
-      "url": "/images/tools/gol-gg-match.png",
-      "captionEs": "Vista de partida con timeline detallado, gold differential, picks/bans y KDA por minuto",
-      "captionEn": "Match view with detailed timeline, gold differential, picks/bans, and per-minute KDA"
+      "url": "/images/tools/gol-gg-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["oracles-elixir", "leaguepedia"],
-  "alternatives": ["oracles-elixir"],
+  "relatedTools": [
+    "oracles-elixir",
+    "leaguepedia"
+  ],
+  "alternatives": [
+    "oracles-elixir"
+  ],
   "createdBy": {
     "name": "Gol.gg",
     "url": "https://gol.gg"

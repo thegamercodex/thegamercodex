@@ -127,8 +127,8 @@ export interface Game extends GameMeta {
 
 export interface Screenshot {
   url: string;
-  captionEs: string;
-  captionEn: string;
+  captionEs?: string;
+  captionEn?: string;
 }
 
 export interface ToolVideo {

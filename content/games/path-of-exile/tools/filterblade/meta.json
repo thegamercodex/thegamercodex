@@ -10,23 +10,28 @@
   "official": false,
   "free": true,
   "openSource": false,
-  "platforms": ["web"],
-  "languages": ["en"],
-  "tags": ["loot-filter", "customization", "neversink", "essential"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "loot-filter",
+    "customization",
+    "neversink",
+    "essential"
+  ],
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-04-30",
   "logo": "/images/tools/filterblade-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/filterblade-screenshot-editor.png",
-      "captionEs": "Editor visual mostrando cómo se verán los items en el juego",
-      "captionEn": "Visual editor showing how items will appear in-game"
+      "url": "/images/tools/filterblade-ss-1.png"
     },
     {
-      "url": "/images/tools/filterblade-screenshot-customization.png",
-      "captionEs": "Personalización de colores, sonidos y íconos por tipo de item",
-      "captionEn": "Customization of colors, sounds and icons per item type"
+      "url": "/images/tools/filterblade-ss-2.png"
     }
   ],
   "videos": [],

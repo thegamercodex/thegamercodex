@@ -138,8 +138,8 @@ thegamercodex/
 │       │   └── big-ducks-avatar.jpg
 │       └── tools/
 │           ├── path-of-building-logo.png
-│           ├── path-of-building-screenshot-tree.png
-│           └── path-of-building-screenshot-calcs.png
+│           ├── path-of-building-ss-1.png
+│           └── path-of-building-ss-2.png
 ├── messages/                             ← Strings traducidos de UI
 │   ├── es.json
 │   └── en.json

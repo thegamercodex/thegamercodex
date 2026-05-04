@@ -1,35 +1,60 @@
 {
-    "id": "genshin-wiki",
-    "name": "Genshin Impact Wiki",
-    "shortName": "Genshin Wiki",
-    "taglineEs": "Wiki comunitaria con cobertura narrativa, lore, guías y mecánicas de Genshin Impact",
-    "taglineEn": "Community wiki with narrative coverage, lore, guides and mechanics of Genshin Impact",
-    "url": "https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki",
-    "category": "reference",
-    "type": "reference",
-    "official": false,
-    "free": true,
-    "openSource": false,
-    "platforms": ["web"],
-    "languages": ["en", "es", "fr", "de", "id", "it", "ja", "ko", "pl", "pt", "ru", "tr", "vi", "zh-cn", "zh-tw"],
-    "tags": ["wiki", "lore", "narrative", "community-edited", "reference"],
-    "essential": false,
-    "difficulty": "beginner",
-    "lastVerified": "2026-04-30",
-    "logo": "/images/tools/genshin-wiki-logo.png",
-    "screenshots": [
-      {
-        "url": "/images/tools/genshin-wiki-character-page.png",
-        "captionEs": "Página de personaje con lore, historia, voces y data técnica",
-        "captionEn": "Character page with lore, story, voices and technical data"
-      },
-      {
-        "url": "/images/tools/genshin-wiki-quest.png",
-        "captionEs": "Guía paso a paso de quest con mapas y diálogos",
-        "captionEn": "Quest step-by-step guide with maps and dialogues"
-      }
-    ],
-    "videos": [],
-    "relatedTools": ["honey-hunter-world", "hoyolab-map"],
-    "alternatives": ["honey-hunter-world"]
-  }
+  "id": "genshin-wiki",
+  "name": "Genshin Impact Wiki",
+  "shortName": "Genshin Wiki",
+  "taglineEs": "Wiki comunitaria con cobertura narrativa, lore, guías y mecánicas de Genshin Impact",
+  "taglineEn": "Community wiki with narrative coverage, lore, guides and mechanics of Genshin Impact",
+  "url": "https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "pl",
+    "pt",
+    "ru",
+    "tr",
+    "vi",
+    "zh-cn",
+    "zh-tw"
+  ],
+  "tags": [
+    "wiki",
+    "lore",
+    "narrative",
+    "community-edited",
+    "reference"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-04-30",
+  "logo": "/images/tools/genshin-wiki-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/genshin-wiki-ss-1.png"
+    },
+    {
+      "url": "/images/tools/genshin-wiki-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "honey-hunter-world",
+    "hoyolab-map"
+  ],
+  "alternatives": [
+    "honey-hunter-world"
+  ]
+}

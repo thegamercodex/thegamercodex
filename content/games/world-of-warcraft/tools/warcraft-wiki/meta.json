@@ -1,40 +1,53 @@
 {
-    "id": "warcraft-wiki",
-    "name": "Warcraft Wiki",
-    "shortName": "WCW",
-    "taglineEs": "La wiki canónica del universo Warcraft, mantenida por la comunidad y reconocida oficialmente por Blizzard. Sucesora de Wowpedia tras la migración de Fandom a wiki.gg en 2023",
-    "taglineEn": "The canonical Warcraft universe wiki, community-maintained and officially recognized by Blizzard. Successor to Wowpedia after the 2023 migration from Fandom to wiki.gg",
-    "url": "https://warcraft.wiki.gg",
-    "category": "wiki",
-    "type": "reference",
-    "official": false,
-    "free": true,
-    "openSource": true,
-    "license": "CC-BY-SA-3.0",
-    "platforms": ["web"],
-    "languages": ["en"],
-    "tags": ["wiki", "encyclopedia", "lore", "warcraft-universe", "narrative", "community-maintained", "blizzard-recognized", "ad-free"],
-    "essential": true,
-    "difficulty": "beginner",
-    "lastVerified": "2026-05-03",
-    "logo": "/images/tools/warcraft-wiki-logo.png",
-    "screenshots": [
-      {
-        "url": "/images/tools/warcraft-wiki-home.png",
-        "captionEs": "Página principal de Warcraft Wiki en wiki.gg con cobertura del patch actual (Midnight 12.0.5)",
-        "captionEn": "Warcraft Wiki home page on wiki.gg with current patch coverage (Midnight 12.0.5)"
-      },
-      {
-        "url": "/images/tools/warcraft-wiki-lore-article.png",
-        "captionEs": "Ejemplo de artículo de lore con prosa narrativa, references cruzadas y estructura enciclopédica",
-        "captionEn": "Example lore article with narrative prose, cross-references, and encyclopedic structure"
-      }
-    ],
-    "videos": [],
-    "relatedTools": ["wowhead"],
-    "alternatives": ["wowhead"],
-    "createdBy": {
-      "name": "Warcraft Wiki community (originally WoWWiki, 2004)",
-      "url": "https://warcraft.wiki.gg/wiki/Warcraft_Wiki:About"
+  "id": "warcraft-wiki",
+  "name": "Warcraft Wiki",
+  "shortName": "WCW",
+  "taglineEs": "La wiki canónica del universo Warcraft, mantenida por la comunidad y reconocida oficialmente por Blizzard. Sucesora de Wowpedia tras la migración de Fandom a wiki.gg en 2023",
+  "taglineEn": "The canonical Warcraft universe wiki, community-maintained and officially recognized by Blizzard. Successor to Wowpedia after the 2023 migration from Fandom to wiki.gg",
+  "url": "https://warcraft.wiki.gg",
+  "category": "wiki",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "license": "CC-BY-SA-3.0",
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "wiki",
+    "encyclopedia",
+    "lore",
+    "warcraft-universe",
+    "narrative",
+    "community-maintained",
+    "blizzard-recognized",
+    "ad-free"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-03",
+  "logo": "/images/tools/warcraft-wiki-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/warcraft-wiki-ss-1.png"
+    },
+    {
+      "url": "/images/tools/warcraft-wiki-ss-2.png"
     }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "wowhead"
+  ],
+  "alternatives": [
+    "wowhead"
+  ],
+  "createdBy": {
+    "name": "Warcraft Wiki community (originally WoWWiki, 2004)",
+    "url": "https://warcraft.wiki.gg/wiki/Warcraft_Wiki:About"
   }
+}

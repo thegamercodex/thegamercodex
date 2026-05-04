@@ -11,28 +11,41 @@
   "free": true,
   "openSource": false,
   "license": null,
-  "platforms": ["web"],
-  "languages": ["en"],
-  "tags": ["data-driven", "meta-stats", "talent-builds", "top-players", "current-meta"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "data-driven",
+    "meta-stats",
+    "talent-builds",
+    "top-players",
+    "current-meta"
+  ],
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/archon-gg-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/archon-gg-talents.png",
-      "captionEs": "Talent builds con porcentajes de uso entre top players, rankeados por win rate y popularidad",
-      "captionEn": "Talent builds with usage percentages among top players, ranked by win rate and popularity"
+      "url": "/images/tools/archon-gg-ss-1.png"
     },
     {
-      "url": "/images/tools/archon-gg-stats.png",
-      "captionEs": "Stat priority basada en data agregada de mejores parses del current tier",
-      "captionEn": "Stat priority based on aggregated data from best current-tier parses"
+      "url": "/images/tools/archon-gg-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["icy-veins", "method", "raidbots"],
-  "alternatives": ["icy-veins", "method"],
+  "relatedTools": [
+    "icy-veins",
+    "method",
+    "raidbots"
+  ],
+  "alternatives": [
+    "icy-veins",
+    "method"
+  ],
   "createdBy": {
     "name": "Archon team",
     "url": "https://www.archon.gg"

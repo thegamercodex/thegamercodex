@@ -52,7 +52,7 @@ Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas está
 | Creator avatar | `public/images/creators/<creator-id>-avatar.<ext>` | `zizaran-avatar.jpg` |
 | Creator banner | `public/images/creators/<creator-id>-banner.<ext>` | `zizaran-banner.jpg` |
 | Tool logo | `public/images/tools/<tool-id>-logo.<ext>` | `maxroll-logo.png` |
-| Tool screenshot | `public/images/tools/<tool-id>-<descriptor>.<ext>` | `path-of-building-screenshot-tree.png` |
+| Tool screenshot | `public/images/tools/<tool-id>-ss-<N>.<ext>` | `path-of-building-ss-1.png` |
 
 **Reglas**:
 
@@ -66,7 +66,7 @@ Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas está
 **En el `meta.json` el path empieza con `/images/...`** (no `/games/...`). Ejemplos:
 - Game: `"logo": "/images/games/path-of-exile-logo.png"`, `"heroImage": "/images/games/path-of-exile-hero.webp"`
 - Creator: `"avatar": "/images/creators/zizaran-avatar.jpg"`
-- Tool: `"logo": "/images/tools/maxroll-logo.png"`, screenshots: `"url": "/images/tools/maxroll-screenshot-build.png"`
+- Tool: `"logo": "/images/tools/maxroll-logo.png"`, screenshots: `"url": "/images/tools/maxroll-ss-1.png"` (numerados desde 1, sin captions — el componente derive un alt fallback con el nombre del tool si no hay caption)
 
 ## Lucide icons removidos
 

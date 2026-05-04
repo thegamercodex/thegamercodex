@@ -12,28 +12,52 @@
   "openSource": false,
   "github": null,
   "license": null,
-  "platforms": ["web", "windows", "macos"],
-  "languages": ["en", "es", "ko", "fr", "de", "pt"],
-  "tags": ["champion-builds", "tier-list", "runes", "counters", "match-history", "popular"],
+  "platforms": [
+    "web",
+    "windows",
+    "macos"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ko",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "tags": [
+    "champion-builds",
+    "tier-list",
+    "runes",
+    "counters",
+    "match-history",
+    "popular"
+  ],
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/u-gg-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/u-gg-build.png",
-      "captionEs": "Vista de build por champion con items, runas, hechizos y orden de habilidades para el patch actual",
-      "captionEn": "Per-champion build view with items, runes, summoner spells, and skill order for the current patch"
+      "url": "/images/tools/u-gg-ss-1.png"
     },
     {
-      "url": "/images/tools/u-gg-tier-list.png",
-      "captionEs": "Tier list por rol con win rate, pick rate y tier asignado por el algoritmo de U.GG",
-      "captionEn": "Per-role tier list with win rate, pick rate, and tier assigned by U.GG's algorithm"
+      "url": "/images/tools/u-gg-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["op-gg", "lolalytics", "league-of-graphs", "mobalytics", "blitz-gg"],
-  "alternatives": ["lolalytics", "mobalytics", "op-gg"],
+  "relatedTools": [
+    "op-gg",
+    "lolalytics",
+    "league-of-graphs",
+    "mobalytics",
+    "blitz-gg"
+  ],
+  "alternatives": [
+    "lolalytics",
+    "mobalytics",
+    "op-gg"
+  ],
   "createdBy": {
     "name": "U.GG",
     "url": "https://u.gg/about"

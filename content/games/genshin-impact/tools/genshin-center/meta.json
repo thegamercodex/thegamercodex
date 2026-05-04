@@ -1,36 +1,46 @@
 {
-    "id": "genshin-center",
-    "name": "Genshin Center",
-    "shortName": "Genshin Center",
-    "taglineEs": "Planificador de farming diario y progresión de personajes basado en tus objetivos",
-    "taglineEn": "Daily farming and character progression planner based on your goals",
-    "url": "https://genshin-center.com",
-    "category": "character-builds",
-    "type": "web-app",
-    "official": false,
-    "free": true,
-    "openSource": true,
-    "github": "https://github.com/genshin-center/genshin-center",
-    "platforms": ["web"],
-    "languages": ["en"],
-    "tags": ["farming-planner", "resin-management", "ascension-tracker", "daily-planning", "progression"],
-    "essential": false,
-    "difficulty": "beginner",
-    "lastVerified": "2026-04-30",
-    "logo": "/images/tools/genshin-center-logo.png",
-    "screenshots": [
-      {
-        "url": "/images/tools/genshin-center-planner.png",
-        "captionEs": "Planificador de personajes con objetivos de ascensión y materiales requeridos",
-        "captionEn": "Character planner with ascension goals and required materials"
-      },
-      {
-        "url": "/images/tools/genshin-center-daily.png",
-        "captionEs": "Vista de farming diario con domains rotativos y prioridades",
-        "captionEn": "Daily farming view with rotating domains and priorities"
-      }
-    ],
-    "videos": [],
-    "relatedTools": ["genshin-optimizer", "keqing-mains", "honey-hunter-world"],
-    "alternatives": []
-  }
+  "id": "genshin-center",
+  "name": "Genshin Center",
+  "shortName": "Genshin Center",
+  "taglineEs": "Planificador de farming diario y progresión de personajes basado en tus objetivos",
+  "taglineEn": "Daily farming and character progression planner based on your goals",
+  "url": "https://genshin-center.com",
+  "category": "character-builds",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/genshin-center/genshin-center",
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "farming-planner",
+    "resin-management",
+    "ascension-tracker",
+    "daily-planning",
+    "progression"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-04-30",
+  "logo": "/images/tools/genshin-center-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/genshin-center-ss-1.png"
+    },
+    {
+      "url": "/images/tools/genshin-center-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "genshin-optimizer",
+    "keqing-mains",
+    "honey-hunter-world"
+  ],
+  "alternatives": []
+}

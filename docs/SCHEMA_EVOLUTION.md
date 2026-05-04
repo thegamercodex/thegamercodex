@@ -141,3 +141,21 @@ Migración: si aplica, cómo migrar contenido existente al nuevo schema.
 **Archivos afectados**: `content/games/[game]/tools/[tool]/meta.json`.
 
 **Migración**: no requerida. Campo opcional. Se puede agregar retroactivamente a tools existentes cuando se conozca el creador.
+
+### 2026-05-04 - Screenshots: nombrado simplificado y captions opcionales
+
+**Cambio**: dos cambios coordinados al schema de `Screenshot` y al naming de los archivos en `public/images/tools/`:
+
+1. **`captionEs` y `captionEn` ahora son opcionales** en `Screenshot` (`src/types/index.ts`). Antes eran requeridos. Si un screenshot no tiene caption, el tool detail page deriva un `alt` automático del nombre del tool + índice (`"<tool> screenshot 1"`, etc.) y oculta el `<figcaption>`.
+
+2. **Nuevo patrón de naming para screenshot files**: `<tool-id>-ss-<N>.<ext>` (1-indexed). Antes era `<tool-id>-<descriptor>.<ext>` (ej. `path-of-building-screenshot-tree.png`).
+
+**Razón**: el patrón con descriptor obligaba a saber qué muestra cada screenshot antes de subir el asset, lo cual ralentiza la curación. El nuevo patrón es secuencial — uno sube los screenshots como `ss-1`, `ss-2`, etc., en el orden que tenga, y el meta.json sólo lista las URLs sin necesidad de describir cada una. Las captions descriptivas se vuelven opcionales para casos donde aporten contexto editorial real, pero no se exigen.
+
+**Archivos afectados**:
+- `src/types/index.ts` — `Screenshot` interface (captions ahora opcionales)
+- `src/app/[locale]/[game]/tools/[tool]/page.tsx` — `alt` con fallback automático cuando no hay caption
+- `content/games/*/tools/*/meta.json` — los 76 tool meta.json: URLs renombradas al nuevo patrón, campos `captionEs`/`captionEn` removidos (no requeridos por el schema actualizado)
+- `docs/RULES.md`, `CLAUDE.md` — docs sincronizadas con el nuevo patrón
+
+**Migración**: ya hecha en 2026-05-04 con script Python que iteró sobre los 76 metas. 150 screenshots renombrados, 0 captions retenidas. Para nuevos screenshots, simplemente subir como `<tool-id>-ss-N.<ext>` y agregar la URL en `meta.json` sin caption.

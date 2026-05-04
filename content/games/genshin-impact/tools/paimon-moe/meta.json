@@ -1,41 +1,60 @@
 {
-    "id": "paimon-moe",
-    "name": "Paimon.moe",
-    "shortName": "Paimon.moe",
-    "taglineEs": "Tracker de wishes, calculadora de pity, y planificador de primogems para Genshin Impact",
-    "taglineEn": "Wish tracker, pity calculator, and primogem planner for Genshin Impact",
-    "url": "https://paimon.moe",
-    "category": "gacha-tracking",
-    "type": "web-app",
-    "official": false,
-    "free": true,
-    "openSource": true,
-    "github": "https://github.com/MadeBaruna/paimon-moe",
-    "license": "MIT",
-    "platforms": ["web"],
-    "languages": ["en", "es", "fr", "id", "ja", "ko", "pt", "ru", "th", "vi", "zh-cn", "zh-tw"],
-    "tags": ["gacha-tracking", "wish-tracker", "pity-calculator", "primogem-planning", "essential"],
-    "essential": true,
-    "difficulty": "beginner",
-    "lastVerified": "2026-04-30",
-    "logo": "/images/tools/paimon-moe-logo.png",
-    "screenshots": [
-      {
-        "url": "/images/tools/paimon-moe-wish-counter.png",
-        "captionEs": "Contador de wishes con tracking de pity por banner",
-        "captionEn": "Wish counter with pity tracking per banner"
-      },
-      {
-        "url": "/images/tools/paimon-moe-calculator.png",
-        "captionEs": "Calculadora de primogems necesarios para garantizar un personaje",
-        "captionEn": "Primogem calculator for guaranteed character pulls"
-      }
-    ],
-    "videos": [],
-    "relatedTools": ["genshin-optimizer"],
-    "alternatives": [],
-    "createdBy": {
-      "name": "MadeBaruna & contributors",
-      "url": "https://github.com/MadeBaruna/paimon-moe"
+  "id": "paimon-moe",
+  "name": "Paimon.moe",
+  "shortName": "Paimon.moe",
+  "taglineEs": "Tracker de wishes, calculadora de pity, y planificador de primogems para Genshin Impact",
+  "taglineEn": "Wish tracker, pity calculator, and primogem planner for Genshin Impact",
+  "url": "https://paimon.moe",
+  "category": "gacha-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/MadeBaruna/paimon-moe",
+  "license": "MIT",
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "id",
+    "ja",
+    "ko",
+    "pt",
+    "ru",
+    "th",
+    "vi",
+    "zh-cn",
+    "zh-tw"
+  ],
+  "tags": [
+    "gacha-tracking",
+    "wish-tracker",
+    "pity-calculator",
+    "primogem-planning",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-04-30",
+  "logo": "/images/tools/paimon-moe-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/paimon-moe-ss-1.png"
+    },
+    {
+      "url": "/images/tools/paimon-moe-ss-2.png"
     }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "genshin-optimizer"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "MadeBaruna & contributors",
+    "url": "https://github.com/MadeBaruna/paimon-moe"
   }
+}

@@ -1,39 +1,60 @@
 {
-    "id": "hoyolab-map",
-    "name": "HoYoLAB Interactive Map",
-    "shortName": "HoYoLAB Map",
-    "taglineEs": "Mapa interactivo oficial de HoYoverse con todas las ubicaciones del mundo de Genshin",
-    "taglineEn": "Official HoYoverse interactive map with all locations in Genshin's world",
-    "url": "https://act.hoyolab.com/ys/app/interactive-map/index.html",
-    "category": "exploration-maps",
-    "type": "official-service",
-    "official": true,
-    "free": true,
-    "openSource": false,
-    "platforms": ["web"],
-    "languages": ["en", "es", "fr", "de", "id", "it", "ja", "ko", "pt", "ru", "th", "tr", "vi", "zh-cn", "zh-tw"],
-    "tags": ["interactive-map", "exploration", "official", "essential"],
-    "essential": true,
-    "difficulty": "beginner",
-    "lastVerified": "2026-04-30",
-    "logo": "/images/tools/hoyolab-map-logo.png",
-    "screenshots": [
-      {
-        "url": "/images/tools/hoyolab-map-overview.png",
-        "captionEs": "Vista general del mapa con filtros de tipos de recursos",
-        "captionEn": "Map overview with resource type filters"
-      },
-      {
-        "url": "/images/tools/hoyolab-map-tracking.png",
-        "captionEs": "Sistema de tracking que marca recursos ya recolectados",
-        "captionEn": "Tracking system that marks already collected resources"
-      }
-    ],
-    "videos": [],
-    "relatedTools": [],
-    "alternatives": ["genshin-impact-map-appsample"],
-    "createdBy": {
-      "name": "HoYoverse",
-      "url": "https://www.hoyoverse.com"
+  "id": "hoyolab-map",
+  "name": "HoYoLAB Interactive Map",
+  "shortName": "HoYoLAB Map",
+  "taglineEs": "Mapa interactivo oficial de HoYoverse con todas las ubicaciones del mundo de Genshin",
+  "taglineEn": "Official HoYoverse interactive map with all locations in Genshin's world",
+  "url": "https://act.hoyolab.com/ys/app/interactive-map/index.html",
+  "category": "exploration-maps",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "pt",
+    "ru",
+    "th",
+    "tr",
+    "vi",
+    "zh-cn",
+    "zh-tw"
+  ],
+  "tags": [
+    "interactive-map",
+    "exploration",
+    "official",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-04-30",
+  "logo": "/images/tools/hoyolab-map-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/hoyolab-map-ss-1.png"
+    },
+    {
+      "url": "/images/tools/hoyolab-map-ss-2.png"
     }
+  ],
+  "videos": [],
+  "relatedTools": [],
+  "alternatives": [
+    "genshin-impact-map-appsample"
+  ],
+  "createdBy": {
+    "name": "HoYoverse",
+    "url": "https://www.hoyoverse.com"
   }
+}

@@ -11,28 +11,38 @@
   "free": true,
   "openSource": false,
   "license": null,
-  "platforms": ["web"],
-  "languages": ["en"],
-  "tags": ["mechanics-analysis", "wipe-analysis", "raid-leader-tool", "boss-encounters"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "mechanics-analysis",
+    "wipe-analysis",
+    "raid-leader-tool",
+    "boss-encounters"
+  ],
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/wipefest-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/wipefest-events.png",
-      "captionEs": "Lista de eventos de mecánica por jugador con impacto en daño taken y muertes",
-      "captionEn": "List of mechanic events per player with damage taken impact and deaths"
+      "url": "/images/tools/wipefest-ss-1.png"
     },
     {
-      "url": "/images/tools/wipefest-overview.png",
-      "captionEs": "Overview de un boss con resumen de mecánicas falladas por jugador y wipe causa principal",
-      "captionEn": "Boss overview with summary of failed mechanics per player and main wipe cause"
+      "url": "/images/tools/wipefest-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["warcraft-logs", "wowanalyzer"],
-  "alternatives": ["wowanalyzer"],
+  "relatedTools": [
+    "warcraft-logs",
+    "wowanalyzer"
+  ],
+  "alternatives": [
+    "wowanalyzer"
+  ],
   "createdBy": {
     "name": "Wipefest team",
     "url": "https://www.wipefest.gg"

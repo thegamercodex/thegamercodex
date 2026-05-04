@@ -11,28 +11,40 @@
   "free": true,
   "openSource": false,
   "license": null,
-  "platforms": ["web", "windows", "macos"],
-  "languages": ["en"],
-  "tags": ["addon-repository", "addon-manager", "weakauras", "tier-1-coverage", "essential"],
+  "platforms": [
+    "web",
+    "windows",
+    "macos"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "addon-repository",
+    "addon-manager",
+    "weakauras",
+    "tier-1-coverage",
+    "essential"
+  ],
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/curseforge-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/curseforge-search.png",
-      "captionEs": "Página de búsqueda de addons con categoría, downloads y ratings",
-      "captionEn": "Addon search page with category, downloads, and ratings"
+      "url": "/images/tools/curseforge-ss-1.png"
     },
     {
-      "url": "/images/tools/curseforge-app.png",
-      "captionEs": "App desktop CurseForge para Windows con gestión de addons instalados",
-      "captionEn": "CurseForge desktop app for Windows with installed addons management"
+      "url": "/images/tools/curseforge-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["wago-io"],
-  "alternatives": ["wago-io"],
+  "relatedTools": [
+    "wago-io"
+  ],
+  "alternatives": [
+    "wago-io"
+  ],
   "createdBy": {
     "name": "Overwolf",
     "url": "https://www.overwolf.com"

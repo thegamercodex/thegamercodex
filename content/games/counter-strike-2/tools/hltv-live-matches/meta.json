@@ -10,27 +10,36 @@
   "official": false,
   "free": true,
   "openSource": false,
-  "platforms": ["web"],
-  "languages": ["en"],
-  "tags": ["live-matches", "schedule", "brackets", "esports", "real-time"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "live-matches",
+    "schedule",
+    "brackets",
+    "esports",
+    "real-time"
+  ],
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/hltv-live-matches-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/hltv-live-matches-list.png",
-      "captionEs": "Listado de matches en curso, próximos y recientes con scores en vivo",
-      "captionEn": "List of live, upcoming, and recent matches with live scores"
+      "url": "/images/tools/hltv-live-matches-ss-1.png"
     },
     {
-      "url": "/images/tools/hltv-live-matches-detail.png",
-      "captionEs": "Detalle de match individual con scoreboard real-time, mapa actual y stream embed",
-      "captionEn": "Individual match detail with real-time scoreboard, current map, and stream embed"
+      "url": "/images/tools/hltv-live-matches-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["hltv", "liquipedia-cs"],
+  "relatedTools": [
+    "hltv",
+    "liquipedia-cs"
+  ],
   "alternatives": [],
   "createdBy": {
     "name": "Better Collective",

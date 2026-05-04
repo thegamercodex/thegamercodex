@@ -12,28 +12,38 @@
   "openSource": true,
   "github": "https://github.com/Bloodmallet/bloodmallet.github.io",
   "license": "MIT",
-  "platforms": ["web"],
-  "languages": ["en"],
-  "tags": ["pre-computed-sims", "trinket-comparison", "talent-comparison", "tier-sets", "open-source"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "pre-computed-sims",
+    "trinket-comparison",
+    "talent-comparison",
+    "tier-sets",
+    "open-source"
+  ],
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/bloodmallet-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/bloodmallet-trinkets.png",
-      "captionEs": "Chart comparativo de trinkets por spec ordenados por DPS estimado",
-      "captionEn": "Comparison chart of trinkets per spec sorted by estimated DPS"
+      "url": "/images/tools/bloodmallet-ss-1.png"
     },
     {
-      "url": "/images/tools/bloodmallet-talents.png",
-      "captionEs": "Chart de talent comparison para single target vs cleave por spec",
-      "captionEn": "Talent comparison chart for single target vs cleave per spec"
+      "url": "/images/tools/bloodmallet-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["raidbots"],
-  "alternatives": ["raidbots"],
+  "relatedTools": [
+    "raidbots"
+  ],
+  "alternatives": [
+    "raidbots"
+  ],
   "createdBy": {
     "name": "Bloodmallet (community contributors)",
     "url": "https://github.com/Bloodmallet/bloodmallet.github.io"

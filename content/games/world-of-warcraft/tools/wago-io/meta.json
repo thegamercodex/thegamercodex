@@ -11,28 +11,40 @@
   "free": true,
   "openSource": false,
   "license": null,
-  "platforms": ["web", "windows", "macos"],
-  "languages": ["en"],
-  "tags": ["addon-repository", "weakauras", "addon-manager", "clean-ux", "community-sharing"],
+  "platforms": [
+    "web",
+    "windows",
+    "macos"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "addon-repository",
+    "weakauras",
+    "addon-manager",
+    "clean-ux",
+    "community-sharing"
+  ],
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
   "logo": "/images/tools/wago-io-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/wago-io-weakauras.png",
-      "captionEs": "Página de un WeakAura con import code, version history y comments de la comunidad",
-      "captionEn": "WeakAura page with import code, version history, and community comments"
+      "url": "/images/tools/wago-io-ss-1.png"
     },
     {
-      "url": "/images/tools/wago-io-app.png",
-      "captionEs": "Wago App con sync de WeakAuras y gestión de addons en interfaz minimal",
-      "captionEn": "Wago App with WeakAuras sync and addon management in minimal interface"
+      "url": "/images/tools/wago-io-ss-2.png"
     }
   ],
   "videos": [],
-  "relatedTools": ["curseforge"],
-  "alternatives": ["curseforge"],
+  "relatedTools": [
+    "curseforge"
+  ],
+  "alternatives": [
+    "curseforge"
+  ],
   "createdBy": {
     "name": "Wago team",
     "url": "https://wago.io/about"
