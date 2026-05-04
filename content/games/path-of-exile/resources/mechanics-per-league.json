@@ -2,6 +2,21 @@
   "category": "mechanics-per-league",
   "resources": [
     {
+      "id": "fubgun-best-league-3-28-rundown-2026",
+      "type": "video",
+      "title": "The Best League in a Long Time — Full 3.28 Rundown",
+      "creator": "Fubgun",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=pj1CBmPYB44",
+      "youtubeId": "pj1CBmPYB44",
+      "language": "en",
+      "duration": "13:31",
+      "publishedDate": "2026-02-27",
+      "thumbnail": "https://i.ytimg.com/vi/pj1CBmPYB44/maxresdefault.jpg",
+      "noteEs": "Fubgun, veterano del scene PoE 1, repasa la liga Mirage 3.28 completa con tono editorial: qué funciona, qué no, y por qué considera que es de las mejores ligas en años. Anchor de overview para players que quieren un veredicto rápido del state actual de PoE 1.",
+      "noteEn": "Fubgun, PoE 1 scene veteran, walks through the entire Mirage 3.28 league with editorial tone: what works, what doesn't, and why he considers it one of the best leagues in years. Overview anchor for players wanting a quick verdict on PoE 1's current state."
+    },
+    {
       "id": "path-of-evening-poe1-mirage-juicing-mechanic-2026",
       "type": "video",
       "title": "The MOST Important New Juicing Mechanic — PoE 1 3.28 Mirage League",
@@ -15,6 +30,36 @@
       "thumbnail": "https://i.ytimg.com/vi/bMbx0Bn7I58/maxresdefault.jpg",
       "noteEs": "Path of Evening explica la nueva mecánica de juicing introducida en Mirage League (3.28) — cómo escalar drops y profit en el endgame con el sistema agregado en esta liga. La cobertura mecánica más actionable del patch.",
       "noteEn": "Path of Evening explains the new juicing mechanic introduced in Mirage League (3.28) — how to scale drops and profit in endgame with this league's added system. The patch's most actionable mechanic coverage."
+    },
+    {
+      "id": "icybaron-atlas-wrong-3-28-mirage-2026",
+      "type": "video",
+      "title": "Most Players Are Doing Atlas Wrong in 3.28 Mirage",
+      "creator": "IcyBaron",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=OT4pWptGfao",
+      "youtubeId": "OT4pWptGfao",
+      "language": "en",
+      "duration": "9:28",
+      "publishedDate": "2026-03-08",
+      "thumbnail": "https://i.ytimg.com/vi/OT4pWptGfao/maxresdefault.jpg",
+      "noteEs": "IcyBaron identifica errores comunes en setup del Atlas para Mirage 3.28: nodos pasivos mal asignados, scarabs que la mayoría está desperdiciando, y la lógica detrás del approach correcto. La mecánica del Atlas es central a PoE 1 y este video corrige malentendidos típicos.",
+      "noteEn": "IcyBaron identifies common Atlas setup errors for Mirage 3.28: misassigned passives, scarabs most players waste, and the logic behind the correct approach. Atlas mechanics are central to PoE 1, and this video corrects typical misunderstandings."
+    },
+    {
+      "id": "altek2k-breach-mechanics-crafting-tree-3-27-2025",
+      "type": "video",
+      "title": "Breach Mechanics & Crafting Tree — PoE Keepers of the Flame",
+      "creator": "Altek2k",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=cVpjbmWQMf4",
+      "youtubeId": "cVpjbmWQMf4",
+      "language": "en",
+      "duration": "9:10",
+      "publishedDate": "2025-11-11",
+      "thumbnail": "https://i.ytimg.com/vi/cVpjbmWQMf4/maxresdefault.jpg",
+      "noteEs": "Breach es una mecánica core de PoE 1 que recibió rework en Keepers of the Flame (3.27) y sigue siendo relevante en 3.28 Mirage. Altek2k explica el árbol de crafteo asociado, cómo escalar daño dentro de Breach, y los splinters que conviene priorizar. Material foundational que envejece bien.",
+      "noteEn": "Breach is a core PoE 1 mechanic that got reworked in Keepers of the Flame (3.27) and remains relevant in 3.28 Mirage. Altek2k explains the associated crafting tree, how to scale damage inside Breach, and which splinters to prioritize. Foundational material that ages well."
     },
     {
       "id": "kroximatuz-mirage-3-28-league-review-2026",

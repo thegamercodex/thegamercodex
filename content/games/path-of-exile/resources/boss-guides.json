@@ -17,6 +17,21 @@
       "noteEn": "Pohx, the bossing and RF anchor in PoE 1, presents his Life Stack Righteous Fire Chieftain build with Uber boss showcase in 3.28 Mirage. Covers full setup, gear progression for uber-tier, and kill videos for each uber. Mandatory anchor of the boss-guides cluster."
     },
     {
+      "id": "zizaran-mini-guide-new-endgame-bosses-2025",
+      "type": "video",
+      "title": "Mini-Guide on the NEW ENDGAME BOSSES & My Thoughts On Them",
+      "creator": "Zizaran",
+      "creatorId": "zizaran",
+      "url": "https://www.youtube.com/watch?v=pU2RiCeFNDA",
+      "youtubeId": "pU2RiCeFNDA",
+      "language": "en",
+      "duration": "13:42",
+      "publishedDate": "2025-06-17",
+      "thumbnail": "https://i.ytimg.com/vi/pU2RiCeFNDA/maxresdefault.jpg",
+      "noteEs": "Zizaran (codex de PoE 1) presenta los nuevos endgame bosses introducidos por GGG en 3.25 — mecánicas, cómo desbloquearlos, threat tier por boss, y opinión editorial sobre si justifican el grind para alcanzarlos. Aunque es de mediados de 2025, los bosses siguen vigentes en 3.28.",
+      "noteEn": "Zizaran (PoE 1 codex) presents the new endgame bosses introduced by GGG in 3.25 — mechanics, how to unlock them, threat tier per boss, and editorial opinion on whether they justify the grind to reach them. Although from mid-2025, the bosses remain active in 3.28."
+    },
+    {
       "id": "lolcohol-how-profitable-feared-3-28-2026",
       "type": "video",
       "title": "PoE 3.28 — How Profitable is THE FEARED?",
@@ -30,6 +45,36 @@
       "thumbnail": "https://i.ytimg.com/vi/a5DWjyXi4mY/maxresdefault.jpg",
       "noteEs": "The Feared es uno de los pinnacle bosses más rentables de PoE 1, pero el setup es caro y la dificultad es alta. Lolcohol calcula matemáticamente si vale la pena: cost del invitation, drop tables, expected divine/hour, y comparison contra alternativas como Uber Sirus o Maven. Material para players considerando boss-rushing como income main.",
       "noteEn": "The Feared is one of PoE 1's most profitable pinnacle bosses, but the setup is expensive and difficulty is high. Lolcohol calculates mathematically whether it's worth it: invitation cost, drop tables, expected divine/hour, and comparison against alternatives like Uber Sirus or Maven. Material for players considering boss-rushing as main income."
+    },
+    {
+      "id": "vascor-nightmare-boss-rushing-3-28-2026",
+      "type": "video",
+      "title": "Nightmare Boss Rushing for 25D/Hour: Easy Fragment Farm in 3.28 Mirage",
+      "creator": "Vascor",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=oTbTvziGEDA",
+      "youtubeId": "oTbTvziGEDA",
+      "language": "en",
+      "duration": "10:10",
+      "publishedDate": "2026-03-16",
+      "thumbnail": "https://i.ytimg.com/vi/oTbTvziGEDA/maxresdefault.jpg",
+      "noteEs": "Vascor presenta una estrategia menos demandante de gear para sostener bossing income en 3.28 Mirage: rushear Nightmare Maps por sus fragmentos. 25 divines/hora con setup accesible. Boss-as-income más accesible que el setup uber, complementario al deep-dive de Lolcohol.",
+      "noteEn": "Vascor presents a less gear-demanding strategy to sustain bossing income in 3.28 Mirage: rushing Nightmare Maps for their fragments. 25 divines/hour with accessible setup. Boss-as-income more accessible than uber setup, complementary to Lolcohol's deep-dive."
+    },
+    {
+      "id": "heavyheals-sirus-boss-fight-beginner-2024",
+      "type": "video",
+      "title": "SIRUS — Boss Fight Guide — Path of Exile Beginner Friendly Guide",
+      "creator": "HeavyHeals",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=8Os6mocpfpg",
+      "youtubeId": "8Os6mocpfpg",
+      "language": "en",
+      "duration": "19:10",
+      "publishedDate": "2024-10-28",
+      "thumbnail": "https://i.ytimg.com/vi/8Os6mocpfpg/maxresdefault.jpg",
+      "noteEs": "Sirus, Awakener of the Worlds es uno de los pinnacle bosses fundamentales de PoE 1 — todo player serio lo enfrenta múltiples veces. HeavyHeals da una guía completa para principiantes en 19 minutos: cada fase, cada mecánica, errores típicos. La pelea no cambió desde 3.13 lo cual hace al video evergreen aunque sea de 2024.",
+      "noteEn": "Sirus, Awakener of the Worlds is one of PoE 1's fundamental pinnacle bosses — every serious player faces him multiple times. HeavyHeals gives a complete beginner guide in 19 minutes: every phase, every mechanic, typical mistakes. The fight hasn't changed since 3.13, which makes the video evergreen despite being from 2024."
     }
   ]
 }
