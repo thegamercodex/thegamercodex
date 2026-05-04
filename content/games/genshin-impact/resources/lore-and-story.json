@@ -1,0 +1,80 @@
+{
+  "category": "lore-and-story",
+  "resources": [
+    {
+      "id": "wakalaka999-everything-snezhnaya-2026",
+      "type": "video",
+      "title": "Everything You Need to Know About Snezhnaya",
+      "creator": "WakaLaka999",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=_Pa9WXQ7jOQ",
+      "youtubeId": "_Pa9WXQ7jOQ",
+      "language": "en",
+      "duration": "8:07",
+      "publishedDate": "2026-05-04",
+      "thumbnail": "https://i.ytimg.com/vi/_Pa9WXQ7jOQ/maxresdefault.jpg",
+      "noteEs": "Snezhnaya — la región final del Teyvat principal — está a punto de aparecer en la versión 7.x. WakaLaka999 condensa todo lo que la comunidad ya sabe del lugar: la Tsaritsa, los Fatui, las Visiones congeladas, los Harbingers. Anchor del cluster lore para mantenerse al día con la dirección narrativa del juego.",
+      "noteEn": "Snezhnaya — the final region of main Teyvat — is about to appear in version 7.x. WakaLaka999 condenses everything the community already knows about the place: the Tsaritsa, the Fatui, frozen Visions, the Harbingers. Lore cluster anchor for staying current with the game's narrative direction."
+    },
+    {
+      "id": "dreamscape-archives-celestia-6-civilizations-2026",
+      "type": "video",
+      "title": "Celestia Already Destroyed 6 Civilizations... The Next One Is Coming",
+      "creator": "Dreamscape Archives",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=wHegzFL_YMk",
+      "youtubeId": "wHegzFL_YMk",
+      "language": "en",
+      "duration": "19:43",
+      "publishedDate": "2026-04-11",
+      "thumbnail": "https://i.ytimg.com/vi/wHegzFL_YMk/maxresdefault.jpg",
+      "noteEs": "Theory deep-dive sobre Celestia: cómo los dioses celestiales han destruido civilizaciones anteriores y qué señales sugieren que la actual de Teyvat va por el mismo camino. Dreamscape Archives compila references narrativos de toda la historia del juego — para players que quieren la lore de fondo macro, no solo lo del current patch.",
+      "noteEn": "Theory deep-dive on Celestia: how the celestial gods have destroyed previous civilizations and which signs suggest current Teyvat is heading the same way. Dreamscape Archives compiles narrative references from across the game's history — for players who want macro background lore, not just current-patch story."
+    },
+    {
+      "id": "minsleif-hidden-lore-limited-event-2026",
+      "type": "video",
+      "title": "Genshin Hid IMPORTANT Lore in THIS Limited-Time Event...",
+      "creator": "Minsleif",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=dxXxjjFxPCA",
+      "youtubeId": "dxXxjjFxPCA",
+      "language": "en",
+      "duration": "9:38",
+      "publishedDate": "2026-03-17",
+      "thumbnail": "https://i.ytimg.com/vi/dxXxjjFxPCA/maxresdefault.jpg",
+      "noteEs": "HoYoverse esconde lore crítica en eventos limitados que la mayoría de players completan por primogems sin leer. Minsleif rescata las pistas narrativas que aparecieron en el evento que documenta este video — un ejemplo concreto del por qué vale la pena pausar y leer durante eventos en lugar de skipear texto.",
+      "noteEn": "HoYoverse hides critical lore in limited-time events most players complete for primogems without reading. Minsleif rescues the narrative clues that appeared in the event this video documents — a concrete example of why it's worth pausing to read during events instead of skipping text."
+    },
+    {
+      "id": "guarida-boreas-que-es-abismo-enemigo-final-2026",
+      "type": "video",
+      "title": "¿Qué es el Abismo? El enemigo final de Teyvat — Genshin Impact Lore",
+      "creator": "Guarida de Boreas",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=rt6TyjPi5rQ",
+      "youtubeId": "rt6TyjPi5rQ",
+      "language": "es",
+      "duration": "12:39",
+      "publishedDate": "2026-03-22",
+      "thumbnail": "https://i.ytimg.com/vi/rt6TyjPi5rQ/maxresdefault.jpg",
+      "noteEs": "Anchor en español: Guarida de Boreas explica qué es el Abismo — la fuerza antagónica central de Genshin Impact. Cubre los Heralds, los Lectors, la conexión con Khaenri'ah y Rhinedottir. Para players hispanohablantes que quieren entender la trama macro sin tener que cruzar a content en inglés.",
+      "noteEn": "Spanish anchor: Guarida de Boreas explains what the Abyss is — the central antagonistic force in Genshin Impact. Covers Heralds, Lectors, the connection with Khaenri'ah and Rhinedottir. For Spanish-speakers who want to understand the macro plot without crossing to English content."
+    },
+    {
+      "id": "benazz-rebelion-arcontes-celestia-sombras-2026",
+      "type": "video",
+      "title": "REBELIÓN ARCONTES — GUERRA CELESTIA y SOMBRAS — Análisis y lore",
+      "creator": "Benazz",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=P_ScSchkjYU",
+      "youtubeId": "P_ScSchkjYU",
+      "language": "es",
+      "duration": "9:39",
+      "publishedDate": "2026-04-07",
+      "thumbnail": "https://i.ytimg.com/vi/P_ScSchkjYU/maxresdefault.jpg",
+      "noteEs": "Benazz analiza la rebelión de los Archons contra Celestia y las facciones de las Sombras — uno de los hilos narrativos más densos del lore actual. Format compacto en español, complemento al video de Guarida de Boreas: este profundiza en política celestial mientras el otro cubre el Abismo como antagonista.",
+      "noteEn": "Benazz analyzes the Archon rebellion against Celestia and the Shadows factions — one of the densest narrative threads in current lore. Compact Spanish format, complement to Guarida de Boreas's video: this one goes deep on celestial politics while the other covers the Abyss as antagonist."
+    }
+  ]
+}

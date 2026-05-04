@@ -1,0 +1,80 @@
+{
+  "category": "event-guides",
+  "resources": [
+    {
+      "id": "mikos-comet-full-event-breakdown-6-5-2026",
+      "type": "video",
+      "title": "GET READY for Luna VI! Full Event Breakdown (Genshin Impact 6.5)",
+      "creator": "MiKo's Comet",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=CeoS3tC8Y48",
+      "youtubeId": "CeoS3tC8Y48",
+      "language": "en",
+      "duration": "6:27",
+      "publishedDate": "2026-03-29",
+      "thumbnail": "https://i.ytimg.com/vi/CeoS3tC8Y48/maxresdefault.jpg",
+      "noteEs": "MiKo's Comet desglosa todos los eventos de la versión 6.5 (Luna VI): qué eventos hay, qué rewards trae cada uno, y el orden óptimo para hacerlos durante el ciclo. Anchor del cluster event-guides — formato compacto que sirve como to-do list al inicio de cada versión.",
+      "noteEn": "MiKo's Comet breaks down all events in version 6.5 (Luna VI): which events run, what rewards each gives, and the optimal order to complete them during the cycle. Event-guides cluster anchor — compact format that serves as a to-do list at the start of each version."
+    },
+    {
+      "id": "seraphyte-total-primogems-6-5-f2p-2026",
+      "type": "video",
+      "title": "Genshin 6.5 Total Primogems: Exact F2P & Welkin Pull Count!",
+      "creator": "Seraphyte",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=t7FWmHOv_b8",
+      "youtubeId": "t7FWmHOv_b8",
+      "language": "en",
+      "duration": "5:20",
+      "publishedDate": "2026-03-03",
+      "thumbnail": "https://i.ytimg.com/vi/t7FWmHOv_b8/maxresdefault.jpg",
+      "noteEs": "Seraphyte calcula exactamente cuántos primogems y pulls trae la versión 6.5 para players F2P y para players con Welkin Moon ($5/mes). Útil para planning de wishes — saber con cuántas pulls vas a llegar al próximo banner cambia decisiones de pity.",
+      "noteEn": "Seraphyte calculates exactly how many primogems and pulls version 6.5 brings for F2P players and for Welkin Moon ($5/month) players. Useful for wish planning — knowing how many pulls you'll have for the next banner changes pity decisions."
+    },
+    {
+      "id": "mauvika-plays-dont-miss-6-5-events-2026",
+      "type": "video",
+      "title": "DON'T MISS These 6.5 Events (2,000+ FREE Primos)",
+      "creator": "MAUVIKA PLAYS",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=7HsZUo8SYaA",
+      "youtubeId": "7HsZUo8SYaA",
+      "language": "en",
+      "duration": "4:14",
+      "publishedDate": "2026-04-16",
+      "thumbnail": "https://i.ytimg.com/vi/7HsZUo8SYaA/maxresdefault.jpg",
+      "noteEs": "Format más cortito (4 min) y orientado a 'no te lo pierdas': MAUVIKA PLAYS lista los eventos de 6.5 que sí o sí hay que completar para no perder primogems. Útil cuando ya estás avanzado en la versión y querés un check rápido de qué te falta antes del cierre.",
+      "noteEn": "Shorter format (4 min) oriented to 'don't miss': MAUVIKA PLAYS lists 6.5 events you absolutely must complete to not lose primogems. Useful when you're already deep in the version and want a quick check of what's left before close."
+    },
+    {
+      "id": "mehtabs-moon-6-6-pulls-breakdown-2026",
+      "type": "video",
+      "title": "GET 80+ pulls full breakdown of 6.6 version",
+      "creator": "Mehtab's Moon",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=oBfyIe-uySs",
+      "youtubeId": "oBfyIe-uySs",
+      "language": "en",
+      "duration": "4:16",
+      "publishedDate": "2026-04-23",
+      "thumbnail": "https://i.ytimg.com/vi/oBfyIe-uySs/maxresdefault.jpg",
+      "noteEs": "Versión forward-looking: Mehtab's Moon adelanta el cálculo de pulls para 6.6 antes que la versión salga. Útil para players que planifican wishes con anticipación y deciden si vale la pena saltarse un banner para acumular para uno futuro.",
+      "noteEn": "Forward-looking version: Mehtab's Moon previews the pull count for 6.6 before the version drops. Useful for players who plan wishes ahead and decide whether to skip a banner to save for a future one."
+    },
+    {
+      "id": "neazho-genshin-luna-iv-todo-lo-nuevo-2026",
+      "type": "video",
+      "title": "Genshin Luna IV: TODO lo nuevo — personajes, eventos y protogemas",
+      "creator": "Neazho",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=RCQIqlYdtt8",
+      "youtubeId": "RCQIqlYdtt8",
+      "language": "es",
+      "duration": "8:02",
+      "publishedDate": "2026-01-02",
+      "thumbnail": "https://i.ytimg.com/vi/RCQIqlYdtt8/maxresdefault.jpg",
+      "noteEs": "Anchor en español: Neazho cubre todo lo nuevo de Luna IV (versión 6.3) — personajes, eventos disponibles, primogems totales. Es de inicio de 2026 (versiones recientes son Luna V y VI) pero el formato sirve como template para entender cómo leer cualquier versión nueva.",
+      "noteEn": "Spanish anchor: Neazho covers everything new in Luna IV (version 6.3) — characters, available events, total primogems. From early 2026 (recent versions are Luna V and VI), but the format serves as a template for how to read any new version."
+    }
+  ]
+}

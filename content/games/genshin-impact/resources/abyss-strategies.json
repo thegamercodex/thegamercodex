@@ -1,0 +1,80 @@
+{
+  "category": "abyss-strategies",
+  "resources": [
+    {
+      "id": "mr-mondstadt-beat-luna-vi-spiral-abyss-f2p-2026",
+      "type": "video",
+      "title": "How to BEAT the Luna VI/6.5 Spiral Abyss — F2P Guide with Tips and Tricks",
+      "creator": "Mr. Mondstadt",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=R4PjQ3aLC84",
+      "youtubeId": "R4PjQ3aLC84",
+      "language": "en",
+      "duration": "15:35",
+      "publishedDate": "2026-04-16",
+      "thumbnail": "https://i.ytimg.com/vi/R4PjQ3aLC84/maxresdefault.jpg",
+      "noteEs": "Walkthrough completo de Spiral Abyss 6.5 (Luna VI) desde perspectiva F2P. Mr. Mondstadt cubre cada cámara del piso 12 con team comps accesibles, tips por encounter, y troubleshooting de los DPS checks que typically frenan a players sin 5-stars meta. Anchor del cluster.",
+      "noteEn": "Complete Spiral Abyss 6.5 (Luna VI) walkthrough from F2P perspective. Mr. Mondstadt covers each floor 12 chamber with accessible team comps, per-encounter tips, and troubleshooting for the DPS checks that typically gate players without meta 5-stars. Cluster anchor."
+    },
+    {
+      "id": "tenha-spiral-abyss-old-characters-challenge-2026",
+      "type": "video",
+      "title": "Can you full star SPIRAL ABYSS using OLD CHARACTERS?",
+      "creator": "Tenha",
+      "creatorId": "tenha",
+      "url": "https://www.youtube.com/watch?v=2aaYSDKFoGQ",
+      "youtubeId": "2aaYSDKFoGQ",
+      "language": "en",
+      "duration": "14:41",
+      "publishedDate": "2026-04-13",
+      "thumbnail": "https://i.ytimg.com/vi/2aaYSDKFoGQ/maxresdefault.jpg",
+      "noteEs": "Tenha (codex Genshin) ataca el Abyss 6.5 usando solo characters viejos. Útil más allá del clickbait — demuestra que muchos archetypes pre-Sumeru siguen siendo viables si están bien construidos. Para players F2P con cuentas viejas que dudan de invertir wishes en characters nuevos, este video da framework de decisión.",
+      "noteEn": "Tenha (codex Genshin creator) tackles 6.5 Abyss using only old characters. Useful beyond clickbait — shows that many pre-Sumeru archetypes are still viable when properly built. For F2P players with old accounts who hesitate to invest wishes in new characters, this gives decision framework."
+    },
+    {
+      "id": "conquer30-best-teams-destroy-abyss-6-5-f2p-2026",
+      "type": "video",
+      "title": "The BEST Teams to DESTROY Spiral Abyss 6.5 — F2P Weapons & Tips",
+      "creator": "Conquer30",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=xFg_MwFGBeY",
+      "youtubeId": "xFg_MwFGBeY",
+      "language": "en",
+      "duration": "9:13",
+      "publishedDate": "2026-04-15",
+      "thumbnail": "https://i.ytimg.com/vi/xFg_MwFGBeY/maxresdefault.jpg",
+      "noteEs": "Conquer30 lista los mejores teams para Spiral Abyss 6.5, todos jugables con armas F2P y characters de la mayoría de cuentas establecidas. Foco en clear consistente más que clears flashy de showcase — útil para players que necesitan los stars del season pass.",
+      "noteEn": "Conquer30 lists the best teams for Spiral Abyss 6.5, all playable with F2P weapons and characters from most established accounts. Focus on consistent clears rather than flashy showcase clears — useful for players who need the season-pass stars."
+    },
+    {
+      "id": "games-and-chill-superalo-facil-abismo-6-5-2026",
+      "type": "video",
+      "title": "Supéralo FÁCIL — NUEVO ABISMO 6.5 — Guía y Trucos",
+      "creator": "GamesAndChill",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=k0gKTKATc4o",
+      "youtubeId": "k0gKTKATc4o",
+      "language": "es",
+      "duration": "16:56",
+      "publishedDate": "2026-04-16",
+      "thumbnail": "https://i.ytimg.com/vi/k0gKTKATc4o/maxresdefault.jpg",
+      "noteEs": "Anchor en español del cluster: GamesAndChill cubre el Abismo 6.5 completo en 17 minutos — cámara por cámara, mecánicas de Bosses, team comps recomendados, y los trucos típicos que la mayoría de hispanohablantes aprende viendo a otros jugar. Format extenso, complemento al de Mr. Mondstadt en EN.",
+      "noteEn": "Spanish anchor of the cluster: GamesAndChill covers the complete 6.5 Abyss in 17 minutes — chamber by chamber, boss mechanics, recommended team comps, and the typical tricks most Spanish-speakers learn by watching others play. Extensive format, complement to Mr. Mondstadt in EN."
+    },
+    {
+      "id": "thechinojr-protogemas-faciles-abismo-6-5-2026",
+      "type": "video",
+      "title": "PROTOGEMAS FÁCILES — Guía Abismo 6.5 Abril",
+      "creator": "TheChinoJr",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=KsC6wXHyV4Q",
+      "youtubeId": "KsC6wXHyV4Q",
+      "language": "es",
+      "duration": "9:58",
+      "publishedDate": "2026-04-15",
+      "thumbnail": "https://i.ytimg.com/vi/KsC6wXHyV4Q/maxresdefault.jpg",
+      "noteEs": "Versión más compacta en español: TheChinoJr enfoca el Abismo desde el ángulo del primogem grind — 9 minutos para sacar las 600 protogemas del cycle sin necesariamente full-clear. Útil para players F2P que priorizan eficiencia de tiempo.",
+      "noteEn": "More compact Spanish version: TheChinoJr approaches the Abyss from the primogem grind angle — 10 minutes to extract the 600 primogems per cycle without necessarily full-clearing. Useful for F2P players prioritizing time efficiency."
+    }
+  ]
+}
