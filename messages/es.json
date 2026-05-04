@@ -11,10 +11,22 @@
     "gamesHeading": "Juegos",
     "connectHeading": "Conectar",
     "aboutHeading": "Sobre el codex",
-    "aboutText": "Curamos herramientas, creators y recursos para los juegos que más nos importan. Curado de forma independiente — el catálogo no se compra.",
+    "aboutText": "",
     "github": "GitHub",
     "feedback": "Reportar problema",
+    "changelog": "Changelog",
     "rights": "Compendio curado de gaming."
+  },
+  "changelog": {
+    "pageTitle": "Changelog",
+    "pageDescription": "Historial de releases del codex: nuevos juegos, herramientas agregadas, fixes y removals.",
+    "newGameBadge": "Nuevo juego",
+    "stats": {
+      "tools": "{count, plural, one {# herramienta} other {# herramientas}}",
+      "creators": "{count, plural, one {# creator} other {# creators}}",
+      "resources": "{count, plural, one {# recurso} other {# recursos}}",
+      "lastUpdated": "actualizado hace {days, plural, =0 {hoy} one {# día} other {# días}}"
+    }
   },
   "sponsor": {
     "label": "Patrocinado",

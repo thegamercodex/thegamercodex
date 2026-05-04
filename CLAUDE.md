@@ -27,7 +27,7 @@ TheGamerCodex es un directorio web curado de herramientas y recursos para gamers
 - **Lenguaje**: TypeScript estricto
 - **Estilos**: Tailwind CSS v4 (configurado vía `@tailwindcss/postcss`, sin `tailwind.config.*` — los tokens viven en `src/app/globals.css` con `@theme inline`)
 - **Contenido**: Markdown + JSON. Parser: `gray-matter` para frontmatter, `marked` para render del body a HTML
-- **i18n**: `next-intl` con locales `es` (default) y `en`, `localePrefix: "always"`
+- **i18n**: `next-intl` con locales `en` (default) y `es`, `localePrefix: "always"`
 - **Íconos**: `lucide-react`. Brand icons (`Github`, `Youtube`, `Twitch`, `Discord`, etc.) ya **no se exportan** — usar genéricos: `Code2` para repos, `PlayCircle` para YouTube, `Tv` para Twitch/Kick, `MessagesSquare` para Discord, `Heart` para Patreon, `Music` para TikTok, `Camera` para Instagram, `AtSign` para Twitter/X, `ExternalLink` como fallback.
 - **Imágenes**: `next/image` con `images.formats: ["image/avif", "image/webp"]` en `next.config.ts` (el optimizer sirve AVIF a browsers que lo soportan, fallback a WebP, fallback a JPG). `images.remotePatterns` permite `**.ytimg.com` para thumbnails de YouTube.
 - **YouTube RSS**: `fast-xml-parser` parsea feeds de canal y playlist. Sin API key, sin quotas. Cache build-time con `revalidate: 21600` (6h ISR).

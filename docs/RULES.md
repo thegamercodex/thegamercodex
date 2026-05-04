@@ -22,7 +22,7 @@ Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas está
 - **Todos los textos de UI** (labels, botones, mensajes) viven en `messages/es.json` y `messages/en.json`. **NO** hardcodear strings traducibles en componentes.
 - Para plurales usar ICU: `{count, plural, one {# tool} other {# tools}}`.
 - **Los nombres propios** (de juegos, tools, creators) **NO se traducen**. "Path of Exile" se queda en ambos idiomas. Lo mismo nombres de tools y handles.
-- Default locale es `es`. URL siempre incluye locale (`localePrefix: "always"`). No existe `src/app/layout.tsx` raíz — el root layout vive en `[locale]/layout.tsx`.
+- Default locale es `en` (cambiado desde `es` en el lanzamiento inicial — el codex apunta a audiencia global, con switch a español siempre disponible). URL siempre incluye locale (`localePrefix: "always"`). No existe `src/app/layout.tsx` raíz — el root layout vive en `[locale]/layout.tsx`.
 
 ## Un juego = una carpeta
 
@@ -170,19 +170,9 @@ Cuando hay un batch grande para procesar (ej: 15 tools de un juego nuevo), mante
   ```
   El script hace replace por línea (preserva el formato del archivo) y valida que el campo exista.
 
-## Promesa editorial y monetización
+## Sponsor slot
 
-La línea defendible — y la que la gente debería poder leernos en cualquier momento — es **"el catálogo no se compra"**. Eso significa:
-
-- **El catálogo es sagrado**: ninguna tool, creator o resource entra al codex porque alguien pague. El ordering, los flags `essential`/`official`, las recomendaciones de la home page se deciden por curación editorial, no por presupuesto.
-- **Lo demás es negociable con disclosure**: display ads, affiliate links, sponsored partner sections separadas del catálogo, sponsored newsletters. Cualquier vehículo que no toque la lista curada está sobre la mesa.
-
-Cuando llegue una oferta de sponsor, el test es una sola pregunta: **"¿esto cambiaría algo del ordering o las recomendaciones del catálogo?"**
-
-- **Sí** → estamos vendiendo un slot, viola la promesa. Rechazar o redirigir a un vehículo que no toque el catálogo.
-- **No** → es marketing limpio. Aceptar con disclosure inequívoco (label "Patrocinado", separación visual fuerte, demarcación clara).
-
-**El componente `SponsorSlot`** (`src/components/SponsorSlot.tsx`) implementa el vehículo limpio: render con label "Patrocinado", `rel="sponsored noopener noreferrer"`, UTM tracking automático, y `activeSponsor` configurable en `src/lib/sponsor.ts`. Cuando `activeSponsor` es `null`, el slot no se renderiza — sin "tu logo aquí" awkward.
+El componente `src/components/SponsorSlot.tsx` (config en `src/lib/sponsor.ts`) renderiza un único banner de sponsor en el footer cuando hay uno activo, y nada cuando `activeSponsor` es `null`. Label "Patrocinado/Sponsored", `rel="sponsored noopener noreferrer"`, UTM tracking automático.
 
 **Para activar un sponsor**:
 1. Subir el logo a `public/images/sponsors/<sponsor-id>-logo.<ext>`
@@ -190,12 +180,46 @@ Cuando llegue una oferta de sponsor, el test es una sola pregunta: **"¿esto cam
 3. Verificar visualmente en `/es` y `/en` antes de pushear
 4. Cuando termine la campaña, devolver `activeSponsor` a `null`
 
-**Lo que NO hace `SponsorSlot`**:
-- No reordena tools del catálogo
-- No agrega tools al codex
-- No modifica flags de las tools listadas
+## Changelog (release notes)
 
-Si una propuesta de sponsor implica cambiar algo del catálogo (ordering, prioridad, agregado), no es trabajo del SponsorSlot — es violación de la promesa. Rechazar.
+El changelog vive en `content/changelog/<YYYY-MM-DD>-<slug>.md` y se renderiza en `/changelog`. Cada entry corresponde a un release pequeño — la cadencia esperada es **5–10 días entre entries**, típicamente uno por nuevo juego agregado, con entries intermedios de mantenimiento (fixes, removals, ajustes editoriales).
+
+**Frontmatter requerido**:
+
+```yaml
+---
+date: 2026-05-15           # ISO date — define el ordering desc en /changelog
+titleEs: "Diablo 4 agregado"
+titleEn: "Diablo 4 added"
+summaryEs: "Lanzamos D4 con 12 tools curadas y 3 creators."
+summaryEn: "Launched D4 with 12 curated tools and 3 creators."
+gameAdded: "diablo-4"      # opcional; matchea un game id. Activa el badge "Nuevo juego" + accent del juego en el side border de la entry
+---
+```
+
+**Body bilingüe**: usar fences `<!-- es -->` y `<!-- en -->`. Sintaxis convencional [Keep a Changelog](https://keepachangelog.com): secciones **Añadido**, **Cambiado**, **Arreglado**, **Removido**.
+
+```markdown
+<!-- es -->
+## Añadido
+- ...
+
+## Arreglado
+- ...
+
+<!-- en -->
+## Added
+- ...
+
+## Fixed
+- ...
+```
+
+Si el entry es muy corto y no querés escribir bilingüe, podés poner el body en frontmatter (`bodyEs:`/`bodyEn:` con string multilínea) y dejar el cuerpo del archivo vacío. Ambos approaches funcionan.
+
+**Stats dinámicos**: el strip de la landing y el header de `/changelog` muestran totales calculados a build-time desde `content/games/`. Cada vez que agregás una tool, creator o resource, los números se actualizan solos en el próximo deploy. No hace falta tocar nada manualmente.
+
+**"Actualizado hace X días"**: derivado de la fecha del entry más reciente. Si pasan más de 30 días sin entry, ese suffix se oculta automáticamente para no proyectar un signal de "abandono" — pero la solución correcta es publicar un entry, no esconder la métrica.
 
 ## Process
 

@@ -38,9 +38,11 @@ export async function Footer() {
                 </span>
               </div>
             </div>
-            <p className="max-w-sm text-sm leading-relaxed text-foreground-muted">
-              {tFooter("aboutText")}
-            </p>
+            {tFooter("aboutText") && (
+              <p className="max-w-sm text-sm leading-relaxed text-foreground-muted">
+                {tFooter("aboutText")}
+              </p>
+            )}
           </div>
 
           <div className="flex flex-col gap-3 sm:col-span-4">
@@ -66,6 +68,14 @@ export async function Footer() {
               {tFooter("connectHeading")}
             </h3>
             <ul className="flex flex-col gap-1.5 text-sm">
+              <li>
+                <Link
+                  href="/changelog"
+                  className="inline-flex items-center gap-1.5 text-foreground-muted transition-colors hover:text-accent"
+                >
+                  {tFooter("changelog")}
+                </Link>
+              </li>
               <li>
                 <a
                   href="https://github.com/thegamercodex"

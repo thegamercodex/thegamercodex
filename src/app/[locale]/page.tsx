@@ -3,6 +3,7 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import type { Metadata } from "next";
 import { ArrowDown } from "lucide-react";
 import { GameCard } from "@/components/GameCard";
+import { StatsStrip } from "@/components/StatsStrip";
 import { getGames } from "@/lib/content";
 import { jsonLdScript, websiteJsonLd } from "@/lib/jsonld";
 import type { Locale } from "@/types";
@@ -79,6 +80,7 @@ export default async function HomePage({
           <p className="max-w-2xl text-sm leading-relaxed text-foreground-muted sm:text-base">
             {t("heroSubtitle")}
           </p>
+          <StatsStrip />
           <a
             href="#games"
             className="mt-1 inline-flex items-center gap-1.5 rounded-md bg-accent px-5 py-2.5 text-sm font-semibold text-accent-foreground transition-transform duration-150 hover:-translate-y-0.5 hover:bg-accent-hover"

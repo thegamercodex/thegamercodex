@@ -11,10 +11,22 @@
     "gamesHeading": "Games",
     "connectHeading": "Connect",
     "aboutHeading": "About the codex",
-    "aboutText": "We curate tools, creators, and resources for the games that matter most. Independently curated — the catalog isn't for sale.",
+    "aboutText": "",
     "github": "GitHub",
     "feedback": "Report an issue",
+    "changelog": "Changelog",
     "rights": "Curated gaming codex."
+  },
+  "changelog": {
+    "pageTitle": "Changelog",
+    "pageDescription": "Codex release history: new games, added tools, fixes, and removals.",
+    "newGameBadge": "New game",
+    "stats": {
+      "tools": "{count, plural, one {# tool} other {# tools}}",
+      "creators": "{count, plural, one {# creator} other {# creators}}",
+      "resources": "{count, plural, one {# resource} other {# resources}}",
+      "lastUpdated": "updated {days, plural, =0 {today} one {# day ago} other {# days ago}}"
+    }
   },
   "sponsor": {
     "label": "Sponsored",

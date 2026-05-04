@@ -5,6 +5,7 @@ import {
   getTools,
   getAllResources,
 } from "@/lib/content";
+import { getMostRecentChangelogDate } from "@/lib/changelog";
 import { siteUrl } from "@/lib/site";
 import { routing } from "@/i18n/routing";
 
@@ -37,6 +38,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const entries: MetadataRoute.Sitemap = [];
 
   entries.push(buildEntry("/", { changeFrequency: "weekly", priority: 1 }));
+
+  const lastChangelog = getMostRecentChangelogDate();
+  entries.push(
+    buildEntry("/changelog", {
+      lastModified: lastChangelog ?? undefined,
+      changeFrequency: "weekly",
+      priority: 0.5,
+    }),
+  );
 
   const games = await getGames();
   for (const game of games) {
