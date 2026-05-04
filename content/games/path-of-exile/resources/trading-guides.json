@@ -1,4 +1,80 @@
 {
   "category": "trading-guides",
-  "resources": []
+  "resources": [
+    {
+      "id": "big-ducks-ritual-currency-farming-3-28-2026",
+      "type": "video",
+      "title": "How I Farm HUGE Currency With Ritual | Path of Exile 3.28 Mirage",
+      "creator": "Big Ducks",
+      "creatorId": "big-ducks",
+      "url": "https://www.youtube.com/watch?v=TjmYjgtPJb0",
+      "youtubeId": "TjmYjgtPJb0",
+      "language": "en",
+      "duration": "16:08",
+      "publishedDate": "2026-03-20",
+      "thumbnail": "https://i.ytimg.com/vi/TjmYjgtPJb0/maxresdefault.jpg",
+      "noteEs": "Big Ducks comparte la estrategia de farming con Ritual para Mirage 3.28: setup del Atlas, cómo escalar Tribute, y el ROI esperado por hora. Anchor de currency-farming en formato deep-dive — la base para entender cómo se construye el income en PoE 1.",
+      "noteEn": "Big Ducks shares his Ritual farming strategy for Mirage 3.28: Atlas setup, how to scale Tribute, and expected hourly ROI. Currency-farming anchor in deep-dive format — the foundation for understanding how income is built in PoE 1."
+    },
+    {
+      "id": "midasknows-easiest-currency-farm-3-28-2026",
+      "type": "video",
+      "title": "Easiest Currency Farm Strategy EVER — POE 3.28 Mirage",
+      "creator": "MidasKnows",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=r0uI3RcFzGY",
+      "youtubeId": "r0uI3RcFzGY",
+      "language": "en",
+      "duration": "10:12",
+      "publishedDate": "2026-04-28",
+      "thumbnail": "https://i.ytimg.com/vi/r0uI3RcFzGY/maxresdefault.jpg",
+      "noteEs": "MidasKnows propone una estrategia de farming low-investment para Mirage 3.28: fácil de configurar, baja barrera de gear, ROI consistente para players que recién pasaron campaña. Complementa al video de Big Ducks para casuales que no quieren un setup complejo.",
+      "noteEn": "MidasKnows proposes a low-investment farming strategy for Mirage 3.28: easy to set up, low gear barrier, consistent ROI for players who just finished campaign. Complements Big Ducks' video for casuals who don't want a complex setup."
+    },
+    {
+      "id": "misoxshiru-learn-make-currency-yourself-2026",
+      "type": "video",
+      "title": "Stop Following Meta Guides — Learn HOW to Actually Make Currency Yourself",
+      "creator": "MisoxShiru",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=_HbVf7ya8D0",
+      "youtubeId": "_HbVf7ya8D0",
+      "language": "en",
+      "duration": "15:16",
+      "publishedDate": "2026-01-03",
+      "thumbnail": "https://i.ytimg.com/vi/_HbVf7ya8D0/maxresdefault.jpg",
+      "noteEs": "MisoxShiru sale del formato 'qué farmear esta liga' y enseña meta-habilidad: cómo identificar qué tiene profit en la economía de PoE en cualquier liga. Aprender a leer mods, atlas pasivos y precios para tomar tus propias decisiones de farm. Único pero esencial para players que quieren ser autónomos.",
+      "noteEn": "MisoxShiru breaks out of the 'what to farm this league' format and teaches a meta-skill: how to identify what's profitable in the PoE economy in any league. Learning to read mods, atlas passives, and prices to make your own farming decisions. Unique but essential for players who want to be self-sufficient."
+    },
+    {
+      "id": "kroximatuz-economia-cambio-mirage-2026",
+      "type": "video",
+      "title": "LA ECONOMIA CAMBIÓ PARA SIEMPRE — Cómo Mirage va a romper todo lo que conocemos de PoE 1",
+      "creator": "KroximatuZ",
+      "creatorId": "kroximatuz",
+      "url": "https://www.youtube.com/watch?v=xAhv3CexRKw",
+      "youtubeId": "xAhv3CexRKw",
+      "language": "es",
+      "duration": "15:03",
+      "publishedDate": "2026-02-27",
+      "thumbnail": "https://i.ytimg.com/vi/xAhv3CexRKw/maxresdefault.jpg",
+      "noteEs": "KroximatuZ analiza cómo los cambios económicos de Mirage 3.28 reshapean la economy en PoE 1: nuevos sinks, drops modificados, qué items suben y cuáles caen de valor. Más estratégico que farming táctico — útil para players que quieren entender el shift macro de la liga.",
+      "noteEn": "KroximatuZ analyzes how Mirage 3.28's economic changes reshape PoE 1's economy: new sinks, modified drops, which items rise and which fall in value. More strategic than tactical farming — useful for players who want to understand the league's macro shift."
+    },
+    {
+      "id": "nolocomenta-240-divinos-sekhemas-poe2-04",
+      "type": "video",
+      "title": "240 DIVINOS AL DÍA en POE 2 — Garantizado con 8h en Sekhemas 0.4.0",
+      "creator": "NoloComenta",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=euwB5ZgQHSc",
+      "youtubeId": "euwB5ZgQHSc",
+      "language": "es",
+      "duration": "7:28",
+      "publishedDate": "2026-01-03",
+      "thumbnail": "https://i.ytimg.com/vi/euwB5ZgQHSc/maxresdefault.jpg",
+      "noteEs": "Estrategia específica de farming en PoE 2 0.4: NoloComenta documenta cómo sacar ~240 divine por jornada de 8h farmeando Sekhemas. Foco práctico, números concretos, ideal para players que arrancan la liga con resources limitados y quieren scaling rápido.",
+      "noteEn": "Specific farming strategy in PoE 2 0.4: NoloComenta documents how to extract ~240 divines per 8h session farming Sekhemas. Practical focus, concrete numbers, ideal for players who start the league with limited resources and want fast scaling."
+    }
+  ]
 }

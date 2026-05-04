@@ -1,4 +1,80 @@
 {
   "category": "mechanics-per-league",
-  "resources": []
+  "resources": [
+    {
+      "id": "zizaran-poe2-04-everything-need-know-2025",
+      "type": "video",
+      "title": "Everything You Need to Know About 0.4 in 18 Minutes",
+      "creator": "Zizaran",
+      "creatorId": "zizaran",
+      "url": "https://www.youtube.com/watch?v=FxDkDZVrLH0",
+      "youtubeId": "FxDkDZVrLH0",
+      "language": "en",
+      "duration": "18:41",
+      "publishedDate": "2025-12-05",
+      "thumbnail": "https://i.ytimg.com/vi/FxDkDZVrLH0/maxresdefault.jpg",
+      "noteEs": "Zizaran condensa todo el patch 0.4 (Last of the Druids) de PoE 2 en 18 minutos: nueva ascendencia Druid, mecánica de liga Fate of the Vaal, ajustes de balance y endgame. Anchor de mechanics-per-league para los players que arrancan PoE 2 cada nueva temporada.",
+      "noteEn": "Zizaran condenses the entire PoE 2 0.4 patch (Last of the Druids) into 18 minutes: new Druid ascendancy, Fate of the Vaal league mechanic, balance adjustments, and endgame changes. Anchor for mechanics-per-league for players entering PoE 2 each new season."
+    },
+    {
+      "id": "lolcohol-poe2-04-most-important-league-start-tip-2025",
+      "type": "video",
+      "title": "PoE 2 0.4 — The Most Important Tip for League Start",
+      "creator": "Lolcohol",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=MPv9lSe1vb8",
+      "youtubeId": "MPv9lSe1vb8",
+      "language": "en",
+      "duration": "11:19",
+      "publishedDate": "2025-12-07",
+      "thumbnail": "https://i.ytimg.com/vi/MPv9lSe1vb8/maxresdefault.jpg",
+      "noteEs": "Lolcohol enfoca un solo punto crítico para el league start de 0.4: cómo aprovechar la nueva mecánica desde el campaña sin desperdiciar runs. Más conciso que el overview de Zizaran, complementario para players que ya leyeron lo principal y quieren la jugada práctica del día 1.",
+      "noteEn": "Lolcohol focuses on a single critical point for the 0.4 league start: how to leverage the new mechanic from campaign onward without wasting runs. More concise than Zizaran's overview, complementary for players who've read the main coverage and want the practical day-1 play."
+    },
+    {
+      "id": "path-of-evening-poe1-mirage-juicing-mechanic-2026",
+      "type": "video",
+      "title": "The MOST Important New Juicing Mechanic — PoE 1 3.28 Mirage League",
+      "creator": "Path of Evening",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=bMbx0Bn7I58",
+      "youtubeId": "bMbx0Bn7I58",
+      "language": "en",
+      "duration": "13:15",
+      "publishedDate": "2026-03-12",
+      "thumbnail": "https://i.ytimg.com/vi/bMbx0Bn7I58/maxresdefault.jpg",
+      "noteEs": "Cobertura del lado PoE 1 (3.28 Mirage League / Keepers of the Flame). Path of Evening explica la nueva mecánica de juicing — cómo escalar drops y profit en el endgame con el sistema agregado en esta liga. Importante porque GGG sigue rotando ligas en PoE 1 mientras PoE 2 está en early access.",
+      "noteEn": "Coverage from the PoE 1 side (3.28 Mirage League / Keepers of the Flame). Path of Evening explains the new juicing mechanic — how to scale drops and profit in endgame with this league's added system. Important because GGG keeps rotating PoE 1 leagues while PoE 2 is in early access."
+    },
+    {
+      "id": "kroximatuz-mirage-3-28-league-review-2026",
+      "type": "video",
+      "title": "Tenemos que hablar de Path of Exile Mirage — 3.28 League Review",
+      "creator": "KroximatuZ",
+      "creatorId": "kroximatuz",
+      "url": "https://www.youtube.com/watch?v=Z066qS5-RdU",
+      "youtubeId": "Z066qS5-RdU",
+      "language": "es",
+      "duration": "27:54",
+      "publishedDate": "2026-04-19",
+      "thumbnail": "https://i.ytimg.com/vi/Z066qS5-RdU/maxresdefault.jpg",
+      "noteEs": "KroximatuZ entrega el review más extenso en español de la liga Mirage de PoE 1: 28 minutos cubriendo la mecánica, balance changes, recepción de la comunidad, comparación con ligas previas y reflexiones sobre la dirección general del juego. Anchor obligatorio para players hispanohablantes que quieren profundizar en el state de PoE 1.",
+      "noteEn": "KroximatuZ delivers the most extensive Spanish review of PoE 1's Mirage league: 28 minutes covering the mechanic, balance changes, community reception, comparison with previous leagues, and reflections on the game's general direction. Mandatory anchor for Spanish-speaking players who want depth on PoE 1's state."
+    },
+    {
+      "id": "bubahz-poe2-druidas-0-4-launch-overview-2025",
+      "type": "video",
+      "title": "TODO sobre la NUEVA LIGA THE LAST OF THE DRUIDS! 0.4.0",
+      "creator": "BuBahz",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=EfMAgaGAjW8",
+      "youtubeId": "EfMAgaGAjW8",
+      "language": "es",
+      "duration": "9:00",
+      "publishedDate": "2025-12-04",
+      "thumbnail": "https://i.ytimg.com/vi/EfMAgaGAjW8/maxresdefault.jpg",
+      "noteEs": "Versión española del overview de PoE 2 0.4: BuBahz cubre lo esencial de Last of the Druids en 9 minutos — qué es la mecánica nueva, qué cambia, dónde están los rewards. Compacto y al grano, ideal para players hispanohablantes que prefieren formato corto al video largo de Zizaran.",
+      "noteEn": "Spanish version of the PoE 2 0.4 overview: BuBahz covers the essentials of Last of the Druids in 9 minutes — what the new mechanic is, what's changed, where the rewards are. Compact and direct, ideal for Spanish-speaking players who prefer short format over Zizaran's longer video."
+    }
+  ]
 }
