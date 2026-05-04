@@ -1,0 +1,80 @@
+{
+  "category": "ranked-improvement",
+  "resources": [
+    {
+      "id": "skill-capped-8-worst-mistakes-low-elo-s16-2026",
+      "type": "video",
+      "title": "8 WORST Mistakes EVERY Low Elo Player Makes in Season 16",
+      "creator": "Skill Capped",
+      "creatorId": "skill-capped",
+      "url": "https://www.youtube.com/watch?v=AoLVsF5YWMM",
+      "youtubeId": "AoLVsF5YWMM",
+      "language": "en",
+      "duration": "16:32",
+      "publishedDate": "2026-03-13",
+      "thumbnail": "https://i.ytimg.com/vi/AoLVsF5YWMM/maxresdefault.jpg",
+      "noteEs": "Skill Capped (codex anchor) identifica 8 errores estructurales que bloquean a la mayoría de players en bajo elo: warding malo, recall timing, target selection, item timings. Anchor del cluster ranked-improvement — la mayoría de gente que mira esto reconoce 3 o 4 errores propios y baja diff inmediato.",
+      "noteEn": "Skill Capped (codex anchor) identifies 8 structural mistakes that block most low-elo players: bad warding, recall timing, target selection, item timings. Anchor of the ranked-improvement cluster — most people watching recognize 3 or 4 of their own errors and see immediate improvement."
+    },
+    {
+      "id": "coach-chippys-ultimate-wave-control-s16-2026",
+      "type": "video",
+      "title": "The ULTIMATE Wave Control Guide for Season 16",
+      "creator": "Coach Chippys",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=GmGT1aQj1ek",
+      "youtubeId": "GmGT1aQj1ek",
+      "language": "en",
+      "duration": "10:51",
+      "publishedDate": "2026-01-25",
+      "thumbnail": "https://i.ytimg.com/vi/GmGT1aQj1ek/maxresdefault.jpg",
+      "noteEs": "Wave management es de las skills más infravaloradas en bajo elo y la que más rendimiento tiene devolver — Coach Chippys cubre los conceptos clave (slow push, freeze, fast push) actualizados para S16. 11 minutos enfocados en una sola skill que escala a todos los roles.",
+      "noteEn": "Wave management is one of the most undervalued low-elo skills and the highest-ROI to learn — Coach Chippys covers the key concepts (slow push, freeze, fast push) updated for S16. 11 minutes focused on a single skill that scales to all roles."
+    },
+    {
+      "id": "sho-coaching-hit-master-2026",
+      "type": "video",
+      "title": "You Can Hit Master in 2026. Here's How.",
+      "creator": "Sho Coaching",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=jtSZPel6CXU",
+      "youtubeId": "jtSZPel6CXU",
+      "language": "en",
+      "duration": "14:48",
+      "publishedDate": "2026-02-16",
+      "thumbnail": "https://i.ytimg.com/vi/jtSZPel6CXU/maxresdefault.jpg",
+      "noteEs": "Mindset y framework para alcanzar Master tier en 2026: cuántas partidas se necesitan, qué priorizar en cada elo, y por qué la mayoría que se atasca en Diamond se atasca por reasons evitables. Útil tanto para players ambiciosos como para entender qué nivel de commitment requiere el grind hardcore.",
+      "noteEn": "Mindset and framework to hit Master tier in 2026: how many games it takes, what to prioritize at each elo, and why most who plateau at Diamond plateau for avoidable reasons. Useful for ambitious players and for understanding what hardcore-grind commitment looks like."
+    },
+    {
+      "id": "dishake-subir-challenger-2026-sin-depender-equipo",
+      "type": "video",
+      "title": "Cómo subir a Challenger en 2026 sin depender del equipo",
+      "creator": "Dishake",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=yx6HGf1B_2c",
+      "youtubeId": "yx6HGf1B_2c",
+      "language": "es",
+      "duration": "8:38",
+      "publishedDate": "2026-01-18",
+      "thumbnail": "https://i.ytimg.com/vi/yx6HGf1B_2c/maxresdefault.jpg",
+      "noteEs": "Anchor en español del cluster ranked-improvement: Dishake pone foco en una idea central — cómo carrear partidas sin depender del equipo, lo cual es la diferencia mental entre player que llega a Master y player que se queda en Diamond. Tono honesto, muy aplicable.",
+      "noteEn": "Spanish anchor of the ranked-improvement cluster: Dishake focuses on a central idea — how to carry games without depending on team, which is the mental difference between Master-tier players and those who plateau in Diamond. Honest, highly actionable tone."
+    },
+    {
+      "id": "godca-jugar-adc-2026-challenger-2025",
+      "type": "video",
+      "title": "CÓMO JUGAR ADC EN 2026: Guía de CHALLENGER para Subir Elo",
+      "creator": "Godca",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=kY_1qvzKJZc",
+      "youtubeId": "kY_1qvzKJZc",
+      "language": "es",
+      "duration": "6:18",
+      "publishedDate": "2025-12-26",
+      "thumbnail": "https://i.ytimg.com/vi/kY_1qvzKJZc/maxresdefault.jpg",
+      "noteEs": "Versión español role-specific (ADC) del climb 2026: Godca, Challenger en ADC, condensa los puntos críticos en 6 minutos. Format compacto, ideal para players de ADC hispanohablantes que quieren feedback técnico antes de cada session de ranked.",
+      "noteEn": "Spanish role-specific (ADC) version of the 2026 climb: Godca, Challenger ADC, condenses critical points in 6 minutes. Compact format, ideal for Spanish-speaking ADC players who want technical feedback before each ranked session."
+    }
+  ]
+}
