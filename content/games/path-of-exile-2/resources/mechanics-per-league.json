@@ -1,0 +1,50 @@
+{
+  "category": "mechanics-per-league",
+  "resources": [
+    {
+      "id": "zizaran-poe2-04-everything-need-know-2025",
+      "type": "video",
+      "title": "Everything You Need to Know About 0.4 in 18 Minutes",
+      "creator": "Zizaran",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=FxDkDZVrLH0",
+      "youtubeId": "FxDkDZVrLH0",
+      "language": "en",
+      "duration": "18:41",
+      "publishedDate": "2025-12-05",
+      "thumbnail": "https://i.ytimg.com/vi/FxDkDZVrLH0/maxresdefault.jpg",
+      "noteEs": "Zizaran condensa todo el patch 0.4 (Last of the Druids) en 18 minutos: nueva ascendencia Druid, mecánica de liga Fate of the Vaal, ajustes de balance y endgame. Anchor de mechanics-per-league para los players que arrancan PoE 2 cada nueva temporada.",
+      "noteEn": "Zizaran condenses the entire 0.4 patch (Last of the Druids) into 18 minutes: new Druid ascendancy, Fate of the Vaal league mechanic, balance adjustments, and endgame changes. Anchor for mechanics-per-league for players entering PoE 2 each new season."
+    },
+    {
+      "id": "lolcohol-poe2-04-most-important-league-start-tip-2025",
+      "type": "video",
+      "title": "PoE 2 0.4 — The Most Important Tip for League Start",
+      "creator": "Lolcohol",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=MPv9lSe1vb8",
+      "youtubeId": "MPv9lSe1vb8",
+      "language": "en",
+      "duration": "11:19",
+      "publishedDate": "2025-12-07",
+      "thumbnail": "https://i.ytimg.com/vi/MPv9lSe1vb8/maxresdefault.jpg",
+      "noteEs": "Lolcohol enfoca un solo punto crítico para el league start de 0.4: cómo aprovechar la nueva mecánica desde el campaña sin desperdiciar runs. Más conciso que el overview de Zizaran, complementario para players que ya leyeron lo principal y quieren la jugada práctica del día 1.",
+      "noteEn": "Lolcohol focuses on a single critical point for the 0.4 league start: how to leverage the new mechanic from campaign onward without wasting runs. More concise than Zizaran's overview, complementary for players who've read the main coverage and want the practical day-1 play."
+    },
+    {
+      "id": "bubahz-poe2-druidas-0-4-launch-overview-2025",
+      "type": "video",
+      "title": "TODO sobre la NUEVA LIGA THE LAST OF THE DRUIDS! 0.4.0",
+      "creator": "BuBahz",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=EfMAgaGAjW8",
+      "youtubeId": "EfMAgaGAjW8",
+      "language": "es",
+      "duration": "9:00",
+      "publishedDate": "2025-12-04",
+      "thumbnail": "https://i.ytimg.com/vi/EfMAgaGAjW8/maxresdefault.jpg",
+      "noteEs": "Versión española del overview de 0.4: BuBahz cubre lo esencial de Last of the Druids en 9 minutos — qué es la mecánica nueva, qué cambia, dónde están los rewards. Compacto y al grano, ideal para players hispanohablantes que prefieren formato corto al video largo de Zizaran.",
+      "noteEn": "Spanish version of the 0.4 overview: BuBahz covers the essentials of Last of the Druids in 9 minutes — what the new mechanic is, what's changed, where the rewards are. Compact and direct, ideal for Spanish-speaking players who prefer short format over Zizaran's longer video."
+    }
+  ]
+}

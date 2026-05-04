@@ -1,0 +1,50 @@
+{
+  "category": "build-guides",
+  "resources": [
+    {
+      "id": "big-ducks-wolf-amazon-poe2-druids-2026",
+      "type": "video",
+      "title": "Wolf Amazon Build Guide — Path of Exile 2: Last of the Druids",
+      "creator": "Big Ducks",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=LU2R5ap_al4",
+      "youtubeId": "LU2R5ap_al4",
+      "language": "en",
+      "duration": "18:06",
+      "publishedDate": "2026-01-14",
+      "thumbnail": "https://i.ytimg.com/vi/LU2R5ap_al4/maxresdefault.jpg",
+      "noteEs": "Build deep-dive en formato largo: Wolf Amazon en PoE 2 0.4. Big Ducks cubre passive tree, gear progression, gem links y cómo escala desde campaña hasta endgame mapping. La build se basa en chain freeze para clear de mapas masivo. Útil como referencia de cómo se planifica una build full PoE 2.",
+      "noteEn": "Long-form build deep-dive: Wolf Amazon in PoE 2 0.4. Big Ducks covers passive tree, gear progression, gem links, and how it scales from campaign through endgame mapping. The build leans on chain freeze for massive map clear. Useful as reference for how a full PoE 2 build is planned."
+    },
+    {
+      "id": "lolcohol-grenade-deadeye-poe2-04-league-start-2025",
+      "type": "video",
+      "title": "PoE 2 0.4 — Grenade Deadeye League Start Build | Doomslayer Deadeye",
+      "creator": "Lolcohol",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=JN05c7PxzaI",
+      "youtubeId": "JN05c7PxzaI",
+      "language": "en",
+      "duration": "8:16",
+      "publishedDate": "2025-12-09",
+      "thumbnail": "https://i.ytimg.com/vi/JN05c7PxzaI/maxresdefault.jpg",
+      "noteEs": "Lolcohol arma Grenade Deadeye como starter alternativo para 0.4 — la build menos meta de las primeras semanas pero con gameplay distinto al de Druid. Útil para players que quieren probar algo fuera de lo obvio en league start.",
+      "noteEn": "Lolcohol builds Grenade Deadeye as an alternative starter for 0.4 — the less-meta build of the first weeks but with gameplay different from Druid. Useful for players who want to try something off the obvious path on league start."
+    },
+    {
+      "id": "kroximatuz-coc-spark-druida-oracle-poe2-2025",
+      "type": "video",
+      "title": "INEVITABLE CoC SPARK Druida Oracle — Cómodo PROGRESO de CAMPAÑA | PoE 2",
+      "creator": "KroximatuZ",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=R7iqFs2x3s8",
+      "youtubeId": "R7iqFs2x3s8",
+      "language": "es",
+      "duration": "14:05",
+      "publishedDate": "2025-12-13",
+      "thumbnail": "https://i.ytimg.com/vi/R7iqFs2x3s8/maxresdefault.jpg",
+      "noteEs": "KroximatuZ arma CoC Spark con Druida Oracle: archetype combo que aprovecha la mecánica de Cast on Critical en la nueva ascendencia. La guía pone énfasis en la fluidez del progreso de campaña — uno de los enemy points en PoE 2 — sin sacrificar viabilidad endgame. Anchor en español para builds 0.4.",
+      "noteEn": "KroximatuZ builds CoC Spark with Druid Oracle: archetype combo leveraging the Cast on Critical mechanic in the new ascendancy. The guide emphasizes campaign progression smoothness — one of PoE 2's pain points — without sacrificing endgame viability. Spanish anchor for 0.4 builds."
+    }
+  ]
+}

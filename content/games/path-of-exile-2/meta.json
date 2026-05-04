@@ -1,0 +1,158 @@
+{
+  "id": "path-of-exile-2",
+  "name": "Path of Exile 2",
+  "shortName": "PoE 2",
+  "developer": "Grinding Gear Games",
+  "releaseYear": 2024,
+  "officialUrl": "https://www.pathofexile2.com",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/2694490/Path_of_Exile_2/",
+      "appId": "2694490",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "epic",
+      "url": "https://store.epicgames.com/en-US/p/path-of-exile-2",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10010258",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/store/path-of-exile-2",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["cosmetic", "stash-tabs", "quality-of-life", "early-access"],
+    "payToWin": false,
+    "noteEs": "Actualmente en Early Access pago (~$30 USD) que da acceso completo al juego durante el desarrollo. GGG anunció que se moverá a free-to-play tras el full release. Las microtransacciones siguen el mismo modelo que PoE 1: cosméticas y stash space, sin power buyable.",
+    "noteEn": "Currently in paid Early Access (~$30 USD) granting full game access during development. GGG announced transition to free-to-play after full release. Microtransactions follow the PoE 1 model: cosmetics and stash space, no buyable power."
+  },
+  "platforms": ["windows", "macos", "playstation", "xbox"],
+  "genres": ["arpg", "online", "souls-like-elements"],
+  "theme": {
+    "primary": "#5a4a6a",
+    "secondary": "#1a161e",
+    "accent": "#9b85bd",
+    "background": "#0c0a10",
+    "text": "#dcd4e8"
+  },
+  "logo": "/images/games/path-of-exile-2-logo.png",
+  "heroImage": "/images/games/path-of-exile-2-hero.jpg",
+  "toolCategories": [
+    {
+      "id": "build-planning",
+      "nameEs": "Planificación de Builds",
+      "nameEn": "Build Planning",
+      "descriptionEs": "Herramientas para diseñar, simular y optimizar builds en PoE 2",
+      "descriptionEn": "Tools to design, simulate and optimize PoE 2 builds",
+      "icon": "🧮"
+    },
+    {
+      "id": "trading",
+      "nameEs": "Comercio",
+      "nameEn": "Trading",
+      "descriptionEs": "Herramientas para comprar, vender y rastrear precios",
+      "descriptionEn": "Tools to buy, sell and track prices",
+      "icon": "💰"
+    },
+    {
+      "id": "crafting",
+      "nameEs": "Crafteo",
+      "nameEn": "Crafting",
+      "descriptionEs": "Calculadoras y simuladores del nuevo sistema de crafteo de PoE 2",
+      "descriptionEn": "Calculators and simulators for PoE 2's new crafting system",
+      "icon": "⚒️"
+    },
+    {
+      "id": "atlas-maps",
+      "nameEs": "Atlas y Endgame",
+      "nameEn": "Atlas & Endgame",
+      "descriptionEs": "Planificadores del Atlas, citadels y mapping del endgame",
+      "descriptionEn": "Atlas planners, citadels, and endgame mapping",
+      "icon": "🗺️"
+    },
+    {
+      "id": "filters",
+      "nameEs": "Filtros de Loot",
+      "nameEn": "Loot Filters",
+      "descriptionEs": "Filtros para resaltar items importantes en pantalla",
+      "descriptionEn": "Filters to highlight important items on screen",
+      "icon": "🔍"
+    },
+    {
+      "id": "economy",
+      "nameEs": "Economía",
+      "nameEn": "Economy",
+      "descriptionEs": "Tracking de precios y tendencias de la economía PoE 2",
+      "descriptionEn": "PoE 2 price tracking and economy trends",
+      "icon": "📊"
+    },
+    {
+      "id": "leveling",
+      "nameEs": "Leveleo",
+      "nameEn": "Leveling",
+      "descriptionEs": "Guías y trackers para subir de nivel eficientemente en campaña",
+      "descriptionEn": "Guides and trackers for efficient campaign leveling",
+      "icon": "⬆️"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis y bases de datos del contenido de PoE 2",
+      "descriptionEn": "Wikis and PoE 2 content databases",
+      "icon": "📚"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para empezar a jugar PoE 2",
+      "descriptionEn": "Essential resources to start playing PoE 2",
+      "icon": "🌱"
+    },
+    {
+      "id": "mechanics-per-league",
+      "nameEs": "Mecánicas por Liga",
+      "nameEn": "League Mechanics",
+      "descriptionEs": "Videos explicando las mecánicas de cada patch / liga de PoE 2",
+      "descriptionEn": "Videos explaining the mechanics of each PoE 2 patch / league",
+      "icon": "⚔️"
+    },
+    {
+      "id": "build-guides",
+      "nameEs": "Guías de Builds",
+      "nameEn": "Build Guides",
+      "descriptionEs": "Builds destacadas y recomendaciones por arquetipo en PoE 2",
+      "descriptionEn": "Featured builds and archetype recommendations for PoE 2",
+      "icon": "🛡️"
+    },
+    {
+      "id": "trading-guides",
+      "nameEs": "Guías de Comercio",
+      "nameEn": "Trading Guides",
+      "descriptionEs": "Cómo dominar el sistema de trading y maximizar ganancias en PoE 2",
+      "descriptionEn": "How to master trading and maximize profits in PoE 2",
+      "icon": "💎"
+    },
+    {
+      "id": "boss-guides",
+      "nameEs": "Guías de Bosses",
+      "nameEn": "Boss Guides",
+      "descriptionEs": "Estrategias y mecánicas de los pinnacle bosses (Arbiter, Trialmaster) y citadels",
+      "descriptionEn": "Strategies and mechanics for pinnacle bosses (Arbiter, Trialmaster) and citadels",
+      "icon": "👹"
+    }
+  ]
+}

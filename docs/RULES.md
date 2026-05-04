@@ -24,6 +24,14 @@ Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas está
 - **Los nombres propios** (de juegos, tools, creators) **NO se traducen**. "Path of Exile" se queda en ambos idiomas. Lo mismo nombres de tools y handles.
 - Default locale es `es`. URL siempre incluye locale (`localePrefix: "always"`). No existe `src/app/layout.tsx` raíz — el root layout vive en `[locale]/layout.tsx`.
 
+## Un juego = una carpeta
+
+- Cada carpeta bajo `content/games/<game-id>/` corresponde a **un solo juego**. Tools, creators y resources de esa carpeta son específicos de ese juego, no de "el franchise" o "la familia".
+- **PoE 1 y PoE 2 son juegos distintos** (engines distintos, leagues paralelas con cadencias propias, balance independiente). Los assets de PoE 2 deben vivir en `content/games/path-of-exile-2/` (cuando se cree), nunca mezclarse con `content/games/path-of-exile/`.
+- Lo mismo aplica a cualquier franchise futura con secuelas o spin-offs (LoL ↔ Wild Rift, CS:GO ↔ CS2, etc.). Si surgen ambivalencias, default a "juegos distintos = carpetas distintas".
+- Excepción: tools/creators con `multiGame.available: true` que cubren múltiples juegos pueden referenciar varios `gameId` desde sus `meta.json`. Eso es a nivel de **registro**, no de carpeta — el archivo principal sigue viviendo en una sola carpeta.
+- Al curar resources (videos, guías, artículos), filtrar siempre por la versión específica del juego. Un video de PoE 2 0.4 no entra en `content/games/path-of-exile/resources/*`, aunque temáticamente "ambos sean Path of Exile".
+
 ## Storage, APIs y arquitectura
 
 - **NO usar `localStorage` ni `sessionStorage`** en componentes server-rendered. El sitio es SSG, hay que ser cuidadoso con APIs de browser.
