@@ -1,0 +1,80 @@
+{
+  "category": "raid-guides",
+  "resources": [
+    {
+      "id": "team-liquid-mmo-midnight-falls-heroic-normal-2026",
+      "type": "video",
+      "title": "Heroic/Normal Midnight Falls Boss Guide (Commentary) — March on Quel'Danas",
+      "creator": "Team Liquid MMO",
+      "creatorId": "liquid",
+      "url": "https://www.youtube.com/watch?v=mt31eZiDi70",
+      "youtubeId": "mt31eZiDi70",
+      "language": "en",
+      "duration": "17:44",
+      "publishedDate": "2026-04-06",
+      "thumbnail": "https://i.ytimg.com/vi/mt31eZiDi70/maxresdefault.jpg",
+      "noteEs": "Anchor de raid-guides para Midnight Falls (Heroic/Normal): Team Liquid MMO con commentary directo de la guild que mató World First. 18 minutos cubriendo los 8 bosses con foco en mecánicas críticas, posicionamiento, y cooldown timings que la mayoría de pugs no aprenden la primera semana.",
+      "noteEn": "Raid-guides anchor for Midnight Falls (Heroic/Normal): Team Liquid MMO with direct commentary from the World First guild. 18 minutes covering all 8 bosses with focus on critical mechanics, positioning, and cooldown timings most pugs don't learn in the first week."
+    },
+    {
+      "id": "team-liquid-mmo-mythic-crown-of-the-cosmos-2026",
+      "type": "video",
+      "title": "Mythic Crown of the Cosmos Boss Guide (Commentary) — Voidspire",
+      "creator": "Team Liquid MMO",
+      "creatorId": "liquid",
+      "url": "https://www.youtube.com/watch?v=eoysRiTbc_A",
+      "youtubeId": "eoysRiTbc_A",
+      "language": "en",
+      "duration": "23:58",
+      "publishedDate": "2026-05-01",
+      "thumbnail": "https://i.ytimg.com/vi/eoysRiTbc_A/maxresdefault.jpg",
+      "noteEs": "Mythic-tier guide de Crown of the Cosmos (Voidspire) por Liquid. 24 minutos de mechanics breakdown: mythic-only mechanics, healing assignments, soak rotation, y cooldown spreadsheet. Para guilds en progresión Cutting Edge esta es la fuente primaria — tier de detalle que solo World First raiders pueden producir.",
+      "noteEn": "Mythic-tier guide for Crown of the Cosmos (Voidspire) by Liquid. 24 minutes of mechanic breakdown: mythic-only mechanics, healing assignments, soak rotation, and cooldown spreadsheet. For guilds in Cutting Edge progression this is the primary source — detail tier only World First raiders can produce."
+    },
+    {
+      "id": "ready-check-pull-every-raid-boss-midnight-s1-2026",
+      "type": "video",
+      "title": "Every Raid Boss in Midnight Season 1 — Heroic/Normal",
+      "creator": "Ready Check Pull",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=kIokWz6RUrw",
+      "youtubeId": "kIokWz6RUrw",
+      "language": "en",
+      "duration": "8:52",
+      "publishedDate": "2026-01-14",
+      "thumbnail": "https://i.ytimg.com/vi/kIokWz6RUrw/maxresdefault.jpg",
+      "noteEs": "Overview rápido de TODOS los bosses del season 1 en 9 minutos. Útil cuando entrás a la temporada nueva y querés un pulse de qué te espera antes de profundizar en boss-by-boss. Format compacto, complemento al deep-dive de Liquid.",
+      "noteEn": "Quick overview of ALL season 1 bosses in 9 minutes. Useful when you enter the new season and want a pulse on what's coming before going deep boss-by-boss. Compact format, complement to Liquid's deep-dive."
+    },
+    {
+      "id": "tactyks-midnight-falls-raid-boss-guide-s1-2026",
+      "type": "video",
+      "title": "Normal/Heroic MIDNIGHT FALLS Raid Boss Guide | Midnight Season 1",
+      "creator": "Tactyks",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=j5mfea546hs",
+      "youtubeId": "j5mfea546hs",
+      "language": "en",
+      "duration": "11:57",
+      "publishedDate": "2026-04-08",
+      "thumbnail": "https://i.ytimg.com/vi/j5mfea546hs/maxresdefault.jpg",
+      "noteEs": "Versión alternativa de la guide de Midnight Falls: Tactyks con tono más pedagógico y visualizaciones in-fight. Buen complemento al video de Liquid para players que prefieren explanation paso a paso vs commentary durante una pull real.",
+      "noteEn": "Alternative version of the Midnight Falls guide: Tactyks with a more pedagogical tone and in-fight visualizations. Good complement to Liquid's video for players who prefer step-by-step explanation vs. commentary during a real pull."
+    },
+    {
+      "id": "cronicas-mundos-quel-danas-guia-completa-2026",
+      "type": "video",
+      "title": "LA MARCHA DE QUEL'DANAS NM y HC — GUÍA COMPLETA | WoW Midnight",
+      "creator": "Crónicas de Mundos",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=n7NVmJlHu8k",
+      "youtubeId": "n7NVmJlHu8k",
+      "language": "es",
+      "duration": "9:27",
+      "publishedDate": "2026-04-01",
+      "thumbnail": "https://i.ytimg.com/vi/n7NVmJlHu8k/maxresdefault.jpg",
+      "noteEs": "Anchor en español del raid Midnight Falls (March on Quel'Danas). Crónicas de Mundos cubre la raid completa para Normal y Heroic en 9 minutos. La opción de referencia para hispanohablantes que entran al raid sin haber visto el content en inglés.",
+      "noteEn": "Spanish anchor for the Midnight Falls raid (March on Quel'Danas). Crónicas de Mundos covers the complete raid for Normal and Heroic in 9 minutes. The reference option for Spanish-speakers entering the raid without having seen English content."
+    }
+  ]
+}

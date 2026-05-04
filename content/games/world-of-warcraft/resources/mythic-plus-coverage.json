@@ -1,0 +1,80 @@
+{
+  "category": "mythic-plus-coverage",
+  "resources": [
+    {
+      "id": "petko-m-plus-tierlist-pre-season-update-midnight-2026",
+      "type": "video",
+      "title": "M+ TIERLIST — Pre-Season UPDATE — Ranking ALL SPECS & CLASSES | Midnight",
+      "creator": "Petko",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=fH_3chdR1mM",
+      "youtubeId": "fH_3chdR1mM",
+      "language": "en",
+      "duration": "8:05",
+      "publishedDate": "2026-03-22",
+      "thumbnail": "https://i.ytimg.com/vi/fH_3chdR1mM/maxresdefault.jpg",
+      "noteEs": "Tier list completa de specs y clases para Mythic+ en Midnight Season 1. Petko ranquea las opciones del season en formato condensado — útil al inicio de cada temporada cuando hay que decidir si rotar main o aguantar con la spec actual.",
+      "noteEn": "Complete spec and class tier list for Mythic+ in Midnight Season 1. Petko ranks all options for the season in condensed format — useful at season start when deciding whether to rotate mains or stick with current spec."
+    },
+    {
+      "id": "marcelian-flame-specs-you-want-midnight-s1-2026",
+      "type": "video",
+      "title": "The Specs You Want in Season 1 Midnight",
+      "creator": "Marcelian&Flame",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=NshPBPwvOpA",
+      "youtubeId": "NshPBPwvOpA",
+      "language": "en",
+      "duration": "17:14",
+      "publishedDate": "2026-03-15",
+      "thumbnail": "https://i.ytimg.com/vi/NshPBPwvOpA/maxresdefault.jpg",
+      "noteEs": "Análisis profundo (17 min) de qué specs van a definir el meta de Mythic+ en Season 1: utility, defensive cooldowns, scaling con keys altas, y razones específicas por las que un spec sube o baja del tier list. Más editorial que la lista pura de Petko.",
+      "noteEn": "Deep analysis (17 min) of which specs will define the Mythic+ meta in Season 1: utility, defensive cooldowns, scaling at high keys, and specific reasons each spec rises or falls in the tier list. More editorial than Petko's pure ranking."
+    },
+    {
+      "id": "dratnos-weekly-vault-myth-of-the-dawn-2026",
+      "type": "video",
+      "title": "Weekly Vault: Myth of the Dawn",
+      "creator": "Dratnos",
+      "creatorId": "dratnos",
+      "url": "https://www.youtube.com/watch?v=RPTxEuI2q5k",
+      "youtubeId": "RPTxEuI2q5k",
+      "language": "en",
+      "duration": "14:39",
+      "publishedDate": "2026-04-28",
+      "thumbnail": "https://i.ytimg.com/vi/RPTxEuI2q5k/maxresdefault.jpg",
+      "noteEs": "Dratnos (codex M+ anchor) corre la serie Weekly Vault — analiza cada loot drop semanal del Great Vault con discusión de cuándo conviene tomar qué item. Este episodio cubre la lógica de upgrade decisions con la nueva tier de gear de Midnight. Anchor obligatorio del cluster M+.",
+      "noteEn": "Dratnos (codex M+ anchor) runs the Weekly Vault series — analyzes each weekly Great Vault drop with discussion of when each item is the right pick. This episode covers upgrade-decision logic with the new Midnight gear tier. Mandatory anchor of the M+ cluster."
+    },
+    {
+      "id": "souza-carlos-trono-triunvirato-mitica-s1-2026",
+      "type": "video",
+      "title": "TRONO DEL TRIUNVIRATO — Guía COMPLETA Mítica+ | Midnight Season 1",
+      "creator": "SouzaCarlosTV",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=9GHW1WHx8w0",
+      "youtubeId": "9GHW1WHx8w0",
+      "language": "es",
+      "duration": "11:03",
+      "publishedDate": "2026-03-23",
+      "thumbnail": "https://i.ytimg.com/vi/9GHW1WHx8w0/maxresdefault.jpg",
+      "noteEs": "SouzaCarlosTV cubre dungeon-by-dungeon el pool de M+ del Season 1. Este episodio: Trono del Triunvirato (Throne of the Triumvirate) con rutas, pulls clave, y tips por afix. Anchor en español de M+ por dungeon — formato práctico para players hispanohablantes que entran a una key sin haberla jugado antes.",
+      "noteEn": "SouzaCarlosTV covers the M+ dungeon pool dungeon by dungeon for Season 1. This episode: Throne of the Triumvirate with routes, key pulls, and per-affix tips. Spanish anchor for per-dungeon M+ — practical format for Spanish-speakers entering a key they haven't played before."
+    },
+    {
+      "id": "souza-carlos-aguja-brisaveloz-mitica-s1-2026",
+      "type": "video",
+      "title": "AGUJA BRISAVELOZ — GUÍA COMPLETA MÍTICA+ | Midnight Season 1",
+      "creator": "SouzaCarlosTV",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=2vJEUo0edK4",
+      "youtubeId": "2vJEUo0edK4",
+      "language": "es",
+      "duration": "11:54",
+      "publishedDate": "2026-03-03",
+      "thumbnail": "https://i.ytimg.com/vi/2vJEUo0edK4/maxresdefault.jpg",
+      "noteEs": "Segundo dungeon de la serie española de SouzaCarlosTV: Aguja Brisaveloz (Skyreach). Misma estructura que el video de Trono del Triunvirato — ruta, pulls críticos, ajustes por afix. Skyreach es de los dungeons más relevantes del pool actual y conviene tener la guía a mano antes de pugar.",
+      "noteEn": "Second dungeon in SouzaCarlosTV's Spanish series: Aguja Brisaveloz (Skyreach). Same structure as the Throne of the Triumvirate video — route, critical pulls, affix adjustments. Skyreach is one of the most relevant dungeons in the current pool and worth having the guide ready before pugging."
+    }
+  ]
+}
