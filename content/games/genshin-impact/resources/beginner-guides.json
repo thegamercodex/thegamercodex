@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "gacha-josh-2026-beginner-guide-genshin",
+      "type": "video",
+      "title": "2026 Beginner Guide to Playing Genshin Impact!",
+      "creator": "Gacha Josh",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=MTxXFXsRBTw",
+      "youtubeId": "MTxXFXsRBTw",
+      "language": "en",
+      "duration": "17:33",
+      "publishedDate": "2026-01-05",
+      "thumbnail": "https://i.ytimg.com/vi/MTxXFXsRBTw/maxresdefault.jpg",
+      "noteEs": "Guía 2026 actualizada de Gacha Josh para new players. Cubre lo esencial: progression path inicial, primeros characters worth investing, primogem priorities, Spiral Abyss intro, y qué eventos hacer primero al entrar al juego. Es la opción anchor más reciente y completa del cluster.",
+      "noteEn": "Gacha Josh's updated 2026 guide for new players. Covers the essentials: early progression path, first characters worth investing in, primogem priorities, Spiral Abyss intro, and which events to prioritize when entering the game. The most recent and complete anchor option in the cluster."
+    },
+    {
+      "id": "vars-ii-best-way-genshin-new-2026",
+      "type": "video",
+      "title": "BEST Way To Play Genshin Impact As A New Player in 2026",
+      "creator": "Vars II",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=a2OlysQuQig",
+      "youtubeId": "a2OlysQuQig",
+      "language": "en",
+      "duration": "15:00",
+      "publishedDate": "2025-12-21",
+      "thumbnail": "https://i.ytimg.com/vi/a2OlysQuQig/maxresdefault.jpg",
+      "noteEs": "Vars II ofrece un updated progression guide enfocado en cómo invertir resources (primogems, fragile resin, mora) sin desperdiciarlos en early game. Approach distinto al de Gacha Josh: menos cobertura horizontal, más profundidad sobre decisions que afectan tu account a largo plazo.",
+      "noteEn": "Vars II offers an updated progression guide focused on how to invest resources (primogems, fragile resin, mora) without wasting them in early game. Different approach from Gacha Josh: less horizontal coverage, more depth on decisions that affect your account long-term."
+    },
+    {
+      "id": "belle-ultimate-genshin-f2p-2025",
+      "type": "video",
+      "title": "Ultimate Beginners Guide To Playing Genshin Impact! (F2P Edition)",
+      "creator": "belle",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=D33KnExhbrs",
+      "youtubeId": "D33KnExhbrs",
+      "language": "en",
+      "duration": "15:40",
+      "publishedDate": "2025-01-31",
+      "thumbnail": "https://i.ytimg.com/vi/D33KnExhbrs/maxresdefault.jpg",
+      "noteEs": "Versión F2P-friendly de la guía de inicio: belle asume cero spending y construye el path de progression desde esa premisa. Cubre cómo seleccionar el primer 5-star, qué wishes ahorrar, y cómo competir en Spiral Abyss sin pagar. Complemento honesto al content de creators whale-perspective.",
+      "noteEn": "F2P-friendly version of the starter guide: belle assumes zero spending and builds the progression path from that premise. Covers how to select your first 5-star, which wishes to save, and how to compete in Spiral Abyss without paying. Honest complement to whale-perspective creators' content."
+    },
+    {
+      "id": "putupau-comenzar-genshin-2025",
+      "type": "video",
+      "title": "COMENZAR a JUGAR GENSHIN en PLENO 2025... ¿ES ABRUMADOR?",
+      "creator": "Putupau",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=rUdb8hVsKME",
+      "youtubeId": "rUdb8hVsKME",
+      "language": "es",
+      "duration": "10:11",
+      "publishedDate": "2025-06-10",
+      "thumbnail": "https://i.ytimg.com/vi/rUdb8hVsKME/maxresdefault.jpg",
+      "noteEs": "Putupau aborda directamente la pregunta que se hacen los hispanohablantes nuevos: ¿es abrumador empezar Genshin en 2025 con tantos años de content acumulado? Da framework práctico para no agobiarse: qué priorizar al inicio, qué ignorar de antiguas content, y cómo abordar el catch-up. Tono honesto y accesible.",
+      "noteEn": "Putupau directly addresses the question new Spanish-speaking players ask: is it overwhelming to start Genshin in 2025 with years of accumulated content? Provides a practical framework to avoid overload: what to prioritize at start, what to ignore from old content, and how to approach catch-up. Honest, accessible tone."
+    },
+    {
+      "id": "dysayr-guia-novatos-genshin-2026",
+      "type": "video",
+      "title": "Guía para Novatos 2026 | Genshin Impact para AR Chiquitos",
+      "creator": "Dysayr",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=F7KFblDpEY0",
+      "youtubeId": "F7KFblDpEY0",
+      "language": "es",
+      "duration": "6:07",
+      "publishedDate": "2025-07-20",
+      "thumbnail": "https://i.ytimg.com/vi/F7KFblDpEY0/maxresdefault.jpg",
+      "noteEs": "Versión corta y específica para AR (Adventure Rank) bajo: Dysayr cubre los primeros tips críticos para players que recién instalaron el juego — qué hacer en las primeras horas, errores típicos de newcomers hispanohablantes, y onboarding al sistema gacha. Buen complemento al guide más amplio de Putupau.",
+      "noteEn": "Short version specifically for low AR (Adventure Rank): Dysayr covers critical first tips for players who just installed the game — what to do in the first hours, typical Spanish-speaking newcomer mistakes, and gacha system onboarding. Good complement to Putupau's broader guide."
+    }
+  ]
+}

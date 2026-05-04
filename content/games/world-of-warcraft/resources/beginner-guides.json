@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "lucky-ghost-wow-complete-beginner-2026",
+      "type": "video",
+      "title": "WOW Complete Beginner Guide 2026 (Midnight)",
+      "creator": "Lucky Ghost",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=zyqj414Se1Y",
+      "youtubeId": "zyqj414Se1Y",
+      "language": "en",
+      "duration": "1:47:05",
+      "publishedDate": "2026-02-26",
+      "thumbnail": "https://i.ytimg.com/vi/zyqj414Se1Y/maxresdefault.jpg",
+      "noteEs": "Guía exhaustiva de casi dos horas que cubre WoW desde cero al lanzamiento de Midnight: elección de realm, creación de personaje, factions, razas y razas aliadas, elección de clase, zonas de inicio, action bars, leveling de 1 al 80, transición a Dragonflight y The War Within, y onboarding al endgame. Es la opción anchor para alguien que nunca tocó WoW y quiere una sola fuente que cubra todo el journey inicial.",
+      "noteEn": "Comprehensive nearly-two-hour guide covering WoW from scratch at the Midnight launch: realm selection, character creation, factions, races and allied races, class selection, starting zones, action bars, 1-80 leveling, transition to Dragonflight and The War Within, and endgame onboarding. The anchor option for someone who never touched WoW and wants a single source covering the entire initial journey."
+    },
+    {
+      "id": "zepla-how-to-start-wow-2025",
+      "type": "video",
+      "title": "How to Start Playing WoW (Beginner's Guide 2025)",
+      "creator": "Zepla's WoW Realm",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ZvBSB2UEf_0",
+      "youtubeId": "ZvBSB2UEf_0",
+      "language": "en",
+      "duration": "20:11",
+      "publishedDate": "2025-02-27",
+      "thumbnail": "https://i.ytimg.com/vi/ZvBSB2UEf_0/maxresdefault.jpg",
+      "noteEs": "Versión más compacta del onboarding a WoW. Zepla cubre los pasos esenciales — suscripción, decisión Retail vs Classic, comprar la expansión actual, primer personaje, server choice — en 20 minutos. Buena alternativa para quien quiere una intro rápida sin comprometerse a la guía de casi 2 horas de Lucky Ghost.",
+      "noteEn": "More compact WoW onboarding version. Zepla covers the essential steps — subscription, Retail vs Classic decision, buying the current expansion, first character, server choice — in 20 minutes. Good alternative for those wanting a fast intro without committing to Lucky Ghost's nearly two-hour guide."
+    },
+    {
+      "id": "xenulias-guia-definitiva-wow-2026",
+      "type": "video",
+      "title": "GUÍA DEFINITIVA para empezar en WoW en 2026",
+      "creator": "Xenulias",
+      "creatorId": "xenulias",
+      "url": "https://www.youtube.com/watch?v=ve8zQVGZ8O0",
+      "youtubeId": "ve8zQVGZ8O0",
+      "language": "es",
+      "duration": "11:37",
+      "publishedDate": "2026-02-08",
+      "thumbnail": "https://i.ytimg.com/vi/ve8zQVGZ8O0/maxresdefault.jpg",
+      "noteEs": "Xenulias presenta una guía corta y al punto para empezar en WoW en 2026, con tono calmado y editorialmente honesto sobre el state actual del juego. Es la opción ideal para hispanohablantes que prefieren content de WoW en su idioma sin pasarse al inglés.",
+      "noteEn": "Xenulias presents a short, to-the-point guide to start in WoW in 2026, with calm tone and editorial honesty about the game's current state. The ideal option for Spanish-speakers who prefer WoW content in their language without switching to English."
+    },
+    {
+      "id": "wallside-guia-completa-principiantes-wow-2025",
+      "type": "video",
+      "title": "Guía COMPLETA para Principiantes en WoW Retail 2025",
+      "creator": "Wallside",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=WeA6xfQx4m8",
+      "youtubeId": "WeA6xfQx4m8",
+      "language": "es",
+      "duration": "37:00",
+      "publishedDate": "2025-06-28",
+      "thumbnail": "https://i.ytimg.com/vi/WeA6xfQx4m8/maxresdefault.jpg",
+      "noteEs": "Guía completa en español de 37 minutos cubriendo qué es WoW, facciones y razas disponibles, breve explicación de cada clase, zona de inicio, recomendaciones, e interfaz del juego con sus funciones. Más profunda que la de Xenulias y orientada a quien quiere una sola sesión de aprendizaje exhaustiva en castellano.",
+      "noteEn": "Complete 37-minute Spanish guide covering what WoW is, available factions and races, brief explanation of each class, starting zone, recommendations, and the game's UI with its functions. Deeper than Xenulias' and oriented toward those wanting a single exhaustive Spanish learning session."
+    },
+    {
+      "id": "blizzard-returning-to-wow-made-easy-2026",
+      "type": "video",
+      "title": "Returning to WoW Made Easy ft. @FartsGaming",
+      "creator": "World of Warcraft (Blizzard)",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=S20Xd4vztbQ",
+      "youtubeId": "S20Xd4vztbQ",
+      "language": "en",
+      "duration": "3:18",
+      "publishedDate": "2026-01-09",
+      "thumbnail": "https://i.ytimg.com/vi/S20Xd4vztbQ/maxresdefault.jpg",
+      "noteEs": "Video oficial corto de Blizzard para players que vuelven al juego después de tiempo fuera. Cubre con tono accesible los systems que cambiaron y por dónde re-empezar. Es promotional pero útil como entry-point oficial para returning players, complementario a las guides de creators independientes.",
+      "noteEn": "Short official Blizzard video for players returning after time away. Covers in accessible tone the systems that changed and where to restart. It's promotional but useful as an official entry-point for returning players, complementary to independent creator guides."
+    }
+  ]
+}

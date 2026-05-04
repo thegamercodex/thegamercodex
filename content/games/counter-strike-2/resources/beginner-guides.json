@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "nadeking-50-cs2-tips-beginner-advanced-2025",
+      "type": "video",
+      "title": "50 CS2 Tips From Beginner to Advanced",
+      "creator": "NadeKing",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=W51IGMmbvck",
+      "youtubeId": "W51IGMmbvck",
+      "language": "en",
+      "duration": "12:18",
+      "publishedDate": "2025-12-07",
+      "thumbnail": "https://i.ytimg.com/vi/W51IGMmbvck/maxresdefault.jpg",
+      "noteEs": "NadeKing condensa 50 tips graduados desde fundamentals absolutos hasta concepts intermedios y avanzados. La estructura permite que cada player encuentre su nivel: los primeros 20 tips son para newcomers totales, los siguientes para players con 50+ horas, y los últimos para gente que ya competa en Premier. Cobertura amplia y reciente.",
+      "noteEn": "NadeKing condenses 50 graded tips from absolute fundamentals to intermediate and advanced concepts. The structure lets every player find their level: the first 20 tips are for total newcomers, the next for players with 50+ hours, and the last for people already competing in Premier. Broad and recent coverage."
+    },
+    {
+      "id": "cojomo-ultimate-cs2-beginner-2025",
+      "type": "video",
+      "title": "The ULTIMATE Beginners Guide For CS2 2025!",
+      "creator": "CoJoMo",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=QPe5MndHjX8",
+      "youtubeId": "QPe5MndHjX8",
+      "language": "en",
+      "duration": "9:01",
+      "publishedDate": "2025-08-28",
+      "thumbnail": "https://i.ytimg.com/vi/QPe5MndHjX8/maxresdefault.jpg",
+      "noteEs": "Versión más compacta del onboarding a CS2: 9 minutos cubriendo basics esenciales (movement, aiming, economy, comms). Buena entrada antes del set más extenso de NadeKing si necesitás algo más rápido para empezar a jugar.",
+      "noteEn": "More compact CS2 onboarding: 9 minutes covering essential basics (movement, aiming, economy, comms). Good entry before NadeKing's larger set if you need something quicker to start playing."
+    },
+    {
+      "id": "louiecs2-10-tips-cs2-beginner-2025",
+      "type": "video",
+      "title": "10 Tips Every CS2 Beginner Should Know",
+      "creator": "louiecs2",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=rhql34NvXqM",
+      "youtubeId": "rhql34NvXqM",
+      "language": "en",
+      "duration": "10:47",
+      "publishedDate": "2025-12-15",
+      "thumbnail": "https://i.ytimg.com/vi/rhql34NvXqM/maxresdefault.jpg",
+      "noteEs": "louiecs2 lista 10 tips clave que tarda en interiorizar un newcomer típico. Foco distinto al de NadeKing/CoJoMo — más en mistakes-to-avoid que en knowledge-to-acquire. Útil como segunda opinión para identificar gaps tras consumir un guide más amplio.",
+      "noteEn": "louiecs2 lists 10 key tips a typical newcomer takes time to internalize. Different focus from NadeKing/CoJoMo — more on mistakes-to-avoid than knowledge-to-acquire. Useful as second opinion to identify gaps after consuming a broader guide."
+    },
+    {
+      "id": "predz0rx-como-empezar-cs2-2025",
+      "type": "video",
+      "title": "Cómo empezar en Counter Strike 2 - Guía básica para principiantes",
+      "creator": "Predz0rx",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=W7Bs9S4AmYo",
+      "youtubeId": "W7Bs9S4AmYo",
+      "language": "es",
+      "duration": "8:18",
+      "publishedDate": "2025-06-16",
+      "thumbnail": "https://i.ytimg.com/vi/W7Bs9S4AmYo/maxresdefault.jpg",
+      "noteEs": "Guía básica en español de Predz0rx que cubre el onboarding a CS2 para hispanohablantes. Va desde la instalación y primer setup hasta entender qué se hace en partida (rondas, economy básico, callouts). Compacta y accesible.",
+      "noteEn": "Basic Spanish guide by Predz0rx covering CS2 onboarding for Spanish-speakers. Goes from installation and first setup to understanding what to do in a match (rounds, basic economy, callouts). Compact and accessible."
+    },
+    {
+      "id": "jotun-20-cosas-nuevo-cs2-2025",
+      "type": "video",
+      "title": "20 COSAS que DEBES SABER si ERES NUEVO en CS2",
+      "creator": "Jotun",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=jJQP6OYr6hA",
+      "youtubeId": "jJQP6OYr6hA",
+      "language": "es",
+      "duration": "6:50",
+      "publishedDate": "2025-05-30",
+      "thumbnail": "https://i.ytimg.com/vi/jJQP6OYr6hA/maxresdefault.jpg",
+      "noteEs": "Jotun lista en español las 20 cosas que cualquier player nuevo de CS2 debería saber antes de tirar su primera Premier. Mezcla settings críticos, knowledge in-game (utility básica, economy reads) y mindset. Buen complemento al guide de Predz0rx para llenar gaps de fundamentals.",
+      "noteEn": "Jotun lists in Spanish the 20 things any new CS2 player should know before queuing their first Premier. Mixes critical settings, in-game knowledge (basic utility, economy reads), and mindset. Good complement to Predz0rx's guide to fill fundamentals gaps."
+    }
+  ]
+}

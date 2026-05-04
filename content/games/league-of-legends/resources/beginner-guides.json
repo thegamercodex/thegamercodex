@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "skill-capped-7-useful-tips-beginners-2025",
+      "type": "video",
+      "title": "The 7 MOST USEFUL TIPS For BEGINNERS! - League of Legends",
+      "creator": "Skill Capped",
+      "creatorId": "skill-capped",
+      "url": "https://www.youtube.com/watch?v=387I544Pu_E",
+      "youtubeId": "387I544Pu_E",
+      "language": "en",
+      "duration": "18:30",
+      "publishedDate": "2025-07-02",
+      "thumbnail": "https://i.ytimg.com/vi/387I544Pu_E/maxresdefault.jpg",
+      "noteEs": "Skill Capped condensa los 7 tips más impactantes que cualquier player nuevo de LoL debería interiorizar antes de tocar ranked. Cubre fundamentals como wave management básico, awareness de minimap, decisiones macro al reset, y errores típicos que cuestan partidas en bajo elo. Buen entry point al ecosystem educativo del canal sin requerir suscripción al producto premium.",
+      "noteEn": "Skill Capped condenses the 7 most impactful tips any new LoL player should internalize before touching ranked. Covers fundamentals like basic wave management, minimap awareness, macro reset decisions, and typical errors that cost matches in low elo. Good entry point to the channel's educational ecosystem without requiring a paid product subscription."
+    },
+    {
+      "id": "skill-capped-20-best-tips-beginners-2024",
+      "type": "video",
+      "title": "The 20 BEST TIPS for BEGINNERS in League of Legends",
+      "creator": "Skill Capped",
+      "creatorId": "skill-capped",
+      "url": "https://www.youtube.com/watch?v=4bs4v_GBShU",
+      "youtubeId": "4bs4v_GBShU",
+      "language": "en",
+      "duration": "19:12",
+      "publishedDate": "2024-07-26",
+      "thumbnail": "https://i.ytimg.com/vi/4bs4v_GBShU/maxresdefault.jpg",
+      "noteEs": "Versión más extensa del tip set de Skill Capped: 20 puntos cubriendo desde basics absolutos (last-hitting, ward placement) hasta concepts intermedios (recall timing, freezing waves, rune choice). Todavía vigente para fundamentals — los basics no cambian con el meta, lo cual lo hace una guía con mejor shelf life que la mayoría.",
+      "noteEn": "More extensive version of Skill Capped's tip set: 20 points covering from absolute basics (last-hitting, ward placement) to intermediate concepts (recall timing, freezing waves, rune choice). Still relevant for fundamentals — basics don't change with meta, which gives this guide better shelf life than most."
+    },
+    {
+      "id": "pochipoom-como-jugar-lol-2026",
+      "type": "video",
+      "title": "Como jugar al League of Legends 2026 - Guía para empezar de cero",
+      "creator": "PochiPoom",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Js2u2VYo13s",
+      "youtubeId": "Js2u2VYo13s",
+      "language": "es",
+      "duration": "11:24",
+      "publishedDate": "2026-01-02",
+      "thumbnail": "https://i.ytimg.com/vi/Js2u2VYo13s/maxresdefault.jpg",
+      "noteEs": "Guía en español de PochiPoom actualizada para 2026 que cubre desde la instalación del cliente hasta los conceptos básicos de partida — roles, objetivos, fases del juego, comunicación con el equipo. La opción más reciente y accesible para hispanohablantes que recién instalan el juego.",
+      "noteEn": "Spanish guide by PochiPoom updated for 2026 covering from client installation to basic match concepts — roles, objectives, game phases, team communication. The most recent and accessible option for Spanish-speakers who are just installing the game."
+    },
+    {
+      "id": "soloqtilted-como-empezar-jugar-lol-2026",
+      "type": "video",
+      "title": "Como Empezar a Jugar LOL 2026 | Como jugar LOL por PRIMERA VEZ",
+      "creator": "SoloQTilted",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=NyZALxDFbPo",
+      "youtubeId": "NyZALxDFbPo",
+      "language": "es",
+      "duration": "11:46",
+      "publishedDate": "2025-01-09",
+      "thumbnail": "https://i.ytimg.com/vi/NyZALxDFbPo/maxresdefault.jpg",
+      "noteEs": "SoloQTilted ofrece una alternativa al video de PochiPoom con énfasis distinto: foco en la primera partida y cómo no sentirse perdido en los primeros 30 minutos del juego. Útil como complemento o segunda opinión cuando un solo guide no termina de aclarar dudas iniciales.",
+      "noteEn": "SoloQTilted offers an alternative to PochiPoom's video with a different emphasis: focus on the first match and how not to feel lost in the game's first 30 minutes. Useful as a complement or second opinion when a single guide doesn't fully clarify initial doubts."
+    },
+    {
+      "id": "rey-poro-que-es-como-empezar-lol-2025",
+      "type": "video",
+      "title": "¿Qué es y Cómo Empezar a jugar League of Legends 2025? - Guía Todo lo que Necesitas Saber de CERO",
+      "creator": "Rey Poro",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=HAgUD-W22h4",
+      "youtubeId": "HAgUD-W22h4",
+      "language": "es",
+      "duration": "7:14",
+      "publishedDate": "2025-07-04",
+      "thumbnail": "https://i.ytimg.com/vi/HAgUD-W22h4/maxresdefault.jpg",
+      "noteEs": "Versión corta y al punto en español: qué es LoL, cómo se juega, qué se necesita saber para empezar. 7 minutos de orientación general antes de invertir tiempo en guías más largas. Buena para alguien que aún no decidió si LoL es para él/ella.",
+      "noteEn": "Short and to-the-point Spanish version: what LoL is, how it's played, what you need to know to start. 7 minutes of general orientation before investing in longer guides. Good for someone who hasn't yet decided if LoL is for them."
+    }
+  ]
+}
