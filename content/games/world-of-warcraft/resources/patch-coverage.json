@@ -1,0 +1,80 @@
+{
+  "category": "patch-coverage",
+  "resources": [
+    {
+      "id": "mrgm-midnight-season-1-overview-2026",
+      "type": "video",
+      "title": "Midnight Season 1 Overview: Everything You Need to Know!",
+      "creator": "MrGM",
+      "creatorId": "mrgm",
+      "url": "https://www.youtube.com/watch?v=laQhJ8AOb5o",
+      "youtubeId": "laQhJ8AOb5o",
+      "language": "en",
+      "duration": "11:33",
+      "publishedDate": "2026-03-12",
+      "thumbnail": "https://i.ytimg.com/vi/laQhJ8AOb5o/maxresdefault.jpg",
+      "noteEs": "MrGM consolida los cambios de Midnight Season 1 en un solo video: nuevas dungeons en rotación de Mythic+, cambios de raid, sistemas reworkeados, y prioridades de la semana 1. Anchor obligatorio para players que quieren saber qué cambió en formato condensado y editorial neutro.",
+      "noteEn": "MrGM consolidates Midnight Season 1 changes into a single video: new Mythic+ dungeon rotation, raid changes, reworked systems, and week-1 priorities. Mandatory anchor for players who want to know what changed in condensed format and neutral editorial tone."
+    },
+    {
+      "id": "dalaran-gaming-patch-12-0-5-9-features-2026",
+      "type": "video",
+      "title": "Everything You Need to Know About Patch 12.0.5: 9 Major Features",
+      "creator": "Dalaran Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=_px1S2Ka_tw",
+      "youtubeId": "_px1S2Ka_tw",
+      "language": "en",
+      "duration": "11:28",
+      "publishedDate": "2026-04-21",
+      "thumbnail": "https://i.ytimg.com/vi/_px1S2Ka_tw/maxresdefault.jpg",
+      "noteEs": "Dalaran Gaming desglosa las 9 features mayores del patch 12.0.5: cambios de balance, nuevas mecánicas de raid, ajustes a M+ y profession reworks. Estructura clara feature-por-feature, complemento perfecto al overview de MrGM con más profundidad en cada punto.",
+      "noteEn": "Dalaran Gaming breaks down the 9 major features of patch 12.0.5: balance changes, new raid mechanics, M+ adjustments, and profession reworks. Clear feature-by-feature structure, perfect complement to MrGM's overview with more depth on each point."
+    },
+    {
+      "id": "marcelian-flame-patch-12-0-5-critique-2026",
+      "type": "video",
+      "title": "We Need to Talk About Patch 12.0.5… This Isn't OK",
+      "creator": "Marcelian&Flame",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=HjQqBXCt1WQ",
+      "youtubeId": "HjQqBXCt1WQ",
+      "language": "en",
+      "duration": "19:08",
+      "publishedDate": "2026-04-23",
+      "thumbnail": "https://i.ytimg.com/vi/HjQqBXCt1WQ/maxresdefault.jpg",
+      "noteEs": "Tomo crítico del patch 12.0.5 desde la perspectiva de un raider Mythic experimentado. Cubre las decisiones de diseño que la comunidad rechazó, balance issues persistentes y por qué algunos players están planteando rotar main. No es rant — es análisis honesto que vale conocer aunque uno esté contento con el patch.",
+      "noteEn": "Critical take on patch 12.0.5 from an experienced Mythic raider's perspective. Covers design decisions the community rejected, persistent balance issues, and why some players are considering rotating mains. Not a rant — honest analysis worth knowing even if you're happy with the patch."
+    },
+    {
+      "id": "crau-blizzard-mejora-tanques-dps-parche-2026",
+      "type": "video",
+      "title": "Blizzard MEJORA TANQUES y DPS olvidados — Nuevo parche explicado",
+      "creator": "Crau",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=rT9trO8eYyQ",
+      "youtubeId": "rT9trO8eYyQ",
+      "language": "es",
+      "duration": "10:01",
+      "publishedDate": "2026-04-05",
+      "thumbnail": "https://i.ytimg.com/vi/rT9trO8eYyQ/maxresdefault.jpg",
+      "noteEs": "Crau cubre los cambios de balance del nuevo parche en español, con foco en specs olvidadas que ahora reciben buffs significativos. Análisis útil para players que mantenían su spec en vilo esperando si Blizzard les iba a hacer caso — o que estaban a punto de cambiar.",
+      "noteEn": "Crau covers the new patch's balance changes in Spanish, with focus on forgotten specs that now get meaningful buffs. Useful analysis for players who kept their spec in limbo waiting for Blizzard to address it — or who were about to switch."
+    },
+    {
+      "id": "kizuma-cambios-clases-midnight-2026",
+      "type": "video",
+      "title": "¡CAMBIOS A LAS CLASES! Buffs y ¿Nerfs? — Midnight",
+      "creator": "Kizuma",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=LSgTAk897RM",
+      "youtubeId": "LSgTAk897RM",
+      "language": "es",
+      "duration": "9:35",
+      "publishedDate": "2026-03-28",
+      "thumbnail": "https://i.ytimg.com/vi/LSgTAk897RM/maxresdefault.jpg",
+      "noteEs": "Versión más temprana del análisis de balance: Kizuma cubre los buffs y nerfs por clase del parche en español, con énfasis didáctico sobre qué significa cada cambio en práctica. Útil como input rápido cuando llega un patch para saber si tu main fue tocado.",
+      "noteEn": "Earlier version of the balance analysis: Kizuma covers per-class buffs and nerfs from the patch in Spanish, with didactic emphasis on what each change means in practice. Useful as quick input when a patch lands to know if your main was touched."
+    }
+  ]
+}

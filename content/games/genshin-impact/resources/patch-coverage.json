@@ -1,0 +1,80 @@
+{
+  "category": "patch-coverage",
+  "resources": [
+    {
+      "id": "catwithbluehat-6-5-features-changes-2026",
+      "type": "video",
+      "title": "All The New Features & Changes in Genshin Impact Luna VI Update 6.5",
+      "creator": "CatWithBlueHat",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=FMPP8zvEhOU",
+      "youtubeId": "FMPP8zvEhOU",
+      "language": "en",
+      "duration": "9:16",
+      "publishedDate": "2026-04-07",
+      "thumbnail": "https://i.ytimg.com/vi/FMPP8zvEhOU/maxresdefault.jpg",
+      "noteEs": "CatWithBlueHat consolida los cambios de la versión 6.5 (Luna VI) en formato compacto y editorial neutro: nuevos características, eventos limitados, ajustes de QoL, y cambios al sistema de wishes. Anchor para players que solo quieren saber qué cambió esta versión en formato condensado.",
+      "noteEn": "CatWithBlueHat consolidates 6.5 (Luna VI) changes in a compact, neutral-editorial format: new features, time-limited events, QoL adjustments, and wish system changes. Anchor for players who just want to know what changed this version in condensed format."
+    },
+    {
+      "id": "gacha-gamer-6-5-recap-good-weird-unfair",
+      "type": "video",
+      "title": "Genshin 6.5 Recap: The Great, The Weird, The Unfair...",
+      "creator": "Gacha Gamer",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ro3e7MynMEk",
+      "youtubeId": "ro3e7MynMEk",
+      "language": "en",
+      "duration": "6:54",
+      "publishedDate": "2026-03-27",
+      "thumbnail": "https://i.ytimg.com/vi/ro3e7MynMEk/maxresdefault.jpg",
+      "noteEs": "Approach editorial distinto al de CatWithBlueHat: Gacha Gamer formatea cada patch como Good/Weird/Unfair, con honestidad sobre las decisiones controversiales de HoYo. Útil para players que valoran perspective crítica sobre balance del game economy y banner pricing.",
+      "noteEn": "Different editorial approach than CatWithBlueHat: Gacha Gamer formats each patch as Good/Weird/Unfair, with honesty about HoYo's controversial decisions. Useful for players who value critical perspective on game economy balance and banner pricing."
+    },
+    {
+      "id": "teyvat-tribune-6-6-hardest-patch-f2p-2026",
+      "type": "video",
+      "title": "6.6 MIGHT BE THE HARDEST PATCH FOR F2P PLAYERS YET",
+      "creator": "Teyvat Tribune",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=-dMpz8aY8vQ",
+      "youtubeId": "-dMpz8aY8vQ",
+      "language": "en",
+      "duration": "8:16",
+      "publishedDate": "2026-04-10",
+      "thumbnail": "https://i.ytimg.com/vi/-dMpz8aY8vQ/maxresdefault.jpg",
+      "noteEs": "Mirada anticipada a 6.6 desde la perspectiva F2P: Teyvat Tribune detalla los banners, kits y por qué la versión podría ser la más complicada para players sin spending. Útil para planning de wishes con anticipación pre-banner.",
+      "noteEn": "Forward-looking take on 6.6 from F2P perspective: Teyvat Tribune details banners, kits, and why the version could be the toughest for non-spending players. Useful for wish planning ahead of banner launches."
+    },
+    {
+      "id": "noticias-columbina-cambios-6-6-2026",
+      "type": "video",
+      "title": "TODOS LOS CAMBIOS QUE SE VIENEN EN LA VERSIÓN 6.6 — Genshin Impact",
+      "creator": "Noticias de Columbina",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=6mbngHc5ARY",
+      "youtubeId": "6mbngHc5ARY",
+      "language": "es",
+      "duration": "13:59",
+      "publishedDate": "2026-04-24",
+      "thumbnail": "https://i.ytimg.com/vi/6mbngHc5ARY/maxresdefault.jpg",
+      "noteEs": "Anchor en español de patch coverage para 6.6: Noticias de Columbina cubre con detalle banners, characters nuevos, eventos, ajustes de QoL y cambios al endgame. La opción más completa para hispanohablantes que quieren prep antes del release.",
+      "noteEn": "Spanish anchor for 6.6 patch coverage: Noticias de Columbina covers in detail banners, new characters, events, QoL adjustments, and endgame changes. The most complete option for Spanish-speakers wanting prep before release."
+    },
+    {
+      "id": "games-and-chill-roadmap-banners-snezhnaya-2026",
+      "type": "video",
+      "title": "ROADMAP de BANNERS hasta SNEZHNAYA — 6.6 a 7.1",
+      "creator": "GamesAndChill",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=B2G9pk66WqU",
+      "youtubeId": "B2G9pk66WqU",
+      "language": "es",
+      "duration": "19:49",
+      "publishedDate": "2026-04-20",
+      "thumbnail": "https://i.ytimg.com/vi/B2G9pk66WqU/maxresdefault.jpg",
+      "noteEs": "GamesAndChill toma perspective forward-looking: roadmap de banners desde 6.6 hasta 7.1 para que los players hispanohablantes puedan planificar wishes a 4-5 versiones de distancia. Especialmente valioso para F2P y players con resources limitados que buscan optimizar pulls.",
+      "noteEn": "GamesAndChill takes forward-looking perspective: banner roadmap from 6.6 through 7.1 so Spanish-speaking players can plan wishes 4-5 versions out. Especially valuable for F2P and resource-limited players looking to optimize pulls."
+    }
+  ]
+}

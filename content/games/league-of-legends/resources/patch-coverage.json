@@ -1,0 +1,80 @@
+{
+  "category": "patch-coverage",
+  "resources": [
+    {
+      "id": "skill-capped-every-new-change-season-16-2025",
+      "type": "video",
+      "title": "EVERY NEW CHANGE to League of Legends in SEASON 16",
+      "creator": "Skill Capped",
+      "creatorId": "skill-capped",
+      "url": "https://www.youtube.com/watch?v=MV3AYTdKZOI",
+      "youtubeId": "MV3AYTdKZOI",
+      "language": "en",
+      "duration": "11:59",
+      "publishedDate": "2025-12-05",
+      "thumbnail": "https://i.ytimg.com/vi/MV3AYTdKZOI/maxresdefault.jpg",
+      "noteEs": "Skill Capped abre la cobertura de Season 16 con el resumen completo de cambios. Items, runas, sistema de jungle reformado, ajustes a campeones y reglas competitivas. Anchor para players que vuelven al juego cada season y necesitan ponerse al día rápido.",
+      "noteEn": "Skill Capped opens Season 16 coverage with the complete change summary. Items, runes, reformed jungle system, champion adjustments, and competitive rules. Anchor for players who return to the game each season and need to catch up fast."
+    },
+    {
+      "id": "skill-capped-patch-26-09-item-rune-update-2026",
+      "type": "video",
+      "title": "NEW PATCH 26.09 CHANGES: MASSIVE ITEM AND RUNE UPDATE",
+      "creator": "Skill Capped",
+      "creatorId": "skill-capped",
+      "url": "https://www.youtube.com/watch?v=lX1JOQ9u0Yw",
+      "youtubeId": "lX1JOQ9u0Yw",
+      "language": "en",
+      "duration": "14:00",
+      "publishedDate": "2026-04-23",
+      "thumbnail": "https://i.ytimg.com/vi/lX1JOQ9u0Yw/maxresdefault.jpg",
+      "noteEs": "Cobertura del patch reciente 26.09 con énfasis en el rework de items y runas — uno de los cambios más impactantes del año. Skill Capped explica cómo afectan los nuevos items por rol y qué campeones suben o caen del meta.",
+      "noteEn": "Coverage of recent patch 26.09 with emphasis on the item and rune rework — one of the most impactful changes of the year. Skill Capped explains how the new items affect each role and which champions rise or fall in the meta."
+    },
+    {
+      "id": "polypuff-2026-season-things-you-need-to-know",
+      "type": "video",
+      "title": "All the important things you need to know for the new 2026 season",
+      "creator": "Polypuff",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=DGVWypjnufE",
+      "youtubeId": "DGVWypjnufE",
+      "language": "en",
+      "duration": "16:41",
+      "publishedDate": "2026-01-08",
+      "thumbnail": "https://i.ytimg.com/vi/DGVWypjnufE/maxresdefault.jpg",
+      "noteEs": "Polypuff cubre el inicio de season 2026 con perspectiva más casual y editorial que Skill Capped. Útil como segunda opinión: misma información core, distinto énfasis y narrativa. Mejor para players que prefieren tono conversacional al format estructurado de SC.",
+      "noteEn": "Polypuff covers the 2026 season start with a more casual and editorial perspective than Skill Capped. Useful as second opinion: same core info, different emphasis and narrative. Better for players who prefer conversational tone over SC's structured format."
+    },
+    {
+      "id": "dishake-nuevos-items-2026-campeones-aprovechan",
+      "type": "video",
+      "title": "NUEVOS ÍTEMS 2026: qué campeones los aprovechan y cuáles NO",
+      "creator": "Dishake",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=wL9L_ySdZkU",
+      "youtubeId": "wL9L_ySdZkU",
+      "language": "es",
+      "duration": "13:12",
+      "publishedDate": "2026-01-03",
+      "thumbnail": "https://i.ytimg.com/vi/wL9L_ySdZkU/maxresdefault.jpg",
+      "noteEs": "Dishake hace el análisis específico que casi nadie hace en español: cruzar los nuevos items con champion winrate. Identifica qué picks ganan más con el rework y cuáles pierden. Útil para players que buscan optimizar su pool de mains pre-rank.",
+      "noteEn": "Dishake does the specific analysis almost nobody does in Spanish: crossing new items with champion winrate. Identifies which picks gain most from the rework and which lose. Useful for players looking to optimize their main pool pre-rank."
+    },
+    {
+      "id": "pochipoom-analisis-parche-26-08-buffs-2026",
+      "type": "video",
+      "title": "Análisis parche 26.08 — Se vienen buffs",
+      "creator": "PochiPoom",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=CVRsEejXsdQ",
+      "youtubeId": "CVRsEejXsdQ",
+      "language": "es",
+      "duration": "5:42",
+      "publishedDate": "2026-04-14",
+      "thumbnail": "https://i.ytimg.com/vi/CVRsEejXsdQ/maxresdefault.jpg",
+      "noteEs": "Análisis rápido en español del parche 26.08 antes del 26.09 que sigue. PochiPoom identifica los buffs principales y los campeones que vuelven al meta. Format compacto, ideal para input rápido cuando solo querés saber qué cambió esta semana.",
+      "noteEn": "Quick Spanish analysis of patch 26.08 before the 26.09 follow-up. PochiPoom identifies main buffs and champions returning to meta. Compact format, ideal for quick input when you just want to know what changed this week."
+    }
+  ]
+}

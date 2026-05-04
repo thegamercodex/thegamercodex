@@ -1,0 +1,80 @@
+{
+  "category": "patch-coverage",
+  "resources": [
+    {
+      "id": "warowl-cache-is-back-2026",
+      "type": "video",
+      "title": "Cache Is Back and Better Than Ever",
+      "creator": "WarOwl",
+      "creatorId": "warowl",
+      "url": "https://www.youtube.com/watch?v=mUhkfCM_9EY",
+      "youtubeId": "mUhkfCM_9EY",
+      "language": "en",
+      "duration": "11:44",
+      "publishedDate": "2026-05-02",
+      "thumbnail": "https://i.ytimg.com/vi/mUhkfCM_9EY/maxresdefault.jpg",
+      "noteEs": "WarOwl cubre el regreso de Cache al pool activo de mapas de CS2 — uno de los anuncios más esperados desde el launch del juego. Análisis del rework visual, callouts ajustados, balance T/CT, y diferencias contra la versión histórica de CS:GO. Anchor para la actualidad CS2 reciente.",
+      "noteEn": "WarOwl covers Cache's return to the active CS2 map pool — one of the most anticipated announcements since the game's launch. Visual rework analysis, adjusted callouts, T/CT balance, and differences vs. the historical CS:GO version. Anchor for recent CS2 news."
+    },
+    {
+      "id": "warowl-update-finally-fixed-cs2-animgraph2-2026",
+      "type": "video",
+      "title": "The Update That Finally Fixed CS2",
+      "creator": "WarOwl",
+      "creatorId": "warowl",
+      "url": "https://www.youtube.com/watch?v=BEtrEK_brQc",
+      "youtubeId": "BEtrEK_brQc",
+      "language": "en",
+      "duration": "12:16",
+      "publishedDate": "2026-04-04",
+      "thumbnail": "https://i.ytimg.com/vi/BEtrEK_brQc/maxresdefault.jpg",
+      "noteEs": "Cobertura de la salida de Animgraph 2, el rework de animaciones que la comunidad pedía desde el lanzamiento. WarOwl explica cómo afecta al gameplay: peeking más limpio, hit registration mejor, less inputs perdidos. Hito de patch coverage para CS2 2026.",
+      "noteEn": "Coverage of the Animgraph 2 release, the animation rework the community had requested since launch. WarOwl explains how it affects gameplay: cleaner peeking, better hit registration, fewer lost inputs. CS2 2026 patch coverage milestone."
+    },
+    {
+      "id": "3kliksphilip-animgraph-2-isnt-perfect-2026",
+      "type": "video",
+      "title": "CS2's Animgraph 2 isn't Perfect",
+      "creator": "3kliksphilip",
+      "creatorId": "3kliksphilip",
+      "url": "https://www.youtube.com/watch?v=XZmi2zfgcxQ",
+      "youtubeId": "XZmi2zfgcxQ",
+      "language": "en",
+      "duration": "6:35",
+      "publishedDate": "2026-04-02",
+      "thumbnail": "https://i.ytimg.com/vi/XZmi2zfgcxQ/maxresdefault.jpg",
+      "noteEs": "Voz crítica del Animgraph 2: 3kliksphilip identifica los issues que el rework no resolvió y los nuevos bugs que introdujo. Útil como contrapunto al hype del WarOwl video — para players que quieren foco en lo que aún falta arreglar, no solo lo que mejoró.",
+      "noteEn": "Critical voice on Animgraph 2: 3kliksphilip identifies issues the rework didn't solve and new bugs it introduced. Useful as counterpoint to WarOwl's video hype — for players who want focus on what still needs fixing, not just what improved."
+    },
+    {
+      "id": "sendoh-cache-vuelto-cs2-2026",
+      "type": "video",
+      "title": "CACHE POR FIN ha VUELTO a CS2 — NUEVO PARCHE",
+      "creator": "sendoh",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=sMtCVHJWQhQ",
+      "youtubeId": "sMtCVHJWQhQ",
+      "language": "es",
+      "duration": "5:00",
+      "publishedDate": "2026-04-28",
+      "thumbnail": "https://i.ytimg.com/vi/sMtCVHJWQhQ/maxresdefault.jpg",
+      "noteEs": "Cobertura en español del regreso de Cache. sendoh es de los creators ES más activos en patch coverage de CS2 — output rápido, accesible, sin hype excesivo. Buen complemento al WarOwl en EN para audiencia hispanohablante.",
+      "noteEn": "Spanish coverage of Cache's return. sendoh is among the most active ES creators in CS2 patch coverage — fast output, accessible, no excessive hype. Good Spanish-speaking audience complement to WarOwl in EN."
+    },
+    {
+      "id": "znorux-nuevo-update-cs2-cambios-2026",
+      "type": "video",
+      "title": "El NUEVO UPDATE de CS: TODOS los CAMBIOS que DEBES SABER",
+      "creator": "Znorux",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ezmezK5cun4",
+      "youtubeId": "ezmezK5cun4",
+      "language": "es",
+      "duration": "19:42",
+      "publishedDate": "2026-01-22",
+      "thumbnail": "https://i.ytimg.com/vi/ezmezK5cun4/maxresdefault.jpg",
+      "noteEs": "Versión más extensa en español: Znorux dedica casi 20 minutos a analizar el update con detalle, cubriendo cambios de armas, balance, sistemas y temporada. Apto para quien prefiere análisis largo en lugar de hot-takes cortos. Ya es de inicios de 2026 pero los core changes siguen vigentes.",
+      "noteEn": "More extensive Spanish version: Znorux spends nearly 20 minutes analyzing the update in detail, covering weapon changes, balance, systems, and season. For players who prefer long analysis over short hot-takes. From early 2026 but core changes remain relevant."
+    }
+  ]
+}
