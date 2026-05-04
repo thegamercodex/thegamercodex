@@ -57,7 +57,6 @@ export async function generateMetadata({
     return {
       title: `${tool.name} — ${game.name} | TheGamerCodex`,
       description: tagline,
-      icons: tool.logo ? { icon: tool.logo } : undefined,
       alternates: {
         canonical: `/${locale}/${gameId}/tools/${toolId}`,
         languages: {
