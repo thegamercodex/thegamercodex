@@ -8,7 +8,23 @@ export async function Header() {
   const t = await getTranslations("common");
 
   return (
-    <header className="sticky top-0 z-40 border-b border-border bg-background/80 backdrop-blur-md">
+    <header
+      className="sticky top-0 z-40 border-b backdrop-blur-md"
+      style={
+        {
+          background: "rgba(0, 0, 0, 0.88)",
+          borderColor: "rgba(255, 255, 255, 0.1)",
+          "--background": "#1f1f1f",
+          "--background-secondary": "#2a2a2a",
+          "--foreground": "#f4f4f4",
+          "--foreground-muted": "#c0c4d4",
+          "--foreground-subtle": "#7a82a3",
+          "--border": "rgba(255, 255, 255, 0.18)",
+          "--muted": "#2a2a2a",
+          "--muted-foreground": "#c0c4d4",
+        } as React.CSSProperties
+      }
+    >
       <div className="mx-auto flex h-16 w-full max-w-6xl items-center justify-between px-6">
         <Link
           href="/"

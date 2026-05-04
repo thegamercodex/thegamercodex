@@ -51,7 +51,7 @@ export function GameCard({ game, locale }: GameCardProps) {
         />
         {game.logo && (
           <div
-            className="absolute bottom-2.5 left-2.5 h-10 w-10 overflow-hidden rounded-lg border shadow-lg backdrop-blur-sm"
+            className="absolute bottom-2.5 left-2.5 h-12 w-12 overflow-hidden rounded-2xl border shadow-lg backdrop-blur-sm"
             style={{
               borderColor: `${theme.accent}60`,
               background: `${theme.background}cc`,
@@ -61,8 +61,8 @@ export function GameCard({ game, locale }: GameCardProps) {
               src={game.logo}
               alt={`${game.name} logo`}
               fill
-              sizes="40px"
-              className="object-contain p-1"
+              sizes="48px"
+              className="object-contain p-1.5"
             />
           </div>
         )}

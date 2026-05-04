@@ -7,6 +7,15 @@
     "readMore": "Read more",
     "backToHome": "Back to home"
   },
+  "footer": {
+    "gamesHeading": "Games",
+    "connectHeading": "Connect",
+    "aboutHeading": "About the codex",
+    "aboutText": "We curate tools, creators, and resources for the games that matter most. No affiliations, no sponsored content.",
+    "github": "GitHub",
+    "feedback": "Report an issue",
+    "rights": "Curated gaming codex."
+  },
   "filters": {
     "searchPlaceholder": "Search…",
     "searchToolsPlaceholder": "Search tools…",
@@ -101,7 +110,11 @@
     "quickTake": "Quick take",
     "details": "Details",
     "screenshots": "Screenshots",
-    "tags": "Tags"
+    "tags": "Tags",
+    "viewScreenshot": "Expand screenshot",
+    "closeScreenshot": "Close",
+    "previousScreenshot": "Previous screenshot",
+    "nextScreenshot": "Next screenshot"
   },
   "type": {
     "software": "Software",

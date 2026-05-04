@@ -45,7 +45,7 @@ export default async function HomePage({
 
       <section className="flex flex-col items-center gap-4 pt-4 pb-8 sm:pt-6 sm:pb-10">
         <div
-          className="relative w-full max-w-4xl"
+          className="relative w-full max-w-4xl overflow-hidden rounded-2xl"
           style={{
             maskImage:
               "linear-gradient(to bottom, black 0%, black 85%, transparent 100%)",
