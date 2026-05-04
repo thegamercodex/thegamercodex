@@ -1,0 +1,80 @@
+{
+  "category": "class-guides",
+  "resources": [
+    {
+      "id": "automaticjak-holy-paladin-mplus-raid-2026",
+      "type": "video",
+      "title": "Holy Paladin Mythic+ and Raid Guide — Midnight Season 1",
+      "creator": "AutomaticJak",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=WXTwtifi9pw",
+      "youtubeId": "WXTwtifi9pw",
+      "language": "en",
+      "duration": "18:49",
+      "publishedDate": "2026-04-08",
+      "thumbnail": "https://i.ytimg.com/vi/WXTwtifi9pw/maxresdefault.jpg",
+      "noteEs": "AutomaticJak cubre Holy Paladin para Midnight Season 1 con énfasis dual en Mythic+ y raid. Talents recomendados, rotation prioridad, cooldown mapping y stat priorities. Es uno de los pocos creators que mantienen guías healer de calidad consistente entre patches.",
+      "noteEn": "AutomaticJak covers Holy Paladin for Midnight Season 1 with dual focus on Mythic+ and raid. Recommended talents, rotation priority, cooldown mapping, and stat priorities. One of the few creators who maintain consistent-quality healer guides patch over patch."
+    },
+    {
+      "id": "wow-at-night-blood-dk-midnight-2026",
+      "type": "video",
+      "title": "How to Play BLOOD DEATH KNIGHT in Midnight!",
+      "creator": "WoW at Night",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=fmrNV7TQZrY",
+      "youtubeId": "fmrNV7TQZrY",
+      "language": "en",
+      "duration": "17:05",
+      "publishedDate": "2026-02-25",
+      "thumbnail": "https://i.ytimg.com/vi/fmrNV7TQZrY/maxresdefault.jpg",
+      "noteEs": "Guía completa de Blood Death Knight para Midnight: el tank más self-sufficient del juego, con healing propio y survivability tooling distinto al resto. WoW at Night cubre talents, rotation defensiva, kiting y cuándo usar cada cooldown major. Útil para tanks experimentados que llegan a DK desde otra spec, y para mains DK que están refrescando post-patch.",
+      "noteEn": "Complete Blood Death Knight guide for Midnight: the most self-sufficient tank in the game, with own-healing and survivability tooling unlike the rest. WoW at Night covers talents, defensive rotation, kiting, and when to use each major cooldown. Useful for experienced tanks coming from another spec, and for DK mains refreshing post-patch."
+    },
+    {
+      "id": "schabl3n-frost-mage-midnight-12-0-5-2026",
+      "type": "video",
+      "title": "12.0.5 Frost Mage Guide Midnight | ST & AOE Rotation, Basics, Gear",
+      "creator": "Schabl3n",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=hoDF0ddHsXg",
+      "youtubeId": "hoDF0ddHsXg",
+      "language": "en",
+      "duration": "8:08",
+      "publishedDate": "2026-03-18",
+      "thumbnail": "https://i.ytimg.com/vi/hoDF0ddHsXg/maxresdefault.jpg",
+      "noteEs": "Frost Mage es la spec ranged DPS más popular para players que recién aprenden raiding o Mythic+, gracias a rotación predecible y kit de utility (control, mobility, AoE strong). Schabl3n cubre lo esencial del patch 12.0.5 — basics, single-target rotation, AoE, gear priority — en formato denso y compacto.",
+      "noteEn": "Frost Mage is the most popular ranged DPS spec for players just learning raiding or Mythic+, thanks to predictable rotation and utility kit (control, mobility, strong AoE). Schabl3n covers what's essential in patch 12.0.5 — basics, single-target rotation, AoE, gear priority — in a dense and compact format."
+    },
+    {
+      "id": "cras-warsages-mejor-cazador-midnight-2026",
+      "type": "video",
+      "title": "La MEJOR especialización de Cazador en Midnight — ¿Cuál deberías jugar?",
+      "creator": "Cras WarSages",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=A57oZr49i-c",
+      "youtubeId": "A57oZr49i-c",
+      "language": "es",
+      "duration": "14:42",
+      "publishedDate": "2026-02-18",
+      "thumbnail": "https://i.ytimg.com/vi/A57oZr49i-c/maxresdefault.jpg",
+      "noteEs": "Comparación en español de las tres especializaciones de Cazador (Marksmanship, Beast Mastery y Survival) para Midnight. Cras WarSages contrasta playstyle, performance en M+ vs raid, dificultad mecánica y cuál encaja mejor según el tipo de content que querés hacer. Útil para players que se decidieron por Hunter pero no saben qué spec elegir.",
+      "noteEn": "Spanish comparison of the three Hunter specs (Marksmanship, Beast Mastery, and Survival) for Midnight. Cras WarSages contrasts playstyle, M+ vs raid performance, mechanical difficulty, and which fits best depending on the content type you want to do. Useful for players settled on Hunter but unsure which spec to pick."
+    },
+    {
+      "id": "dumcanor-top-4-clases-midnight-2026",
+      "type": "video",
+      "title": "¿QUÉ CLASE JUGAR? LOS TOP 4 PARA WoW Midnight",
+      "creator": "Dumcanor",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=lXtxn8YvFHU",
+      "youtubeId": "lXtxn8YvFHU",
+      "language": "es",
+      "duration": "11:05",
+      "publishedDate": "2026-01-18",
+      "thumbnail": "https://i.ytimg.com/vi/lXtxn8YvFHU/maxresdefault.jpg",
+      "noteEs": "Antes de elegir una clase, vale la pena ver el panorama. Dumcanor presenta el top 4 de clases para Midnight Season 1 con análisis de strengths, debilidades y por qué destacan. Buen punto de partida para newcomers o returning players que rotan main entre expansiones según meta.",
+      "noteEn": "Before picking a class, it's worth seeing the landscape. Dumcanor presents the top 4 classes for Midnight Season 1 with strengths, weaknesses, and why they stand out. Good starting point for newcomers or returning players who rotate mains between expansions based on meta."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "category": "character-guides",
+  "resources": [
+    {
+      "id": "juice-skirk-build-guide-2025",
+      "type": "video",
+      "title": "DON'T Build Skirk WRONG! - Complete Build Guide",
+      "creator": "Juice",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=JRdkFShzuy8",
+      "youtubeId": "JRdkFShzuy8",
+      "language": "en",
+      "duration": "12:34",
+      "publishedDate": "2025-06-18",
+      "thumbnail": "https://i.ytimg.com/vi/JRdkFShzuy8/maxresdefault.jpg",
+      "noteEs": "Skirk se volvió uno de los DPS Hydro más relevantes desde su release. Juice cubre build completo: artifact set, weapon options, sub-stat priority, rotación, y los teams donde scale mejor. La cobertura es densa pero accesible — buena para players que tienen Skirk y no saben si la están equipando bien.",
+      "noteEn": "Skirk became one of the most relevant Hydro DPS since release. Juice covers full build: artifact set, weapon options, sub-stat priority, rotation, and teams where she scales best. Coverage is dense but accessible — good for players who own Skirk and aren't sure they're building her right."
+    },
+    {
+      "id": "pretender-escoffier-guide-6-4-updated-2026",
+      "type": "video",
+      "title": "Escoffier Guide UPDATED 6.4 — Best Weapons, Artifacts & Teams",
+      "creator": "Prеtender",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=hroj6Yxwu_A",
+      "youtubeId": "hroj6Yxwu_A",
+      "language": "en",
+      "duration": "14:37",
+      "publishedDate": "2026-03-17",
+      "thumbnail": "https://i.ytimg.com/vi/hroj6Yxwu_A/maxresdefault.jpg",
+      "noteEs": "Escoffier es el support Cryo más versátil del meta actual: cabe en team Hyperbloom, Freeze, Quickbloom, y reactiva con casi todo. Prеtender publica versión 6.4 actualizada con weapons, artifacts y teams competitivos al patch actual. Útil para players que pullean a Escoffier y quieren extraer su valor real en múltiples comps.",
+      "noteEn": "Escoffier is the most versatile Cryo support in the current meta: fits in Hyperbloom, Freeze, Quickbloom teams, and reacts with almost everything. Prеtender publishes the 6.4 updated version with weapons, artifacts, and teams competitive to the current patch. Useful for players who pull Escoffier and want to extract her real value across multiple comps."
+    },
+    {
+      "id": "zajef-daily-lauma-nefer-mavuika-comparison-2026",
+      "type": "video",
+      "title": "Lauma, Nefer, or Mavuika - Best Pick for Your Second Team?",
+      "creator": "Zajef Daily",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=l51IRiZvDBo",
+      "youtubeId": "l51IRiZvDBo",
+      "language": "en",
+      "duration": "11:46",
+      "publishedDate": "2026-04-19",
+      "thumbnail": "https://i.ytimg.com/vi/l51IRiZvDBo/maxresdefault.jpg",
+      "noteEs": "Zajef Daily (segundo canal de Zajef77) compara Lauma vs Nefer vs Mavuika para el slot de second-team carry. La pregunta es típica de F2P / low-spend: ya tenés un main DPS, ¿en cuál de las tres invertir wishes? Zajef cuantifica con sims y experiencia práctica de cada character en team comp realista.",
+      "noteEn": "Zajef Daily (Zajef77's second channel) compares Lauma vs. Nefer vs. Mavuika for the second-team carry slot. Classic F2P / low-spend question: you have a main DPS, which of the three do you invest wishes in? Zajef quantifies with sims and practical experience of each character in realistic team comp."
+    },
+    {
+      "id": "rankaisee-mavuika-build-guia-2025",
+      "type": "video",
+      "title": "NUEVA MAVUIKA! BUILD y GUIA de MAVUIKA ACTUALIZADA 2025",
+      "creator": "Rankaisee",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=KqcuYwHm0sY",
+      "youtubeId": "KqcuYwHm0sY",
+      "language": "es",
+      "duration": "13:00",
+      "publishedDate": "2025-07-08",
+      "thumbnail": "https://i.ytimg.com/vi/KqcuYwHm0sY/maxresdefault.jpg",
+      "noteEs": "Rankaisee actualiza la guía de Mavuika a 2025 con build, weapons, artifacts y los teams donde performa mejor. Mavuika es uno de los DPS Pyro más importantes del current meta y la guía cubre tanto el lado optimization como el approach F2P-friendly de la character. La opción anchor en español para mains de Mavuika.",
+      "noteEn": "Rankaisee updates the Mavuika guide to 2025 with build, weapons, artifacts, and the teams where she performs best. Mavuika is one of the most important Pyro DPS in the current meta and the guide covers both the optimization side and the F2P-friendly approach to the character. The Spanish anchor option for Mavuika mains."
+    },
+    {
+      "id": "anzony-kaiser-equipar-personajes-artefactos-2025",
+      "type": "video",
+      "title": "Cómo Equipar Personajes en Genshin Impact — Guía de Artefactos y Substats 2025",
+      "creator": "Anzony Kaiser",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=rF7K6CEJNLQ",
+      "youtubeId": "rF7K6CEJNLQ",
+      "language": "es",
+      "duration": "7:56",
+      "publishedDate": "2025-12-06",
+      "thumbnail": "https://i.ytimg.com/vi/rF7K6CEJNLQ/maxresdefault.jpg",
+      "noteEs": "Antes de buildear un character específico, hay que entender artifacts y substats. Anzony Kaiser cubre los fundamentos: qué stats priorizar por rol, cómo leer un substat roll, cuándo un artifact es 'serviceable' vs 'farming continuous'. Foundational en español que aplica a cualquier character.",
+      "noteEn": "Before building a specific character, you need to understand artifacts and substats. Anzony Kaiser covers the fundamentals: which stats to prioritize per role, how to read a substat roll, when an artifact is 'serviceable' vs. 'keep farming.' Spanish foundational content that applies to any character."
+    }
+  ]
+}

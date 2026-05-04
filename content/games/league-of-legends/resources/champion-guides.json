@@ -1,0 +1,80 @@
+{
+  "category": "champion-guides",
+  "resources": [
+    {
+      "id": "yousifnaldo-yasuo-rank-1-season-16-2026",
+      "type": "video",
+      "title": "RANK 1 YASUO GUIDE - SEASON 16 FULL INDEPTH GUIDE",
+      "creator": "Yousifnaldo",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=RqoFXLXZkx0",
+      "youtubeId": "RqoFXLXZkx0",
+      "language": "en",
+      "duration": "15:56",
+      "publishedDate": "2026-01-10",
+      "thumbnail": "https://i.ytimg.com/vi/RqoFXLXZkx0/maxresdefault.jpg",
+      "noteEs": "Yousifnaldo, rank 1 Yasuo, condensa su guía full S16: build, runes, wave management, matchups y combos avanzados. Yasuo es el mid-lane mecánico por excelencia y aprenderlo bien requiere fundamentals que escalan a cualquier mid lane assassin. Útil para mains de Yasuo y para players que quieren entender por qué ven a Yasuo en cada partida.",
+      "noteEn": "Yousifnaldo, rank 1 Yasuo, condenses his full S16 guide: build, runes, wave management, matchups, and advanced combos. Yasuo is the quintessential mechanical mid-laner, and learning him well requires fundamentals that scale to any mid-lane assassin. Useful for Yasuo mains and for players who want to understand why they see Yasuo in every match."
+    },
+    {
+      "id": "axl-thresh-beginner-guide-2025",
+      "type": "video",
+      "title": "How to ACTUALLY play Thresh - A Beginner Guide",
+      "creator": "AxL",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=UhOqRexYGFw",
+      "youtubeId": "UhOqRexYGFw",
+      "language": "en",
+      "duration": "15:42",
+      "publishedDate": "2025-07-19",
+      "thumbnail": "https://i.ytimg.com/vi/UhOqRexYGFw/maxresdefault.jpg",
+      "noteEs": "Thresh es el support engage por excelencia y uno de los más castigadores cuando se juega bien. AxL cubre fundamentos honestos: hook timing, lantern usage, late-game roaming, y errores comunes que matan partidas. Apto para players que recién empiezan support o que mainlinean Thresh y quieren refresh.",
+      "noteEn": "Thresh is the quintessential engage support and one of the most punishing when played well. AxL covers honest fundamentals: hook timing, lantern usage, late-game roaming, and common errors that lose games. Suitable for players starting support or Thresh mains wanting a refresh."
+    },
+    {
+      "id": "skill-capped-jungle-new-way-season-16-2026",
+      "type": "video",
+      "title": "The NEW WAY to Jungle in Season 16!",
+      "creator": "Skill Capped",
+      "creatorId": "skill-capped",
+      "url": "https://www.youtube.com/watch?v=VApYz33PIxc",
+      "youtubeId": "VApYz33PIxc",
+      "language": "en",
+      "duration": "13:48",
+      "publishedDate": "2026-02-20",
+      "thumbnail": "https://i.ytimg.com/vi/VApYz33PIxc/maxresdefault.jpg",
+      "noteEs": "Skill Capped explica los cambios de S16 que reformaron jungle pathing: faelights, ajustes a objectives, nueva camp dynamics. No es champion-specific sino role-fundamental: cualquier jungler que se sentó a aprender el rol pre-S16 necesita actualizar mental model con este video.",
+      "noteEn": "Skill Capped explains the S16 changes that reshaped jungle pathing: faelights, objective tuning, new camp dynamics. It's not champion-specific but role-fundamental: any jungler who learned the role pre-S16 needs to update their mental model with this video."
+    },
+    {
+      "id": "starkcrash-zaahen-habilidades-2025",
+      "type": "video",
+      "title": "ASÍ FUNCIONAN TODAS LAS HABILIDADES de ZAAHEN - NUEVO CAMPEÓN",
+      "creator": "Starkcrash",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=qdqJxNVel3s",
+      "youtubeId": "qdqJxNVel3s",
+      "language": "es",
+      "duration": "8:51",
+      "publishedDate": "2025-11-09",
+      "thumbnail": "https://i.ytimg.com/vi/qdqJxNVel3s/maxresdefault.jpg",
+      "noteEs": "Cuando Riot lanza un champion nuevo, lo primero es entender qué hace cada habilidad. Starkcrash hace eso para Zaahen en español: breakdown ability por ability, primeras impresiones de power level y posibles roles. Útil para players que quieren probar al nuevo campeón en sus primeras semanas, o entender qué pueden esperar al enfrentarlo.",
+      "noteEn": "When Riot ships a new champion, the first task is understanding what each ability does. Starkcrash does that for Zaahen in Spanish: ability-by-ability breakdown, first impressions of power level, and possible roles. Useful for players who want to try the new champion in his first weeks, or to understand what to expect when facing him."
+    },
+    {
+      "id": "dishake-top-lane-perfecta-2025",
+      "type": "video",
+      "title": "TOP LANE PERFECTA: Cómo GANAR la línea y CARREAR sin depender del equipo",
+      "creator": "Dishake",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=yn1ZazhlaS8",
+      "youtubeId": "yn1ZazhlaS8",
+      "language": "es",
+      "duration": "10:53",
+      "publishedDate": "2025-12-07",
+      "thumbnail": "https://i.ytimg.com/vi/yn1ZazhlaS8/maxresdefault.jpg",
+      "noteEs": "Top lane es notoriamente el rol con más sensación de aislamiento — gankear menos, depender del equipo para roams, sentirse irrelevante. Dishake explica cómo cambiar ese mindset: ganar lane consistentemente, generar pressure transferible, y carrear partidas desde top sin esperar shots de la jungle. Macro guide en español muy enfocado.",
+      "noteEn": "Top lane is notoriously the role with the most isolation feeling — fewer ganks, dependence on team for roams, feeling irrelevant. Dishake explains how to flip that mindset: consistent lane wins, transferable pressure, and carrying games from top without waiting for jungle gank attempts. Very focused Spanish macro guide."
+    }
+  ]
+}
