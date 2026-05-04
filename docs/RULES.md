@@ -170,6 +170,33 @@ Cuando hay un batch grande para procesar (ej: 15 tools de un juego nuevo), mante
   ```
   El script hace replace por línea (preserva el formato del archivo) y valida que el campo exista.
 
+## Promesa editorial y monetización
+
+La línea defendible — y la que la gente debería poder leernos en cualquier momento — es **"el catálogo no se compra"**. Eso significa:
+
+- **El catálogo es sagrado**: ninguna tool, creator o resource entra al codex porque alguien pague. El ordering, los flags `essential`/`official`, las recomendaciones de la home page se deciden por curación editorial, no por presupuesto.
+- **Lo demás es negociable con disclosure**: display ads, affiliate links, sponsored partner sections separadas del catálogo, sponsored newsletters. Cualquier vehículo que no toque la lista curada está sobre la mesa.
+
+Cuando llegue una oferta de sponsor, el test es una sola pregunta: **"¿esto cambiaría algo del ordering o las recomendaciones del catálogo?"**
+
+- **Sí** → estamos vendiendo un slot, viola la promesa. Rechazar o redirigir a un vehículo que no toque el catálogo.
+- **No** → es marketing limpio. Aceptar con disclosure inequívoco (label "Patrocinado", separación visual fuerte, demarcación clara).
+
+**El componente `SponsorSlot`** (`src/components/SponsorSlot.tsx`) implementa el vehículo limpio: render con label "Patrocinado", `rel="sponsored noopener noreferrer"`, UTM tracking automático, y `activeSponsor` configurable en `src/lib/sponsor.ts`. Cuando `activeSponsor` es `null`, el slot no se renderiza — sin "tu logo aquí" awkward.
+
+**Para activar un sponsor**:
+1. Subir el logo a `public/images/sponsors/<sponsor-id>-logo.<ext>`
+2. Editar `src/lib/sponsor.ts`: cambiar `activeSponsor` de `null` al objeto del sponsor
+3. Verificar visualmente en `/es` y `/en` antes de pushear
+4. Cuando termine la campaña, devolver `activeSponsor` a `null`
+
+**Lo que NO hace `SponsorSlot`**:
+- No reordena tools del catálogo
+- No agrega tools al codex
+- No modifica flags de las tools listadas
+
+Si una propuesta de sponsor implica cambiar algo del catálogo (ordering, prioridad, agregado), no es trabajo del SponsorSlot — es violación de la promesa. Rechazar.
+
 ## Process
 
 - Antes de declarar un cambio "listo", **correr `npx next build`** y verificar que pasa sin errores.

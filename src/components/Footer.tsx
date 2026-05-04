@@ -1,12 +1,16 @@
 import Image from "next/image";
-import { getTranslations } from "next-intl/server";
+import { getLocale, getTranslations } from "next-intl/server";
 import { ExternalLink } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { getGames } from "@/lib/content";
+import { SponsorSlot } from "@/components/SponsorSlot";
+import { activeSponsor } from "@/lib/sponsor";
+import type { Locale } from "@/types";
 
 export async function Footer() {
   const t = await getTranslations("common");
   const tFooter = await getTranslations("footer");
+  const locale = (await getLocale()) as Locale;
   const year = new Date().getFullYear();
   const games = await getGames();
   const sortedGames = [...games].sort((a, b) => a.name.localeCompare(b.name));
@@ -87,6 +91,12 @@ export async function Footer() {
             </ul>
           </div>
         </div>
+
+        {activeSponsor && (
+          <div className="mt-8">
+            <SponsorSlot slot="footer" locale={locale} />
+          </div>
+        )}
 
         <div className="mt-10 flex flex-col gap-2 border-t border-border pt-6 text-xs text-foreground-subtle sm:flex-row sm:items-center sm:justify-between">
           <p>

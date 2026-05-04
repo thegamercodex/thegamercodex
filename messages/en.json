@@ -11,10 +11,14 @@
     "gamesHeading": "Games",
     "connectHeading": "Connect",
     "aboutHeading": "About the codex",
-    "aboutText": "We curate tools, creators, and resources for the games that matter most. No affiliations, no sponsored content.",
+    "aboutText": "We curate tools, creators, and resources for the games that matter most. Independently curated — the catalog isn't for sale.",
     "github": "GitHub",
     "feedback": "Report an issue",
     "rights": "Curated gaming codex."
+  },
+  "sponsor": {
+    "label": "Sponsored",
+    "disclosure": "Ad space is clearly marked. The editorial catalog stays independent."
   },
   "filters": {
     "searchPlaceholder": "Search…",

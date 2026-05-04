@@ -11,10 +11,14 @@
     "gamesHeading": "Juegos",
     "connectHeading": "Conectar",
     "aboutHeading": "Sobre el codex",
-    "aboutText": "Curamos herramientas, creators y recursos para los juegos que más nos importan. Sin afiliaciones, sin contenido patrocinado.",
+    "aboutText": "Curamos herramientas, creators y recursos para los juegos que más nos importan. Curado de forma independiente — el catálogo no se compra.",
     "github": "GitHub",
     "feedback": "Reportar problema",
     "rights": "Compendio curado de gaming."
+  },
+  "sponsor": {
+    "label": "Patrocinado",
+    "disclosure": "Espacio publicitario demarcado. El catálogo editorial sigue siendo independiente."
   },
   "filters": {
     "searchPlaceholder": "Buscar…",
