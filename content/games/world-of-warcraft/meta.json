@@ -29,8 +29,8 @@
     "background": "#0d0e1a",
     "text": "#e8d5a0"
   },
-  "logo": "/images/games/world-of-warcraft-logo.svg",
-  "heroImage": "/images/games/world-of-warcraft-hero.jpg",
+  "logo": "/images/games/world-of-warcraft-logo.avif",
+  "heroImage": "/images/games/world-of-warcraft-hero.webp",
   "toolCategories": [
     {
       "id": "wiki",

@@ -65,6 +65,8 @@
   "home": {
     "heroTitle": "The definitive codex for gamers",
     "heroSubtitle": "Curated tools, creators and resources for the games that matter most to you.",
+    "exploreGames": "Explore games",
+    "bannerAlt": "Codex illustration showing tools, builds, guides, analysis, database, and stats",
     "gamesHeading": "Available games"
   },
   "game": {

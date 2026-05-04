@@ -29,8 +29,8 @@
     "background": "#010a13",
     "text": "#f0e6d2"
   },
-  "logo": "/images/games/league-of-legends-logo.svg",
-  "heroImage": "/images/games/league-of-legends-hero.jpg",
+  "logo": "/images/games/league-of-legends-logo.png",
+  "heroImage": "/images/games/league-of-legends-hero.webp",
   "toolCategories": [
     {
       "id": "match-history",

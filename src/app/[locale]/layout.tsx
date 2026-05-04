@@ -39,6 +39,26 @@ export async function generateMetadata({
       template: `%s — ${t("siteName")}`,
     },
     description: t("siteTagline"),
+    openGraph: {
+      type: "website",
+      siteName: t("siteName"),
+      title: t("siteName"),
+      description: t("siteTagline"),
+      images: [
+        {
+          url: "/images/tgc-logo.png",
+          width: 1254,
+          height: 1254,
+          alt: t("siteName"),
+        },
+      ],
+    },
+    twitter: {
+      card: "summary",
+      title: t("siteName"),
+      description: t("siteTagline"),
+      images: ["/images/tgc-logo.png"],
+    },
   };
 }
 

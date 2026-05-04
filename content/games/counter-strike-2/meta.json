@@ -30,8 +30,8 @@
       "background": "#0d0d0d",
       "text": "#e8e8e8"
     },
-    "logo": "/images/games/counter-strike-2-logo.svg",
-    "heroImage": "/images/games/counter-strike-2-hero.jpg",
+    "logo": "/images/games/counter-strike-2-logo.webp",
+    "heroImage": "/images/games/counter-strike-2-hero.webp",
     "toolCategories": [
       {
         "id": "esports-stats",

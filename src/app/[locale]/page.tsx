@@ -1,5 +1,7 @@
+import Image from "next/image";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import type { Metadata } from "next";
+import { ArrowDown } from "lucide-react";
 import { GameCard } from "@/components/GameCard";
 import { getGames } from "@/lib/content";
 import { jsonLdScript, websiteJsonLd } from "@/lib/jsonld";
@@ -31,7 +33,6 @@ export default async function HomePage({
   setRequestLocale(locale);
 
   const t = await getTranslations("home");
-  const tCommon = await getTranslations("common");
   const games = await getGames();
   const loc = locale as Locale;
 
@@ -41,19 +42,54 @@ export default async function HomePage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLdScript(websiteJsonLd(loc)) }}
       />
-      <section className="flex flex-col items-start gap-5 py-20 sm:py-28">
-        <p className="text-xs font-semibold uppercase tracking-[0.25em] text-accent">
-          {tCommon("siteName")}
-        </p>
-        <h1 className="max-w-3xl text-4xl font-semibold leading-[1.1] tracking-tight sm:text-5xl md:text-6xl">
-          {t("heroTitle")}
-        </h1>
-        <p className="max-w-2xl text-lg leading-relaxed text-muted-foreground">
-          {t("heroSubtitle")}
-        </p>
+
+      <section className="flex flex-col items-center gap-4 pt-4 pb-8 sm:pt-6 sm:pb-10">
+        <div
+          className="relative w-full max-w-4xl"
+          style={{
+            maskImage:
+              "linear-gradient(to bottom, black 0%, black 85%, transparent 100%)",
+            WebkitMaskImage:
+              "linear-gradient(to bottom, black 0%, black 85%, transparent 100%)",
+          }}
+        >
+          <div
+            aria-hidden
+            className="pointer-events-none absolute -inset-x-8 -inset-y-8 -z-10 opacity-60"
+            style={{
+              background:
+                "radial-gradient(ellipse at center, var(--accent-subtle) 0%, transparent 65%)",
+            }}
+          />
+          <Image
+            src="/images/tgc-banner.png"
+            alt={t("bannerAlt")}
+            width={1983}
+            height={793}
+            priority
+            sizes="(min-width: 896px) 896px, 100vw"
+            className="h-auto w-full"
+          />
+        </div>
+
+        <div className="flex max-w-3xl flex-col items-center gap-3 text-center">
+          <h1 className="text-2xl font-semibold leading-[1.2] tracking-tight sm:text-3xl">
+            {t("heroTitle")}
+          </h1>
+          <p className="max-w-2xl text-sm leading-relaxed text-foreground-muted sm:text-base">
+            {t("heroSubtitle")}
+          </p>
+          <a
+            href="#games"
+            className="mt-1 inline-flex items-center gap-1.5 rounded-md bg-accent px-5 py-2.5 text-sm font-semibold text-accent-foreground transition-transform duration-150 hover:-translate-y-0.5 hover:bg-accent-hover"
+          >
+            {t("exploreGames")}
+            <ArrowDown className="h-4 w-4" />
+          </a>
+        </div>
       </section>
 
-      <section className="border-t border-border pt-12">
+      <section id="games" className="scroll-mt-24 border-t border-border pt-8">
         <h2 className="mb-6 text-lg font-semibold tracking-tight">
           {t("gamesHeading")}
         </h2>

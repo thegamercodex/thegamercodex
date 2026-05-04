@@ -65,6 +65,8 @@
   "home": {
     "heroTitle": "El compendio definitivo para gamers",
     "heroSubtitle": "Herramientas, creadores y recursos curados para los juegos que más te importan.",
+    "exploreGames": "Explorar juegos",
+    "bannerAlt": "Ilustración del codex con herramientas, builds, guías, análisis, base de datos y estadísticas",
     "gamesHeading": "Juegos disponibles"
   },
   "game": {
