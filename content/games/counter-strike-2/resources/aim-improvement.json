@@ -1,0 +1,80 @@
+{
+  "category": "aim-improvement",
+  "resources": [
+    {
+      "id": "wilson-cs2-best-way-aim-train-2026",
+      "type": "video",
+      "title": "The BEST Way To Aim Train in CS2 (2026)",
+      "creator": "WilsonCS2",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=JuzXsaf-QuY",
+      "youtubeId": "JuzXsaf-QuY",
+      "language": "en",
+      "duration": "8:57",
+      "publishedDate": "2026-01-25",
+      "thumbnail": "https://i.ytimg.com/vi/JuzXsaf-QuY/maxresdefault.jpg",
+      "noteEs": "WilsonCS2 entrega la rutina de aim training actualizada para 2026: qué workshop maps usar, en qué orden, cuánto tiempo dedicar a cada uno, y qué métricas tienen sentido vs cuáles son ruido. Anchor del cluster aim-improvement.",
+      "noteEn": "WilsonCS2 delivers the aim training routine updated for 2026: which workshop maps to use, in what order, how much time to spend on each, and which metrics make sense vs. which are noise. Anchor of the aim-improvement cluster."
+    },
+    {
+      "id": "biley-greatest-cs2-warm-up-guide-2025",
+      "type": "video",
+      "title": "The GREATEST CS2 Warm Up Guide OF ALL TIME (in under 11 minutes)",
+      "creator": "Biley",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=niFoX79euLc",
+      "youtubeId": "niFoX79euLc",
+      "language": "en",
+      "duration": "10:49",
+      "publishedDate": "2025-10-31",
+      "thumbnail": "https://i.ytimg.com/vi/niFoX79euLc/maxresdefault.jpg",
+      "noteEs": "El warm-up correcto antes de jugar Premier o FACEIT marca diferencia consistente — Biley estructura una rutina de 10-15 min que combina aim, movement y reflexes. Específicamente para warm-up pre-session, no para sesiones largas de training.",
+      "noteEn": "The correct warm-up before playing Premier or FACEIT makes a consistent difference — Biley structures a 10-15 min routine combining aim, movement, and reflexes. Specifically for pre-session warm-up, not long training sessions."
+    },
+    {
+      "id": "no-ctrl-aim-routine-beginner-friendly-2026",
+      "type": "video",
+      "title": "How I Keep My Aim Sharp at 37 | CS2 Aim Routine (Beginner Friendly 2026)",
+      "creator": "no_ctrl CS2",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=CO6VodoiKzQ",
+      "youtubeId": "CO6VodoiKzQ",
+      "language": "en",
+      "duration": "5:41",
+      "publishedDate": "2026-03-14",
+      "thumbnail": "https://i.ytimg.com/vi/CO6VodoiKzQ/maxresdefault.jpg",
+      "noteEs": "Approach distinto: no_ctrl, player adulto que mantiene aim competitivo a los 37, comparte rutina sostenible más que intensa. Útil para players que no tienen 2-3 horas diarias para training pero quieren progress consistente con 20 minutos al día.",
+      "noteEn": "Different approach: no_ctrl, an adult player keeping competitive aim at 37, shares a sustainable rather than intense routine. Useful for players who don't have 2-3 hours a day for training but want consistent progress with 20 minutes daily."
+    },
+    {
+      "id": "jotun-8-ajustes-arruinan-aim-cs2-2026",
+      "type": "video",
+      "title": "8 AJUSTES QUE ESTAN ARRUINANDO TU AIM EN CS2",
+      "creator": "Jotun",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=XIZSXJ48dDs",
+      "youtubeId": "XIZSXJ48dDs",
+      "language": "es",
+      "duration": "8:27",
+      "publishedDate": "2026-02-13",
+      "thumbnail": "https://i.ytimg.com/vi/XIZSXJ48dDs/maxresdefault.jpg",
+      "noteEs": "Antes de invertir horas en aim training, conviene asegurar que los ajustes (sensibilidad, DPI, crosshair, raw input, etc.) no estén saboteando el aim. Jotun lista 8 settings comunes mal configurados en bajo elo. Anchor en español, fix-first-then-train mindset.",
+      "noteEn": "Before investing hours in aim training, it's worth ensuring settings (sensitivity, DPI, crosshair, raw input, etc.) aren't sabotaging your aim. Jotun lists 8 commonly miscalibrated settings in low elo. Spanish anchor with a fix-first-then-train mindset."
+    },
+    {
+      "id": "znorux-punteria-tranquila-cs2-2026",
+      "type": "video",
+      "title": "Por Qué No Tienes Una Puntería Tranquila",
+      "creator": "Znorux",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=q07pGochq04",
+      "youtubeId": "q07pGochq04",
+      "language": "es",
+      "duration": "16:06",
+      "publishedDate": "2026-02-09",
+      "thumbnail": "https://i.ytimg.com/vi/q07pGochq04/maxresdefault.jpg",
+      "noteEs": "Znorux toma el ángulo mental del aim: por qué tu puntería se vuelve errática bajo presión y cómo desarrollar 'aim tranquilo' que no se desmorona en clutches. 16 minutos en español que combinan biomechanics y mindset — más profundo que las rutinas tradicionales.",
+      "noteEn": "Znorux takes the mental angle of aim: why your aim becomes erratic under pressure and how to develop 'calm aim' that doesn't crumble in clutches. 16 minutes in Spanish combining biomechanics and mindset — deeper than traditional routines."
+    }
+  ]
+}

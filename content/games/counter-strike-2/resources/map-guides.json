@@ -1,0 +1,80 @@
+{
+  "category": "map-guides",
+  "resources": [
+    {
+      "id": "talocs-cache-map-theory-2026",
+      "type": "video",
+      "title": "Cache Is BACK – Map Theory Nobody Tells You (CS2)",
+      "creator": "TaloCS",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=qMO4xw6rc90",
+      "youtubeId": "qMO4xw6rc90",
+      "language": "en",
+      "duration": "19:00",
+      "publishedDate": "2026-04-22",
+      "thumbnail": "https://i.ytimg.com/vi/qMO4xw6rc90/maxresdefault.jpg",
+      "noteEs": "Cache volvió al pool de mapas activos en abril 2026. TaloCS hace deep-dive de 19 minutos cubriendo no solo los smokes y posiciones obvias sino la teoría detrás del mapa: rotation timing, default setups, T vs CT structure. Anchor del cluster map-guides para Cache nuevo.",
+      "noteEn": "Cache returned to the active map pool in April 2026. TaloCS goes deep for 19 minutes covering not just obvious smokes and positions but the theory behind the map: rotation timing, default setups, T vs. CT structure. Anchor of the map-guides cluster for new Cache."
+    },
+    {
+      "id": "sozoic-mirage-utility-guide-t-side-2026",
+      "type": "video",
+      "title": "The Essential CS2 Mirage Utility Guide 2026 (T-Side)",
+      "creator": "Sozoic",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=GUydpvFiZgM",
+      "youtubeId": "GUydpvFiZgM",
+      "language": "en",
+      "duration": "4:22",
+      "publishedDate": "2026-02-01",
+      "thumbnail": "https://i.ytimg.com/vi/GUydpvFiZgM/maxresdefault.jpg",
+      "noteEs": "Mirage es el mapa más jugado del pool y el T-side el más complejo de aprender. Sozoic condensa la utility esencial — smokes, flashes, molos — en menos de 5 minutos. Form compacto para players que repiten Mirage cada session y necesitan refresh rápido pre-ranked.",
+      "noteEn": "Mirage is the most-played map in the pool and the T-side the most complex to learn. Sozoic condenses essential utility — smokes, flashes, molos — in under 5 minutes. Compact format for players who play Mirage every session and need a quick pre-ranked refresh."
+    },
+    {
+      "id": "nart-out-here-inferno-smokes-2026",
+      "type": "video",
+      "title": "CS2 Inferno Smokes You NEED to Know in 2026",
+      "creator": "NartOutHere",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=eljDZdMTPzs",
+      "youtubeId": "eljDZdMTPzs",
+      "language": "en",
+      "duration": "8:03",
+      "publishedDate": "2025-10-20",
+      "thumbnail": "https://i.ytimg.com/vi/eljDZdMTPzs/maxresdefault.jpg",
+      "noteEs": "Inferno es el otro mapa fundamental del pool junto con Mirage. NartOutHere cubre los smokes obligatorios de 2026 — los que cualquier player de mid-tier elo va a esperar que sepas tirar. Format compacto, foco en utility crítica, no en lineups de nicho.",
+      "noteEn": "Inferno is the other fundamental map in the pool alongside Mirage. NartOutHere covers the mandatory 2026 smokes — the ones any mid-tier elo player will expect you to throw. Compact format, focus on critical utility, not niche lineups."
+    },
+    {
+      "id": "makdrevius-smokes-importantes-cada-mapa-cs2-2024",
+      "type": "video",
+      "title": "Los SMOKES más IMPORTANTES en CADA MAPA de CS2",
+      "creator": "makdrevius",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=yH_9nMPDBv4",
+      "youtubeId": "yH_9nMPDBv4",
+      "language": "es",
+      "duration": "19:26",
+      "publishedDate": "2024-10-17",
+      "thumbnail": "https://i.ytimg.com/vi/yH_9nMPDBv4/maxresdefault.jpg",
+      "noteEs": "Anchor en español del cluster: makdrevius cubre los smokes esenciales de cada mapa del pool en un solo video de 19 minutos. Mirage, Inferno, Nuke, Anubis, Ancient. Aunque es de finales de 2024, los smokes core no cambiaron y la guía es referencia consistente para hispanohablantes.",
+      "noteEn": "Spanish anchor of the cluster: makdrevius covers essential smokes for every map in the pool in a single 19-minute video. Mirage, Inferno, Nuke, Anubis, Ancient. Although from late 2024, core smokes haven't changed and the guide remains a consistent reference for Spanish-speakers."
+    },
+    {
+      "id": "todocs2-5-tips-cada-mapa-cs2-2024",
+      "type": "video",
+      "title": "5 TIPS PARA CADA MAPA DE CS2 — 35 TIPS EN CS2",
+      "creator": "TodoCS2",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=T24uF7DZG74",
+      "youtubeId": "T24uF7DZG74",
+      "language": "es",
+      "duration": "12:32",
+      "publishedDate": "2024-05-26",
+      "thumbnail": "https://i.ytimg.com/vi/T24uF7DZG74/maxresdefault.jpg",
+      "noteEs": "Complemento al video de makdrevius — TodoCS2 da 5 tips por mapa pero NO smokes específicos sino concepts: posicionamiento, callouts, default rounds, mistakes típicos. Los dos videos juntos cubren tanto utility como mindset por mapa, ideal para hispanohablantes que arrancan a serializar el pool.",
+      "noteEn": "Complement to makdrevius's video — TodoCS2 gives 5 tips per map but NOT specific smokes, rather concepts: positioning, callouts, default rounds, typical mistakes. The two videos together cover both utility and per-map mindset, ideal for Spanish-speakers starting to serialize the pool."
+    }
+  ]
+}
