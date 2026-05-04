@@ -1,0 +1,80 @@
+{
+  "category": "esports-coverage",
+  "resources": [
+    {
+      "id": "caedrel-best-of-worlds-2025",
+      "type": "video",
+      "title": "BEST OF WORLDS 2025",
+      "creator": "Caedrel",
+      "creatorId": "caedrel",
+      "url": "https://www.youtube.com/watch?v=Kf68OmmNC_A",
+      "youtubeId": "Kf68OmmNC_A",
+      "language": "en",
+      "duration": "12:04",
+      "publishedDate": "2025-11-12",
+      "thumbnail": "https://i.ytimg.com/vi/Kf68OmmNC_A/maxresdefault.jpg",
+      "noteEs": "Caedrel cierra Worlds 2025 con highlights y commentary editorial. Anchor del scene competitivo desde la voz que la mayoría sigue durante los major events. Cubre los plays más memorables, las upsets clave y por qué T1 vs KT redefinió narrativas que arrastraban desde 2023.",
+      "noteEn": "Caedrel closes Worlds 2025 with highlights and editorial commentary. Competitive scene anchor from the voice most people follow during major events. Covers the most memorable plays, key upsets, and why T1 vs. KT redefined narratives that had been carrying since 2023."
+    },
+    {
+      "id": "psychopathic-poro-t1-vs-kt-worlds-finals-recap-2025",
+      "type": "video",
+      "title": "T1 vs KT | Worlds 2025 Grand Finals Recap",
+      "creator": "Psychopathic Poro",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=apfQ6gp1MLo",
+      "youtubeId": "apfQ6gp1MLo",
+      "language": "en",
+      "duration": "18:40",
+      "publishedDate": "2025-11-09",
+      "thumbnail": "https://i.ytimg.com/vi/apfQ6gp1MLo/maxresdefault.jpg",
+      "noteEs": "Recap completo y técnico del Worlds 2025 Grand Final entre T1 y KT. Casi 19 minutos cubriendo cada game con análisis de drafts, rotaciones críticas y momentos definitivos. Complemento al video corto de Caedrel para fans que quieren la versión profundizada.",
+      "noteEn": "Complete and technical recap of the Worlds 2025 Grand Final between T1 and KT. Almost 19 minutes covering each game with draft analysis, critical rotations, and defining moments. Complement to Caedrel's shorter video for fans wanting the deep version."
+    },
+    {
+      "id": "la-ratita-t1-bizarre-run-worlds-2025",
+      "type": "video",
+      "title": "La extraña participación de T1 en el Mundial 2025 (en pocas palabras)",
+      "creator": "La Ratita",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=D48q1Va_pTw",
+      "youtubeId": "D48q1Va_pTw",
+      "language": "es",
+      "duration": "13:40",
+      "publishedDate": "2025-11-17",
+      "thumbnail": "https://i.ytimg.com/vi/D48q1Va_pTw/maxresdefault.jpg",
+      "noteEs": "La Ratita narra la trayectoria errática de T1 en Worlds 2025: las primeras pérdidas que casi los eliminan, los ajustes de coaching, y cómo terminaron campeones. Storytelling en español para fans que prefieren narrativa sobre highlights cortos.",
+      "noteEn": "La Ratita narrates T1's erratic Worlds 2025 run: early losses that nearly eliminated them, coaching adjustments, and how they ended up champions. Spanish storytelling for fans who prefer narrative over short highlights."
+    },
+    {
+      "id": "lol-esports-first-stand-2026-finals-highlights",
+      "type": "video",
+      "title": "Top Highlights from Finals | First Stand 2026",
+      "creator": "LoL Esports",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=YV7v67KUG-0",
+      "youtubeId": "YV7v67KUG-0",
+      "language": "en",
+      "duration": "5:16",
+      "publishedDate": "2026-03-23",
+      "thumbnail": "https://i.ytimg.com/vi/YV7v67KUG-0/maxresdefault.jpg",
+      "noteEs": "Highlights oficiales del First Stand 2026, el primer major internacional del año (reemplazo del antiguo First Stand de pretemporada). 5 minutos para ponerse al día con quién definió el opening de la season competitiva 2026.",
+      "noteEn": "Official First Stand 2026 highlights, the year's first international major (replacing the former preseason First Stand). 5 minutes to catch up on who defined the 2026 competitive season opener."
+    },
+    {
+      "id": "jankos-live-lec-2026-new-rosters",
+      "type": "video",
+      "title": "Jankos Reacts To LEC 2026 New Rosters",
+      "creator": "Jankos Live",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=jUDZ-42xDXw",
+      "youtubeId": "jUDZ-42xDXw",
+      "language": "en",
+      "duration": "13:38",
+      "publishedDate": "2025-12-04",
+      "thumbnail": "https://i.ytimg.com/vi/jUDZ-42xDXw/maxresdefault.jpg",
+      "noteEs": "Jankos, ex-pro de jungle de G2, analiza las nuevas plantillas de LEC 2026 con perspectiva veterana. Cubre los movimientos más impactantes del offseason, qué teams subieron de tier y cuáles cayeron. Útil al inicio de la season para calibrar expectativas.",
+      "noteEn": "Jankos, G2 jungle ex-pro, analyzes the new LEC 2026 rosters with veteran perspective. Covers the most impactful offseason moves, which teams rose in tier, and which fell. Useful at season start to calibrate expectations."
+    }
+  ]
+}

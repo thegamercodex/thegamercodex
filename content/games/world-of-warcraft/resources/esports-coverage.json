@@ -1,0 +1,80 @@
+{
+  "category": "esports-coverage",
+  "resources": [
+    {
+      "id": "team-liquid-mmo-world-first-midnight-falls-2026",
+      "type": "video",
+      "title": "Liquid vs WORLD FIRST Midnight Falls — March on Quel'Danas",
+      "creator": "Team Liquid MMO",
+      "creatorId": "liquid",
+      "url": "https://www.youtube.com/watch?v=ttmRK7i2W6Q",
+      "youtubeId": "ttmRK7i2W6Q",
+      "language": "en",
+      "duration": "10:47",
+      "publishedDate": "2026-04-06",
+      "thumbnail": "https://i.ytimg.com/vi/ttmRK7i2W6Q/maxresdefault.jpg",
+      "noteEs": "El kill oficial de Liquid del último boss Mythic de Midnight: March on Quel'Danas en el raid Midnight Falls. Anchor del Race to World First desde la fuente directa — no análisis externo, sino el VOD del kill con commentary de la guild. Hito esports clave de la temporada.",
+      "noteEn": "Liquid's official kill of the last Mythic boss in Midnight: March on Quel'Danas in the Midnight Falls raid. Race to World First anchor straight from the source — not external analysis, but the kill VOD with guild commentary. Key esports milestone of the season."
+    },
+    {
+      "id": "dratnos-rwf-day-8-recap-midnight-falls-2026",
+      "type": "video",
+      "title": "Race to World First Day 8 Recap — Midnight Falls Mechanics and Week 2 Opening Moves",
+      "creator": "Dratnos",
+      "creatorId": "dratnos",
+      "url": "https://www.youtube.com/watch?v=M8XveMz_vPc",
+      "youtubeId": "M8XveMz_vPc",
+      "language": "en",
+      "duration": "8:35",
+      "publishedDate": "2026-04-01",
+      "thumbnail": "https://i.ytimg.com/vi/M8XveMz_vPc/maxresdefault.jpg",
+      "noteEs": "Dratnos casteó parte del Race to World First en vivo y publicó recaps daily durante la race. Este video del día 8 cubre las mecánicas que se desbloquearon en week 2 y los movimientos de apertura de cada guild contendiente. Análisis técnico desde la voz de referencia del scene competitive.",
+      "noteEn": "Dratnos cast part of the Race to World First live and published daily recaps during the race. This day 8 video covers the mechanics unlocked in week 2 and the opening moves of each contender guild. Technical analysis from the reference voice of the competitive scene."
+    },
+    {
+      "id": "supatease-awc-midnight-tournament-tier-list-2026",
+      "type": "video",
+      "title": "Midnight Tournament Tier List (AWC)",
+      "creator": "Supatease",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=mDj0rilr8AE",
+      "youtubeId": "mDj0rilr8AE",
+      "language": "en",
+      "duration": "17:06",
+      "publishedDate": "2026-04-08",
+      "thumbnail": "https://i.ytimg.com/vi/mDj0rilr8AE/maxresdefault.jpg",
+      "noteEs": "Supatease, ex-pro de arena y comentarista AWC histórico, tira la tier list de comps para el Arena World Championship Midnight. Cubre meta picks, comps tapadas, y por qué ciertas specs van a definir la season. Material denso para fans del PvP competitivo.",
+      "noteEn": "Supatease, arena ex-pro and longtime AWC commentator, breaks down the comp tier list for the Midnight Arena World Championship. Covers meta picks, sleeper comps, and why certain specs will define the season. Dense material for competitive PvP fans."
+    },
+    {
+      "id": "sjeletyven-mdi-time-trials-skyreach-2026",
+      "type": "video",
+      "title": "13 Minutes +16 Skyreach | MDI Time Trials",
+      "creator": "Sjeletyven",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=VpB3jLCiZBo",
+      "youtubeId": "VpB3jLCiZBo",
+      "language": "en",
+      "duration": "14:42",
+      "publishedDate": "2026-04-16",
+      "thumbnail": "https://i.ytimg.com/vi/VpB3jLCiZBo/maxresdefault.jpg",
+      "noteEs": "MDI Time Trials son la fase de clasificación al Mythic Dungeon International. Sjeletyven, MDI player profesional, completa Skyreach +16 en 13 minutos — un tiempo top que define el split de clasificación. VOD de pull con commentary técnico para fans del competitive M+.",
+      "noteEn": "MDI Time Trials are the qualifier phase for the Mythic Dungeon International. Sjeletyven, professional MDI player, clears Skyreach +16 in 13 minutes — a top time that defines the qualification split. Pull VOD with technical commentary for competitive M+ fans."
+    },
+    {
+      "id": "souza-carlos-primera-22-mundo-china-2026",
+      "type": "video",
+      "title": "¡PRIMERA +22 DEL MUNDO HECHA EN CHINA! — Apunta esta ruta",
+      "creator": "SouzaCarlosTV",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=cgoz4s2oBfg",
+      "youtubeId": "cgoz4s2oBfg",
+      "language": "es",
+      "duration": "14:56",
+      "publishedDate": "2026-04-29",
+      "thumbnail": "https://i.ytimg.com/vi/cgoz4s2oBfg/maxresdefault.jpg",
+      "noteEs": "El primer +22 cronometrado del mundo se hizo en China — SouzaCarlosTV cubre la ruta exacta que usaron, qué pulls cambiaron y qué cooldowns optimizaron. Anchor en español para records globales de M+ con análisis aplicable a tu propia push.",
+      "noteEn": "The world's first timed +22 was done in China — SouzaCarlosTV covers the exact route they used, which pulls they changed, and which cooldowns they optimized. Spanish anchor for global M+ records with analysis applicable to your own push."
+    }
+  ]
+}

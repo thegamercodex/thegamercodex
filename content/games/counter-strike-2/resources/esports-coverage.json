@@ -1,0 +1,80 @@
+{
+  "category": "esports-coverage",
+  "resources": [
+    {
+      "id": "launders-best-cs-team-history-vitality-astralis-2026",
+      "type": "video",
+      "title": "Who Is The Best Counter-Strike Team In History? (Vitality... or Astralis)",
+      "creator": "launders",
+      "creatorId": "launders",
+      "url": "https://www.youtube.com/watch?v=cAu2wDX6dFE",
+      "youtubeId": "cAu2wDX6dFE",
+      "language": "en",
+      "duration": "25:12",
+      "publishedDate": "2026-04-06",
+      "thumbnail": "https://i.ytimg.com/vi/cAu2wDX6dFE/maxresdefault.jpg",
+      "noteEs": "launders abre el debate G.O.A.T. del CS competitivo: Vitality (era Donk + ZywOo + ropz) vs Astralis (era Device + dupreeh + glaive). 25 minutos de análisis comparativo de roster construction, dominance windows, achievements y por qué la conversación define la lectura del scene actual.",
+      "noteEn": "launders opens the G.O.A.T. debate in competitive CS: Vitality (Donk + ZywOo + ropz era) vs. Astralis (Device + dupreeh + glaive era). 25 minutes of comparative analysis covering roster construction, dominance windows, achievements, and why the conversation defines how to read the current scene."
+    },
+    {
+      "id": "launders-furia-big-trouble-2026",
+      "type": "video",
+      "title": "FURIA Are In Big Trouble",
+      "creator": "launders",
+      "creatorId": "launders",
+      "url": "https://www.youtube.com/watch?v=-F-zfCbocdE",
+      "youtubeId": "-F-zfCbocdE",
+      "language": "en",
+      "duration": "9:18",
+      "publishedDate": "2026-03-31",
+      "thumbnail": "https://i.ytimg.com/vi/-F-zfCbocdE/maxresdefault.jpg",
+      "noteEs": "Análisis editorial de launders sobre el momento crítico de FURIA en 2026: declive de resultados, problemas internos del roster y opciones realistas que tienen para revertir la situación. Honesto, sin filtros, perspectiva veterana del scene NA/SA.",
+      "noteEn": "Editorial analysis from launders on FURIA's critical moment in 2026: results decline, internal roster issues, and realistic options they have to turn it around. Honest, unfiltered, veteran perspective on the NA/SA scene."
+    },
+    {
+      "id": "esl-iem-rio-2026-best-moments-playoffs",
+      "type": "video",
+      "title": "BEST MOMENTS of IEM Rio 2026 PLAYOFFS",
+      "creator": "ESL Counter-Strike",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=D2gHOJlhOFI",
+      "youtubeId": "D2gHOJlhOFI",
+      "language": "en",
+      "duration": "10:00",
+      "publishedDate": "2026-04-20",
+      "thumbnail": "https://i.ytimg.com/vi/D2gHOJlhOFI/maxresdefault.jpg",
+      "noteEs": "Highlights oficiales de los playoffs de IEM Rio 2026. 10 minutos curados directamente por el broadcaster del torneo — los plays que definieron quien avanzó, los clutches clave y las upsets más comentadas. Recurso de referencia para fans que se perdieron el live.",
+      "noteEn": "Official IEM Rio 2026 playoffs highlights. 10 minutes curated directly by the tournament broadcaster — the plays that decided who advanced, key clutches, and the most-discussed upsets. Reference resource for fans who missed the live."
+    },
+    {
+      "id": "esl-pro-league-season-23-best-moments-2026",
+      "type": "video",
+      "title": "BEST MOMENTS of ESL Pro League Season 23 Playoffs",
+      "creator": "ESL Counter-Strike",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=cBfb7MI0LT4",
+      "youtubeId": "cBfb7MI0LT4",
+      "language": "en",
+      "duration": "16:00",
+      "publishedDate": "2026-03-15",
+      "thumbnail": "https://i.ytimg.com/vi/cBfb7MI0LT4/maxresdefault.jpg",
+      "noteEs": "16 minutos de los plays más memorables del playoff de ESL Pro League S23 — el otro torneo tier-1 mensual del calendario, complementario al IEM. Cuando hay solapamiento, ambos definen rankings y posiciones para Majors.",
+      "noteEn": "16 minutes of the most memorable plays from ESL Pro League S23 playoffs — the other tier-1 monthly tournament on the calendar, complementary to IEM. When they overlap, both define rankings and Major qualification slots."
+    },
+    {
+      "id": "hdsuso-cambios-faze-navi-campeon-epl-2026",
+      "type": "video",
+      "title": "CAMBIOS en FaZe, MALBS SE VA de G2 & Na'Vi CAMPEON de la EPL",
+      "creator": "HDSuSo | CS2 Español",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=yamw54phSZI",
+      "youtubeId": "yamw54phSZI",
+      "language": "es",
+      "duration": "7:19",
+      "publishedDate": "2026-03-16",
+      "thumbnail": "https://i.ytimg.com/vi/yamw54phSZI/maxresdefault.jpg",
+      "noteEs": "HDSuSo es de los pocos creators ES que mantienen cobertura consistente del esports CS2 en español. Este episodio cubre tres news mayores: rosters de FaZe, Malbsmd dejando G2, y NaVi como campeón de EPL. Anchor hispanohablante para esports CS competitivo.",
+      "noteEn": "HDSuSo is among the few ES creators with consistent Spanish CS2 esports coverage. This episode covers three major news items: FaZe rosters, Malbsmd leaving G2, and NaVi as EPL champion. Spanish-speaking anchor for competitive CS esports."
+    }
+  ]
+}
