@@ -17,6 +17,7 @@ interface ToolsExplorerProps {
   tools: Tool[];
   categories: ToolCategory[];
   locale: Locale;
+  toolLogos?: Record<string, boolean>;
 }
 
 const DIFFICULTIES: Difficulty[] = ["beginner", "intermediate", "advanced"];
@@ -26,6 +27,7 @@ export function ToolsExplorer({
   tools,
   categories,
   locale,
+  toolLogos = {},
 }: ToolsExplorerProps) {
   const t = useTranslations("filters");
   const tDifficulty = useTranslations("difficulty");
@@ -295,6 +297,7 @@ export function ToolsExplorer({
                 tool={tool}
                 category={categoryMap.get(tool.category)}
                 locale={locale}
+                hasLogo={toolLogos[tool.id]}
               />
             ))}
           </div>
@@ -307,6 +310,7 @@ export function ToolsExplorer({
                 tool={tool}
                 category={categoryMap.get(tool.category)}
                 locale={locale}
+                hasLogo={toolLogos[tool.id]}
               />
             ))}
           </div>
@@ -333,6 +337,7 @@ export function ToolsExplorer({
                       tool={tool}
                       category={category}
                       locale={locale}
+                      hasLogo={toolLogos[tool.id]}
                     />
                   ))}
                 </div>
@@ -345,6 +350,7 @@ export function ToolsExplorer({
                       tool={tool}
                       category={category}
                       locale={locale}
+                      hasLogo={toolLogos[tool.id]}
                     />
                   ))}
                 </div>

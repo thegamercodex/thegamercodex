@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { Star, BadgeCheck } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
@@ -9,9 +10,16 @@ interface ToolCardProps {
   tool: Tool;
   category?: ToolCategory;
   locale: Locale;
+  hasLogo?: boolean;
 }
 
-export function ToolCard({ gameId, tool, category, locale }: ToolCardProps) {
+export function ToolCard({
+  gameId,
+  tool,
+  category,
+  locale,
+  hasLogo = false,
+}: ToolCardProps) {
   const t = useTranslations("tool");
   const tDifficulty = useTranslations("difficulty");
   const tagline = locale === "es" ? tool.taglineEs : tool.taglineEn;
@@ -28,10 +36,20 @@ export function ToolCard({ gameId, tool, category, locale }: ToolCardProps) {
     >
       <div className="flex items-start gap-3">
         <div
-          className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-border bg-background text-sm font-semibold"
+          className="flex h-10 w-10 shrink-0 items-center justify-center overflow-hidden rounded-lg border border-border bg-background text-sm font-semibold"
           style={{ color: "var(--game-accent, var(--color-accent))" }}
         >
-          {initial}
+          {hasLogo ? (
+            <Image
+              src={tool.logo}
+              alt={`${tool.name} logo`}
+              width={40}
+              height={40}
+              className="h-full w-full object-contain p-1"
+            />
+          ) : (
+            initial
+          )}
         </div>
         <div className="min-w-0 flex-1">
           <div className="flex items-center gap-1.5">

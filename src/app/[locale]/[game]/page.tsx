@@ -1,3 +1,5 @@
+import { existsSync } from "node:fs";
+import path from "node:path";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import type { Metadata } from "next";
@@ -82,6 +84,12 @@ export default async function GamePage({ params }: PageParams) {
   const resourceMap = new Map(
     resourceCollections.map((r) => [r.category, r.resources.length]),
   );
+  const toolLogos: Record<string, boolean> = {};
+  for (const tool of tools) {
+    toolLogos[tool.id] =
+      Boolean(tool.logo) &&
+      existsSync(path.join(process.cwd(), "public", tool.logo));
+  }
 
   return (
     <>
@@ -109,6 +117,7 @@ export default async function GamePage({ params }: PageParams) {
               tools={tools}
               categories={game.toolCategories}
               locale={loc}
+              toolLogos={toolLogos}
             />
           </section>
         )}
