@@ -37,13 +37,13 @@
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/blitz-gg-logo.png",
+  "logo": "/images/tools/league-of-legends/blitz-gg-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/blitz-gg-ss-1.png"
+      "url": "/images/tools/league-of-legends/blitz-gg-ss-1.png"
     },
     {
-      "url": "/images/tools/blitz-gg-ss-2.png"
+      "url": "/images/tools/league-of-legends/blitz-gg-ss-2.png"
     }
   ],
   "videos": [],

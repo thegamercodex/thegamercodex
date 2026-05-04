@@ -34,13 +34,13 @@
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/porofessor-logo.png",
+  "logo": "/images/tools/league-of-legends/porofessor-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/porofessor-ss-1.png"
+      "url": "/images/tools/league-of-legends/porofessor-ss-1.png"
     },
     {
-      "url": "/images/tools/porofessor-ss-2.png"
+      "url": "/images/tools/league-of-legends/porofessor-ss-2.png"
     }
   ],
   "videos": [],

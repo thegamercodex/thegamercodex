@@ -26,13 +26,13 @@
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/hltv-live-matches-logo.png",
+  "logo": "/images/tools/counter-strike-2/hltv-live-matches-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/hltv-live-matches-ss-1.png"
+      "url": "/images/tools/counter-strike-2/hltv-live-matches-ss-1.png"
     },
     {
-      "url": "/images/tools/hltv-live-matches-ss-2.png"
+      "url": "/images/tools/counter-strike-2/hltv-live-matches-ss-2.png"
     }
   ],
   "videos": [],

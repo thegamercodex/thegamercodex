@@ -41,13 +41,13 @@
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/wowhead-logo.png",
+  "logo": "/images/tools/world-of-warcraft/wowhead-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/wowhead-ss-1.png"
+      "url": "/images/tools/world-of-warcraft/wowhead-ss-1.png"
     },
     {
-      "url": "/images/tools/wowhead-ss-2.png"
+      "url": "/images/tools/world-of-warcraft/wowhead-ss-2.png"
     }
   ],
   "videos": [],

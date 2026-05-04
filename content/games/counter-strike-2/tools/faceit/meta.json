@@ -39,13 +39,13 @@
   "essential": true,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/faceit-logo.png",
+  "logo": "/images/tools/counter-strike-2/faceit-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/faceit-ss-1.png"
+      "url": "/images/tools/counter-strike-2/faceit-ss-1.png"
     },
     {
-      "url": "/images/tools/faceit-ss-2.png"
+      "url": "/images/tools/counter-strike-2/faceit-ss-2.png"
     }
   ],
   "videos": [],

@@ -32,13 +32,13 @@
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/tracker-gg-cs2-logo.png",
+  "logo": "/images/tools/counter-strike-2/tracker-gg-cs2-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/tracker-gg-cs2-ss-1.png"
+      "url": "/images/tools/counter-strike-2/tracker-gg-cs2-ss-1.png"
     },
     {
-      "url": "/images/tools/tracker-gg-cs2-ss-2.png"
+      "url": "/images/tools/counter-strike-2/tracker-gg-cs2-ss-2.png"
     }
   ],
   "videos": [],

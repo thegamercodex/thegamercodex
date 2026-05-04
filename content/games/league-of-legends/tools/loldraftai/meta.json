@@ -29,13 +29,13 @@
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/loldraftai-logo.png",
+  "logo": "/images/tools/league-of-legends/loldraftai-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/loldraftai-ss-1.png"
+      "url": "/images/tools/league-of-legends/loldraftai-ss-1.png"
     },
     {
-      "url": "/images/tools/loldraftai-ss-2.png"
+      "url": "/images/tools/league-of-legends/loldraftai-ss-2.png"
     }
   ],
   "videos": [],

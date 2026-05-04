@@ -28,13 +28,13 @@
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/esea-logo.png",
+  "logo": "/images/tools/counter-strike-2/esea-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/esea-ss-1.png"
+      "url": "/images/tools/counter-strike-2/esea-ss-1.png"
     },
     {
-      "url": "/images/tools/esea-ss-2.png"
+      "url": "/images/tools/counter-strike-2/esea-ss-2.png"
     }
   ],
   "videos": [],

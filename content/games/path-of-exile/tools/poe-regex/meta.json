@@ -30,13 +30,13 @@
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/poe-regex-logo.png",
+  "logo": "/images/tools/path-of-exile/poe-regex-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/poe-regex-ss-1.png"
+      "url": "/images/tools/path-of-exile/poe-regex-ss-1.jpg"
     },
     {
-      "url": "/images/tools/poe-regex-ss-2.png"
+      "url": "/images/tools/path-of-exile/poe-regex-ss-2.png"
     }
   ],
   "videos": [],

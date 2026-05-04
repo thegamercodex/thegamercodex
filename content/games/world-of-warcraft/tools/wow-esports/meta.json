@@ -36,13 +36,13 @@
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/wow-esports-logo.png",
+  "logo": "/images/tools/world-of-warcraft/wow-esports-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/wow-esports-ss-1.png"
+      "url": "/images/tools/world-of-warcraft/wow-esports-ss-1.png"
     },
     {
-      "url": "/images/tools/wow-esports-ss-2.png"
+      "url": "/images/tools/world-of-warcraft/wow-esports-ss-2.png"
     }
   ],
   "videos": [],

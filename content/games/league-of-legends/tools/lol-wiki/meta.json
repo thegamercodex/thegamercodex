@@ -38,13 +38,13 @@
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/lol-wiki-logo.png",
+  "logo": "/images/tools/league-of-legends/lol-wiki-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/lol-wiki-ss-1.png"
+      "url": "/images/tools/league-of-legends/lol-wiki-ss-1.png"
     },
     {
-      "url": "/images/tools/lol-wiki-ss-2.png"
+      "url": "/images/tools/league-of-legends/lol-wiki-ss-2.png"
     }
   ],
   "videos": [],

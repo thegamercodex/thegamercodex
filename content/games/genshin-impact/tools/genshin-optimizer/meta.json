@@ -35,13 +35,13 @@
   "essential": true,
   "difficulty": "intermediate",
   "lastVerified": "2026-04-30",
-  "logo": "/images/tools/genshin-optimizer-logo.png",
+  "logo": "/images/tools/genshin-impact/genshin-optimizer-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/genshin-optimizer-ss-1.png"
+      "url": "/images/tools/genshin-impact/genshin-optimizer-ss-1.png"
     },
     {
-      "url": "/images/tools/genshin-optimizer-ss-2.png"
+      "url": "/images/tools/genshin-impact/genshin-optimizer-ss-2.png"
     }
   ],
   "videos": [],

@@ -36,13 +36,13 @@
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/u-gg-logo.png",
+  "logo": "/images/tools/league-of-legends/u-gg-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/u-gg-ss-1.png"
+      "url": "/images/tools/league-of-legends/u-gg-ss-1.png"
     },
     {
-      "url": "/images/tools/u-gg-ss-2.png"
+      "url": "/images/tools/league-of-legends/u-gg-ss-2.png"
     }
   ],
   "videos": [],

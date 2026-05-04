@@ -33,13 +33,13 @@
   "essential": false,
   "difficulty": "advanced",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/gcsim-logo.png",
+  "logo": "/images/tools/genshin-impact/gcsim-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/gcsim-ss-1.png"
+      "url": "/images/tools/genshin-impact/gcsim-ss-1.png"
     },
     {
-      "url": "/images/tools/gcsim-ss-2.png"
+      "url": "/images/tools/genshin-impact/gcsim-ss-2.png"
     }
   ],
   "videos": [],

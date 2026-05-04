@@ -28,13 +28,13 @@
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/wowanalyzer-logo.png",
+  "logo": "/images/tools/world-of-warcraft/wowanalyzer-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/wowanalyzer-ss-1.png"
+      "url": "/images/tools/world-of-warcraft/wowanalyzer-ss-1.png"
     },
     {
-      "url": "/images/tools/wowanalyzer-ss-2.png"
+      "url": "/images/tools/world-of-warcraft/wowanalyzer-ss-2.png"
     }
   ],
   "videos": [],

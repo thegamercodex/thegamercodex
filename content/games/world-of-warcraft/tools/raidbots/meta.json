@@ -28,13 +28,13 @@
   "essential": true,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/raidbots-logo.png",
+  "logo": "/images/tools/world-of-warcraft/raidbots-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/raidbots-ss-1.png"
+      "url": "/images/tools/world-of-warcraft/raidbots-ss-1.png"
     },
     {
-      "url": "/images/tools/raidbots-ss-2.png"
+      "url": "/images/tools/world-of-warcraft/raidbots-ss-2.png"
     }
   ],
   "videos": [],

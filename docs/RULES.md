@@ -51,13 +51,14 @@ Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas está
 | Game logo | `public/images/games/<game-id>-logo.<ext>` | `path-of-exile-logo.png` |
 | Creator avatar | `public/images/creators/<creator-id>-avatar.<ext>` | `zizaran-avatar.jpg` |
 | Creator banner | `public/images/creators/<creator-id>-banner.<ext>` | `zizaran-banner.jpg` |
-| Tool logo | `public/images/tools/<tool-id>-logo.<ext>` | `maxroll-logo.png` |
-| Tool screenshot | `public/images/tools/<tool-id>-ss-<N>.<ext>` | `path-of-building-ss-1.png` |
+| Tool logo | `public/images/tools/<game-id>/<tool-id>-logo.<ext>` | `path-of-exile/maxroll-logo.png` |
+| Tool screenshot | `public/images/tools/<game-id>/<tool-id>-ss-<N>.<ext>` | `path-of-exile/path-of-building-ss-1.png` |
 
 **Reglas**:
 
-- Asume **ids únicos globalmente** (entre juegos, entre creators, entre tools). Si en el futuro hubiera colisión, agregar prefijo de juego al asset.
-- Tools multi-game (ej. Maxroll) reusan el mismo `<tool-id>-logo.<ext>` desde cualquier juego donde aparezcan.
+- Las **tool images viven en una subcarpeta por juego** dentro de `public/images/tools/`. La carpeta corresponde al juego donde el tool tiene su entry en `content/games/<game>/tools/<tool>/`. Esto evita que el directorio raíz se llene con cientos de archivos sueltos cuando el codex crezca a 200+ tools.
+- Tool ids son únicos globalmente (entre creators y entre tools), pero al colocarse bajo un game subfolder de assets el riesgo de colisión queda absorbido por el path completo. Si una tool aparece en múltiples juegos vía `multiGame`, los otros games referencian el path de su game primario (no se duplican los archivos).
+- Otros tipos de asset (game hero/logo, creator avatar/banner) **no usan subcarpetas** — viven flat en `games/` y `creators/` respectivamente. La regla de subcarpeta es solo para tools por el volumen alto.
 - Hero del juego **≥1500px de ancho** (cap visual del banner). Imágenes más chicas se ven pixeladas en monitores ultrawide.
 - **Formatos aceptados** (cualquier asset del proyecto: hero, logo, avatar, banner, screenshot): `.png`, `.jpg`, `.svg`, `.webp`. Para hero images preferir `.webp` por peso/calidad. Para logos preferir `.png` o `.svg` con fondo transparente. `.jpg` queda como opción válida cuando solo se tiene fuente JPEG.
 - Si un asset no existe, los componentes hacen fallback automático (initial letter, sección omitida) gracias a `existsSync`. **NO añadir imágenes rotas** a producción.
@@ -66,7 +67,7 @@ Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas está
 **En el `meta.json` el path empieza con `/images/...`** (no `/games/...`). Ejemplos:
 - Game: `"logo": "/images/games/path-of-exile-logo.png"`, `"heroImage": "/images/games/path-of-exile-hero.webp"`
 - Creator: `"avatar": "/images/creators/zizaran-avatar.jpg"`
-- Tool: `"logo": "/images/tools/maxroll-logo.png"`, screenshots: `"url": "/images/tools/maxroll-ss-1.png"` (numerados desde 1, sin captions — el componente derive un alt fallback con el nombre del tool si no hay caption)
+- Tool: `"logo": "/images/tools/path-of-exile/maxroll-logo.png"`, screenshots: `"url": "/images/tools/path-of-exile/maxroll-ss-1.png"` (numerados desde 1, sin captions — el componente derive un alt fallback con el nombre del tool si no hay caption)
 
 ## Lucide icons removidos
 

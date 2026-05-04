@@ -26,13 +26,13 @@
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-04-30",
-  "logo": "/images/tools/appsample-genshin-map-logo.png",
+  "logo": "/images/tools/genshin-impact/appsample-genshin-map-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/appsample-genshin-map-ss-1.png"
+      "url": "/images/tools/genshin-impact/appsample-genshin-map-ss-1.png"
     },
     {
-      "url": "/images/tools/appsample-genshin-map-ss-2.png"
+      "url": "/images/tools/genshin-impact/appsample-genshin-map-ss-2.png"
     }
   ],
   "videos": [],

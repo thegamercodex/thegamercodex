@@ -27,13 +27,13 @@
   "essential": true,
   "difficulty": "intermediate",
   "lastVerified": "2026-04-30",
-  "logo": "/images/tools/poedb-logo.png",
+  "logo": "/images/tools/path-of-exile/poedb-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/poedb-ss-1.png"
+      "url": "/images/tools/path-of-exile/poedb-ss-1.png"
     },
     {
-      "url": "/images/tools/poedb-ss-2.png"
+      "url": "/images/tools/path-of-exile/poedb-ss-2.png"
     }
   ],
   "videos": [],

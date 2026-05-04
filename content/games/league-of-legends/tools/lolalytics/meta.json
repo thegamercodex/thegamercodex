@@ -29,13 +29,13 @@
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/lolalytics-logo.png",
+  "logo": "/images/tools/league-of-legends/lolalytics-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/lolalytics-ss-1.png"
+      "url": "/images/tools/league-of-legends/lolalytics-ss-1.png"
     },
     {
-      "url": "/images/tools/lolalytics-ss-2.png"
+      "url": "/images/tools/league-of-legends/lolalytics-ss-2.png"
     }
   ],
   "videos": [],

@@ -30,13 +30,13 @@
   "essential": true,
   "difficulty": "intermediate",
   "lastVerified": "2026-04-30",
-  "logo": "/images/tools/path-of-building-logo.webp",
+  "logo": "/images/tools/path-of-exile/path-of-building-logo.webp",
   "screenshots": [
     {
-      "url": "/images/tools/path-of-building-ss-1.png"
+      "url": "/images/tools/path-of-exile/path-of-building-ss-1.png"
     },
     {
-      "url": "/images/tools/path-of-building-ss-2.png"
+      "url": "/images/tools/path-of-exile/path-of-building-ss-2.png"
     }
   ],
   "videos": [

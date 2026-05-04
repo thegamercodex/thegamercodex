@@ -29,13 +29,13 @@
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/curseforge-logo.png",
+  "logo": "/images/tools/world-of-warcraft/curseforge-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/curseforge-ss-1.png"
+      "url": "/images/tools/world-of-warcraft/curseforge-ss-1.png"
     },
     {
-      "url": "/images/tools/curseforge-ss-2.png"
+      "url": "/images/tools/world-of-warcraft/curseforge-ss-2.png"
     }
   ],
   "videos": [],

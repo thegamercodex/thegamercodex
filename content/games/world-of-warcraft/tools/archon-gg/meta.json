@@ -27,13 +27,13 @@
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/archon-gg-logo.png",
+  "logo": "/images/tools/world-of-warcraft/archon-gg-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/archon-gg-ss-1.png"
+      "url": "/images/tools/world-of-warcraft/archon-gg-ss-1.png"
     },
     {
-      "url": "/images/tools/archon-gg-ss-2.png"
+      "url": "/images/tools/world-of-warcraft/archon-gg-ss-2.png"
     }
   ],
   "videos": [],

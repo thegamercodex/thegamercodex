@@ -30,13 +30,13 @@
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/leaguepedia-logo.png",
+  "logo": "/images/tools/league-of-legends/leaguepedia-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/leaguepedia-ss-1.png"
+      "url": "/images/tools/league-of-legends/leaguepedia-ss-1.png"
     },
     {
-      "url": "/images/tools/leaguepedia-ss-2.png"
+      "url": "/images/tools/league-of-legends/leaguepedia-ss-2.png"
     }
   ],
   "videos": [],

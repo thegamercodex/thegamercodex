@@ -37,13 +37,13 @@
   "essential": false,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/mobalytics-logo.png",
+  "logo": "/images/tools/league-of-legends/mobalytics-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/mobalytics-ss-1.png"
+      "url": "/images/tools/league-of-legends/mobalytics-ss-1.png"
     },
     {
-      "url": "/images/tools/mobalytics-ss-2.png"
+      "url": "/images/tools/league-of-legends/mobalytics-ss-2.png"
     }
   ],
   "videos": [],

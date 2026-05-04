@@ -31,13 +31,13 @@
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/raider-io-logo.png",
+  "logo": "/images/tools/world-of-warcraft/raider-io-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/raider-io-ss-1.png"
+      "url": "/images/tools/world-of-warcraft/raider-io-ss-1.png"
     },
     {
-      "url": "/images/tools/raider-io-ss-2.png"
+      "url": "/images/tools/world-of-warcraft/raider-io-ss-2.png"
     }
   ],
   "videos": [],

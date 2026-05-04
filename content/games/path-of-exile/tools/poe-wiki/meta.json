@@ -31,13 +31,13 @@
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/poe-wiki-logo.png",
+  "logo": "/images/tools/path-of-exile/poe-wiki-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/poe-wiki-ss-1.png"
+      "url": "/images/tools/path-of-exile/poe-wiki-ss-1.png"
     },
     {
-      "url": "/images/tools/poe-wiki-ss-2.png"
+      "url": "/images/tools/path-of-exile/poe-wiki-ss-2.png"
     }
   ],
   "videos": [],

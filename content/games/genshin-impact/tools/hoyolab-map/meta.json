@@ -39,13 +39,13 @@
   "essential": true,
   "difficulty": "beginner",
   "lastVerified": "2026-04-30",
-  "logo": "/images/tools/hoyolab-map-logo.png",
+  "logo": "/images/tools/genshin-impact/hoyolab-map-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/hoyolab-map-ss-1.png"
+      "url": "/images/tools/genshin-impact/hoyolab-map-ss-1.png"
     },
     {
-      "url": "/images/tools/hoyolab-map-ss-2.png"
+      "url": "/images/tools/genshin-impact/hoyolab-map-ss-2.png"
     }
   ],
   "videos": [],

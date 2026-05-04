@@ -31,13 +31,13 @@
   "essential": true,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/warcraft-logs-logo.png",
+  "logo": "/images/tools/world-of-warcraft/warcraft-logs-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/warcraft-logs-ss-1.png"
+      "url": "/images/tools/world-of-warcraft/warcraft-logs-ss-1.png"
     },
     {
-      "url": "/images/tools/warcraft-logs-ss-2.png"
+      "url": "/images/tools/world-of-warcraft/warcraft-logs-ss-2.png"
     }
   ],
   "videos": [],

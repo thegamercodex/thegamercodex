@@ -159,3 +159,21 @@ Migración: si aplica, cómo migrar contenido existente al nuevo schema.
 - `docs/RULES.md`, `CLAUDE.md` — docs sincronizadas con el nuevo patrón
 
 **Migración**: ya hecha en 2026-05-04 con script Python que iteró sobre los 76 metas. 150 screenshots renombrados, 0 captions retenidas. Para nuevos screenshots, simplemente subir como `<tool-id>-ss-N.<ext>` y agregar la URL en `meta.json` sin caption.
+
+### 2026-05-04 - Tool images: subcarpeta por juego
+
+**Cambio**: las imágenes de tools (`logo` + `screenshots`) ahora viven en `public/images/tools/<game-id>/<tool-id>-...<ext>` en lugar del flat `public/images/tools/<tool-id>-...<ext>`.
+
+**Razón**: con 76 tools curadas, cada una con 1 logo + 1-2 screenshots, el directorio `public/images/tools/` iba a acumular 200+ archivos sueltos cuando subiéramos los assets de los 5 first games. Buscar y mantener cualquier asset específico se vuelve impractical, y el listing del directorio en cualquier file explorer queda saturado.
+
+La subcarpeta por juego mantiene la misma flat-structure simple dentro de cada juego (no hay nested deeper) pero rompe la lista en chunks manejables: típicamente 15-20 tools por juego. Dado que los tool ids son únicos a través del codex, el path completo (`<game>/<tool-id>-...`) sigue siendo determinístico.
+
+**Archivos afectados**:
+- `content/games/*/tools/*/meta.json` — los 76 tool meta.json: `logo` y cada `screenshots[].url` actualizados con prefijo `<game-id>/`
+- `public/images/tools/` — todas las imágenes existentes (33 archivos al momento del cambio, todas de PoE) movidas a `public/images/tools/path-of-exile/`
+- `docs/RULES.md` — tabla de assets actualizada
+- `CLAUDE.md` — ejemplo de tree actualizado
+
+**Migración**: ya hecha en 2026-05-04 con script Python. Para subir nuevos assets: crear la carpeta `public/images/tools/<game>/` si no existe, y guardar el archivo dentro. El path en `meta.json` debe matchear (`/images/tools/<game>/<tool-id>-logo.<ext>`).
+
+**Tools multi-game**: por ahora ningún tool del codex aparece en múltiples carpetas `content/games/`. Si en el futuro un tool multi-game tuviera entries en varias carpetas, los assets viven una sola vez en la carpeta del game primario y los otros games referencian el mismo path absoluto desde su `meta.json`. La nueva estructura no duplica archivos.

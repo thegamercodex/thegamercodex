@@ -40,13 +40,13 @@
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-04-30",
-  "logo": "/images/tools/genshin-wiki-logo.png",
+  "logo": "/images/tools/genshin-impact/genshin-wiki-logo.png",
   "screenshots": [
     {
-      "url": "/images/tools/genshin-wiki-ss-1.png"
+      "url": "/images/tools/genshin-impact/genshin-wiki-ss-1.png"
     },
     {
-      "url": "/images/tools/genshin-wiki-ss-2.png"
+      "url": "/images/tools/genshin-impact/genshin-wiki-ss-2.png"
     }
   ],
   "videos": [],
