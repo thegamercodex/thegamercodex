@@ -31,7 +31,7 @@ Recordatorios cruzados:
 
 ---
 
-## Phase 1A — Investigar y seleccionar tools (target: 15)
+## Phase 1A — Investigar y seleccionar tools (shortlist: ~20 → final: 15)
 
 **Antes de tocar el meta.json del juego**, definir qué tools cubren el ecosistema. Las `toolCategories` del game meta se derivan de qué tools existen, no al revés.
 
@@ -44,12 +44,14 @@ Recordatorios cruzados:
 
 ### Workflow
 
-1. Web search por categorías standard (build planners, trade tools, wikis, filters/loot, leveling, crafting, economy trackers, atlas/endgame planners, official discord, community discord/hub).
+1. Web search por categorías standard (build planners, trade tools, wikis, filters/loot, leveling, crafting, economy trackers, atlas/endgame planners, official discord, community discord/hub). **Armá una shortlist de ~20 candidatos** — sobre-investigar acá ahorra trabajo después: las tools que fallen verificación se reemplazan desde el buffer en lugar de mandar a buscar nuevas en mitad de Phase 1C.
 2. Para cada candidato, verificá:
-   - URL accessible
-   - GitHub si aplica (último commit < 90 días para tools open-source en juegos vivos)
-   - Soporte específico al juego (no asumir; muchas tools dicen "PoE 2" pero son PoE 1 con redirect)
-3. Si después de research honesto no llegás a 15, **cerrá con las que pasen el filtro de calidad**. Mejor 11 sólidas que 15 con relleno.
+   - URL accessible (curl HEAD; un 403 de Cloudflare no descalifica si el sitio carga en browser).
+   - GitHub si aplica (último commit < 90 días para tools open-source en juegos vivos).
+   - Soporte específico al juego (no asumir; muchas tools dicen "PoE 2" pero son PoE 1 con redirect).
+   - El proyecto sigue activo: dominio vigente, no abandonado, no hijacked.
+3. **Apuntá a 15 tools finales**. Si una falla verificación, reemplazala con la siguiente del buffer de ~20. La idea es que la shortlist amortigüe el desgaste sin que tengas que abrir una segunda ronda de research.
+4. Si después del filtro honesto el ecosistema real **no da para 15** (juegos pequeños, comunidades nicho), **cerrá con las que pasen el filtro de calidad** — no rellenes con tools mediocres solo para llegar al número. Mejor 11 sólidas que 15 con relleno.
 
 ### Categorías típicas (variar según género)
 
@@ -64,7 +66,7 @@ Mirá `content/games/<existing-game>/meta.json` del juego más cercano editorial
 
 ### Output del Phase 1A
 
-Una lista final de 10-15 tools con: `id` (kebab-case), categoría asignada, `type`, `essential` flag, `multiGame` info si aplica.
+Una lista final de hasta 15 tools (idealmente 15; menos si el ecosistema honestamente no da más) con: `id` (kebab-case), categoría asignada, `type`, `essential` flag, `multiGame` info si aplica. Mantené la shortlist completa de ~20 a mano hasta que termines Phase 1C — sirve de buffer si una tool falla mientras la estás escribiendo.
 
 **No crear archivos todavía.** Phase 1B usa esa lista para derivar `toolCategories`.
 
