@@ -1,0 +1,52 @@
+{
+  "id": "kackis-hd",
+  "name": "KackisHD",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@KackisHD",
+      "url": "https://www.youtube.com/@KackisHD",
+      "channelId": "UCLM1eE8w_DZ89n4yIxVbffA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "kackishd",
+      "url": "https://www.twitch.tv/kackishd"
+    },
+    {
+      "type": "twitter",
+      "handle": "@KackisHD",
+      "url": "https://twitter.com/KackisHD"
+    }
+  ],
+  "specialties": [
+    "news",
+    "weekly-reset",
+    "xur-coverage",
+    "weapon-meta",
+    "patch-notes"
+  ],
+  "games": ["destiny-2"],
+  "contentTypes": ["videos", "news", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Uno de los creators más activos de Destiny 2 con cadencia casi diaria. Su contenido se centra en news del juego, weekly reset coverage, Xur reviews y reactions a patch notes. Si querés mantenerte al día con cada cambio en el juego sin invertir tiempo en buscar fuentes, KackisHD es una de las opciones más cómodas — sus videos son cortos, frequentes y enfocados en 'qué pasó esta semana'.",
+  "noteEn": "One of Destiny 2's most active creators with nearly daily cadence. His content centers on game news, weekly reset coverage, Xur reviews, and patch note reactions. If you want to stay current on every change in the game without investing time hunting for sources, KackisHD is one of the most comfortable options — his videos are short, frequent, and focused on 'what happened this week'.",
+  "highlightsEs": [
+    "Weekly reset coverage cada martes con god rolls farmeables",
+    "Xur reviews los viernes con análisis del inventory",
+    "Reactions a patch notes y leaks dentro de horas",
+    "Cobertura news de cada anuncio de Bungie"
+  ],
+  "highlightsEn": [
+    "Weekly reset coverage every Tuesday with farmable god rolls",
+    "Xur reviews on Fridays with inventory analysis",
+    "Patch note and leak reactions within hours",
+    "News coverage of every Bungie announcement"
+  ],
+  "avatar": "/images/creators/kackis-hd-avatar.jpg",
+  "banner": "/images/creators/kackis-hd-banner.jpg"
+}

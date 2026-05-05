@@ -1,0 +1,35 @@
+{
+  "id": "raid-report",
+  "name": "Raid Report",
+  "shortName": "Raid Report",
+  "taglineEs": "Estadísticas detalladas de raids y dungeons completados en Destiny 2",
+  "taglineEn": "Detailed stats for raid and dungeon completions in Destiny 2",
+  "url": "https://raid.report",
+  "category": "player-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "raid-stats",
+    "dungeon-stats",
+    "clears",
+    "sherpa",
+    "fireteam-history",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/destiny-2/raid-report-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["trials-report", "destiny-tracker"],
+  "alternatives": ["destiny-tracker"],
+  "createdBy": {
+    "name": "Raid Report",
+    "url": "https://raid.report"
+  }
+}

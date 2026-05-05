@@ -1,0 +1,80 @@
+{
+  "category": "build-guides",
+  "resources": [
+    {
+      "id": "plunderthabooty-solar-nuke-warlock",
+      "type": "video",
+      "title": "The Build That Turns You Into A Solar Nuke! Have Fun! [Destiny 2 Warlock Build]",
+      "creator": "Plunderthabooty",
+      "creatorId": "plunderthabooty",
+      "url": "https://www.youtube.com/watch?v=BklAZk_mjvM",
+      "youtubeId": "BklAZk_mjvM",
+      "language": "en",
+      "duration": "10:08",
+      "publishedDate": "2026-04-30",
+      "thumbnail": "https://i.ytimg.com/vi/BklAZk_mjvM/maxresdefault.jpg",
+      "noteEs": "Build de Warlock Solar focada en grenade spam y AoE damage. Synergies validadas en endgame, no theory-craft de YouTube — Plunderthabooty muestra la build funcionando en GM tier.",
+      "noteEn": "Solar Warlock build focused on grenade spam and AoE damage. Synergies validated in endgame, not YouTube theory-craft — Plunderthabooty shows the build working in GM tier."
+    },
+    {
+      "id": "plunderthabooty-hunter-pure-greatness",
+      "type": "video",
+      "title": "A NEW Hunter Build That's Pure Greatness! Enjoy! [Destiny 2 Hunter Build]",
+      "creator": "Plunderthabooty",
+      "creatorId": "plunderthabooty",
+      "url": "https://www.youtube.com/watch?v=Sgb6K5oLuPg",
+      "youtubeId": "Sgb6K5oLuPg",
+      "language": "en",
+      "duration": "9:13",
+      "publishedDate": "2025-12-18",
+      "thumbnail": "https://i.ytimg.com/vi/Sgb6K5oLuPg/maxresdefault.jpg",
+      "noteEs": "Build de Hunter del Renegades episode con synergies cleanly explicadas. Para mainers de Hunter buscando algo distinto al Stasis o Strand standard, alternativa con buen damage profile.",
+      "noteEn": "Hunter build from the Renegades episode with cleanly explained synergies. For Hunter mains looking for something different from standard Stasis or Strand, alternative with a good damage profile."
+    },
+    {
+      "id": "plunderthabooty-titan-storm-build",
+      "type": "video",
+      "title": "The Titan Build That Creates Devastating Storms! It's Awesome! [Destiny 2 Titan Build]",
+      "creator": "Plunderthabooty",
+      "creatorId": "plunderthabooty",
+      "url": "https://www.youtube.com/watch?v=2LLVEwNEk88",
+      "youtubeId": "2LLVEwNEk88",
+      "language": "en",
+      "duration": "8:32",
+      "publishedDate": "2025-12-12",
+      "thumbnail": "https://i.ytimg.com/vi/2LLVEwNEk88/maxresdefault.jpg",
+      "noteEs": "Build de Titan que aprovecha el rework de Arc para crear storms persistentes con buen ad-clear y proc de mods. Para jugadores que quieren un Titan que sea más que el Bonk típico.",
+      "noteEn": "Titan build leveraging the Arc rework to create persistent storms with good ad-clear and mod procs. For players wanting a Titan that's more than the typical Bonk loop."
+    },
+    {
+      "id": "ehroar-uncivil-discourse-dps-monster",
+      "type": "video",
+      "title": "This Build Turns Uncivil Discourse Into a DPS Monster!",
+      "creator": "Ehroar",
+      "creatorId": "ehroar",
+      "url": "https://www.youtube.com/watch?v=vnB_VlxtWxM",
+      "youtubeId": "vnB_VlxtWxM",
+      "language": "en",
+      "duration": "9:55",
+      "publishedDate": "2025-12-08",
+      "thumbnail": "https://i.ytimg.com/vi/vnB_VlxtWxM/maxresdefault.jpg",
+      "noteEs": "Spotlight del scout rifle Uncivil Discourse de Renegades con un build dedicado a maximizar DPS. Ehroar prueba la rotation contra raid bosses y compara contra alternativas top-tier.",
+      "noteEn": "Spotlight on the Renegades scout rifle Uncivil Discourse with a build dedicated to maximizing DPS. Ehroar tests the rotation against raid bosses and compares to top-tier alternatives."
+    },
+    {
+      "id": "ehroar-winters-guile-best-melee-renegades",
+      "type": "video",
+      "title": "Winter's Guile is Now the BEST Melee Build in Renegades...",
+      "creator": "Ehroar",
+      "creatorId": "ehroar",
+      "url": "https://www.youtube.com/watch?v=1nc3AyzFjJc",
+      "youtubeId": "1nc3AyzFjJc",
+      "language": "en",
+      "duration": "8:27",
+      "publishedDate": "2025-12-06",
+      "thumbnail": "https://i.ytimg.com/vi/1nc3AyzFjJc/maxresdefault.jpg",
+      "noteEs": "Reactivación del exotic Winter's Guile en el meta de Renegades. Ehroar muestra la build completa con synergies de mods y gameplay en endgame. Útil para Warlocks buscando alternativa melee viable.",
+      "noteEn": "Reactivation of the Winter's Guile exotic in the Renegades meta. Ehroar shows the full build with mod synergies and endgame gameplay. Useful for Warlocks looking for a viable melee alternative."
+    }
+  ]
+}

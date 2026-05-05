@@ -1,0 +1,142 @@
+{
+  "id": "destiny-2",
+  "name": "Destiny 2",
+  "shortName": "D2",
+  "developer": "Bungie",
+  "releaseYear": 2017,
+  "officialUrl": "https://www.bungie.net/7/en/Destiny",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/1085660/Destiny_2/",
+      "appId": "1085660",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "epic",
+      "url": "https://store.epicgames.com/en-US/p/destiny-2",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10000379",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/store/destiny-2/BSDQXFGZL19V",
+      "model": "free-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "free-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["expansions", "season-pass", "cosmetic", "dungeon-keys", "silver-currency"],
+    "payToWin": false,
+    "noteEs": "Free-to-play desde 2019 con New Light: el core game es gratis pero las expansiones, episodios y dungeon keys se compran aparte. Las microtransacciones son cosméticas (Eververse) o quality-of-life (silver para seasonal pass tiers). Sin ventaja de poder comprable, pero el contenido endgame relevante vive detrás del paywall de la expansión vigente.",
+    "noteEn": "Free-to-play since 2019 with New Light: the core game is free but expansions, episodes and dungeon keys are sold separately. Microtransactions are cosmetic (Eververse) or quality-of-life (silver for seasonal pass tiers). No buyable power advantage, but relevant endgame content sits behind the current expansion's paywall."
+  },
+  "platforms": ["windows", "playstation", "xbox"],
+  "genres": ["looter-shooter", "mmo", "fps", "online"],
+  "theme": {
+    "primary": "#c9a961",
+    "secondary": "#131927",
+    "accent": "#e8b04f",
+    "background": "#0b0e1a",
+    "text": "#ebe5d6"
+  },
+  "logo": "/images/games/destiny-2-logo.png",
+  "heroImage": "/images/games/destiny-2-hero.webp",
+  "toolCategories": [
+    {
+      "id": "loadout-planning",
+      "nameEs": "Loadouts e Inventario",
+      "nameEn": "Loadouts & Inventory",
+      "descriptionEs": "Gestión de vault, transferencia entre personajes y armado de loadouts",
+      "descriptionEn": "Vault management, cross-character transfers, and loadout building",
+      "icon": "🎒"
+    },
+    {
+      "id": "weapon-stats",
+      "nameEs": "Estadísticas de Armas",
+      "nameEn": "Weapon Stats",
+      "descriptionEs": "Bases de datos de perks, god rolls y simuladores de daño y TTK",
+      "descriptionEn": "Perk databases, god rolls, and damage / TTK simulators",
+      "icon": "🔫"
+    },
+    {
+      "id": "player-tracking",
+      "nameEs": "Estadísticas de Jugador",
+      "nameEn": "Player Tracking",
+      "descriptionEs": "Historial de actividades, raid clears, K/D y reportes PvP",
+      "descriptionEn": "Activity history, raid clears, K/D, and PvP reports",
+      "icon": "📈"
+    },
+    {
+      "id": "progression-tracking",
+      "nameEs": "Tracking Semanal",
+      "nameEn": "Weekly Tracking",
+      "descriptionEs": "Bounties, triumphs, vendors, títulos y dónde está Xur cada fin de semana",
+      "descriptionEn": "Bounties, triumphs, vendors, titles, and where Xur is each weekend",
+      "icon": "✅"
+    },
+    {
+      "id": "lfg",
+      "nameEs": "Looking for Group",
+      "nameEn": "Looking for Group",
+      "descriptionEs": "Plataformas para armar fireteam de raids, dungeons y endgame",
+      "descriptionEn": "Platforms to assemble fireteams for raids, dungeons, and endgame",
+      "icon": "🤝"
+    },
+    {
+      "id": "lore",
+      "nameEs": "Lore y Referencia",
+      "nameEn": "Lore & Reference",
+      "descriptionEs": "Bases de datos de lore, cards, transcripciones y archivos del universo",
+      "descriptionEn": "Lore databases, cards, transcripts, and universe archives",
+      "icon": "📖"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para Guardianes nuevos o que vuelven",
+      "descriptionEn": "Essential resources for new or returning Guardians",
+      "icon": "🌱"
+    },
+    {
+      "id": "season-overviews",
+      "nameEs": "Episodio Actual",
+      "nameEn": "Current Episode",
+      "descriptionEs": "Cobertura del episodio o expansión vigente: actividades, loot pool, meta",
+      "descriptionEn": "Coverage of the current episode or expansion: activities, loot pool, meta",
+      "icon": "📰"
+    },
+    {
+      "id": "build-guides",
+      "nameEs": "Guías de Builds",
+      "nameEn": "Build Guides",
+      "descriptionEs": "Loadouts y builds destacadas por subclase y arquetipo",
+      "descriptionEn": "Standout loadouts and builds by subclass and archetype",
+      "icon": "🛡️"
+    },
+    {
+      "id": "raid-guides",
+      "nameEs": "Guías de Raids",
+      "nameEn": "Raid Guides",
+      "descriptionEs": "Walkthroughs de raids y dungeons del endgame PvE",
+      "descriptionEn": "Walkthroughs for raids and endgame PvE dungeons",
+      "icon": "👹"
+    },
+    {
+      "id": "pvp-guides",
+      "nameEs": "Guías de PvP",
+      "nameEn": "PvP Guides",
+      "descriptionEs": "Coaching de Crucible y Trials of Osiris: posicionamiento, armas y mapas",
+      "descriptionEn": "Crucible and Trials of Osiris coaching: positioning, weapons, and maps",
+      "icon": "⚔️"
+    }
+  ]
+}

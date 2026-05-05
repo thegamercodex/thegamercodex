@@ -1,0 +1,36 @@
+{
+  "id": "braytech",
+  "name": "Braytech",
+  "shortName": "Braytech",
+  "taglineEs": "Tracker open-source de bounties, triumphs y vendor checklists para Destiny 2",
+  "taglineEn": "Open-source tracker for Destiny 2 bounties, triumphs, and vendor checklists",
+  "url": "https://bray.tech",
+  "category": "progression-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/justrealmilk/braytech",
+  "license": "GPL-3.0",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "bounty-tracker",
+    "triumph-tracker",
+    "vendor-checklist",
+    "checklist",
+    "collections"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/destiny-2/braytech-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["d2-checklist", "destiny-recipes"],
+  "alternatives": ["d2-checklist"],
+  "createdBy": {
+    "name": "Tom Chapman",
+    "url": "https://github.com/justrealmilk"
+  }
+}

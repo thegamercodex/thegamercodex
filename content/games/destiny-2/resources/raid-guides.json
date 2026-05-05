@@ -1,0 +1,80 @@
+{
+  "category": "raid-guides",
+  "resources": [
+    {
+      "id": "cketch-desert-perpetual-epic-guide",
+      "type": "video",
+      "title": "EPIC DESERT PERPETUAL GUIDE // 12-Minute Complete Epic Raid Walkthrough",
+      "creator": "Cketch",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=fI_rdYPhAgs",
+      "youtubeId": "fI_rdYPhAgs",
+      "language": "en",
+      "duration": "12:36",
+      "publishedDate": "2025-09-30",
+      "thumbnail": "https://i.ytimg.com/vi/fI_rdYPhAgs/maxresdefault.jpg",
+      "noteEs": "El walkthrough condensado por excelencia para Desert Perpetual epic. Cketch es conocido por guías sin filler — todo lo necesario para completar la raid en 12 minutos. Ideal para refresh antes de un run.",
+      "noteEn": "The quintessential condensed walkthrough for Desert Perpetual epic. Cketch is known for filler-free guides — everything needed to complete the raid in 12 minutes. Ideal for a refresh before a run."
+    },
+    {
+      "id": "kackis-hd-desert-perpetual-for-dummies",
+      "type": "video",
+      "title": "Destiny 2: DESERT PERPETUAL RAID FOR DUMMIES! - Complete Raid Guide & Walkthrough!",
+      "creator": "KackisHD",
+      "creatorId": "kackis-hd",
+      "url": "https://www.youtube.com/watch?v=Xx296jTz6ek",
+      "youtubeId": "Xx296jTz6ek",
+      "language": "en",
+      "duration": "1:00:18",
+      "publishedDate": "2025-07-20",
+      "thumbnail": "https://i.ytimg.com/vi/Xx296jTz6ek/maxresdefault.jpg",
+      "noteEs": "Versión exhaustiva del Desert Perpetual: 1 hora desglosando cada encounter con teaching tone. Para sherpas que llevan first-timers o jugadores que prefieren entender mecánicas en profundidad antes de joinear LFG.",
+      "noteEn": "The exhaustive Desert Perpetual version: 1 hour breaking down each encounter with a teaching tone. For sherpas leading first-timers or players who prefer to understand mechanics deeply before joining LFG."
+    },
+    {
+      "id": "fallout-plays-desert-perpetual-complete",
+      "type": "video",
+      "title": "Destiny 2: Complete DESERT PERPETUAL Raid Guide!",
+      "creator": "Fallout Plays",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=2LvotE_OjfI",
+      "youtubeId": "2LvotE_OjfI",
+      "language": "en",
+      "duration": "37:58",
+      "publishedDate": "2025-07-22",
+      "thumbnail": "https://i.ytimg.com/vi/2LvotE_OjfI/maxresdefault.jpg",
+      "noteEs": "Tercera perspectiva del Desert Perpetual con duración intermedia (~38 min). Fallout Plays usa visuals on-screen muy claros — útil para jugadores que aprenden mejor con annotations que solo voiceover.",
+      "noteEn": "Third take on Desert Perpetual at an intermediate length (~38 min). Fallout Plays uses very clear on-screen visuals — useful for players who learn better with annotations than voiceover alone."
+    },
+    {
+      "id": "datto-vespers-host-complete-guide",
+      "type": "video",
+      "title": "The Complete Vesper's Host Dungeon Guide",
+      "creator": "Datto",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=fPkbyAlidU8",
+      "youtubeId": "fPkbyAlidU8",
+      "language": "en",
+      "duration": "18:13",
+      "publishedDate": "2024-10-16",
+      "thumbnail": "https://i.ytimg.com/vi/fPkbyAlidU8/maxresdefault.jpg",
+      "noteEs": "Para el dungeon Vesper's Host (Icebreaker source). Datto explica encounter por encounter con tono editorial sobrio. Sigue siendo content vigente porque Vesper's Host está en rotation activa y es chase favorito por Icebreaker.",
+      "noteEn": "For the Vesper's Host dungeon (Icebreaker source). Datto explains encounter by encounter with a sober editorial tone. Still current content since Vesper's Host is in active rotation and a popular Icebreaker chase."
+    },
+    {
+      "id": "tiggle-vespers-host-easy-solo",
+      "type": "video",
+      "title": "Vesper's Host Made EASY! (Vesper's Host Guide, Solo Friendly)",
+      "creator": "Tiggle",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=nBOrEQIBJos",
+      "youtubeId": "nBOrEQIBJos",
+      "language": "en",
+      "duration": "23:21",
+      "publishedDate": "2024-10-16",
+      "thumbnail": "https://i.ytimg.com/vi/nBOrEQIBJos/maxresdefault.jpg",
+      "noteEs": "Vesper's Host enfocado en solo flawless o low-man. Para jugadores chasing seal Flawless o solo runs, esta guía cubre estrategias específicas que un walkthrough fireteam no menciona.",
+      "noteEn": "Vesper's Host focused on solo flawless or low-man. For players chasing the Flawless seal or solo runs, this guide covers specific strategies a fireteam walkthrough doesn't mention."
+    }
+  ]
+}

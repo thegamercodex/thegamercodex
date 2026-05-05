@@ -1,0 +1,36 @@
+{
+  "id": "d2-checklist",
+  "name": "D2 Checklist",
+  "shortName": "D2 Checklist",
+  "taglineEs": "Auditor exhaustivo de checklists semanales y progresión de Destiny 2",
+  "taglineEn": "Exhaustive auditor for Destiny 2 weekly checklists and progression",
+  "url": "https://www.d2checklist.com",
+  "category": "progression-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/jgcoroneo/d2checklist",
+  "license": "MIT",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "weekly-checklist",
+    "milestones",
+    "progression",
+    "char-summary",
+    "completionist"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/destiny-2/d2-checklist-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["braytech", "destiny-recipes"],
+  "alternatives": ["braytech"],
+  "createdBy": {
+    "name": "jgcoroneo",
+    "url": "https://github.com/jgcoroneo"
+  }
+}

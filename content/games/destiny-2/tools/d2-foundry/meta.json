@@ -1,0 +1,35 @@
+{
+  "id": "d2-foundry",
+  "name": "D2 Foundry",
+  "shortName": "D2 Foundry",
+  "taglineEs": "Simulador de daño y TTK para armas de Destiny 2 con cálculos transparentes",
+  "taglineEn": "Damage and TTK simulator for Destiny 2 weapons with transparent math",
+  "url": "https://d2foundry.gg",
+  "category": "weapon-stats",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/clarkperkins/d2-foundry",
+  "license": "MIT",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "damage-calculator",
+    "ttk",
+    "weapon-comparison",
+    "simulator"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/destiny-2/d2-foundry-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["light-gg", "dim"],
+  "alternatives": ["light-gg"],
+  "createdBy": {
+    "name": "Clark Perkins",
+    "url": "https://github.com/clarkperkins"
+  }
+}

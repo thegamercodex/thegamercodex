@@ -1,0 +1,34 @@
+{
+  "id": "trials-report",
+  "name": "Trials Report",
+  "shortName": "Trials Report",
+  "taglineEs": "Stats de Trials of Osiris y matchup analysis para PvP competitivo en Destiny 2",
+  "taglineEn": "Trials of Osiris stats and matchup analysis for competitive PvP in Destiny 2",
+  "url": "https://trials.report",
+  "category": "player-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "trials",
+    "pvp-stats",
+    "matchup",
+    "fireteam-analysis",
+    "flawless"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/destiny-2/trials-report-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["raid-report", "destiny-tracker"],
+  "alternatives": ["destiny-tracker"],
+  "createdBy": {
+    "name": "Trials Report",
+    "url": "https://trials.report"
+  }
+}

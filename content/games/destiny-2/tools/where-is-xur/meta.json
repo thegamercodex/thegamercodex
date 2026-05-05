@@ -1,0 +1,33 @@
+{
+  "id": "where-is-xur",
+  "name": "Where Is Xur",
+  "shortName": "Where Is Xur",
+  "taglineEs": "Localización e inventario semanal de Xur, el vendor de exotics de Destiny 2",
+  "taglineEn": "Weekly location and inventory of Xur, Destiny 2's exotic vendor",
+  "url": "https://whereisxur.com",
+  "category": "progression-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "xur",
+    "exotic-vendor",
+    "weekly-rotation",
+    "fashion"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/destiny-2/where-is-xur-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["braytech", "d2-checklist"],
+  "alternatives": ["braytech"],
+  "createdBy": {
+    "name": "Where Is Xur",
+    "url": "https://whereisxur.com"
+  }
+}

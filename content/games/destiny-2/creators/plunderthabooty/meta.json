@@ -1,0 +1,52 @@
+{
+  "id": "plunderthabooty",
+  "name": "Plunderthabooty",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Plunderthabooty",
+      "url": "https://www.youtube.com/@Plunderthabooty",
+      "channelId": "UCIyCSH_pqV_wOzVYm8s9Hkw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "plunderthabooty",
+      "url": "https://www.twitch.tv/plunderthabooty"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Plunderthabooty",
+      "url": "https://twitter.com/Plunderthabooty"
+    }
+  ],
+  "specialties": [
+    "build-crafting",
+    "subclass-builds",
+    "endgame-pve",
+    "grandmaster-tier",
+    "synergy-design"
+  ],
+  "games": ["destiny-2"],
+  "contentTypes": ["videos", "build-guides", "live-streams"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Buildmaker dedicado a Destiny 2 con foco en builds que funcionan en endgame real (Grandmaster, raids, dungeons). Su biblioteca cubre las tres clases con cadencia regular — Hunter, Titan, Warlock — y diseña synergies específicas en lugar de presets genéricos. Para players intermedios o avanzados que quieren copiar una build con confianza de que va a sobrevivir endgame, es una de las fuentes más reliable.",
+  "noteEn": "Build maker dedicated to Destiny 2 focused on builds that work in real endgame (Grandmaster, raids, dungeons). His library covers all three classes regularly — Hunter, Titan, Warlock — and designs specific synergies rather than generic presets. For intermediate or advanced players who want to copy a build with confidence it'll survive endgame, he's one of the most reliable sources.",
+  "highlightsEs": [
+    "Build guides para Hunter, Titan, Warlock con synergies probadas",
+    "Cobertura de cada subclase con builds optimizadas para endgame",
+    "Showcases de builds en Grandmaster y contest mode",
+    "Updates frecuentes cuando un nuevo exotic o aspect cambia el meta"
+  ],
+  "highlightsEn": [
+    "Build guides for Hunter, Titan, Warlock with proven synergies",
+    "Coverage of each subclass with builds optimized for endgame",
+    "Build showcases in Grandmaster and contest mode",
+    "Frequent updates when a new exotic or aspect shifts the meta"
+  ],
+  "avatar": "/images/creators/plunderthabooty-avatar.jpg",
+  "banner": "/images/creators/plunderthabooty-banner.jpg"
+}

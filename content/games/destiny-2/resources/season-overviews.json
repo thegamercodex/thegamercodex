@@ -1,0 +1,80 @@
+{
+  "category": "season-overviews",
+  "resources": [
+    {
+      "id": "kackis-hd-weekly-reset-may-5-2026",
+      "type": "video",
+      "title": "WOW! ANOTHER GOD ROLL WEAPON You Can Only Get THIS WEEK! | Destiny 2 Weekly Reset",
+      "creator": "KackisHD",
+      "creatorId": "kackis-hd",
+      "url": "https://www.youtube.com/watch?v=Utg6TlUGNpM",
+      "youtubeId": "Utg6TlUGNpM",
+      "language": "en",
+      "duration": "11:42",
+      "publishedDate": "2026-05-05",
+      "thumbnail": "https://i.ytimg.com/vi/Utg6TlUGNpM/maxresdefault.jpg",
+      "noteEs": "Cobertura completa del weekly reset: god rolls farmeables esta semana, milestones que rotan, recomendaciones de prioridad. Formato consistente — si tenés tiempo limitado, esto te dice qué hacer.",
+      "noteEn": "Full weekly reset coverage: farmable god rolls this week, rotating milestones, priority recommendations. Consistent format — if you have limited time, this tells you what to do."
+    },
+    {
+      "id": "xhoundishx-new-update-may-5-patch-notes",
+      "type": "video",
+      "title": "Destiny 2: NEW UPDATE TODAY & EVERVERSE LOOT! D2 Patch Notes, Reset Boost, Vendors (5th May)",
+      "creator": "xHOUNDISHx",
+      "creatorId": "xhoundishx",
+      "url": "https://www.youtube.com/watch?v=nG3grWBeMWw",
+      "youtubeId": "nG3grWBeMWw",
+      "language": "en",
+      "duration": "8:07",
+      "publishedDate": "2026-05-05",
+      "thumbnail": "https://i.ytimg.com/vi/nG3grWBeMWw/maxresdefault.jpg",
+      "noteEs": "Patch notes del update del 5 de mayo desglosados con context: qué cambió en sistemas, Eververse rotation, vendor refresh. Útil para mantenerse al día sin leer notas oficiales largas.",
+      "noteEn": "May 5 update patch notes broken down with context: what changed in systems, Eververse rotation, vendor refresh. Useful for staying current without reading the long official notes."
+    },
+    {
+      "id": "kackis-hd-xur-review-may-1-4",
+      "type": "video",
+      "title": "Destiny 2: THIS GEAR IS SO INCREDIBLY... MID... - Xur Review (May 1 - 4)",
+      "creator": "KackisHD",
+      "creatorId": "kackis-hd",
+      "url": "https://www.youtube.com/watch?v=snCOkPBWM1c",
+      "youtubeId": "snCOkPBWM1c",
+      "language": "en",
+      "duration": "7:34",
+      "publishedDate": "2026-05-01",
+      "thumbnail": "https://i.ytimg.com/vi/snCOkPBWM1c/maxresdefault.jpg",
+      "noteEs": "Xur review honesto del weekend May 1-4: qué trajo, si vale la pena, alternativas. KackisHD no embellece — cuando el inventory es mid lo dice claramente.",
+      "noteEn": "Honest Xur review for the May 1-4 weekend: what he brought, whether it's worth it, alternatives. KackisHD doesn't sugarcoat — when the inventory is mid he says so clearly."
+    },
+    {
+      "id": "xhoundishx-bungie-crafting-upgrade-info",
+      "type": "video",
+      "title": "Bungie Confirm Crafting UPGRADE, Vault Increase, NO Timegating, Content Rework, NEW Info | Destiny 2",
+      "creator": "xHOUNDISHx",
+      "creatorId": "xhoundishx",
+      "url": "https://www.youtube.com/watch?v=p9Pr-l7obUk",
+      "youtubeId": "p9Pr-l7obUk",
+      "language": "en",
+      "duration": "10:05",
+      "publishedDate": "2026-05-02",
+      "thumbnail": "https://i.ytimg.com/vi/p9Pr-l7obUk/maxresdefault.jpg",
+      "noteEs": "Recap de los anuncios de Bungie sobre crafting rework, vault expansion y content updates. Editorial framing sobre qué es promesa concreta y qué necesita seguimiento — pieza clave para entender la dirección del juego.",
+      "noteEn": "Recap of Bungie's announcements on crafting rework, vault expansion, and content updates. Editorial framing on what's a concrete promise vs. what needs follow-up — key piece for understanding the game's direction."
+    },
+    {
+      "id": "kackis-hd-bungie-reveals-more-content",
+      "type": "video",
+      "title": "Bungie Reveals EVEN MORE Content Coming in the Next Update!?",
+      "creator": "KackisHD",
+      "creatorId": "kackis-hd",
+      "url": "https://www.youtube.com/watch?v=AzFfYkAxQNs",
+      "youtubeId": "AzFfYkAxQNs",
+      "language": "en",
+      "duration": "12:10",
+      "publishedDate": "2026-04-30",
+      "thumbnail": "https://i.ytimg.com/vi/AzFfYkAxQNs/maxresdefault.jpg",
+      "noteEs": "Cobertura del unveiling de contenido para el next update. Combina noticias oficiales con leaks comunitarios y context histórico. Útil para anticipar qué viene antes de tomar decisiones de farm o stockpile.",
+      "noteEn": "Coverage of the next update's content unveil. Combines official news with community leaks and historical context. Useful for anticipating what's coming before making farm or stockpile decisions."
+    }
+  ]
+}

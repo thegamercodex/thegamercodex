@@ -1,0 +1,52 @@
+{
+  "id": "cammycakes",
+  "name": "Cammycakes Gaming",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@CammycakesGaming",
+      "url": "https://www.youtube.com/@CammycakesGaming",
+      "channelId": "UCyllVIpaEgBa95OmcLvFa3Q",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "cammycakes",
+      "url": "https://www.twitch.tv/cammycakes"
+    },
+    {
+      "type": "twitter",
+      "handle": "@CammycakesYT",
+      "url": "https://twitter.com/CammycakesYT"
+    }
+  ],
+  "specialties": [
+    "weapon-spotlights",
+    "build-experiments",
+    "patch-analysis",
+    "buildcrafting",
+    "casual-takes"
+  ],
+  "games": ["destiny-2"],
+  "contentTypes": ["videos", "live-streams", "build-guides"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Creator de Destiny 2 con tono editorial relajado y curiosidad sobre buildcrafting experimental. En lugar de tier lists o coverage de news, sus videos exploran ideas — '¿este weapon es secretamente bueno?', '¿esta synergy funciona?', '¿qué pasa si combinamos estas dos cosas raras?'. Para jugadores que ya pasaron de las builds meta y quieren ver experimentos honestos, Cammycakes ofrece esa perspectiva.",
+  "noteEn": "Destiny 2 creator with a relaxed editorial tone and curiosity about experimental buildcrafting. Rather than tier lists or news coverage, his videos explore ideas — 'is this weapon secretly good?', 'does this synergy work?', 'what happens if we combine these two weird things?'. For players past meta builds who want honest experiments, Cammycakes offers that perspective.",
+  "highlightsEs": [
+    "Spotlights de armas underrated con tests in-game",
+    "Experimentos de buildcrafting con synergies inusuales",
+    "Análisis editorial relajado de patches y meta shifts",
+    "Cobertura honesta sobre qué funciona y qué no en endgame real"
+  ],
+  "highlightsEn": [
+    "Spotlights on underrated weapons with in-game tests",
+    "Buildcrafting experiments with unusual synergies",
+    "Relaxed editorial analysis of patches and meta shifts",
+    "Honest coverage of what works and doesn't in real endgame"
+  ],
+  "avatar": "/images/creators/cammycakes-avatar.jpg",
+  "banner": "/images/creators/cammycakes-banner.jpg"
+}

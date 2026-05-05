@@ -1,0 +1,35 @@
+{
+  "id": "ishtar-collective",
+  "name": "Ishtar Collective",
+  "shortName": "Ishtar Collective",
+  "taglineEs": "Archivo completo del lore de Destiny 2: cards, transcripciones y context histórico",
+  "taglineEn": "Complete Destiny 2 lore archive: cards, transcripts, and historical context",
+  "url": "https://www.ishtar-collective.net",
+  "category": "lore",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Ishtar-Collective",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "lore",
+    "transcripts",
+    "cards",
+    "history",
+    "encyclopedia"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/destiny-2/ishtar-collective-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Ishtar Collective Team",
+    "url": "https://www.ishtar-collective.net/about"
+  }
+}

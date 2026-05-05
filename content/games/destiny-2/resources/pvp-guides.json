@@ -1,0 +1,80 @@
+{
+  "category": "pvp-guides",
+  "resources": [
+    {
+      "id": "awake-beginners-guide-crucible",
+      "type": "video",
+      "title": "BEGINNER'S GUIDE to the Crucible (Destiny 2 PvP)",
+      "creator": "Awake",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=E4-utQg899k",
+      "youtubeId": "E4-utQg899k",
+      "language": "en",
+      "duration": "11:24",
+      "publishedDate": "2024-06-03",
+      "thumbnail": "https://i.ytimg.com/vi/E4-utQg899k/maxresdefault.jpg",
+      "noteEs": "Onboarding al Crucible para jugadores nuevos en PvP: modos disponibles, weapon archetypes, sensitivity, mentalidad. No hace asumciones sobre experiencia previa — perfecto para PvE players curiosos del PvP.",
+      "noteEn": "Crucible onboarding for new PvP players: available modes, weapon archetypes, sensitivity, mindset. Makes no assumptions about prior experience — perfect for PvE players curious about PvP."
+    },
+    {
+      "id": "aztecross-trials-of-osiris-rework-2025",
+      "type": "video",
+      "title": "How Trials of Osiris Works Now & My Thoughts (Trials Rework) | Destiny 2 Heresy",
+      "creator": "Aztecross",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=gQVcrEwue7s",
+      "youtubeId": "gQVcrEwue7s",
+      "language": "en",
+      "duration": "13:48",
+      "publishedDate": "2025-02-15",
+      "thumbnail": "https://i.ytimg.com/vi/gQVcrEwue7s/maxresdefault.jpg",
+      "noteEs": "Explicación del rework reciente de Trials of Osiris: matchmaking, rewards, passage card, lighthouse access. Aztecross suma editorial framing sobre si los cambios mejoran o no la experiencia competitiva.",
+      "noteEn": "Explanation of the recent Trials of Osiris rework: matchmaking, rewards, passage card, lighthouse access. Aztecross adds editorial framing on whether the changes improve the competitive experience."
+    },
+    {
+      "id": "buincey-martlet-pulse-rifle-crucible",
+      "type": "video",
+      "title": "Why The Martlet Is Taking Over the Crucible | Best PvP Pulse Rifle in Destiny 2 | Renegades",
+      "creator": "Buincey",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=du12Gtqz47E",
+      "youtubeId": "du12Gtqz47E",
+      "language": "en",
+      "duration": "9:25",
+      "publishedDate": "2025-12-31",
+      "thumbnail": "https://i.ytimg.com/vi/du12Gtqz47E/maxresdefault.jpg",
+      "noteEs": "Análisis del pulse rifle The Martlet, central al meta PvP de Renegades. Cubre god roll, range falloff, perks que importan, y cómo se compara con alternativas pulse del momento.",
+      "noteEn": "Analysis of The Martlet pulse rifle, central to Renegades' PvP meta. Covers god roll, range falloff, perks that matter, and how it compares to current pulse alternatives."
+    },
+    {
+      "id": "saywallahbruh-pulse-rifle-meta-too-good",
+      "type": "video",
+      "title": "We're Officially Back To A Pulse Rifle Meta - This Is Way Too Good",
+      "creator": "SayWallahBruh",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=u8RGmCFCQbo",
+      "youtubeId": "u8RGmCFCQbo",
+      "language": "en",
+      "duration": "11:18",
+      "publishedDate": "2025-12-22",
+      "thumbnail": "https://i.ytimg.com/vi/u8RGmCFCQbo/maxresdefault.jpg",
+      "noteEs": "Perspectiva crítica del pulse rifle meta. SayWallahBruh argumenta por qué el shift dominó tan rápido y qué implicaciones tiene para la diversidad de loadouts en Trials. Complemento al spotlight de Buincey.",
+      "noteEn": "Critical take on the pulse rifle meta. SayWallahBruh argues why the shift dominated so fast and what it implies for loadout diversity in Trials. Complements Buincey's spotlight."
+    },
+    {
+      "id": "awake-position-perfectly-pvp-guide",
+      "type": "video",
+      "title": "Position Perfectly in Destiny 2! (PvP Guide)",
+      "creator": "Awake",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=OYGnHZsvft0",
+      "youtubeId": "OYGnHZsvft0",
+      "language": "en",
+      "duration": "9:22",
+      "publishedDate": "2023-09-12",
+      "thumbnail": "https://i.ytimg.com/vi/OYGnHZsvft0/maxresdefault.jpg",
+      "noteEs": "Fundamentos de posicionamiento en Crucible: angles, off-angles, líneas de sight, retreat paths. Es contenido evergreen — los principios no cambian con cada patch y aplican a cualquier modo PvP.",
+      "noteEn": "Crucible positioning fundamentals: angles, off-angles, sight lines, retreat paths. Evergreen content — principles don't change with each patch and apply to any PvP mode."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "light-gg",
+  "name": "light.gg",
+  "shortName": "light.gg",
+  "taglineEs": "Base de datos de armas con god rolls votados por la comunidad de Destiny 2",
+  "taglineEn": "Weapon database with community-voted god rolls for Destiny 2",
+  "url": "https://www.light.gg",
+  "category": "weapon-stats",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "weapon-database",
+    "god-rolls",
+    "perks",
+    "rolls-appraiser",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/destiny-2/light-gg-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["dim", "d2-foundry"],
+  "alternatives": ["d2-foundry"],
+  "createdBy": {
+    "name": "light.gg",
+    "url": "https://www.light.gg"
+  }
+}

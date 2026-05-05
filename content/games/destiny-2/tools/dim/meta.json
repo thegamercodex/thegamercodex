@@ -1,0 +1,36 @@
+{
+  "id": "dim",
+  "name": "Destiny Item Manager",
+  "shortName": "DIM",
+  "taglineEs": "El gestor de inventario y loadouts de facto para Destiny 2",
+  "taglineEn": "The de facto inventory and loadout manager for Destiny 2",
+  "url": "https://destinyitemmanager.com",
+  "category": "loadout-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/DestinyItemManager/DIM",
+  "license": "MIT",
+  "platforms": ["web", "windows", "macos", "linux", "android", "ios"],
+  "languages": ["en", "es"],
+  "tags": [
+    "vault-management",
+    "loadout-builder",
+    "transfer",
+    "search",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/destiny-2/dim-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["light-gg", "d2-foundry"],
+  "alternatives": ["braytech"],
+  "createdBy": {
+    "name": "DIM Contributors",
+    "url": "https://github.com/DestinyItemManager"
+  }
+}

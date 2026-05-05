@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "ibetonme-returning-destiny-2-2026",
+      "type": "video",
+      "title": "Returning To Destiny 2 In 2026 – What You Actually Need To Know (NO BS)",
+      "creator": "Ibetonme",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=8T1_H-SofHQ",
+      "youtubeId": "8T1_H-SofHQ",
+      "language": "en",
+      "duration": "9:51",
+      "publishedDate": "2026-02-12",
+      "thumbnail": "https://i.ytimg.com/vi/8T1_H-SofHQ/maxresdefault.jpg",
+      "noteEs": "Resumen denso y sin filler para Guardianes que vuelven después de meses o años: qué expansión está vigente, qué cambió en sistemas core, qué hacer en las primeras sesiones. Ritmo de 10 minutos respeta el tiempo del jugador.",
+      "noteEn": "Dense, no-filler summary for Guardians returning after months or years: what expansion is current, what changed in core systems, what to do in the first sessions. The 10-minute pace respects the player's time."
+    },
+    {
+      "id": "part-time-guardian-returning-destiny-2-renegades",
+      "type": "video",
+      "title": "Returning to Destiny 2 in 2026? Start Here! Updated for Renegades",
+      "creator": "Part Time Guardian",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Y4q7_PsRj7Q",
+      "youtubeId": "Y4q7_PsRj7Q",
+      "language": "en",
+      "duration": "30:07",
+      "publishedDate": "2025-12-20",
+      "thumbnail": "https://i.ytimg.com/vi/Y4q7_PsRj7Q/maxresdefault.jpg",
+      "noteEs": "La versión larga y exhaustiva del returning-player guide. 30 minutos cubriendo cambios desde Final Shape, sistemas de Renegades, planning de progression. Para jugadores que prefieren entender todo antes de entrar.",
+      "noteEn": "The long, exhaustive returning-player guide. 30 minutes covering changes since Final Shape, Renegades systems, progression planning. For players who prefer to understand everything before jumping in."
+    },
+    {
+      "id": "luminate-how-to-start-destiny-2-renegades",
+      "type": "video",
+      "title": "How I Would Start (Or Return To) Destiny 2 Renegades in less than 5 Minutes",
+      "creator": "Luminate",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=9zH1FRtX93c",
+      "youtubeId": "9zH1FRtX93c",
+      "language": "en",
+      "duration": "4:26",
+      "publishedDate": "2026-01-31",
+      "thumbnail": "https://i.ytimg.com/vi/9zH1FRtX93c/maxresdefault.jpg",
+      "noteEs": "El opuesto del video largo: 4 minutos con la ruta más eficiente para arrancar o volver al juego en Renegades. Útil cuando necesitás dirección rápida sin background histórico.",
+      "noteEn": "The opposite of the long-form guide: 4 minutes with the most efficient route to start or return to the game in Renegades. Useful when you need quick direction without historical background."
+    },
+    {
+      "id": "noobmasters-returning-destiny-2-major-changes",
+      "type": "video",
+      "title": "Returning to Destiny? 10 Major Changes | Destiny 2 Renegades",
+      "creator": "NoobMasters (Jug & Cad)",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=x0tnBZRXcnc",
+      "youtubeId": "x0tnBZRXcnc",
+      "language": "en",
+      "duration": "8:06",
+      "publishedDate": "2025-12-08",
+      "thumbnail": "https://i.ytimg.com/vi/x0tnBZRXcnc/maxresdefault.jpg",
+      "noteEs": "Top-10 de cambios concretos desde la última vez que probablemente jugaste: armaduras, perks, mods, economía, dungeons. Formato listicle pero específico, no generalidades.",
+      "noteEn": "Top-10 of concrete changes since you last likely played: armor, perks, mods, economy, dungeons. Listicle format but specific, not generalities."
+    },
+    {
+      "id": "grandpa-casual-gaming-new-to-destiny-2",
+      "type": "video",
+      "title": "New to Destiny 2? This Fixes the Worst Part of Starting Out",
+      "creator": "Grandpa Casual Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=5vCDgHoiZcU",
+      "youtubeId": "5vCDgHoiZcU",
+      "language": "en",
+      "duration": "9:42",
+      "publishedDate": "2025-12-15",
+      "thumbnail": "https://i.ytimg.com/vi/5vCDgHoiZcU/maxresdefault.jpg",
+      "noteEs": "Para jugadores totalmente nuevos (no returning): cómo navegar la avalancha de menus y systems de la primera sesión sin frustrarse. Tono pedagógico paciente, ideal para casual onboarding.",
+      "noteEn": "For totally new players (not returning): how to navigate the menu avalanche and first-session systems without getting frustrated. Patient pedagogical tone, ideal for casual onboarding."
+    }
+  ]
+}

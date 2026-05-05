@@ -1,0 +1,52 @@
+{
+  "id": "ehroar",
+  "name": "Ehroar",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Ehroar",
+      "url": "https://www.youtube.com/@Ehroar",
+      "channelId": "UC06dmFBZtx_GyR4imIZ3uKQ",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "ehroar",
+      "url": "https://www.twitch.tv/ehroar"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Ehroar_",
+      "url": "https://twitter.com/Ehroar_"
+    }
+  ],
+  "specialties": [
+    "build-crafting",
+    "weapon-tier-lists",
+    "endgame-pve",
+    "exotic-spotlight",
+    "patch-meta"
+  ],
+  "games": ["destiny-2"],
+  "contentTypes": ["videos", "live-streams", "build-guides", "tier-lists"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Buildmaker prolífico de Destiny 2 con foco en endgame PvE. Sus builds tienden a optimización pura — DPS rotations precisas para boss damage, sustain builds para GMs, exotic synergies que la comunidad iguala raramente. Cada exotic nuevo del juego suele tener un video dedicado de Ehroar dentro de 48 horas analizando whether vale la pena el chase. Para players que quieren maximizar performance en endgame, es referencia primaria.",
+  "noteEn": "Prolific Destiny 2 buildmaker focused on PvE endgame. His builds tend toward pure optimization — precise DPS rotations for boss damage, sustain builds for GMs, exotic synergies the community rarely matches. Every new exotic in the game usually gets a dedicated Ehroar video within 48 hours analyzing whether it's worth the chase. For players who want to maximize endgame performance, he's a primary reference.",
+  "highlightsEs": [
+    "Build guides optimizadas para boss DPS y endgame PvE",
+    "Spotlights de exotics nuevos con análisis de viabilidad",
+    "Tier lists de armas filtradas por encounter (raid, GM, dungeon)",
+    "Guías de farm para piezas chase con eficiencia maximizada"
+  ],
+  "highlightsEn": [
+    "Optimized build guides for boss DPS and PvE endgame",
+    "New exotic spotlights with viability analysis",
+    "Weapon tier lists filtered by encounter (raid, GM, dungeon)",
+    "Farm guides for chase pieces with efficiency maximized"
+  ],
+  "avatar": "/images/creators/ehroar-avatar.jpg",
+  "banner": "/images/creators/ehroar-banner.jpg"
+}

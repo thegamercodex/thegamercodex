@@ -1,0 +1,47 @@
+{
+  "id": "xhoundishx",
+  "name": "xHOUNDISHx",
+  "country": "UK",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@xHOUNDISHx",
+      "url": "https://www.youtube.com/@xHOUNDISHx",
+      "channelId": "UCEGGfAGliVUKFnGl4M0_ZQw",
+      "primary": true
+    },
+    {
+      "type": "twitter",
+      "handle": "@xHOUNDISHx",
+      "url": "https://twitter.com/xHOUNDISHx"
+    }
+  ],
+  "specialties": [
+    "news",
+    "patch-notes",
+    "xur-coverage",
+    "community-commentary",
+    "weekly-reset"
+  ],
+  "games": ["destiny-2"],
+  "contentTypes": ["videos", "news"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Cobertura diaria del estado de Destiny 2: weekly resets, Xur, patch notes, leaks y reactions a anuncios de Bungie. Su tono editorial es directo y mide expectativas — distingue entre features prometidas y entregadas, lo que la comunidad ha pedido durante años, y dónde Bungie está cumpliendo o no. Para jugadores que quieren más editorial framing además de las news, xHOUNDISHx es complemento de creators puramente informativos.",
+  "noteEn": "Daily coverage of Destiny 2's state: weekly resets, Xur, patch notes, leaks, and reactions to Bungie announcements. His editorial tone is direct and tempers expectations — distinguishes between promised and delivered features, what the community has been asking for years, and where Bungie is or isn't following through. For players who want editorial framing on top of news, xHOUNDISHx complements purely informative creators.",
+  "highlightsEs": [
+    "Cobertura diaria de news y patch notes de Destiny 2",
+    "Reset weekly y Xur reviews regulares",
+    "Editorial sobre el estado del juego con perspectiva crítica",
+    "Reactions a anuncios oficiales con context histórico"
+  ],
+  "highlightsEn": [
+    "Daily Destiny 2 news and patch notes coverage",
+    "Regular weekly reset and Xur reviews",
+    "Editorial on the game's state with critical perspective",
+    "Reactions to official announcements with historical context"
+  ],
+  "avatar": "/images/creators/xhoundishx-avatar.jpg",
+  "banner": "/images/creators/xhoundishx-banner.jpg"
+}

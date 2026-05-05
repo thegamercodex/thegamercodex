@@ -1,0 +1,34 @@
+{
+  "id": "destiny-tracker",
+  "name": "Destiny Tracker",
+  "shortName": "Destiny Tracker",
+  "taglineEs": "Estadísticas de jugador, leaderboards y match history para Destiny 2",
+  "taglineEn": "Player stats, leaderboards, and match history for Destiny 2",
+  "url": "https://destinytracker.com",
+  "category": "player-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "stats",
+    "match-history",
+    "leaderboards",
+    "k-d",
+    "weapon-usage"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/destiny-2/destiny-tracker-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["raid-report", "trials-report"],
+  "alternatives": ["raid-report", "trials-report"],
+  "createdBy": {
+    "name": "Tracker Network",
+    "url": "https://tracker.gg"
+  }
+}

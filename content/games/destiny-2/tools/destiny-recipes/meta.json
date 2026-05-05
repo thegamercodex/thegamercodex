@@ -1,0 +1,34 @@
+{
+  "id": "destiny-recipes",
+  "name": "Destiny Recipes",
+  "shortName": "Destiny Recipes",
+  "taglineEs": "Tracker de títulos, seals y triumphs específicos de Destiny 2",
+  "taglineEn": "Tracker for Destiny 2 titles, seals, and specific triumphs",
+  "url": "https://www.destinyrecipes.com",
+  "category": "progression-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "title-tracker",
+    "seals",
+    "triumphs",
+    "completionist",
+    "conqueror"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/destiny-2/destiny-recipes-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["braytech", "d2-checklist"],
+  "alternatives": ["braytech"],
+  "createdBy": {
+    "name": "Destiny Recipes",
+    "url": "https://www.destinyrecipes.com"
+  }
+}
