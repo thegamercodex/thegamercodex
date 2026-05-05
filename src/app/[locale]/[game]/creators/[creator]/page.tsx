@@ -1,12 +1,14 @@
 import { existsSync } from "node:fs";
 import path from "node:path";
+import { Suspense } from "react";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import type { Metadata } from "next";
 import { ChevronRight } from "lucide-react";
 import { Link } from "@/i18n/navigation";
-import { PlaylistSection } from "@/components/PlaylistSection";
+import { CreatorVideos } from "@/components/CreatorVideos";
+import { CreatorVideosSkeleton } from "@/components/CreatorVideosSkeleton";
 import { PlatformLink } from "@/components/PlatformLink";
 import {
   getCreator,
@@ -15,9 +17,8 @@ import {
   getGameIds,
 } from "@/lib/content";
 import { flagEmoji, humanize } from "@/lib/categories";
-import { getLatestVideos } from "@/lib/youtube";
 import { jsonLdScript, personJsonLd } from "@/lib/jsonld";
-import type { Locale, PlaylistRef, YouTubeVideo } from "@/types";
+import type { Locale } from "@/types";
 
 interface PageParams {
   params: Promise<{ locale: string; game: string; creator: string }>;
@@ -71,11 +72,6 @@ export async function generateMetadata({
   }
 }
 
-interface PlaylistFeed {
-  ref: PlaylistRef;
-  videos: YouTubeVideo[];
-}
-
 export default async function CreatorPage({ params }: PageParams) {
   const { locale, game: gameId, creator: creatorId } = await params;
   setRequestLocale(locale);
@@ -103,25 +99,6 @@ export default async function CreatorPage({ params }: PageParams) {
   const publicExists = (p: string) =>
     existsSync(path.join(process.cwd(), "public", p));
   const hasAvatar = Boolean(creator.avatar) && publicExists(creator.avatar);
-
-  const primaryYouTube = creator.platforms.find(
-    (p) => p.type === "youtube" && p.primary,
-  );
-  const playlists = primaryYouTube?.gamePlaylists?.[gameId] ?? [];
-
-  const [channelVideos, playlistFeeds] = await Promise.all([
-    primaryYouTube?.channelId
-      ? getLatestVideos({ channelId: primaryYouTube.channelId }, 6)
-      : Promise.resolve([] as YouTubeVideo[]),
-    playlists.length > 0
-      ? Promise.all(
-          playlists.map(async (ref) => ({
-            ref,
-            videos: await getLatestVideos({ playlistId: ref.id }, 6),
-          })),
-        ).then((feeds) => feeds.filter((f) => f.videos.length > 0))
-      : Promise.resolve([] as PlaylistFeed[]),
-  ]);
 
   return (
     <div className="mx-auto w-full max-w-6xl px-6 py-10">
@@ -243,44 +220,13 @@ export default async function CreatorPage({ params }: PageParams) {
             <h2 className="mb-6 text-lg font-semibold tracking-tight">
               {t("latestVideos")}
             </h2>
-
-            {(channelVideos.length > 0 || playlistFeeds.length > 0) && (
-              <div className="flex flex-col gap-10">
-                {channelVideos.length > 0 && (
-                  <PlaylistSection
-                    heading={t("channelFeedFallback")}
-                    subtitle={t("videosFromChannelDisclaimer")}
-                    videos={channelVideos}
-                    locale={loc}
-                    watchOnYouTubeLabel={t("watchOnYouTube")}
-                    closeLabel={t("closeVideo")}
-                  />
-                )}
-                {playlistFeeds.map((feed) => (
-                  <PlaylistSection
-                    key={feed.ref.id}
-                    heading={feed.ref.name}
-                    subtitle={
-                      feed.ref.withDisclaimer
-                        ? t("playlistMixedContent")
-                        : undefined
-                    }
-                    videos={feed.videos}
-                    locale={loc}
-                    viewAllUrl={`https://www.youtube.com/playlist?list=${feed.ref.id}`}
-                    viewAllLabel={t("viewAllPlaylist")}
-                    watchOnYouTubeLabel={t("watchOnYouTube")}
-                    closeLabel={t("closeVideo")}
-                  />
-                ))}
-              </div>
-            )}
-
-            {channelVideos.length === 0 && playlistFeeds.length === 0 && (
-              <p className="rounded-lg border border-border bg-muted/40 p-4 text-sm text-muted-foreground">
-                {t("noVideos")}
-              </p>
-            )}
+            <Suspense fallback={<CreatorVideosSkeleton />}>
+              <CreatorVideos
+                creator={creator}
+                gameId={gameId}
+                locale={loc}
+              />
+            </Suspense>
           </section>
         </article>
 
