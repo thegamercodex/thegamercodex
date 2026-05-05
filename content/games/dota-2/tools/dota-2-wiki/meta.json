@@ -1,0 +1,39 @@
+{
+  "id": "dota-2-wiki",
+  "name": "Dota 2 Wiki",
+  "shortName": "Dota 2 Wiki",
+  "taglineEs": "Wiki comunitaria de Dota 2 con base de datos completa de héroes, items, mecánicas, lore e historia del juego",
+  "taglineEn": "Community Dota 2 wiki with complete database of heroes, items, mechanics, lore, and game history",
+  "url": "https://dota2.fandom.com/wiki/Dota_2_Wiki",
+  "category": "wiki",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "platforms": ["web"],
+  "languages": ["en", "es", "ru", "zh", "pt"],
+  "tags": [
+    "wiki",
+    "reference",
+    "heroes",
+    "items",
+    "mechanics",
+    "lore"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/dota-2/dota-2-wiki-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/dota-2/dota-2-wiki-ss-1.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["liquipedia-dota-2"],
+  "alternatives": ["liquipedia-dota-2"],
+  "createdBy": {
+    "name": "Fandom community",
+    "url": "https://dota2.fandom.com/wiki/Dota_2_Wiki:About"
+  }
+}

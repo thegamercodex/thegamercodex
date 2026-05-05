@@ -1,5 +1,6 @@
 ---
 title: "League of Legends"
+tagline: "The quintessential MOBA: 5v5, tier-1 esports, constantly evolving meta"
 description: "Competitive 5v5 MOBA developed by Riot Games since 2009, genre leader and global esports flagship with hundreds of champions and constantly evolving meta."
 quickTake: "The quintessential MOBA. Free-to-play with no pay-to-win, mature tool ecosystem, top-tier esports. Steep learning curve but rejuvenates with each new season."
 ---

@@ -1,0 +1,39 @@
+{
+  "id": "dota2protracker",
+  "name": "Dota2ProTracker",
+  "shortName": "D2PT",
+  "taglineEs": "Tracker del meta de Dota 2 desde 7000+ MMR y partidas pro: top builds y skill orders por héroe en cada rol",
+  "taglineEn": "Dota 2 meta tracker from 7000+ MMR and pro matches: top builds and skill orders per hero in each role",
+  "url": "https://dota2protracker.com",
+  "category": "meta-analysis",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "meta-analysis",
+    "high-mmr",
+    "pro-builds",
+    "item-builds",
+    "skill-builds",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/dota-2/dota2protracker-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/dota-2/dota2protracker-ss-1.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["dotabuff", "stratz", "datdota"],
+  "alternatives": ["stratz", "dotafire"],
+  "createdBy": {
+    "name": "Dota2ProTracker",
+    "url": "https://dota2protracker.com"
+  }
+}

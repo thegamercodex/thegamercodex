@@ -1,0 +1,39 @@
+{
+  "id": "dota-plus",
+  "name": "Dota Plus",
+  "shortName": "Dota Plus",
+  "taglineEs": "Suscripción oficial de Valve dentro de Dota 2 con Plus Assistant, hero leveling, stats personales y skins exclusivas",
+  "taglineEn": "Valve's official subscription inside Dota 2 with Plus Assistant, hero leveling, personal stats, and exclusive cosmetics",
+  "url": "https://www.dota2.com/plus",
+  "category": "live-analysis",
+  "type": "official-service",
+  "official": true,
+  "free": false,
+  "openSource": false,
+  "platforms": ["windows", "macos", "linux"],
+  "languages": ["en", "es", "ru", "zh", "pt", "de", "fr", "ja", "ko"],
+  "tags": [
+    "official",
+    "subscription",
+    "plus-assistant",
+    "hero-leveling",
+    "stats",
+    "in-client"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/dota-2/dota-plus-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/dota-2/dota-plus-ss-1.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["dota-coach", "dotaplus-overwolf"],
+  "alternatives": ["dota-coach", "dotaplus-overwolf"],
+  "createdBy": {
+    "name": "Valve",
+    "url": "https://www.valvesoftware.com"
+  }
+}

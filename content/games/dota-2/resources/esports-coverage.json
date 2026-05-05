@@ -1,0 +1,80 @@
+{
+  "category": "esports-coverage",
+  "resources": [
+    {
+      "id": "ti2025-grand-final-game-5-falcons-vs-xg",
+      "type": "video",
+      "title": "[EN] Team Falcons vs Xtreme Gaming - Game 5 - The International 2025 - Grand Final",
+      "creator": "dota2",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=WZYOrdgagvg",
+      "youtubeId": "WZYOrdgagvg",
+      "language": "en",
+      "duration": "1:03:23",
+      "publishedDate": "2025-09-14",
+      "thumbnail": "https://i.ytimg.com/vi/WZYOrdgagvg/maxresdefault.jpg",
+      "noteEs": "Partida 5 decisiva de la Grand Final de TI 2025 (Falcons 3-2 Xtreme Gaming). 63 minutos donde Falcons drafteó alrededor de un Medusa late game y desmanteló a XG cerca del minuto 58. Subido oficialmente por el canal de Valve. La partida que coronó al primer Aegis de Falcons.",
+      "noteEn": "Decisive Game 5 of the TI 2025 Grand Final (Falcons 3-2 Xtreme Gaming). 63 minutes where Falcons drafted around a late-game Medusa and dismantled XG around minute 58. Officially uploaded by Valve's channel. The match that crowned Falcons' first Aegis."
+    },
+    {
+      "id": "ti2025-grand-final-game-1-falcons-vs-xg",
+      "type": "video",
+      "title": "Team Falcons vs Xtreme Gaming - Game 1 - The International 2025 - Grand Final",
+      "creator": "dota2",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ahknoefViss",
+      "youtubeId": "ahknoefViss",
+      "language": "en",
+      "duration": "52:03",
+      "publishedDate": "2025-09-14",
+      "thumbnail": "https://i.ytimg.com/vi/ahknoefViss/maxresdefault.jpg",
+      "noteEs": "Game 1 de la Grand Final de TI 2025 donde Xtreme Gaming abrió la serie con tempo agresivo y team fight superior. Importante para contextualizar cómo Falcons tuvo que adaptar su drafting durante la serie. Canal oficial de Dota 2.",
+      "noteEn": "Game 1 of the TI 2025 Grand Final where Xtreme Gaming opened the series with aggressive tempo and superior team fight. Important to contextualize how Falcons had to adapt their drafting during the series. Official Dota 2 channel."
+    },
+    {
+      "id": "holyhexor-falcons-xg-grand-final-recap-2025",
+      "type": "video",
+      "title": "FALCONS vs XTREME GAMING - GRAND FINAL !! TI14 The International 2025",
+      "creator": "hOlyhexOr",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=hyvQDnDZgd0",
+      "youtubeId": "hyvQDnDZgd0",
+      "language": "en",
+      "duration": "24:04",
+      "publishedDate": "2025-09-14",
+      "thumbnail": "https://i.ytimg.com/vi/hyvQDnDZgd0/maxresdefault.jpg",
+      "noteEs": "Recap editado de 24 minutos de la Grand Final de TI 14: highlights de la serie completa con narración. Para quien no tiene 5 horas para ver los 5 games completos pero quiere capturar los momentos clave de la coronación de Falcons.",
+      "noteEn": "24-minute edited recap of the TI 14 Grand Final: highlights from the complete series with narration. For those who don't have 5 hours to watch the 5 full games but want to capture the key moments of Falcons' coronation."
+    },
+    {
+      "id": "ceb-malr1ne-sand-king-ti14-dissect-2025",
+      "type": "video",
+      "title": "Malr1ne's Sand King might've broken Dota 2 at TI14 | Ceb Dissects",
+      "creator": "Ceb",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=QhcNSbCrCDE",
+      "youtubeId": "QhcNSbCrCDE",
+      "language": "en",
+      "duration": "25:21",
+      "publishedDate": "2025-10-02",
+      "thumbnail": "https://i.ytimg.com/vi/QhcNSbCrCDE/maxresdefault.jpg",
+      "noteEs": "Análisis técnico de Ceb (ex-pro de OG, doble campeón de TI) sobre el Sand King de Malr1ne en TI 14. 25 minutos diseccionando por qué la build pareció romper el juego en torneo. Análisis de pro retirado con autoridad histórica.",
+      "noteEn": "Technical analysis from Ceb (OG ex-pro, two-time TI champion) on Malr1ne's Sand King at TI 14. 25 minutes dissecting why the build seemed to break the game in tournament. Retired pro analysis with historical authority."
+    },
+    {
+      "id": "holyhexor-falcons-parivision-ti14-2025",
+      "type": "video",
+      "title": "FALCONS vs PARIVISION - ABSOLUTE CINEMA !! TI14 The International 2025",
+      "creator": "hOlyhexOr",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=F0h_YxBniAE",
+      "youtubeId": "F0h_YxBniAE",
+      "language": "en",
+      "duration": "16:34",
+      "publishedDate": "2025-09-13",
+      "thumbnail": "https://i.ytimg.com/vi/F0h_YxBniAE/maxresdefault.jpg",
+      "noteEs": "Recap de 17 min de uno de los mejores matches de la fase de playoffs de TI 14: Falcons vs Parivision. Highlights con narrativa que muestra por qué se ganó el apodo \"absolute cinema\". Para fans del esports que disfrutan partidas memorables más allá de la final.",
+      "noteEn": "17-min recap of one of the best matches in TI 14 playoffs phase: Falcons vs Parivision. Highlights with narrative showing why it earned the \"absolute cinema\" tag. For esports fans who enjoy memorable matches beyond the final."
+    }
+  ]
+}

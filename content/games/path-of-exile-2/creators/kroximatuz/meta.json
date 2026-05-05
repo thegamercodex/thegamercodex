@@ -1,0 +1,51 @@
+{
+  "id": "kroximatuz",
+  "name": "KroximatuZ",
+  "country": "AR",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@KroximatuZ",
+      "url": "https://www.youtube.com/@KroximatuZ",
+      "channelId": "UCMw6ArgxuMj1eikyN9UTsSw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "kroximatuz",
+      "url": "https://www.twitch.tv/kroximatuz"
+    },
+    {
+      "type": "twitter",
+      "handle": "@KroximatuZ",
+      "url": "https://twitter.com/KroximatuZ"
+    }
+  ],
+  "specialties": [
+    "build-guides",
+    "campaign-progression",
+    "league-starters",
+    "creator-tools-reviews"
+  ],
+  "games": ["path-of-exile-2"],
+  "contentTypes": ["videos", "live-streams", "guides"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Anchor hispano del ecosistema PoE 2. KroximatuZ arma builds completas con foco en fluidez de la campaña — uno de los pain points reales del juego — sin sacrificar viabilidad endgame. La guía de CoC Spark Druida Oracle en 0.4 es referencia para el combo Cast on Critical en la nueva ascendencia. Para players hispanos que arrancan PoE 2, es punto de entrada clave.",
+  "noteEn": "Spanish-language anchor of the PoE 2 ecosystem. KroximatuZ builds complete builds with a focus on campaign smoothness — one of the game's real pain points — without sacrificing endgame viability. His CoC Spark Druid Oracle guide in 0.4 is reference for the Cast on Critical combo in the new ascendancy. Key entry point for Spanish-speaking players starting PoE 2.",
+  "highlightsEs": [
+    "Builds completas con explicación en español del arquetipo y sus tradeoffs",
+    "Foco en builds que sienten cómodas durante campaña, no solo en endgame",
+    "Cobertura de cada nueva ascendencia/mecánica de PoE 2 en formato guía",
+    "Anchor reference para audiencia hispanohablante del juego"
+  ],
+  "highlightsEn": [
+    "Complete builds with Spanish-language explanation of archetype and tradeoffs",
+    "Focus on builds that feel smooth during campaign, not just in endgame",
+    "Coverage of each new PoE 2 ascendancy/mechanic in guide format",
+    "Anchor reference for the game's Spanish-speaking audience"
+  ],
+  "avatar": "/images/creators/kroximatuz-avatar.jpg",
+  "banner": "/images/creators/kroximatuz-banner.jpg"
+}

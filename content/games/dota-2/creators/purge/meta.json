@@ -1,0 +1,54 @@
+{
+  "id": "purge",
+  "name": "PurgeGamers",
+  "realName": "Kevin Godec",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@PurgeGamers",
+      "url": "https://www.youtube.com/@PurgeGamers",
+      "channelId": "UCZsM8MOy0VC9blj_wBkbo-g",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "purgegamers",
+      "url": "https://www.twitch.tv/purgegamers"
+    },
+    {
+      "type": "twitter",
+      "handle": "@PurgeGamers",
+      "url": "https://twitter.com/PurgeGamers"
+    }
+  ],
+  "specialties": [
+    "beginner-friendly",
+    "long-form-guides",
+    "educational-content",
+    "casting"
+  ],
+  "games": ["dota-2"],
+  "contentTypes": ["videos", "guides", "casting"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Creador estadounidense con foco editorial casi exclusivo en contenido educativo accesible a beginners. Su serie \"Welcome to Dota, You Suck\" es referencia histórica para nuevos jugadores: explica desde último-hit hasta conceptos avanzados con tono pedagógico claro y sin ego. Si BSJ apunta a jugadores intermedios que quieren mejorar, Purge apunta a jugadores nuevos que quieren entender el juego desde cero. Su enfoque long-form (videos de 30-60 min) y voz calmada lo distinguen del contenido más rápido del ecosistema actual.",
+  "noteEn": "American creator with almost exclusive editorial focus on beginner-accessible educational content. His series \"Welcome to Dota, You Suck\" is historical reference for new players: explains from last-hitting to advanced concepts with clear pedagogical tone and no ego. If BSJ targets intermediate players wanting to improve, Purge targets new players wanting to understand the game from zero. His long-form approach (30-60 min videos) and calm voice distinguish him from the faster content of current ecosystem.",
+  "highlightsEs": [
+    "Serie \"Welcome to Dota, You Suck\" como referencia para beginners",
+    "Foco editorial en contenido pedagógico de larga duración",
+    "Tono accesible sin ego, ideal para nuevos jugadores",
+    "Veterano con más de una década de contenido educativo",
+    "También cubre casting de torneos importantes"
+  ],
+  "highlightsEn": [
+    "\"Welcome to Dota, You Suck\" series as reference for beginners",
+    "Editorial focus on long-form pedagogical content",
+    "Accessible no-ego tone, ideal for new players",
+    "Veteran with over a decade of educational content",
+    "Also covers casting of major tournaments"
+  ],
+  "avatar": "/images/creators/purge-avatar.jpg",
+  "banner": "/images/creators/purge-banner.jpg"
+}

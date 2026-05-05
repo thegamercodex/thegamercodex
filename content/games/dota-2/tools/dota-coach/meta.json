@@ -1,0 +1,39 @@
+{
+  "id": "dota-coach",
+  "name": "Dota Coach",
+  "shortName": "Dota Coach",
+  "taglineEs": "App in-game con guías de héroes mantenidas por coaches profesionales y tips contextuales en tiempo real",
+  "taglineEn": "In-game app with hero guides maintained by professional coaches and contextual tips in real time",
+  "url": "https://dotacoach.gg",
+  "category": "coaching",
+  "type": "overlay",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": [
+    "coaching",
+    "overlay",
+    "in-game-tips",
+    "hero-guides",
+    "professional",
+    "overwolf"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/dota-2/dota-coach-logo.webp",
+  "screenshots": [
+    {
+      "url": "/images/tools/dota-2/dota-coach-ss-1.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["dotaplus-overwolf", "dota-plus", "dotafire"],
+  "alternatives": ["dotaplus-overwolf", "dota-plus"],
+  "createdBy": {
+    "name": "Dota Coach Team",
+    "url": "https://dotacoach.gg"
+  }
+}

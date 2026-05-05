@@ -1,0 +1,48 @@
+{
+  "id": "chuwaca",
+  "name": "Chuwaca",
+  "country": "PE",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@chuwaca",
+      "url": "https://www.youtube.com/@chuwaca",
+      "channelId": "UCqlkTYEGlQGLgGpZDqd-DuA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "chuwaca",
+      "url": "https://www.twitch.tv/chuwaca"
+    }
+  ],
+  "specialties": [
+    "hero-guides",
+    "gameplay-analysis",
+    "meta-coverage",
+    "spanish-content"
+  ],
+  "games": ["dota-2"],
+  "contentTypes": ["videos", "guides", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Creador hispanohablante con base en LATAM dedicado a Dota 2: guías, gameplays, análisis y opiniones del juego. Cobertura activa del meta vigente con tono cercano a la comunidad hispana. Para jugadores latinos que buscan contenido en español con perspectiva regional (servidores SA, scene LATAM), Chuwaca es referencia accesible y consistente.",
+  "noteEn": "Spanish-speaking creator based in LATAM dedicated to Dota 2: guides, gameplays, analysis, and opinions on the game. Active coverage of current meta with tone close to the Spanish-speaking community. For Latin American players looking for Spanish content with regional perspective (SA servers, LATAM scene), Chuwaca is an accessible and consistent reference.",
+  "highlightsEs": [
+    "Creador con base en LATAM enfocado en la comunidad hispana",
+    "Guías y análisis del meta vigente actualizados",
+    "Tono cercano a la comunidad hispanohablante",
+    "Cobertura desde perspectiva regional (servidores SA)",
+    "Combina contenido educativo con opinión editorial"
+  ],
+  "highlightsEn": [
+    "LATAM-based creator focused on the Spanish-speaking community",
+    "Updated guides and analysis of current meta",
+    "Tone close to the Spanish-speaking community",
+    "Coverage from regional perspective (SA servers)",
+    "Combines educational content with editorial opinion"
+  ],
+  "avatar": "/images/creators/chuwaca-avatar.jpg",
+  "banner": "/images/creators/chuwaca-banner.jpg"
+}

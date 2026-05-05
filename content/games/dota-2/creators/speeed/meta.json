@@ -1,0 +1,48 @@
+{
+  "id": "speeed",
+  "name": "SpeeedDota",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@SpeeedDota",
+      "url": "https://www.youtube.com/@SpeeedDota",
+      "channelId": "UCy0-ftAwxMHzZc74OhYT3PA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "speeed",
+      "url": "https://www.twitch.tv/speeed"
+    }
+  ],
+  "specialties": [
+    "patch-coverage",
+    "meta-guides",
+    "hero-builds",
+    "tier-lists"
+  ],
+  "games": ["dota-2"],
+  "contentTypes": ["videos", "guides"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Creador estadounidense enfocado casi exclusivamente en cobertura de parches y meta de Dota 2. Sus videos con título patrón \"NEW PATCH X.XX FULL CHANGES\" son referencia inmediata cada vez que Valve publica un parche grande: desglose completo de cambios de héroes, items y mecánicas con análisis de impacto en el meta. También cubre tier lists, broken builds y hero combos del momento. Para jugadores que quieren mantenerse actualizados con cada parche sin tener que leer change-logs crudos, Speeed es default.",
+  "noteEn": "American creator focused almost exclusively on Dota 2 patch coverage and meta guides. His videos with the \"NEW PATCH X.XX FULL CHANGES\" title pattern are immediate reference every time Valve publishes a major patch: complete breakdown of hero, item, and mechanic changes with meta impact analysis. Also covers tier lists, broken builds, and current hero combos. For players who want to stay updated with each patch without reading raw change-logs, Speeed is default.",
+  "highlightsEs": [
+    "Especialista en cobertura de parches con videos detallados",
+    "Tier lists y meta guides actualizadas a cada patch",
+    "Análisis de hero combos y broken builds del momento",
+    "Cadencia consistente de uploads (varios videos por semana)",
+    "Referencia rápida para mantenerse al día con el meta"
+  ],
+  "highlightsEn": [
+    "Patch coverage specialist with detailed breakdown videos",
+    "Tier lists and meta guides updated every patch",
+    "Analysis of current hero combos and broken builds",
+    "Consistent upload cadence (multiple videos per week)",
+    "Quick reference to stay current with the meta"
+  ],
+  "avatar": "/images/creators/speeed-avatar.jpg",
+  "banner": "/images/creators/speeed-banner.jpg"
+}

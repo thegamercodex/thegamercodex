@@ -1,5 +1,6 @@
 ---
 title: "Counter-Strike 2"
+tagline: "5v5 tactical FPS on Source 2, the competitive esports standard"
 description: "5v5 tactical FPS developed by Valve Corporation, launched in September 2023 as the successor to legendary CS:GO. Free-to-play on Source 2 engine, global esports reference with two annual Majors and the most established competitive FPS base in the world."
 quickTake: "The competitive FPS par excellence. Brutal learning curve in mechanics (recoil, economy, callouts, lineups), massive skin economy as parallel metagame, and tier-1 esports with million-dollar prize pools. If you played CS:GO, CS2 is the natural evolution on Source 2; if you come from other FPS, prepare for one of the most demanding experiences in the genre."
 ---

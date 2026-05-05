@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "grubby-one-guide-dota-2-2024",
+      "type": "video",
+      "title": "The ONE GUIDE you'll need to START PLAYING DOTA 2!",
+      "creator": "GrubbyTalks",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=H7lu9kow-r8",
+      "youtubeId": "H7lu9kow-r8",
+      "language": "en",
+      "duration": "31:18",
+      "publishedDate": "2024-01-04",
+      "thumbnail": "https://i.ytimg.com/vi/H7lu9kow-r8/maxresdefault.jpg",
+      "noteEs": "Grubby —ex-pro de Warcraft 3 y popular streamer— hace una introducción comprehensiva en 30 minutos para gente que arranca Dota 2 desde cero. Cubre desde fundamentos del rol hasta mecánicas básicas con tono cercano. Punto de partida sólido para lectores que prefieren un único video largo y bien estructurado.",
+      "noteEn": "Grubby — Warcraft 3 ex-pro and popular streamer — gives a 30-minute comprehensive introduction for people starting Dota 2 from scratch. Covers from role fundamentals to basic mechanics with an approachable tone. Solid starting point for viewers who prefer one single long, well-structured video."
+    },
+    {
+      "id": "datohleong-complete-guide-league-players-2025",
+      "type": "video",
+      "title": "A Complete Dota 2 Guide for League Players and Beginners in 2025",
+      "creator": "DATOHLEONG",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=uwRFkDuj5rY",
+      "youtubeId": "uwRFkDuj5rY",
+      "language": "en",
+      "duration": "12:31",
+      "publishedDate": "2025-03-03",
+      "thumbnail": "https://i.ytimg.com/vi/uwRFkDuj5rY/maxresdefault.jpg",
+      "noteEs": "Comparativa explícita entre conceptos de League of Legends y Dota 2: pensado para jugadores que vienen de LoL y necesitan traducir el vocabulario y diferencias mecánicas (denying, courier, ventaja por altura). El formato corto (12 min) sirve como complemento a guías más largas.",
+      "noteEn": "Explicit comparison between League of Legends and Dota 2 concepts: aimed at players coming from LoL who need to translate vocabulary and mechanical differences (denying, courier, height advantage). The short format (12 min) works as complement to longer guides."
+    },
+    {
+      "id": "bsj-1500-mmr-carry-coaching-2026",
+      "type": "video",
+      "title": "1500 MMR Carry Coaching!",
+      "creator": "BSJ",
+      "creatorId": "bsj",
+      "url": "https://www.youtube.com/watch?v=kYc3VOxhsJM",
+      "youtubeId": "kYc3VOxhsJM",
+      "language": "en",
+      "duration": "2:39:43",
+      "publishedDate": "2026-05-04",
+      "thumbnail": "https://i.ytimg.com/vi/kYc3VOxhsJM/maxresdefault.jpg",
+      "noteEs": "BSJ revisa partidas de un jugador 1500 MMR explicando decisiones en tiempo real. Para un beginner real, ver coaching a su nivel exacto es más útil que ver gameplay de inmortal: las situaciones, errores y opciones son las que va a vivir. 2.5 horas pero con saltos seleccionables.",
+      "noteEn": "BSJ reviews matches from a 1500 MMR player explaining decisions in real time. For an actual beginner, watching coaching at their exact level is more useful than watching immortal gameplay: situations, mistakes, and options are the ones they'll experience. 2.5 hours but with selectable chapter skips."
+    },
+    {
+      "id": "bsj-simple-tip-enjoy-dota-2026",
+      "type": "video",
+      "title": "1 Simple Tip to Enjoy Dota More",
+      "creator": "BSJ",
+      "creatorId": "bsj",
+      "url": "https://www.youtube.com/watch?v=qK8tiFXN-mk",
+      "youtubeId": "qK8tiFXN-mk",
+      "language": "en",
+      "duration": "1:08",
+      "publishedDate": "2026-04-21",
+      "thumbnail": "https://i.ytimg.com/vi/qK8tiFXN-mk/maxresdefault.jpg",
+      "noteEs": "Short de un minuto con un tip mental clave para quien arranca Dota 2: cómo abordar las primeras partidas sin frustrarse. Toxicidad y curva de aprendizaje son los dos enemigos de un beginner — este video apunta al primero.",
+      "noteEn": "One-minute short with a key mental tip for someone starting Dota 2: how to approach first matches without getting frustrated. Toxicity and learning curve are the two enemies of a beginner — this video addresses the first."
+    },
+    {
+      "id": "bsj-why-dota-not-fun-2026",
+      "type": "video",
+      "title": "Why Dota Isn't Fun Anymore (And How to Fix It)",
+      "creator": "BSJ",
+      "creatorId": "bsj",
+      "url": "https://www.youtube.com/watch?v=7JktvfE4FIY",
+      "youtubeId": "7JktvfE4FIY",
+      "language": "en",
+      "duration": "11:20",
+      "publishedDate": "2026-04-21",
+      "thumbnail": "https://i.ytimg.com/vi/7JktvfE4FIY/maxresdefault.jpg",
+      "noteEs": "Reflexión de 11 minutos sobre el burnout en Dota 2 — relevante para nuevos jugadores que en 50 horas pueden empezar a sentirlo. BSJ propone marcos mentales para sostener la curva de aprendizaje sin colapsar emocionalmente.",
+      "noteEn": "11-minute reflection on Dota 2 burnout — relevant for new players who can start feeling it after 50 hours. BSJ proposes mental frameworks to sustain the learning curve without emotional collapse."
+    }
+  ]
+}

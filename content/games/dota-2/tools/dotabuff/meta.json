@@ -1,0 +1,42 @@
+{
+  "id": "dotabuff",
+  "name": "Dotabuff",
+  "shortName": "Dotabuff",
+  "taglineEs": "El tracker de match history más popular de Dota 2, con stats por héroe, leaderboards y la plataforma TrueSight de análisis premium",
+  "taglineEn": "The most popular Dota 2 match history tracker, with per-hero stats, leaderboards, and the premium TrueSight analysis platform",
+  "url": "https://www.dotabuff.com",
+  "category": "match-history",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "match-history",
+    "hero-stats",
+    "leaderboards",
+    "player-search",
+    "popular",
+    "truesight"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/dota-2/dotabuff-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/dota-2/dotabuff-ss-1.png"
+    },
+    {
+      "url": "/images/tools/dota-2/dotabuff-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["opendota", "stratz", "dota2protracker"],
+  "alternatives": ["opendota", "stratz"],
+  "createdBy": {
+    "name": "Dotabuff",
+    "url": "https://www.dotabuff.com/about"
+  }
+}

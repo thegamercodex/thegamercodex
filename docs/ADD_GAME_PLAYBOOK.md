@@ -1,0 +1,378 @@
+# Playbook: agregar un juego nuevo a TheGamerCodex
+
+Runbook autocontenido para poblar un juego desde cero. Diseñado para ejecutarse end-to-end sin pedir confirmación entre fases.
+
+## Trigger
+
+Cuando el usuario dice **"agregar [game]"**, **"vamos a agregar [game]"**, o cualquier variante con la intención clara de poblar un juego nuevo (ej: *"quiero agregar last epoch"*, *"sumemos diablo 4"*), ejecutar este playbook de arriba a abajo. Pedir confirmación solo si el `id` del juego es ambiguo (ej: hay PoE 1 y PoE 2 en juego — qué versión).
+
+El usuario **revisa todo al final desde la web**. No pidas confirmación item por item.
+
+## Pre-vuelo (5 minutos, lectura obligatoria)
+
+1. **`docs/RULES.md` completo** — convenciones de código, schema, editorial conventions de game .md / tool .md, reglas de batch.
+2. **`docs/SCHEMA_EVOLUTION.md`** — historial de cambios al schema. Si tu trabajo cambia un type, agregás entrada al final.
+3. **`src/types/index.ts`** — fuente de verdad. Antes de cada fase verificá `Tool`, `Creator`, `Resource`, `GameMeta`, `Theme`, `Platform`, `PlatformLink`, `PlaylistRef`, `MultiGame`, `CreatedBy`, los unions `ToolType`, `Difficulty`, `ResourceType`, `MonetizationModel`, `StorePlatform`.
+4. **`content/games/path-of-exile-2/`** — template de referencia más reciente (estructura completa: meta.json, es.md, en.md, tools/, creators/, resources/). Replicá la estructura.
+
+Recordatorios cruzados:
+- Idiomas: cada game y cada tool tiene `es.md` + `en.md`. Default locale del sitio es `en`. Escribí los dos.
+- Tool .md frontmatter: `title` + `description` + `quickTake` (los 3 requeridos). Body: 8 secciones H2 según RULES.md → "Editorial conventions para tool .md". Longitud target ~80-100 líneas.
+- Game .md frontmatter: `title` + `tagline` + `description`. **`tagline` es requerido** — sin él la card del landing queda sin bajada.
+- Tool meta.json: `createdBy` es `{ name, url?, creatorId? }`, no string. `multiGame` se omite cuando es mono-juego — no usar `{ available: false }`.
+- `lastVerified` formato `YYYY-MM-DD` con la fecha actual del sistema.
+- Asset paths siguen RULES.md → "Imágenes y assets":
+  - Tool logos/screenshots → `public/images/tools/<game-id>/<tool-id>-...`
+  - Avatares creators → `public/images/creators/<creator-id>-avatar.<ext>`
+  - Hero/logo del juego → `public/images/games/<game-id>-{hero,logo}.<ext>`
+- **Logos de tools**: intentar descarga best-effort desde el sitio oficial (`url` del meta) — ver Phase 1C para el helper. Si la descarga falla (no logo parseable, MIME no aceptado, fetch fail), skip y seguir el flujo: el `meta.json` queda referenciando el path por default y `existsSync` cae a la inicial de letra al renderizar.
+- **Screenshots de tools**: NO descargar — el usuario sube manualmente.
+- **Sí descargar avatares de creators** desde `og:image` del canal de YouTube — ver Phase 2 para el helper.
+
+---
+
+## Phase 1A — Investigar y seleccionar tools (target: 15)
+
+**Antes de tocar el meta.json del juego**, definir qué tools cubren el ecosistema. Las `toolCategories` del game meta se derivan de qué tools existen, no al revés.
+
+### Criterios de inclusión
+
+- Activa hoy (release/commit reciente, soporte explícito al patch vigente).
+- Soporta el juego nativamente — no ports flaky desde otro juego de la franquicia.
+- Diferenciación editorial entre tools del mismo cluster: si recomendás dos build planners, el `quickTake` debe explicar cuándo usar uno vs el otro.
+- Cubre las categorías más buscadas del juego (típicamente: build/character planning, trading/economy, reference/wiki, plus las específicas del género).
+
+### Workflow
+
+1. Web search por categorías standard (build planners, trade tools, wikis, filters/loot, leveling, crafting, economy trackers, atlas/endgame planners, official discord, community discord/hub).
+2. Para cada candidato, verificá:
+   - URL accessible
+   - GitHub si aplica (último commit < 90 días para tools open-source en juegos vivos)
+   - Soporte específico al juego (no asumir; muchas tools dicen "PoE 2" pero son PoE 1 con redirect)
+3. Si después de research honesto no llegás a 15, **cerrá con las que pasen el filtro de calidad**. Mejor 11 sólidas que 15 con relleno.
+
+### Categorías típicas (variar según género)
+
+- ARPGs (PoE, D4, Last Epoch, Diablo 2 Resurrected): `build-planning`, `trading`, `crafting`, `atlas-maps`/`endgame-maps`, `filters`/`loot-filters`, `economy`, `leveling`, `reference`.
+- MOBAs (LoL, Dota 2): `champion-stats`/`hero-stats`, `tier-lists`, `match-history`, `replay-analysis`, `runes-builds`, `coaching`, `pro-stats`, `reference`.
+- Looter shooters (Destiny 2): `loadout-planning`, `weapon-stats`, `raid-guides`, `lfg`, `bounty-tracking`, `mods-perks`, `lore`, `reference`.
+- MMOs (WoW, FFXIV): `addons`, `auction-house-tracking`, `dps-meters`/`parsers`, `raid-guides`, `gear-planning`, `crafting-professions`, `dungeon-tools`, `reference`.
+- Gacha (Genshin, HSR): `character-builds`, `team-comps`, `event-trackers`, `damage-calculators`, `wish-trackers`, `maps`, `reference`, `simulators`.
+- FPS (CS2, Valorant): `aim-training`, `match-history`, `inventory-trading`, `map-callouts`, `crosshair-config`, `pro-settings`, `tier-lists`, `reference`.
+
+Mirá `content/games/<existing-game>/meta.json` del juego más cercano editorialmente para guía adicional.
+
+### Output del Phase 1A
+
+Una lista final de 10-15 tools con: `id` (kebab-case), categoría asignada, `type`, `essential` flag, `multiGame` info si aplica.
+
+**No crear archivos todavía.** Phase 1B usa esa lista para derivar `toolCategories`.
+
+---
+
+## Phase 1B — Crear el game (meta.json + es.md + en.md)
+
+### Investigación adicional
+
+Web search para llenar campos no-tools del meta:
+- `developer`, `releaseYear`, `officialUrl`
+- `stores[]` (Steam appId, Epic, etc.) — `StorePlatform` union en `src/types/index.ts`
+- `platforms[]` (windows, macos, linux, playstation, xbox, switch, web, ios, android)
+- `genres[]` (strings descriptivos)
+- `monetization` (model + purchaseTypes + payToWin + noteEs/noteEn)
+- `theme` — 5 colores hex derivados de la identidad visual del juego (logo, key art, UI). Probá contra fondo oscuro: `text` debe contrastar con `background` en WCAG AA.
+
+### `toolCategories` (5-8 categorías)
+
+Derivar de la lista de Phase 1A. Cada `id` debe matchear el `category` de al menos una tool. Si una categoría queda con 0 tools, removerla.
+
+Schema (de `LocalizedCategory`):
+```json
+{
+  "id": "build-planning",
+  "nameEs": "Planificación de Builds",
+  "nameEn": "Build Planning",
+  "descriptionEs": "...",
+  "descriptionEn": "...",
+  "icon": "🧮"
+}
+```
+
+### `resourceCategories` (5 categorías)
+
+Definir 5 categorías de recursos curables. Patrón típico:
+- `beginner-guides` (siempre incluir)
+- `mechanics-per-league` / `mechanics-per-patch` / `news-and-updates` (algo temporal)
+- `build-guides` / `team-comps` / `loadout-guides` (algo de optimización)
+- `trading-guides` / `economy-guides` / `currency-guides` (si aplica al género)
+- `boss-guides` / `raid-guides` / `endgame-guides` (algo endgame)
+
+Adaptá los ids al género del juego.
+
+### Game .md frontmatter
+
+`es.md` y `en.md` con:
+- `title`: nombre completo
+- `tagline`: ~70 chars, específico no genérico
+- `description`: 1-2 frases factuales
+
+Body: análisis libre del juego (qué es, por qué importa, contexto del ecosistema). Sin estructura forzada.
+
+---
+
+## Phase 1C — Crear tools (meta.json + es.md + en.md por tool)
+
+Para cada tool de la lista del Phase 1A, 3 archivos en `content/games/<game-id>/tools/<tool-id>/`:
+
+```
+meta.json    ← ToolMeta type completo
+es.md        ← frontmatter + 8 secciones H2
+en.md        ← frontmatter + 8 secciones H2
+```
+
+### Estructura del body (8 H2 — ver RULES.md → "Editorial conventions para tool .md")
+
+1. Qué es
+2. Qué problema resuelve
+3. Diferenciación (cuando aplica vs competidor obvio)
+4. Para qué la usa la gente
+5. Para quién NO es esta herramienta
+6. Cómo se usa en la práctica
+7. Limitaciones honestas
+8. Cómo empezar
+
+### Asset paths
+
+- `logo`: `/images/tools/<game-id>/<tool-id>-logo.<ext>` (`.png` por default)
+- `screenshots[].url`: `/images/tools/<game-id>/<tool-id>-ss-1.<ext>`, `-ss-2`, etc. (1-indexed)
+- Captions de screenshots opcionales — omitir.
+
+### Descarga automática del logo (best-effort)
+
+Después de escribir el `meta.json` de cada tool, **intentar descargar el logo** desde el sitio oficial de la tool (campo `url`). Si falla, seguir el flujo normal (path queda referenciado, `existsSync` cae a inicial de letra cuando se renderiza).
+
+Helper:
+
+```bash
+download_tool_logo() {
+  local tool_url="$1"
+  local game_id="$2"
+  local tool_id="$3"
+  local html=$(curl -s -L -A "Mozilla/5.0 (Macintosh)" "$tool_url")
+
+  # Prioridad: apple-touch-icon (cuadrado, suele ser el logo) → og:image → <link rel="icon">
+  local icon=$(echo "$html" | grep -oE '<link[^>]*rel="apple-touch-icon"[^>]*href="[^"]+' | head -1 | sed 's/.*href="//')
+  [ -z "$icon" ] && icon=$(echo "$html" | grep -oE '<meta property="og:image" content="[^"]+' | head -1 | sed 's/<meta property="og:image" content="//')
+  [ -z "$icon" ] && icon=$(echo "$html" | grep -oE '<link[^>]*rel="icon"[^>]*href="[^"]+' | head -1 | sed 's/.*href="//')
+  [ -z "$icon" ] && { echo "SKIP: no logo found for $tool_id"; return 1; }
+
+  # Resolver URLs relativas
+  if [[ ! "$icon" =~ ^https?:// ]]; then
+    if [[ "$icon" =~ ^// ]]; then icon="https:$icon"
+    elif [[ "$icon" =~ ^/ ]]; then
+      local base=$(echo "$tool_url" | grep -oE 'https?://[^/]+')
+      icon="${base}${icon}"
+    fi
+  fi
+
+  # Descargar a temp y detectar tipo
+  local tmp=$(mktemp)
+  curl -s -L -A "Mozilla/5.0 (Macintosh)" "$icon" -o "$tmp"
+  local mime=$(file --mime-type "$tmp" | awk '{print $NF}')
+  local ext
+  case "$mime" in
+    image/png) ext="png" ;;
+    image/jpeg) ext="jpg" ;;
+    image/svg+xml|image/svg) ext="svg" ;;
+    image/webp) ext="webp" ;;
+    *) rm "$tmp"; echo "SKIP: unsupported mime $mime for $tool_id"; return 1 ;;
+  esac
+
+  mkdir -p "public/images/tools/${game_id}"
+  local dest="public/images/tools/${game_id}/${tool_id}-logo.${ext}"
+  mv "$tmp" "$dest"
+  echo "OK: $tool_id → $dest"
+}
+```
+
+**Importante**: si la extensión bajada **no es `.png`** (ej: `.jpg` o `.svg`), actualizá el campo `logo` del `meta.json` correspondiente con la extensión correcta. Si el download falló (`SKIP`), dejá el `meta.json` con `.png` por default — `existsSync` hace fallback a la inicial.
+
+**Tools sin sitio web propio** (ej: tools que viven solo en GitHub o en Discord): omitir descarga, dejar `.png` referenciado.
+
+**Formatos no aceptados** (per RULES.md → "Imágenes y assets"): `.ico`. Si el único logo disponible es ICO, descartar y dejar fallback. SVG/PNG/JPG/WebP son los aceptados.
+
+---
+
+## Phase 2 — Creators (target: 5 — 3 EN + 2 ES idealmente)
+
+### 2A — Recomendar 5 creators
+
+Activos en el juego, uploads recientes (< 30 días), mix editorial diverso (no 5 buildmakers idénticos), mix idiomas (3 EN + 2 ES si los hay; ajustar según ecosistema del juego).
+
+Si el juego tiene comunidad hispana fuerte (PoE, LoL), incluir 2 ES. Si la comunidad hispana es marginal (algunos MMOs occidentales), 1 ES o 0 — no forzar.
+
+### 2B — Verificar channelId de YouTube (obligatorio)
+
+```bash
+curl -s -A "Mozilla/5.0 (Macintosh)" "https://www.youtube.com/@<handle>" | grep -oE 'externalId":"UC[A-Za-z0-9_-]{22}' | head -1 | sed 's/externalId":"//'
+```
+
+Si retorna vacío → handle no existe / cambió. Pivotar. Si retorna `UC...` → ese es el `channelId` para `platforms[].channelId`.
+
+**No usar el patrón `channelId":"...`** del HTML — devuelve resultados ruidosos (player config, no el canónico). Usar `externalId":` como arriba.
+
+### 2C — Descargar avatar desde YouTube
+
+El `og:image` del canal expone el avatar canónico vigente (~900x900px JPEG). Helper:
+
+```bash
+download_avatar() {
+  local channel_id="$1"
+  local creator_id="$2"
+  local url=$(curl -s -A "Mozilla/5.0 (Macintosh)" "https://www.youtube.com/channel/$channel_id" \
+    | grep -oE '<meta property="og:image" content="[^"]+' \
+    | head -1 | sed 's/<meta property="og:image" content="//')
+  [ -z "$url" ] && { echo "FAIL: no avatar for $creator_id"; return 1; }
+  curl -s -A "Mozilla/5.0 (Macintosh)" "$url" -o "public/images/creators/${creator_id}-avatar.jpg"
+  file "public/images/creators/${creator_id}-avatar.jpg" | grep -q JPEG && echo "OK: $creator_id"
+}
+```
+
+Verificá con `file` que sea JPEG válido (no HTML de redirect).
+
+**Si un avatar ya existía en el repo** (creator multi-juego que ya estaba en otro `content/games/<game>/creators/`), `git status` lo muestra como modificado. Eso es esperable — el `og:image` siempre devuelve el avatar actual; si la versión vieja era manual, sobrescribirla es fine: ambas vienen del mismo canal.
+
+### 2D — Crear meta.json del creator
+
+`content/games/<game-id>/creators/<creator-id>/meta.json` siguiendo `CreatorMeta`:
+
+- `platforms[]` con al menos un YouTube `primary: true` con `channelId` y `handle`
+- `noteEs` / `noteEn` (bio editorial corta, 2-4 frases)
+- `highlightsEs[]` / `highlightsEn[]` (3-5 bullets)
+- `specialties[]`, `languages[]`, `audienceLevel[]`, `contentTypes[]`
+- `games: ["<game-id>"]`
+- `avatar: "/images/creators/<creator-id>-avatar.jpg"` (matchea con la descarga)
+- `banner: "/images/creators/<creator-id>-banner.jpg"` (probable que no exista; fallback automático)
+
+### 2E — `gamePlaylists` (opcional, skip si tedioso)
+
+Para playlists del creator filtradas por juego, agregar a `platforms[<youtube primary>].gamePlaylists["<game-id>"]`. La página `/playlists` del canal es SPA — `curl` no extrae los PL ids. Si querés llenar esto, requiere WebFetch o trabajo manual; el playbook lo deja como opcional. La página de creator funciona perfectamente sin esto (solo cae al feed del canal).
+
+---
+
+## Phase 3 — Resources (target: 5 por categoría = 25 totales)
+
+### 3A — Investigar candidatos
+
+Web search por categoría buscando contenido reciente (últimos 60 días idealmente). Diversificar:
+- Cobertura editorial: no 5 videos del mismo creator ni del mismo arquetipo.
+- Idioma: mayoría inglés, alguno español si hay buen contenido.
+- `creatorId`: si el creator del video está en `content/games/<game-id>/creators/`, referenciá el id. Si no, `creatorId: null` explícito.
+
+### 3B — Verificar cada video (obligatorio)
+
+**Nada de inventar IDs ni fechas.** Helper:
+
+```bash
+verify_video() {
+  local id="$1"
+  local html=$(curl -s -A "Mozilla/5.0 (Macintosh)" "https://www.youtube.com/watch?v=$id")
+  local date=$(echo "$html" | grep -oE 'uploadDate":"[0-9]{4}-[0-9]{2}-[0-9]{2}' | head -1 | sed 's/uploadDate":"//')
+  local secs=$(echo "$html" | grep -oE '"lengthSeconds":"[0-9]+' | head -1 | sed 's/"lengthSeconds":"//')
+  local channel=$(echo "$html" | grep -oE '"author":"[^"]+' | head -1 | sed 's/"author":"//')
+  local title=$(echo "$html" | grep -oE '"title":"[^"]+","lengthSeconds"' | head -1 | sed 's/"title":"//; s/","lengthSeconds"//')
+  local dur
+  if [ -n "$secs" ]; then
+    local h=$((secs / 3600)) m=$(((secs % 3600) / 60)) s=$((secs % 60))
+    if [ $h -gt 0 ]; then dur=$(printf "%d:%02d:%02d" $h $m $s); else dur=$(printf "%d:%02d" $m $s); fi
+  fi
+  echo "ID:$id | $date | $dur | $channel | $title"
+}
+```
+
+Resultado: `videoId`, `duration` (formato `HH:MM:SS` o `MM:SS`), `publishedDate` (`YYYY-MM-DD`), creator name, title — todo verificado contra YouTube.
+
+### 3C — Schema de resource (ver `src/types/index.ts → Resource`)
+
+```json
+{
+  "id": "creator-slug-topic-game-year",
+  "type": "video",
+  "title": "Título exacto del video",
+  "creator": "Channel name",
+  "creatorId": "creator-id-si-está-en-codex-o-null",
+  "url": "https://www.youtube.com/watch?v=ID",
+  "youtubeId": "ID",
+  "language": "en",
+  "duration": "12:34",
+  "publishedDate": "2026-01-15",
+  "thumbnail": "https://i.ytimg.com/vi/ID/maxresdefault.jpg",
+  "noteEs": "1-2 frases editoriales: por qué útil, qué cubre, para quién.",
+  "noteEn": "1-2 sentences editorial: why useful, what it covers, for whom."
+}
+```
+
+`thumbnail` es opcional; si lo omitís, la UI lo deriva. Lo dejamos seteado en el patrón `maxresdefault.jpg` para evitar lookups en runtime.
+
+### 3D — Insertar
+
+Archivos en `content/games/<game-id>/resources/<category>.json`, formato:
+```json
+{ "category": "<category-id>", "resources": [...] }
+```
+
+5 entries por archivo, total 25 resources. Mantener formatting consistente (2-space indent, `\n` al final).
+
+---
+
+## Phase 4 — Cierre
+
+1. **Build**: `PATH="/Users/gersoncarcamo/.nvm/versions/node/v22.22.2/bin:$PATH" npx next build` debe pasar sin errores. Si falla, fixear y reportar.
+2. **`docs/SCHEMA_EVOLUTION.md`** — agregar entrada **solo si modificaste un type o schema**. No deberías; la mayoría de juegos cabe en el schema actual.
+3. **NO commit ni push.** El usuario revisa primero.
+4. **Reporte final** (en chat, no en archivo): tabla concisa con:
+   - Tools agregadas (cuántas / cuáles / si quedó alguna por debajo del target y por qué)
+   - Logos de tools: cuántos OK / cuántos SKIP (sin logo descargable; queda fallback a inicial)
+   - Creators agregados (5 / cuáles / channelIds verificados / avatares descargados ok)
+   - Resources agregados por categoría (5 cada una)
+   - Cualquier cosa que **no** se pudo cerrar y por qué
+
+---
+
+## Quality gates y gotchas conocidos
+
+- **Un juego = una carpeta** (RULES.md). Si la franquicia tiene secuelas/spin-offs (PoE/PoE 2, LoL/Wild Rift, CS:GO/CS2), son juegos distintos. Tools y creators que cubren ambos pueden duplicarse con entries separados, o usar `multiGame` en el meta.
+- **Tools que no soportan el juego nativamente**: descartar. No queremos recomendar algo que va a frustrar al usuario.
+- **No mezclar editorial entre versiones**: si copiás un .md de un juego como template, **reescribí el contenido** específico para el nuevo juego. Las mecánicas, builds, vocabulario son distintas.
+- **Tono editorial** (RULES.md → "Editorial conventions"): honesto, sin hype vacío, mencionar paywalls/ads/limitaciones.
+- **Build sin errores**: si hay TypeScript errors, leer cuidadosamente — generalmente significa schema field faltante o typo en `id` que rompe linkage.
+- **Avatar de creator pre-existente**: si el avatar ya estaba en el repo (creator multi-juego), `git status` mostrará el JPEG como modificado. Es esperable y consistente — la descarga fresca trae el avatar actual del canal.
+- **Archivos basura en `public/images/creators/`**: si encontrás archivos no-imagen (`.crdownload`, `.Logs`, etc.), no los toques. Probablemente artefactos de browser del usuario; que él los limpie.
+
+---
+
+## Resumen de comandos útiles
+
+```bash
+# Build
+PATH="/Users/gersoncarcamo/.nvm/versions/node/v22.22.2/bin:$PATH" npx next build
+
+# Dev (puerto 3030, configurado por el usuario)
+npm run dev
+
+# Conteo de resources por categoría (sanity check Phase 3)
+for f in content/games/<game-id>/resources/*.json; do
+  count=$(node -e "console.log(JSON.parse(require('fs').readFileSync('$f','utf-8')).resources.length)")
+  echo "$(basename $f): $count"
+done
+
+# Verificar channelId de YouTube
+curl -s -A "Mozilla/5.0 (Macintosh)" "https://www.youtube.com/@HANDLE" | grep -oE 'externalId":"UC[A-Za-z0-9_-]{22}' | head -1 | sed 's/externalId":"//'
+
+# Descargar avatar canónico de YouTube
+url=$(curl -s -A "Mozilla/5.0 (Macintosh)" "https://www.youtube.com/channel/UC..." | grep -oE '<meta property="og:image" content="[^"]+' | head -1 | sed 's/<meta property="og:image" content="//')
+curl -s -A "Mozilla/5.0 (Macintosh)" "$url" -o "public/images/creators/<creator-id>-avatar.jpg"
+
+# Verificar metadata de un video
+verify_video() { ... }  # ver Phase 3B
+```

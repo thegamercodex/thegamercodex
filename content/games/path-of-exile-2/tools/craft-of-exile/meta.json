@@ -1,0 +1,56 @@
+{
+  "id": "craft-of-exile",
+  "name": "Craft of Exile (PoE 2)",
+  "shortName": "CoE",
+  "taglineEs": "Simulador de crafteo de items para PoE 2 — modela odds y costos antes de invertir currency",
+  "taglineEn": "PoE 2 item crafting simulator — model odds and costs before spending currency",
+  "url": "https://www.craftofexile.com/?game=poe2",
+  "category": "crafting",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "crafting",
+    "simulator",
+    "calculator",
+    "advanced"
+  ],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-04",
+  "logo": "/images/tools/path-of-exile-2/craft-of-exile-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/path-of-exile-2/craft-of-exile-ss-1.png"
+    },
+    {
+      "url": "/images/tools/path-of-exile-2/craft-of-exile-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "poe2db",
+    "path-of-building"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Siegrest",
+    "url": "https://www.craftofexile.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      {
+        "gameId": "path-of-exile",
+        "url": "https://www.craftofexile.com"
+      }
+    ]
+  }
+}

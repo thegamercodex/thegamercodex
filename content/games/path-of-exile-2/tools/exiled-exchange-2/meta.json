@@ -1,0 +1,51 @@
+{
+  "id": "exiled-exchange-2",
+  "name": "Exiled Exchange 2",
+  "shortName": "EE2",
+  "taglineEs": "Overlay de price-check para PoE 2 — sucesor espiritual de Awakened PoE Trade",
+  "taglineEn": "Price-check overlay for PoE 2 — spiritual successor to Awakened PoE Trade",
+  "url": "https://kvan7.github.io/Exiled-Exchange-2/",
+  "category": "trading",
+  "type": "overlay",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Kvan7/Exiled-Exchange-2",
+  "license": "MIT",
+  "platforms": [
+    "windows",
+    "linux"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "price-check",
+    "overlay",
+    "trading",
+    "hotkeys",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-04",
+  "logo": "/images/tools/path-of-exile-2/exiled-exchange-2-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/path-of-exile-2/exiled-exchange-2-ss-1.png"
+    },
+    {
+      "url": "/images/tools/path-of-exile-2/exiled-exchange-2-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "poe-trade-official",
+    "poe-ninja"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Kvan7",
+    "url": "https://github.com/Kvan7"
+  }
+}

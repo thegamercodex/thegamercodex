@@ -1,0 +1,44 @@
+{
+  "id": "path-of-exile-2-discord",
+  "name": "Path of Exile 2 Official Discord",
+  "shortName": "PoE 2 Discord",
+  "taglineEs": "Servidor oficial de Discord de Path of Exile 2 — news en vivo, devs accesibles y discusión community",
+  "taglineEn": "Official Path of Exile 2 Discord server — live news, accessible devs, community discussion",
+  "url": "https://discord.com/invite/pathofexile2",
+  "category": "reference",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "community-hub",
+    "news",
+    "discord-server",
+    "official"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-04",
+  "logo": "/images/tools/path-of-exile-2/path-of-exile-2-discord-logo.jpg",
+  "screenshots": [
+    {
+      "url": "/images/tools/path-of-exile-2/path-of-exile-2-discord-ss-1.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "tft",
+    "poe2-wiki"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Grinding Gear Games",
+    "url": "https://www.grindinggear.com"
+  }
+}

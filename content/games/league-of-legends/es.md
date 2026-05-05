@@ -1,5 +1,6 @@
 ---
 title: "League of Legends"
+tagline: "El MOBA por excelencia: 5v5, esports tier-1, meta en evolución constante"
 description: "MOBA competitivo 5v5 desarrollado por Riot Games desde 2009, líder del género y referente del esports global con cientos de campeones y meta en constante evolución."
 quickTake: "El MOBA por excelencia. Free-to-play sin pay-to-win, ecosistema de tools maduro, esports de primer nivel. Curva de aprendizaje empinada pero rejuvenece con cada nueva temporada."
 ---

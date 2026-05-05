@@ -1,0 +1,44 @@
+{
+  "id": "opendota",
+  "name": "OpenDota",
+  "shortName": "OpenDota",
+  "taglineEs": "Tracker de stats de Dota 2 totalmente open-source con la API más accesible del ecosistema y deep data parsing",
+  "taglineEn": "Fully open-source Dota 2 stats tracker with the most accessible API in the ecosystem and deep data parsing",
+  "url": "https://www.opendota.com",
+  "category": "match-history",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/odota",
+  "license": "MIT",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "match-history",
+    "open-source",
+    "api",
+    "data-parsing",
+    "developer-friendly",
+    "free"
+  ],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/dota-2/opendota-logo.jpg",
+  "screenshots": [
+    {
+      "url": "/images/tools/dota-2/opendota-ss-1.png"
+    },
+    {
+      "url": "/images/tools/dota-2/opendota-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["dotabuff", "stratz", "dota2protracker"],
+  "alternatives": ["dotabuff", "stratz"],
+  "createdBy": {
+    "name": "Howard Chung & contributors",
+    "url": "https://github.com/odota"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dotafire",
+  "name": "DOTAFire",
+  "shortName": "DOTAFire",
+  "taglineEs": "Plataforma comunitaria de guías de héroes para Dota 2 con análisis estratégico escrito y discusión por la comunidad",
+  "taglineEn": "Community-driven hero guides platform for Dota 2 with written strategic analysis and discussion by the community",
+  "url": "https://www.dotafire.com",
+  "category": "hero-builds",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "hero-guides",
+    "community",
+    "strategy",
+    "build-guides",
+    "discussion",
+    "long-form"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/dota-2/dotafire-logo.jpg",
+  "screenshots": [
+    {
+      "url": "/images/tools/dota-2/dotafire-ss-1.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["dota2protracker", "dota-coach"],
+  "alternatives": ["dota2protracker"],
+  "createdBy": {
+    "name": "Mfire (Magicfind Inc.)",
+    "url": "https://www.mfire.com"
+  }
+}

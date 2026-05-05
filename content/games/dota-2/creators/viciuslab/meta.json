@@ -1,0 +1,48 @@
+{
+  "id": "viciuslab",
+  "name": "Viciuslab",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@viciuslab",
+      "url": "https://www.youtube.com/@viciuslab",
+      "channelId": "UCbC4YrKmtPKPmfIt71C7XZQ",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "viciuslab",
+      "url": "https://www.twitch.tv/viciuslab"
+    }
+  ],
+  "specialties": [
+    "hero-guides",
+    "commented-gameplay",
+    "tournament-coverage",
+    "spanish-content"
+  ],
+  "games": ["dota-2"],
+  "contentTypes": ["videos", "guides", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Canal español dedicado a Dota 2 con guías de héroes, gameplays comentados de top players y cobertura de torneos. Una de las pocas referencias activas en español con producción consistente y enfoque pedagógico. Para hispanohablantes que prefieren contenido en su idioma sin perder calidad técnica, Viciuslab es la primera parada del ecosistema español de Dota 2.",
+  "noteEn": "Spanish channel dedicated to Dota 2 with hero guides, commented gameplays from top players, and tournament coverage. One of the few active Spanish-language references with consistent production and pedagogical focus. For Spanish speakers preferring content in their language without losing technical quality, Viciuslab is the first stop of the Spanish Dota 2 ecosystem.",
+  "highlightsEs": [
+    "Referencia activa en español con producción consistente",
+    "Guías de héroes y gameplays comentados de top players",
+    "Cobertura de torneos importantes en español",
+    "Enfoque pedagógico accesible para beginners e intermedios",
+    "Comunidad hispanohablante de Dota 2 establecida"
+  ],
+  "highlightsEn": [
+    "Active Spanish-language reference with consistent production",
+    "Hero guides and commented gameplays from top players",
+    "Coverage of major tournaments in Spanish",
+    "Accessible pedagogical focus for beginners and intermediates",
+    "Established Spanish-speaking Dota 2 community"
+  ],
+  "avatar": "/images/creators/viciuslab-avatar.jpg",
+  "banner": "/images/creators/viciuslab-banner.jpg"
+}

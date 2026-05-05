@@ -6,7 +6,7 @@
       "type": "video",
       "title": "Wolf Amazon Build Guide — Path of Exile 2: Last of the Druids",
       "creator": "Big Ducks",
-      "creatorId": null,
+      "creatorId": "big-ducks",
       "url": "https://www.youtube.com/watch?v=LU2R5ap_al4",
       "youtubeId": "LU2R5ap_al4",
       "language": "en",
@@ -21,7 +21,7 @@
       "type": "video",
       "title": "PoE 2 0.4 — Grenade Deadeye League Start Build | Doomslayer Deadeye",
       "creator": "Lolcohol",
-      "creatorId": null,
+      "creatorId": "lolcohol",
       "url": "https://www.youtube.com/watch?v=JN05c7PxzaI",
       "youtubeId": "JN05c7PxzaI",
       "language": "en",
@@ -36,7 +36,7 @@
       "type": "video",
       "title": "INEVITABLE CoC SPARK Druida Oracle — Cómodo PROGRESO de CAMPAÑA | PoE 2",
       "creator": "KroximatuZ",
-      "creatorId": null,
+      "creatorId": "kroximatuz",
       "url": "https://www.youtube.com/watch?v=R7iqFs2x3s8",
       "youtubeId": "R7iqFs2x3s8",
       "language": "es",
@@ -45,6 +45,36 @@
       "thumbnail": "https://i.ytimg.com/vi/R7iqFs2x3s8/maxresdefault.jpg",
       "noteEs": "KroximatuZ arma CoC Spark con Druida Oracle: archetype combo que aprovecha la mecánica de Cast on Critical en la nueva ascendencia. La guía pone énfasis en la fluidez del progreso de campaña — uno de los enemy points en PoE 2 — sin sacrificar viabilidad endgame. Anchor en español para builds 0.4.",
       "noteEn": "KroximatuZ builds CoC Spark with Druid Oracle: archetype combo leveraging the Cast on Critical mechanic in the new ascendancy. The guide emphasizes campaign progression smoothness — one of PoE 2's pain points — without sacrificing endgame viability. Spanish anchor for 0.4 builds."
+    },
+    {
+      "id": "ronarray-dragon-monk-wyvern-invoker-poe2-04-2025",
+      "type": "video",
+      "title": "DRAGON Monk ONE TAPS Everything! - Wyvern Build Guide for Invoker in Path of Exile 2 0.4",
+      "creator": "ronarray",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=DLoiDRA2BHs",
+      "youtubeId": "DLoiDRA2BHs",
+      "language": "en",
+      "duration": "14:16",
+      "publishedDate": "2025-12-28",
+      "thumbnail": "https://i.ytimg.com/vi/DLoiDRA2BHs/maxresdefault.jpg",
+      "noteEs": "Build Wyvern Invoker Monk para 0.4 en formato directo — 14 minutos, gear list, gem links, leveling order. ronarray es referente del arquetipo Hollow Palm/Wyvern Monk en PoE 2; esta guía cubre el setup de one-tap para clear masivo de mapas. Diversifica el menú de builds con clase distinta a Druid.",
+      "noteEn": "Wyvern Invoker Monk build for 0.4 in direct format — 14 minutes, gear list, gem links, leveling order. ronarray is a reference for the Hollow Palm/Wyvern Monk archetype in PoE 2; this guide covers the one-tap setup for massive map clear. Diversifies the build menu with a class different from Druid."
+    },
+    {
+      "id": "path-of-exile-builds-wolf-form-druid-poe2-04-2025",
+      "type": "video",
+      "title": "[0.4] PoE 2 DRUID BUILD - WOLF FORM - LAST OF THE DRUIDS",
+      "creator": "Path of Exile Builds",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=f4v95FETez8",
+      "youtubeId": "f4v95FETez8",
+      "language": "en",
+      "duration": "17:29",
+      "publishedDate": "2025-12-31",
+      "thumbnail": "https://i.ytimg.com/vi/f4v95FETez8/maxresdefault.jpg",
+      "noteEs": "Build Wolf Form Druid completa para 0.4 — 17 minutos cubriendo gear, gemas, árbol pasivo y atlas tree. Foco en la nueva clase Druid de patch 0.4: cómo aprovechar el shapeshifting Wolf form como vehículo de daño físico. Alternativa al Wolf Amazon de Big Ducks para players que prefieran la nueva clase.",
+      "noteEn": "Complete Wolf Form Druid build for 0.4 — 17 minutes covering gear, gems, passive tree and atlas tree. Focus on the new 0.4 Druid class: how to leverage Wolf-form shapeshifting as a physical damage vehicle. Alternative to Big Ducks's Wolf Amazon for players who prefer the new class."
     }
   ]
 }

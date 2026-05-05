@@ -6,7 +6,7 @@
       "type": "video",
       "title": "Everything You Need to Know About 0.4 in 18 Minutes",
       "creator": "Zizaran",
-      "creatorId": null,
+      "creatorId": "zizaran",
       "url": "https://www.youtube.com/watch?v=FxDkDZVrLH0",
       "youtubeId": "FxDkDZVrLH0",
       "language": "en",
@@ -21,7 +21,7 @@
       "type": "video",
       "title": "PoE 2 0.4 — The Most Important Tip for League Start",
       "creator": "Lolcohol",
-      "creatorId": null,
+      "creatorId": "lolcohol",
       "url": "https://www.youtube.com/watch?v=MPv9lSe1vb8",
       "youtubeId": "MPv9lSe1vb8",
       "language": "en",
@@ -36,7 +36,7 @@
       "type": "video",
       "title": "TODO sobre la NUEVA LIGA THE LAST OF THE DRUIDS! 0.4.0",
       "creator": "BuBahz",
-      "creatorId": null,
+      "creatorId": "bubahz",
       "url": "https://www.youtube.com/watch?v=EfMAgaGAjW8",
       "youtubeId": "EfMAgaGAjW8",
       "language": "es",
@@ -45,6 +45,36 @@
       "thumbnail": "https://i.ytimg.com/vi/EfMAgaGAjW8/maxresdefault.jpg",
       "noteEs": "Versión española del overview de 0.4: BuBahz cubre lo esencial de Last of the Druids en 9 minutos — qué es la mecánica nueva, qué cambia, dónde están los rewards. Compacto y al grano, ideal para players hispanohablantes que prefieren formato corto al video largo de Zizaran.",
       "noteEn": "Spanish version of the 0.4 overview: BuBahz covers the essentials of Last of the Druids in 9 minutes — what the new mechanic is, what's changed, where the rewards are. Compact and direct, ideal for Spanish-speaking players who prefer short format over Zizaran's longer video."
+    },
+    {
+      "id": "palsteron-poe2-04-druid-reveal-reaction-2025",
+      "type": "video",
+      "title": "Druid Is Finally OUT | Path of Exile 2, Patch 0.4 The Last of the Druids Reveal Reaction",
+      "creator": "Palsteron",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=_Cw2tatxqos",
+      "youtubeId": "_Cw2tatxqos",
+      "language": "en",
+      "duration": "43:47",
+      "publishedDate": "2025-12-04",
+      "thumbnail": "https://i.ytimg.com/vi/_Cw2tatxqos/maxresdefault.jpg",
+      "noteEs": "Palsteron hace una reacción largo (44 minutos) al reveal del 0.4 con análisis en vivo de cada cambio anunciado por GGG. Útil para players que quieren no solo el resumen sino el reasoning editorial — qué buffs/nerfs importan, qué builds se beneficiaron, qué se perdió. Complemento del overview corto de Zizaran.",
+      "noteEn": "Palsteron does a long-form (44-minute) reaction to the 0.4 reveal with live analysis of each change GGG announced. Useful for players who want not just the summary but editorial reasoning — which buffs/nerfs matter, which builds benefited, what was lost. Complement to Zizaran's short overview."
+    },
+    {
+      "id": "p4wnyhof-poe2-04-state-of-game-200h-2026",
+      "type": "video",
+      "title": "The State of POE 2 after 200h of The Last of the Druids!",
+      "creator": "P4wnyhof",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=IZtsvf3GCbQ",
+      "youtubeId": "IZtsvf3GCbQ",
+      "language": "en",
+      "duration": "18:28",
+      "publishedDate": "2026-01-22",
+      "thumbnail": "https://i.ytimg.com/vi/IZtsvf3GCbQ/maxresdefault.jpg",
+      "noteEs": "P4wnyhof retrospectiva tras 200h de juego en 0.4: qué funciona, qué no, dónde están los pain points reales del patch ya en operación. Útil como contrapunto a los hot-takes del lanzamiento — la liga vista con perspectiva de unas semanas. Players con tiempo limitado obtienen filtro editorial maduro acá.",
+      "noteEn": "P4wnyhof retrospective after 200h of 0.4 gameplay: what works, what doesn't, where the real pain points of the patch are once it's been running. Useful as a counterpoint to launch hot-takes — the league seen with weeks of perspective. Time-constrained players get a mature editorial filter here."
     }
   ]
 }

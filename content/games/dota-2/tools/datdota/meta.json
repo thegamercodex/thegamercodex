@@ -1,0 +1,39 @@
+{
+  "id": "datdota",
+  "name": "datdota",
+  "shortName": "datdota",
+  "taglineEs": "Plataforma de stats profesionales de Dota 2 con queries personalizables, tracking de torneos y datos crudos para analistas competitivos",
+  "taglineEn": "Professional Dota 2 statistics platform with customizable queries, tournament tracking, and raw data for competitive analysts",
+  "url": "https://www.datdota.com",
+  "category": "esports",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "esports-stats",
+    "professional",
+    "tournament-tracking",
+    "custom-queries",
+    "analyst-tool",
+    "draft-tool"
+  ],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/dota-2/datdota-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/dota-2/datdota-ss-1.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["liquipedia-dota-2", "dota2protracker", "stratz"],
+  "alternatives": ["dota2protracker", "stratz"],
+  "createdBy": {
+    "name": "Noxville",
+    "url": "https://www.datdota.com"
+  }
+}

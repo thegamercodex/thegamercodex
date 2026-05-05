@@ -1,5 +1,6 @@
 ---
 title: "World of Warcraft"
+tagline: "The reference MMORPG since 2004, still defining the genre"
 description: "The biggest MMORPG in history, developed by Blizzard Entertainment since 2004. Over 20 years of continuous evolution, massive community, and the most mature gaming tool ecosystem in the world."
 quickTake: "The gold standard of the MMORPG genre. Subscription ($14.99/month) with expansions sold separately. Extremely high learning curve in endgame, but content for decades: raids, Mythic+, PvP arena, professions, transmog hunting, achievements. The current Midnight expansion (March 2026) has the game in its best state in years."
 ---

@@ -1,0 +1,57 @@
+{
+  "id": "zizaran",
+  "name": "Zizaran",
+  "realName": "Ziz",
+  "country": "UK",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Zizaran",
+      "url": "https://www.youtube.com/@Zizaran",
+      "channelId": "UCAG3CiKOUkQysyKCXSFEBPA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "Zizaran",
+      "url": "https://www.twitch.tv/zizaran"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Zizaran",
+      "url": "https://twitter.com/Zizaran"
+    },
+    {
+      "type": "discord",
+      "url": "https://discord.gg/zizaran"
+    }
+  ],
+  "specialties": [
+    "league-mechanics",
+    "build-guides",
+    "patch-overviews",
+    "race-events",
+    "community-events"
+  ],
+  "games": ["path-of-exile-2"],
+  "contentTypes": ["videos", "live-streams", "guides", "events"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "El creator más reconocido del ecosistema Path of Exile, ahora con cobertura central de PoE 2 desde Early Access. Su contenido sigue el mismo patrón que su PoE 1 era — análisis profundos de cada patch, guías de league mechanics, eventos community como las Gauntlet Races — adaptado al ritmo de PoE 2. Para players que arrancan cada nueva liga buscando 'qué cambió y cómo arrancar', Zizaran es punto de entrada obvio.",
+  "noteEn": "The most recognized creator in the Path of Exile ecosystem, now with central coverage of PoE 2 since Early Access. His content follows the same pattern as his PoE 1 era — deep patch analyses, league mechanic guides, community events like Gauntlet Races — adapted to PoE 2's pace. For players entering each new league looking for 'what changed and how to start', Zizaran is an obvious entry point.",
+  "highlightsEs": [
+    "Overviews de cada patch de PoE 2 condensando lo esencial en formato consumible",
+    "Guías pedagógicas de mecánicas nuevas con ejemplos in-game",
+    "Day-1 streams en cada lanzamiento de PoE 2",
+    "Organización de Gauntlet Races aplicadas a PoE 2"
+  ],
+  "highlightsEn": [
+    "PoE 2 patch overviews condensing essentials into consumable format",
+    "Pedagogical guides on new mechanics with in-game examples",
+    "Day-1 streams on every PoE 2 launch",
+    "Gauntlet Races organization adapted to PoE 2"
+  ],
+  "avatar": "/images/creators/zizaran-avatar.jpg",
+  "banner": "/images/creators/zizaran-banner.jpg"
+}

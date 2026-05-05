@@ -1,4 +1,80 @@
 {
   "category": "beginner-guides",
-  "resources": []
+  "resources": [
+    {
+      "id": "zizaran-poe2-actually-good-early-game-tips-2025",
+      "type": "video",
+      "title": "ACTUALLY GOOD Early Game Tips for Path of Exile 2",
+      "creator": "Zizaran",
+      "creatorId": "zizaran",
+      "url": "https://www.youtube.com/watch?v=qiyCheRjkBQ",
+      "youtubeId": "qiyCheRjkBQ",
+      "language": "en",
+      "duration": "10:41",
+      "publishedDate": "2025-08-28",
+      "thumbnail": "https://i.ytimg.com/vi/qiyCheRjkBQ/maxresdefault.jpg",
+      "noteEs": "Zizaran condensa los tips realmente útiles del early game de PoE 2 sin relleno: qué comprar, qué saltearse, qué hábitos formar de día 1. Formato corto y al grano — el opuesto a las video-guides de hora. Anchor inglés para players que quieren arrancar con el pie derecho.",
+      "noteEn": "Zizaran condenses the genuinely useful early-game tips for PoE 2 with no filler: what to buy, what to skip, what habits to form on day 1. Short and to the point — the opposite of hour-long video guides. English anchor for players who want to start on the right foot."
+    },
+    {
+      "id": "spud-the-king-poe2-beginner-guide-before-you-ruin-2025",
+      "type": "video",
+      "title": "POE2 Beginner's Guide Before You Ruin Your First Run",
+      "creator": "Spud the King",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=vT7BYJwtfGo",
+      "youtubeId": "vT7BYJwtfGo",
+      "language": "en",
+      "duration": "28:06",
+      "publishedDate": "2025-12-12",
+      "thumbnail": "https://i.ytimg.com/vi/vT7BYJwtfGo/maxresdefault.jpg",
+      "noteEs": "Guía completa de 28 minutos pensada para evitar errores que arruinan los primeros runs en PoE 2. Cubre flask upgrades, ascendency timing, decisiones críticas de campaña y trampas típicas. Publicada justo en el lanzamiento de 0.4, la tomamos como guía actualizada de referencia para players nuevos en la liga vigente.",
+      "noteEn": "Complete 28-minute guide built to prevent mistakes that ruin first runs in PoE 2. Covers flask upgrades, ascendency timing, critical campaign decisions and typical traps. Published right at 0.4's launch — we use it as the up-to-date reference guide for players new to the current league."
+    },
+    {
+      "id": "schwingy-poe2-15-most-important-tips-2025",
+      "type": "video",
+      "title": "The 15 Most Important Tips For New Players - PoE 2 Beginner's Guide",
+      "creator": "Schwingy",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=MRxL8r2Z5jE",
+      "youtubeId": "MRxL8r2Z5jE",
+      "language": "en",
+      "duration": "19:48",
+      "publishedDate": "2025-01-07",
+      "thumbnail": "https://i.ytimg.com/vi/MRxL8r2Z5jE/maxresdefault.jpg",
+      "noteEs": "Schwingy lista 15 tips estructurados de mayor a menor impacto. Útil porque cada tip viene con razonamiento y ejemplo, no solo regla — players nuevos entienden el por qué, no solo el qué. Complemento natural a guías más cortas como la de Zizaran.",
+      "noteEn": "Schwingy lists 15 structured tips ordered by impact. Useful because each tip comes with reasoning and example, not just a rule — new players understand the why, not just the what. Natural complement to shorter guides like Zizaran's."
+    },
+    {
+      "id": "morttimer-poe2-5-consejos-esenciales-empezar-2024",
+      "type": "video",
+      "title": "5 CONSEJOS ESENCIALES para Empezar en Path of Exile 2 (Guía para Principiantes)",
+      "creator": "Morttimer",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ovoexjKVvcI",
+      "youtubeId": "ovoexjKVvcI",
+      "language": "es",
+      "duration": "12:17",
+      "publishedDate": "2024-12-05",
+      "thumbnail": "https://i.ytimg.com/vi/ovoexjKVvcI/maxresdefault.jpg",
+      "noteEs": "Anchor en español para principiantes: 5 consejos focalizados sobre las decisiones clave del primer personaje en PoE 2. Formato corto, ideal para players hispanohablantes que están viendo el juego por primera vez y quieren orientación rápida sin invertir 30 minutos en un video.",
+      "noteEn": "Spanish-language anchor for beginners: 5 focused tips on the key decisions for your first PoE 2 character. Short format, ideal for Spanish-speaking players seeing the game for the first time who want quick orientation without spending 30 minutes on a video."
+    },
+    {
+      "id": "hispano-gamer-poe2-guia-inicio-completa-2024",
+      "type": "video",
+      "title": "Path of Exile 2 Guía De Inicio Completa, Esto te Puede Ayudar a Avanzar",
+      "creator": "Hispano Gamer",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=A0BbxST7Vi4",
+      "youtubeId": "A0BbxST7Vi4",
+      "language": "es",
+      "duration": "19:25",
+      "publishedDate": "2024-12-11",
+      "thumbnail": "https://i.ytimg.com/vi/A0BbxST7Vi4/maxresdefault.jpg",
+      "noteEs": "Guía de inicio completa en español, ~20 minutos cubriendo decisiones clave de la primera sesión: clase y ascendencia, primeros nodos del árbol pasivo, gear básico, errores típicos. Más extensa que la de Morttimer — útil para players hispanos que quieren contexto profundo desde el día 1.",
+      "noteEn": "Spanish complete starter guide, ~20 minutes covering first-session key decisions: class and ascendancy, first passive tree nodes, basic gear, typical mistakes. More extensive than Morttimer's — useful for Spanish-speaking players who want deep context from day 1."
+    }
+  ]
 }

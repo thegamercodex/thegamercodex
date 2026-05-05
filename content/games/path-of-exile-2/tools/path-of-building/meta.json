@@ -1,0 +1,55 @@
+{
+  "id": "path-of-building",
+  "name": "Path of Building Community (PoE 2)",
+  "shortName": "PoB 2",
+  "taglineEs": "El planificador de builds offline para PoE 2, fork community que evoluciona con cada patch",
+  "taglineEn": "Offline build planner for PoE 2, community fork that evolves with every patch",
+  "url": "https://pathofbuilding.community",
+  "category": "build-planning",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2",
+  "license": "MIT",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "dps-calculator",
+    "build-planner",
+    "tree-planner",
+    "offline",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-04",
+  "logo": "/images/tools/path-of-exile-2/path-of-building-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/path-of-exile-2/path-of-building-ss-1.png"
+    },
+    {
+      "url": "/images/tools/path-of-exile-2/path-of-building-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "poe-ninja",
+    "exiled-exchange-2"
+  ],
+  "alternatives": [
+    "mobalytics",
+    "poeplanner"
+  ],
+  "createdBy": {
+    "name": "Path of Building Community",
+    "url": "https://github.com/PathOfBuildingCommunity"
+  }
+}

@@ -177,3 +177,17 @@ La subcarpeta por juego mantiene la misma flat-structure simple dentro de cada j
 **Migración**: ya hecha en 2026-05-04 con script Python. Para subir nuevos assets: crear la carpeta `public/images/tools/<game>/` si no existe, y guardar el archivo dentro. El path en `meta.json` debe matchear (`/images/tools/<game>/<tool-id>-logo.<ext>`).
 
 **Tools multi-game**: por ahora ningún tool del codex aparece en múltiples carpetas `content/games/`. Si en el futuro un tool multi-game tuviera entries en varias carpetas, los assets viven una sola vez en la carpeta del game primario y los otros games referencian el mismo path absoluto desde su `meta.json`. La nueva estructura no duplica archivos.
+
+### 2026-05-04 - Game .md frontmatter: `tagline` requerido, `quickTake` retirado
+
+**Cambio**: el frontmatter de `content/games/<id>/{es,en}.md` queda canónicamente con `title` + `tagline` + `description`. Se elimina `quickTake` del schema de game .md (era código muerto — solo el detalle de tool lo renderiza).
+
+**Razón**: las cards del landing leen `game.taglineEs/En` y rendean condicionalmente. Tres juegos (WoW, LoL, CS2) habían sido escritos con `quickTake` en lugar de `tagline`, lo que dejaba sus cards sin bajada de texto mientras PoE/PoE 2/Genshin sí la mostraban — inconsistencia visual silenciosa que solo se notó al revisar el landing. Codificar la regla previene la repetición cuando se agregue el siguiente juego.
+
+**Archivos afectados**:
+- `content/games/world-of-warcraft/{es,en}.md` — agregado `tagline`
+- `content/games/league-of-legends/{es,en}.md` — agregado `tagline`
+- `content/games/counter-strike-2/{es,en}.md` — agregado `tagline`
+- `docs/RULES.md` — nueva sección "Editorial conventions para game .md" con el frontmatter canónico
+
+**Migración**: si un game .md futuro nace sin `tagline`, su card del landing queda sin bajada (no rompe el build, solo es feo). El campo `quickTake` legacy en game .md no estorba pero es ruido — barrer cuando se toque el archivo por otra razón.

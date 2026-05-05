@@ -1,0 +1,46 @@
+{
+  "id": "bubahz",
+  "name": "BuBahz",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@bubahz",
+      "url": "https://www.youtube.com/@bubahz",
+      "channelId": "UCTRTxVqU4pNLyNpp7BwgdYQ",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "bubahz",
+      "url": "https://www.twitch.tv/bubahz"
+    }
+  ],
+  "specialties": [
+    "patch-overviews",
+    "boss-guides",
+    "league-mechanics",
+    "campaign-tips"
+  ],
+  "games": ["path-of-exile-2"],
+  "contentTypes": ["videos", "live-streams", "guides"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Creator hispano con foco en formato corto y al grano. Sus overviews de cada patch (8-12 minutos típico) condensan lo esencial sin video largo de hora — útil para players que quieren saber 'qué cambió y qué hago primero' sin invertir tarde leyendo. También cubre boss kills clave como Arbiter of the Ash con guías de mecánicas paso a paso. Complemento natural a creators de formato largo.",
+  "noteEn": "Spanish-language creator focused on short, to-the-point format. His patch overviews (typical 8-12 minutes) condense the essentials without an hour-long video — useful for players who want to know 'what changed and what to do first' without investing an afternoon reading. He also covers key boss kills like Arbiter of the Ash with step-by-step mechanic guides. Natural complement to long-form creators.",
+  "highlightsEs": [
+    "Overviews de cada patch en formato corto, ideal para audiencia time-constrained",
+    "Guías de bosses pinnacle (Arbiter, Trialmaster) en español",
+    "Cobertura de mecánicas de campaña con tips de eficiencia",
+    "Streaming activo en Twitch durante temporadas activas"
+  ],
+  "highlightsEn": [
+    "Short-format patch overviews, ideal for time-constrained audiences",
+    "Pinnacle boss guides (Arbiter, Trialmaster) in Spanish",
+    "Campaign mechanics coverage with efficiency tips",
+    "Active Twitch streaming during active seasons"
+  ],
+  "avatar": "/images/creators/bubahz-avatar.jpg",
+  "banner": "/images/creators/bubahz-banner.jpg"
+}

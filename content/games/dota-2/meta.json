@@ -1,0 +1,151 @@
+{
+  "id": "dota-2",
+  "name": "Dota 2",
+  "shortName": "Dota 2",
+  "developer": "Valve",
+  "releaseYear": 2013,
+  "officialUrl": "https://www.dota2.com",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/570/Dota_2/",
+      "appId": "570",
+      "model": "free-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "free-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["cosmetics", "battle-pass", "subscription", "loot-boxes"],
+    "payToWin": false,
+    "noteEs": "Free-to-play estricto: todos los héroes están desbloqueados desde el día uno, sin currency in-game para comprarlos ni gating de gameplay. La monetización es 100% cosmética (sets de items, terrenos, anuncios, paquetes de voz) y la suscripción opcional Dota Plus, que aporta stats personales, sugerencias en partida y skins exclusivas pero no afecta el balance. The International se financió históricamente por el Battle Pass (Compendium) cuyas recompensas también son cosméticas. No hay forma legítima de pagar para ganar.",
+    "noteEn": "Strict free-to-play: every hero is unlocked from day one, with no in-game currency to purchase them and no gameplay gating. Monetization is 100% cosmetic (item sets, terrains, announcers, voice packs) plus the optional Dota Plus subscription, which adds personal stats, in-game suggestions, and exclusive cosmetics but does not affect balance. The International was historically funded through the Battle Pass (Compendium), whose rewards are also cosmetic. There is no legitimate way to pay to win."
+  },
+  "platforms": ["windows", "macos", "linux"],
+  "genres": ["moba", "team-based", "competitive", "esports"],
+  "theme": {
+    "primary": "#7a1f1f",
+    "secondary": "#1a0d0d",
+    "accent": "#d63a2c",
+    "background": "#0a0606",
+    "text": "#e8d8c8"
+  },
+  "logo": "/images/games/dota-2-logo.png",
+  "heroImage": "/images/games/dota-2-hero.webp",
+  "toolCategories": [
+    {
+      "id": "match-history",
+      "nameEs": "Historial de partidas",
+      "nameEn": "Match history",
+      "descriptionEs": "Trackers de partidas, stats personales, performance por héroe y análisis post-game.",
+      "descriptionEn": "Match trackers, personal stats, per-hero performance, and post-game analysis.",
+      "icon": "📊"
+    },
+    {
+      "id": "meta-analysis",
+      "nameEs": "Análisis del meta",
+      "nameEn": "Meta analysis",
+      "descriptionEs": "Datos agregados de pick rate, win rate y builds dominantes en alto MMR y la scene profesional.",
+      "descriptionEn": "Aggregated data on pick rates, win rates, and dominant builds in high MMR and the pro scene.",
+      "icon": "📈"
+    },
+    {
+      "id": "hero-builds",
+      "nameEs": "Builds y guías de héroes",
+      "nameEn": "Hero builds & guides",
+      "descriptionEs": "Guías comunitarias por héroe: items, skill order, matchups y gameplan por rol.",
+      "descriptionEn": "Community guides per hero: items, skill order, matchups, and gameplan by role.",
+      "icon": "⚔️"
+    },
+    {
+      "id": "coaching",
+      "nameEs": "Coaching y mejora",
+      "nameEn": "Coaching & improvement",
+      "descriptionEs": "Plataformas con análisis de comportamiento, tips contextuales y planes de mejora dirigidos.",
+      "descriptionEn": "Platforms with behavior analysis, contextual tips, and targeted improvement plans.",
+      "icon": "🎓"
+    },
+    {
+      "id": "draft-analysis",
+      "nameEs": "Análisis de draft",
+      "nameEn": "Draft analysis",
+      "descriptionEs": "Counter picks, sinergias y simuladores de pick/ban basados en data de millones de partidas.",
+      "descriptionEn": "Counter picks, synergies, and pick/ban simulators backed by data from millions of matches.",
+      "icon": "🎯"
+    },
+    {
+      "id": "live-analysis",
+      "nameEs": "Análisis en vivo",
+      "nameEn": "Live analysis",
+      "descriptionEs": "Overlays e in-game assistants que aportan inteligencia sobre el match mientras jugás.",
+      "descriptionEn": "Overlays and in-game assistants that surface match intelligence while you play.",
+      "icon": "🔴"
+    },
+    {
+      "id": "esports",
+      "nameEs": "Stats y database de esports",
+      "nameEn": "Esports stats & database",
+      "descriptionEs": "Bases de datos competitivas y estadísticas profundas de equipos, jugadores y torneos.",
+      "descriptionEn": "Competitive databases and deep statistics on teams, players, and tournaments.",
+      "icon": "🏆"
+    },
+    {
+      "id": "replay-analysis",
+      "nameEs": "Análisis de replays",
+      "nameEn": "Replay analysis",
+      "descriptionEs": "Parsers y visualizadores de replays para revisar partidas en detalle frame-a-frame.",
+      "descriptionEn": "Replay parsers and viewers to review matches in detail frame-by-frame.",
+      "icon": "🎬"
+    },
+    {
+      "id": "wiki",
+      "nameEs": "Wiki y referencia",
+      "nameEn": "Wiki & reference",
+      "descriptionEs": "Bases de datos enciclopédicas con héroes, items, mecánicas, lore e historia del juego.",
+      "descriptionEn": "Encyclopedic databases with heroes, items, mechanics, lore, and game history.",
+      "icon": "📚"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para principiantes",
+      "nameEn": "Beginner guides",
+      "descriptionEs": "Recursos de entrada para nuevos jugadores: roles, mecánicas básicas, primeros héroes.",
+      "descriptionEn": "Entry resources for new players: roles, basic mechanics, first heroes.",
+      "icon": "🎓"
+    },
+    {
+      "id": "hero-guides",
+      "nameEs": "Guías de héroes",
+      "nameEn": "Hero guides",
+      "descriptionEs": "Guías específicas por héroe: matchups, combos, builds y tips avanzados.",
+      "descriptionEn": "Hero-specific guides: matchups, combos, builds, and advanced tips.",
+      "icon": "⚔️"
+    },
+    {
+      "id": "patch-coverage",
+      "nameEs": "Cobertura de parches",
+      "nameEn": "Patch coverage",
+      "descriptionEs": "Análisis de cambios de balance, items, héroes y meta shifts en cada parche.",
+      "descriptionEn": "Analysis of balance changes, items, heroes, and meta shifts in each patch.",
+      "icon": "📋"
+    },
+    {
+      "id": "esports-coverage",
+      "nameEs": "Cobertura de esports",
+      "nameEn": "Esports coverage",
+      "descriptionEs": "TI, DPC, ligas regionales y majors: análisis, predicciones, recaps y entrevistas.",
+      "descriptionEn": "TI, DPC, regional leagues, and majors: analysis, predictions, recaps, and interviews.",
+      "icon": "📺"
+    },
+    {
+      "id": "ranked-improvement",
+      "nameEs": "Mejora en ranked",
+      "nameEn": "Ranked improvement",
+      "descriptionEs": "Recursos para subir MMR: macro game, mentalidad, climbing strategies y review de partidas.",
+      "descriptionEn": "Resources for climbing MMR: macro game, mindset, climbing strategies, and match reviews.",
+      "icon": "📈"
+    }
+  ]
+}

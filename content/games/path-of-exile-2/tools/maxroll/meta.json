@@ -1,0 +1,75 @@
+{
+  "id": "maxroll",
+  "name": "Maxroll",
+  "shortName": "Maxroll",
+  "taglineEs": "Hub editorial de guías y planners de PoE 2 escritos por jugadores top",
+  "taglineEn": "Editorial hub of PoE 2 guides and planners written by top players",
+  "url": "https://maxroll.gg/poe2",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "build-guides",
+    "atlas-tree",
+    "leveling",
+    "essential",
+    "editorial"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-04",
+  "logo": "/images/tools/path-of-exile-2/maxroll-logo.webp",
+  "screenshots": [
+    {
+      "url": "/images/tools/path-of-exile-2/maxroll-ss-1.png"
+    },
+    {
+      "url": "/images/tools/path-of-exile-2/maxroll-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "path-of-building",
+    "poe-ninja"
+  ],
+  "alternatives": [
+    "mobalytics"
+  ],
+  "createdBy": {
+    "name": "Maxroll Team",
+    "url": "https://maxroll.gg/about"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      {
+        "gameId": "path-of-exile",
+        "url": "https://maxroll.gg/poe"
+      },
+      {
+        "gameId": "diablo-4",
+        "url": "https://maxroll.gg/d4"
+      },
+      {
+        "gameId": "last-epoch",
+        "url": "https://maxroll.gg/last-epoch"
+      },
+      {
+        "gameId": "diablo-2-resurrected",
+        "url": "https://maxroll.gg/d2"
+      },
+      {
+        "gameId": "lost-ark",
+        "url": "https://maxroll.gg/lost-ark"
+      }
+    ]
+  }
+}

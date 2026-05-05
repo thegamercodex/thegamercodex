@@ -1,0 +1,80 @@
+{
+  "category": "patch-coverage",
+  "resources": [
+    {
+      "id": "speeed-7-41b-full-breakdown-2026",
+      "type": "video",
+      "title": "Dota 2 Patch 7.41b Full Breakdown – Health Restoration NERFED Hard!",
+      "creator": "SpeeedDota",
+      "creatorId": "speeed",
+      "url": "https://www.youtube.com/watch?v=VzlLsUxgKFI",
+      "youtubeId": "VzlLsUxgKFI",
+      "language": "en",
+      "duration": "26:25",
+      "publishedDate": "2026-04-07",
+      "thumbnail": "https://i.ytimg.com/vi/VzlLsUxgKFI/maxresdefault.jpg",
+      "noteEs": "Breakdown completo del parche 7.41b por SpeeedDota: cambios de héroes, items, mecánicas de health restoration, y análisis de impacto en el meta. La referencia para mantenerse al día con un solo video después de cada parche.",
+      "noteEn": "Full breakdown of patch 7.41b by SpeeedDota: hero changes, items, health restoration mechanics, and meta impact analysis. The single-video reference to stay current after every patch."
+    },
+    {
+      "id": "speeed-7-41a-full-changes-2026",
+      "type": "video",
+      "title": "NEW PATCH 7.41a FULL CHANGES - Massive Hero Buffs & Nerfs",
+      "creator": "SpeeedDota",
+      "creatorId": "speeed",
+      "url": "https://www.youtube.com/watch?v=pJeSw-PQ7_k",
+      "youtubeId": "pJeSw-PQ7_k",
+      "language": "en",
+      "duration": "13:04",
+      "publishedDate": "2026-03-27",
+      "thumbnail": "https://i.ytimg.com/vi/pJeSw-PQ7_k/maxresdefault.jpg",
+      "noteEs": "Cobertura del parche 7.41a en formato compacto (13 min) con foco en los buffs y nerfs de héroes más relevantes. Útil cuando no querés esperar a que se acumule data del meta y solo necesitás saber qué cambió.",
+      "noteEn": "Patch 7.41a coverage in compact format (13 min) focused on the most relevant hero buffs and nerfs. Useful when you don't want to wait for meta data to accumulate and just need to know what changed."
+    },
+    {
+      "id": "purge-7-41-first-impressions-2026",
+      "type": "video",
+      "title": "NEW PATCH 7.41 with Purge first Impressions",
+      "creator": "Purge",
+      "creatorId": "purge",
+      "url": "https://www.youtube.com/watch?v=y0tAsQQAdCw",
+      "youtubeId": "y0tAsQQAdCw",
+      "language": "en",
+      "duration": "4:08:01",
+      "publishedDate": "2026-03-25",
+      "thumbnail": "https://i.ytimg.com/vi/y0tAsQQAdCw/maxresdefault.jpg",
+      "noteEs": "Stream de 4 horas de Purge probando el parche 7.41 en vivo. Su lectura inicial — sin tiempo para analizar a fondo — es valiosa porque captura las reacciones honestas de un veterano frente a cambios sistémicos.",
+      "noteEn": "4-hour Purge stream testing patch 7.41 live. His initial read — without time for deep analysis — is valuable because it captures the honest reactions of a veteran facing systemic changes."
+    },
+    {
+      "id": "chuwaca-parche-7-41b-resumen-2026",
+      "type": "video",
+      "title": "DOTA 2 PARCHE 7.41B RESUMEN DE ITEMS Y HÉROES META NERFS Y BUFFS",
+      "creator": "Chuwaca",
+      "creatorId": "chuwaca",
+      "url": "https://www.youtube.com/watch?v=iCU2AeNCd_I",
+      "youtubeId": "iCU2AeNCd_I",
+      "language": "es",
+      "duration": "17:54",
+      "publishedDate": "2026-04-07",
+      "thumbnail": "https://i.ytimg.com/vi/iCU2AeNCd_I/maxresdefault.jpg",
+      "noteEs": "Cobertura del parche 7.41b en español por Chuwaca: 18 min con foco en cambios de items, héroes nerfeados y buffeados, y por qué los necros perdieron en este parche. Para hispanohablantes que prefieren resúmenes en su idioma.",
+      "noteEn": "Patch 7.41b coverage in Spanish by Chuwaca: 18 min focused on item changes, nerfed and buffed heroes, and why the necros lost in this patch. For Spanish speakers who prefer summaries in their language."
+    },
+    {
+      "id": "speeed-best-hero-combos-7-41b-2026",
+      "type": "video",
+      "title": "9 BEST Hero Combos in Patch 7.41b – Dota 2 Meta Guide",
+      "creator": "SpeeedDota",
+      "creatorId": "speeed",
+      "url": "https://www.youtube.com/watch?v=tDILqeq1CJs",
+      "youtubeId": "tDILqeq1CJs",
+      "language": "en",
+      "duration": "14:39",
+      "publishedDate": "2026-04-28",
+      "thumbnail": "https://i.ytimg.com/vi/tDILqeq1CJs/maxresdefault.jpg",
+      "noteEs": "9 combos de héroes que dominan el parche 7.41b: por qué funcionan, en qué role queue, y cómo armarlos en draft. Util para entender no solo cambios individuales del parche sino sinergias emergentes.",
+      "noteEn": "9 hero combos that dominate patch 7.41b: why they work, in which role queue, and how to assemble them in draft. Useful for understanding not only individual patch changes but emerging synergies."
+    }
+  ]
+}

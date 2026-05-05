@@ -1,0 +1,47 @@
+{
+  "id": "poe2db",
+  "name": "PoE2DB",
+  "shortName": "PoE2DB",
+  "taglineEs": "Base de datos completa de items, skills, monstruos y data extraída de PoE 2",
+  "taglineEn": "Complete database of PoE 2 items, skills, monsters, and extracted data",
+  "url": "https://poe2db.tw/us/",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en",
+    "zh-tw"
+  ],
+  "tags": [
+    "database",
+    "datamining",
+    "wiki",
+    "reference",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-04",
+  "logo": "/images/tools/path-of-exile-2/poe2db-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/path-of-exile-2/poe2db-ss-1.png"
+    },
+    {
+      "url": "/images/tools/path-of-exile-2/poe2db-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "poe2-wiki",
+    "craft-of-exile"
+  ],
+  "alternatives": [
+    "poe2-wiki"
+  ]
+}

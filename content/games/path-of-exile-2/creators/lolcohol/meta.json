@@ -1,0 +1,51 @@
+{
+  "id": "lolcohol",
+  "name": "Lolcohol",
+  "country": "UK",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@lolcohol",
+      "url": "https://www.youtube.com/@lolcohol",
+      "channelId": "UCW1ulY8s-PJU8oL4F3eS9tA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "lolcohol",
+      "url": "https://www.twitch.tv/lolcohol"
+    },
+    {
+      "type": "twitter",
+      "handle": "@lolcohol",
+      "url": "https://twitter.com/lolcohol"
+    }
+  ],
+  "specialties": [
+    "build-guides",
+    "league-starters",
+    "off-meta-builds",
+    "skill-deep-dives"
+  ],
+  "games": ["path-of-exile-2"],
+  "contentTypes": ["videos", "live-streams", "guides"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Builder con foco en arquetipos menos meta de PoE 2 — Grenade Deadeye, builds de Mercenary, combinaciones que la mayoría no toca. Sus guías son cortas, prácticas y usan PoB y Mobalytics para sharing, lo que las hace más accesibles que tutoriales-avalancha de creators más pesados. Partner editorial de Mobalytics para PoE 2.",
+  "noteEn": "A builder focused on less-meta archetypes in PoE 2 — Grenade Deadeye, Mercenary builds, combinations most don't touch. His guides are short, practical, and use PoB and Mobalytics for sharing, making them more accessible than tutorial-avalanches from heavier creators. Editorial partner with Mobalytics for PoE 2.",
+  "highlightsEs": [
+    "Guías de league-start de PoE 2 publicadas día 1 cada patch",
+    "Foco en builds off-meta como Grenade Deadeye o spear archetypes",
+    "Format de video corto y conciso (8-15 minutos típico)",
+    "Partner editorial de Mobalytics — perfil dedicado en su plataforma"
+  ],
+  "highlightsEn": [
+    "PoE 2 league-start guides published day 1 every patch",
+    "Focus on off-meta builds like Grenade Deadeye or spear archetypes",
+    "Short, concise video format (typical 8-15 minutes)",
+    "Mobalytics editorial partner — dedicated profile on the platform"
+  ],
+  "avatar": "/images/creators/lolcohol-avatar.jpg",
+  "banner": "/images/creators/lolcohol-banner.jpg"
+}

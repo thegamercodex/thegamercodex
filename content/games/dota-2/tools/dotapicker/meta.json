@@ -1,0 +1,39 @@
+{
+  "id": "dotapicker",
+  "name": "DotaPicker",
+  "shortName": "DotaPicker",
+  "taglineEs": "Counter-pick y synergy tool de Dota 2 para ayudar en draft con sugerencias en tiempo real basadas en pick-ban del equipo enemigo",
+  "taglineEn": "Dota 2 counter-pick and synergy tool to help draft with real-time suggestions based on the enemy team's pick-ban",
+  "url": "https://dotapicker.com",
+  "category": "draft-analysis",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "draft-tool",
+    "counter-pick",
+    "synergy",
+    "all-pick",
+    "captains-mode",
+    "free"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/dota-2/dotapicker-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/dota-2/dotapicker-ss-1.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["dota2protracker", "dotabuff"],
+  "alternatives": ["dota2protracker"],
+  "createdBy": {
+    "name": "DotaPicker.com",
+    "url": "https://dotapicker.com"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "tft",
+  "name": "The Forbidden Trove",
+  "shortName": "TFT",
+  "taglineEs": "El Discord más grande de PoE 1 y 2 — hub central de bulk trading, servicios y crafting de mirror tier",
+  "taglineEn": "The largest PoE 1 and 2 Discord — central hub for bulk trading, services and mirror-tier crafting",
+  "url": "https://discord.com/invite/tftrove",
+  "category": "trading",
+  "type": "discord",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": "https://github.com/The-Forbidden-Trove",
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "bulk-trading",
+    "mirror-service",
+    "carry-services",
+    "community-hub",
+    "discord-server",
+    "controversial"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-04",
+  "logo": "/images/tools/path-of-exile-2/tft-logo.jpg",
+  "screenshots": [
+    {
+      "url": "/images/tools/path-of-exile-2/tft-ss-1.png"
+    },
+    {
+      "url": "/images/tools/path-of-exile-2/tft-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "poe-trade-official",
+    "poe-ninja"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "JeNebu and TFT moderation team",
+    "url": "https://forbiddentrove.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      {
+        "gameId": "path-of-exile",
+        "url": "https://discord.com/invite/tftrove"
+      }
+    ]
+  }
+}

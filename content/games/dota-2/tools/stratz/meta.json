@@ -1,0 +1,42 @@
+{
+  "id": "stratz",
+  "name": "STRATZ",
+  "shortName": "STRATZ",
+  "taglineEs": "Plataforma de stats de Dota 2 con visualizaciones modernas, predicciones AI-powered y sugerencias de mejora personalizadas",
+  "taglineEn": "Dota 2 stats platform with modern visualizations, AI-powered match predictions, and personalized improvement suggestions",
+  "url": "https://stratz.com",
+  "category": "match-history",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "android", "ios"],
+  "languages": ["en"],
+  "tags": [
+    "match-history",
+    "ai-insights",
+    "match-prediction",
+    "personalized",
+    "modern-ui",
+    "freemium"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/dota-2/stratz-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/dota-2/stratz-ss-1.png"
+    },
+    {
+      "url": "/images/tools/dota-2/stratz-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["dotabuff", "opendota", "dota2protracker"],
+  "alternatives": ["dotabuff", "opendota"],
+  "createdBy": {
+    "name": "STRATZ",
+    "url": "https://stratz.com/about"
+  }
+}

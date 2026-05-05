@@ -1,0 +1,55 @@
+{
+  "id": "filterblade",
+  "name": "FilterBlade",
+  "shortName": "FilterBlade",
+  "taglineEs": "Editor visual del loot filter oficial de NeverSink — soporte completo para PoE 2",
+  "taglineEn": "Visual editor for NeverSink's official loot filter — full PoE 2 support",
+  "url": "https://www.filterblade.xyz",
+  "category": "filters",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "loot-filter",
+    "customization",
+    "neversink",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-04",
+  "logo": "/images/tools/path-of-exile-2/filterblade-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/path-of-exile-2/filterblade-ss-1.png"
+    },
+    {
+      "url": "/images/tools/path-of-exile-2/filterblade-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "poe-ninja"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "NeverSink",
+    "url": "https://www.youtube.com/@NeverSinkLootFilter"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      {
+        "gameId": "path-of-exile",
+        "url": "https://www.filterblade.xyz"
+      }
+    ]
+  }
+}

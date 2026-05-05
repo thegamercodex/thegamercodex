@@ -1,0 +1,39 @@
+{
+  "id": "dotaplus-overwolf",
+  "name": "DotaPlus by Overwolf",
+  "shortName": "DotaPlus (Overwolf)",
+  "taglineEs": "Asistente in-game de Dota 2 sobre Overwolf con draft suggestions, item builds en tiempo real y post-match analysis",
+  "taglineEn": "Dota 2 in-game assistant on Overwolf with draft suggestions, real-time item builds, and post-match analysis",
+  "url": "https://www.overwolf.com/app/overwolf-dotaplus",
+  "category": "live-analysis",
+  "type": "overlay",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": [
+    "in-game-overlay",
+    "draft-helper",
+    "smart-builds",
+    "objective-tracking",
+    "post-match-analysis",
+    "overwolf"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/dota-2/dotaplus-overwolf-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/dota-2/dotaplus-overwolf-ss-1.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["dota-coach", "dota-plus"],
+  "alternatives": ["dota-coach", "dota-plus"],
+  "createdBy": {
+    "name": "Overwolf",
+    "url": "https://www.overwolf.com"
+  }
+}

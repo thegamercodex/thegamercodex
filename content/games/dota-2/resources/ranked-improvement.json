@@ -1,0 +1,80 @@
+{
+  "category": "ranked-improvement",
+  "resources": [
+    {
+      "id": "bsj-how-to-unthrow-close-game-2026",
+      "type": "video",
+      "title": "How to Unthrow a Close Game",
+      "creator": "BSJ",
+      "creatorId": "bsj",
+      "url": "https://www.youtube.com/watch?v=aD6uaX7NK_Y",
+      "youtubeId": "aD6uaX7NK_Y",
+      "language": "en",
+      "duration": "1:17",
+      "publishedDate": "2026-04-30",
+      "thumbnail": "https://i.ytimg.com/vi/aD6uaX7NK_Y/maxresdefault.jpg",
+      "noteEs": "Short de 1.5 min con un concepto clave para subir MMR: cómo recuperar partidas que se sienten perdidas. La diferencia entre throwers y climbers está exactamente en el manejo de momentos de incertidumbre — BSJ lo destila en 80 segundos.",
+      "noteEn": "1.5-min short with a key concept for climbing MMR: how to recover games that feel lost. The difference between throwers and climbers is exactly in the handling of uncertain moments — BSJ distills it in 80 seconds."
+    },
+    {
+      "id": "bsj-after-fights-do-this-2026",
+      "type": "video",
+      "title": "After fights, Do this!",
+      "creator": "BSJ",
+      "creatorId": "bsj",
+      "url": "https://www.youtube.com/watch?v=mWW17jgjbcw",
+      "youtubeId": "mWW17jgjbcw",
+      "language": "en",
+      "duration": "1:07",
+      "publishedDate": "2026-04-24",
+      "thumbnail": "https://i.ytimg.com/vi/mWW17jgjbcw/maxresdefault.jpg",
+      "noteEs": "Tip macro extremadamente accionable: qué hacer en los primeros 30 segundos después de un team fight ganado. La mayoría de jugadores en bajo MMR pierde ventajas en esta ventana — BSJ explica el patrón correcto en 1 minuto.",
+      "noteEn": "Extremely actionable macro tip: what to do in the first 30 seconds after a won team fight. Most low-MMR players lose advantages in this window — BSJ explains the correct pattern in 1 minute."
+    },
+    {
+      "id": "bsj-why-smurfs-top-networth-2026",
+      "type": "video",
+      "title": "Why Smurfs Are Always Top Networth",
+      "creator": "BSJ",
+      "creatorId": "bsj",
+      "url": "https://www.youtube.com/watch?v=2QFH6GeAgps",
+      "youtubeId": "2QFH6GeAgps",
+      "language": "en",
+      "duration": "56:47",
+      "publishedDate": "2026-04-24",
+      "thumbnail": "https://i.ytimg.com/vi/2QFH6GeAgps/maxresdefault.jpg",
+      "noteEs": "Casi una hora analizando por qué los smurfs siempre tienen más oro en partidas: timings de farm, eficiencia en lane, decisiones óptimas. Es contenido educativo con foco en el gap entre MMR alto y MMR medio que cualquier climber necesita cerrar.",
+      "noteEn": "Nearly an hour analyzing why smurfs always have more gold in matches: farm timings, lane efficiency, optimal decisions. It's educational content focused on the gap between high MMR and mid MMR that any climber needs to close."
+    },
+    {
+      "id": "bsj-3400-mmr-carry-coaching-2026",
+      "type": "video",
+      "title": "3400 MMR Carry Coaching!",
+      "creator": "BSJ",
+      "creatorId": "bsj",
+      "url": "https://www.youtube.com/watch?v=04BymNjxi2o",
+      "youtubeId": "04BymNjxi2o",
+      "language": "en",
+      "duration": "1:14:56",
+      "publishedDate": "2026-04-29",
+      "thumbnail": "https://i.ytimg.com/vi/04BymNjxi2o/maxresdefault.jpg",
+      "noteEs": "BSJ revisa las partidas de un jugador 3400 MMR (rango Crusader/Archon) explicando errores de macro y micro. Para un jugador que se siente \"hard stuck\" en este rango, ver coaching directo a su nivel es uno de los recursos más útiles disponibles gratis.",
+      "noteEn": "BSJ reviews matches from a 3400 MMR player (Crusader/Archon tier) explaining macro and micro errors. For a player feeling \"hard stuck\" in this range, watching direct coaching at their level is one of the most useful free resources available."
+    },
+    {
+      "id": "speeed-go-pro-esports-2026",
+      "type": "video",
+      "title": "What It REALLY Takes to Go Pro in Esports",
+      "creator": "SpeeedDota",
+      "creatorId": "speeed",
+      "url": "https://www.youtube.com/watch?v=D6Y45GzD53U",
+      "youtubeId": "D6Y45GzD53U",
+      "language": "en",
+      "duration": "13:50",
+      "publishedDate": "2026-04-15",
+      "thumbnail": "https://i.ytimg.com/vi/D6Y45GzD53U/maxresdefault.jpg",
+      "noteEs": "Reflexión sincera de SpeeedDota sobre lo que realmente requiere ser pro en Dota 2. Aunque está enmarcado en \"go pro\", aplica al mindset de cualquiera que quiera mejorar seriamente: hábitos, dedicación, manejo del fracaso. 14 min de honestidad sin hype.",
+      "noteEn": "Honest reflection from SpeeedDota on what it truly takes to go pro in Dota 2. Although framed as \"go pro,\" it applies to the mindset of anyone seriously wanting to improve: habits, dedication, dealing with failure. 14 min of honesty without hype."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "liquipedia-dota-2",
+  "name": "Liquipedia Dota 2",
+  "shortName": "Liquipedia",
+  "taglineEs": "La wiki de esports definitiva para Dota 2: torneos, equipos, jugadores, ligas e historia competitiva en un solo lugar",
+  "taglineEn": "The definitive esports wiki for Dota 2: tournaments, teams, players, leagues, and competitive history in one place",
+  "url": "https://liquipedia.net/dota2/Main_Page",
+  "category": "esports",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "platforms": ["web"],
+  "languages": ["en", "es"],
+  "tags": [
+    "esports-wiki",
+    "tournaments",
+    "teams",
+    "players",
+    "history",
+    "community-edited"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/dota-2/liquipedia-dota-2-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/dota-2/liquipedia-dota-2-ss-1.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["datdota", "dota-2-wiki"],
+  "alternatives": ["dota-2-wiki"],
+  "createdBy": {
+    "name": "Team Liquid + community contributors",
+    "url": "https://liquipedia.net/dota2/Liquipedia:About"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "mobalytics",
+  "name": "Mobalytics PoE 2",
+  "shortName": "Mobalytics",
+  "taglineEs": "Hub de builds y guías de PoE 2 con planner web propio y build tracker integrado",
+  "taglineEn": "PoE 2 build hub with its own web planner and integrated build tracker",
+  "url": "https://mobalytics.gg/poe-2",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "build-guides",
+    "build-planner",
+    "build-tracker",
+    "tier-list",
+    "creator-builds"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-04",
+  "logo": "/images/tools/path-of-exile-2/mobalytics-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/path-of-exile-2/mobalytics-ss-1.png"
+    },
+    {
+      "url": "/images/tools/path-of-exile-2/mobalytics-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "path-of-building",
+    "maxroll"
+  ],
+  "alternatives": [
+    "maxroll"
+  ],
+  "createdBy": {
+    "name": "Mobalytics",
+    "url": "https://mobalytics.gg/about"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      {
+        "gameId": "path-of-exile",
+        "url": "https://mobalytics.gg/poe"
+      },
+      {
+        "gameId": "league-of-legends",
+        "url": "https://mobalytics.gg/lol"
+      }
+    ]
+  }
+}

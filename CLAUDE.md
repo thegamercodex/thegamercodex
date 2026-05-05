@@ -446,7 +446,11 @@ Esto preserva consistencia informativa: un usuario aprende a leer los estados (v
 
 ### Cómo agregar un juego nuevo
 
-1. Crear `content/games/[id]/meta.json` con el bloque `theme` (5 colores).
+**Para poblar contenido completo de un juego (tools + creators + resources)**, seguir el runbook end-to-end de **`docs/ADD_GAME_PLAYBOOK.md`** — define el orden de fases (research de tools **antes** de armar `meta.json` porque las `toolCategories` se derivan de las tools encontradas), helpers de verificación de YouTube vía curl, y descarga automática de avatares desde `og:image`. Trigger: cualquier variante de *"agregar [game]"*.
+
+Para solo el theming visual de un juego ya existente:
+
+1. Crear o editar `content/games/[id]/meta.json` con el bloque `theme` (5 colores).
 2. Listo — el game wrapper deriva automáticamente las variantes (hover, subtle, etc.) y las cards/buttons del nuevo juego respiran su paleta sin tocar código.
 
 ### Para contraste y accesibilidad

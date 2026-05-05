@@ -15,6 +15,66 @@
       "thumbnail": "https://i.ytimg.com/vi/euwB5ZgQHSc/maxresdefault.jpg",
       "noteEs": "Estrategia específica de farming en PoE 2 0.4: NoloComenta documenta cómo sacar ~240 divine por jornada de 8h farmeando Sekhemas. Foco práctico, números concretos, ideal para players que arrancan la liga con resources limitados y quieren scaling rápido.",
       "noteEn": "Specific farming strategy in PoE 2 0.4: NoloComenta documents how to extract ~240 divines per 8h session farming Sekhemas. Practical focus, concrete numbers, ideal for players who start the league with limited resources and want fast scaling."
+    },
+    {
+      "id": "conner-converse-poe2-how-to-trade-2024",
+      "type": "video",
+      "title": "How to Trade in Path of Exile 2",
+      "creator": "Conner Converse",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=7tjAx18ZINE",
+      "youtubeId": "7tjAx18ZINE",
+      "language": "en",
+      "duration": "33:34",
+      "publishedDate": "2024-12-16",
+      "thumbnail": "https://i.ytimg.com/vi/7tjAx18ZINE/maxresdefault.jpg",
+      "noteEs": "Guía exhaustiva (33 minutos) de Conner Converse cubriendo el sistema de trade de PoE 2 desde fundamentos: cómo usar premium tabs para listar, cómo buscar items específicos, cómo hacer bulk currency exchange, etiqueta de whisper y errores típicos. Anchor en inglés para players que necesitan entender trade end-to-end.",
+      "noteEn": "Exhaustive 33-minute guide by Conner Converse covering PoE 2's trade system from fundamentals: how to use premium tabs to list, how to search specific items, how to bulk currency exchange, whisper etiquette and common mistakes. English anchor for players needing to understand trade end-to-end."
+    },
+    {
+      "id": "schwingy-poe2-complete-beginner-trading-2025",
+      "type": "video",
+      "title": "Complete Beginner's Guide to Trading in Path of Exile 2",
+      "creator": "Schwingy",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Kjs3NWfVa6I",
+      "youtubeId": "Kjs3NWfVa6I",
+      "language": "en",
+      "duration": "11:04",
+      "publishedDate": "2025-09-05",
+      "thumbnail": "https://i.ytimg.com/vi/Kjs3NWfVa6I/maxresdefault.jpg",
+      "noteEs": "Versión condensada (11 minutos) del trading básico en PoE 2 — Schwingy cubre lo mínimo necesario para arrancar a tradear sin perderse en detalles. Complemento del video largo de Conner Converse para quienes prefieren formato corto. Actualizado al estado del trade post-0.3 con currency exchange.",
+      "noteEn": "Condensed (11-minute) take on PoE 2 basic trading — Schwingy covers the minimum needed to start trading without getting lost in detail. Complement to Conner Converse's long video for those preferring short format. Updated to post-0.3 trade state with currency exchange."
+    },
+    {
+      "id": "spud-the-king-only-trading-guide-poe2-03-2025",
+      "type": "video",
+      "title": "ONLY Trading Guide YOU NEED - PoE 2 (0.3) + new system",
+      "creator": "Spud the King",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=2mZxe96r0no",
+      "youtubeId": "2mZxe96r0no",
+      "language": "en",
+      "duration": "28:48",
+      "publishedDate": "2025-08-31",
+      "thumbnail": "https://i.ytimg.com/vi/2mZxe96r0no/maxresdefault.jpg",
+      "noteEs": "Spud the King cubre el sistema de trade introducido en 0.3 (NPC Ange para offline selling) además del flow estándar. 28 minutos en profundidad, ideal para players que vuelven después de meses y quieren entender qué cambió en el trading sin tener que leer patch notes.",
+      "noteEn": "Spud the King covers the trade system introduced in 0.3 (NPC Ange for offline selling) alongside the standard flow. 28 in-depth minutes, ideal for players returning after months and wanting to understand what changed in trading without reading patch notes."
+    },
+    {
+      "id": "mattjestic-life-poe2-trading-strategies-easy-currency-2024",
+      "type": "video",
+      "title": "POE 2 Trading Guide & Strategies For Easy Currency Making! TURN Trash Into Exalt Orbs!",
+      "creator": "Mattjestic Life",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=KAlUunF0uaY",
+      "youtubeId": "KAlUunF0uaY",
+      "language": "en",
+      "duration": "13:12",
+      "publishedDate": "2024-12-08",
+      "thumbnail": "https://i.ytimg.com/vi/KAlUunF0uaY/maxresdefault.jpg",
+      "noteEs": "Mattjestic Life enfoca trade desde el ángulo de profit: qué items que parecen basura tienen demanda, cómo identificar mods que valen la pena listar, cómo hacer flipping ligero. Más práctico que tutorial — para players que ya saben usar el trade site y quieren aprender estrategia económica.",
+      "noteEn": "Mattjestic Life approaches trade from the profit angle: which trash-looking items have demand, how to identify mods worth listing, how to do light flipping. More practical than tutorial — for players who already know the trade site and want to learn economic strategy."
     }
   ]
 }

@@ -1,5 +1,6 @@
 ---
 title: "Counter-Strike 2"
+tagline: "FPS táctico 5v5 sobre Source 2, el estándar del esports competitivo"
 description: "FPS táctico 5v5 desarrollado por Valve Corporation, lanzado en septiembre de 2023 como sucesor del legendario CS:GO. Free-to-play sobre Source 2 engine, referente del esports global con dos Majors anuales y la base FPS competitiva más establecida del mundo."
 quickTake: "El FPS competitivo por excelencia. Curva de aprendizaje brutal en mecánicas (recoil, economy, callouts, lineups), economía de skins masiva como metagame paralelo, y esports tier-1 con prize pools millonarios. Si jugaste CS:GO, CS2 es la evolución natural sobre Source 2; si vienes de otros FPS, prepárate para una de las experiencias más exigentes del género."
 ---

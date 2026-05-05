@@ -1,0 +1,41 @@
+{
+  "id": "dota-2-replay-manager",
+  "name": "DOTA 2 Replay Manager",
+  "shortName": "D2RM",
+  "taglineEs": "App open-source para parsear y gestionar replays de Dota 2 localmente sin signup ni ads, con vista de partidas y stats locales",
+  "taglineEn": "Open-source app to parse and manage Dota 2 replays locally without signup or ads, with match view and local stats",
+  "url": "https://d2rm.github.io/website/",
+  "category": "replay-analysis",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/d2rm/d2rm",
+  "license": "MIT",
+  "platforms": ["windows", "macos", "linux"],
+  "languages": ["en"],
+  "tags": [
+    "replay-parser",
+    "open-source",
+    "no-signup",
+    "no-ads",
+    "local-storage",
+    "self-hosted"
+  ],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/dota-2/dota-2-replay-manager-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/dota-2/dota-2-replay-manager-ss-1.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": ["opendota", "dotabuff"],
+  "alternatives": ["opendota"],
+  "createdBy": {
+    "name": "d2rm contributors",
+    "url": "https://github.com/d2rm"
+  }
+}

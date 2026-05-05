@@ -2,6 +2,8 @@
 
 Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas están agrupadas por categoría. CLAUDE.md describe **qué es** el proyecto, este archivo describe **cómo se trabaja en él**.
 
+**Para agregar un juego nuevo**, seguir el runbook de **`docs/ADD_GAME_PLAYBOOK.md`** (orden de fases, helpers de verificación de YouTube, descarga de avatares, conteo de resources). El trigger del playbook es cualquier variante de *"agregar [game]"*.
+
 ## Código
 
 - TypeScript estricto. No hay `any` salvo en interop con APIs sin tipos.
@@ -126,6 +128,19 @@ Lucide quitó todos los icons de marca. Mapeo a alternativas genéricas:
 - Hover effects con `accent` del contexto: chrome cyan en landing/header/footer, accent del juego dentro de su sección (heredado vía override en `[game]/layout.tsx`).
 - **`--highlight`** (amarillo gold) es siempre marca y va en endorsements editoriales (estrella ⭐ "essential"), no se usa para theming por juego.
 - Semánticos universales (`--success`, `--warning`, `--danger`, `--info`) son los mismos para PoE que para Genshin: el verde "Free" es el mismo verde en cualquier juego.
+
+## Editorial conventions para game .md
+
+Cada juego tiene `content/games/<id>/es.md` y `en.md` con la página "Sobre el juego".
+
+**Frontmatter requerido**:
+- `title`: nombre completo del juego (no se renderea, sirve de referencia).
+- `tagline`: one-liner ~70 caracteres que aparece en la `GameCard` del landing **y** debajo del título en el `GameHero` de la página del juego. Es lo primero que el usuario lee del juego — debe ser específico y no genérico ("El MOBA por excelencia: 5v5, esports tier-1" sí; "El mejor juego" no). **Si falta, la card del landing queda sin bajada.**
+- `description`: 1-2 frases factuales que expanden el tagline. Se expone en `Game.descriptionEs/En` (futuro uso para OG metadata y SEO).
+
+`quickTake` **no aplica a game .md** — es exclusivo de tool .md. Si lo encontrás en un game .md es legacy y se puede borrar.
+
+**Body**: análisis libre del juego (qué es, por qué importa, contexto del ecosistema). Sin estructura forzada como las tools.
 
 ## Editorial conventions para tool .md
 

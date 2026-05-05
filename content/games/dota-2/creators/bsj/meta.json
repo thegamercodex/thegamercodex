@@ -1,0 +1,54 @@
+{
+  "id": "bsj",
+  "name": "BananaSlamJamma",
+  "realName": "Brian Canavan",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@BananaSlamJamma",
+      "url": "https://www.youtube.com/@BananaSlamJamma",
+      "channelId": "UCvTcxoyItMUSlw8T2MajftA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "bananaslamjamma",
+      "url": "https://www.twitch.tv/bananaslamjamma"
+    },
+    {
+      "type": "twitter",
+      "handle": "@BSJgg",
+      "url": "https://twitter.com/BSJgg"
+    }
+  ],
+  "specialties": [
+    "hero-spotlights",
+    "educational-content",
+    "high-mmr-coaching",
+    "smurf-analysis"
+  ],
+  "games": ["dota-2"],
+  "contentTypes": ["videos", "live-streams", "guides"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Ex-pro estadounidense (carry/mid) reconvertido a streamer y creador educativo de Dota 2. BSJ se hizo conocido por su serie de \"smurf\" donde juega en lobbies de jugadores 3K-4K MMR explicando decisiones en tiempo real, mostrando el proceso mental detrás de cada movida. Su YouTube tiene cientos de hero spotlights actualizados al meta vigente y su Twitch es referencia para gameplay de alto MMR comentado en inglés. Para jugadores intermedios y avanzados que quieren entender el por qué detrás de las decisiones, BSJ es default.",
+  "noteEn": "American ex-pro (carry/mid) turned streamer and educational Dota 2 creator. BSJ became known for his \"smurf\" series where he queues in 3K-4K MMR lobbies explaining decisions in real time, showing the mental process behind each move. His YouTube has hundreds of hero spotlights updated to current meta and his Twitch is reference for commented high-MMR gameplay in English. For intermediate and advanced players wanting to understand the why behind decisions, BSJ is default.",
+  "highlightsEs": [
+    "Ex-pro de carry/mid reconvertido a creador educativo",
+    "Cientos de hero spotlights actualizados al meta",
+    "Serie \"smurf\" explicando decisiones en lobbies de bajo MMR",
+    "Twitch activo con gameplay comentado de alto MMR",
+    "Recurso clave para jugadores intermedios y avanzados"
+  ],
+  "highlightsEn": [
+    "Ex-pro carry/mid turned educational creator",
+    "Hundreds of hero spotlights updated to current meta",
+    "\"Smurf\" series explaining decisions in low-MMR lobbies",
+    "Active Twitch with commented high-MMR gameplay",
+    "Key resource for intermediate and advanced players"
+  ],
+  "avatar": "/images/creators/bsj-avatar.jpg",
+  "banner": "/images/creators/bsj-banner.jpg"
+}

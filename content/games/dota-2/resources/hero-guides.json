@@ -1,0 +1,80 @@
+{
+  "category": "hero-guides",
+  "resources": [
+    {
+      "id": "bsj-facets-gone-hero-changes-2026",
+      "type": "video",
+      "title": "Facets Are Gone - Every Hero Change You Need To Know",
+      "creator": "BSJ",
+      "creatorId": "bsj",
+      "url": "https://www.youtube.com/watch?v=L067wc994M8",
+      "youtubeId": "L067wc994M8",
+      "language": "en",
+      "duration": "1:53:06",
+      "publishedDate": "2026-05-04",
+      "thumbnail": "https://i.ytimg.com/vi/L067wc994M8/maxresdefault.jpg",
+      "noteEs": "Desglose hero-by-hero de los cambios masivos del parche post-Facets: BSJ revisa cada héroe afectado con análisis del impacto en su rol y matchups. Casi 2 horas de contenido organizado por slot. Referencia para entender el meta de héroes después del cambio sistémico.",
+      "noteEn": "Hero-by-hero breakdown of the massive post-Facets patch changes: BSJ reviews every affected hero with analysis of impact on their role and matchups. Nearly 2 hours of content organized by slot. Reference for understanding hero meta after the systemic change."
+    },
+    {
+      "id": "bsj-best-7-41b-carry-heroes-common-factor",
+      "type": "video",
+      "title": "The best 7.41b Carry heroes have this common factor",
+      "creator": "BSJ",
+      "creatorId": "bsj",
+      "url": "https://www.youtube.com/watch?v=6Usx9OKU-cc",
+      "youtubeId": "6Usx9OKU-cc",
+      "language": "en",
+      "duration": "1:28",
+      "publishedDate": "2026-04-27",
+      "thumbnail": "https://i.ytimg.com/vi/6Usx9OKU-cc/maxresdefault.jpg",
+      "noteEs": "Short de 1.5 minutos identificando el rasgo común entre los carry top del parche 7.41b. Útil como brújula rápida para entender qué tipo de héroe está roto en el meta actual y por qué.",
+      "noteEn": "1.5-minute short identifying the common trait among top carries of patch 7.41b. Useful as quick compass to understand what type of hero is broken in the current meta and why."
+    },
+    {
+      "id": "speeed-greedy-position-4-7-41b",
+      "type": "video",
+      "title": "The Most Greedy Position 4 in Patch 7.41b",
+      "creator": "SpeeedDota",
+      "creatorId": "speeed",
+      "url": "https://www.youtube.com/watch?v=LL8ZKhKAywE",
+      "youtubeId": "LL8ZKhKAywE",
+      "language": "en",
+      "duration": "21:22",
+      "publishedDate": "2026-04-20",
+      "thumbnail": "https://i.ytimg.com/vi/LL8ZKhKAywE/maxresdefault.jpg",
+      "noteEs": "SpeeedDota analiza el héroe más greedy del rol soft support en 7.41b: items, skill order y por qué funciona en el contexto actual del meta. 21 minutos de análisis con ejemplos de partidas reales.",
+      "noteEn": "SpeeedDota analyzes the greediest hero in the soft support role in 7.41b: items, skill order, and why it works in the current meta context. 21 minutes of analysis with real match examples."
+    },
+    {
+      "id": "purge-spectre-replay-commentary-2026",
+      "type": "video",
+      "title": "Spectre in an IDEAL Spectre game - Purge [Replay Commentary]",
+      "creator": "Purge",
+      "creatorId": "purge",
+      "url": "https://www.youtube.com/watch?v=XBJVDbHRO-E",
+      "youtubeId": "XBJVDbHRO-E",
+      "language": "en",
+      "duration": "41:44",
+      "publishedDate": "2026-05-02",
+      "thumbnail": "https://i.ytimg.com/vi/XBJVDbHRO-E/maxresdefault.jpg",
+      "noteEs": "Replay commentary de Purge sobre una partida ideal de Spectre: cómo escala el héroe cuando el draft y los timings le favorecen. Su tono pedagógico hace que cada decisión sea explicada — útil para entender Spectre en lugar de solo aprender items.",
+      "noteEn": "Purge's replay commentary on an ideal Spectre game: how the hero scales when draft and timings favor her. His pedagogical tone explains every decision — useful for understanding Spectre rather than just learning items."
+    },
+    {
+      "id": "purge-veno-replay-commentary-2026",
+      "type": "video",
+      "title": "Play Veno this way, or LOSE - Purge Venomancer [Replay Commentary]",
+      "creator": "Purge",
+      "creatorId": "purge",
+      "url": "https://www.youtube.com/watch?v=P_Tuz9TG8kA",
+      "youtubeId": "P_Tuz9TG8kA",
+      "language": "en",
+      "duration": "50:53",
+      "publishedDate": "2026-05-01",
+      "thumbnail": "https://i.ytimg.com/vi/P_Tuz9TG8kA/maxresdefault.jpg",
+      "noteEs": "Guía completa de Venomancer en formato replay commentary: 50 minutos donde Purge explica el flow del héroe contra una composición específica. Para mains de Veno o curiosos del soft support, contenido denso con razonamiento detrás de cada decisión.",
+      "noteEn": "Complete Venomancer guide in replay commentary format: 50 minutes where Purge explains the hero's flow against a specific composition. For Veno mains or soft support curious, dense content with reasoning behind each decision."
+    }
+  ]
+}

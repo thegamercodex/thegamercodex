@@ -1,0 +1,54 @@
+{
+  "id": "poeplanner",
+  "name": "PoEPlanner",
+  "shortName": "PoEPlanner",
+  "taglineEs": "Planner web de árbol pasivo, atlas y equipment para PoE 2 sin instalación",
+  "taglineEn": "Web planner for PoE 2 passive tree, atlas and equipment with no install",
+  "url": "https://poeplanner.com",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "passive-tree",
+    "atlas-tree",
+    "build-planning",
+    "shareable-builds"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-04",
+  "logo": "/images/tools/path-of-exile-2/poeplanner-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/path-of-exile-2/poeplanner-ss-1.png"
+    },
+    {
+      "url": "/images/tools/path-of-exile-2/poeplanner-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "path-of-building",
+    "maxroll"
+  ],
+  "alternatives": [
+    "path-of-building"
+  ],
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      {
+        "gameId": "path-of-exile",
+        "url": "https://poeplanner.com"
+      }
+    ]
+  }
+}

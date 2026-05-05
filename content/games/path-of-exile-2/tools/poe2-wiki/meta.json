@@ -1,0 +1,49 @@
+{
+  "id": "poe2-wiki",
+  "name": "Path of Exile 2 Wiki",
+  "shortName": "PoE2 Wiki",
+  "taglineEs": "Wiki community-driven de PoE 2 con artículos editoriales sobre clases, mecánicas, items y lore",
+  "taglineEn": "Community-driven PoE 2 wiki with editorial articles on classes, mechanics, items and lore",
+  "url": "https://www.poe2wiki.net",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "wiki",
+    "reference",
+    "lore",
+    "mechanics"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-04",
+  "logo": "/images/tools/path-of-exile-2/poe2-wiki-logo.png",
+  "screenshots": [
+    {
+      "url": "/images/tools/path-of-exile-2/poe2-wiki-ss-1.png"
+    },
+    {
+      "url": "/images/tools/path-of-exile-2/poe2-wiki-ss-2.png"
+    }
+  ],
+  "videos": [],
+  "relatedTools": [
+    "poe2db",
+    "poe-wiki"
+  ],
+  "alternatives": [
+    "poe2db"
+  ],
+  "createdBy": {
+    "name": "Path of Exile Wiki community",
+    "url": "https://www.poewiki.net"
+  }
+}

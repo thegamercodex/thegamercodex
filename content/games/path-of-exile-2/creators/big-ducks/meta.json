@@ -1,0 +1,51 @@
+{
+  "id": "big-ducks",
+  "name": "Big Ducks",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@bigducks",
+      "url": "https://www.youtube.com/@bigducks",
+      "channelId": "UC8XfFGnTEJH1CXjucYDA5ng",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "bigducksgaming",
+      "url": "https://www.twitch.tv/bigducksgaming"
+    },
+    {
+      "type": "twitter",
+      "handle": "@bigducksgaming",
+      "url": "https://twitter.com/bigducksgaming"
+    }
+  ],
+  "specialties": [
+    "build-guides",
+    "build-deep-dives",
+    "campaign-progression",
+    "endgame-mapping"
+  ],
+  "games": ["path-of-exile-2"],
+  "contentTypes": ["videos", "live-streams", "guides"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Creator dedicado a deep-dives largos de builds PoE 2: 18-30 minutos cubriendo passive tree, gear progression, gem links y escalado de campaña a endgame. La guía de Wolf Amazon en 0.4 (Last of the Druids) es referencia para el arquetipo chain freeze. Estilo metódico, ideal para players que quieren entender por qué cada decisión, no solo qué decisión.",
+  "noteEn": "Creator dedicated to long-form PoE 2 build deep-dives: 18-30 minutes covering passive tree, gear progression, gem links, and scaling from campaign through endgame. His Wolf Amazon guide in 0.4 (Last of the Druids) is reference for the chain-freeze archetype. Methodical style, ideal for players who want to understand why each decision, not just what.",
+  "highlightsEs": [
+    "Build deep-dives largos con desglose completo de cada decisión",
+    "Cobertura tanto campaña como endgame en una sola guía",
+    "Foco en builds chain-freeze y arquetipos de Druid en 0.4",
+    "Streams en Twitch durante temporada activa de PoE 2"
+  ],
+  "highlightsEn": [
+    "Long-form build deep-dives with full breakdown of each decision",
+    "Coverage of both campaign and endgame in a single guide",
+    "Focus on chain-freeze builds and Druid archetypes in 0.4",
+    "Active Twitch streams during PoE 2's active season"
+  ],
+  "avatar": "/images/creators/big-ducks-avatar.jpg",
+  "banner": "/images/creators/big-ducks-banner.jpg"
+}
