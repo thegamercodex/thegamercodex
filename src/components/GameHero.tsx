@@ -18,7 +18,7 @@ export async function GameHero({ game, locale }: GameHeroProps) {
   return (
     <section className="border-b border-border">
       <div
-        className="relative h-[220px] w-full overflow-hidden sm:h-[260px] md:h-[300px] lg:h-[330px]"
+        className="relative h-[240px] w-full overflow-hidden sm:h-[320px] md:h-[400px] lg:h-[500px]"
         style={{
           background: `linear-gradient(90deg, ${theme.background} 0%, ${theme.secondary} 50%, ${theme.background} 100%)`,
           color: theme.text,

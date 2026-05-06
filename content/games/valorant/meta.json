@@ -40,7 +40,7 @@
     "text": "#ece8e1"
   },
   "logo": "/images/games/valorant-logo.png",
-  "heroImage": "/images/games/valorant-hero.webp",
+  "heroImage": "/images/games/valorant-hero.avif",
   "toolCategories": [
     {
       "id": "match-history",
