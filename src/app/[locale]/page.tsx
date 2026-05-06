@@ -46,7 +46,7 @@ export default async function HomePage({
 
       <section className="flex flex-col items-center gap-4 pt-4 pb-8 sm:pt-6 sm:pb-10">
         <div
-          className="relative w-full max-w-4xl overflow-hidden rounded-2xl"
+          className="relative w-full overflow-hidden rounded-2xl"
           style={{
             maskImage:
               "linear-gradient(to bottom, black 0%, black 85%, transparent 100%)",
@@ -63,12 +63,12 @@ export default async function HomePage({
             }}
           />
           <Image
-            src="/images/tgc-banner.png"
+            src="/images/tgc-banner-v2.png"
             alt={t("bannerAlt")}
-            width={1983}
-            height={793}
+            width={2172}
+            height={724}
             priority
-            sizes="(min-width: 896px) 896px, 100vw"
+            sizes="(min-width: 1152px) 1104px, 100vw"
             className="h-auto w-full"
           />
         </div>
