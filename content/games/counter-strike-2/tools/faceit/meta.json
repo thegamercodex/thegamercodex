@@ -4,7 +4,7 @@
   "shortName": "Faceit",
   "taglineEs": "Plataforma third-party dominante de matchmaking competitivo de CS2 con anti-cheat propio, ligas y torneos comunitarios",
   "taglineEn": "Dominant third-party CS2 competitive matchmaking platform with proprietary anti-cheat, leagues, and community tournaments",
-  "url": "https://www.faceit.com/en/cs2",
+  "url": "https://www.faceit.com/en/game/cs2",
   "category": "competitive-platform",
   "type": "web-app",
   "official": false,
@@ -39,7 +39,7 @@
   "essential": true,
   "difficulty": "intermediate",
   "lastVerified": "2026-05-03",
-  "logo": "/images/tools/counter-strike-2/faceit-logo.png",
+  "logo": "/images/tools/counter-strike-2/faceit-logo.jpg",
   "screenshots": [
     {
       "url": "/images/tools/counter-strike-2/faceit-ss-1.png"
