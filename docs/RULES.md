@@ -122,7 +122,7 @@ Lucide quitó todos los icons de marca. Mapeo a alternativas genéricas:
 
 ## Diseño — preferencias
 
-- Modo oscuro por default (vía `prefers-color-scheme`).
+- Solo dark mode. No hay toggle ni light variant — la paleta cyan + navy se diseñó para fondo oscuro y la audiencia gaming consume mayormente de noche.
 - Animaciones sutiles **150-200ms**. Nada largo.
 - Una sola familia tipográfica (Geist por ahora).
 - Hover effects con `accent` del contexto: chrome cyan en landing/header/footer, accent del juego dentro de su sección (heredado vía override en `[game]/layout.tsx`).

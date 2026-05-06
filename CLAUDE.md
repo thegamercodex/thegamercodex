@@ -31,7 +31,7 @@ TheGamerCodex es un directorio web curado de herramientas y recursos para gamers
 - **Íconos**: `lucide-react`. Brand icons (`Github`, `Youtube`, `Twitch`, `Discord`, etc.) ya **no se exportan** — usar genéricos: `Code2` para repos, `PlayCircle` para YouTube, `Tv` para Twitch/Kick, `MessagesSquare` para Discord, `Heart` para Patreon, `Music` para TikTok, `Camera` para Instagram, `AtSign` para Twitter/X, `ExternalLink` como fallback.
 - **Imágenes**: `next/image` con `images.formats: ["image/avif", "image/webp"]` en `next.config.ts` (el optimizer sirve AVIF a browsers que lo soportan, fallback a WebP, fallback a JPG). `images.remotePatterns` permite `**.ytimg.com` para thumbnails de YouTube.
 - **YouTube RSS**: `fast-xml-parser` parsea feeds de canal y playlist. Sin API key, sin quotas. Cache build-time con `revalidate: 21600` (6h ISR).
-- **Theming claro/oscuro**: `next-themes` con `attribute="class"`, `defaultTheme="dark"`, `enableSystem`. Inyecta script anti-FOUC, persiste en localStorage. Las CSS vars cambian según `:root.dark` (default) vs `:root.light` en `globals.css`.
+- **Theming**: solo dark mode. Los tokens de marca viven en `:root` de `globals.css`. No hay toggle ni light variant — la audiencia gaming consume mayormente de noche y el contraste de la paleta cyan + navy se diseñó específicamente para fondo oscuro.
 - **Búsqueda client-side**: `fuse.js` para fuzzy search en `ToolsExplorer` (game page) y `ResourceGrid` (resources page). Sin index pre-build — se construye en cliente sobre los datos ya hidratados.
 - **SEO**: `sitemap.xml` y `robots.txt` dinámicos vía convenciones App Router (`src/app/sitemap.ts`, `src/app/robots.ts`). JSON-LD por página (`WebSite`, `VideoGame`, `SoftwareApplication`, `Person`, `CollectionPage`) generado en `src/lib/jsonld.ts`. `metadataBase` + `alternates.canonical` + `alternates.languages` (hreflang) en cada page. URL base via `NEXT_PUBLIC_SITE_URL` env var (default `https://thegamercodex.com`); ver `.env.example`.
 - **Hosting**: Vercel
@@ -98,12 +98,9 @@ thegamercodex/
 │   │   └── navigation.ts                 ← Link, redirect, usePathname, useRouter localizados
 │   ├── middleware.ts                     ← createMiddleware(routing) de next-intl
 │   ├── components/
-│   │   ├── Header.tsx                    ← Sticky navbar + ThemeToggle + LanguageSwitcher (chrome marca)
+│   │   ├── Header.tsx                    ← Sticky navbar + LanguageSwitcher (chrome marca)
 │   │   ├── Footer.tsx                    ← (chrome marca)
 │   │   ├── LanguageSwitcher.tsx          ← Toggle ES|EN, client component
-│   │   ├── ThemeToggle.tsx               ← CLIENT. Toggle Sun/Moon vía next-themes; persiste en localStorage
-│   │   ├── providers/
-│   │   │   └── ThemeProvider.tsx         ← CLIENT. Wrapper sobre next-themes ThemeProvider
 │   │   ├── GameCard.tsx                  ← Card para landing (thumbnail hero + logo overlay)
 │   │   ├── GameHero.tsx                  ← Banner del game page (image cap 1500px, side gradient, mask fade)
 │   │   ├── ToolCard.tsx                  ← Card de tool con badges
@@ -310,7 +307,7 @@ Pasos 1-7, 9 y 10 del roadmap de PROJECT.md completos. `next build` pasa con SSG
 - ✅ Existence checks (`existsSync`) para logos/screenshots/avatares: si el asset no existe, se renderiza fallback (initial letter) o se omite la sección.
 - ✅ YouTube RSS integration: `getLatestVideos({channelId|playlistId}, limit)` con `fast-xml-parser`. Sin API key, sin quotas. ISR 6h.
 - ✅ Filtros y búsqueda (paso 7): `ToolsExplorer` (game page) con Fuse.js + chips de categoría/dificultad + toggles essential/free/openSource; `ResourceGrid` con search + filtros por type/language. Vista por defecto agrupada por categoría; cuando hay search/filtro activo cambia a grid plano con count.
-- ✅ Modo oscuro toggle (paso 9): `next-themes` con `attribute="class"` + `defaultTheme="dark"` + `enableSystem`. `ThemeToggle` en Header (Sun/Moon). Dos variantes en `globals.css`: `:root.dark` y `:root.light`. Game pages mantienen su tema inmersivo (override en `<div>` interior gana al `<html>`).
+- ✅ Solo dark mode (paso 9): la paleta de marca vive en `:root` de `globals.css` y se aplica directo, sin toggle ni light variant. Game pages mantienen su tema inmersivo (override en `<div>` interior gana por especificidad al `:root`).
 - ✅ SEO completo (paso 10): `metadataBase` + `alternates.canonical/languages` (hreflang) en root layout y cada página. `sitemap.xml` y `robots.txt` dinámicos. JSON-LD por tipo (`WebSite` / `VideoGame` / `SoftwareApplication` / `Person` / `CollectionPage`) inyectado en cada page como `<script type="application/ld+json">`. URL base configurable via `NEXT_PUBLIC_SITE_URL`.
 - ✅ Reportes de enlaces caídos: botón en sidebar de tool detail abre modal con comentario opcional → `POST /api/report-broken-link` formatea HTML y reenvía a un canal privado de Telegram via bot. Token y `chat_id` en env vars server-only (`TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHANNEL_ID`).
 - ✅ Toggle grid/lista en `ToolsExplorer` con persistencia en localStorage (`thegamercodex:tools-view`). Vista lista usa `ToolListItem` con layout horizontal compacto + fecha de última verificación.
@@ -388,9 +385,9 @@ Dos sistemas de color conviven y deben mantenerse en armonía cuando se agreguen
 
 ### 1. Paleta de marca (TheGamerCodex)
 
-Vive en `:root` (= `:root.dark`) de `src/app/globals.css`. Aplica en Header, Footer, landing y cualquier componente fuera de una sección de juego.
+Vive en `:root` de `src/app/globals.css`. Aplica en Header, Footer, landing y cualquier componente fuera de una sección de juego.
 
-La marca tiene **dos variantes**: oscura (default) y clara. Vive en `:root.dark` y `:root.light`. `next-themes` toggle (Header) intercambia la clase en `<html>` y persiste preferencia. **Solo el chrome marca responde al toggle** — las páginas de juego mantienen su paleta inmersiva (siempre dark) porque el wrapper del juego override los tokens en un `<div>` interior, vence al `<html>` por especificidad.
+El sitio es **dark-only** — no hay light variant ni toggle. Las páginas de juego mantienen su paleta inmersiva porque el wrapper del juego override los tokens en un `<div>` interior, vence al `:root` por especificidad.
 
 | Familia | Tokens | Uso |
 |---|---|---|
