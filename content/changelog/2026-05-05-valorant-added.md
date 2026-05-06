@@ -16,11 +16,6 @@ gameAdded: "valorant"
 - **25 recursos en video** repartidos en 5 categorías: beginner-guides, patch-coverage del Season 2026, agent-guides, map-and-lineups, y ranked-improvement.
 - Theming rojo/navy de la marca Riot/Valorant: paleta gold-rojo + dark navy con contraste WCAG AA validado.
 
-## Decisiones editoriales
-
-- Aplicamos por primera vez la regla nueva del playbook: shortlist de ~20 tools, narrowed a 15 finales con el buffer absorbiendo URLs muertas (valomaps.com, valorlineups.com, etc. cayeron por DNS).
-- En creators el ecosystem rotó: AverageJonas pivotó a Deadlock, Woohoojin lleva 1+ año sin subir, Mactics y Sliggy no aparecen con esos handles. El slate final son los que tienen cadencia Valorant verificada en RSS.
-
 <!-- en -->
 
 ## Added
@@ -29,8 +24,3 @@ gameAdded: "valorant"
 - **5 actively-covering Valorant creators**: Tarik (watch parties + very high elo), Flexinja (Omen main), ProGuides Valorant (structured coaching), Sentinels (team channel), and Zellsis (Sentinels pro player).
 - **25 video resources** split across 5 categories: beginner-guides, Season 2026 patch-coverage, agent-guides, map-and-lineups, and ranked-improvement.
 - Riot/Valorant red/navy theming: gold-red palette + dark navy with WCAG AA contrast validated.
-
-## Editorial decisions
-
-- First application of the new playbook rule: ~20 tool shortlist narrowed to 15 finals with the buffer absorbing dead URLs (valomaps.com, valorlineups.com, etc. died by DNS).
-- The creator ecosystem rotated: AverageJonas pivoted to Deadlock, Woohoojin hasn't uploaded in 1+ year, Mactics and Sliggy don't show under those handles. The final slate is creators with verified Valorant cadence in RSS.

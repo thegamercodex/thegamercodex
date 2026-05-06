@@ -16,11 +16,6 @@ gameAdded: "destiny-2"
 - **25 recursos en video** repartidos en 5 categorías: beginner-guides, season-overviews del episodio Renegades, build-guides para las tres clases, raid-guides para Desert Perpetual y dungeons, y pvp-guides para Crucible y Trials.
 - Theming dorado/navy específico de la marca Destiny 2: paleta gold + dark navy con contraste WCAG AA validado.
 
-## Decisiones editoriales
-
-- **Solo Destiny 2** — no Destiny 1, no Destiny Rising mobile, no spinoffs. Los tools, creators y recursos están filtrados específicamente para el juego vigente.
-- Varias creators históricas de Destiny pivotaron a Marathon o a otros juegos en 2026, así que el slate prioriza canales con cadencia D2 actual antes que reputación legacy.
-
 <!-- en -->
 
 ## Added
@@ -29,8 +24,3 @@ gameAdded: "destiny-2"
 - **5 creators actively covering Destiny 2**: KackisHD, xHOUNDISHx, Plunderthabooty, Ehroar, and Cammycakes Gaming. A mix of news/weekly coverage, endgame builds, and buildcrafting experimentation.
 - **25 video resources** split across 5 categories: beginner-guides, season-overviews for the Renegades episode, build-guides for all three classes, raid-guides for Desert Perpetual and dungeons, and pvp-guides for Crucible and Trials.
 - Gold/navy theming specific to the Destiny 2 brand: gold + dark navy palette with WCAG AA contrast validated.
-
-## Editorial decisions
-
-- **Destiny 2 only** — no Destiny 1, no Destiny Rising mobile, no spinoffs. Tools, creators, and resources are filtered specifically to the live game.
-- Several historical Destiny creators pivoted to Marathon or other games in 2026, so the slate prioritizes channels with current D2 cadence over legacy reputation.
