@@ -123,7 +123,12 @@ export default async function CreatorPage({ params }: PageParams) {
           {game.name}
         </Link>
         <ChevronRight className="h-3 w-3" />
-        <span className="text-muted-foreground">{tNav("creators")}</span>
+        <Link
+          href={`/${game.id}#creators`}
+          className="transition-colors hover:text-foreground"
+        >
+          {tNav("creators")}
+        </Link>
         <ChevronRight className="h-3 w-3" />
         <span className="text-foreground">{creator.name}</span>
       </nav>

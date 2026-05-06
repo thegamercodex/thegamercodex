@@ -105,7 +105,12 @@ export default async function ResourcesCategoryPage({ params }: PageParams) {
           {game.name}
         </Link>
         <ChevronRight className="h-3 w-3" />
-        <span className="text-muted-foreground">{tGame("resourcesHeading")}</span>
+        <Link
+          href={`/${game.id}#resources`}
+          className="transition-colors hover:text-foreground"
+        >
+          {tGame("resourcesHeading")}
+        </Link>
         <ChevronRight className="h-3 w-3" />
         <span className="text-foreground">{heading}</span>
       </nav>

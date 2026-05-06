@@ -6,6 +6,7 @@ import type { Metadata } from "next";
 import { Link } from "@/i18n/navigation";
 import { ArrowRight } from "lucide-react";
 import { GameHero } from "@/components/GameHero";
+import { GameTabNav } from "@/components/GameTabNav";
 import { ToolsExplorer } from "@/components/ToolsExplorer";
 import { CreatorCard } from "@/components/CreatorCard";
 import { MarkdownContent } from "@/components/MarkdownContent";
@@ -90,6 +91,16 @@ export default async function GamePage({ params }: PageParams) {
       existsSync(path.join(process.cwd(), "public", tool.logo));
   }
 
+  const tabs = [
+    tools.length > 0 && { id: "tools", label: t("toolsHeading") },
+    creators.length > 0 && { id: "creators", label: t("creatorsHeading") },
+    game.resourceCategories.length > 0 && {
+      id: "resources",
+      label: t("resourcesHeading"),
+    },
+    description && { id: "about", label: t("aboutHeading") },
+  ].filter((tab): tab is { id: string; label: string } => Boolean(tab));
+
   return (
     <>
       <script
@@ -100,9 +111,14 @@ export default async function GamePage({ params }: PageParams) {
       />
       <GameHero game={game} locale={loc} />
 
+      {tabs.length > 1 && <GameTabNav tabs={tabs} />}
+
       <div className="mx-auto w-full max-w-6xl px-6">
         {tools.length > 0 && (
-          <section className="border-b border-border py-12">
+          <section
+            id="tools"
+            className="scroll-mt-32 border-b border-border py-12"
+          >
             <div className="mb-6 flex items-baseline justify-between">
               <h2 className="text-2xl font-semibold tracking-tight">
                 {t("toolsHeading")}
@@ -122,7 +138,10 @@ export default async function GamePage({ params }: PageParams) {
         )}
 
         {creators.length > 0 && (
-          <section className="border-b border-border py-12">
+          <section
+            id="creators"
+            className="scroll-mt-32 border-b border-border py-12"
+          >
             <div className="mb-6 flex items-baseline justify-between">
               <h2 className="text-2xl font-semibold tracking-tight">
                 {t("creatorsHeading")}
@@ -145,7 +164,10 @@ export default async function GamePage({ params }: PageParams) {
         )}
 
         {game.resourceCategories.length > 0 && (
-          <section className="border-b border-border py-12">
+          <section
+            id="resources"
+            className="scroll-mt-32 border-b border-border py-12"
+          >
             <div className="mb-6">
               <h2 className="text-2xl font-semibold tracking-tight">
                 {t("resourcesHeading")}
@@ -186,7 +208,7 @@ export default async function GamePage({ params }: PageParams) {
         )}
 
         {description && (
-          <section className="py-12">
+          <section id="about" className="scroll-mt-32 py-12">
             <h2 className="mb-6 text-2xl font-semibold tracking-tight">
               {t("aboutHeading")}
             </h2>
