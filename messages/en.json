@@ -94,6 +94,12 @@
     "bannerAlt": "Codex illustration showing tools, builds, guides, analysis, database, and stats",
     "gamesHeading": "Available games"
   },
+  "monetization": {
+    "free-to-play": "Free",
+    "buy-to-play": "Paid",
+    "subscription": "Subscription",
+    "freemium": "Freemium"
+  },
   "game": {
     "toolsHeading": "Tools",
     "creatorsHeading": "Creators",
