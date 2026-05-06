@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# TheGamerCodex
 
-## Getting Started
+A curated, bilingual directory of tools, creators, and resources for gamers — organized by game.
 
-First, run the development server:
+Live: [thegamercodex.com](https://thegamercodex.com)
+
+## What it is
+
+A static site that catalogs the practical ecosystem around each game it covers: the tools players actually use (build planners, trade aggregators, overlays), the creators worth following, and curated guides/videos by category. Each game has its own theme that takes over while you're inside its section.
+
+Currently covers Counter-Strike 2, Destiny 2, Dota 2, Genshin Impact, League of Legends, Path of Exile, Path of Exile 2, Valorant, and World of Warcraft.
+
+## Stack
+
+- Next.js 16 (App Router, SSG + ISR, Turbopack)
+- TypeScript (strict)
+- Tailwind CSS v4
+- `next-intl` for ES/EN bilingual routing
+- Markdown + JSON content (no database)
+- YouTube RSS at build time, no API key
+- Hosted on Vercel
+
+## Run locally
 
 ```bash
+nvm use 22
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Dev server runs on [http://localhost:3030](http://localhost:3030).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+```
 
-## Learn More
+The site is fully static (SSG) with selective ISR — creator pages revalidate every 6h to pick up new YouTube uploads.
 
-To learn more about Next.js, take a look at the following resources:
+## Project structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `content/games/<game>/` — every game's content (`meta.json`, bilingual `*.md`, tools, creators, resources)
+- `src/app/[locale]/` — App Router routes; root layout lives here, there is no top-level `src/app/layout.tsx`
+- `src/components/` — UI components (server-first; client components only when state/effects/handlers are needed)
+- `src/lib/` — content loaders, markdown rendering, YouTube RSS, JSON-LD builders
+- `messages/{es,en}.json` — UI strings
+- `public/images/` — game heroes/logos, creator avatars, tool screenshots
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Contributing
 
-## Deploy on Vercel
+The codex is editorially curated — it's not an open submission directory. If you spot a broken link, the in-app "Report broken link" button pings the maintainers directly. Issues and PRs for code-level improvements (accessibility, performance, bugs) are welcome.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Code is released under the [MIT License](./LICENSE). Editorial content (tool and creator analyses, curation decisions) and third-party assets (game logos, creator avatars sourced from YouTube/Twitch, tool screenshots) are not covered by the MIT grant — they remain with their respective owners.
