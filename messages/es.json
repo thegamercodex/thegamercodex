@@ -60,6 +60,12 @@
     "system": "Sistema",
     "toggle": "Cambiar tema"
   },
+  "share": {
+    "title": "Compartir",
+    "shareOn": "Compartir en {platform}",
+    "copy": "Copiar enlace",
+    "copied": "¡Copiado!"
+  },
   "report": {
     "brokenLink": "Reportar enlace caído",
     "modalTitle": "Reportar enlace caído",

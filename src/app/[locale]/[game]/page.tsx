@@ -10,6 +10,8 @@ import { GameTabNav } from "@/components/GameTabNav";
 import { ToolsExplorer } from "@/components/ToolsExplorer";
 import { CreatorCard } from "@/components/CreatorCard";
 import { MarkdownContent } from "@/components/MarkdownContent";
+import { ShareButtons } from "@/components/ShareButtons";
+import { absoluteUrl } from "@/lib/site";
 import {
   getAllResources,
   getCreators,
@@ -81,6 +83,9 @@ export default async function GamePage({ params }: PageParams) {
   const t = await getTranslations("game");
   const tCommon = await getTranslations("common");
   const description = loc === "es" ? game.descriptionEs : game.descriptionEn;
+  const tagline = loc === "es" ? game.taglineEs : game.taglineEn;
+  const shareUrl = absoluteUrl(`/${loc}/${game.id}`);
+  const shareTitle = `${game.name} — TheGamerCodex`;
   const resourceMap = new Map(
     resourceCollections.map((r) => [r.category, r.resources.length]),
   );
@@ -111,7 +116,19 @@ export default async function GamePage({ params }: PageParams) {
       />
       <GameHero game={game} locale={loc} />
 
-      {tabs.length > 1 && <GameTabNav tabs={tabs} />}
+      {tabs.length > 1 && (
+        <GameTabNav
+          tabs={tabs}
+          rightSlot={
+            <ShareButtons
+              url={shareUrl}
+              title={shareTitle}
+              description={tagline}
+              compact
+            />
+          }
+        />
+      )}
 
       <div className="mx-auto w-full max-w-6xl px-6">
         {tools.length > 0 && (

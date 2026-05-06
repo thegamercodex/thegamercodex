@@ -60,6 +60,12 @@
     "system": "System",
     "toggle": "Toggle theme"
   },
+  "share": {
+    "title": "Share",
+    "shareOn": "Share on {platform}",
+    "copy": "Copy link",
+    "copied": "Copied!"
+  },
   "report": {
     "brokenLink": "Report broken link",
     "modalTitle": "Report broken link",

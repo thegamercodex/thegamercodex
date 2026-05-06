@@ -10,6 +10,8 @@ import { Link } from "@/i18n/navigation";
 import { CreatorVideos } from "@/components/CreatorVideos";
 import { CreatorVideosSkeleton } from "@/components/CreatorVideosSkeleton";
 import { PlatformLink } from "@/components/PlatformLink";
+import { ShareButtons } from "@/components/ShareButtons";
+import { absoluteUrl } from "@/lib/site";
 import {
   getCreator,
   getCreatorIds,
@@ -99,6 +101,10 @@ export default async function CreatorPage({ params }: PageParams) {
   const publicExists = (p: string) =>
     existsSync(path.join(process.cwd(), "public", p));
   const hasAvatar = Boolean(creator.avatar) && publicExists(creator.avatar);
+
+  const shareUrl = absoluteUrl(`/${loc}/${gameId}/creators/${creatorId}`);
+  const shareTitle = `${creator.name} — ${game.name}`;
+  const shareDescription = note ? note.slice(0, 160) : undefined;
 
   return (
     <div className="mx-auto w-full max-w-6xl px-6 py-10">
@@ -302,6 +308,14 @@ export default async function CreatorPage({ params }: PageParams) {
               </div>
             </div>
           )}
+
+          <div className="mt-6">
+            <ShareButtons
+              url={shareUrl}
+              title={shareTitle}
+              description={shareDescription}
+            />
+          </div>
         </aside>
       </div>
     </div>

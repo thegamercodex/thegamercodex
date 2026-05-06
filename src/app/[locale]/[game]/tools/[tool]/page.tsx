@@ -16,6 +16,8 @@ import { Link } from "@/i18n/navigation";
 import { BrokenLinkButton } from "@/components/BrokenLinkButton";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { ScreenshotGallery } from "@/components/ScreenshotGallery";
+import { ShareButtons } from "@/components/ShareButtons";
+import { absoluteUrl } from "@/lib/site";
 import {
   getGame,
   getGameIds,
@@ -174,6 +176,8 @@ export default async function ToolPage({ params }: PageParams) {
   }
 
   const accentVar = "var(--game-accent)";
+  const shareUrl = absoluteUrl(`/${loc}/${game.id}/tools/${tool.id}`);
+  const shareTitle = `${tool.name} — ${game.name}`;
 
   return (
     <div className="mx-auto w-full max-w-6xl px-6 py-10">
@@ -465,6 +469,14 @@ export default async function ToolPage({ params }: PageParams) {
               })}
             />
           </dl>
+
+          <div className="mt-6">
+            <ShareButtons
+              url={shareUrl}
+              title={shareTitle}
+              description={tagline}
+            />
+          </div>
 
           {tool.tags.length > 0 && (
             <div className="mt-6">
