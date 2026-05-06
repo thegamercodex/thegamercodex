@@ -1,0 +1,80 @@
+{
+  "category": "ranked-improvement",
+  "resources": [
+    {
+      "id": "rooney-coached-platinum-to-immortal",
+      "type": "video",
+      "title": "I Coached a PLATINUM Player to IMMORTAL In Valorant RANKED",
+      "creator": "rooney",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ws-FsY-QKIQ",
+      "youtubeId": "ws-FsY-QKIQ",
+      "language": "en",
+      "duration": "9:50",
+      "publishedDate": "2026-04-11",
+      "thumbnail": "https://i.ytimg.com/vi/ws-FsY-QKIQ/maxresdefault.jpg",
+      "noteEs": "Doc-style del journey de coaching real desde Platinum hasta Immortal. Útil para ver qué hábitos cambian players cuando suben de elo y replicarlos en tu propio juego.",
+      "noteEn": "Doc-style real-coaching journey from Platinum to Immortal. Useful for seeing what habits change as players rise in elo and replicating them in your own game."
+    },
+    {
+      "id": "konpeki-unwritten-rules-low-elo",
+      "type": "video",
+      "title": "Unwritten Rules To Instantly Climb Out of Low Elo",
+      "creator": "Konpeki",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=whcUoJ_VmSQ",
+      "youtubeId": "whcUoJ_VmSQ",
+      "language": "en",
+      "duration": "15:48",
+      "publishedDate": "2026-04-18",
+      "thumbnail": "https://i.ytimg.com/vi/whcUoJ_VmSQ/maxresdefault.jpg",
+      "noteEs": "Reglas implícitas que los players hard-stuck en Bronze/Silver/Gold no ven: agent picks por situación, util usage, posicionamiento en eco rounds. Konpeki las articula con ejemplos.",
+      "noteEn": "Implicit rules hard-stuck Bronze/Silver/Gold players don't see: situational agent picks, util usage, positioning on eco rounds. Konpeki spells them out with examples."
+    },
+    {
+      "id": "haeyoday-90-percent-gunfights-visual",
+      "type": "video",
+      "title": "How I Win 90% of My Gunfights | VALORANT Visual Guide 2026",
+      "creator": "Haeyoday",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=WdA19uMjzy8",
+      "youtubeId": "WdA19uMjzy8",
+      "language": "en",
+      "duration": "58:53",
+      "publishedDate": "2026-04-10",
+      "thumbnail": "https://i.ytimg.com/vi/WdA19uMjzy8/maxresdefault.jpg",
+      "noteEs": "Visual guide larga (1h) sobre cómo Haeyoday gana duels consistente. Frame-by-frame de decisions, crosshair placement, peek timing. Para players serios — material para releer múltiples veces.",
+      "noteEn": "Long visual guide (1h) on how Haeyoday wins duels consistently. Frame-by-frame decisions, crosshair placement, peek timing. For serious players — material to revisit multiple times."
+    },
+    {
+      "id": "sudoshoot-consistency-feels-smurfing",
+      "type": "video",
+      "title": "This is why consistency feels like smurfing. How to get better aim in valorant",
+      "creator": "SudoShoot",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=nur3amS5Jnk",
+      "youtubeId": "nur3amS5Jnk",
+      "language": "en",
+      "duration": "12:17",
+      "publishedDate": "2026-04-13",
+      "thumbnail": "https://i.ytimg.com/vi/nur3amS5Jnk/maxresdefault.jpg",
+      "noteEs": "Por qué consistencia mecánica importa más que peak skill. SudoShoot rompe cómo entrenar aim para reducir variance, no solo subir el techo.",
+      "noteEn": "Why mechanical consistency matters more than peak skill. SudoShoot breaks down how to train aim to reduce variance, not just raise the ceiling."
+    },
+    {
+      "id": "valorat-immortal-game-sense",
+      "type": "video",
+      "title": "Do You Have Immortal Game Sense?",
+      "creator": "ValoRAT",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=zuUiTSCgQIw",
+      "youtubeId": "zuUiTSCgQIw",
+      "language": "en",
+      "duration": "11:11",
+      "publishedDate": "2026-04-23",
+      "thumbnail": "https://i.ytimg.com/vi/zuUiTSCgQIw/maxresdefault.jpg",
+      "noteEs": "Test estilo quiz: ValoRAT muestra clips y te hace decidir qué harías. Las respuestas correctas son las que un Immortal toma por default. Buen self-check de game sense.",
+      "noteEn": "Quiz-style test: ValoRAT shows clips and makes you decide what you'd do. Correct answers are what an Immortal takes by default. Good self-check for game sense."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "blitz-gg",
+  "name": "Blitz.gg Valorant",
+  "shortName": "Blitz",
+  "taglineEs": "Overlay desktop + match history y agent guides para Valorant",
+  "taglineEn": "Desktop overlay + match history and agent guides for Valorant",
+  "url": "https://blitz.gg/valorant",
+  "category": "match-history",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows", "web"],
+  "languages": ["en"],
+  "tags": ["overlay", "stats", "agent-builds", "match-history", "tier-list"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/valorant/blitz-gg-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["tracker-gg", "valorbuff"],
+  "alternatives": ["tracker-gg"],
+  "createdBy": {
+    "name": "Blitz",
+    "url": "https://blitz.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "league-of-legends", "url": "https://blitz.gg/lol" },
+      { "gameId": "counter-strike-2", "url": "https://blitz.gg/cs2" }
+    ]
+  }
+}

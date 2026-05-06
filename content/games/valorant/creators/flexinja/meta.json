@@ -1,0 +1,52 @@
+{
+  "id": "flexinja",
+  "name": "Flexinja",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@flexinja",
+      "url": "https://www.youtube.com/@flexinja",
+      "channelId": "UCqoJxH5s6xAiJ6QyevmuG7Q",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "flexinja",
+      "url": "https://www.twitch.tv/flexinja"
+    },
+    {
+      "type": "twitter",
+      "handle": "@flexinja",
+      "url": "https://twitter.com/flexinja"
+    }
+  ],
+  "specialties": [
+    "agent-mainer",
+    "controller-role",
+    "smoke-lineups",
+    "high-elo-gameplay",
+    "ranked-improvement"
+  ],
+  "games": ["valorant"],
+  "contentTypes": ["videos", "guides", "live-streams"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Omen mainer reconocido en altísimo elo. Sus videos combinan gameplay highlights con explicación de decisiones de smoke timing, posicionamiento del controller, y reads que justifican plays no-obvios. Para players que quieren entender el rol de Smokes en profundidad — no solo lineups sino mid-round thinking — es fuente sólida.",
+  "noteEn": "Recognized Omen main in very high elo. His videos combine gameplay highlights with explanations of smoke timing decisions, controller positioning, and reads that justify non-obvious plays. For players who want to understand the Smokes role in depth — not just lineups but mid-round thinking — he's a solid source.",
+  "highlightsEs": [
+    "Guías de Omen y otros controllers con perspectiva de high elo",
+    "Smoke lineups en mapas vigentes con explicación táctica",
+    "Gameplay en Radiant/Immortal con commentary editorial",
+    "Tier lists y análisis de patches enfocados en controllers"
+  ],
+  "highlightsEn": [
+    "Omen and controller guides from a high-elo perspective",
+    "Smoke lineups on current maps with tactical explanation",
+    "Radiant/Immortal gameplay with editorial commentary",
+    "Tier lists and patch analysis focused on controllers"
+  ],
+  "avatar": "/images/creators/flexinja-avatar.jpg",
+  "banner": "/images/creators/flexinja-banner.jpg"
+}

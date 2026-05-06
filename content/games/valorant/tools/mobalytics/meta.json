@@ -1,0 +1,35 @@
+{
+  "id": "mobalytics",
+  "name": "Mobalytics Valorant",
+  "shortName": "Mobalytics",
+  "taglineEs": "Agent guides editoriales, tier lists y review de gameplay para Valorant",
+  "taglineEn": "Editorial agent guides, tier lists, and gameplay review for Valorant",
+  "url": "https://mobalytics.gg/valorant",
+  "category": "coaching",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows"],
+  "languages": ["en"],
+  "tags": ["agent-guides", "tier-list", "build-guides", "coaching", "lineup-database"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/valorant/mobalytics-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["blitz-gg", "insights-gg"],
+  "alternatives": ["blitz-gg"],
+  "createdBy": {
+    "name": "Mobalytics",
+    "url": "https://mobalytics.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "league-of-legends", "url": "https://mobalytics.gg/lol" },
+      { "gameId": "path-of-exile-2", "url": "https://mobalytics.gg/poe-2" }
+    ]
+  }
+}

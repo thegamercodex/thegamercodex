@@ -1,0 +1,144 @@
+{
+  "id": "valorant",
+  "name": "Valorant",
+  "shortName": "Valorant",
+  "developer": "Riot Games",
+  "releaseYear": 2020,
+  "officialUrl": "https://playvalorant.com",
+  "stores": [
+    {
+      "platform": "riot-client",
+      "url": "https://playvalorant.com/en-us/download/",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10009521",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/store/valorant/9PJ5N4XS3WC9",
+      "model": "free-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "free-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["cosmetic", "battle-pass", "weapon-skins", "agent-contracts", "knife-skins"],
+    "payToWin": false,
+    "noteEs": "Free-to-play desde el lanzamiento. Las microtransacciones son cosméticas (skins de armas, knives, buddies, sprays) más el battle pass premium estacional. Los agents nuevos se desbloquean gratis con tiempo o aceleradamente con XP. Sin ventaja competitiva comprable — la skin más cara y la pistola default disparan idéntico.",
+    "noteEn": "Free-to-play since launch. Microtransactions are cosmetic only (weapon skins, knives, buddies, sprays) plus the seasonal premium battle pass. New agents unlock for free over time or faster with XP. No buyable competitive advantage — the most expensive skin and the default pistol shoot identically."
+  },
+  "platforms": ["windows", "playstation", "xbox"],
+  "genres": ["fps", "tactical-shooter", "online", "team-based"],
+  "theme": {
+    "primary": "#ff4655",
+    "secondary": "#1f2733",
+    "accent": "#ff4655",
+    "background": "#0f1923",
+    "text": "#ece8e1"
+  },
+  "logo": "/images/games/valorant-logo.png",
+  "heroImage": "/images/games/valorant-hero.webp",
+  "toolCategories": [
+    {
+      "id": "match-history",
+      "nameEs": "Historial de Partidas",
+      "nameEn": "Match History",
+      "descriptionEs": "Stats por jugador, K/D, win rate por agente y mapa, comparativas con la comunidad",
+      "descriptionEn": "Per-player stats, K/D, win rate by agent and map, community comparisons",
+      "icon": "📊"
+    },
+    {
+      "id": "coaching",
+      "nameEs": "Coaching y Análisis",
+      "nameEn": "Coaching & Analysis",
+      "descriptionEs": "Guías de agente, tier lists, análisis de replay y revisión de gameplay",
+      "descriptionEn": "Agent guides, tier lists, replay analysis, and gameplay review",
+      "icon": "🎯"
+    },
+    {
+      "id": "pro-esports",
+      "nameEs": "Pro y Esports",
+      "nameEn": "Pro & Esports",
+      "descriptionEs": "Resultados de VCT, stats de pros, brackets, transferencias y cobertura editorial",
+      "descriptionEn": "VCT results, pro player stats, brackets, roster moves, and editorial coverage",
+      "icon": "🏆"
+    },
+    {
+      "id": "aim-training",
+      "nameEs": "Entrenamiento de Aim",
+      "nameEn": "Aim Training",
+      "descriptionEs": "Plataformas dedicadas para mejorar puntería, tracking, flicks y micro-ajustes",
+      "descriptionEn": "Dedicated platforms to improve aim, tracking, flicks, and micro-adjustments",
+      "icon": "🎯"
+    },
+    {
+      "id": "crosshair-config",
+      "nameEs": "Crosshair y Configuración",
+      "nameEn": "Crosshair & Settings",
+      "descriptionEs": "Bases de datos de crosshairs y configs de pros y streamers",
+      "descriptionEn": "Crosshair databases and pro/streamer configuration archives",
+      "icon": "✚"
+    },
+    {
+      "id": "lineups-callouts",
+      "nameEs": "Lineups y Callouts",
+      "nameEn": "Lineups & Callouts",
+      "descriptionEs": "Mapas interactivos con lineups de utilidad y callouts por sitio",
+      "descriptionEn": "Interactive maps with utility lineups and per-site callouts",
+      "icon": "🗺️"
+    },
+    {
+      "id": "inventory-skins",
+      "nameEs": "Inventario y Skins",
+      "nameEn": "Inventory & Skins",
+      "descriptionEs": "Tracking de tienda diaria, night markets, y catálogo de skins",
+      "descriptionEn": "Daily store tracking, night markets, and skin catalog",
+      "icon": "🔫"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para arrancar en Valorant o volver tras una pausa",
+      "descriptionEn": "Essential resources to start Valorant or return after a break",
+      "icon": "🌱"
+    },
+    {
+      "id": "patch-coverage",
+      "nameEs": "Cobertura del Acto",
+      "nameEn": "Act Coverage",
+      "descriptionEs": "Cambios de patch, balance, agentes nuevos y meta del acto vigente",
+      "descriptionEn": "Patch changes, balance, new agents, and current act meta",
+      "icon": "📰"
+    },
+    {
+      "id": "agent-guides",
+      "nameEs": "Guías de Agente",
+      "nameEn": "Agent Guides",
+      "descriptionEs": "Tutoriales por agente: kit, sinergias, líneas de habilidad y mecánicas",
+      "descriptionEn": "Per-agent tutorials: kit, synergies, ability lines, and mechanics",
+      "icon": "🎭"
+    },
+    {
+      "id": "map-and-lineups",
+      "nameEs": "Mapas y Lineups",
+      "nameEn": "Maps & Lineups",
+      "descriptionEs": "Walkthroughs de mapas, callouts, y lineups específicos de utilidades",
+      "descriptionEn": "Map walkthroughs, callouts, and specific utility lineups",
+      "icon": "🗺️"
+    },
+    {
+      "id": "ranked-improvement",
+      "nameEs": "Mejorar en Ranked",
+      "nameEn": "Ranked Improvement",
+      "descriptionEs": "Coaching general, errores frecuentes, mentalidad y subir de elo",
+      "descriptionEn": "General coaching, common mistakes, mindset, and climbing the ranks",
+      "icon": "📈"
+    }
+  ]
+}

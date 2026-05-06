@@ -1,0 +1,53 @@
+{
+  "id": "tarik",
+  "name": "tarik",
+  "realName": "Tarik Celik",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Tarik",
+      "url": "https://www.youtube.com/@Tarik",
+      "channelId": "UCTbtlMEiBfs0zZLQyJzR0Uw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "tarik",
+      "url": "https://www.twitch.tv/tarik"
+    },
+    {
+      "type": "twitter",
+      "handle": "@tarik",
+      "url": "https://twitter.com/tarik"
+    }
+  ],
+  "specialties": [
+    "vct-reactions",
+    "watch-party",
+    "pro-takes",
+    "high-elo-streaming",
+    "community-commentary"
+  ],
+  "games": ["valorant"],
+  "contentTypes": ["live-streams", "reactions", "videos"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Ex-pro de CS y figura central del watch-party scene de Valorant. Tarik streamea VCT con reactions en tiempo real, juega ranked en altísimo elo, y es referencia para entender qué pasa en la escena pro desde la perspectiva de alguien que sabe qué está mirando. Su YouTube es highlights del stream + reactions a partidos clave.",
+  "noteEn": "Former CS pro and central figure of Valorant's watch-party scene. Tarik streams VCT with real-time reactions, plays ranked at very high elo, and is the reference for understanding what's happening in the pro scene from someone who knows what to watch for. His YouTube is stream highlights + reactions to key matches.",
+  "highlightsEs": [
+    "Watch parties oficiales de VCT Americas con reactions de pro/ex-pro",
+    "Highlights de gameplay propio en altísimo elo",
+    "Análisis informal de meta y movements de jugadores",
+    "Cobertura cross-FPS (ocasional CS) que aporta perspectiva táctica"
+  ],
+  "highlightsEn": [
+    "Official VCT Americas watch parties with pro/ex-pro reactions",
+    "Highlights of his own gameplay at very high elo",
+    "Informal analysis of meta and player movements",
+    "Cross-FPS coverage (occasional CS) that adds tactical perspective"
+  ],
+  "avatar": "/images/creators/tarik-avatar.jpg",
+  "banner": "/images/creators/tarik-banner.jpg"
+}

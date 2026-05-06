@@ -1,0 +1,28 @@
+{
+  "id": "vlr-gg",
+  "name": "VLR.gg",
+  "shortName": "VLR.gg",
+  "taglineEs": "La fuente comunitaria de stats, partidas y rankings de Valorant esports",
+  "taglineEn": "The community source for Valorant esports stats, matches, and rankings",
+  "url": "https://www.vlr.gg",
+  "category": "pro-esports",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["esports", "vct", "match-results", "team-stats", "rankings", "essential"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/valorant/vlr-gg-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["liquipedia-valorant", "thespike-gg"],
+  "alternatives": ["liquipedia-valorant"],
+  "createdBy": {
+    "name": "VLR.gg",
+    "url": "https://www.vlr.gg"
+  }
+}

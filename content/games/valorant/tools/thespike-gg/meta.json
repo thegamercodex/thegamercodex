@@ -1,0 +1,28 @@
+{
+  "id": "thespike-gg",
+  "name": "The Spike",
+  "shortName": "The Spike",
+  "taglineEs": "Cobertura editorial de Valorant esports: noticias, transferencias y análisis",
+  "taglineEn": "Editorial coverage of Valorant esports: news, transfers, and analysis",
+  "url": "https://thespike.gg",
+  "category": "pro-esports",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["news", "esports", "editorial", "analysis", "guides"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/valorant/thespike-gg-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["vlr-gg", "liquipedia-valorant"],
+  "alternatives": ["vlr-gg"],
+  "createdBy": {
+    "name": "The Spike",
+    "url": "https://thespike.gg"
+  }
+}

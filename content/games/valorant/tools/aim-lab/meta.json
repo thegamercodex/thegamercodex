@@ -1,0 +1,34 @@
+{
+  "id": "aim-lab",
+  "name": "Aim Lab",
+  "shortName": "Aim Lab",
+  "taglineEs": "Plataforma free de aim training con tasks específicas para Valorant",
+  "taglineEn": "Free aim training platform with Valorant-specific tasks",
+  "url": "https://aimlab.gg",
+  "category": "aim-training",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows", "macos", "playstation", "xbox"],
+  "languages": ["en"],
+  "tags": ["aim-training", "free", "scenarios", "warm-up", "valorant-presets"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/valorant/aim-lab-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["kovaaks"],
+  "alternatives": ["kovaaks"],
+  "createdBy": {
+    "name": "Statespace Labs",
+    "url": "https://aimlab.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "counter-strike-2", "url": "https://aimlab.gg" }
+    ]
+  }
+}

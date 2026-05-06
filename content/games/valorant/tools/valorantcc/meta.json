@@ -1,0 +1,28 @@
+{
+  "id": "valorantcc",
+  "name": "Valorant Crosshair Codes",
+  "shortName": "ValorantCC",
+  "taglineEs": "Base de datos de crosshairs con import code para copiar al juego",
+  "taglineEn": "Crosshair database with import codes for one-click copying",
+  "url": "https://www.valorantcc.com",
+  "category": "crosshair-config",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["crosshair", "import-code", "pro-config", "preset"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/valorant/valorantcc-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["prosettings"],
+  "alternatives": ["prosettings"],
+  "createdBy": {
+    "name": "ValorantCC",
+    "url": "https://www.valorantcc.com"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "proguides-valorant",
+  "name": "ProGuides Valorant",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@ProGuidesValorant",
+      "url": "https://www.youtube.com/@ProGuidesValorant",
+      "channelId": "UCx0qCryognOczd5HN6ElI-w",
+      "primary": true
+    },
+    {
+      "type": "twitter",
+      "handle": "@ProGuidesVAL",
+      "url": "https://twitter.com/ProGuidesVAL"
+    }
+  ],
+  "specialties": [
+    "coaching",
+    "agent-tutorials",
+    "tier-lists",
+    "patch-analysis",
+    "pro-interviews"
+  ],
+  "games": ["valorant"],
+  "contentTypes": ["videos", "guides", "interviews", "tier-lists"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Canal dedicado a coaching estructurado de Valorant. ProGuides Valorant produce guías de agente, tier lists, análisis de patches y entrevistas con pros (Sentinels Kaplan, etc.). Su contenido tiene production value alto y enfoque pedagógico — más para players que quieren aprender técnica formal que para entretenimiento puro.",
+  "noteEn": "Channel dedicated to structured Valorant coaching. ProGuides Valorant produces agent guides, tier lists, patch analysis, and pro interviews (Sentinels Kaplan, etc.). The content has high production value and pedagogical focus — more for players who want to learn formal technique than for pure entertainment.",
+  "highlightsEs": [
+    "Guías por agente con tutoriales de mecánica y mid-game decisions",
+    "Tier lists actualizadas por patch con context editorial",
+    "Entrevistas con pros y coaches enfocadas en aprendizaje",
+    "Tutoriales de tech avanzada (movement, abilities tricks)"
+  ],
+  "highlightsEn": [
+    "Per-agent guides with mechanics and mid-game decision tutorials",
+    "Patch-updated tier lists with editorial context",
+    "Pro and coach interviews focused on learning",
+    "Advanced tech tutorials (movement, ability tricks)"
+  ],
+  "avatar": "/images/creators/proguides-valorant-avatar.jpg",
+  "banner": "/images/creators/proguides-valorant-banner.jpg"
+}

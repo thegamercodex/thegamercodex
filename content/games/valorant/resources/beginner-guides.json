@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "rem-ultimate-beginners-guide-2026",
+      "type": "video",
+      "title": "The ULTIMATE Beginners Guide For VALORANT 2026!",
+      "creator": "Rem",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=HBmaJuHUKDY",
+      "youtubeId": "HBmaJuHUKDY",
+      "language": "en",
+      "duration": "8:12",
+      "publishedDate": "2026-01-23",
+      "thumbnail": "https://i.ytimg.com/vi/HBmaJuHUKDY/maxresdefault.jpg",
+      "noteEs": "El video que mandás a alguien que recién instaló Valorant. Cubre fundamentals — economía, agent select, callouts, mecánica de tiro — sin filler ni hype. 8 minutos para arrancar.",
+      "noteEn": "The video to send someone who just installed Valorant. Covers fundamentals — economy, agent select, callouts, shooting mechanics — without filler or hype. 8 minutes to get started."
+    },
+    {
+      "id": "rem-ultimate-movement-guide-2026",
+      "type": "video",
+      "title": "The ULTIMATE Movement Guide for VALORANT 2026!",
+      "creator": "Rem",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=NzAxzm0UqFQ",
+      "youtubeId": "NzAxzm0UqFQ",
+      "language": "en",
+      "duration": "9:24",
+      "publishedDate": "2026-03-15",
+      "thumbnail": "https://i.ytimg.com/vi/NzAxzm0UqFQ/maxresdefault.jpg",
+      "noteEs": "Movement en Valorant es no-trivial — counter-strafing, jiggle peeking, jump-peeks. Rem cubre lo básico estructurado para que players nuevos no peguen mal por moverse mal antes de disparar.",
+      "noteEn": "Movement in Valorant is non-trivial — counter-strafing, jiggle peeking, jump-peeks. Rem structures the basics so new players don't whiff because they moved wrong before shooting."
+    },
+    {
+      "id": "stratozen-losing-gunfights-why",
+      "type": "video",
+      "title": "You're Losing Gunfights in Valorant (Here's Why)",
+      "creator": "StratoZen",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Z4iwxd40M3o",
+      "youtubeId": "Z4iwxd40M3o",
+      "language": "en",
+      "duration": "9:38",
+      "publishedDate": "2026-05-02",
+      "thumbnail": "https://i.ytimg.com/vi/Z4iwxd40M3o/maxresdefault.jpg",
+      "noteEs": "Diagnóstico para players que pierden duelos sin entender por qué. StratoZen identifica 5 errores comunes (peek timing, crosshair placement, sound) y explica el fix en cada uno. Útil cuando el ranked se siente injusto.",
+      "noteEn": "Diagnostic for players who lose duels without understanding why. StratoZen identifies 5 common errors (peek timing, crosshair placement, sound) and explains the fix for each. Useful when ranked feels unfair."
+    },
+    {
+      "id": "kaemi-new-act-rank-resets",
+      "type": "video",
+      "title": "New Act Rank Resets are Insane...",
+      "creator": "Kaemi",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ciJomoDnNAY",
+      "youtubeId": "ciJomoDnNAY",
+      "language": "en",
+      "duration": "8:37",
+      "publishedDate": "2026-04-29",
+      "thumbnail": "https://i.ytimg.com/vi/ciJomoDnNAY/maxresdefault.jpg",
+      "noteEs": "Para returning players: cómo funciona el rank reset del act actual, qué placements esperar, y cómo evitar perder MMR mal jugando los primeros placement matches.",
+      "noteEn": "For returning players: how the current act's rank reset works, what placements to expect, and how to avoid losing MMR by playing the first placement matches poorly."
+    },
+    {
+      "id": "dittozkul-ranked-reset-brutal",
+      "type": "video",
+      "title": "The Valorant Ranked Reset is BRUTAL...",
+      "creator": "Dittozkul",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=2cuQPgHWfc8",
+      "youtubeId": "2cuQPgHWfc8",
+      "language": "en",
+      "duration": "10:56",
+      "publishedDate": "2026-04-29",
+      "thumbnail": "https://i.ytimg.com/vi/2cuQPgHWfc8/maxresdefault.jpg",
+      "noteEs": "Segunda perspectiva del rank reset, con foco más editorial sobre por qué Riot lo cambió y qué significa para players de cada elo. Complementa al video de Kaemi con análisis del por qué.",
+      "noteEn": "Second take on the rank reset, with more editorial focus on why Riot changed it and what it means for players at each elo. Complements Kaemi's video with the 'why' analysis."
+    }
+  ]
+}

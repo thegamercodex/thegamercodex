@@ -1,0 +1,28 @@
+{
+  "id": "valorbuff",
+  "name": "Valorbuff",
+  "shortName": "Valorbuff",
+  "taglineEs": "Stats lookup minimalista para Valorant: rápido y sin clutter",
+  "taglineEn": "Minimalist Valorant stats lookup: fast and clutter-free",
+  "url": "https://valorbuff.com",
+  "category": "match-history",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["stats", "match-history", "lightweight", "lookup"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/valorant/valorbuff-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["tracker-gg", "blitz-gg"],
+  "alternatives": ["tracker-gg"],
+  "createdBy": {
+    "name": "Valorbuff",
+    "url": "https://valorbuff.com"
+  }
+}

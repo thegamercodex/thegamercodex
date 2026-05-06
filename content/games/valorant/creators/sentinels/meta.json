@@ -1,0 +1,52 @@
+{
+  "id": "sentinels",
+  "name": "Sentinels",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@sentinels",
+      "url": "https://www.youtube.com/@sentinels",
+      "channelId": "UCNcWiCgpHVctNxLr3FD04PA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "sentinels",
+      "url": "https://www.twitch.tv/sentinels"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Sentinels",
+      "url": "https://twitter.com/Sentinels"
+    }
+  ],
+  "specialties": [
+    "team-content",
+    "vct-coverage",
+    "behind-the-scenes",
+    "player-content",
+    "match-reactions"
+  ],
+  "games": ["valorant"],
+  "contentTypes": ["videos", "shorts", "behind-scenes", "interviews"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Canal oficial del equipo Sentinels (org NA, históricamente uno de los teams más populares de VCT con TenZ, Sacy, zekken, johnqt). El canal sube contenido casi diario: reactions a sus matches, behind-the-scenes, content de los players, sketches y memes. Para fans del team o de VCT Americas, es destination obligatorio. Para neutros, ofrece una ventana al lifestyle pro y al humor del scene.",
+  "noteEn": "Official channel of Sentinels (NA org, historically one of VCT's most popular teams with TenZ, Sacy, zekken, johnqt). The channel uploads nearly daily content: reactions to their matches, behind-the-scenes, player content, sketches, and memes. For team fans or VCT Americas followers, it's a mandatory destination. For neutrals, it offers a window into the pro lifestyle and the scene's humor.",
+  "highlightsEs": [
+    "Reactions de players a matches importantes de VCT Americas",
+    "Behind-the-scenes en bootcamp y eventos LAN",
+    "Skits y comedia con los pros del roster vigente",
+    "Stream highlights agrupados de cada player"
+  ],
+  "highlightsEn": [
+    "Player reactions to key VCT Americas matches",
+    "Behind-the-scenes at bootcamp and LAN events",
+    "Skits and comedy with the current roster's pros",
+    "Stream highlights compiled from each player"
+  ],
+  "avatar": "/images/creators/sentinels-avatar.jpg",
+  "banner": "/images/creators/sentinels-banner.jpg"
+}

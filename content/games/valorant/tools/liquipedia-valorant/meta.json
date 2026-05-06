@@ -1,0 +1,36 @@
+{
+  "id": "liquipedia-valorant",
+  "name": "Liquipedia Valorant",
+  "shortName": "Liquipedia",
+  "taglineEs": "Wiki estructural de Valorant esports: rosters, torneos y archivo histórico",
+  "taglineEn": "Structural wiki of Valorant esports: rosters, tournaments, and historical archive",
+  "url": "https://liquipedia.net/valorant/Main_Page",
+  "category": "pro-esports",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "esports", "tournaments", "rosters", "historical", "reference"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/valorant/liquipedia-valorant-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["vlr-gg", "thespike-gg"],
+  "alternatives": ["vlr-gg"],
+  "createdBy": {
+    "name": "Liquipedia Community",
+    "url": "https://liquipedia.net/valorant/Main_Page"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "counter-strike-2", "url": "https://liquipedia.net/counterstrike/Main_Page" },
+      { "gameId": "league-of-legends", "url": "https://liquipedia.net/leagueoflegends/Main_Page" },
+      { "gameId": "dota-2", "url": "https://liquipedia.net/dota2/Main_Page" }
+    ]
+  }
+}

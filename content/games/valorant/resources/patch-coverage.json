@@ -1,0 +1,80 @@
+{
+  "category": "patch-coverage",
+  "resources": [
+    {
+      "id": "valorant-official-welcome-season-2026",
+      "type": "video",
+      "title": "Welcome to Season 2026 // Dev Updates - VALORANT",
+      "creator": "VALORANT",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=jRi3VWoRgX4",
+      "youtubeId": "jRi3VWoRgX4",
+      "language": "en",
+      "duration": "10:56",
+      "publishedDate": "2026-01-06",
+      "thumbnail": "https://i.ytimg.com/vi/jRi3VWoRgX4/maxresdefault.jpg",
+      "noteEs": "Dev update oficial introduciendo Season 2026: roadmap, sistema de skins reformado, ranked changes, y direcciones para lo que viene. Source primaria — el resto del ecosistema reacciona a este video.",
+      "noteEn": "Official dev update introducing Season 2026: roadmap, reformed skin system, ranked changes, and directions for what's coming. Primary source — the rest of the ecosystem reacts to this video."
+    },
+    {
+      "id": "kanga-patch-1108-insane",
+      "type": "video",
+      "title": "VALORANT's PATCH 11.08 IS INSANE...",
+      "creator": "Kanga",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=9ZWU9RBp3Uw",
+      "youtubeId": "9ZWU9RBp3Uw",
+      "language": "en",
+      "duration": "7:01",
+      "publishedDate": "2025-10-12",
+      "thumbnail": "https://i.ytimg.com/vi/9ZWU9RBp3Uw/maxresdefault.jpg",
+      "noteEs": "Recap concentrado de un patch grande con foco en lo que cambia el meta. Kanga es referencia para resumen rápido sin filler.",
+      "noteEn": "Tight recap of a big patch focused on what shifts the meta. Kanga is a reference for quick summary without filler."
+    },
+    {
+      "id": "sc-valorant-tier-list-patch-1208",
+      "type": "video",
+      "title": "NEW TIER LIST for PATCH 12.08! - NEW ACT, ASCENT META & MORE!",
+      "creator": "SC Valorant Guides",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=GBe2spKhdCA",
+      "youtubeId": "GBe2spKhdCA",
+      "language": "en",
+      "duration": "16:20",
+      "publishedDate": "2026-04-28",
+      "thumbnail": "https://i.ytimg.com/vi/GBe2spKhdCA/maxresdefault.jpg",
+      "noteEs": "Tier list editorial con explicación per-agente de por qué subió o bajó. Más profundo que tier lists automáticas; útil para decidir qué practicar este act.",
+      "noteEn": "Editorial tier list with per-agent explanation of why each rose or fell. Deeper than auto tier lists; useful for deciding what to practice this act."
+    },
+    {
+      "id": "tarik-reacts-g2-vs-envy-vct-2026",
+      "type": "video",
+      "title": "IS THIS TEAM WASHED? Tarik Reacts to G2 vs ENVY | VCT Americas 2026: Stage 1",
+      "creator": "tarik",
+      "creatorId": "tarik",
+      "url": "https://www.youtube.com/watch?v=rXUe46zp1lI",
+      "youtubeId": "rXUe46zp1lI",
+      "language": "en",
+      "duration": "51:16",
+      "publishedDate": "2026-05-03",
+      "thumbnail": "https://i.ytimg.com/vi/rXUe46zp1lI/maxresdefault.jpg",
+      "noteEs": "Watch party de un match clave de VCT Americas Stage 1. Tarik aporta context de pro/ex-pro mientras se desarrolla la partida — útil para entender por qué cada decisión importa.",
+      "noteEn": "Watch party of a key VCT Americas Stage 1 match. Tarik adds pro/ex-pro context as the match unfolds — useful for understanding why each decision matters."
+    },
+    {
+      "id": "zellsis-rank-every-vct-americas-team",
+      "type": "video",
+      "title": "We Brutally Rank Every VCT Americas Team",
+      "creator": "Zellsis",
+      "creatorId": "zellsis",
+      "url": "https://www.youtube.com/watch?v=YrKmSRV1VOg",
+      "youtubeId": "YrKmSRV1VOg",
+      "language": "en",
+      "duration": "20:40",
+      "publishedDate": "2026-04-01",
+      "thumbnail": "https://i.ytimg.com/vi/YrKmSRV1VOg/maxresdefault.jpg",
+      "noteEs": "Tier list de teams VCT Americas desde la perspectiva de un pro player activo. Zellsis no se anda con vueltas — opiniones fuertes con justificación táctica.",
+      "noteEn": "VCT Americas team tier list from the perspective of an active pro player. Zellsis doesn't sugarcoat — strong opinions with tactical justification."
+    }
+  ]
+}

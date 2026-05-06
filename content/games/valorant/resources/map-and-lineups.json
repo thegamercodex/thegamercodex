@@ -1,0 +1,80 @@
+{
+  "category": "map-and-lineups",
+  "resources": [
+    {
+      "id": "lnx-fade-lineups-ascent-attackers",
+      "type": "video",
+      "title": "8 Must-Know Fade Lineups on Ascent for Attackers | 2026",
+      "creator": "LNX",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=hZnbEiZ-Qh4",
+      "youtubeId": "hZnbEiZ-Qh4",
+      "language": "en",
+      "duration": "2:39",
+      "publishedDate": "2026-05-05",
+      "thumbnail": "https://i.ytimg.com/vi/hZnbEiZ-Qh4/maxresdefault.jpg",
+      "noteEs": "8 lineups de Fade en Ascent para attack rounds. Format conciso (2:39): cada lineup show + ejecución. Útil para drill rápido pre-queue.",
+      "noteEn": "8 Fade lineups on Ascent for attack rounds. Concise format (2:39): each lineup shown + execution. Useful for quick drill pre-queue."
+    },
+    {
+      "id": "tseeky-sova-lineups-ascent-2026",
+      "type": "video",
+      "title": "Sova Lineups Ascent 2026 - VALORANT Guide *NEW*",
+      "creator": "Tseeky",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=MMni5F7Pfl0",
+      "youtubeId": "MMni5F7Pfl0",
+      "language": "en",
+      "duration": "13:00",
+      "publishedDate": "2026-04-29",
+      "thumbnail": "https://i.ytimg.com/vi/MMni5F7Pfl0/maxresdefault.jpg",
+      "noteEs": "Database completa de Sova lineups en Ascent post-rework. Tseeky cubre recon arrows + shock darts por sitio con ejecución detallada.",
+      "noteEn": "Full Sova lineup database on Ascent post-rework. Tseeky covers recon arrows + shock darts per site with detailed execution."
+    },
+    {
+      "id": "ryvlex-brimstone-lineups-ascent-2026",
+      "type": "video",
+      "title": "Brimstone LINEUPS for ASCENT (Updated 2026) – Valorant Guide",
+      "creator": "Ryvlex",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=4W_DDiq1xLY",
+      "youtubeId": "4W_DDiq1xLY",
+      "language": "en",
+      "duration": "4:13",
+      "publishedDate": "2026-04-30",
+      "thumbnail": "https://i.ytimg.com/vi/4W_DDiq1xLY/maxresdefault.jpg",
+      "noteEs": "Brim molly lineups en Ascent 2026 para defensa de site y delay de attacker push. Formato compacto (4 min) ideal para memorización rápida.",
+      "noteEn": "Brim molly lineups on Ascent 2026 for site defense and attacker-push delay. Compact format (4 min), ideal for quick memorization."
+    },
+    {
+      "id": "mr-ghost-viper-lineups-haven-2026",
+      "type": "video",
+      "title": "Best Viper Lineups On Haven 2026 | New Meta Valorant",
+      "creator": "Mr. Ghost",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=YBE9efWUrrA",
+      "youtubeId": "YBE9efWUrrA",
+      "language": "en",
+      "duration": "22:02",
+      "publishedDate": "2026-04-09",
+      "thumbnail": "https://i.ytimg.com/vi/YBE9efWUrrA/maxresdefault.jpg",
+      "noteEs": "Cobertura larga de Viper en Haven con wall placements, mollies y rat ults. 22 min de profundidad para mainers. Pausá y practicá una a la vez.",
+      "noteEn": "Long-form coverage of Viper on Haven with wall placements, mollies, and rat ults. 22 min of depth for Viper mains. Pause and drill one at a time."
+    },
+    {
+      "id": "surferrrr-best-lineups-ascent-2026",
+      "type": "video",
+      "title": "I Found The BEST Lineups on Ascent | Valorant 2026",
+      "creator": "Surferrrr",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=_MXnQZZc7X4",
+      "youtubeId": "_MXnQZZc7X4",
+      "language": "en",
+      "duration": "4:57",
+      "publishedDate": "2026-04-18",
+      "thumbnail": "https://i.ytimg.com/vi/_MXnQZZc7X4/maxresdefault.jpg",
+      "noteEs": "Compilación cross-agent de lineups poderosos en Ascent — flashes, smokes, mollies que la mayoría de jugadores no usa. Buen complemento al stack Sova/Brim/Fade.",
+      "noteEn": "Cross-agent compilation of powerful Ascent lineups — flashes, smokes, mollies most players don't use. Good complement to the Sova/Brim/Fade stack."
+    }
+  ]
+}

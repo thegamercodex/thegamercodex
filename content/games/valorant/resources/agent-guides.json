@@ -1,0 +1,80 @@
+{
+  "category": "agent-guides",
+  "resources": [
+    {
+      "id": "proguides-newest-sentinel",
+      "type": "video",
+      "title": "What you NEED to know about Valorant's Newest Sentinel",
+      "creator": "ProGuides Valorant",
+      "creatorId": "proguides-valorant",
+      "url": "https://www.youtube.com/watch?v=el84W80nZBg",
+      "youtubeId": "el84W80nZBg",
+      "language": "en",
+      "duration": "7:29",
+      "publishedDate": "2024-09-05",
+      "thumbnail": "https://i.ytimg.com/vi/el84W80nZBg/maxresdefault.jpg",
+      "noteEs": "Intro al rol Sentinel desde el sistema más reciente de la categoría. ProGuides cubre kit, sinergias y cuándo elegir el agente vs alternativos.",
+      "noteEn": "Intro to the Sentinel role through the most recent agent in the category. ProGuides covers kit, synergies, and when to pick this agent over alternatives."
+    },
+    {
+      "id": "flexinja-1-omen-valorant",
+      "type": "video",
+      "title": "How I Became the #1 Omen in Valorant",
+      "creator": "Flexinja",
+      "creatorId": "flexinja",
+      "url": "https://www.youtube.com/watch?v=Opw4WUvybS4",
+      "youtubeId": "Opw4WUvybS4",
+      "language": "en",
+      "duration": "17:59",
+      "publishedDate": "2026-05-02",
+      "thumbnail": "https://i.ytimg.com/vi/Opw4WUvybS4/maxresdefault.jpg",
+      "noteEs": "Walkthrough de cómo pensar Omen al nivel #1: smoke timing, controller positioning, mid-round reads. Más allá de los lineups, cómo se construye el game sense del controller.",
+      "noteEn": "Walkthrough of how to think Omen at the #1 level: smoke timing, controller positioning, mid-round reads. Beyond the lineups, how controller game sense is built."
+    },
+    {
+      "id": "flexinja-10000-hours-omen",
+      "type": "video",
+      "title": "This is what 10,000 hours of Omen looks like...",
+      "creator": "Flexinja",
+      "creatorId": "flexinja",
+      "url": "https://www.youtube.com/watch?v=WYkZvtuhBn4",
+      "youtubeId": "WYkZvtuhBn4",
+      "language": "en",
+      "duration": "16:10",
+      "publishedDate": "2026-04-16",
+      "thumbnail": "https://i.ytimg.com/vi/WYkZvtuhBn4/maxresdefault.jpg",
+      "noteEs": "Showcase de gameplay Omen con commentary que revela los micro-detalles que separan high elo de pro nivel. Post-game review style.",
+      "noteEn": "Omen gameplay showcase with commentary that reveals the micro-details separating high elo from pro level. Post-game review style."
+    },
+    {
+      "id": "igs-rip-ascent-viper-guide",
+      "type": "video",
+      "title": "Ascent Viper Guide: Walls, Lineups & Rat Ults",
+      "creator": "IGS RIP",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=tJI7D4MqYV8",
+      "youtubeId": "tJI7D4MqYV8",
+      "language": "en",
+      "duration": "11:00",
+      "publishedDate": "2026-05-04",
+      "thumbnail": "https://i.ytimg.com/vi/tJI7D4MqYV8/maxresdefault.jpg",
+      "noteEs": "Guía dedicada a Viper en Ascent: cómo plantar walls efectivos, lineups de molly, y rat ults. Útil para players que quieren extender su pool con un controller-de-mapa específico.",
+      "noteEn": "Guide dedicated to Viper on Ascent: how to plant effective walls, molly lineups, and rat ults. Useful for players wanting to extend their pool with a map-specific controller."
+    },
+    {
+      "id": "konpeki-find-your-main-role-agent",
+      "type": "video",
+      "title": "How to Find Your Main Role & Agent in Valorant (In-Depth)",
+      "creator": "Konpeki",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=FUz3uqFYtXc",
+      "youtubeId": "FUz3uqFYtXc",
+      "language": "en",
+      "duration": "13:42",
+      "publishedDate": "2025-11-16",
+      "thumbnail": "https://i.ytimg.com/vi/FUz3uqFYtXc/maxresdefault.jpg",
+      "noteEs": "Para players que están eligiendo main: framework para identificar qué rol matchea con tu playstyle (aim duels, info gather, support, lockdown) y qué agente practicar dentro de ese rol.",
+      "noteEn": "For players choosing a main: framework to identify which role matches your playstyle (aim duels, info gather, support, lockdown) and which agent to practice within that role."
+    }
+  ]
+}

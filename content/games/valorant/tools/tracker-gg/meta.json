@@ -1,0 +1,35 @@
+{
+  "id": "tracker-gg",
+  "name": "Tracker.gg Valorant",
+  "shortName": "Tracker.gg",
+  "taglineEs": "Stats por jugador, leaderboards globales y match history para Valorant",
+  "taglineEn": "Per-player stats, global leaderboards, and match history for Valorant",
+  "url": "https://tracker.gg/valorant",
+  "category": "match-history",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows"],
+  "languages": ["en"],
+  "tags": ["stats", "match-history", "leaderboards", "k-d", "agent-stats", "essential"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/valorant/tracker-gg-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["blitz-gg", "valorbuff"],
+  "alternatives": ["blitz-gg", "valorbuff"],
+  "createdBy": {
+    "name": "Tracker Network",
+    "url": "https://tracker.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "destiny-2", "url": "https://destinytracker.com" },
+      { "gameId": "counter-strike-2", "url": "https://tracker.gg/cs2" }
+    ]
+  }
+}

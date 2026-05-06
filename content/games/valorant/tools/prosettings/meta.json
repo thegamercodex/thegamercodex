@@ -1,0 +1,34 @@
+{
+  "id": "prosettings",
+  "name": "Prosettings.net Valorant",
+  "shortName": "Prosettings",
+  "taglineEs": "Base de datos completa de configuración (sens, video, peripherals) de pros de Valorant",
+  "taglineEn": "Complete configuration database (sens, video, peripherals) of Valorant pros",
+  "url": "https://prosettings.net/games/valorant",
+  "category": "crosshair-config",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["pro-settings", "sensitivity", "peripherals", "video-config", "reference"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/valorant/prosettings-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["valorantcc"],
+  "alternatives": ["valorantcc"],
+  "createdBy": {
+    "name": "Prosettings.net",
+    "url": "https://prosettings.net"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "counter-strike-2", "url": "https://prosettings.net/games/cs2" }
+    ]
+  }
+}

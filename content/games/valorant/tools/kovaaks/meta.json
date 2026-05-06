@@ -1,0 +1,34 @@
+{
+  "id": "kovaaks",
+  "name": "KovaaK's",
+  "shortName": "KovaaK's",
+  "taglineEs": "Aim trainer profundo con la librería de scenarios más grande del ecosistema FPS",
+  "taglineEn": "Deep aim trainer with the largest scenario library in the FPS ecosystem",
+  "url": "https://www.kovaaks.com",
+  "category": "aim-training",
+  "type": "software",
+  "official": false,
+  "free": false,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["aim-training", "paid", "scenarios", "community", "advanced"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/valorant/kovaaks-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["aim-lab"],
+  "alternatives": ["aim-lab"],
+  "createdBy": {
+    "name": "The Meta",
+    "url": "https://www.kovaaks.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "counter-strike-2", "url": "https://www.kovaaks.com" }
+    ]
+  }
+}

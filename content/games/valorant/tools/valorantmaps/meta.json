@@ -1,0 +1,28 @@
+{
+  "id": "valorantmaps",
+  "name": "Valorantmaps",
+  "shortName": "Valorantmaps",
+  "taglineEs": "Mapas interactivos de Valorant con callouts y referencias rápidas",
+  "taglineEn": "Interactive Valorant maps with callouts and quick references",
+  "url": "https://valorantmaps.com",
+  "category": "lineups-callouts",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["maps", "callouts", "reference", "site-info", "spawn-locations"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/valorant/valorantmaps-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["valoplant"],
+  "alternatives": ["valoplant"],
+  "createdBy": {
+    "name": "Valorantmaps",
+    "url": "https://valorantmaps.com"
+  }
+}

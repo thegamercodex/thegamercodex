@@ -1,0 +1,30 @@
+{
+  "id": "skinpeek",
+  "name": "SkinPeek",
+  "shortName": "SkinPeek",
+  "taglineEs": "Tracker de tienda diaria, night markets y catálogo de skins de Valorant",
+  "taglineEn": "Daily store, night market, and skin catalog tracker for Valorant",
+  "url": "https://skinpeek.com",
+  "category": "inventory-skins",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/giorgi-o/SkinPeek",
+  "license": "MIT",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["skin-tracker", "daily-store", "night-market", "wishlist", "discord-bot"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-05",
+  "logo": "/images/tools/valorant/skinpeek-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [],
+  "alternatives": [],
+  "createdBy": {
+    "name": "giorgi-o",
+    "url": "https://github.com/giorgi-o"
+  }
+}

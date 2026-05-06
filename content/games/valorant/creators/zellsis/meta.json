@@ -1,0 +1,53 @@
+{
+  "id": "zellsis",
+  "name": "Zellsis",
+  "realName": "Jordan Montemurro",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@zellsis",
+      "url": "https://www.youtube.com/@zellsis",
+      "channelId": "UCoRB7ty_dMZndW1SX5vr_HQ",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "zellsis",
+      "url": "https://www.twitch.tv/zellsis"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Zellsis",
+      "url": "https://twitter.com/Zellsis"
+    }
+  ],
+  "specialties": [
+    "pro-player",
+    "duelist-flex",
+    "highlights",
+    "ranked-streaming",
+    "personality-content"
+  ],
+  "games": ["valorant"],
+  "contentTypes": ["videos", "shorts", "live-streams", "highlights"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Pro player de Sentinels, conocido por su flex range (Duelist + Initiator + Sentinel) y por su personalidad carismática en streams. Su YouTube es mayormente highlights y skits con el resto del roster, con cobertura ocasional de gameplay propio explicando decisiones. Para fans que quieren ver Valorant pro-tier mezclado con humor genuino del team, es una de las opciones más entretenidas.",
+  "noteEn": "Sentinels pro player, known for his flex range (Duelist + Initiator + Sentinel) and charismatic stream personality. His YouTube is mostly highlights and skits with the rest of the roster, with occasional own-gameplay coverage explaining decisions. For fans who want to see pro-tier Valorant mixed with genuine team humor, it's one of the more entertaining options.",
+  "highlightsEs": [
+    "Highlights de gameplay flex en VCT Americas y ranked",
+    "Skits con compañeros de Sentinels (TenZ, Reduxx, zekken, etc.)",
+    "Reactions a clips polémicos del scene",
+    "Ocasional explicación de decisions en mid-round"
+  ],
+  "highlightsEn": [
+    "Flex gameplay highlights from VCT Americas and ranked",
+    "Skits with Sentinels teammates (TenZ, Reduxx, zekken, etc.)",
+    "Reactions to controversial scene clips",
+    "Occasional mid-round decision breakdowns"
+  ],
+  "avatar": "/images/creators/zellsis-avatar.jpg",
+  "banner": "/images/creators/zellsis-banner.jpg"
+}
