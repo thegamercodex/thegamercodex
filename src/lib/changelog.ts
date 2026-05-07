@@ -3,14 +3,51 @@ import path from "node:path";
 import matter from "gray-matter";
 import { marked } from "marked";
 
+/**
+ * Granular event recorded against a changelog entry. The changelog is
+ * scoped intentionally to CRUD on the four cataloged entity types — games,
+ * tools, creators, and resources. UI improvements, infrastructure work,
+ * and other technical changes are not tracked here.
+ *
+ * Each entry's `events` array represents the net delta versus the
+ * previously shipped state — a tool that was added on dev and reverted
+ * before promoting to main is not listed at all (no add+remove pair).
+ * Editorial discipline, not enforced by code.
+ */
+export type ChangelogEventType = "tool" | "creator" | "game" | "resource";
+
+export type ChangelogEventAction = "added" | "changed" | "removed" | "moved";
+
+export interface ChangelogEvent {
+  type: ChangelogEventType;
+  action: ChangelogEventAction;
+  /** Display name (tool/creator/game name, or the feature label). */
+  name: string;
+  /** For tool/creator/resource — the game catalog this event belongs to. */
+  gameId?: string;
+  /** For action: "moved" — the game it came from. */
+  fromGameId?: string;
+  /** For action: "moved" — the game it went to. */
+  toGameId?: string;
+  /** Optional bilingual context shown next to the event. */
+  noteEs?: string;
+  noteEn?: string;
+}
+
 export interface ChangelogEntryFrontmatter {
   date: string;
   titleEs: string;
   titleEn: string;
   summaryEs: string;
   summaryEn: string;
-  /** Set when this release adds a new game to the codex. Matches a game id. */
+  /**
+   * Set when this release adds a new game to the codex. Matches a game id.
+   * Drives the "Nuevo juego" badge and the entry's accent border.
+   * Independent from events[] — set explicitly.
+   */
   gameAdded?: string | null;
+  /** Structured events shipped in this release. */
+  events?: ChangelogEvent[];
 }
 
 export interface ChangelogEntry extends ChangelogEntryFrontmatter {
@@ -20,6 +57,8 @@ export interface ChangelogEntry extends ChangelogEntryFrontmatter {
   /** Body rendered to HTML (per locale) at build time. */
   htmlEs: string;
   htmlEn: string;
+  /** Always present (defaulted to []) for cleaner rendering. */
+  events: ChangelogEvent[];
 }
 
 const CHANGELOG_ROOT = path.join(process.cwd(), "content", "changelog");
@@ -76,6 +115,7 @@ export function getChangelogEntries(): ChangelogEntry[] {
       summaryEs: fm.summaryEs,
       summaryEn: fm.summaryEn,
       gameAdded: fm.gameAdded ?? null,
+      events: fm.events ?? [],
       bodyEs,
       bodyEn,
       htmlEs: marked.parse(bodyEs, { async: false }) as string,

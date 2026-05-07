@@ -191,3 +191,23 @@ La subcarpeta por juego mantiene la misma flat-structure simple dentro de cada j
 - `docs/RULES.md` — nueva sección "Editorial conventions para game .md" con el frontmatter canónico
 
 **Migración**: si un game .md futuro nace sin `tagline`, su card del landing queda sin bajada (no rompe el build, solo es feo). El campo `quickTake` legacy en game .md no estorba pero es ruido — barrer cuando se toque el archivo por otra razón.
+
+### 2026-05-07 - Changelog frontmatter: nuevo array `events` (scope CRUD-only)
+
+**Cambio**: el frontmatter de `content/changelog/<YYYY-MM-DD>-<slug>.md` ahora soporta un array opcional `events` con cambios estructurados. Cada `Event` tiene `type` (tool/creator/game/resource), `action` (added/changed/removed/moved), `name`, y campos opcionales `gameId` (o `fromGameId`/`toGameId` para `moved`) más `noteEs`/`noteEn`. El cuerpo libre del entry queda como sección "Notas" y solo se renderea si hay contenido.
+
+**Scope decidido**: el changelog se restringe deliberadamente a CRUD de las cuatro entidades curadas (games, tools, creators, resources). Cambios de UI, infraestructura, build setup, licencias, copy editorial, etc. no entran. Razón: la audiencia que mira `/changelog` quiere saber "qué tools/creators/recursos hay nuevos" — no quiere parsear features técnicos del sitio. La página tiene un disclaimer explícito de scope arriba.
+
+**Razón** (del cambio en general): los entries previos usaban Keep a Changelog libre con bullets — funcional pero perdía estructura. Con `events`, cada cambio queda enumerado uniformemente con icon por tipo, color por acción, y badge del juego al que pertenece. Permite filtrar/buscar a futuro, estandariza qué se documenta entry por entry, y le da al lector una lectura visual rápida sin tener que parsear prosa.
+
+**Editorial discipline (no codificada)**: los `events` reflejan deltas netos vs lo que está en main. Si una herramienta se agrega en `dev` y se retira antes de mergear a main, el entry no debe listar ni `added` ni `removed` — simplemente no aparece. El changelog documenta lo que la audiencia ve, no el work-in-progress interno.
+
+**Archivos afectados**:
+- `src/lib/changelog.ts` — nuevo type `ChangelogEvent` exportado, `ChangelogEntryFrontmatter.events?` agregado, parser pasa el array a la entry. Tipos union nuevos: `ChangelogEventType` y `ChangelogEventAction`.
+- `src/app/[locale]/changelog/page.tsx` — render rehecho: bloque "Cambios" con iconos lucide por tipo, action label coloreado, game badge con accent del juego. Marcado libre del body queda como sección "Notas" abajo.
+- `messages/{es,en}.json` — keys `changelog.eventsHeading`, `changelog.notesHeading`, `changelog.eventTypes.*`, `changelog.eventActions.*`, `changelog.eventMovedSeparator`.
+- `content/changelog/*.md` — todos los entries existentes migrados al nuevo formato. Los dos entries `2026-05-05-destiny-2-added.md` y `2026-05-05-valorant-added.md` se fusionaron en `2026-05-05-destiny-2-and-valorant-added.md` (regla: un archivo por día).
+
+**Migración**: para entries nuevos, agregar `events` con los items que ese día se shipean a main. Para entries existentes, ya migrados — el campo es opcional, así que entries futuros sin `events` siguen renderizando igual que antes (solo el body markdown).
+
+**Cadencia (no cambia)**: una entry por día con cambios significativos. Si en un día se hacen varios cambios, todos van como items en el `events` array de la misma entry — no se crean entries separados con la misma fecha.

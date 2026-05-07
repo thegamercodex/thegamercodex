@@ -22,6 +22,24 @@
     "pageTitle": "Changelog",
     "pageDescription": "Codex release history: new games, added tools, fixes, and removals.",
     "newGameBadge": "New game",
+    "scopeDisclaimer": "We only log adds, changes, removals, and moves for games, tools, creators, and resources. UI tweaks, infrastructure, and other technical improvements don't appear here.",
+    "supportPrompt": "If you like the content, help us keep the page updated and ad-free.",
+    "supportCta": "Support the codex",
+    "eventsHeading": "Changes",
+    "notesHeading": "Notes",
+    "eventTypes": {
+      "tool": "Tool",
+      "creator": "Creator",
+      "game": "Game",
+      "resource": "Resource"
+    },
+    "eventActions": {
+      "added": "Added",
+      "changed": "Updated",
+      "removed": "Removed",
+      "moved": "Moved"
+    },
+    "eventMovedSeparator": "→",
     "stats": {
       "tools": "{count, plural, one {# tool} other {# tools}}",
       "creators": "{count, plural, one {# creator} other {# creators}}",
