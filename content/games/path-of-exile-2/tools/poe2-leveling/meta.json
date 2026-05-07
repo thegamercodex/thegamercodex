@@ -1,0 +1,44 @@
+{
+  "id": "poe2-leveling",
+  "name": "PoE 2 Leveling Guide",
+  "shortName": "PoE 2 Leveling",
+  "taglineEs": "Guía web act por act para leveleo en Path of Exile 2, disponible en cinco idiomas incluyendo español",
+  "taglineEn": "Web-based act-by-act leveling guide for Path of Exile 2, available in five languages including Spanish",
+  "url": "https://www.poe2-leveling.com/",
+  "category": "leveling",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "tr",
+    "zh"
+  ],
+  "tags": [
+    "leveling",
+    "campaign",
+    "guide",
+    "multilingual"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-06",
+  "logo": "/images/tools/path-of-exile-2/poe2-leveling-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "path-of-building",
+    "maxroll"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Burak Can Baskin",
+    "url": "https://www.linkedin.com/in/burak-can-baskin-151493197/"
+  }
+}
