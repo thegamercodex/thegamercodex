@@ -1,0 +1,60 @@
+{
+  "id": "exile-companion",
+  "name": "Exile Companion",
+  "shortName": "Exile Companion",
+  "taglineEs": "App móvil con OCR de items, tracker de currency, guía de campaña y scanner de waystones para PoE 1 y PoE 2",
+  "taglineEn": "Mobile app with item OCR, currency tracker, campaign guide and waystone scanner for PoE 1 and PoE 2",
+  "url": "https://apps.apple.com/us/app/exile-companion/id6742854786",
+  "category": "trading",
+  "type": "mobile-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "pt",
+    "de",
+    "fr",
+    "ko",
+    "ru",
+    "ja"
+  ],
+  "tags": [
+    "mobile",
+    "ocr",
+    "price-check",
+    "currency",
+    "campaign",
+    "waystones",
+    "freemium"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-07",
+  "logo": "/images/tools/path-of-exile-2/exile-companion-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "poe-overlay",
+    "sidekick"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "AES Tech AB",
+    "url": "https://apps.apple.com/us/developer/aes-tech-ab/id1681681681"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      {
+        "gameId": "path-of-exile",
+        "url": "https://apps.apple.com/us/app/exile-companion/id6742854786"
+      }
+    ]
+  }
+}

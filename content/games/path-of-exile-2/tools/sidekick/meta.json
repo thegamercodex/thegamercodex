@@ -1,0 +1,57 @@
+{
+  "id": "sidekick",
+  "name": "Sidekick",
+  "shortName": "Sidekick",
+  "taglineEs": "Overlay open source para Path of Exile 1 y 2 con price check y verificación de modificadores peligrosos en maps",
+  "taglineEn": "Open-source overlay for Path of Exile 1 and 2 with price check and dangerous map modifier detection",
+  "url": "https://sidekick-poe.github.io",
+  "category": "trading",
+  "type": "overlay",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Sidekick-Poe/Sidekick",
+  "license": "MIT",
+  "platforms": [
+    "windows",
+    "linux"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "overlay",
+    "price-check",
+    "trade",
+    "map-mods",
+    "open-source",
+    "cross-platform"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-07",
+  "logo": "/images/tools/path-of-exile-2/sidekick-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "exiled-exchange-2",
+    "poe-overlay"
+  ],
+  "alternatives": [
+    "exiled-exchange-2",
+    "poe-overlay"
+  ],
+  "createdBy": {
+    "name": "Sidekick-Poe team",
+    "url": "https://github.com/Sidekick-Poe"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      {
+        "gameId": "path-of-exile",
+        "url": "https://sidekick-poe.github.io"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "poe-overlay",
+  "name": "POE Overlay",
+  "shortName": "POE Overlay",
+  "taglineEs": "Overlay in-game para price checking, historial de mercado y servicios de carry, con build dedicada para PoE 2",
+  "taglineEn": "In-game overlay for price checking, market history and carry services, with a dedicated PoE 2 build",
+  "url": "https://www.poeoverlay.com",
+  "category": "trading",
+  "type": "overlay",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "windows"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "overlay",
+    "price-check",
+    "trade",
+    "market-history",
+    "overwolf",
+    "carry-services"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-07",
+  "logo": "/images/tools/path-of-exile-2/poe-overlay-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "exiled-exchange-2",
+    "sidekick"
+  ],
+  "alternatives": [
+    "exiled-exchange-2",
+    "sidekick"
+  ],
+  "createdBy": {
+    "name": "POE Overlay team",
+    "url": "https://www.poeoverlay.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      {
+        "gameId": "path-of-exile",
+        "url": "https://www.poeoverlay.com"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "path-of-crafting",
+  "name": "Path of Crafting",
+  "shortName": "Path of Crafting",
+  "taglineEs": "Simulador de crafteo web para Path of Exile 2 con mod pools en tiempo real y probabilidades exactas",
+  "taglineEn": "Web crafting simulator for Path of Exile 2 with real-time mod pools and exact probabilities",
+  "url": "https://pathofcrafting.net",
+  "category": "crafting",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "crafting",
+    "simulator",
+    "mod-pools",
+    "probabilities",
+    "currency"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-07",
+  "logo": "/images/tools/path-of-exile-2/path-of-crafting-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "craft-of-exile",
+    "poe2db"
+  ],
+  "alternatives": [
+    "craft-of-exile"
+  ],
+  "createdBy": {
+    "name": "Path of Crafting team",
+    "url": "https://pathofcrafting.net"
+  }
+}

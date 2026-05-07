@@ -1,0 +1,48 @@
+{
+  "id": "hideout-showcase",
+  "name": "Hideout Showcase",
+  "shortName": "Hideout Showcase",
+  "taglineEs": "Comunidad histórica para compartir, votar y explorar diseños de hideouts en Path of Exile, con archivos descargables para importar al juego",
+  "taglineEn": "Long-running community for sharing, voting and exploring Path of Exile hideout designs, with downloadable files to import in-game",
+  "url": "https://hideoutshowcase.com/hideouts/search?s=&has_mtx=2&hideout_type=0&search_period=0&tags=&game_version=1",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "hideouts",
+    "showcase",
+    "community",
+    "decoration",
+    "voting",
+    "downloadable"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-07",
+  "logo": "/images/tools/path-of-exile/hideout-showcase-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Hideout Showcase team",
+    "url": "https://hideoutshowcase.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      {
+        "gameId": "path-of-exile-2",
+        "url": "https://hideoutshowcase.com/hideouts/search?s=&has_mtx=2&hideout_type=0&search_period=0&tags=&game_version=2"
+      }
+    ]
+  }
+}
