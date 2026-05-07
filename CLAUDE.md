@@ -19,7 +19,7 @@ Mapa rápido de secciones:
 
 ## Qué es
 
-TheGamerCodex es un directorio web curado de herramientas y recursos para gamers, construido como un compendio (codex) de información organizada por juego. Empieza con Path of Exile como MVP y está diseñado para escalar a múltiples juegos.
+TheGamerCodex es un directorio web curado de herramientas y recursos para gamers, construido como un compendio (codex) de información organizada por juego. Cubre 9 juegos (Counter-Strike 2, Destiny 2, Dota 2, Genshin Impact, League of Legends, Path of Exile, Path of Exile 2, Valorant, World of Warcraft) y está diseñado para escalar a más. Ver `docs/CONTENT_INVENTORY.md` para el inventario actualizado.
 
 ## Stack Técnico
 
@@ -265,11 +265,11 @@ El contenido vive en archivos (SSG + ISR), no hay base de datos ni autenticació
 
 ## Roadmap
 
-**Fase 1 - MVP (actual)**: PoE bilingüe con tools, creators, y resources básicos. Lanzamiento en r/pathofexile.
+**Fase 1 - MVP**: ✅ PoE bilingüe con tools, creators, y resources básicos.
 
-**Fase 2**: agregar más tools y creators a PoE basado en feedback. Empezar resources/*.json con videos curados.
+**Fase 2 - Expansión de catálogo**: ✅ catálogo de PoE ampliado + 8 juegos adicionales (PoE 2, Genshin Impact, LoL, Dota 2, CS2, Valorant, WoW, Destiny 2). Ver `docs/CONTENT_INVENTORY.md`.
 
-**Fase 3**: agregar segundo juego (probablemente PoE 2 o Genshin Impact).
+**Fase 3 - Outreach y feedback (actual)**: lanzamiento por juego en sus comunidades respectivas (Discord oficial/community-run, Reddit cuando aplique, DMs a creators listados). Iterar contenido en base a feedback.
 
 **Fase 4**: monetización con Ko-fi y posibles ads discretos cuando haya tracción.
 
@@ -279,15 +279,11 @@ Movido a **`docs/RULES.md` → "Código"**.
 
 ## Estado Actual del Contenido
 
-Path of Exile tiene contenido inicial listo:
+Para el inventario completo y actualizado (juegos, tools, creators, resources con conteos), ver **`docs/CONTENT_INVENTORY.md`** — autogenerado por `npm run inventory`. La fuente de verdad es `content/games/`; el doc se regenera tras cada cambio.
 
-- meta.json del juego ✅
-- es.md y en.md del juego ✅
-- 8 tools: Path of Building, poe.ninja, awakened-poe-trade, FilterBlade, Craft of Exile, PoeLab, PoEDB (con meta.json + es.md + en.md) y Maxroll (con meta.json — multi-game; cubre PoE + Diablo 4 + Last Epoch + D2R + Lost Ark) ✅
-- 2 creators con meta.json: Zizaran (inglés), KroximatuZ (español) ✅
-- 5 archivos resources/*.json (`beginner-guides`, `mechanics-per-league`, `build-guides`, `trading-guides`, `boss-guides`) con `{category, resources: []}` listos para llenar.
+Resumen de alto nivel: 9 juegos publicados con catálogo curado bilingüe ES/EN — Counter-Strike 2, Destiny 2, Dota 2, Genshin Impact, League of Legends, Path of Exile, Path of Exile 2, Valorant, World of Warcraft. Cada juego tiene 12-20 tools, 5 creators y 5-6 categorías de resources con ~25-30 items.
 
-Los assets visuales (logos, screenshots, avatars) aún no están descargados. Usar placeholders durante desarrollo.
+Los assets visuales (logos, screenshots, avatars) pueden faltar para tools/creators recién agregados — los componentes hacen fallback a inicial cuando no existe el archivo.
 
 ## Estado Actual del Código
 
@@ -312,11 +308,8 @@ Pasos 1-7, 9 y 10 del roadmap de PROJECT.md completos. `next build` pasa con SSG
 - ✅ Reportes de enlaces caídos: botón en sidebar de tool detail abre modal con comentario opcional → `POST /api/report-broken-link` formatea HTML y reenvía a un canal privado de Telegram via bot. Token y `chat_id` en env vars server-only (`TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHANNEL_ID`).
 - ✅ Toggle grid/lista en `ToolsExplorer` con persistencia en localStorage (`thegamercodex:tools-view`). Vista lista usa `ToolListItem` con layout horizontal compacto + fecha de última verificación.
 - ✅ Script `npm run verify <gameId> <toolId>` actualiza `lastVerified` a hoy preservando el formato del `meta.json`. Soporta `--all <gameId>` para bulk update.
-
-**Pendiente**:
-- ⏳ Deploy a Vercel (paso 11).
-- ⏳ Migración `middleware.ts` → `proxy.ts` cuando next-intl actualice docs (Next 16 lo deprecó).
-- ⏳ Segundo juego (Genshin Impact en proceso — ya tiene `meta.json` esqueleto).
+- ✅ Script `npm run inventory` regenera `docs/CONTENT_INVENTORY.md` desde `content/games/`. Correr después de cualquier cambio de contenido.
+- ✅ Deploy en Vercel productivo en `thegamercodex.com` (DNS en Cloudflare).
 
 ## Principios de Diseño y UX
 

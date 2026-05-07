@@ -185,6 +185,14 @@ Cuando hay un batch grande para procesar (ej: 15 tools de un juego nuevo), mante
   ```
   El script hace replace por línea (preserva el formato del archivo) y valida que el campo exista.
 
+- **Después de agregar/quitar/renombrar tools, creators, resources o games**, ejecutar:
+  ```
+  npm run inventory
+  ```
+  Regenera `docs/CONTENT_INVENTORY.md` desde `content/games/`. Commitear el doc actualizado en el mismo commit que el cambio de contenido — así el snapshot del repo siempre refleja el estado real, y futuras sesiones de Claude leen un inventario actualizado en lugar de info stale en CLAUDE.md.
+
+  No editar `CONTENT_INVENTORY.md` a mano: la fuente de verdad es `content/games/` y cualquier edición manual se sobreescribe en la próxima corrida.
+
 ## Sponsor slot
 
 El componente `src/components/SponsorSlot.tsx` (config en `src/lib/sponsor.ts`) renderiza un único banner de sponsor en el footer cuando hay uno activo, y nada cuando `activeSponsor` es `null`. Label "Patrocinado/Sponsored", `rel="sponsored noopener noreferrer"`, UTM tracking automático.
