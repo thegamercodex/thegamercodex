@@ -11,10 +11,11 @@
     "gamesHeading": "Games",
     "connectHeading": "Connect",
     "aboutHeading": "About the codex",
-    "aboutText": "",
+    "aboutText": "Made by a gamer for gamers. If you like the content, share it with other players.",
     "github": "GitHub",
     "feedback": "Report an issue",
     "changelog": "Changelog",
+    "support": "Support the codex",
     "rights": "Curated gaming codex."
   },
   "changelog": {

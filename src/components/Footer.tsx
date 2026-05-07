@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { getLocale, getTranslations } from "next-intl/server";
-import { ExternalLink } from "lucide-react";
+import { ExternalLink, Heart } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { getGames } from "@/lib/content";
 import { SponsorSlot } from "@/components/SponsorSlot";
@@ -96,6 +96,17 @@ export async function Footer() {
                 >
                   {tFooter("feedback")}
                   <ExternalLink className="h-3 w-3" />
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://ko-fi.com/thegamercodex"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 text-foreground-muted transition-colors hover:text-accent"
+                >
+                  <Heart className="h-3 w-3" />
+                  {tFooter("support")}
                 </a>
               </li>
             </ul>
