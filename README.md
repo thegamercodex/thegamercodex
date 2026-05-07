@@ -47,6 +47,12 @@ The site is fully static (SSG) with selective ISR — creator pages revalidate e
 - `messages/{es,en}.json` — UI strings
 - `public/images/` — game heroes/logos, creator avatars, tool screenshots
 
+## AI assistance
+
+AI is used as a drafting aid only — not as the core of the project. Long-form editorial analyses (each tool's "what it is", "when not to use this", honest limitations) are first drafted by a large language model and then reviewed, edited, and verified by a human curator before shipping. The decisions that shape the catalog — which tools belong, which creators are worth following, where the honest critiques actually land — are made by people, not by the model.
+
+This is not an AI-generated content farm. The source markdown lives under [`content/`](./content) on this repo, so anyone can audit the actual output directly instead of having to trust the website.
+
 ## Contributing
 
 The codex is editorially curated — it's not an open submission directory. If you spot a broken link, the in-app "Report broken link" button pings the maintainers directly. Issues and PRs for code-level improvements (accessibility, performance, bugs) are welcome.
