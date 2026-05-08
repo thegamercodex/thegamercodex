@@ -1,7 +1,6 @@
 import Image from "next/image";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import type { Metadata } from "next";
-import { ArrowDown } from "lucide-react";
 import { GameCard } from "@/components/GameCard";
 import { StatsStrip } from "@/components/StatsStrip";
 import { getGames } from "@/lib/content";
@@ -44,9 +43,9 @@ export default async function HomePage({
         dangerouslySetInnerHTML={{ __html: jsonLdScript(websiteJsonLd(loc)) }}
       />
 
-      <section className="flex flex-col items-center gap-4 pt-4 pb-8 sm:pt-6 sm:pb-10">
+      <section className="flex flex-col items-center gap-2 pt-4 pb-4 sm:pt-6 sm:pb-6">
         <div
-          className="relative w-full overflow-hidden rounded-2xl"
+          className="relative w-full max-w-3xl overflow-hidden rounded-2xl"
           style={{
             maskImage:
               "linear-gradient(to bottom, black 0%, black 85%, transparent 100%)",
@@ -68,12 +67,12 @@ export default async function HomePage({
             width={2172}
             height={724}
             priority
-            sizes="(min-width: 1152px) 1104px, 100vw"
+            sizes="(min-width: 768px) 768px, 100vw"
             className="h-auto w-full"
           />
         </div>
 
-        <div className="flex max-w-3xl flex-col items-center gap-3 text-center">
+        <div className="flex max-w-3xl flex-col items-center gap-2 text-center">
           <h1 className="text-2xl font-semibold leading-[1.2] tracking-tight sm:text-3xl">
             {t("heroTitle")}
           </h1>
@@ -81,20 +80,10 @@ export default async function HomePage({
             {t("heroSubtitle")}
           </p>
           <StatsStrip />
-          <a
-            href="#games"
-            className="mt-1 inline-flex items-center gap-1.5 rounded-md bg-accent px-5 py-2.5 text-sm font-semibold text-accent-foreground transition-transform duration-150 hover:-translate-y-0.5 hover:bg-accent-hover"
-          >
-            {t("exploreGames")}
-            <ArrowDown className="h-4 w-4" />
-          </a>
         </div>
       </section>
 
-      <section id="games" className="scroll-mt-24 border-t border-border pt-8">
-        <h2 className="mb-6 text-lg font-semibold tracking-tight">
-          {t("gamesHeading")}
-        </h2>
+      <section id="games" className="scroll-mt-24 pt-4">
         <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
           {games.map((game) => (
             <GameCard key={game.id} game={game} locale={locale as Locale} />
