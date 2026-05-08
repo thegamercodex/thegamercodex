@@ -1,0 +1,34 @@
+{
+  "id": "seelie-me",
+  "name": "Seelie.me",
+  "shortName": "Seelie",
+  "taglineEs": "Planificador completo de Genshin con tracking de achievements, materiales por personaje y companion app que sincroniza tu inventario in-game",
+  "taglineEn": "Complete Genshin planner with achievement tracking, per-character material planning, and a companion app that syncs your in-game inventory",
+  "url": "https://seelie.me/",
+  "category": "character-builds",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "planner",
+    "achievements",
+    "materials",
+    "tracker",
+    "companion-app"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-07",
+  "logo": "/images/tools/genshin-impact/seelie-me-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["genshin-center", "paimon-moe"],
+  "alternatives": ["genshin-center"],
+  "createdBy": {
+    "name": "Seelie team",
+    "url": "https://seelie.me/"
+  }
+}

@@ -1,9 +1,9 @@
 ---
 date: 2026-05-07
-titleEs: "PoE 2 ampliado y tools oficiales de HoYoverse en Genshin"
-titleEn: "PoE 2 expansion and official HoYoverse tools added to Genshin"
-summaryEs: "Sumamos 6 tools curadas a PoE 2 (incluyendo PoE 2 Scout, POE Overlay y Sidekick), movimos Exile Leveling a su catálogo PoE 1 maduro, y agregamos 6 tools oficiales de HoYoverse al catálogo de Genshin Impact (Battle Chronicle, Daily Check-In, Enhancement Calculator, Lineup Simulator, HoYoWiki, Card Plaza)."
-summaryEn: "Added 6 curated PoE 2 tools (including PoE 2 Scout, POE Overlay, and Sidekick), moved Exile Leveling to its mature PoE 1 catalog, and added 6 official HoYoverse tools to the Genshin Impact catalog (Battle Chronicle, Daily Check-In, Enhancement Calculator, Lineup Simulator, HoYoWiki, Card Plaza)."
+titleEs: "PoE 2 ampliado y catálogo de Genshin reforzado con 8 tools nuevas"
+titleEn: "PoE 2 expansion and Genshin catalog reinforced with 8 new tools"
+summaryEs: "Sumamos 6 tools curadas a PoE 2 (incluyendo PoE 2 Scout, POE Overlay y Sidekick), movimos Exile Leveling a su catálogo PoE 1 maduro, y reforzamos Genshin Impact con 8 tools nuevas: 6 oficiales de HoYoverse (Battle Chronicle, Daily Check-In, Enhancement Calculator, Lineup Simulator, HoYoWiki, Card Plaza) y 2 community top-recomendadas (Seelie.me y Crimson Witch)."
+summaryEn: "Added 6 curated PoE 2 tools (including PoE 2 Scout, POE Overlay, and Sidekick), moved Exile Leveling to its mature PoE 1 catalog, and reinforced Genshin Impact with 8 new tools: 6 official HoYoverse (Battle Chronicle, Daily Check-In, Enhancement Calculator, Lineup Simulator, HoYoWiki, Card Plaza) and 2 top community-recommended (Seelie.me and Crimson Witch)."
 gameAdded: null
 events:
   - type: tool
@@ -109,4 +109,16 @@ events:
     gameId: genshin-impact
     noteEs: "Hub oficial de Genius Invokation TCG con deck-building, decks comunitarios y matchups."
     noteEn: "Official Genius Invokation TCG hub with deck-building, community decks, and matchups."
+  - type: tool
+    action: added
+    name: "Seelie.me"
+    gameId: genshin-impact
+    noteEs: "Planner web community con achievement tracking, planning multi-personaje y companion app del browser shop in-game para sync automático del inventario."
+    noteEn: "Community web planner with achievement tracking, multi-character planning, and an in-game Browser Shop companion app for automatic inventory sync."
+  - type: tool
+    action: added
+    name: "Crimson Witch"
+    gameId: genshin-impact
+    noteEs: "Database community con 180+ builds rápidas y agregador de redeem codes activos para no perder primogems gratis que expiran en 24-48h."
+    noteEn: "Community database with 180+ quick builds and aggregator of active redeem codes to not miss free primogems that expire in 24-48h."
 ---
