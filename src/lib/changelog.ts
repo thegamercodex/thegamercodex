@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 import { marked } from "marked";
+import { parseDateOnly } from "@/lib/format";
 
 /**
  * Granular event recorded against a changelog entry. The changelog is
@@ -140,7 +141,7 @@ export function getMostRecentChangelogDate(): string | null {
 export function daysSinceLastUpdate(): number | null {
   const date = getMostRecentChangelogDate();
   if (!date) return null;
-  const last = new Date(date);
+  const last = parseDateOnly(date);
   const now = new Date();
   const ms = now.getTime() - last.getTime();
   return Math.max(0, Math.floor(ms / (1000 * 60 * 60 * 24)));

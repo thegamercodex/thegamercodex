@@ -1,7 +1,14 @@
 import type { Locale } from "@/types";
 
+// `new Date("2026-05-07")` parses as UTC midnight, which renders as the previous
+// calendar day for any viewer west of UTC. Appending "T00:00:00" forces local-time
+// interpretation so the displayed date matches the stored YYYY-MM-DD literally.
+export function parseDateOnly(isoDate: string): Date {
+  return new Date(`${isoDate}T00:00:00`);
+}
+
 export function relativeTime(isoDate: string, locale: Locale): string {
-  const date = new Date(isoDate);
+  const date = parseDateOnly(isoDate);
   if (Number.isNaN(date.getTime())) return "";
 
   const diffMs = Date.now() - date.getTime();
@@ -25,7 +32,7 @@ export function relativeTime(isoDate: string, locale: Locale): string {
 }
 
 export function formatDate(isoDate: string, locale: Locale): string {
-  const date = new Date(isoDate);
+  const date = parseDateOnly(isoDate);
   if (Number.isNaN(date.getTime())) return "";
   return date.toLocaleDateString(locale, {
     year: "numeric",
@@ -35,7 +42,7 @@ export function formatDate(isoDate: string, locale: Locale): string {
 }
 
 export function formatDateShort(isoDate: string, locale: Locale): string {
-  const date = new Date(isoDate);
+  const date = parseDateOnly(isoDate);
   if (Number.isNaN(date.getTime())) return "";
   return date.toLocaleDateString(locale, {
     year: "numeric",

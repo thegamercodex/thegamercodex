@@ -27,6 +27,7 @@ import {
 } from "@/lib/content";
 import type { MultiGameRef } from "@/types";
 import { categoriesById, categoryName, humanize } from "@/lib/categories";
+import { parseDateOnly } from "@/lib/format";
 import { jsonLdScript, softwareApplicationJsonLd } from "@/lib/jsonld";
 import type { Locale, Tool, ToolCategory } from "@/types";
 
@@ -462,7 +463,7 @@ export default async function ToolPage({ params }: PageParams) {
             />
             <SidebarRow
               label={t("lastVerified")}
-              value={new Date(tool.lastVerified).toLocaleDateString(loc, {
+              value={parseDateOnly(tool.lastVerified).toLocaleDateString(loc, {
                 year: "numeric",
                 month: "long",
                 day: "numeric",

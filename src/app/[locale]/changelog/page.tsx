@@ -17,6 +17,7 @@ import {
 } from "@/lib/changelog";
 import { getStats } from "@/lib/stats";
 import { getGames } from "@/lib/content";
+import { parseDateOnly } from "@/lib/format";
 import type { Game, Locale } from "@/types";
 
 export async function generateMetadata({
@@ -40,7 +41,7 @@ export async function generateMetadata({
 }
 
 function formatDate(iso: string, locale: Locale): string {
-  const d = new Date(iso);
+  const d = parseDateOnly(iso);
   return d.toLocaleDateString(locale === "es" ? "es-ES" : "en-US", {
     year: "numeric",
     month: "long",
