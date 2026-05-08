@@ -1,0 +1,50 @@
+{
+  "id": "card-plaza",
+  "name": "Card Plaza",
+  "shortName": "Card Plaza",
+  "taglineEs": "Hub oficial de Genius Invokation TCG: armá decks, navegá decks community, simulá partidas y aprendé matchups del card game in-game",
+  "taglineEn": "Official Genius Invokation TCG hub: build decks, browse community decks, simulate matches, and learn matchups of the in-game card game",
+  "url": "https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html",
+  "category": "card-game",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "pt",
+    "ru",
+    "th",
+    "tr",
+    "vi",
+    "zh-cn",
+    "zh-tw"
+  ],
+  "tags": [
+    "tcg",
+    "card-game",
+    "genius-invokation",
+    "deck-building",
+    "official"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-07",
+  "logo": "/images/tools/genshin-impact/card-plaza-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [],
+  "alternatives": [],
+  "createdBy": {
+    "name": "HoYoverse",
+    "url": "https://www.hoyoverse.com"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "enhancement-progression-calculator",
+  "name": "Enhancement Progression Calculator",
+  "shortName": "Enhancement Calc",
+  "taglineEs": "Calculadora oficial de HoYoverse para planificar materials, mora y resin necesarios para subir personajes, armas y talents",
+  "taglineEn": "Official HoYoverse calculator for planning materials, mora, and resin needed to level characters, weapons, and talents",
+  "url": "https://act.hoyolab.com/ys/event/calculator-sea/index.html",
+  "category": "character-builds",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "pt",
+    "ru",
+    "th",
+    "tr",
+    "vi",
+    "zh-cn",
+    "zh-tw"
+  ],
+  "tags": [
+    "calculator",
+    "leveling",
+    "ascension",
+    "talents",
+    "official"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-07",
+  "logo": "/images/tools/genshin-impact/enhancement-progression-calculator-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["genshin-center", "paimon-moe"],
+  "alternatives": ["genshin-center", "paimon-moe"],
+  "createdBy": {
+    "name": "HoYoverse",
+    "url": "https://www.hoyoverse.com"
+  }
+}

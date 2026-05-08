@@ -1,18 +1,18 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-07
+> Última generación: 2026-05-08
 
 ## Resumen
 
-9 juegos · 138 tools · 45 creators · 47 categorías · 235 resources items
+9 juegos · 144 tools · 45 creators · 47 categorías · 235 resources items
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items |
 |---|---|---:|---:|---:|---:|
 | `counter-strike-2` | Counter-Strike 2 | 15 | 5 | 5 | 25 |
 | `destiny-2` | Destiny 2 | 12 | 5 | 5 | 25 |
 | `dota-2` | Dota 2 | 13 | 5 | 5 | 25 |
-| `genshin-impact` | Genshin Impact | 16 | 5 | 6 | 30 |
+| `genshin-impact` | Genshin Impact | 22 | 5 | 6 | 30 |
 | `league-of-legends` | League of Legends | 15 | 5 | 5 | 25 |
 | `path-of-exile` | Path of Exile | 17 | 5 | 5 | 25 |
 | `path-of-exile-2` | Path of Exile 2 | 20 | 5 | 5 | 25 |
@@ -62,7 +62,7 @@
 
 ### Genshin Impact (`genshin-impact`)
 
-**Tools (16)**: Akasha System (`akasha-system`), AppSample Genshin Impact Map (`appsample-genshin-map`), Aspirine (`aspirine`), Enka.Network (`enka-network`), Game8 Genshin Impact (`game8-genshin`), gcsim (`gcsim`), Genshin Center (`genshin-center`), GenshinLab (`genshin-lab`), Genshin Optimizer (`genshin-optimizer`), Genshin Impact Wiki (`genshin-wiki`), Honey Hunter World (`honey-hunter-world`), HoYoLAB Interactive Map (`hoyolab-map`), Inventory Kamera (`inventory-kamera`), Keqing Mains (`keqing-mains`), KQM Team Compendium (`kqm-team-compendium`), Paimon.moe (`paimon-moe`)
+**Tools (22)**: Akasha System (`akasha-system`), AppSample Genshin Impact Map (`appsample-genshin-map`), Aspirine (`aspirine`), Battle Chronicle (`battle-chronicles`), Card Plaza (`card-plaza`), Daily Check-In (`daily-check-in`), Enhancement Progression Calculator (`enhancement-progression-calculator`), Enka.Network (`enka-network`), Game8 Genshin Impact (`game8-genshin`), gcsim (`gcsim`), Genshin Center (`genshin-center`), GenshinLab (`genshin-lab`), Genshin Optimizer (`genshin-optimizer`), Genshin Impact Wiki (`genshin-wiki`), Honey Hunter World (`honey-hunter-world`), HoYoLAB Interactive Map (`hoyolab-map`), HoYoWiki (`hoyowiki`), Inventory Kamera (`inventory-kamera`), Keqing Mains (`keqing-mains`), KQM Team Compendium (`kqm-team-compendium`), Lineup Simulator (`lineup-simulator`), Paimon.moe (`paimon-moe`)
 
 **Creators (5)**: KyoStinV (`kyostinv`), Mtashed (`mtashed`), Sevy (`sevy`), Tenha (`tenha`), Zajef77 (`zajef77`)
 

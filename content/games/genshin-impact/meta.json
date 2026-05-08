@@ -103,6 +103,22 @@
         "descriptionEs": "Wikis y bases de datos del juego",
         "descriptionEn": "Game wikis and databases",
         "icon": "📚"
+      },
+      {
+        "id": "account-tools",
+        "nameEs": "Herramientas de Cuenta",
+        "nameEn": "Account Tools",
+        "descriptionEs": "Daily check-in, perfiles públicos y servicios oficiales de cuenta",
+        "descriptionEn": "Daily check-in, public profiles, and official account services",
+        "icon": "🎁"
+      },
+      {
+        "id": "card-game",
+        "nameEs": "Juego de Cartas",
+        "nameEn": "Card Game",
+        "descriptionEs": "Recursos para Genius Invokation TCG (juego de cartas in-game)",
+        "descriptionEn": "Resources for Genius Invokation TCG (in-game card game)",
+        "icon": "🃏"
       }
     ],
     "resourceCategories": [

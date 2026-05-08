@@ -1,0 +1,50 @@
+{
+  "id": "lineup-simulator",
+  "name": "Lineup Simulator",
+  "shortName": "Lineup Sim",
+  "taglineEs": "Simulador oficial de team comps de HoYoverse — armá squads de 4 personajes con armas y artifacts para visualizar antes de probar in-game",
+  "taglineEn": "Official HoYoverse team comp simulator — build 4-character squads with weapons and artifacts to visualize before testing in-game",
+  "url": "https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html",
+  "category": "team-building",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "pt",
+    "ru",
+    "th",
+    "tr",
+    "vi",
+    "zh-cn",
+    "zh-tw"
+  ],
+  "tags": [
+    "team-comp",
+    "simulator",
+    "showcase",
+    "official",
+    "spiral-abyss"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-07",
+  "logo": "/images/tools/genshin-impact/lineup-simulator-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["genshin-lab", "kqm-team-compendium"],
+  "alternatives": ["genshin-lab"],
+  "createdBy": {
+    "name": "HoYoverse",
+    "url": "https://www.hoyoverse.com"
+  }
+}

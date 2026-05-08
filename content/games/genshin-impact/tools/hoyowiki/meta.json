@@ -1,0 +1,50 @@
+{
+  "id": "hoyowiki",
+  "name": "HoYoWiki",
+  "shortName": "HoYoWiki",
+  "taglineEs": "Wiki oficial de HoYoverse con datos verificados de personajes, armas, artifacts y mecánicas — fuente directa sin riesgo de errores comunitarios",
+  "taglineEn": "Official HoYoverse wiki with verified data on characters, weapons, artifacts, and mechanics — direct source with no community-error risk",
+  "url": "https://wiki.hoyolab.com/pc/genshin/home",
+  "category": "reference",
+  "type": "reference",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "pt",
+    "ru",
+    "th",
+    "tr",
+    "vi",
+    "zh-cn",
+    "zh-tw"
+  ],
+  "tags": [
+    "wiki",
+    "reference",
+    "official",
+    "characters",
+    "weapons"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-07",
+  "logo": "/images/tools/genshin-impact/hoyowiki-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["genshin-wiki", "honey-hunter-world"],
+  "alternatives": ["genshin-wiki", "honey-hunter-world"],
+  "createdBy": {
+    "name": "HoYoverse",
+    "url": "https://www.hoyoverse.com"
+  }
+}

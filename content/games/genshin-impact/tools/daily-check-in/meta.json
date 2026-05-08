@@ -1,0 +1,50 @@
+{
+  "id": "daily-check-in",
+  "name": "Daily Check-In",
+  "shortName": "Check-In",
+  "taglineEs": "Sistema oficial de recompensas diarias por hacer login en HoYoLAB — primogems gratis acumulables sin entrar al juego",
+  "taglineEn": "Official daily login rewards system on HoYoLAB — free accumulable primogems without entering the game",
+  "url": "https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481",
+  "category": "account-tools",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "ios", "android"],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "pt",
+    "ru",
+    "th",
+    "tr",
+    "vi",
+    "zh-cn",
+    "zh-tw"
+  ],
+  "tags": [
+    "daily-rewards",
+    "primogems",
+    "free-rewards",
+    "official",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-07",
+  "logo": "/images/tools/genshin-impact/daily-check-in-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [],
+  "alternatives": [],
+  "createdBy": {
+    "name": "HoYoverse",
+    "url": "https://www.hoyoverse.com"
+  }
+}

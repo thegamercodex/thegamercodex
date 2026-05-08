@@ -1,0 +1,50 @@
+{
+  "id": "battle-chronicles",
+  "name": "Battle Chronicle",
+  "shortName": "Battle Chronicle",
+  "taglineEs": "Perfil público oficial de HoYoverse con tus personajes, builds, Spiral Abyss y estadísticas de progreso",
+  "taglineEn": "Official HoYoverse public profile with your characters, builds, Spiral Abyss runs, and progress stats",
+  "url": "https://act.hoyolab.com/app/community-game-records-sea/index.html",
+  "category": "account-tools",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "pt",
+    "ru",
+    "th",
+    "tr",
+    "vi",
+    "zh-cn",
+    "zh-tw"
+  ],
+  "tags": [
+    "profile",
+    "showcase",
+    "spiral-abyss",
+    "official",
+    "social"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-07",
+  "logo": "/images/tools/genshin-impact/battle-chronicles-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["enka-network", "akasha-system"],
+  "alternatives": ["enka-network"],
+  "createdBy": {
+    "name": "HoYoverse",
+    "url": "https://www.hoyoverse.com"
+  }
+}
