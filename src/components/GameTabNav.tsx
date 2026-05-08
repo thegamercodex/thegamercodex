@@ -18,28 +18,28 @@ export function GameTabNav({ tabs, rightSlot }: Props) {
   const clickResetTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        if (userClicked.current) return;
-        const visible = entries
-          .filter((e) => e.isIntersecting)
-          .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
-        if (visible.length > 0) {
-          setActive(visible[0].target.id);
+    // IntersectionObserver was unreliable for sections of very different heights
+    // (the markdown "about" section spans more than a viewport, so its
+    // intersectionRatio stays small and never wins the highest-ratio sort).
+    // Scroll-based detection: the active tab is the last section whose top
+    // has crossed an imaginary line at 30% from the viewport top.
+    const handleScroll = () => {
+      if (userClicked.current) return;
+      const triggerY = window.innerHeight * 0.3;
+      let activeId = tabs[0]?.id ?? "";
+      for (const tab of tabs) {
+        const el = document.getElementById(tab.id);
+        if (!el) continue;
+        if (el.getBoundingClientRect().top <= triggerY) {
+          activeId = tab.id;
         }
-      },
-      {
-        rootMargin: "-25% 0px -60% 0px",
-        threshold: [0, 0.25, 0.5, 0.75, 1],
-      },
-    );
+      }
+      setActive(activeId);
+    };
 
-    tabs.forEach((tab) => {
-      const el = document.getElementById(tab.id);
-      if (el) observer.observe(el);
-    });
-
-    return () => observer.disconnect();
+    handleScroll();
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    return () => window.removeEventListener("scroll", handleScroll);
   }, [tabs]);
 
   const handleClick = (id: string) => (e: React.MouseEvent) => {
