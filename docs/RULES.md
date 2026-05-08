@@ -25,6 +25,12 @@ Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas está
 - Para plurales usar ICU: `{count, plural, one {# tool} other {# tools}}`.
 - **Los nombres propios** (de juegos, tools, creators) **NO se traducen**. "Path of Exile" se queda en ambos idiomas. Lo mismo nombres de tools y handles.
 - Default locale es `en` (cambiado desde `es` en el lanzamiento inicial — el codex apunta a audiencia global, con switch a español siempre disponible). URL siempre incluye locale (`localePrefix: "always"`). No existe `src/app/layout.tsx` raíz — el root layout vive en `[locale]/layout.tsx`.
+- **Español neutro en TODO contenido en español** (archivos `.md` de tools/games, campos `*Es` en JSONs como `taglineEs`/`descriptionEs`/`noteEs`/`titleEs`/`summaryEs`, mensajes de UI en `messages/es.json`, changelog entries):
+  - Usar **"tú"** como segunda persona — NO "vos" (rioplatense) ni "vosotros" (España).
+  - Conjugaciones neutras: `tienes` (no `tenés`), `puedes` (no `podés`), `quieres` (no `querés`), `usas` (no `usás`), `juegas` (no `jugás`), `necesitas` (no `necesitás`), `buscas` (no `buscás`), `sabes` (no `sabés`), etc.
+  - Imperativos neutros: `usa` (no `usá`), `mira` (no `mirá`), `haz` (no `hacé`), `pon` (no `poné`), `ingresa` (no `ingresá`), `comparte` (no `compartí`), etc.
+  - Evitar marcadores de España: `vale` (usar `bien`/`ok`), `tío` (no usar), `ordenador` (usar `computadora`), `móvil` (preferir `celular`).
+  - **Razón**: la audiencia es Latam + España + US-hispana; cualquier acento regional excluye lectores. Neutro es invisible y universal.
 
 ## Un juego = una carpeta
 
