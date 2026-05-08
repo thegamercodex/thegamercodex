@@ -108,9 +108,20 @@ export function getChangelogEntries(): ChangelogEntry[] {
       }
     }
 
+    // gray-matter auto-parses YAML `date: YYYY-MM-DD` scalars as Date objects
+    // even though our frontmatter type declares it as string. Normalize back
+    // to YYYY-MM-DD so downstream consumers can rely on the type contract.
+    const rawDate: unknown = fm.date;
+    const dateStr =
+      typeof rawDate === "string"
+        ? rawDate
+        : rawDate instanceof Date
+          ? rawDate.toISOString().slice(0, 10)
+          : String(rawDate);
+
     entries.push({
       slug,
-      date: fm.date,
+      date: dateStr,
       titleEs: fm.titleEs,
       titleEn: fm.titleEn,
       summaryEs: fm.summaryEs,
