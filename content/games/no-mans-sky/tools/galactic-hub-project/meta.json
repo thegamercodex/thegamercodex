@@ -1,0 +1,35 @@
+{
+  "id": "galactic-hub-project",
+  "name": "Galactic Hub Project",
+  "shortName": "Galactic Hub",
+  "taglineEs": "La civilización jugador-organizada más grande de NMS, con base en Euclid, hub central, embajadores y wiki documentando miles de discoveries",
+  "taglineEn": "The largest player-run NMS civilization, headquartered in Euclid, with a central hub, ambassadors and a wiki documenting thousands of discoveries",
+  "url": "https://nomanssky.fandom.com/wiki/Galactic_Hub_Project",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "civilization",
+    "community-org",
+    "wiki",
+    "discoveries",
+    "euclid-galaxy",
+    "free"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-09",
+  "logo": "/images/tools/no-mans-sky/galactic-hub-project-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["reddit-nomanssky", "nms-discord"],
+  "alternatives": ["reddit-nomanssky"],
+  "createdBy": {
+    "name": "Galactic Hub community",
+    "url": "https://www.reddit.com/r/GalacticHub/"
+  }
+}

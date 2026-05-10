@@ -1,0 +1,47 @@
+{
+  "id": "beeblebum",
+  "name": "Beeblebum",
+  "country": "DE",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2017,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Beeblebum",
+      "url": "https://www.youtube.com/@Beeblebum",
+      "channelId": "UCiPxIIYapAryopmQshBtQUw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "beeblebum",
+      "url": "https://www.twitch.tv/beeblebum"
+    }
+  ],
+  "specialties": [
+    "base-building",
+    "construction-tutorials",
+    "space-sandbox",
+    "multiplayer-servers"
+  ],
+  "games": ["no-mans-sky"],
+  "contentTypes": ["videos", "live-streams", "tutorials"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Creator alemán con audiencia internacional, especializado en base building y construcción inteligente en NMS y otros sandbox espaciales (Space Engineers, Windrose). Sus tutoriales explican técnicas avanzadas — glitches de building, layouts eficientes, mods de building — con calidad de producción alta y demo step-by-step. Operates servidores comunitarios donde la audiencia construye en paralelo.",
+  "noteEn": "Berlin-based creator with international audience, specialized in base building and smart construction in NMS and other space sandboxes (Space Engineers, Windrose). His tutorials explain advanced techniques — building glitches, efficient layouts, building mods — with high production quality and step-by-step demos. Runs community servers where the audience builds along.",
+  "highlightsEs": [
+    "Tutoriales de base building con técnicas avanzadas y glitches",
+    "Servidores multiplayer comunitarios para builds colaborativas",
+    "Cobertura rotativa entre NMS, Space Engineers y otros sandbox",
+    "Producción visual cuidada y narración clara"
+  ],
+  "highlightsEn": [
+    "Base-building tutorials with advanced techniques and glitches",
+    "Community multiplayer servers for collaborative builds",
+    "Rotating coverage between NMS, Space Engineers and other sandboxes",
+    "Polished production and clear narration"
+  ],
+  "avatar": "/images/creators/beeblebum-avatar.jpg",
+  "banner": "/images/creators/beeblebum-banner.jpg"
+}

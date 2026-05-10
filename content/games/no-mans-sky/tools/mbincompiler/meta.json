@@ -1,0 +1,37 @@
+{
+  "id": "mbincompiler",
+  "name": "MBINCompiler",
+  "shortName": "MBINCompiler",
+  "taglineEs": "Compilador open-source que convierte los archivos .MBIN binarios de NMS a XML editable y de vuelta — base del modding scene PC",
+  "taglineEn": "Open-source compiler that converts NMS' binary .MBIN files into editable XML and back — the foundation of the PC modding scene",
+  "url": "https://github.com/monkeyman192/MBINCompiler",
+  "category": "mods",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/monkeyman192/MBINCompiler",
+  "license": "MIT",
+  "platforms": ["windows", "linux", "macos"],
+  "languages": ["en"],
+  "tags": [
+    "modding",
+    "developer-tool",
+    "decompiler",
+    "open-source",
+    "free",
+    "command-line"
+  ],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-09",
+  "logo": "/images/tools/no-mans-sky/mbincompiler-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nexusmods-nms"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "monkeyman192 (originally emoose)",
+    "url": "https://github.com/monkeyman192"
+  }
+}

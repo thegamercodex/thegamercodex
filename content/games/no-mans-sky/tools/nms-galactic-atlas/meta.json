@@ -1,0 +1,36 @@
+{
+  "id": "nms-galactic-atlas",
+  "name": "Galactic Atlas",
+  "shortName": "Galactic Atlas",
+  "taglineEs": "Mapa interactivo oficial de Hello Games con planetas reportados, expediciones activas y missions comunitarias en tiempo real",
+  "taglineEn": "Hello Games' official interactive map with reported planets, active expeditions and live community missions",
+  "url": "https://galacticatlas.nomanssky.com",
+  "category": "discovery-coordinates",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "official",
+    "atlas",
+    "discoveries",
+    "expeditions",
+    "missions",
+    "community",
+    "free"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-09",
+  "logo": "/images/tools/no-mans-sky/nms-galactic-atlas-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nms-coordinate-exchange", "hello-games-release-log"],
+  "alternatives": ["nms-coordinate-exchange"],
+  "createdBy": {
+    "name": "Hello Games",
+    "url": "https://hellogames.org"
+  }
+}

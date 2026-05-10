@@ -1,0 +1,42 @@
+{
+  "id": "newftorious",
+  "name": "Newftorious",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2018,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Newftorious",
+      "url": "https://www.youtube.com/@Newftorious",
+      "channelId": "UCF6WRcJjpbcJx0Yy-OT3LVA",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "guides",
+    "ship-hunting",
+    "freighter-acquisition",
+    "patch-coverage"
+  ],
+  "games": ["no-mans-sky"],
+  "contentTypes": ["videos", "guides"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Canal especializado casi en exclusivo en guías de NMS — desde cómo conseguir el mejor freighter pirata, hasta cómo aumentar inventario rápido o conseguir multi-tools clase S. Cada video apunta a un how-to específico con tono directo y orientado a resultados. Buena puerta de entrada cuando buscás solucionar un problema puntual sin tener que ver streams largos.",
+  "noteEn": "Channel almost entirely focused on NMS guides — from getting the best pirate freighter, to fast inventory expansion, to S-class multi-tool farming. Every video targets a specific how-to with a direct, outcome-oriented tone. Good entry point when you need to solve a specific problem without committing to long streams.",
+  "highlightsEs": [
+    "Catálogo de guías cortas y directas (10-20 min) sobre tareas específicas",
+    "Cobertura rápida de cada update con guías 'New Player Guide 2026'",
+    "Foco en ship hunting, freighters y settlements",
+    "Sin streams en vivo — todo formato editado"
+  ],
+  "highlightsEn": [
+    "Catalog of short, direct guides (10-20 min) on specific tasks",
+    "Fast post-update coverage with 'New Player Guide 2026' style videos",
+    "Focus on ship hunting, freighters and settlements",
+    "No live streams — all edited format"
+  ],
+  "avatar": "/images/creators/newftorious-avatar.jpg",
+  "banner": "/images/creators/newftorious-banner.jpg"
+}

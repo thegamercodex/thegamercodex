@@ -1,0 +1,144 @@
+{
+  "id": "no-mans-sky",
+  "name": "No Man's Sky",
+  "shortName": "NMS",
+  "developer": "Hello Games",
+  "releaseYear": 2016,
+  "officialUrl": "https://www.nomanssky.com",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/275850/No_Mans_Sky/",
+      "appId": "275850",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "epic",
+      "url": "https://store.epicgames.com/en-US/p/no-mans-sky",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "gog",
+      "url": "https://www.gog.com/en/game/no_mans_sky",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/product/UP4040-CUSA03952_00-NOMANSSKY0000000",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/store/No-Mans-Sky/BQVQTL3PCH05",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "nintendo",
+      "url": "https://www.nintendo.com/us/store/products/no-mans-sky-switch/",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": false,
+    "purchaseTypes": [],
+    "payToWin": false,
+    "noteEs": "Pago único (~$60 USD, frecuentemente en oferta a $30 o menos). No tiene microtransacciones de ningún tipo. Hello Games sostuvo la promesa de que todas las actualizaciones desde el lanzamiento en 2016 son gratis para los dueños del juego — incluyendo expansiones masivas como Beyond, Origins, Frontiers, Worlds Part I/II y VOYAGERS. Ningún DLC pago, ningún battle pass, ninguna currency premium.",
+    "noteEn": "One-time purchase (~$60 USD, frequently on sale for $30 or less). Has zero microtransactions. Hello Games kept the promise that every update since the 2016 launch is free for owners — including massive expansions like Beyond, Origins, Frontiers, Worlds Part I/II and VOYAGERS. No paid DLC, no battle pass, no premium currency."
+  },
+  "platforms": ["windows", "macos", "playstation", "xbox", "switch"],
+  "genres": ["exploration", "survival", "sandbox", "sci-fi", "online"],
+  "theme": {
+    "primary": "#d97a2c",
+    "secondary": "#0e1322",
+    "accent": "#ffb14e",
+    "background": "#070914",
+    "text": "#f4ead4"
+  },
+  "logo": "/images/games/no-mans-sky-logo.png",
+  "heroImage": "/images/games/no-mans-sky-hero.webp",
+  "toolCategories": [
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis, companion apps y bases de datos de items, recetas y mecánicas de NMS",
+      "descriptionEn": "Wikis, companion apps and databases of NMS items, recipes and mechanics",
+      "icon": "📚"
+    },
+    {
+      "id": "discovery-coordinates",
+      "nameEs": "Descubrimiento y Coordenadas",
+      "nameEn": "Discovery & Coordinates",
+      "descriptionEs": "Atlas oficial, intercambio de glifos de portal y bases de datos de planetas y ships",
+      "descriptionEn": "Official atlas, portal glyph exchanges and databases of planets and ships",
+      "icon": "🛰️"
+    },
+    {
+      "id": "save-tools",
+      "nameEs": "Edición de Saves",
+      "nameEn": "Save Tools",
+      "descriptionEs": "Editores de partida para inspeccionar, respaldar o modificar saves de NMS",
+      "descriptionEn": "Save editors to inspect, back up or modify NMS save files",
+      "icon": "💾"
+    },
+    {
+      "id": "mods",
+      "nameEs": "Mods",
+      "nameEn": "Mods",
+      "descriptionEs": "Repositorios y herramientas para descargar, instalar y crear mods en PC",
+      "descriptionEn": "Repositories and tools to download, install and create PC mods",
+      "icon": "🛠️"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial, subreddits y civilizaciones de jugadores",
+      "descriptionEn": "Official Discord, subreddits and player-run civilizations",
+      "icon": "🪐"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para empezar a explorar el universo de NMS",
+      "descriptionEn": "Essential resources to start exploring the NMS universe",
+      "icon": "🌱"
+    },
+    {
+      "id": "expedition-guides",
+      "nameEs": "Guías de Expediciones",
+      "nameEn": "Expedition Guides",
+      "descriptionEs": "Guías y walkthroughs de las expediciones por temporada con su loot exclusivo",
+      "descriptionEn": "Walkthroughs of seasonal expeditions and their exclusive rewards",
+      "icon": "🚩"
+    },
+    {
+      "id": "base-building",
+      "nameEs": "Construcción de Bases",
+      "nameEn": "Base Building",
+      "descriptionEs": "Tutoriales y showcases del sistema de construcción y decoración",
+      "descriptionEn": "Tutorials and showcases for the building and decoration system",
+      "icon": "🏗️"
+    },
+    {
+      "id": "exploration-discovery",
+      "nameEs": "Exploración y Cacería",
+      "nameEn": "Exploration & Hunting",
+      "descriptionEs": "Cómo encontrar ships exóticos, multi-tools S-class, planetas raros y freighters",
+      "descriptionEn": "How to find exotic ships, S-class multi-tools, rare planets and freighters",
+      "icon": "🔭"
+    },
+    {
+      "id": "endgame-progression",
+      "nameEs": "Endgame y Progresión",
+      "nameEn": "Endgame & Progression",
+      "descriptionEs": "Farming de unidades, sentinel pillars, derelict freighters y contenido tardío",
+      "descriptionEn": "Unit farming, sentinel pillars, derelict freighters and late-game content",
+      "icon": "🌌"
+    }
+  ]
+}

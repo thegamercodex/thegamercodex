@@ -1,0 +1,80 @@
+{
+  "category": "expedition-guides",
+  "resources": [
+    {
+      "id": "hellogames-voyagers-deep-dive",
+      "type": "video",
+      "title": "No Man's Sky Voyagers Update - Deep Dive",
+      "creator": "HelloGamesTube",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=gdkt2rDKnAE",
+      "youtubeId": "gdkt2rDKnAE",
+      "language": "en",
+      "duration": "2:40",
+      "publishedDate": "2025-08-27",
+      "thumbnail": "https://i.ytimg.com/vi/gdkt2rDKnAE/maxresdefault.jpg",
+      "noteEs": "El deep-dive oficial del update Voyagers (6.0) por Hello Games. Resume las features grandes — corvettes, mejoras a los freighters, nuevas misiones — directo de los desarrolladores.",
+      "noteEn": "The official Voyagers (6.0) update deep dive by Hello Games. Summarizes the headline features — corvettes, freighter upgrades, new missions — straight from the developers."
+    },
+    {
+      "id": "qball-remnant-expedition-21-full-guide",
+      "type": "video",
+      "title": "No Man's Sky REMNANT EXPEDITION 21 PLAYTHROUGH | Full Guide",
+      "creator": "Q Ball Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=v6cgr_dI_vE",
+      "youtubeId": "v6cgr_dI_vE",
+      "language": "en",
+      "duration": "4:15:07",
+      "publishedDate": "2026-02-13",
+      "thumbnail": "https://i.ytimg.com/vi/v6cgr_dI_vE/maxresdefault.jpg",
+      "noteEs": "Playthrough completo de Expedition 21: Remnant en cuatro horas. Útil cuando querés ver una run real para entender el ritmo y orden de milestones, no una guía resumida.",
+      "noteEn": "Full Expedition 21: Remnant playthrough at four hours. Useful when you want to watch a real run to understand the pacing and milestone order, not a summary guide."
+    },
+    {
+      "id": "qball-voyagers-expedition-full-playthrough",
+      "type": "video",
+      "title": "No Man's Sky Voyagers Expedition Full Playthrough",
+      "creator": "Q Ball Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=cRMPr1HdYL4",
+      "youtubeId": "cRMPr1HdYL4",
+      "language": "en",
+      "duration": "4:44:12",
+      "publishedDate": "2025-09-03",
+      "thumbnail": "https://i.ytimg.com/vi/cRMPr1HdYL4/maxresdefault.jpg",
+      "noteEs": "Playthrough completo de la expedición Voyagers — la primera del update 6.0 — con todos los milestones y rewards. Referencia para players que perdieron la ventana original.",
+      "noteEn": "Full Voyagers expedition playthrough — the first one of update 6.0 — covering every milestone and reward. Reference for players who missed the original window."
+    },
+    {
+      "id": "captainryos-remnant-17-estamos-de-vuelta",
+      "type": "video",
+      "title": "No Man's Sky: REMNANT #17 | Español | 4K | Estamos de Vuelta! Calentamos con la nueva Expedición",
+      "creator": "CaptaiNRyoS",
+      "creatorId": "captainryos",
+      "url": "https://www.youtube.com/watch?v=sp7U04pTKpQ",
+      "youtubeId": "sp7U04pTKpQ",
+      "language": "es",
+      "duration": "17:00",
+      "publishedDate": "2026-02-15",
+      "thumbnail": "https://i.ytimg.com/vi/sp7U04pTKpQ/maxresdefault.jpg",
+      "noteEs": "Apertura de la expedición Remnant en español con producción 4K. Buen ritmo, narración clara, ideal para hispanohablantes que prefieren seguir expediciones con voz en off familiar.",
+      "noteEn": "Spanish-language opener for the Remnant expedition with 4K production. Good pacing, clear narration — ideal for Spanish speakers who prefer following expeditions with familiar voiceover."
+    },
+    {
+      "id": "captainryos-breach-15-empezamos-expedicion-20",
+      "type": "video",
+      "title": "No Man's Sky: The Breach #15 | Español | 4K | Empezamos la Expedición 20: THE BREACH",
+      "creator": "CaptaiNRyoS",
+      "creatorId": "captainryos",
+      "url": "https://www.youtube.com/watch?v=hVxCw6Pl3AY",
+      "youtubeId": "hVxCw6Pl3AY",
+      "language": "es",
+      "duration": "29:39",
+      "publishedDate": "2025-10-28",
+      "thumbnail": "https://i.ytimg.com/vi/hVxCw6Pl3AY/maxresdefault.jpg",
+      "noteEs": "Inicio de la expedición Breach (#20) en español, cubriendo Phase 1 y los primeros milestones. Episodio de media hora con producción cuidada.",
+      "noteEn": "Spanish-language start of the Breach expedition (#20), covering Phase 1 and the first milestones. Half-hour episode with polished production."
+    }
+  ]
+}

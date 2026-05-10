@@ -1,0 +1,35 @@
+{
+  "id": "nms-discord",
+  "name": "No Man's Sky Discord (oficial)",
+  "shortName": "NMS Discord",
+  "taglineEs": "Servidor oficial de Discord de Hello Games con cientos de miles de miembros, channels por idioma, multiplayer-finder y soporte directo del staff",
+  "taglineEn": "Hello Games' official Discord with hundreds of thousands of members, language-specific channels, multiplayer matchmaking and direct staff support",
+  "url": "https://discord.gg/nomanssky",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows", "macos", "linux", "ios", "android", "web"],
+  "languages": ["en", "es"],
+  "tags": [
+    "discord",
+    "official",
+    "community",
+    "multiplayer",
+    "support",
+    "free"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-09",
+  "logo": "/images/tools/no-mans-sky/nms-discord-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["reddit-nomanssky", "galactic-hub-project"],
+  "alternatives": ["reddit-nomanssky"],
+  "createdBy": {
+    "name": "Hello Games",
+    "url": "https://hellogames.org"
+  }
+}

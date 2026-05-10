@@ -1,0 +1,35 @@
+{
+  "id": "nexusmods-nms",
+  "name": "Nexus Mods — No Man's Sky",
+  "shortName": "Nexus NMS",
+  "taglineEs": "Repositorio principal de mods de NMS para PC con miles de mods de gameplay, visuales, QoL e interfaz",
+  "taglineEn": "The main NMS PC mod repository, hosting thousands of gameplay, visual, QoL and UI mods",
+  "url": "https://www.nexusmods.com/nomanssky",
+  "category": "mods",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "mods",
+    "pc-only",
+    "gameplay",
+    "visuals",
+    "quality-of-life",
+    "free"
+  ],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-09",
+  "logo": "/images/tools/no-mans-sky/nexusmods-nms-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mbincompiler"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Nexus Mods",
+    "url": "https://www.nexusmods.com"
+  }
+}

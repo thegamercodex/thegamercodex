@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "newftorious-best-start-guide-2026",
+      "type": "video",
+      "title": "No Mans Sky Best Start Guide 2026 Beginner Guide",
+      "creator": "Newftorious",
+      "creatorId": "newftorious",
+      "url": "https://www.youtube.com/watch?v=Qu48CIEtXaY",
+      "youtubeId": "Qu48CIEtXaY",
+      "language": "en",
+      "duration": "27:26",
+      "publishedDate": "2026-02-16",
+      "thumbnail": "https://i.ytimg.com/vi/Qu48CIEtXaY/maxresdefault.jpg",
+      "noteEs": "Walkthrough completo del flujo inicial actualizado a 2026: progresión de tecnologías, mejoras tempranas de exo-suit y multi-tool, y los primeros objetivos críticos. La guía más densa y reciente para arrancar bien.",
+      "noteEn": "Full walkthrough of the early-game flow updated for 2026: tech progression, early exo-suit and multi-tool upgrades, and the critical first goals. The densest and most recent get-started guide."
+    },
+    {
+      "id": "true-cyan-have-fun-2026",
+      "type": "video",
+      "title": "How to have FUN in No Man's Sky 2026 (New and Returning Player guide)",
+      "creator": "True_Cyan_NMS",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=NXBV0NvUvqI",
+      "youtubeId": "NXBV0NvUvqI",
+      "language": "en",
+      "duration": "15:30",
+      "publishedDate": "2026-04-06",
+      "thumbnail": "https://i.ytimg.com/vi/NXBV0NvUvqI/maxresdefault.jpg",
+      "noteEs": "En lugar de una guía de mecánicas, propone un mental model para disfrutar el juego: cómo evitar burnout, qué metas ponerse, y cómo aprovechar la ausencia de presión. Útil para players que rebotaron del juego antes.",
+      "noteEn": "Rather than a mechanics walkthrough, this offers a mental model for enjoying the game: how to avoid burnout, what goals to set, and how to lean into the lack of pressure. Useful for players who bounced off NMS before."
+    },
+    {
+      "id": "true-cyan-best-settings-returning-2025",
+      "type": "video",
+      "title": "BEST Settings for RETURNING to No Man's Sky in 2025",
+      "creator": "True_Cyan_NMS",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=I84dn_iCVOY",
+      "youtubeId": "I84dn_iCVOY",
+      "language": "en",
+      "duration": "1:55",
+      "publishedDate": "2025-01-28",
+      "thumbnail": "https://i.ytimg.com/vi/I84dn_iCVOY/maxresdefault.jpg",
+      "noteEs": "Dos minutos de configuración esencial al volver al juego: qué tocar en gameplay, controles y accessibility para evitar la fricción que viene con tantos updates acumulados.",
+      "noteEn": "Two minutes of essential configuration when returning to the game: what to tweak in gameplay, controls and accessibility to avoid the friction caused by years of accumulated updates."
+    },
+    {
+      "id": "newftorious-suit-inventory-fast-2026",
+      "type": "video",
+      "title": "No Man's Sky How To Increase Suit Inventory Fast In 2026 (New Player Guide)",
+      "creator": "Newftorious",
+      "creatorId": "newftorious",
+      "url": "https://www.youtube.com/watch?v=5aW6j9iRwmQ",
+      "youtubeId": "5aW6j9iRwmQ",
+      "language": "en",
+      "duration": "2:11",
+      "publishedDate": "2026-04-22",
+      "thumbnail": "https://i.ytimg.com/vi/5aW6j9iRwmQ/maxresdefault.jpg",
+      "noteEs": "Cómo expandir el inventario del exo-suit rápido, una de las primeras barreras de progresión. Dos minutos al grano con las rutas que actualmente funcionan en 2026.",
+      "noteEn": "How to expand the exo-suit inventory fast, one of the first progression bottlenecks. Two minutes to the point with the routes that work in 2026."
+    },
+    {
+      "id": "captainryos-nms-13-portal-paso-a-paso",
+      "type": "video",
+      "title": "No Man's Sky #13 | Español | 4K | Abrimos el Portal Paso a Paso + Misiones de Nexo",
+      "creator": "CaptaiNRyoS",
+      "creatorId": "captainryos",
+      "url": "https://www.youtube.com/watch?v=-Rhx9rus7do",
+      "youtubeId": "-Rhx9rus7do",
+      "language": "es",
+      "duration": "19:03",
+      "publishedDate": "2025-10-18",
+      "thumbnail": "https://i.ytimg.com/vi/-Rhx9rus7do/maxresdefault.jpg",
+      "noteEs": "Episodio en español narrando el desbloqueo del primer portal y misiones del Nexus. Buen ejemplo de gameplay guiado para audiencia hispanohablante con producción 4K.",
+      "noteEn": "Spanish-language episode narrating the first portal unlock and Nexus missions. A good example of guided gameplay for a Spanish-speaking audience with 4K production."
+    }
+  ]
+}

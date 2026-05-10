@@ -1,0 +1,36 @@
+{
+  "id": "nms-save-editor",
+  "name": "NMS Save Editor",
+  "shortName": "NMS Save Editor",
+  "taglineEs": "El save editor clásico de No Man's Sky de goatfungus, activo desde 2018, con UI mínima y soporte amplio para inventario, ships y stats",
+  "taglineEn": "Goatfungus' classic No Man's Sky save editor, active since 2018, with a minimal UI and broad coverage of inventory, ships and stats",
+  "url": "https://github.com/goatfungus/NMSSaveEditor",
+  "category": "save-tools",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/goatfungus/NMSSaveEditor",
+  "license": "MIT",
+  "platforms": ["windows", "macos", "linux"],
+  "languages": ["en"],
+  "tags": [
+    "save-editor",
+    "open-source",
+    "classic",
+    "inventory",
+    "free"
+  ],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-09",
+  "logo": "/images/tools/no-mans-sky/nms-save-editor-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nomnom-save-editor"],
+  "alternatives": ["nomnom-save-editor"],
+  "createdBy": {
+    "name": "Brendon Matthews (goatfungus)",
+    "url": "https://github.com/goatfungus"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "category": "base-building",
+  "resources": [
+    {
+      "id": "beeblebum-building-basics-essentials",
+      "type": "video",
+      "title": "Complete Beginner's Guide to Building Basics | No Man's Sky Base Building Essentials",
+      "creator": "Beeblebum",
+      "creatorId": "beeblebum",
+      "url": "https://www.youtube.com/watch?v=mnxMzm3_Ykw",
+      "youtubeId": "mnxMzm3_Ykw",
+      "language": "en",
+      "duration": "17:56",
+      "publishedDate": "2024-08-11",
+      "thumbnail": "https://i.ytimg.com/vi/mnxMzm3_Ykw/maxresdefault.jpg",
+      "noteEs": "Punto de partida canónico para entender el sistema de construcción: piezas básicas, terrenos, energía y agua. Primera entrega de la serie Base Building Essentials de Beeblebum.",
+      "noteEn": "Canonical starting point for understanding the building system: base parts, terrain, power and water. First entry in Beeblebum's Base Building Essentials series."
+    },
+    {
+      "id": "beeblebum-snap-techniques-clean-builds",
+      "type": "video",
+      "title": "The BEST Snap Techniques for Clean Builds | No Man's Sky Base Building Essentials",
+      "creator": "Beeblebum",
+      "creatorId": "beeblebum",
+      "url": "https://www.youtube.com/watch?v=uFxwC2ykZoU",
+      "youtubeId": "uFxwC2ykZoU",
+      "language": "en",
+      "duration": "31:12",
+      "publishedDate": "2024-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/uFxwC2ykZoU/maxresdefault.jpg",
+      "noteEs": "Half-hour deep dive sobre snapping — la mecánica que separa bases tristes de bases impecables. Cubre offsets, glitches útiles y trucos de alineación que no son obvios.",
+      "noteEn": "Half-hour deep dive on snapping — the mechanic that separates messy bases from polished ones. Covers offsets, useful glitches and alignment tricks that aren't obvious."
+    },
+    {
+      "id": "beeblebum-perfect-location",
+      "type": "video",
+      "title": "How to find YOUR Perfect Location | No Man's Sky Base Building Essentials",
+      "creator": "Beeblebum",
+      "creatorId": "beeblebum",
+      "url": "https://www.youtube.com/watch?v=K644RpSdXrM",
+      "youtubeId": "K644RpSdXrM",
+      "language": "en",
+      "duration": "9:07",
+      "publishedDate": "2024-08-18",
+      "thumbnail": "https://i.ytimg.com/vi/K644RpSdXrM/maxresdefault.jpg",
+      "noteEs": "Cómo elegir el planeta y bioma correctos antes de plantar la primera base. Criterios prácticos: power, agua, sentinels, climate, FPS. Decisión que parece menor pero impacta horas.",
+      "noteEn": "How to pick the right planet and biome before planting your first base. Practical criteria: power, water, sentinels, climate, FPS. A seemingly small choice that compounds over hours."
+    },
+    {
+      "id": "henry-sparks-low-orbit-base-2026",
+      "type": "video",
+      "title": "How I Built a Low Orbit Base in 2026 | UPDATED | No Man's Sky | Step-by-Step Tutorial",
+      "creator": "Henry Sparks",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=leybDzlY6Ww",
+      "youtubeId": "leybDzlY6Ww",
+      "language": "en",
+      "duration": "35:21",
+      "publishedDate": "2026-01-12",
+      "thumbnail": "https://i.ytimg.com/vi/leybDzlY6Ww/maxresdefault.jpg",
+      "noteEs": "Tutorial paso a paso para construir una base en órbita baja, una de las builds más espectaculares y técnicamente complejas. Versión actualizada al patch de 2026.",
+      "noteEn": "Step-by-step tutorial for a low-orbit base, one of the most spectacular and technically complex builds. Version updated for the 2026 patch."
+    },
+    {
+      "id": "goodguysfree-building-easy-pro-tips",
+      "type": "video",
+      "title": "Building in #NoMansSky Made EASY with These Pro Tips",
+      "creator": "GoodGuysFree!",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=6BHqYeiGMKc",
+      "youtubeId": "6BHqYeiGMKc",
+      "language": "en",
+      "duration": "11:31",
+      "publishedDate": "2024-10-19",
+      "thumbnail": "https://i.ytimg.com/vi/6BHqYeiGMKc/maxresdefault.jpg",
+      "noteEs": "Compendio de pro tips concretos: ajustes de cámara, atajos de keyboard, rotación fina de piezas y trucos para evitar los bugs típicos de building.",
+      "noteEn": "Compendium of concrete pro tips: camera adjustments, keyboard shortcuts, fine piece rotation and tricks to avoid the typical building bugs."
+    }
+  ]
+}

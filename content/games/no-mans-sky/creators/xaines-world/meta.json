@@ -1,0 +1,47 @@
+{
+  "id": "xaines-world",
+  "name": "Xaine's World",
+  "country": "GB",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2015,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@xainesworld",
+      "url": "https://www.youtube.com/@xainesworld",
+      "channelId": "UCzTB8EBVJWkzJi2sQjdBv9g",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "xainesworld",
+      "url": "https://www.twitch.tv/xainesworld"
+    }
+  ],
+  "specialties": [
+    "base-building",
+    "tutorials",
+    "expedition-guides",
+    "fauna-discovery"
+  ],
+  "games": ["no-mans-sky"],
+  "contentTypes": ["videos", "live-streams", "tutorials"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Creator británico con cobertura constante de NMS desde 2015 — antes incluso de que el juego se lanzara. Su feed mezcla expediciones (incluyendo el Xeno Arena reciente para cazar fauna SSS), base building con servidores comunitarios, y series temáticas en otros space sandboxes. Tono pausado y didáctico, ideal para tutorials donde explica el por qué de cada paso.",
+  "noteEn": "UK-based creator with continuous NMS coverage since 2015 — before the game even launched. His feed blends expeditions (including recent Xeno Arena for SSS fauna hunts), base building with community servers, and themed series in other space sandboxes. Calm, instructional tone — ideal for tutorials where he explains the reasoning behind each step.",
+  "highlightsEs": [
+    "Cobertura ininterrumpida de NMS desde 2015 (pre-launch)",
+    "Tutoriales detallados de base building y mecánicas",
+    "Series de Xeno Arena cazando fauna clase SSS",
+    "Streams cooperativos con la comunidad en Twitch"
+  ],
+  "highlightsEn": [
+    "Uninterrupted NMS coverage since 2015 (pre-launch)",
+    "Detailed tutorials on base building and mechanics",
+    "Xeno Arena series hunting SSS-class fauna",
+    "Co-op streams with community members on Twitch"
+  ],
+  "avatar": "/images/creators/xaines-world-avatar.jpg",
+  "banner": "/images/creators/xaines-world-banner.jpg"
+}

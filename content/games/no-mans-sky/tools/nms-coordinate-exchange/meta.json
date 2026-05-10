@@ -1,0 +1,36 @@
+{
+  "id": "nms-coordinate-exchange",
+  "name": "No Man's Sky Coordinate Exchange",
+  "shortName": "NMSCE",
+  "taglineEs": "Base de datos comunitaria de coordenadas de portal: planetas notables, ships exóticos, multi-tools S-class y bases compartibles vía glyphs",
+  "taglineEn": "Community database of portal coordinates: notable planets, exotic ships, S-class multi-tools and shareable bases — all by glyph code",
+  "url": "https://nmsce.com",
+  "category": "discovery-coordinates",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "coordinates",
+    "portal",
+    "glyphs",
+    "ships",
+    "multitools",
+    "bases",
+    "free"
+  ],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-09",
+  "logo": "/images/tools/no-mans-sky/nms-coordinate-exchange-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nms-galactic-atlas", "reddit-nomanssky"],
+  "alternatives": ["nms-galactic-atlas"],
+  "createdBy": {
+    "name": "NMSCE community",
+    "url": "https://nmsce.com"
+  }
+}

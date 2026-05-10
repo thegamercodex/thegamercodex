@@ -1,0 +1,80 @@
+{
+  "category": "endgame-progression",
+  "resources": [
+    {
+      "id": "jason-plays-no-starter-ship-no-hud-challenge",
+      "type": "video",
+      "title": "No Starter Ship No HUD Challenge In No Man's Sky!",
+      "creator": "Jason Plays",
+      "creatorId": "jason-plays",
+      "url": "https://www.youtube.com/watch?v=Lp1pcge4V_k",
+      "youtubeId": "Lp1pcge4V_k",
+      "language": "en",
+      "duration": "3:42:24",
+      "publishedDate": "2026-05-08",
+      "thumbnail": "https://i.ytimg.com/vi/Lp1pcge4V_k/maxresdefault.jpg",
+      "noteEs": "Challenge run extremo de Jason Plays — empezar sin la nave inicial y sin HUD. Showcase del techo de dificultad para players con cientos de horas que quieren un nuevo problema.",
+      "noteEn": "Extreme Jason Plays challenge run — starting with no ship and no HUD. A showcase of the difficulty ceiling for players with hundreds of hours looking for a new problem."
+    },
+    {
+      "id": "newftorious-best-pirate-freighter-2026",
+      "type": "video",
+      "title": "How To Get The Best Pirate Freighter in No Man's Sky 2026 | Free S Class Dreadnought Freighter",
+      "creator": "Newftorious",
+      "creatorId": "newftorious",
+      "url": "https://www.youtube.com/watch?v=QBSnghReOXo",
+      "youtubeId": "QBSnghReOXo",
+      "language": "en",
+      "duration": "3:34",
+      "publishedDate": "2026-04-18",
+      "thumbnail": "https://i.ytimg.com/vi/QBSnghReOXo/maxresdefault.jpg",
+      "noteEs": "Cómo conseguir un Dreadnought freighter S-class gratis tras el update Outlaws. El freighter es uno de los late-game milestones que más cambia tu loop diario.",
+      "noteEn": "How to get a free S-class Dreadnought freighter after the Outlaws update. The freighter is one of the late-game milestones that most changes your daily loop."
+    },
+    {
+      "id": "true-cyan-finding-new-settlement-permadeath",
+      "type": "video",
+      "title": "Finding a New Settlement! | No Man's Sky Permadeath Gameplay",
+      "creator": "True_Cyan_NMS",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=SKunrZdkCvQ",
+      "youtubeId": "SKunrZdkCvQ",
+      "language": "en",
+      "duration": "1:13:04",
+      "publishedDate": "2025-02-27",
+      "thumbnail": "https://i.ytimg.com/vi/SKunrZdkCvQ/maxresdefault.jpg",
+      "noteEs": "Una hora de gameplay en Permadeath buscando settlement — el modo más exigente del juego. Útil para entender la presión real cuando una muerte borra todo el progreso.",
+      "noteEn": "An hour of Permadeath gameplay hunting for a settlement — the most demanding mode in the game. Useful for understanding the real pressure when a single death wipes all progress."
+    },
+    {
+      "id": "captainryos-voyagers-12-portal-glifos-desconocidos",
+      "type": "video",
+      "title": "No Man's Sky Voyagers #12 | Español | 4K | Llegamos al Portal de Glifos Desconocidos",
+      "creator": "CaptaiNRyoS",
+      "creatorId": "captainryos",
+      "url": "https://www.youtube.com/watch?v=BbJLFVXtT-w",
+      "youtubeId": "BbJLFVXtT-w",
+      "language": "es",
+      "duration": "31:47",
+      "publishedDate": "2025-10-14",
+      "thumbnail": "https://i.ytimg.com/vi/BbJLFVXtT-w/maxresdefault.jpg",
+      "noteEs": "Episodio en español sobre desbloquear glifos y portales — uno de los hitos centrales del progreso a media-tarde del juego. Producción 4K con narración pausada.",
+      "noteEn": "Spanish-language episode on unlocking glyphs and portals — one of the central mid-late progression milestones. 4K production with measured narration."
+    },
+    {
+      "id": "qball-live-breach-expedition-begins",
+      "type": "video",
+      "title": "LIVE Gameplay – No Man's Sky BREACH Expedition Begins!",
+      "creator": "Q Ball Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=dg4cySXZYOA",
+      "youtubeId": "dg4cySXZYOA",
+      "language": "en",
+      "duration": "5:28:57",
+      "publishedDate": "2025-10-22",
+      "thumbnail": "https://i.ytimg.com/vi/dg4cySXZYOA/maxresdefault.jpg",
+      "noteEs": "Cinco horas y media de stream cubriendo el lanzamiento de la expedición Breach. Útil para ver descubrimiento real, primera ronda de problemas no resueltos y soluciones improvisadas.",
+      "noteEn": "Five and a half hours of streaming covering the Breach expedition launch. Useful for watching real discovery, first-round unsolved problems and improvised fixes."
+    }
+  ]
+}

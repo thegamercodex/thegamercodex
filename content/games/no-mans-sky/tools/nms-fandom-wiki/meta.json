@@ -1,0 +1,36 @@
+{
+  "id": "nms-fandom-wiki",
+  "name": "No Man's Sky Wiki (Fandom)",
+  "shortName": "NMS Wiki",
+  "taglineEs": "Wiki comunitaria de Fandom con cobertura enciclopédica de items, mecánicas, fauna, lore y patches históricos de NMS",
+  "taglineEn": "Fandom community wiki with encyclopedic coverage of NMS items, mechanics, fauna, lore and historical patches",
+  "url": "https://nomanssky.fandom.com/wiki/No_Man%27s_Sky_Wiki",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "wiki",
+    "encyclopedia",
+    "lore",
+    "items",
+    "fauna",
+    "mechanics",
+    "free"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-09",
+  "logo": "/images/tools/no-mans-sky/nms-fandom-wiki-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["assistant-nms"],
+  "alternatives": ["assistant-nms"],
+  "createdBy": {
+    "name": "Fandom community contributors",
+    "url": "https://nomanssky.fandom.com/wiki/Special:Statistics"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nomnom-save-editor",
+  "name": "NomNom",
+  "shortName": "NomNom",
+  "taglineEs": "Save editor de NMS multi-plataforma con UI moderna, soporte para múltiples saves y backup automático — open source",
+  "taglineEn": "Modern, cross-platform NMS save editor with multi-save support and automatic backups — open source",
+  "url": "https://github.com/zencq/NomNom",
+  "category": "save-tools",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/zencq/NomNom",
+  "license": "GPL-3.0",
+  "platforms": ["windows", "macos", "linux"],
+  "languages": ["en"],
+  "tags": [
+    "save-editor",
+    "open-source",
+    "cross-platform",
+    "backup",
+    "multi-save",
+    "free"
+  ],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-09",
+  "logo": "/images/tools/no-mans-sky/nomnom-save-editor-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nms-save-editor"],
+  "alternatives": ["nms-save-editor"],
+  "createdBy": {
+    "name": "Christian Engelhardt (zencq)",
+    "url": "https://github.com/zencq"
+  }
+}

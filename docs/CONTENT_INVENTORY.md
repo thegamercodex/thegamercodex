@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-08
+> Última generación: 2026-05-10
 
 ## Resumen
 
-9 juegos · 146 tools · 45 creators · 47 categorías · 235 resources items
+10 juegos · 159 tools · 50 creators · 52 categorías · 260 resources items
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items |
 |---|---|---:|---:|---:|---:|
@@ -14,6 +14,7 @@
 | `dota-2` | Dota 2 | 13 | 5 | 5 | 25 |
 | `genshin-impact` | Genshin Impact | 24 | 5 | 6 | 30 |
 | `league-of-legends` | League of Legends | 15 | 5 | 5 | 25 |
+| `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 |
 | `path-of-exile` | Path of Exile | 17 | 5 | 5 | 25 |
 | `path-of-exile-2` | Path of Exile 2 | 20 | 5 | 5 | 25 |
 | `valorant` | Valorant | 15 | 5 | 5 | 25 |
@@ -86,6 +87,19 @@
 - `esports-coverage` — 5 items
 - `patch-coverage` — 5 items
 - `ranked-improvement` — 5 items
+
+### No Man's Sky (`no-mans-sky`)
+
+**Tools (13)**: Assistant for No Man's Sky (`assistant-nms`), Galactic Hub Project (`galactic-hub-project`), Hello Games Release Log (`hello-games-release-log`), MBINCompiler (`mbincompiler`), Nexus Mods — No Man's Sky (`nexusmods-nms`), No Man's Sky Coordinate Exchange (`nms-coordinate-exchange`), No Man's Sky Discord (oficial) (`nms-discord`), No Man's Sky Wiki (Fandom) (`nms-fandom-wiki`), Galactic Atlas (`nms-galactic-atlas`), NMS Save Editor (`nms-save-editor`), NMSCD (`nmscd`), NomNom (`nomnom-save-editor`), r/NoMansSkyTheGame (`reddit-nomanssky`)
+
+**Creators (5)**: Beeblebum (`beeblebum`), CaptaiNRyoS (`captainryos`), Jason Plays (`jason-plays`), Newftorious (`newftorious`), Xaine's World (`xaines-world`)
+
+**Resources (5 categories · 25 items)**:
+- `base-building` — 5 items
+- `beginner-guides` — 5 items
+- `endgame-progression` — 5 items
+- `expedition-guides` — 5 items
+- `exploration-discovery` — 5 items
 
 ### Path of Exile (`path-of-exile`)
 

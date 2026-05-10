@@ -1,0 +1,41 @@
+{
+  "id": "assistant-nms",
+  "name": "Assistant for No Man's Sky",
+  "shortName": "Assistant NMS",
+  "taglineEs": "Companion app multiplataforma con recetas, refinería, cocina, eventos en vivo y trackers de expedición — disponible web, iOS, Android y Windows",
+  "taglineEn": "Cross-platform companion app with recipes, refining, cooking, live events and expedition trackers — available on web, iOS, Android and Windows",
+  "url": "https://nmsassistant.com",
+  "category": "reference",
+  "type": "mobile-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/AssistantNMS",
+  "license": "MIT",
+  "platforms": ["windows", "ios", "android", "web"],
+  "languages": ["en", "es"],
+  "tags": [
+    "companion",
+    "recipes",
+    "refining",
+    "cooking",
+    "expeditions",
+    "events",
+    "wiki",
+    "multilang",
+    "free",
+    "open-source"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-09",
+  "logo": "/images/tools/no-mans-sky/assistant-nms-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nms-fandom-wiki", "nmscd"],
+  "alternatives": ["nms-fandom-wiki"],
+  "createdBy": {
+    "name": "Kurt Lourens",
+    "url": "https://kurtlourens.com"
+  }
+}

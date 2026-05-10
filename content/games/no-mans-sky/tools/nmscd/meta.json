@@ -1,0 +1,36 @@
+{
+  "id": "nmscd",
+  "name": "NMSCD",
+  "shortName": "NMSCD",
+  "taglineEs": "Hub colaborativo del equipo de AssistantNMS que agrupa más de 30 herramientas comunitarias en un solo portal",
+  "taglineEn": "Collaborative hub by the AssistantNMS team aggregating 30+ community tools in a single portal",
+  "url": "https://nmscd.com",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/AssistantNMS",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "tools-hub",
+    "community",
+    "wiki-helpers",
+    "calculators",
+    "free",
+    "open-source"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-09",
+  "logo": "/images/tools/no-mans-sky/nmscd-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["assistant-nms"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "AssistantNMS team",
+    "url": "https://nmsassistant.com"
+  }
+}

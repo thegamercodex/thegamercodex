@@ -1,0 +1,47 @@
+{
+  "id": "jason-plays",
+  "name": "Jason Plays",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2016,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@JasonPlaysNMS",
+      "url": "https://www.youtube.com/@JasonPlaysNMS",
+      "channelId": "UCPJXhXRkeSXngqwHo2PkncQ",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "jasonplaystv",
+      "url": "https://www.twitch.tv/jasonplaystv"
+    }
+  ],
+  "specialties": [
+    "expedition-walkthroughs",
+    "patch-coverage",
+    "exploration-streams",
+    "challenge-runs"
+  ],
+  "games": ["no-mans-sky"],
+  "contentTypes": ["videos", "live-streams", "guides"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Uno de los creators más veteranos del ecosistema NMS, cubriendo el juego desde 2016 con cadencia casi diaria. Mezcla expediciones temporales con challenge runs (No Starter Ship No HUD), streams de exploración y patch coverage tras cada update. Estilo accesible, friendly, sin hype excesivo — bueno tanto para newcomers como para regular returning players.",
+  "noteEn": "One of the longest-running NMS creators, covering the game since 2016 with near-daily cadence. Blends time-limited expeditions with challenge runs (No Starter Ship No HUD), exploration streams, and patch coverage after every update. Accessible, friendly tone without hype — good for both newcomers and returning regulars.",
+  "highlightsEs": [
+    "Cadencia diaria con NMS como pillar del canal desde 2016",
+    "Expedition walkthroughs y challenge runs creativos",
+    "Coverage rápido tras cada update (Xeno Arena, Worlds Part II, etc.)",
+    "Mezcla con otros space sandboxes (Outbound, Windrose) sin perder NMS focus"
+  ],
+  "highlightsEn": [
+    "Daily cadence with NMS as a channel pillar since 2016",
+    "Expedition walkthroughs and creative challenge runs",
+    "Fast coverage after every update (Xeno Arena, Worlds Part II, etc.)",
+    "Mixes in other space sandboxes (Outbound, Windrose) without losing NMS focus"
+  ],
+  "avatar": "/images/creators/jason-plays-avatar.jpg",
+  "banner": "/images/creators/jason-plays-banner.jpg"
+}

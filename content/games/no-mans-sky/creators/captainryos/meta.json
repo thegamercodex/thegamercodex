@@ -1,0 +1,42 @@
+{
+  "id": "captainryos",
+  "name": "CaptaiNRyoS",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "joinedYear": 2020,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@captainryos",
+      "url": "https://www.youtube.com/@captainryos",
+      "channelId": "UC36gzcM6v2TjlFlC6VyRYow",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "expedition-series",
+    "spanish-content",
+    "exploration",
+    "story-playthroughs"
+  ],
+  "games": ["no-mans-sky"],
+  "contentTypes": ["videos", "playthroughs"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "De los pocos creators hispanohablantes con cobertura sostenida y cuidada de No Man's Sky. Mantiene una serie temática de NMS organizada por temporadas, con episodios de 30-50 minutos en 4K cubriendo expediciones (Voyagers, Breach, Remnant) y la línea narrativa principal. También cubre Star Wars Outlaws en paralelo. Producción visual nítida y ritmo pausado para audiencia que prefiere playthroughs en español.",
+  "noteEn": "One of the few Spanish-speaking creators with consistent, well-produced No Man's Sky coverage. Maintains a thematic NMS series organized by seasons with 30-50 minute episodes in 4K covering expeditions (Voyagers, Breach, Remnant) and the main story. Also covers Star Wars Outlaws in parallel. Crisp visuals and a measured pacing for audiences who prefer Spanish-language playthroughs.",
+  "highlightsEs": [
+    "Serie completa de NMS en español con varias temporadas",
+    "Coverage de las últimas expediciones (Voyagers, Breach, Remnant)",
+    "Producción 4K con narración limpia y editada",
+    "Audiencia hispanohablante con cadencia regular"
+  ],
+  "highlightsEn": [
+    "Full Spanish-language NMS series across multiple seasons",
+    "Coverage of recent expeditions (Voyagers, Breach, Remnant)",
+    "4K production with clean edited narration",
+    "Regular cadence for Spanish-speaking audience"
+  ],
+  "avatar": "/images/creators/captainryos-avatar.jpg",
+  "banner": "/images/creators/captainryos-banner.jpg"
+}

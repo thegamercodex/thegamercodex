@@ -1,0 +1,35 @@
+{
+  "id": "reddit-nomanssky",
+  "name": "r/NoMansSkyTheGame",
+  "shortName": "r/NoMansSkyTheGame",
+  "taglineEs": "Subreddit principal de NMS con casi un millón de miembros, AMAs ocasionales con Hello Games y discusión asíncrona archivable",
+  "taglineEn": "The main NMS subreddit, nearly a million members, occasional Hello Games AMAs and archivable async discussion",
+  "url": "https://www.reddit.com/r/NoMansSkyTheGame/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "ios", "android"],
+  "languages": ["en"],
+  "tags": [
+    "subreddit",
+    "community",
+    "discussion",
+    "patch-news",
+    "screenshots",
+    "free"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-09",
+  "logo": "/images/tools/no-mans-sky/reddit-nomanssky-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nms-discord", "galactic-hub-project"],
+  "alternatives": ["nms-discord"],
+  "createdBy": {
+    "name": "r/NoMansSkyTheGame moderators and community",
+    "url": "https://www.reddit.com/r/NoMansSkyTheGame/about/"
+  }
+}

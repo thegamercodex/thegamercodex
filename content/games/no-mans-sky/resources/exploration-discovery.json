@@ -1,0 +1,80 @@
+{
+  "category": "exploration-discovery",
+  "resources": [
+    {
+      "id": "newftorious-best-multitool-2026",
+      "type": "video",
+      "title": "How To Get The Best Multitool In No Man's Sky 2026",
+      "creator": "Newftorious",
+      "creatorId": "newftorious",
+      "url": "https://www.youtube.com/watch?v=-kEfRCy2R9Q",
+      "youtubeId": "-kEfRCy2R9Q",
+      "language": "en",
+      "duration": "8:05",
+      "publishedDate": "2026-04-27",
+      "thumbnail": "https://i.ytimg.com/vi/-kEfRCy2R9Q/maxresdefault.jpg",
+      "noteEs": "Cómo localizar y conseguir multi-tools clase S de buena variante en 2026. Las mecánicas de spawn cambiaron varias veces entre patches; ésta es la versión actualizada.",
+      "noteEn": "How to locate and acquire S-class multi-tools of solid variants in 2026. Spawn mechanics changed multiple times between patches; this is the up-to-date version."
+    },
+    {
+      "id": "newftorious-best-ships-2026",
+      "type": "video",
+      "title": "How To Get The Best Ships In No Man's Sky 2026",
+      "creator": "Newftorious",
+      "creatorId": "newftorious",
+      "url": "https://www.youtube.com/watch?v=ovQ2j2zHgR0",
+      "youtubeId": "ovQ2j2zHgR0",
+      "language": "en",
+      "duration": "8:09",
+      "publishedDate": "2026-04-16",
+      "thumbnail": "https://i.ytimg.com/vi/ovQ2j2zHgR0/maxresdefault.jpg",
+      "noteEs": "Resumen de las clases de ships y por dónde cazar las variantes deseadas (Sentinel, Living Ship, Solar, Squid). Práctico, sin relleno.",
+      "noteEn": "Overview of ship classes and where to hunt the variants you want (Sentinel, Living Ship, Solar, Squid). Practical, no fluff."
+    },
+    {
+      "id": "newftorious-find-portal-2026",
+      "type": "video",
+      "title": "How To Find A Portal In No Mans Sky 2026",
+      "creator": "Newftorious",
+      "creatorId": "newftorious",
+      "url": "https://www.youtube.com/watch?v=oXXfrwtoBPE",
+      "youtubeId": "oXXfrwtoBPE",
+      "language": "en",
+      "duration": "2:08",
+      "publishedDate": "2026-03-21",
+      "thumbnail": "https://i.ytimg.com/vi/oXXfrwtoBPE/maxresdefault.jpg",
+      "noteEs": "Dos minutos sobre cómo encontrar portales planetarios — pre-requisito para usar coordenadas compartidas en NMSCE y otros recursos comunitarios.",
+      "noteEn": "Two minutes on how to find planetary portals — a prerequisite for using shared coordinates from NMSCE and other community resources."
+    },
+    {
+      "id": "qball-remnant-finding-perfect-planet",
+      "type": "video",
+      "title": "No Man's Sky REMNANT Finding the PERFECT PLANET",
+      "creator": "Q Ball Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=PKNmcuaWuDU",
+      "youtubeId": "PKNmcuaWuDU",
+      "language": "en",
+      "duration": "4:18:27",
+      "publishedDate": "2026-02-14",
+      "thumbnail": "https://i.ytimg.com/vi/PKNmcuaWuDU/maxresdefault.jpg",
+      "noteEs": "Stream largo de cuatro horas dedicado a buscar el planeta ideal — paradise, exotic, weather óptimo. Útil para ver el proceso real de filtrado entre miles de candidatos.",
+      "noteEn": "Four-hour stream dedicated to finding the ideal planet — paradise, exotic, ideal weather. Useful for watching the real filtering process across thousands of candidates."
+    },
+    {
+      "id": "true-cyan-best-way-find-settlement",
+      "type": "video",
+      "title": "BEST Way to Find a Settlement | No Man's Sky",
+      "creator": "True_Cyan_NMS",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=qD42YMiqrRc",
+      "youtubeId": "qD42YMiqrRc",
+      "language": "en",
+      "duration": "3:02",
+      "publishedDate": "2025-03-18",
+      "thumbnail": "https://i.ytimg.com/vi/qD42YMiqrRc/maxresdefault.jpg",
+      "noteEs": "Tres minutos al grano sobre cómo localizar un settlement adecuado para la quest de overseer. Foco en eficiencia: ahorra horas de viaje aleatorio.",
+      "noteEn": "Three minutes on how to locate a settlement worth claiming for the overseer questline. Efficiency-focused: saves hours of random travel."
+    }
+  ]
+}
