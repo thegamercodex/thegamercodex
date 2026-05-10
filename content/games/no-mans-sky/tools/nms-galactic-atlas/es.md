@@ -12,7 +12,7 @@ Es completamente oficial — Hello Games la mantiene como parte de su site — y
 
 ## Qué problema resuelve
 
-Para jugadores que no conocen la escala del universo procedural ni las features comunitarias activas, el atlas funciona como dashboard de descubrimiento: una mirada y entendés que hay 256 galaxias, miles de planetas reportados, expediciones pasadas y presentes con sus rewards visibles.
+Para jugadores que no conocen la escala del universo procedural ni las features comunitarias activas, el atlas funciona como dashboard de descubrimiento: una mirada y entiendes que hay 256 galaxias, miles de planetas reportados, expediciones pasadas y presentes con sus rewards visibles.
 
 También es el canal oficial donde Hello Games anuncia expediciones nuevas. Cuando arranca una expedition, el atlas tiene la página dedicada con teasers, milestones y leaderboard de jugadores activos.
 
@@ -36,18 +36,18 @@ Frente al **Hello Games Release Log**: el release log son patch notes textuales 
 
 ## Para quién NO es esta herramienta
 
-Si necesitás coordenadas específicas para teleportarte a un sistema concreto, el atlas no expone glyphs claramente — está diseñado más para descubrimiento que para action lookup. Usá NMSCE para eso.
+Si necesitas coordenadas específicas para teleportarte a un sistema concreto, el atlas no expone glyphs claramente — está diseñado más para descubrimiento que para action lookup. Usa NMSCE para eso.
 
-Si jugás solo offline o sin interés en eventos comunitarios, el atlas es informativo pero no operacional.
+Si juegas solo offline o sin interés en eventos comunitarios, el atlas es informativo pero no operacional.
 
-Si querés deep search por categoría (todos los sistemas pirate, todas las luna ártica), el atlas no permite ese tipo de filtros — está limitado a marcadores curados.
+Si quieres deep search por categoría (todos los sistemas pirate, todas las luna ártica), el atlas no permite ese tipo de filtros — está limitado a marcadores curados.
 
 ## Cómo se usa en la práctica
 
 1. Vas a galacticatlas.nomanssky.com en cualquier browser moderno (require WebGL para la visualización 3D).
 2. La home muestra la galaxia actual de NMS y links a la expedition activa si hay una corriendo.
-3. Hacés zoom in/out para explorar el universo. Los planetas marcados muestran tooltips con info comunitaria.
-4. Cliqueás en una expedition (presente o pasada) para ver su página dedicada con rewards y descripción.
+3. Haces zoom in/out para explorar el universo. Los planetas marcados muestran tooltips con info comunitaria.
+4. Cliqueas en una expedition (presente o pasada) para ver su página dedicada con rewards y descripción.
 5. Para ver community missions activas, hay sección dedicada en la home.
 6. Como el sitio es estático, no requiere login.
 
@@ -59,7 +59,7 @@ Si querés deep search por categoría (todos los sistemas pirate, todas las luna
 
 **Updates esporádicos del contenido marcado**. Hello Games no mantiene el atlas con la misma cadencia que el juego — algunas zonas tienen marcadores viejos.
 
-**Sin feed RSS o subscripciones**. No te avisa cuando arranca una expedition; tenés que volver a chequear o seguir el Twitter de NMS.
+**Sin feed RSS o subscripciones**. No te avisa cuando arranca una expedition; tienes que volver a chequear o seguir el Twitter de NMS.
 
 **Solo en inglés**. No hay versiones traducidas oficiales.
 
@@ -67,9 +67,9 @@ Si querés deep search por categoría (todos los sistemas pirate, todas las luna
 
 ## Cómo empezar
 
-Abrís galacticatlas.nomanssky.com en un browser desktop o tablet (mobile funciona pero la experiencia es más cómoda con pantalla grande).
+Abres galacticatlas.nomanssky.com en un browser desktop o tablet (mobile funciona pero la experiencia es más cómoda con pantalla grande).
 
-Esperá unos segundos a que cargue la visualización 3D y empezá a hacer zoom. Los marcadores son interactivos.
+Espera unos segundos a que cargue la visualización 3D y empieza a hacer zoom. Los marcadores son interactivos.
 
 Si hay una expedition activa, cliqueá su entrada para ver milestones y rewards. Si vas a participar, anotá la fecha de cierre — las expediciones tienen ventanas finitas.
 

@@ -12,7 +12,7 @@ Casi una década más tarde, NMS no es el mismo juego. Hello Games entregó actu
 
 ## Cómo se juega
 
-El loop básico es: aterrizás en un planeta, escaneás flora y fauna, minás recursos, refinás materiales, mejorás traje/multitool/nave, despegás, viajás a la siguiente estrella, repetís. Esa estructura se complica gradualmente: aprendés idiomas alienígenas, construís bases con energía y agua, ensamblás un freighter capital con flota de fragatas, cazás ships clase-S, te metés en sistemas piratas, hackeás computadoras de Sentinels, completás expediciones temporales con loot exclusivo.
+El loop básico es: aterrizas en un planeta, escaneas flora y fauna, minas recursos, refinas materiales, mejoras traje/multitool/nave, despegas, viajas a la siguiente estrella, repites. Esa estructura se complica gradualmente: aprendes idiomas alienígenas, construyes bases con energía y agua, ensamblas un freighter capital con flota de fragatas, cazas ships clase-S, te metes en sistemas piratas, hackeas computadoras de Sentinels, completas expediciones temporales con loot exclusivo.
 
 La narrativa principal — Atlas Path, Artemis Path, los misterios del universo simulado — está ahí pero es completamente opcional. Mucha gente nunca la toca y juega NMS como un Minecraft sci-fi: construir, explorar, fotografear, decorar.
 
@@ -26,10 +26,10 @@ Para 2026, el ecosistema de tools y comunidad es maduro pero compacto: companion
 
 ## Para quién es esta sección
 
-Si recién comprás NMS y abriste la app por primera vez, las **guías para principiantes** te van a ahorrar horas de fricción inicial — el tutorial in-game cubre lo básico pero el juego tiene capas que solo aparecen después.
+Si recién compras NMS y abriste la app por primera vez, las **guías para principiantes** te van a ahorrar horas de fricción inicial — el tutorial in-game cubre lo básico pero el juego tiene capas que solo aparecen después.
 
-Si jugaste años atrás y volvés ahora, el juego cambió tanto que vale la pena empezar como si fuera nuevo. Las **guías de expediciones** son el atajo: cada expedición es una temporada de dos meses con misiones curadas que te llevan por todos los sistemas modernos.
+Si jugaste años atrás y vuelves ahora, el juego cambió tanto que vale la pena empezar como si fuera nuevo. Las **guías de expediciones** son el atajo: cada expedición es una temporada de dos meses con misiones curadas que te llevan por todos los sistemas modernos.
 
-Si ya tenés cientos de horas, la sección apunta a optimización: cazar ships exóticos, farming de unidades, construir bases ridículas, derelict freighters como contenido endgame.
+Si ya tienes cientos de horas, la sección apunta a optimización: cazar ships exóticos, farming de unidades, construir bases ridículas, derelict freighters como contenido endgame.
 
 Cada herramienta y recurso listado acá está específicamente curado para NMS — sin guías recicladas de Starfield ni de otros sandbox espaciales.

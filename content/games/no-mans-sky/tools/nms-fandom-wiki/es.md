@@ -1,7 +1,7 @@
 ---
 title: "No Man's Sky Wiki (Fandom)"
 description: "Wiki enciclopédica mantenida por voluntarios en Fandom con miles de páginas sobre items, recetas, fauna procedural, lore, mecánicas y patches históricos de NMS desde 2016."
-quickTake: "Cuando necesitás contexto histórico — qué cambió en cada patch, cómo funcionaba antes una mecánica, qué significa un término del lore — este wiki es donde mirás. Para consultas operativas rápidas durante una sesión, Assistant es más cómodo. Para investigar un sistema en profundidad, el wiki gana."
+quickTake: "Cuando necesitas contexto histórico — qué cambió en cada patch, cómo funcionaba antes una mecánica, qué significa un término del lore — este wiki es donde miras. Para consultas operativas rápidas durante una sesión, Assistant es más cómodo. Para investigar un sistema en profundidad, el wiki gana."
 ---
 
 ## Qué es
@@ -28,7 +28,7 @@ Frente a buscar en Reddit: Reddit es bueno para preguntas frescas sobre patch nu
 
 **Investigar mecánicas en profundidad**: ¿cómo funciona exactamente el sistema de Hyperdrive Range? El wiki tiene la fórmula con todos los modificadores y expectativas por mod.
 
-**Identificar fauna procedural**: cuando escaneás una criatura rara, podés buscar el género/especie en el wiki para ver patrones de spawn y rarezas.
+**Identificar fauna procedural**: cuando escaneas una criatura rara, puedes buscar el género/especie en el wiki para ver patrones de spawn y rarezas.
 
 **Buscar lore**: Atlas, Telamon, Anomaly, civilizaciones — todo el material narrativo está ahí.
 
@@ -38,21 +38,21 @@ Frente a buscar en Reddit: Reddit es bueno para preguntas frescas sobre patch nu
 
 ## Para quién NO es esta herramienta
 
-Si buscás respuestas rápidas durante el juego, abrir páginas de Fandom con sus ads y carga lenta es frustrante. Assistant es más rápido.
+Si buscas respuestas rápidas durante el juego, abrir páginas de Fandom con sus ads y carga lenta es frustrante. Assistant es más rápido.
 
 Si te molestan los anuncios agresivos: Fandom carga ads grandes en mobile y desktop. Hay versiones lite (sin ads, vía browser extension) pero la web normal es ruidosa.
 
-Si buscás info sobre el patch más reciente publicado ayer, el wiki suele tener lag de días o semanas hasta que voluntarios documenten los cambios. Reddit y Twitter dan info más rápida en ese caso.
+Si buscas info sobre el patch más reciente publicado ayer, el wiki suele tener lag de días o semanas hasta que voluntarios documenten los cambios. Reddit y Twitter dan info más rápida en ese caso.
 
 ## Cómo se usa en la práctica
 
-1. Vas a nomanssky.fandom.com y entrás a la página principal.
-2. Usás el buscador (top right) para encontrar el item, mecánica o lore que querés.
+1. Vas a nomanssky.fandom.com y entras a la página principal.
+2. Usas el buscador (top right) para encontrar el item, mecánica o lore que quieres.
 3. Las páginas tienen infobox con datos clave (rarity, cost, refining inputs/outputs) y secciones explicativas debajo.
 4. Las páginas de mecánicas suelen tener una sección "History" con cambios por patch — mirala para entender evolución.
 5. Para civilizations, hay una page index con todas las activas/inactivas.
-6. Si encontrás info errónea, podés crear cuenta y editar — la barrera es baja.
-7. Para reducir ads: usá ublock origin, dark reader o un browser que bloquee tracking.
+6. Si encuentras info errónea, puedes crear cuenta y editar — la barrera es baja.
+7. Para reducir ads: usa ublock origin, dark reader o un browser que bloquee tracking.
 
 ## Limitaciones honestas
 
@@ -60,20 +60,20 @@ Si buscás info sobre el patch más reciente publicado ayer, el wiki suele tener
 
 **Calidad desigual entre páginas**. Páginas de items populares están muy bien curadas; páginas de fauna específica o civilizations menores pueden estar incompletas o desactualizadas.
 
-**Lag de actualización**. Tras patches grandes, partes del wiki quedan obsoletas durante semanas. Verificá la fecha de la última edición de cada página si la información es reciente.
+**Lag de actualización**. Tras patches grandes, partes del wiki quedan obsoletas durante semanas. Verifica la fecha de la última edición de cada página si la información es reciente.
 
 **Versiones traducidas pobres**. Los wikis en español, francés, alemán y otros idiomas son fork del inglés con cobertura parcial. Para investigación seria, la versión inglesa es la canónica.
 
-**No tiene buscador interno excelente**. La búsqueda de Fandom es básica; muchas veces conviene googlear "site:nomanssky.fandom.com X" para encontrar lo que buscás.
+**No tiene buscador interno excelente**. La búsqueda de Fandom es básica; muchas veces conviene googlear "site:nomanssky.fandom.com X" para encontrar lo que buscas.
 
 **Editable por cualquiera**. La crowd-sourced naturaleza significa que info dudosa puede colarse. Para datos críticos (recetas, economía), cruzá con Assistant o el juego mismo.
 
 ## Cómo empezar
 
-Abrís nomanssky.fandom.com y explorás la página principal — tiene index de portales temáticos (Items, Resources, Lore, Mechanics, etc.).
+Abres nomanssky.fandom.com y exploras la página principal — tiene index de portales temáticos (Items, Resources, Lore, Mechanics, etc.).
 
-Para ver el potencial, buscá "Atlas Path" o "Polo" — vas a encontrar páginas largas con narrativa, citas y cross-references que ningún companion app tiene.
+Para ver el potencial, busca "Atlas Path" o "Polo" — vas a encontrar páginas largas con narrativa, citas y cross-references que ningún companion app tiene.
 
-Si te molestan los anuncios, instalá ublock origin o usá Bing/DuckDuckGo "site:nomanssky.fandom.com query" para llegar directo a la página sin mucho chrome.
+Si te molestan los anuncios, instala ublock origin o usa Bing/DuckDuckGo "site:nomanssky.fandom.com query" para llegar directo a la página sin mucho chrome.
 
-Considera bookmarkear las pages que más usás (recetas, items específicos, civilization) en lugar de pasar siempre por la home.
+Considera bookmarkear las pages que más usas (recetas, items específicos, civilization) en lugar de pasar siempre por la home.

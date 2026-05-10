@@ -17,6 +17,7 @@ El usuario **revisa todo al final desde la web**. No pidas confirmación item po
 
 Recordatorios cruzados:
 - Idiomas: cada game y cada tool tiene `es.md` + `en.md`. Default locale del sitio es `en`. Escribí los dos.
+- **Español neutro obligatorio** en todo el contenido `.md` y campos `*Es` de los JSONs. La regla completa con dictionary de conjugaciones permitidas/prohibidas vive en `docs/RULES.md → "Español neutro — regla obligatoria"`. **Antes de cerrar Phase 1C / 2 / 3, correr el grep de la regla** para detectar voseo o markers de España; sin matches = listo. Esta validación es no-opcional — el voseo se cuela facilísimo si no se chequea explícitamente.
 - Tool .md frontmatter: `title` + `description` + `quickTake` (los 3 requeridos). Body: 8 secciones H2 según RULES.md → "Editorial conventions para tool .md". Longitud target ~80-100 líneas.
 - Game .md frontmatter: `title` + `tagline` + `description`. **`tagline` es requerido** — sin él la card del landing queda sin bajada.
 - Tool meta.json: `createdBy` es `{ name, url?, creatorId? }`, no string. `multiGame` se omite cuando es mono-juego — no usar `{ available: false }`.

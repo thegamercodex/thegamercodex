@@ -1,7 +1,7 @@
 ---
 title: "Hello Games Release Log"
 description: "Página oficial de Hello Games que cataloga las release notes de cada update de No Man's Sky desde el lanzamiento en 2016. Cubre los nombres de cada expansión, descripciones, links a videos y guías oficiales."
-quickTake: "La fuente canónica para entender qué cambió y cuándo. Si una guía referencia 'el update Beyond' o 'desde Worlds Part II' y no sabés qué significa, mirá acá. No es operativo durante el juego — es referencia histórica y de contexto cuando volvés tras una pausa larga."
+quickTake: "La fuente canónica para entender qué cambió y cuándo. Si una guía referencia 'el update Beyond' o 'desde Worlds Part II' y no sabes qué significa, mira acá. No es operativo durante el juego — es referencia histórica y de contexto cuando vuelves tras una pausa larga."
 ---
 
 ## Qué es
@@ -26,7 +26,7 @@ Frente al **Steam community / Steam News**: Steam tiene patch notes pero solo de
 
 ## Para qué la usa la gente
 
-**Volver tras pausa larga**: jugaste hasta NEXT en 2018, querés volver en 2026. El Release Log te da un overview de qué pasó en esos años y por dónde empezar.
+**Volver tras pausa larga**: jugaste hasta NEXT en 2018, quieres volver en 2026. El Release Log te da un overview de qué pasó en esos años y por dónde empezar.
 
 **Investigar contexto histórico**: si una guía menciona un sistema introducido en X update, el Release Log te dice cuándo fue X.
 
@@ -34,21 +34,21 @@ Frente al **Steam community / Steam News**: Steam tiene patch notes pero solo de
 
 **Apreciar la trayectoria del proyecto**: scroll completo del Release Log es un viaje impresionante por el redemption arc de NMS — uno de los mejores del medio.
 
-**Confirmar que un feature existe oficialmente**: si dudás sobre si "underwater bases" están en el juego, mirás los release notes de Beyond o Abyss.
+**Confirmar que un feature existe oficialmente**: si dudas sobre si "underwater bases" están en el juego, miras los release notes de Beyond o Abyss.
 
 ## Para quién NO es esta herramienta
 
-Si necesitás patch notes técnicos detallados (bug fixes específicos, números cambiados), el Release Log es de alto nivel. Para detalle, hay que ir al Steam News o al wiki.
+Si necesitas patch notes técnicos detallados (bug fixes específicos, números cambiados), el Release Log es de alto nivel. Para detalle, hay que ir al Steam News o al wiki.
 
-Si jugás solo el patch actual sin curiosidad histórica, el Release Log no aporta. Es contextual, no operacional.
+Si juegas solo el patch actual sin curiosidad histórica, el Release Log no aporta. Es contextual, no operacional.
 
-Si querés info en otro idioma, el Release Log es solo inglés. La traducción comunitaria existe parcialmente en wikis pero no oficial.
+Si quieres info en otro idioma, el Release Log es solo inglés. La traducción comunitaria existe parcialmente en wikis pero no oficial.
 
 ## Cómo se usa en la práctica
 
 1. Vas a nomanssky.com/release-log/.
 2. Scrollás de updates más recientes a más viejos. Cada uno tiene tile con nombre, descripción corta, y link "Read more" para más info.
-3. Cliqueás un update para ver detalle completo: features, trailer embedded, links secundarios.
+3. Cliqueas un update para ver detalle completo: features, trailer embedded, links secundarios.
 4. Para encontrar un update específico por nombre, ctrl+F en el browser sirve.
 5. No hay login ni interactividad — es lectura pura.
 
@@ -64,16 +64,16 @@ Si querés info en otro idioma, el Release Log es solo inglés. La traducción c
 
 **Sin search**. Para encontrar un update específico por keyword, browser ctrl+F es la única opción.
 
-**Tone marketing**. Como es Hello Games, tiene optimismo natural. Si querés análisis crítico, usá Reddit o el wiki.
+**Tone marketing**. Como es Hello Games, tiene optimismo natural. Si quieres análisis crítico, usa Reddit o el wiki.
 
 ## Cómo empezar
 
 Vas a nomanssky.com/release-log/.
 
-Si volvés al juego, scrollá hasta el último update que jugaste y leé desde ahí hacia adelante. Te da un walkthrough fácil del progress.
+Si vuelves al juego, scrollá hasta el último update que jugaste y lee desde ahí hacia adelante. Te da un walkthrough fácil del progress.
 
 Si sos nuevo, scrollá al lanzamiento original y vení hacia adelante para apreciar el viaje del juego — ayuda a contextualizar por qué la comunidad es leal.
 
-Bookmarkealo. Cuando salga el siguiente update grande (Hello Games los publica cada 2-4 meses), volvé acá para ver qué cambió.
+Guárdalo en marcadores. Cuando salga el siguiente update grande (Hello Games los publica cada 2-4 meses), volvé acá para ver qué cambió.
 
 Considera complementar con el Galactic Atlas (galacticatlas.nomanssky.com) — el atlas tiene la información de eventos en vivo, el Release Log tiene la historia.

@@ -1,7 +1,7 @@
 ---
 title: "Galactic Hub Project"
 description: "Civilización jugador-organizada más antigua y grande de No Man's Sky. Base en la galaxia Euclid, con cluster de sistemas centrales, ambassadors regionales, su propio subreddit y un cuerpo extenso de páginas en el Fandom Wiki documentando miles de descubrimientos."
-quickTake: "Si jugás NMS y querés sentido de pertenencia comunitaria, Galactic Hub es la entrada más natural. No es para todos — el roleplay y la documentación pueden parecer over-the-top — pero el sistema de embajadores y el wiki coordinado son únicos en el ecosistema. Citizens get coordinates, support y identidad."
+quickTake: "Si juegas NMS y quieres sentido de pertenencia comunitaria, Galactic Hub es la entrada más natural. No es para todos — el roleplay y la documentación pueden parecer over-the-top — pero el sistema de embajadores y el wiki coordinado son únicos en el ecosistema. Citizens get coordinates, support y identidad."
 ---
 
 ## Qué es
@@ -40,28 +40,28 @@ Frente al **NMS Discord oficial**: el oficial es para todos; el Discord del Hub 
 
 ## Para quién NO es esta herramienta
 
-Si jugás NMS solo y no querés social layer, ignorá Galactic Hub — el juego es perfectamente jugable sin civilization affiliation.
+Si juegas NMS solo y no quieres social layer, ignorá Galactic Hub — el juego es perfectamente jugable sin civilization affiliation.
 
 Si te incomoda el role-play o las structures formales, el Hub puede sentirse over-the-top con sus ambassadors, presidents y procesos.
 
-Si jugás en una galaxia distinta a Euclid (NMS tiene 256 galaxias; muchos viajeros avanzados viven en galaxias profundas), el Hub no aplica directamente — está localizado en Euclid.
+Si juegas en una galaxia distinta a Euclid (NMS tiene 256 galaxias; muchos viajeros avanzados viven en galaxias profundas), el Hub no aplica directamente — está localizado en Euclid.
 
-Si solo querés multi-player ad-hoc rápido, el Discord oficial de NMS es más eficiente.
+Si solo quieres multi-player ad-hoc rápido, el Discord oficial de NMS es más eficiente.
 
 ## Cómo se usa en la práctica
 
-1. Vas a la página del Galactic Hub Project en el Fandom Wiki: nomanssky.fandom.com/wiki/Galactic_Hub_Project. Leés overview e historia.
-2. Para visitar el Hub: sigue las coordenadas del Hub Capital (publicadas en el wiki). Necesitás portales habilitados o viajar manual.
+1. Vas a la página del Galactic Hub Project en el Fandom Wiki: nomanssky.fandom.com/wiki/Galactic_Hub_Project. Lees overview e historia.
+2. Para visitar el Hub: sigue las coordenadas del Hub Capital (publicadas en el wiki). Necesitas portales habilitados o viajar manual.
 3. Para become citizen: registrarte en el wiki como citizen, declarando tu identity NMS y tu base en el cluster del Hub.
-4. Te unís al subreddit r/GalacticHub y al Discord del Hub para participar en discusiones.
-5. Si descubrís un planeta interesante en el cluster, lo documentás en el wiki siguiendo el formato standard del Hub.
+4. Te unes al subreddit r/GalacticHub y al Discord del Hub para participar en discusiones.
+5. Si descubres un planeta interesante en el cluster, lo documentas en el wiki siguiendo el formato standard del Hub.
 6. Eventos de la civilization se anuncian en Reddit/Discord — exped, base challenges, etc.
 
 ## Limitaciones honestas
 
 **Roleplay barrier**. La cantidad de structure (titles, ambassadors, presidents) puede sentirse como roleplay forzado para players más casual.
 
-**Sesgo a Euclid**. Si jugás en otra galaxia, Hub no aplica. Existen sister civilizations en otras galaxias (Galactic Hub Eissentam, etc.) pero son comunidades más chicas.
+**Sesgo a Euclid**. Si juegas en otra galaxia, Hub no aplica. Existen sister civilizations en otras galaxias (Galactic Hub Eissentam, etc.) pero son comunidades más chicas.
 
 **Mantenimiento del wiki desigual**. Algunas páginas están actualizadas; otras tienen info de patches viejos. Verificar coords antes de viajar.
 
@@ -69,15 +69,15 @@ Si solo querés multi-player ad-hoc rápido, el Discord oficial de NMS es más e
 
 **Solo en inglés**. Sin traducciones oficiales del wiki. Hispanohablantes pueden participar pero la lengua franca es inglés.
 
-**No es para newcomers absolutos**. Si recién arrancás, el Hub es overwhelming. Mejor primero entender el juego, después decidir si querés joining.
+**No es para newcomers absolutos**. Si recién arrancas, el Hub es overwhelming. Mejor primero entender el juego, después decidir si quieres joining.
 
 ## Cómo empezar
 
-Vas al wiki: nomanssky.fandom.com/wiki/Galactic_Hub_Project. Leé el overview, la historia y los current events.
+Vas al wiki: nomanssky.fandom.com/wiki/Galactic_Hub_Project. Lee el overview, la historia y los current events.
 
 Visitá r/GalacticHub para ver el tipo de discusión actual. Subscribite si te llama.
 
-Para visitar el Hub Capital, copia las coords desde el wiki (estará en la página principal). Necesitás portales activados — si no, viajás manual desde el centro de Euclid.
+Para visitar el Hub Capital, copia las coords desde el wiki (estará en la página principal). Necesitas portales activados — si no, viajas manual desde el centro de Euclid.
 
 Si te gusta el vibe, pedí join en el Discord del Hub (link desde el subreddit).
 

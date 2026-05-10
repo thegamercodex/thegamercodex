@@ -1,7 +1,7 @@
 ---
 title: "r/NoMansSkyTheGame"
 description: "Subreddit comunitario principal de NMS con casi un millón de suscriptores. Es el canal asíncrono dominante para discusión, screenshots, descubrimientos, builds de bases, patch reactions y AMAs ocasionales con Hello Games."
-quickTake: "Si querés contenido archivable y comunidad asíncrona — alguien posteó algo cool hace tres meses, podés encontrarlo — Reddit es la elección sobre Discord. Para signal de patch reactions, screenshots impresionantes y builds de bases, es la mejor curaduría que hay."
+quickTake: "Si quieres contenido archivable y comunidad asíncrona — alguien posteó algo cool hace tres meses, puedes encontrarlo — Reddit es la elección sobre Discord. Para signal de patch reactions, screenshots impresionantes y builds de bases, es la mejor curaduría que hay."
 ---
 
 ## Qué es
@@ -10,7 +10,7 @@ r/NoMansSkyTheGame es el subreddit principal de la comunidad de No Man's Sky, co
 
 La moderación es estricta sobre spam y low-effort posts; tienen flair system para clasificar (Discussion, Screenshot, Information, Bug, Build, Question). Las AMAs ocasionales con Hello Games (Sean Murray ha aparecido varias veces) son highlights.
 
-Acceso libre — necesitás cuenta Reddit gratis para postear/comentar; lurking es público.
+Acceso libre — necesitas cuenta Reddit gratis para postear/comentar; lurking es público.
 
 ## Qué problema resuelve
 
@@ -40,11 +40,11 @@ Frente a otros subreddits NMS (r/NMSCoordinateExchange, r/NoMansSkyMods, r/Galac
 
 ## Para quién NO es esta herramienta
 
-Si necesitás respuestas instantáneas, Reddit es lento. Discord es mejor.
+Si necesitas respuestas instantáneas, Reddit es lento. Discord es mejor.
 
 Si te incomodan los voting algorithms (a veces buen contenido se entierra por timing), Reddit puede frustrar. La curaduría no es perfecta.
 
-Si jugás en Switch y necesitás info muy plataforma-específica, los hilos de Reddit asumen PC/PS por default. Hay flair de Switch pero el corpus es más chico.
+Si juegas en Switch y necesitas info muy plataforma-específica, los hilos de Reddit asumen PC/PS por default. Hay flair de Switch pero el corpus es más chico.
 
 Si te molestan reposts: hay reposts cíclicos. Los mods filtran pero no perfecto.
 
@@ -52,8 +52,8 @@ Si te molestan reposts: hay reposts cíclicos. Los mods filtran pero no perfecto
 
 1. Vas a reddit.com/r/NoMansSkyTheGame en browser o app.
 2. Sortás por Hot (default), New (cronológico), o Top (mejores de una ventana). Para insights generales: Hot. Para news: New tras un patch.
-3. Subscribís si querés que aparezca en tu feed personal.
-4. Para postear: usás flair adecuado (Screenshot, Build, Question, etc.). Las reglas del sub son visibles en la sidebar.
+3. Subscribís si quieres que aparezca en tu feed personal.
+4. Para postear: usas flair adecuado (Screenshot, Build, Question, etc.). Las reglas del sub son visibles en la sidebar.
 5. Para buscar: el buscador interno de Reddit es básico; usar Google con `site:reddit.com r/NoMansSkyTheGame` da mejores resultados.
 6. Megathreads se pinean al top tras patches grandes — son el primer lugar para mirar.
 
@@ -75,10 +75,10 @@ Si te molestan reposts: hay reposts cíclicos. Los mods filtran pero no perfecto
 
 Vas a reddit.com/r/NoMansSkyTheGame. Lee la sidebar — tiene rules, link a Discord, FAQ y referencias importantes.
 
-Subscribite si tenés cuenta. Si no, podés crear una gratis (pseudónimo aceptado, no requiere identidad real).
+Subscribite si tienes cuenta. Si no, puedes crear una gratis (pseudónimo aceptado, no requiere identidad real).
 
 Filtrá por Top → All Time para ver los posts más representativos del sub. Te da idea del tipo de contenido más valorado.
 
 Lee algunos megathreads recientes para ver cómo la comunidad organiza discusión sobre patches y eventos.
 
-Cuando posteás por primera vez, asegurate de usar flair y leer las reglas — los mods son rigurosos con first-time posters que no las siguen.
+Cuando posteas por primera vez, asegurate de usar flair y leer las reglas — los mods son rigurosos con first-time posters que no las siguen.

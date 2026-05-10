@@ -1,7 +1,7 @@
 ---
 title: "NMSCD"
 description: "Portal de herramientas comunitarias de No Man's Sky construido por el equipo detrás de Assistant for No Man's Sky. Aglutina 30+ utilities individuales: generadores de wiki, calculadoras de crafting, base management, conversores de coordinates y más, en una sola web."
-quickTake: "Si Assistant cubre el 80% de tu uso diario, NMSCD es el catálogo donde aparecen las tools especializadas que cubren los casos raros: convertir glyphs, generar pages para wikis comunitarios, simular layouts de bases. Vale tener bookmark cuando necesitás algo que Assistant no expone."
+quickTake: "Si Assistant cubre el 80% de tu uso diario, NMSCD es el catálogo donde aparecen las tools especializadas que cubren los casos raros: convertir glyphs, generar pages para wikis comunitarios, simular layouts de bases. Vale tener bookmark cuando necesitas algo que Assistant no expone."
 ---
 
 ## Qué es
@@ -26,7 +26,7 @@ Frente a buscar en GitHub o foros directamente: NMSCD es más curado y consisten
 
 ## Para qué la usa la gente
 
-**Generators de wiki**: si estás documentando un planeta, ship o multi-tool en el Fandom Wiki, NMSCD tiene generators que armán el infobox markup automáticamente con los campos que tipeás.
+**Generators de wiki**: si estás documentando un planeta, ship o multi-tool en el Fandom Wiki, NMSCD tiene generators que armán el infobox markup automáticamente con los campos que tipeas.
 
 **Calculators de crafting**: ¿cuánto Activated Indium produzco con X Indium, Y Carbon, en Z stacks? Hay calculadoras dedicadas.
 
@@ -38,16 +38,16 @@ Frente a buscar en GitHub o foros directamente: NMSCD es más curado y consisten
 
 ## Para quién NO es esta herramienta
 
-Si recién arrancás NMS, NMSCD es ruido — usá Assistant primero. NMSCD es para casos específicos.
+Si recién arrancas NMS, NMSCD es ruido — usa Assistant primero. NMSCD es para casos específicos.
 
-Si solo querés respuestas rápidas en el celular durante la sesión, las tools de NMSCD suelen ser web-only (no app nativa). Para fluidez móvil, Assistant es mejor.
+Si solo quieres respuestas rápidas en el celular durante la sesión, las tools de NMSCD suelen ser web-only (no app nativa). Para fluidez móvil, Assistant es mejor.
 
-Si jugás 100% offline, irrelevante — todas las tools requieren conexión.
+Si juegas 100% offline, irrelevante — todas las tools requieren conexión.
 
 ## Cómo se usa en la práctica
 
-1. Vas a nmscd.com y mirás el catalog principal: cada tool tiene su tile con nombre, descripción corta y ícono.
-2. Cliqueás en la que necesitás. Cada tool es página independiente con su UI.
+1. Vas a nmscd.com y miras el catalog principal: cada tool tiene su tile con nombre, descripción corta y ícono.
+2. Cliqueas en la que necesitas. Cada tool es página independiente con su UI.
 3. Algunas tools requieren input (tipear, pegar coordinates, seleccionar items); otras son solo lectura/exploración.
 4. Compartís output (link, copy/paste el resultado al wiki, exportar JSON, etc.) según el flow.
 5. No requiere login para la mayoría de las tools — son utilities stateless.
@@ -62,14 +62,14 @@ Si jugás 100% offline, irrelevante — todas las tools requieren conexión.
 
 **Idioma principal: inglés**. Aunque el ecosistema AssistantNMS es multilingüe, muchas tools de NMSCD tienen UI solo en inglés.
 
-**Discoverability dentro del portal**. La home tiene un grid pero buscar exactamente la tool que querés requiere browsing — no hay buscador potente.
+**Discoverability dentro del portal**. La home tiene un grid pero buscar exactamente la tool que quieres requiere browsing — no hay buscador potente.
 
 **Dependencia del team principal**. Como Assistant, depende de Kurt Lourens y voluntarios. Si pausan, NMSCD ralentiza.
 
 ## Cómo empezar
 
-Vas a nmscd.com y scrolleás el catálogo entero una vez para tener mental map de qué hay disponible. No vale la pena memorizar — pero saber que existe la categoría "calculators" te recuerda volver cuando necesitás una.
+Vas a nmscd.com y scrolleas el catálogo entero una vez para tener mental map de qué hay disponible. No vale la pena memorizar — pero saber que existe la categoría "calculators" te recuerda volver cuando necesitas una.
 
-Bookmarkealo. Cuando estés en una situación que Assistant no cubre (por ejemplo, generar markup para una page del Fandom), abrís NMSCD y buscás.
+Guárdalo en marcadores. Cuando estés en una situación que Assistant no cubre (por ejemplo, generar markup para una page del Fandom), abres NMSCD y buscas.
 
-Si te topás con una tool útil que no está en NMSCD, considera contribuir — el repo de AssistantNMS acepta PRs y suele integrar tools terceras con permiso del autor.
+Si te topas con una tool útil que no está en NMSCD, considera contribuir — el repo de AssistantNMS acepta PRs y suele integrar tools terceras con permiso del autor.

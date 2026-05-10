@@ -1,7 +1,7 @@
 ---
 title: "No Man's Sky Discord (oficial)"
 description: "Servidor oficial de Discord administrado por Hello Games. Tiene cientos de miles de miembros, channels segmentados por idioma y por tema (multiplayer, base sharing, modding, technical support, expedition channels), y presencia regular del staff de Hello Games."
-quickTake: "El mejor lugar para conseguir compañeros de multiplayer rápido o resolver dudas en tiempo real. El staff oficial responde en los channels de support y los moderadores son rigurosos. Si querés discusión más larga, Reddit es mejor; para pings instantáneos, Discord."
+quickTake: "El mejor lugar para conseguir compañeros de multiplayer rápido o resolver dudas en tiempo real. El staff oficial responde en los channels de support y los moderadores son rigurosos. Si quieres discusión más larga, Reddit es mejor; para pings instantáneos, Discord."
 ---
 
 ## Qué es
@@ -36,23 +36,23 @@ Frente a Discord servers comunitarios (Galactic Hub, Federation, etc.): el ofici
 
 ## Para quién NO es esta herramienta
 
-Si preferís contenido archivable y searchable, Discord no es ideal. Lo que se dice se entierra rápido.
+Si prefieres contenido archivable y searchable, Discord no es ideal. Lo que se dice se entierra rápido.
 
-Si te incomodan servidores muy grandes con channels ruidosos, podés sentirte abrumado. La mayoría de channels tienen tráfico alto.
+Si te incomodan servidores muy grandes con channels ruidosos, puedes sentirte abrumado. La mayoría de channels tienen tráfico alto.
 
-Si jugás en idioma específico no cubierto bien (alemán y francés tienen channels pero menor tráfico que inglés), la experiencia puede ser diluida.
+Si juegas en idioma específico no cubierto bien (alemán y francés tienen channels pero menor tráfico que inglés), la experiencia puede ser diluida.
 
-Si no querés tener Discord instalado: el web client funciona pero la experiencia es mejor con app.
+Si no quieres tener Discord instalado: el web client funciona pero la experiencia es mejor con app.
 
 ## Cómo se usa en la práctica
 
-1. Cliqueás discord.gg/nomanssky desde browser o app.
+1. Cliqueas discord.gg/nomanssky desde browser o app.
 2. Aceptás reglas en el welcome channel (obligatorio para acceder al resto).
-3. Te asignás roles: idioma preferido, plataforma (PC/PS/Xbox/Switch), interés (multiplayer, modding, base sharing). Esto desbloquea channels relevantes.
+3. Te asignas roles: idioma preferido, plataforma (PC/PS/Xbox/Switch), interés (multiplayer, modding, base sharing). Esto desbloquea channels relevantes.
 4. Browseás los channels que te interesan. La estructura está bien organizada con categorías visibles.
 5. Para LFG: postear en el channel de tu plataforma con "looking for X mission, region Y, online now".
 6. Para support: usar los channels de #help-pc / #help-console según el caso.
-7. Mute channels que no querés (right-click → mute).
+7. Mute channels que no quieres (right-click → mute).
 
 ## Limitaciones honestas
 
@@ -70,12 +70,12 @@ Si no querés tener Discord instalado: el web client funciona pero la experienci
 
 ## Cómo empezar
 
-Cliqueás discord.gg/nomanssky desde tu app de Discord (instalala primero si no la tenés).
+Cliqueas discord.gg/nomanssky desde tu app de Discord (instálala primero si no la tienes).
 
-Aceptás reglas. Te asignás roles en el channel de role assignment para desbloquear los canales relevantes a tu setup (plataforma, idioma).
+Aceptás reglas. Te asignas roles en el channel de role assignment para desbloquear los canales relevantes a tu setup (plataforma, idioma).
 
 Lurkear el primer día — leer un par de channels populares para entender el vibe y los moderation patterns.
 
-Cuando estés cómodo, postear tu primera LFG si necesitás compañía multiplayer. La comunidad es generalmente acogedora con newcomers.
+Cuando estés cómodo, postear tu primera LFG si necesitas compañía multiplayer. La comunidad es generalmente acogedora con newcomers.
 
-Si tenés Discord setup avanzado, configurás notificaciones por mention solamente para no ahogarte en pings.
+Si tienes Discord setup avanzado, configuras notificaciones por mention solamente para no ahogarte en pings.

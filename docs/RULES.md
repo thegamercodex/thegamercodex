@@ -25,12 +25,30 @@ Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas está
 - Para plurales usar ICU: `{count, plural, one {# tool} other {# tools}}`.
 - **Los nombres propios** (de juegos, tools, creators) **NO se traducen**. "Path of Exile" se queda en ambos idiomas. Lo mismo nombres de tools y handles.
 - Default locale es `en` (cambiado desde `es` en el lanzamiento inicial — el codex apunta a audiencia global, con switch a español siempre disponible). URL siempre incluye locale (`localePrefix: "always"`). No existe `src/app/layout.tsx` raíz — el root layout vive en `[locale]/layout.tsx`.
-- **Español neutro en TODO contenido en español** (archivos `.md` de tools/games, campos `*Es` en JSONs como `taglineEs`/`descriptionEs`/`noteEs`/`titleEs`/`summaryEs`, mensajes de UI en `messages/es.json`, changelog entries):
-  - Usar **"tú"** como segunda persona — NO "vos" (rioplatense) ni "vosotros" (España).
-  - Conjugaciones neutras: `tienes` (no `tenés`), `puedes` (no `podés`), `quieres` (no `querés`), `usas` (no `usás`), `juegas` (no `jugás`), `necesitas` (no `necesitás`), `buscas` (no `buscás`), `sabes` (no `sabés`), etc.
-  - Imperativos neutros: `usa` (no `usá`), `mira` (no `mirá`), `haz` (no `hacé`), `pon` (no `poné`), `ingresa` (no `ingresá`), `comparte` (no `compartí`), etc.
-  - Evitar marcadores de España: `vale` (usar `bien`/`ok`), `tío` (no usar), `ordenador` (usar `computadora`), `móvil` (preferir `celular`).
-  - **Razón**: la audiencia es Latam + España + US-hispana; cualquier acento regional excluye lectores. Neutro es invisible y universal.
+### Español neutro — regla obligatoria
+
+**TODO contenido en español del proyecto va en español neutro, sin excepciones.** Aplica a:
+- Archivos `.md` de juegos, tools, creators (frontmatter completo: `title`/`description`/`tagline`/`quickTake`, y todo el body).
+- Campos `*Es` de cualquier `meta.json` o JSON (`taglineEs`, `descriptionEs`, `noteEs`, `titleEs`, `summaryEs`, `nameEs`, `highlightsEs`, etc.).
+- Mensajes de UI en `messages/es.json`.
+- Changelog entries (`titleEs`, `summaryEs`, `bodyEs`, body bilingüe dentro de fences `<!-- es -->`).
+
+**Razón**: la audiencia es Latam + España + US-hispana; cualquier acento regional excluye lectores. Neutro es invisible y universal.
+
+**Reglas concretas**:
+- Segunda persona singular: **`tú`** — nunca `vos` (rioplatense) ni `vosotros` (España).
+- **Sin voseo en presente indicativo** (la `s` final con tilde es siempre voseo): `tienes`/`puedes`/`quieres`/`usas`/`juegas`/`necesitas`/`buscas`/`sabes`/`abres`/`bajas`/`instalas`/`verificas`/`eliges`/`recuerdas`/`construyes`/`completas`/`cazas`/`escaneas`/`refinas`/`mejoras`/`viajas`/`repites`/`aprendes`/`recibes`/`escribes`/`cliqueas`/`scrolleas`/`decompilas`/`recompilas`/`extraes`. **Nunca** `tenés`/`podés`/`querés`/`usás`/`jugás`/`necesitás`/`buscás`/`sabés`/`abrís`/`bajás`/`instalás`/`verificás`/`elegís`/`recordás`/`construís`/`completás`/`cazás`/`escaneás`/`refinás`/`mejorás`/`viajás`/`repetís`/`aprendés`/`recibís`/`escribís`/`cliqueás`/`scrolleás`/`decompilás`/`recompilás`/`extraés`.
+- **Imperativos neutros**: `usa`/`mira`/`haz`/`pon`/`ingresa`/`comparte`/`busca`/`abre`/`baja`/`instala`/`espera`/`empieza`/`elige`/`deja`/`carga`/`guarda`/`lee`/`configura`/`verifica`. **Nunca** `usá`/`mirá`/`hacé`/`poné`/`ingresá`/`compartí`/`buscá`/`abrí`/`bajá`/`instalá`/`esperá`/`empezá`/`elegí`/`dejá`/`cargá`/`guardá`/`leé`/`configurá`/`verificá`.
+- **Imperativos con enclítico**: `instálalo`/`guárdalo`/`márcalo` (con tilde), nunca `instalalo`/`guardalo`/`marcalo`.
+- **Evitar marcadores de España**: `vale` como "ok" → `bien`/`ok` (pero `vale la pena` es idiom universal y se queda); `tío`/`tía` → no usar; `ordenador` → `computadora`; `móvil` (sustantivo = teléfono) → `celular` (`móvil` como adjetivo está bien: `fluidez móvil`).
+- **Anglicismos del codex** quedan en inglés (`tools`, `creators`, `mods`, `loot`, `stash`, `endgame`, `expedition`, `multiplayer`, `streams`, etc.) — son la jerga del público gaming.
+
+**Pre-commit lint** — antes de commitear cualquier `.md` o `.json` con texto en español, correr:
+```bash
+grep -rEn '\b(tenés|podés|querés|sabés|necesitás|usás|jugás|buscás|comprás|seguís|encontrás|guardás|abrís|bajás|instalás|verificás|elegís|aprendés|recibís|hacés|leés|escribís|esperás|aterrizás|escaneás|minás|refinás|mejorás|despegás|viajás|repetís|construís|ensamblás|cazás|hackeás|completás|recordás|arrancás|volvés|decompilás|modificás|recompilás|mirás|scrolleás|cliqueás|extraés)\b' content/ messages/es.json
+grep -rEn '\b(leé|mirá|hacé|poné|fijate|andá|buscá|intentá|configurá|verificá|guardá|cargá|abrí|cerrá|tocá|usá|esperá|elegí|empezá|seguí|conseguí|comprá|jugá|instalá|bajá|escribí|dejá|tené|extraé|decompilá|recompilá|scrolleá)\b' content/ messages/es.json
+```
+Sin matches = limpio. Cualquier match es un bug y bloquea el commit.
 
 ## Un juego = una carpeta
 

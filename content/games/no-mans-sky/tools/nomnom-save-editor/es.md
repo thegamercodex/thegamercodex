@@ -14,9 +14,9 @@ Es completamente gratis, sin ads, sin freemium tier.
 
 ## Qué problema resuelve
 
-NMS guarda mucho estado en cada partida: inventario, slots desbloqueados, créditos, nanites, quicksilver, units, ships en tu colección, multi-tools, freighter, fragatas, settlements, milestones, glyphs aprendidos. Hay escenarios donde tocás esos datos directamente:
+NMS guarda mucho estado en cada partida: inventario, slots desbloqueados, créditos, nanites, quicksilver, units, ships en tu colección, multi-tools, freighter, fragatas, settlements, milestones, glyphs aprendidos. Hay escenarios donde tocas esos datos directamente:
 
-- **Backup pre-experimento**: antes de probar un mod o algo riesgoso, hacés copia editable.
+- **Backup pre-experimento**: antes de probar un mod o algo riesgoso, haces copia editable.
 - **Recuperación tras corrupción**: NMS ocasionalmente corrompe saves; un editor te deja restaurar campos puntuales.
 - **Tweaks legítimos**: mover bases, restaurar inventario perdido por bug, restaurar progreso si Hello Games te trolló con un patch.
 - **Cheating directo**: agregar units/nanites/items. Esto rompe el spirit del juego pero técnicamente es lo que muchos quieren.
@@ -25,7 +25,7 @@ Sin save editor, todas estas operaciones requieren ingeniería manual de los arc
 
 ## Diferenciación
 
-Frente a **NMS Save Editor (goatfungus)**: el de goatfungus es el clásico (lleva años activo, simpler UI). NomNom es más moderno: maneja mejor múltiples saves de un mismo perfil, backup automático antes de cada save, UI más visual con tabs. La compatibility de cobertura de campos es similar; goatfungus a veces toma campos antes en releases tras patches, NomNom otras veces. Ambas son válidas — elegí según qué UI te resulte más cómoda. Si jugás cross-platform y manejás varias partidas, NomNom escala mejor.
+Frente a **NMS Save Editor (goatfungus)**: el de goatfungus es el clásico (lleva años activo, simpler UI). NomNom es más moderno: maneja mejor múltiples saves de un mismo perfil, backup automático antes de cada save, UI más visual con tabs. La compatibility de cobertura de campos es similar; goatfungus a veces toma campos antes en releases tras patches, NomNom otras veces. Ambas son válidas — elige según qué UI te resulte más cómoda. Si juegas cross-platform y manejas varias partidas, NomNom escala mejor.
 
 ## Para qué la usa la gente
 
@@ -41,33 +41,33 @@ Frente a **NMS Save Editor (goatfungus)**: el de goatfungus es el clásico (llev
 
 ## Para quién NO es esta herramienta
 
-Si jugás Permadeath o Survival y querés mantener challenge, usar el editor anula el spirit. No es ilegal, es solo que tu save deja de ser "ganado".
+Si juegas Permadeath o Survival y quieres mantener challenge, usar el editor anula el spirit. No es ilegal, es solo que tu save deja de ser "ganado".
 
-Si nunca tocaste archivos de configuración de juegos o terminales: NomNom tiene UI gráfica accesible, pero el contexto (qué hace cada campo) requiere lectura previa de la wiki o foros. Riesgo de romper saves si tocás campos que no entendés.
+Si nunca tocaste archivos de configuración de juegos o terminales: NomNom tiene UI gráfica accesible, pero el contexto (qué hace cada campo) requiere lectura previa de la wiki o foros. Riesgo de romper saves si tocas campos que no entiendes.
 
-Si jugás solo en consola sin acceso a una PC, NomNom no aplica — necesitás PC para correr la app. Saves de PS5/Xbox requieren extracción a PC primero.
+Si juegas solo en consola sin acceso a una PC, NomNom no aplica — necesitas PC para correr la app. Saves de PS5/Xbox requieren extracción a PC primero.
 
-Si confiás más en herramientas de larga data, goatfungus puede sentirse más estable. NomNom es bastante nueva por contraste.
+Si confías más en herramientas de larga data, goatfungus puede sentirse más estable. NomNom es bastante nueva por contraste.
 
 ## Cómo se usa en la práctica
 
-1. Vas a github.com/zencq/NomNom/releases y bajás el binario para tu OS (Windows .exe, macOS .dmg, Linux AppImage).
-2. Abrís NomNom; te pide que apuntes a la carpeta de saves de NMS:
+1. Vas a github.com/zencq/NomNom/releases y bajas el binario para tu OS (Windows .exe, macOS .dmg, Linux AppImage).
+2. Abres NomNom; te pide que apuntes a la carpeta de saves de NMS:
    - Steam: `%APPDATA%\HelloGames\NMS\` (Windows)
    - GoG: distinto path; NomNom autodetecta varios.
    - Mac: `~/Library/Application Support/HelloGames/NMS/`
 3. NomNom lista todos los saves encontrados con previews (nombre del save, modo, ship, créditos).
-4. Cliqueás un save para entrar al editor. Las tabs te dan: Inventory (suit/ship/multi-tool/exocraft/freighter), Stats (units, nanites, quicksilver), Bases, Discoveries, Story Progress, Stats raw.
-5. Modificás lo que querés y guardás. NomNom hace backup automático antes — si algo sale mal, el original está intacto.
+4. Cliqueas un save para entrar al editor. Las tabs te dan: Inventory (suit/ship/multi-tool/exocraft/freighter), Stats (units, nanites, quicksilver), Bases, Discoveries, Story Progress, Stats raw.
+5. Modificas lo que quieres y guardas. NomNom hace backup automático antes — si algo sale mal, el original está intacto.
 6. Si NMS está abierto, cerralo antes de guardar para evitar conflictos.
 
 ## Limitaciones honestas
 
-**Lag tras patches grandes**. Cuando Hello Games saca un patch que cambia el formato del save, NomNom necesita un release nuevo (típicamente días, a veces semanas). Si actualizás NMS antes de NomNom, podés tener que esperar.
+**Lag tras patches grandes**. Cuando Hello Games saca un patch que cambia el formato del save, NomNom necesita un release nuevo (típicamente días, a veces semanas). Si actualizas NMS antes de NomNom, puedes tener que esperar.
 
-**Guarda mejor que entiende**. NomNom expone el JSON parseado pero algunos campos no tienen documentation clara — sabés que existen pero no qué hace cada uno. La comunidad documenta estas cosas en el repo de NomNom y wikis adjuntas.
+**Guarda mejor que entiende**. NomNom expone el JSON parseado pero algunos campos no tienen documentation clara — sabes que existen pero no qué hace cada uno. La comunidad documenta estas cosas en el repo de NomNom y wikis adjuntas.
 
-**Riesgo de corrupción**. Editar campos críticos sin entender puede dejar saves rotos. El backup automático ayuda pero no es invulnerable. Hacé tu propio backup manual antes de experimentos serios.
+**Riesgo de corrupción**. Editar campos críticos sin entender puede dejar saves rotos. El backup automático ayuda pero no es invulnerable. Haz tu propio backup manual antes de experimentos serios.
 
 **Solo PC para edición**. Saves de consola requieren herramientas externas para extraer/inyectar. NomNom edita pero no maneja la transferencia plataforma.
 
@@ -77,12 +77,12 @@ Si confiás más en herramientas de larga data, goatfungus puede sentirse más e
 
 ## Cómo empezar
 
-Vas a github.com/zencq/NomNom y leés el README — explica los formatos soportados y limitaciones actuales.
+Vas a github.com/zencq/NomNom y lees el README — explica los formatos soportados y limitaciones actuales.
 
-Bajás el release más reciente para tu OS desde la pestaña Releases. Verificá que la versión sea compatible con tu version de NMS — el README indica el rango.
+Bajas el release más reciente para tu OS desde la pestaña Releases. Verifica que la versión sea compatible con tu version de NMS — el README indica el rango.
 
-Antes de cualquier edición real, hacé backup manual de tu carpeta de saves (copy/paste a otro lugar). El backup auto de NomNom es bueno pero el manual es la red de seguridad real.
+Antes de cualquier edición real, haz backup manual de tu carpeta de saves (copy/paste a otro lugar). El backup auto de NomNom es bueno pero el manual es la red de seguridad real.
 
-Empezá tocando algo bajo riesgo: un save de modo creative que tenés solo para experimentar. Cuando entiendas la UI y las consecuencias, podés tocar tu main si querés.
+Empieza tocando algo bajo riesgo: un save de modo creative que tienes solo para experimentar. Cuando entiendas la UI y las consecuencias, puedes tocar tu main si quieres.
 
-Si vas a hacer algo no-trivial (mover bases, restaurar un freighter), buscá la conversación correspondiente en GitHub Issues — alguien probablemente la resolvió antes y dejó notas.
+Si vas a hacer algo no-trivial (mover bases, restaurar un freighter), busca la conversación correspondiente en GitHub Issues — alguien probablemente la resolvió antes y dejó notas.
