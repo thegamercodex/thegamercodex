@@ -33,9 +33,17 @@ export async function generateMetadata({
   try {
     const game = await getGame(gameId);
     const tagline = locale === "es" ? game.taglineEs : game.taglineEn;
+    const title =
+      locale === "es"
+        ? `${game.name}: herramientas, creators y recursos`
+        : `${game.name}: tools, creators & resources`;
+    const description =
+      locale === "es"
+        ? `Herramientas, creators y recursos curados para ${game.name}. ${tagline}`
+        : `Curated ${game.name} tools, creators and resources. ${tagline}`;
     return {
-      title: `${game.name} — TheGamerCodex`,
-      description: tagline,
+      title,
+      description,
       alternates: {
         canonical: `/${locale}/${gameId}`,
         languages: {
@@ -44,8 +52,8 @@ export async function generateMetadata({
         },
       },
       openGraph: {
-        title: game.name,
-        description: tagline,
+        title,
+        description,
         images: game.heroImage
           ? [{ url: game.heroImage, alt: game.name }]
           : undefined,
@@ -53,8 +61,8 @@ export async function generateMetadata({
       },
       twitter: {
         card: "summary_large_image",
-        title: game.name,
-        description: tagline,
+        title,
+        description,
         images: game.heroImage ? [game.heroImage] : undefined,
       },
     };

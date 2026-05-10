@@ -58,8 +58,9 @@ export async function generateMetadata({
     ]);
     const tagline = locale === "es" ? tool.taglineEs : tool.taglineEn;
     const heroScreenshot = tool.screenshots[0]?.url ?? game.heroImage;
+    const title = `${tool.name} — ${game.name}`;
     return {
-      title: `${tool.name} — ${game.name} | TheGamerCodex`,
+      title,
       description: tagline,
       alternates: {
         canonical: `/${locale}/${gameId}/tools/${toolId}`,
@@ -69,14 +70,14 @@ export async function generateMetadata({
         },
       },
       openGraph: {
-        title: `${tool.name} — ${game.name}`,
+        title,
         description: tagline,
         images: heroScreenshot ? [{ url: heroScreenshot }] : undefined,
         type: "article",
       },
       twitter: {
         card: "summary_large_image",
-        title: `${tool.name} — ${game.name}`,
+        title,
         description: tagline,
         images: heroScreenshot ? [heroScreenshot] : undefined,
       },

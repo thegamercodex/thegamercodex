@@ -39,8 +39,12 @@ export async function generateMetadata({
     const cat = categoriesById(game.resourceCategories).get(categoryId);
     if (!cat) return {};
     const loc = locale as Locale;
+    const title =
+      loc === "es"
+        ? `Mejores ${categoryName(cat, loc)} para ${game.name}`
+        : `Best ${categoryName(cat, loc)} for ${game.name}`;
     return {
-      title: `${categoryName(cat, loc)} — ${game.name} | TheGamerCodex`,
+      title,
       description: categoryDescription(cat, loc),
       alternates: {
         canonical: `/${locale}/${gameId}/resources/${categoryId}`,

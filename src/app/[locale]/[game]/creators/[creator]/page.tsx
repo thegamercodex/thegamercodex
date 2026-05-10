@@ -48,8 +48,9 @@ export async function generateMetadata({
       getCreator(gameId, creatorId),
     ]);
     const note = locale === "es" ? creator.noteEs : creator.noteEn;
+    const title = `${creator.name} — ${game.name}`;
     return {
-      title: `${creator.name} — ${game.name} | TheGamerCodex`,
+      title,
       description: note.slice(0, 160),
       alternates: {
         canonical: `/${locale}/${gameId}/creators/${creatorId}`,
@@ -59,13 +60,13 @@ export async function generateMetadata({
         },
       },
       openGraph: {
-        title: `${creator.name} — ${game.name}`,
+        title,
         description: note.slice(0, 200),
         type: "profile",
       },
       twitter: {
         card: "summary",
-        title: `${creator.name} — ${game.name}`,
+        title,
         description: note.slice(0, 200),
       },
     };
