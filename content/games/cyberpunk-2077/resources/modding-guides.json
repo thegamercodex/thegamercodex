@@ -1,0 +1,80 @@
+{
+  "category": "modding-guides",
+  "resources": [
+    {
+      "id": "arktech-best-way-mod-cyberpunk-vortex-23",
+      "type": "video",
+      "title": "Best Way to Mod Cyberpunk 2077 in 2025 [Patch 2.3+] | (Vortex Guide)",
+      "creator": "ArktechFilms",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=KMtBGrlM6l8",
+      "youtubeId": "KMtBGrlM6l8",
+      "language": "en",
+      "duration": "10:23",
+      "publishedDate": "2025-07-23",
+      "thumbnail": "https://i.ytimg.com/vi/KMtBGrlM6l8/maxresdefault.jpg",
+      "noteEs": "Guía actualizada al patch 2.3 sobre cómo modear Cyberpunk usando Vortex Mod Manager. Cubre la instalación inicial, la stack mínima (CET, RED4ext), y workflow de install/update. Best practical entry point.",
+      "noteEn": "Patch 2.3-updated guide on modding Cyberpunk using Vortex Mod Manager. Covers initial install, the minimum stack (CET, RED4ext), and the install/update workflow. Best practical entry point."
+    },
+    {
+      "id": "eternaltalks-easily-install-mods-2025",
+      "type": "video",
+      "title": "How To EASILY Install Mods for Cyberpunk 2077 in 2025",
+      "creator": "EternalTalks",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=5gR3rsL-sCs",
+      "youtubeId": "5gR3rsL-sCs",
+      "language": "en",
+      "duration": "5:43",
+      "publishedDate": "2025-06-07",
+      "thumbnail": "https://i.ytimg.com/vi/5gR3rsL-sCs/maxresdefault.jpg",
+      "noteEs": "Tutorial corto (5 min) para arrancar a modear sin overhead. Si la guía de ArktechFilms (10 min) es demasiado, este es el versión ultra-rápida del mismo flow. Bueno como confirmación pre-install.",
+      "noteEn": "Short tutorial (5 min) to start modding without overhead. If ArktechFilms' guide (10 min) feels long, this is the ultra-fast version of the same flow. Good as a pre-install confirmation."
+    },
+    {
+      "id": "arktech-fix-crashes-update-downgrade-23",
+      "type": "video",
+      "title": "How to Fix Crashes, Update Mods, & Downgrade | Cyberpunk 2077 [Patch 2.3]",
+      "creator": "ArktechFilms",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=r4PMthm0wiM",
+      "youtubeId": "r4PMthm0wiM",
+      "language": "en",
+      "duration": "6:50",
+      "publishedDate": "2025-07-17",
+      "thumbnail": "https://i.ytimg.com/vi/r4PMthm0wiM/maxresdefault.jpg",
+      "noteEs": "Troubleshooting post-patch 2.3 — qué hacer cuando un mod se rompe, cómo updatear el stack, y opcionalmente downgradeás el juego si los mods que quieres no soportan el patch nuevo. Critical-skill cuando juegues modded.",
+      "noteEn": "Post-patch 2.3 troubleshooting — what to do when a mod breaks, how to update the stack, and optionally downgrade the game if the mods you want don't support the new patch. Critical skill when playing modded."
+    },
+    {
+      "id": "arktech-update-fix-mods-213-downgrade",
+      "type": "video",
+      "title": "How to Update/Fix ALL Mods [Patch 2.13] & Downgrade Cyberpunk 2077 to Patch 2.12a (Vortex)",
+      "creator": "ArktechFilms",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=rtnmpkTI_18",
+      "youtubeId": "rtnmpkTI_18",
+      "language": "en",
+      "duration": "10:34",
+      "publishedDate": "2024-09-21",
+      "thumbnail": "https://i.ytimg.com/vi/rtnmpkTI_18/maxresdefault.jpg",
+      "noteEs": "Tutorial extendido sobre el flow de downgrade usando Vortex. Aunque el patch específico (2.13 → 2.12a) ya quedó atrás, la metodología sigue aplicable cuando salga el próximo update que rompa tus mods. Reference vivo.",
+      "noteEn": "Extended tutorial on the downgrade flow using Vortex. While the specific patch (2.13 → 2.12a) is outdated, the methodology stays applicable when the next update breaks your mods. Living reference."
+    },
+    {
+      "id": "emmjay-install-amm-tutorial",
+      "type": "video",
+      "title": "Step-by-Step Guide: Installing AMM Mod to Cyberpunk 2077",
+      "creator": "Emm Jay",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ajobDe72jjU",
+      "youtubeId": "ajobDe72jjU",
+      "language": "en",
+      "duration": "5:01",
+      "publishedDate": "2024-02-12",
+      "thumbnail": "https://i.ytimg.com/vi/ajobDe72jjU/maxresdefault.jpg",
+      "noteEs": "Tutorial específico para instalar Appearance Menu Mod (AMM) — el mod más popular del juego. Cubre los pre-requisitos (CET, RED4ext) y el setup mínimo. Para quien ya tiene la stack base y solo quiere agregar AMM.",
+      "noteEn": "Specific tutorial for installing Appearance Menu Mod (AMM) — the game's most popular mod. Covers prerequisites (CET, RED4ext) and minimum setup. For anyone with the base stack who just wants to add AMM."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "appearance-menu-mod",
+  "name": "Appearance Menu Mod",
+  "shortName": "AMM",
+  "taglineEs": "Mod canónico para photo mode y cosplay — spawn de NPCs, vehículos, poses, outfits y decoración",
+  "taglineEn": "Canonical mod for photo mode and cosplay — spawn NPCs, vehicles, poses, outfits, and decoration",
+  "url": "https://github.com/MaximiliumM/appearancemenumod",
+  "category": "gameplay-mods",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/MaximiliumM/appearancemenumod",
+  "license": "MIT",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["photo-mode", "cosplay", "appearance", "amm", "cet-mod", "essential-mod"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-11",
+  "logo": "/images/tools/cyberpunk-2077/appearance-menu-mod-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["cyber-engine-tweaks", "red4ext"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "MaximiliumM",
+    "url": "https://github.com/MaximiliumM"
+  }
+}

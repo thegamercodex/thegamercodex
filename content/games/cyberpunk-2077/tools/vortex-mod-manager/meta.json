@@ -1,0 +1,30 @@
+{
+  "id": "vortex-mod-manager",
+  "name": "Vortex Mod Manager",
+  "shortName": "Vortex",
+  "taglineEs": "Mod manager oficial de Nexus Mods — instala, ordena y desactiva mods de Cyberpunk 2077 con un solo click",
+  "taglineEn": "Nexus Mods' official mod manager — install, order, and disable Cyberpunk 2077 mods with one click",
+  "url": "https://www.nexusmods.com/site/mods/1",
+  "category": "modding-tools",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Nexus-Mods/Vortex",
+  "license": "GPL-3.0",
+  "platforms": ["windows"],
+  "languages": ["en", "es"],
+  "tags": ["mod-manager", "installer", "automation", "nexus"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-11",
+  "logo": "/images/tools/cyberpunk-2077/vortex-mod-manager-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["red4ext", "cyber-engine-tweaks", "redmod"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Nexus Mods",
+    "url": "https://www.nexusmods.com"
+  }
+}

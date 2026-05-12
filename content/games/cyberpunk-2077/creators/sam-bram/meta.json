@@ -1,0 +1,43 @@
+{
+  "id": "sam-bram",
+  "name": "Sam Bram",
+  "realName": "Sam Bramley",
+  "country": "UK",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@SamBram",
+      "url": "https://www.youtube.com/@SamBram",
+      "channelId": "UCajkSIm_aLojNivjc4A9tzg",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "lore",
+    "easter-eggs",
+    "secrets",
+    "rankings",
+    "details-and-deep-dives"
+  ],
+  "games": ["cyberpunk-2077"],
+  "contentTypes": ["videos", "lore", "rankings"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Sam Bram (Sam Bramley) hace videos de calidad sobre Cyberpunk 2077, Fallout y Elder Scrolls — formato listicle de easter eggs, secretos, rankings y curiosidades. Es uno de los creators más consistentes para descubrir contenido oculto que la mayoría de players se pierde: dialogue secreto, locations no marcadas, conexiones de lore con el universo Cyberpunk pen-and-paper. Tono editorial mesurado, sin clickbait, narration clara — ideal para players post-campaign que quieren descubrir capas adicionales del juego.",
+  "noteEn": "Sam Bram (Sam Bramley) makes quality videos about Cyberpunk 2077, Fallout, and Elder Scrolls — listicle format covering easter eggs, secrets, rankings, and trivia. He's one of the most consistent creators for surfacing hidden content most players miss: secret dialogue, unmarked locations, lore connections to the Cyberpunk pen-and-paper universe. Measured editorial tone, no clickbait, clear narration — ideal for post-campaign players wanting to discover additional layers of the game.",
+  "highlightsEs": [
+    "Series de 25/50/100 secretos y easter eggs en Cyberpunk 2077 — fuente de descubrimientos para playthroughs nuevos",
+    "Rankings curados de iconic weapons, cyberware, NPCs",
+    "Análisis de connections entre Cyberpunk 2077 y el universo pen-and-paper original de Mike Pondsmith",
+    "Cobertura de detalles que cambian entre patches importantes"
+  ],
+  "highlightsEn": [
+    "25/50/100 secrets and easter eggs series for Cyberpunk 2077 — source of discoveries for fresh playthroughs",
+    "Curated rankings of iconic weapons, cyberware, NPCs",
+    "Analysis of connections between Cyberpunk 2077 and Mike Pondsmith's original pen-and-paper universe",
+    "Coverage of details that change between major patches"
+  ],
+  "avatar": "/images/creators/sam-bram-avatar.jpg",
+  "banner": "/images/creators/sam-bram-banner.jpg"
+}

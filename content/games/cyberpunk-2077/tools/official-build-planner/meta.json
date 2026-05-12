@@ -1,0 +1,28 @@
+{
+  "id": "official-build-planner",
+  "name": "Official Cyberpunk 2077 Build Planner",
+  "shortName": "Build Planner",
+  "taglineEs": "Planificador oficial de builds de CD Projekt RED — el árbol de perks 2.0 con stats y cyberware",
+  "taglineEn": "CD Projekt RED's official build planner — the 2.0 perk tree with stats and cyberware",
+  "url": "https://www.cyberpunk.net/en/build-planner",
+  "category": "build-planning",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en", "es"],
+  "tags": ["build-planning", "perks", "cyberware", "official", "phantom-liberty"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-11",
+  "logo": "/images/tools/cyberpunk-2077/official-build-planner-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nukes-and-dragons"],
+  "alternatives": ["nukes-and-dragons"],
+  "createdBy": {
+    "name": "CD Projekt RED",
+    "url": "https://www.cdprojektred.com"
+  }
+}

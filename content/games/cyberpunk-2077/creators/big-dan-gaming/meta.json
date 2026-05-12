@@ -1,0 +1,42 @@
+{
+  "id": "big-dan-gaming",
+  "name": "Big Dan Gaming",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@BigDanGaming",
+      "url": "https://www.youtube.com/@BigDanGaming",
+      "channelId": "UCiG8OfmqcSlydMluaEfkHgQ",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "builds",
+    "lore",
+    "secrets",
+    "tutorials",
+    "deep-dives"
+  ],
+  "games": ["cyberpunk-2077"],
+  "contentTypes": ["videos", "tutorials", "lore", "rankings"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Big Dan Gaming es uno de los canales más constantes para cobertura long-form de Cyberpunk 2077 — tutorials de mecánicas, deep dives de lore, secrets, y builds. La calidad de scripting y producción está por encima del promedio de creators de listicles; los videos van a 15-25 minutos con análisis genuino en lugar de filler. Colabora frecuentemente con Sam Bram. Especialmente fuerte en explicar mecánicas nuevas tras cada patch mayor.",
+  "noteEn": "Big Dan Gaming is one of the most consistent channels for long-form Cyberpunk 2077 coverage — mechanic tutorials, lore deep dives, secrets, and builds. Scripting and production quality sit above the listicle-creator average; videos run 15-25 minutes with genuine analysis instead of filler. Frequent collaborator with Sam Bram. Especially strong at explaining new mechanics after each major patch.",
+  "highlightsEs": [
+    "Tutorials extendidos de cada patch mayor (2.0, 2.1, 2.2, 2.3) explicando qué cambió y por qué importa",
+    "Series de 'hidden details' que documentan content que el juego no destaca explícitamente",
+    "Deep dives de lore conectando Cyberpunk 2077 con el universo extendido (Edgerunners, pen-and-paper)",
+    "Análisis comparativo de builds por arquetipo después de cada balance pass"
+  ],
+  "highlightsEn": [
+    "Extended tutorials for each major patch (2.0, 2.1, 2.2, 2.3) explaining what changed and why it matters",
+    "'Hidden details' series documenting content the game doesn't explicitly highlight",
+    "Lore deep dives connecting Cyberpunk 2077 to the extended universe (Edgerunners, pen-and-paper)",
+    "Comparative build analysis by archetype after each balance pass"
+  ],
+  "avatar": "/images/creators/big-dan-gaming-avatar.jpg",
+  "banner": "/images/creators/big-dan-gaming-banner.jpg"
+}

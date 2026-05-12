@@ -1,0 +1,42 @@
+{
+  "id": "solo4players",
+  "name": "Solo4Players",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Solo4Players",
+      "url": "https://www.youtube.com/@Solo4Players",
+      "channelId": "UCHQeYGdJmy-VKrbQvpLBw6A",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "builds",
+    "guías-de-mecánicas",
+    "crafting",
+    "patch-coverage",
+    "single-player-rpgs"
+  ],
+  "games": ["cyberpunk-2077"],
+  "contentTypes": ["videos", "tutorials", "builds"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Solo4Players cubre Cyberpunk 2077 en español con foco en builds y guías de mecánicas. Es uno de los pocos creators hispanohablantes que mantienen cobertura consistente del juego después del 2.0, con builds específicas por arquetipo (Ninja Assassin, Tech, Netrunner) y guías de crafting actualizadas a cada patch. Audio claro, ediciones limpias, contenido sin filler — ideal para audiencia hispana que prefiere consumir guías en su idioma sin perder calidad técnica.",
+  "noteEn": "Solo4Players covers Cyberpunk 2077 in Spanish with a focus on builds and mechanics guides. He's one of the few Spanish-speaking creators maintaining consistent coverage of the game post-2.0, with archetype-specific builds (Ninja Assassin, Tech, Netrunner) and crafting guides updated to each patch. Clear audio, clean edits, no filler — ideal for Spanish-speaking audiences who prefer to consume guides in their language without losing technical quality.",
+  "highlightsEs": [
+    "Builds detalladas por arquetipo actualizadas a cada patch (2.21, 2.3) con perks, atributos y cyberware específicos",
+    "Guía definitiva de crafting de Cyberpunk 2077 — referencia para la audiencia hispana",
+    "Cobertura de mecánicas que cambian entre patches con explicación accesible",
+    "Series de 'guía de inicio' para players nuevos que arrancan post-2.0"
+  ],
+  "highlightsEn": [
+    "Detailed archetype builds updated to each patch (2.21, 2.3) with specific perks, attributes, and cyberware",
+    "Cyberpunk 2077 definitive crafting guide — reference for the Spanish-speaking audience",
+    "Coverage of mechanics that change between patches with accessible explanation",
+    "'Getting started' series for new players starting post-2.0"
+  ],
+  "avatar": "/images/creators/solo4players-avatar.jpg",
+  "banner": "/images/creators/solo4players-banner.jpg"
+}

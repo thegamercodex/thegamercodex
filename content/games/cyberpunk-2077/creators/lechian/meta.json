@@ -1,0 +1,42 @@
+{
+  "id": "lechian",
+  "name": "Lechian",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Lechian",
+      "url": "https://www.youtube.com/@Lechian",
+      "channelId": "UC8f1ph0gy-r64ztJ4Y9oDXA",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "builds",
+    "guías-completas",
+    "side-jobs",
+    "patch-coverage",
+    "lore"
+  ],
+  "games": ["cyberpunk-2077"],
+  "contentTypes": ["videos", "tutorials", "lore", "builds"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Lechian se especializa específicamente en Cyberpunk 2077 con contenido en español de alta calidad: builds para destrozar MaxTac, guías de vehículos del patch 2.3, side jobs analizados con choices y consecuencias, y deep-dives narrativos sobre NPCs como Gloria Martinez. Su nicho es la combinación de buildcrafting práctico con análisis de lore, lo que lo hace útil tanto para players optimizando como para los que quieren entender la story más profundamente. Audio nítido y guion sin relleno.",
+  "noteEn": "Lechian specifically specializes in Cyberpunk 2077 with high-quality Spanish content: builds to crush MaxTac, guides on patch 2.3 vehicles, side jobs analyzed with choices and consequences, and narrative deep-dives on NPCs like Gloria Martinez. His niche is combining practical buildcrafting with lore analysis, useful both for players optimizing and those wanting to understand the story more deeply. Crisp audio, scripts without filler.",
+  "highlightsEs": [
+    "Builds para enfrentar contenido endgame (MaxTac, cyberpsychos) explicadas paso a paso",
+    "Guía completa para desbloquear los nuevos vehículos del patch 2.3",
+    "Análisis de side jobs con consecuencias narrativas — qué pasa según las decisiones",
+    "Deep-dives de NPCs y lore con un ángulo personal (ej: 'Gloria Martinez tiene un oscuro secreto')"
+  ],
+  "highlightsEn": [
+    "Builds for endgame content (MaxTac, cyberpsychos) explained step-by-step",
+    "Complete guide to unlocking the new patch 2.3 vehicles",
+    "Side job analyses with narrative consequences — what happens per decision",
+    "NPC and lore deep dives with a personal angle (e.g., 'Gloria Martinez has a dark secret')"
+  ],
+  "avatar": "/images/creators/lechian-avatar.jpg",
+  "banner": "/images/creators/lechian-banner.jpg"
+}

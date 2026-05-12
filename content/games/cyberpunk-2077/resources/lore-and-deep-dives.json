@@ -1,0 +1,80 @@
+{
+  "category": "lore-and-deep-dives",
+  "resources": [
+    {
+      "id": "shaped-by-stories-adam-smasher-meat-grinder",
+      "type": "video",
+      "title": "Adam Smasher, Night City's Meat Grinder (+ is he undead?) | Cyberpunk 2077 | Deep Dive & Explained",
+      "creator": "Shaped By Stories",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=op8twoDKx_0",
+      "youtubeId": "op8twoDKx_0",
+      "language": "en",
+      "duration": "30:11",
+      "publishedDate": "2025-11-03",
+      "thumbnail": "https://i.ytimg.com/vi/op8twoDKx_0/maxresdefault.jpg",
+      "noteEs": "Deep dive de 30 min sobre Adam Smasher — su origen como soldier corporativo, transformación en cyborg, papel en el universo Cyberpunk pen-and-paper, y la teoría sobre si sigue siendo human o ya cruzó otro umbral. Production quality alto.",
+      "noteEn": "30-min deep dive on Adam Smasher — his origin as a corporate soldier, transformation into a cyborg, role in the Cyberpunk pen-and-paper universe, and the theory on whether he's still human or crossed another threshold. High production quality."
+    },
+    {
+      "id": "vorn-untold-history-adam-smasher",
+      "type": "video",
+      "title": "The Untold History of Adam Smasher | Cyberpunk 2077 Lore",
+      "creator": "Vorn",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=p9uDlZfHW9s",
+      "youtubeId": "p9uDlZfHW9s",
+      "language": "en",
+      "duration": "11:22",
+      "publishedDate": "2024-11-17",
+      "thumbnail": "https://i.ytimg.com/vi/p9uDlZfHW9s/maxresdefault.jpg",
+      "noteEs": "Versión más compacta (11 min) sobre la historia de Adam Smasher — cubre el background sin el deep-dive de teorías. Bueno como introduction antes del video de 30 min de Shaped By Stories, o como standalone para quien quiere lo esencial.",
+      "noteEn": "More compact version (11 min) covering Adam Smasher's history — background without the theory deep-dive. Good as an intro before the 30-min Shaped By Stories video, or as standalone for anyone wanting just the essentials."
+    },
+    {
+      "id": "zeekas-johnny-silverhand-disturbing-backstory",
+      "type": "video",
+      "title": "Who Was Johnny Silverhand? The Disturbing Backstory | Cyberpunk 2077",
+      "creator": "Zeekas",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=PihGbr3BIbo",
+      "youtubeId": "PihGbr3BIbo",
+      "language": "en",
+      "duration": "31:08",
+      "publishedDate": "2026-01-03",
+      "thumbnail": "https://i.ytimg.com/vi/PihGbr3BIbo/maxresdefault.jpg",
+      "noteEs": "Deep dive reciente (enero 2026) sobre Johnny Silverhand — su pasado pre-Cyberpunk 2077, eventos del raid de Arasaka, contexto con Alt Cunningham, y cómo el juego retconnea o mantiene fidelidad al canon pen-and-paper. Para fans del lore profundo.",
+      "noteEn": "Recent deep dive (January 2026) on Johnny Silverhand — his pre-Cyberpunk 2077 past, the Arasaka raid events, context with Alt Cunningham, and how the game retcons or stays faithful to pen-and-paper canon. For deep-lore fans."
+    },
+    {
+      "id": "layedback-mr-blue-eyes-night-corporation-lore",
+      "type": "video",
+      "title": "The History of Mr. Blue Eyes & Night Corporation | Cyberpunk 2077 Lore",
+      "creator": "LayedBackGamers",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=FM8q58lLCWU",
+      "youtubeId": "FM8q58lLCWU",
+      "language": "en",
+      "duration": "34:30",
+      "publishedDate": "2023-10-31",
+      "thumbnail": "https://i.ytimg.com/vi/FM8q58lLCWU/maxresdefault.jpg",
+      "noteEs": "Investigación extensa sobre Mr. Blue Eyes — el misterioso manipulador presente en eventos clave del juego — y su conexión con la Night Corporation. Aunque es del 2023 (post-2.0), el lore que cubre sigue vigente; las quests no cambiaron desde entonces.",
+      "noteEn": "Extensive investigation into Mr. Blue Eyes — the mysterious manipulator present at key game events — and his connection to Night Corporation. Although from 2023 (post-2.0), the lore it covers remains current; the relevant quests haven't changed since."
+    },
+    {
+      "id": "cato-davila-30-curiosidades-lore-parte-4",
+      "type": "video",
+      "title": "30 CURIOSIDADES DEL LORE DE CYBERPUNK 2077 | parte 4",
+      "creator": "Cato Davila",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=aT7E8WrIw48",
+      "youtubeId": "aT7E8WrIw48",
+      "language": "es",
+      "duration": "28:30",
+      "publishedDate": "2025-10-04",
+      "thumbnail": "https://i.ytimg.com/vi/aT7E8WrIw48/maxresdefault.jpg",
+      "noteEs": "Cuarta entrega de curiosidades del lore de Cyberpunk 2077 en español — agencias de Night City, orígenes de los Voodoo Boys, datos crípticos que el juego no destaca. Cato Davila es uno de los pocos creators con cobertura larga de lore en español.",
+      "noteEn": "Fourth installment of Cyberpunk 2077 lore curiosities in Spanish — Night City agencies, Voodoo Boys origins, cryptic data the game doesn't highlight. Cato Davila is one of the few creators offering long-form lore coverage in Spanish."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "norzza-tips-tricks-cyberpunk-2025",
+      "type": "video",
+      "title": "BEST Cyberpunk 2077 Tips and Tricks For NEW & RETURNING Players - Cyberpunk 2077 Patch 2.3",
+      "creator": "NorZZa",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=KfH9RlMlDbw",
+      "youtubeId": "KfH9RlMlDbw",
+      "language": "en",
+      "duration": "14:24",
+      "publishedDate": "2025-09-01",
+      "thumbnail": "https://i.ytimg.com/vi/KfH9RlMlDbw/maxresdefault.jpg",
+      "noteEs": "Tips concretos y orientados a acción para players nuevos o retornando al juego con patch 2.3. Cubre quality-of-life que no se explica in-game: gestión de cyberware capacity, attribute respec timing, qué hacer en el prólogo para empezar bien.",
+      "noteEn": "Concrete action-oriented tips for new or returning players in patch 2.3. Covers QoL the game doesn't explain: cyberware capacity management, attribute respec timing, what to do in the prologue to start strong."
+    },
+    {
+      "id": "khrazegaming-best-start-cyberpunk-2025",
+      "type": "video",
+      "title": "How To Have The Absolute BEST START In Cyberpunk 2077 in 2025! Ultimate Refresher Guide Patch 2.3",
+      "creator": "KhrazeGaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=FgrWRz6b328",
+      "youtubeId": "FgrWRz6b328",
+      "language": "en",
+      "duration": "27:21",
+      "publishedDate": "2025-08-18",
+      "thumbnail": "https://i.ytimg.com/vi/FgrWRz6b328/maxresdefault.jpg",
+      "noteEs": "Refresher exhaustivo para arrancar Cyberpunk 2077 con todo lo que aprendimos desde el 2.0 — distribución de atributos, perks tempranos, qué cyberware buscar en Act 1, qué side jobs priorizar. Largo (27 min) pero denso, no relleno.",
+      "noteEn": "Exhaustive refresher for starting Cyberpunk 2077 with everything we learned since 2.0 — attribute distribution, early perks, what cyberware to chase in Act 1, which side jobs to prioritize. Long (27 min) but dense, no filler."
+    },
+    {
+      "id": "solo4players-guia-de-inicio-cyberpunk-2025",
+      "type": "video",
+      "title": "CYBERPUNK 2077 v2.21 | Guía de Inicio - Cómo Empezar | Español",
+      "creator": "Solo4Players",
+      "creatorId": "solo4players",
+      "url": "https://www.youtube.com/watch?v=eNUK0c-NeXM",
+      "youtubeId": "eNUK0c-NeXM",
+      "language": "es",
+      "duration": "35:44",
+      "publishedDate": "2025-02-25",
+      "thumbnail": "https://i.ytimg.com/vi/eNUK0c-NeXM/maxresdefault.jpg",
+      "noteEs": "La guía de inicio más completa en español para Cyberpunk 2.21 — cubre creación de personaje, distribución de atributos, primeras decisiones críticas, mecánicas que cambiaron post-2.0. Solo4Players narra claro, sin clickbait.",
+      "noteEn": "The most complete Spanish-language getting-started guide for Cyberpunk 2.21 — character creation, attribute distribution, first critical decisions, mechanics that changed post-2.0. Solo4Players narrates clearly without clickbait."
+    },
+    {
+      "id": "big-dan-cyberpunk-2025-review-is-it-worth-it",
+      "type": "video",
+      "title": "Cyberpunk 2077 2025 Review - Is It Worth It?",
+      "creator": "Big Dan Gaming",
+      "creatorId": "big-dan-gaming",
+      "url": "https://www.youtube.com/watch?v=YINh6NlJCqM",
+      "youtubeId": "YINh6NlJCqM",
+      "language": "en",
+      "duration": "11:18",
+      "publishedDate": "2025-01-31",
+      "thumbnail": "https://i.ytimg.com/vi/YINh6NlJCqM/maxresdefault.jpg",
+      "noteEs": "Review-orientación para quien duda si comprar Cyberpunk 2077 en 2025. Big Dan resume qué tan distinto es el juego post-2.0 vs el lanzamiento de 2020, qué expectativas razonables setear, y para quién sigue sin ser. Útil antes de invertir en el Ultimate Edition.",
+      "noteEn": "Orientation review for anyone unsure about buying Cyberpunk 2077 in 2025. Big Dan summarizes how different the post-2.0 game is from 2020 launch, what reasonable expectations to set, and who it's still not for. Useful before investing in Ultimate Edition."
+    },
+    {
+      "id": "heroe-tres-corazones-cyberpunk-guia-basica-builds",
+      "type": "video",
+      "title": "Cyberpunk 2077: Guía básica para la creación de Builds",
+      "creator": "Héroe de Tres Corazones",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Jmg-Kr3Bjeo",
+      "youtubeId": "Jmg-Kr3Bjeo",
+      "language": "es",
+      "duration": "5:16",
+      "publishedDate": "2024-06-19",
+      "thumbnail": "https://i.ytimg.com/vi/Jmg-Kr3Bjeo/maxresdefault.jpg",
+      "noteEs": "Guía básica corta (5 min) en español para arrancar a pensar tu primer build. Útil como introducción rápida antes de profundizar en guías largas — explica qué hacen los 5 atributos y cómo no spreadearlos thin.",
+      "noteEn": "Short basic guide (5 min) in Spanish for starting to think about your first build. Useful as a quick intro before diving into long guides — explains what the 5 attributes do and how to avoid spreading them thin."
+    }
+  ]
+}

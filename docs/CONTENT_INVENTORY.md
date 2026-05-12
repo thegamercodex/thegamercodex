@@ -1,15 +1,16 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-10
+> Última generación: 2026-05-11
 
 ## Resumen
 
-10 juegos · 159 tools · 50 creators · 52 categorías · 260 resources items
+11 juegos · 174 tools · 55 creators · 57 categorías · 285 resources items
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items |
 |---|---|---:|---:|---:|---:|
 | `counter-strike-2` | Counter-Strike 2 | 15 | 5 | 5 | 25 |
+| `cyberpunk-2077` | Cyberpunk 2077 | 15 | 5 | 5 | 25 |
 | `destiny-2` | Destiny 2 | 12 | 5 | 5 | 25 |
 | `dota-2` | Dota 2 | 13 | 5 | 5 | 25 |
 | `genshin-impact` | Genshin Impact | 24 | 5 | 6 | 30 |
@@ -34,6 +35,19 @@
 - `esports-coverage` — 5 items
 - `map-guides` — 5 items
 - `patch-coverage` — 5 items
+
+### Cyberpunk 2077 (`cyberpunk-2077`)
+
+**Tools (15)**: Appearance Menu Mod (`appearance-menu-mod`), ArchiveXL (`archive-xl`), Cyberpunk 2077 Modding Community (`cp77-modding-community-discord`), Cyber Engine Tweaks (`cyber-engine-tweaks`), CyberCAT Save Editor (Project CyberCAT-SimpleGUI) (`cybercat-save-editor`), Cyberpunk 2077 Wiki (Fextralife) (`fextralife-wiki-cyberpunk`), Native Settings UI (`native-settings-ui`), Night City Interactive Map (nightcity.io) (`night-city-interactive-map`), Nukes & Dragons Cyberpunk 2077 Build Planner (`nukes-and-dragons`), Official Cyberpunk 2077 Build Planner (`official-build-planner`), RED4ext (`red4ext`), REDmod (`redmod`), TweakXL (`tweak-xl`), Vortex Mod Manager (`vortex-mod-manager`), WolvenKit (`wolvenkit`)
+
+**Creators (5)**: Big Dan Gaming (`big-dan-gaming`), JorRaptor (`jorraptor`), Lechian (`lechian`), Sam Bram (`sam-bram`), Solo4Players (`solo4players`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `build-guides` — 5 items
+- `lore-and-deep-dives` — 5 items
+- `modding-guides` — 5 items
+- `patch-and-update-overviews` — 5 items
 
 ### Destiny 2 (`destiny-2`)
 

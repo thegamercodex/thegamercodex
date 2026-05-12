@@ -1,0 +1,80 @@
+{
+  "category": "patch-and-update-overviews",
+  "resources": [
+    {
+      "id": "pupil-swim-cyberpunk-patch-23-revealed",
+      "type": "video",
+      "title": "CYBERPUNK Patch 2.3 REVEALED - Here's What You Need To Know!",
+      "creator": "Pupil Swim",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=D7hf3Uq5kZY",
+      "youtubeId": "D7hf3Uq5kZY",
+      "language": "en",
+      "duration": "4:42",
+      "publishedDate": "2025-07-16",
+      "thumbnail": "https://i.ytimg.com/vi/D7hf3Uq5kZY/maxresdefault.jpg",
+      "noteEs": "Resumen ultra-conciso (4 min) del patch 2.3 publicado el día antes del release. Cubre AutoDrive, los 4 vehículos nuevos y los cabs Delamain. Para quien quiere signal rápido sin video de 20 min.",
+      "noteEn": "Ultra-concise (4 min) summary of patch 2.3 posted the day before release. Covers AutoDrive, the 4 new vehicles, and Delamain cabs. For anyone wanting fast signal without a 20-min video."
+    },
+    {
+      "id": "big-dan-patch-23-fan-reaction",
+      "type": "video",
+      "title": "People Are ALREADY MAD About the New Cyberpunk 2077 Update... (Patch 2.3 Overview and Fan Reaction)",
+      "creator": "Big Dan Gaming",
+      "creatorId": "big-dan-gaming",
+      "url": "https://www.youtube.com/watch?v=ACdlCVPeg64",
+      "youtubeId": "ACdlCVPeg64",
+      "language": "en",
+      "duration": "8:53",
+      "publishedDate": "2025-07-16",
+      "thumbnail": "https://i.ytimg.com/vi/ACdlCVPeg64/maxresdefault.jpg",
+      "noteEs": "Big Dan cubre el patch 2.3 con un ángulo más editorial — qué trajo, qué decepcionó a parte del community, qué expectativas eran irrealistas. Útil para entender el discourse alrededor del update, no solo el changelog.",
+      "noteEn": "Big Dan covers patch 2.3 from a more editorial angle — what it brought, what disappointed parts of the community, which expectations were unrealistic. Useful for understanding the discourse around the update, not just the changelog."
+    },
+    {
+      "id": "gameranx-cyberpunk-patch-23-big-changes",
+      "type": "video",
+      "title": "CYBERPUNK 2077 PATCH 2.3 MAKES BIG CHANGES, FALLOUT 5 GREENLIT & MORE",
+      "creator": "gameranx",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=24N6xCDFaOA",
+      "youtubeId": "24N6xCDFaOA",
+      "language": "en",
+      "duration": "14:00",
+      "publishedDate": "2025-07-18",
+      "thumbnail": "https://i.ytimg.com/vi/24N6xCDFaOA/maxresdefault.jpg",
+      "noteEs": "Cobertura del patch 2.3 dentro del news round-up semanal de gameranx. Mejor para quien quiere un encuadre periodístico — qué cambió, contexto industria, comparación con otros lanzamientos.",
+      "noteEn": "Patch 2.3 coverage inside gameranx's weekly news round-up. Best for anyone wanting a journalistic framing — what changed, industry context, comparison with other releases."
+    },
+    {
+      "id": "lechian-desbloquea-vehiculos-23",
+      "type": "video",
+      "title": "Desbloquea TODOS los nuevos vehículos de Cyberpunk 2077 de la 2.3 | Guías Cyberpunk en Español",
+      "creator": "Lechian",
+      "creatorId": "lechian",
+      "url": "https://www.youtube.com/watch?v=LddbBq8JqBU",
+      "youtubeId": "LddbBq8JqBU",
+      "language": "es",
+      "duration": "6:15",
+      "publishedDate": "2025-07-18",
+      "thumbnail": "https://i.ytimg.com/vi/LddbBq8JqBU/maxresdefault.jpg",
+      "noteEs": "Guía práctica en español de cómo desbloquear los 4 vehículos nuevos del patch 2.3 (Yaiba Semimaru, Rayfield Caliburn Mordred, etc.). Lechian explica las quests requeridas y los pre-requisitos paso por paso.",
+      "noteEn": "Practical Spanish-language guide on how to unlock the 4 new vehicles from patch 2.3 (Yaiba Semimaru, Rayfield Caliburn Mordred, etc.). Lechian explains the required quests and prerequisites step by step."
+    },
+    {
+      "id": "ign-cyberpunk-biggest-changes-23",
+      "type": "video",
+      "title": "Cyberpunk 2077 - Biggest Changes in Patch 2.3 Update",
+      "creator": "IGN",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=pcT-4rp4-Mg",
+      "youtubeId": "pcT-4rp4-Mg",
+      "language": "en",
+      "duration": "4:54",
+      "publishedDate": "2025-07-16",
+      "thumbnail": "https://i.ytimg.com/vi/pcT-4rp4-Mg/maxresdefault.jpg",
+      "noteEs": "Cobertura editorial de IGN del patch 2.3 con foco en las features más impactantes: AutoDrive, photo mode renovado, vehículos. Conciso, producción pulida — buen entry point para quien viene de fuera de la comunidad nicho.",
+      "noteEn": "IGN's editorial coverage of patch 2.3 focused on the most impactful features: AutoDrive, revamped photo mode, vehicles. Concise, polished production — good entry point for anyone coming from outside the niche community."
+    }
+  ]
+}

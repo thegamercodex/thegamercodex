@@ -1,0 +1,42 @@
+{
+  "id": "jorraptor",
+  "name": "JorRaptor",
+  "country": "NL",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@jorraptor",
+      "url": "https://www.youtube.com/@jorraptor",
+      "channelId": "UCzF5oxzeidHOZzy4KK5nxCQ",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "news",
+    "patch-coverage",
+    "tips-and-tricks",
+    "build-overviews",
+    "open-world-rpgs"
+  ],
+  "games": ["cyberpunk-2077"],
+  "contentTypes": ["videos", "news", "tutorials"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "JorRaptor cubre RPGs y open-world games con foco en news, tips & tricks y patch breakdowns. Para Cyberpunk 2077 es punto de entrada útil: videos cortos (8-15min) que sintetizan info de cada patch, tips para players retornando después de un patch, build overviews accesibles. Multi-game por naturaleza (Assassin's Creed, Horizon, God of War, etc.) — Cyberpunk es uno de sus pilares pero no su único foco. Mejor para players casuales que quieren signal-vs-noise rápido.",
+  "noteEn": "JorRaptor covers RPGs and open-world games focused on news, tips & tricks, and patch breakdowns. For Cyberpunk 2077 he's a useful entry point: short videos (8-15min) synthesizing each patch's info, tips for returning players, accessible build overviews. Multi-game by nature (Assassin's Creed, Horizon, God of War, etc.) — Cyberpunk is one of his pillars but not his only focus. Best for casual players wanting fast signal-vs-noise.",
+  "highlightsEs": [
+    "Patch breakdowns en formato corto cada vez que CDPR publica un update mayor",
+    "Tips para players retornando — qué cambió desde la última vez que jugaste",
+    "Build overviews accesibles para principiantes que no quieren leer guías largas",
+    "News round-ups del estado del juego, datamining y rumors"
+  ],
+  "highlightsEn": [
+    "Short-format patch breakdowns each time CDPR ships a major update",
+    "Tips for returning players — what changed since last time you played",
+    "Beginner-friendly build overviews for players who don't want long guides",
+    "News round-ups on the game's state, datamining, and rumors"
+  ],
+  "avatar": "/images/creators/jorraptor-avatar.jpg",
+  "banner": "/images/creators/jorraptor-banner.jpg"
+}

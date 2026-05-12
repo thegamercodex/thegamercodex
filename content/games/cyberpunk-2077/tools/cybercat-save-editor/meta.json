@@ -1,0 +1,30 @@
+{
+  "id": "cybercat-save-editor",
+  "name": "CyberCAT Save Editor (Project CyberCAT-SimpleGUI)",
+  "shortName": "CyberCAT",
+  "taglineEs": "Editor de saves de Cyberpunk 2077 — modifica stats, inventory, apariencia, quest flags y money",
+  "taglineEn": "Cyberpunk 2077 save editor — modify stats, inventory, appearance, quest flags, and money",
+  "url": "https://github.com/Deweh/CyberCAT-SimpleGUI",
+  "category": "save-editing",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Deweh/CyberCAT-SimpleGUI",
+  "license": "MIT",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["save-editor", "modding", "character", "inventory", "appearance"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-11",
+  "logo": "/images/tools/cyberpunk-2077/cybercat-save-editor-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["wolvenkit", "cyber-engine-tweaks"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Deweh (offshoot of SirBitesalot's CyberCAT)",
+    "url": "https://github.com/Deweh/CyberCAT-SimpleGUI"
+  }
+}

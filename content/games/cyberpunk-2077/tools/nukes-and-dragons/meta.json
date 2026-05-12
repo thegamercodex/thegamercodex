@@ -1,0 +1,28 @@
+{
+  "id": "nukes-and-dragons",
+  "name": "Nukes & Dragons Cyberpunk 2077 Build Planner",
+  "shortName": "Nukes & Dragons",
+  "taglineEs": "Build planner comunitario con URLs compartibles y soporte para el árbol 2.0 + Phantom Liberty",
+  "taglineEn": "Community build planner with shareable URLs and support for the 2.0 tree + Phantom Liberty",
+  "url": "https://nukesdragons.com/cyberpunk-2077/character",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-planning", "perks", "attributes", "community", "phantom-liberty"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-11",
+  "logo": "/images/tools/cyberpunk-2077/nukes-and-dragons-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["official-build-planner"],
+  "alternatives": ["official-build-planner"],
+  "createdBy": {
+    "name": "Nukes & Dragons",
+    "url": "https://nukesdragons.com"
+  }
+}

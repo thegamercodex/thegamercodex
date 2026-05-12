@@ -1,0 +1,30 @@
+{
+  "id": "wolvenkit",
+  "name": "WolvenKit",
+  "shortName": "WolvenKit",
+  "taglineEs": "Editor open-source de mods para juegos REDengine — la herramienta que los modders avanzados de Cyberpunk usan",
+  "taglineEn": "Open-source mod editor for REDengine games — the tool advanced Cyberpunk modders rely on",
+  "url": "https://wiki.redmodding.org/wolvenkit",
+  "category": "modding-tools",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/WolvenKit/WolvenKit",
+  "license": "GPL-3.0",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["modding", "editor", "datamining", "assets", "redengine"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-11",
+  "logo": "/images/tools/cyberpunk-2077/wolvenkit-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["red4ext", "redmod", "tweak-xl"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "WolvenKit Team",
+    "url": "https://github.com/WolvenKit"
+  }
+}

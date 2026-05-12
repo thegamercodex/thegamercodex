@@ -1,0 +1,30 @@
+{
+  "id": "cyber-engine-tweaks",
+  "name": "Cyber Engine Tweaks",
+  "shortName": "CET",
+  "taglineEs": "Framework de scripting Lua que la mayoría de mods de Cyberpunk 2077 necesitan para funcionar",
+  "taglineEn": "Lua scripting framework that most Cyberpunk 2077 mods depend on to function",
+  "url": "https://wiki.redmodding.org/cyber-engine-tweaks",
+  "category": "modding-tools",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/maximegmd/CyberEngineTweaks",
+  "license": "MIT",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["modding", "framework", "scripting", "lua", "essential-dependency"],
+  "essential": true,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-11",
+  "logo": "/images/tools/cyberpunk-2077/cyber-engine-tweaks-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["red4ext", "redmod", "wolvenkit"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "yamashi (maximegmd) + contributors",
+    "url": "https://github.com/maximegmd/CyberEngineTweaks"
+  }
+}

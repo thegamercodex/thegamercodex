@@ -1,0 +1,28 @@
+{
+  "id": "cp77-modding-community-discord",
+  "name": "Cyberpunk 2077 Modding Community",
+  "shortName": "CP77 Modding Discord",
+  "taglineEs": "Discord más grande de modders de Cyberpunk 2077 — 80k+ miembros, donde se discuten tools, mods y troubleshooting",
+  "taglineEn": "The biggest Cyberpunk 2077 modder Discord — 80k+ members, where tools, mods, and troubleshooting are discussed",
+  "url": "https://discord.com/invite/redmodding",
+  "category": "community",
+  "type": "discord",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows", "macos", "linux", "android", "ios"],
+  "languages": ["en"],
+  "tags": ["community", "discord", "modding", "troubleshooting", "wolvenkit"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-11",
+  "logo": "/images/tools/cyberpunk-2077/cp77-modding-community-discord-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["wolvenkit", "cyber-engine-tweaks", "red4ext"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Cyberpunk 2077 Modding Community",
+    "url": "https://wiki.redmodding.org"
+  }
+}

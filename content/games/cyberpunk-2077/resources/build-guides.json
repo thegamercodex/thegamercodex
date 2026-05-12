@@ -1,0 +1,80 @@
+{
+  "category": "build-guides",
+  "resources": [
+    {
+      "id": "big-dan-10-best-builds-patch-23",
+      "type": "video",
+      "title": "10 BEST BUILDS in Cyberpunk 2077 (Patch 2.3)",
+      "creator": "Big Dan Gaming",
+      "creatorId": "big-dan-gaming",
+      "url": "https://www.youtube.com/watch?v=SVFwwN52pWU",
+      "youtubeId": "SVFwwN52pWU",
+      "language": "en",
+      "duration": "17:25",
+      "publishedDate": "2025-07-15",
+      "thumbnail": "https://i.ytimg.com/vi/SVFwwN52pWU/maxresdefault.jpg",
+      "noteEs": "Big Dan repasa los 10 builds más sólidos del patch 2.3, cubriendo arquetipos diversos (Netrunner, Sandevistan, Tech, Stealth Blade). Ideal para mapear el meta de un vistazo antes de comprometerse a uno específico.",
+      "noteEn": "Big Dan walks through the 10 strongest builds in patch 2.3, covering diverse archetypes (Netrunner, Sandevistan, Tech, Stealth Blade). Great for mapping the meta at a glance before committing to a specific one."
+    },
+    {
+      "id": "envenom-ultimate-stealth-netrunner-23",
+      "type": "video",
+      "title": "The ULTIMATE Stealth Netrunner Build for Cyberpunk 2077! (Update 2.3+)",
+      "creator": "Envenom",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=NxmnsDZmYRE",
+      "youtubeId": "NxmnsDZmYRE",
+      "language": "en",
+      "duration": "8:33",
+      "publishedDate": "2025-03-08",
+      "thumbnail": "https://i.ytimg.com/vi/NxmnsDZmYRE/maxresdefault.jpg",
+      "noteEs": "Build stealth-netrunner enfocada en daño masivo con quickhacks combinados. Conciso (8 min) — entrega perks específicos, cyberware setup y rotación de hacks para clearear encounters sin disparar un tiro.",
+      "noteEn": "Stealth netrunner build focused on massive damage with combined quickhacks. Concise (8 min) — delivers specific perks, cyberware setup, and hack rotation for clearing encounters without firing a shot."
+    },
+    {
+      "id": "solo4players-build-ninja-assassin-v221",
+      "type": "video",
+      "title": "CYBERPUNK 2077 v2.21 | Build Ninja Assassin | Español",
+      "creator": "Solo4Players",
+      "creatorId": "solo4players",
+      "url": "https://www.youtube.com/watch?v=z8N0Y13bIfU",
+      "youtubeId": "z8N0Y13bIfU",
+      "language": "es",
+      "duration": "55:20",
+      "publishedDate": "2025-03-22",
+      "thumbnail": "https://i.ytimg.com/vi/z8N0Y13bIfU/maxresdefault.jpg",
+      "noteEs": "Build extensa de Ninja Assassin en español (55 min) con análisis completo de atributos, perks, cyberware y rotación de combate. Para players que quieren un build de stealth-melee detallado en su idioma.",
+      "noteEn": "Extensive Ninja Assassin build in Spanish (55 min) with full analysis of attributes, perks, cyberware, and combat rotation. For players wanting a detailed stealth-melee build in their language."
+    },
+    {
+      "id": "lechian-build-maxtac",
+      "type": "video",
+      "title": "Build para destrozar a MaxTac | Cyberpunk 2077 Builds en Español",
+      "creator": "Lechian",
+      "creatorId": "lechian",
+      "url": "https://www.youtube.com/watch?v=weiBlJ8c-_E",
+      "youtubeId": "weiBlJ8c-_E",
+      "language": "es",
+      "duration": "10:03",
+      "publishedDate": "2025-01-28",
+      "thumbnail": "https://i.ytimg.com/vi/weiBlJ8c-_E/maxresdefault.jpg",
+      "noteEs": "Build pensada específicamente para enfrentar MaxTac y otros enemigos endgame. Lechian explica setup en 10 min sin filler — perks, weapons y cyberware concretos. Probado contra contenido endgame real.",
+      "noteEn": "Build specifically designed to fight MaxTac and other endgame enemies. Lechian explains setup in 10 min without filler — concrete perks, weapons, and cyberware. Tested against real endgame content."
+    },
+    {
+      "id": "norzza-5-most-broken-builds-2026",
+      "type": "video",
+      "title": "The 5 Most BROKEN Builds in Cyberpunk 2077! | Cyberpunk 2077 Best Builds (Tips & Tricks)",
+      "creator": "NorZZa",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=xdDdgLIVoSg",
+      "youtubeId": "xdDdgLIVoSg",
+      "language": "en",
+      "duration": "22:21",
+      "publishedDate": "2026-01-16",
+      "thumbnail": "https://i.ytimg.com/vi/xdDdgLIVoSg/maxresdefault.jpg",
+      "noteEs": "Selección actualizada (enero 2026) de los 5 builds más rotos del meta post-2.3. Lista variada por arquetipo, con stats concretas y screenshots de damage. Para quien quiere dominar el juego en dificultades altas.",
+      "noteEn": "Updated selection (January 2026) of the 5 most broken builds in the post-2.3 meta. Diverse archetype list with concrete stats and damage screenshots. For players wanting to dominate on high difficulties."
+    }
+  ]
+}

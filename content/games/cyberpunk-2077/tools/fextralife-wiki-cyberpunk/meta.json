@@ -1,0 +1,28 @@
+{
+  "id": "fextralife-wiki-cyberpunk",
+  "name": "Cyberpunk 2077 Wiki (Fextralife)",
+  "shortName": "Fextralife Wiki",
+  "taglineEs": "Wiki comunitaria de referencia para items, builds, side jobs y mecánicas de Cyberpunk 2077",
+  "taglineEn": "Community reference wiki for Cyberpunk 2077 items, builds, side jobs, and mechanics",
+  "url": "https://cyberpunk2077.wiki.fextralife.com/",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "reference", "builds", "items", "lore", "side-jobs"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-11",
+  "logo": "/images/tools/cyberpunk-2077/fextralife-wiki-cyberpunk-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["night-city-interactive-map"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Fextralife",
+    "url": "https://fextralife.com"
+  }
+}

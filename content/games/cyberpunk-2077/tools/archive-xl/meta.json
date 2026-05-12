@@ -1,0 +1,30 @@
+{
+  "id": "archive-xl",
+  "name": "ArchiveXL",
+  "shortName": "ArchiveXL",
+  "taglineEs": "Framework para agregar archives custom — habilita meshes, texturas y assets nuevos sin sobrescribir los del juego",
+  "taglineEn": "Framework for loading custom archives — enables new meshes, textures, and assets without overwriting the game's",
+  "url": "https://github.com/psiberx/cp2077-archive-xl",
+  "category": "modding-tools",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/psiberx/cp2077-archive-xl",
+  "license": "MIT",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["modding", "archives", "framework", "assets", "extension"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-11",
+  "logo": "/images/tools/cyberpunk-2077/archive-xl-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["red4ext", "tweak-xl", "wolvenkit"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "psiberx",
+    "url": "https://github.com/psiberx"
+  }
+}

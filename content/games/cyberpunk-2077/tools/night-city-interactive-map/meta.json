@@ -1,0 +1,28 @@
+{
+  "id": "night-city-interactive-map",
+  "name": "Night City Interactive Map (nightcity.io)",
+  "shortName": "NightCity.io",
+  "taglineEs": "Mapa interactivo de Night City con collectibles, side jobs, vendors y NCPD scanner hustles",
+  "taglineEn": "Night City interactive map with collectibles, side jobs, vendors, and NCPD scanner hustles",
+  "url": "https://www.nightcity.io/",
+  "category": "maps",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["map", "collectibles", "side-jobs", "100-percent", "exploration"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-11",
+  "logo": "/images/tools/cyberpunk-2077/night-city-interactive-map-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["fextralife-wiki-cyberpunk"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "nightcity.io team",
+    "url": "https://www.nightcity.io"
+  }
+}

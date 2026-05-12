@@ -1,0 +1,155 @@
+{
+  "id": "cyberpunk-2077",
+  "name": "Cyberpunk 2077",
+  "shortName": "CP2077",
+  "developer": "CD Projekt RED",
+  "releaseYear": 2020,
+  "officialUrl": "https://www.cyberpunk.net",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+      "appId": "1091500",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "gog",
+      "url": "https://www.gog.com/en/game/cyberpunk_2077",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "epic",
+      "url": "https://store.epicgames.com/en-US/p/cyberpunk-2077",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10003190",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/store/cyberpunk-2077/bx3l8jr8nh23",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": false,
+    "purchaseTypes": ["expansion"],
+    "payToWin": false,
+    "noteEs": "Single-player puro con un solo expansion pago (Phantom Liberty, ~$30 USD). No hay microtransacciones, no hay cosméticos pagos, no hay battle pass — compras el juego una vez y opcionalmente la expansión. CD Projekt RED mantiene el modelo tradicional de juego completo sin DLC fragmentado.",
+    "noteEn": "Pure single-player with a single paid expansion (Phantom Liberty, ~$30 USD). No microtransactions, no paid cosmetics, no battle pass — you buy the game once and optionally the expansion. CD Projekt RED maintains the traditional complete-game model without fragmented DLC."
+  },
+  "platforms": ["windows", "playstation", "xbox"],
+  "genres": ["action-rpg", "open-world", "fps", "cyberpunk", "single-player"],
+  "theme": {
+    "primary": "#1e1a0a",
+    "secondary": "#15140d",
+    "accent": "#fcee0a",
+    "background": "#0a0907",
+    "text": "#f4ecb0"
+  },
+  "logo": "/images/games/cyberpunk-2077-logo.png",
+  "heroImage": "/images/games/cyberpunk-2077-hero.webp",
+  "toolCategories": [
+    {
+      "id": "build-planning",
+      "nameEs": "Planificación de Builds",
+      "nameEn": "Build Planning",
+      "descriptionEs": "Planificadores de perks, atributos y cyberware para diseñar tu V antes de gastar puntos",
+      "descriptionEn": "Perk, attribute and cyberware planners to design your V before spending points",
+      "icon": "🧮"
+    },
+    {
+      "id": "modding-tools",
+      "nameEs": "Herramientas de Modding",
+      "nameEn": "Modding Tools",
+      "descriptionEs": "Frameworks, gestores y editores para crear, instalar y mantener mods en Cyberpunk 2077",
+      "descriptionEn": "Frameworks, managers and editors to create, install and maintain Cyberpunk 2077 mods",
+      "icon": "🛠️"
+    },
+    {
+      "id": "gameplay-mods",
+      "nameEs": "Mods de Gameplay",
+      "nameEn": "Gameplay Mods",
+      "descriptionEs": "Mods que cambian o expanden la experiencia de juego: appearance, photo mode, UI",
+      "descriptionEn": "Mods that change or expand the gameplay experience: appearance, photo mode, UI",
+      "icon": "🎮"
+    },
+    {
+      "id": "save-editing",
+      "nameEs": "Edición de Saves",
+      "nameEn": "Save Editing",
+      "descriptionEs": "Editores de archivos de guardado para modificar stats, inventario y quest flags",
+      "descriptionEn": "Save file editors to modify stats, inventory and quest flags",
+      "icon": "💾"
+    },
+    {
+      "id": "maps",
+      "nameEs": "Mapas Interactivos",
+      "nameEn": "Interactive Maps",
+      "descriptionEs": "Mapas con coleccionables, side jobs, vendors y locaciones de Night City",
+      "descriptionEn": "Maps with collectibles, side jobs, vendors and Night City locations",
+      "icon": "🗺️"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis y bases de datos del contenido de Cyberpunk 2077 y Phantom Liberty",
+      "descriptionEn": "Wikis and content databases for Cyberpunk 2077 and Phantom Liberty",
+      "icon": "📚"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Servidores y hubs donde la comunidad de modders y players intercambia conocimiento",
+      "descriptionEn": "Servers and hubs where the modding and player community share knowledge",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para arrancar en Night City sin perderte ni gastar mal tus puntos",
+      "descriptionEn": "Essential resources to start in Night City without getting lost or misallocating your points",
+      "icon": "🌱"
+    },
+    {
+      "id": "build-guides",
+      "nameEs": "Guías de Builds",
+      "nameEn": "Build Guides",
+      "descriptionEs": "Builds destacadas por arquetipo: netrunner, solo, techie, stealth blade",
+      "descriptionEn": "Featured builds by archetype: netrunner, solo, techie, stealth blade",
+      "icon": "🛡️"
+    },
+    {
+      "id": "patch-and-update-overviews",
+      "nameEs": "Patches y Actualizaciones",
+      "nameEn": "Patches & Updates",
+      "descriptionEs": "Análisis de patches mayores y novedades del juego después del 2.0",
+      "descriptionEn": "Major patch analyses and post-2.0 game updates",
+      "icon": "⚙️"
+    },
+    {
+      "id": "modding-guides",
+      "nameEs": "Guías de Modding",
+      "nameEn": "Modding Guides",
+      "descriptionEs": "Cómo instalar, configurar y solucionar problemas con mods de Cyberpunk 2077",
+      "descriptionEn": "How to install, configure and troubleshoot Cyberpunk 2077 mods",
+      "icon": "🧩"
+    },
+    {
+      "id": "lore-and-deep-dives",
+      "nameEs": "Lore y Análisis",
+      "nameEn": "Lore & Deep Dives",
+      "descriptionEs": "Análisis narrativos, lore de Night City, finales y conexiones con el universo Cyberpunk",
+      "descriptionEn": "Narrative analyses, Night City lore, endings, and connections to the broader Cyberpunk universe",
+      "icon": "📖"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "native-settings-ui",
+  "name": "Native Settings UI",
+  "shortName": "NativeUI",
+  "taglineEs": "Permite que otros mods agreguen sus settings al menú in-game de Cyberpunk 2077 — sin esto, configuras mods con archivos de texto",
+  "taglineEn": "Lets other mods add their settings to Cyberpunk 2077's in-game menu — without this, you configure mods through text files",
+  "url": "https://github.com/justarandomguyintheinternet/CP77_nativeSettings",
+  "category": "gameplay-mods",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/justarandomguyintheinternet/CP77_nativeSettings",
+  "license": "MIT",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["modding", "ui", "settings", "framework", "qol", "essential-mod"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-11",
+  "logo": "/images/tools/cyberpunk-2077/native-settings-ui-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["cyber-engine-tweaks", "appearance-menu-mod"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "justarandomguyintheinternet",
+    "url": "https://github.com/justarandomguyintheinternet"
+  }
+}
