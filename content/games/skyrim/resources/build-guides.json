@@ -1,0 +1,80 @@
+{
+  "category": "build-guides",
+  "resources": [
+    {
+      "id": "fudgemuppet-top-5-archery-builds-skyrim",
+      "type": "video",
+      "title": "Skyrim - Top 5 Archery Builds",
+      "creator": "FudgeMuppet",
+      "creatorId": "fudgemuppet",
+      "url": "https://www.youtube.com/watch?v=tsDeCuf2r2g",
+      "youtubeId": "tsDeCuf2r2g",
+      "language": "en",
+      "duration": "8:18",
+      "publishedDate": "2017-09-10",
+      "thumbnail": "https://i.ytimg.com/vi/tsDeCuf2r2g/maxresdefault.jpg",
+      "noteEs": "Cinco builds distintas centradas en archery, cada una con su propio twist: stealth archer puro, hunter ranger, vampire archer, redguard precision shooter, y nightblade. Para players que quieren variar la fórmula clásica del stealth archer, FudgeMuppet propone alternativas con identidad propia.",
+      "noteEn": "Five distinct archery-focused builds, each with its own twist: pure stealth archer, hunter ranger, vampire archer, redguard precision shooter, and nightblade. For players who want to vary the classic stealth archer formula, FudgeMuppet proposes alternatives with their own identity."
+    },
+    {
+      "id": "fudgemuppet-the-witch-remastered-skyrim-2023",
+      "type": "video",
+      "title": "Skyrim Builds - The Witch - Remastered Classic Build",
+      "creator": "FudgeMuppet",
+      "creatorId": "fudgemuppet",
+      "url": "https://www.youtube.com/watch?v=25qnYMmKJTk",
+      "youtubeId": "25qnYMmKJTk",
+      "language": "en",
+      "duration": "31:00",
+      "publishedDate": "2023-03-12",
+      "thumbnail": "https://i.ytimg.com/vi/25qnYMmKJTk/maxresdefault.jpg",
+      "noteEs": "Build de Witch (bruja) con roleplay completo: backstory, race breton, alchemy + restoration + conjuration, equipment specific, y quest path orientado a Hagravens y Daedric Princes. 31 min de detalle, el estándar editorial de FudgeMuppet aplicado a un archetype clásico de fantasy.",
+      "noteEn": "Witch build with full roleplay: backstory, Breton race, alchemy + restoration + conjuration, specific equipment, and a quest path oriented around Hagravens and Daedric Princes. 31 minutes of detail, FudgeMuppet's editorial standard applied to a classic fantasy archetype."
+    },
+    {
+      "id": "fevvy-op-vampire-build-legendary-skyrim",
+      "type": "video",
+      "title": "Skyrim: How To Make An OVERPOWERED VAMPIRE Build Early on Legendary Difficulty",
+      "creator": "Fevvy",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=T8_o6eRPO2E",
+      "youtubeId": "T8_o6eRPO2E",
+      "language": "en",
+      "duration": "12:44",
+      "publishedDate": "2020-07-14",
+      "thumbnail": "https://i.ytimg.com/vi/T8_o6eRPO2E/maxresdefault.jpg",
+      "noteEs": "Build vampire optimizada para Legendary difficulty desde nivel bajo. Combina vampire lord cosas con illusion + destruction para ser viable en dificultad máxima. Cubre exactamente qué perks tomar, cuándo abrazar vampirism, y qué quests priorizar para potencia rápida.",
+      "noteEn": "Vampire build optimized for Legendary difficulty from low levels. Combines vampire lord forms with illusion + destruction to stay viable on max difficulty. Covers exactly which perks to take, when to embrace vampirism, and which quests to prioritize for fast power."
+    },
+    {
+      "id": "fevvy-stealth-archer-god-build-skyrim-2022",
+      "type": "video",
+      "title": "Skyrim Anniversary: How to Make an OP STEALTH ARCHER GOD Build",
+      "creator": "Fevvy",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=yN1kZHv5l0U",
+      "youtubeId": "yN1kZHv5l0U",
+      "language": "en",
+      "duration": "27:20",
+      "publishedDate": "2022-04-30",
+      "thumbnail": "https://i.ytimg.com/vi/yN1kZHv5l0U/maxresdefault.jpg",
+      "noteEn": "The classic Skyrim build taken to its OP extreme. 27 minutes covering sneak + archery perk synergies, vital enchantments, armor stacking with light armor, and the exact gear progression to one-shot dragons by mid-game. Specific to Anniversary Edition content.",
+      "noteEs": "El build clásico de Skyrim llevado al extremo OP. 27 min cubriendo sinergias de perks de sneak + archery, enchantments vitales, armor stacking con light armor, y la progresión exacta de gear para one-shot dragons a media partida. Específico a contenido Anniversary Edition."
+    },
+    {
+      "id": "el-gerber-60-trucos-veteranos-skyrim-2024",
+      "type": "video",
+      "title": "SKYRIM | 60 TRUCOS QUE SÓLO LOS VETERANOS CONOCEN (RECOPILACIÓN)",
+      "creator": "El Gerber",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=8cqJ5NN5tLA",
+      "youtubeId": "8cqJ5NN5tLA",
+      "language": "es",
+      "duration": "42:08",
+      "publishedDate": "2024-06-29",
+      "thumbnail": "https://i.ytimg.com/vi/8cqJ5NN5tLA/maxresdefault.jpg",
+      "noteEs": "Recopilación masiva de 60 trucos avanzados de Skyrim en español: exploits útiles, mecánicas oscuras, optimizaciones de build, item interactions no documentadas. Para players hispanohablantes que ya pasaron las primeras 100 horas y quieren refinar su gameplay.",
+      "noteEn": "Massive 60-trick compilation for Skyrim in Spanish: useful exploits, obscure mechanics, build optimizations, undocumented item interactions. For Spanish-speaking players past their first 100 hours who want to refine their gameplay."
+    }
+  ]
+}

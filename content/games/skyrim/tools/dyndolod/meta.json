@@ -1,0 +1,28 @@
+{
+  "id": "dyndolod",
+  "name": "DynDOLOD",
+  "shortName": "DynDOLOD",
+  "taglineEs": "Generador dinámico de LODs distantes: hace que el horizonte de Skyrim deje de verse plano",
+  "taglineEn": "Dynamic distant LOD generator: makes Skyrim's horizon stop looking flat",
+  "url": "https://www.nexusmods.com/skyrimspecialedition/mods/32382",
+  "category": "modding-utilities",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["lod", "graphics", "performance", "world"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/skyrim/dyndolod-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["sseedit", "cathedral-assets-optimizer"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Sheson",
+    "url": "https://dyndolod.info"
+  }
+}

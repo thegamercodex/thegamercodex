@@ -1,0 +1,28 @@
+{
+  "id": "nexus-mods-skyrim",
+  "name": "Nexus Mods (Skyrim Special Edition)",
+  "shortName": "Nexus Mods",
+  "taglineEs": "El hub principal de mods de Skyrim SE/AE — 80.000+ mods con ratings, comments y descargas trackeadas",
+  "taglineEn": "The main Skyrim SE/AE mod hub — 80,000+ mods with ratings, comments, and tracked downloads",
+  "url": "https://www.nexusmods.com/skyrimspecialedition",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["mod-hub", "downloads", "community", "ratings", "nexus"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/skyrim/nexus-mods-skyrim-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["vortex-mod-manager", "mod-organizer-2"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Nexus Mods",
+    "url": "https://www.nexusmods.com"
+  }
+}

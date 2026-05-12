@@ -1,0 +1,80 @@
+{
+  "category": "lore-and-deep-dives",
+  "resources": [
+    {
+      "id": "fudgemuppet-dwemer-more-complicated-skyrim-2026",
+      "type": "video",
+      "title": "Skyrim's Dwemer are more complicated than you think...",
+      "creator": "FudgeMuppet",
+      "creatorId": "fudgemuppet",
+      "url": "https://www.youtube.com/watch?v=UuD7H1RbLDI",
+      "youtubeId": "UuD7H1RbLDI",
+      "language": "en",
+      "duration": "2:59:26",
+      "publishedDate": "2026-02-27",
+      "thumbnail": "https://i.ytimg.com/vi/UuD7H1RbLDI/maxresdefault.jpg",
+      "noteEs": "Análisis exhaustivo de FudgeMuppet sobre los Dwemer — la raza de elfos desaparecida cuyas ruinas pueblan Skyrim. Casi 3 horas de lore: cosmogonía, tecnología (animunculi, Numidium), filosofía, posibles teorías sobre su desaparición. La fuente más completa disponible sobre el misterio central del universo Elder Scrolls.",
+      "noteEn": "FudgeMuppet's exhaustive analysis of the Dwemer — the vanished elf race whose ruins populate Skyrim. Nearly 3 hours of lore: cosmogony, technology (animunculi, Numidium), philosophy, possible theories about their disappearance. The most complete source available on the central Elder Scrolls mystery."
+    },
+    {
+      "id": "fudgemuppet-thalmor-weirder-skyrim-2025",
+      "type": "video",
+      "title": "Skyrim's Thalmor are Weirder Than You Think....",
+      "creator": "FudgeMuppet",
+      "creatorId": "fudgemuppet",
+      "url": "https://www.youtube.com/watch?v=Fws3lOrjwrI",
+      "youtubeId": "Fws3lOrjwrI",
+      "language": "en",
+      "duration": "1:47:10",
+      "publishedDate": "2025-10-19",
+      "thumbnail": "https://i.ytimg.com/vi/Fws3lOrjwrI/maxresdefault.jpg",
+      "noteEs": "Análisis de los Thalmor — los altmer que controlan el Aldmeri Dominion y son los antagonistas geopolíticos de la storyline civil war. FudgeMuppet desentraña sus motivaciones teológicas (la conexión con la Aedra Auriel, el Cero Sumario), no solo políticas. 1h 47min de subtexto que cambia cómo lees la Civil War.",
+      "noteEn": "Analysis of the Thalmor — the altmer who control the Aldmeri Dominion and are the geopolitical antagonists of the civil-war storyline. FudgeMuppet unpacks their theological motivations (the connection to the Aedra Auriel, the Zero Sum), not just political ones. 1h 47min of subtext that changes how you read the Civil War."
+    },
+    {
+      "id": "the-epic-nate-315-strangest-ruin-skyrim-2026",
+      "type": "video",
+      "title": "The Curious Case of Skyrim's Strangest Ruin",
+      "creator": "EpicNate",
+      "creatorId": "the-epic-nate-315",
+      "url": "https://www.youtube.com/watch?v=CJUDVZa6Jx8",
+      "youtubeId": "CJUDVZa6Jx8",
+      "language": "en",
+      "duration": "1:03:47",
+      "publishedDate": "2026-04-21",
+      "thumbnail": "https://i.ytimg.com/vi/CJUDVZa6Jx8/maxresdefault.jpg",
+      "noteEs": "Deep dive de TheEpicNate315 sobre una ruina específica de Skyrim con detalles que la mayoría de players nunca notan: environmental storytelling, NPCs ocultos, lore implícito en las disposiciones de objetos. 1 hora de análisis del estilo característico de Nate — detalle obsesivo, narración pausada.",
+      "noteEn": "TheEpicNate315's deep dive into a specific Skyrim ruin with details most players never notice: environmental storytelling, hidden NPCs, lore implied by object arrangements. 1 hour of analysis in Nate's signature style — obsessive detail, slow narration."
+    },
+    {
+      "id": "fudgemuppet-daedric-princes-explained-skyrim",
+      "type": "video",
+      "title": "Skyrim - Daedric Princes Explained | Elder Scrolls Lore",
+      "creator": "FudgeMuppet",
+      "creatorId": "fudgemuppet",
+      "url": "https://www.youtube.com/watch?v=5sQPOWt7LTM",
+      "youtubeId": "5sQPOWt7LTM",
+      "language": "en",
+      "duration": "28:44",
+      "publishedDate": "2022-08-26",
+      "thumbnail": "https://i.ytimg.com/vi/5sQPOWt7LTM/maxresdefault.jpg",
+      "noteEs": "Resumen accesible de los 17 Daedric Princes y su rol en Skyrim — Azura, Boethiah, Hermaeus Mora, Mehrunes Dagon, Molag Bal, Sheogorath, Hircine y el resto. Punto de entrada ideal antes de meterse en deep dives específicos por Prince. 28 min, bien producido.",
+      "noteEn": "Accessible summary of the 17 Daedric Princes and their role in Skyrim — Azura, Boethiah, Hermaeus Mora, Mehrunes Dagon, Molag Bal, Sheogorath, Hircine, and the rest. Ideal entry point before diving into Prince-specific deep dives. 28 min, well-produced."
+    },
+    {
+      "id": "drewmora-hermaeus-mora-lying-elder-scrolls-2023",
+      "type": "video",
+      "title": "Hermaeus Mora Was Lying to Us... - The Daedric Prince's Best Kept Secret",
+      "creator": "Drewmora",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=eGuXUbHiMdA",
+      "youtubeId": "eGuXUbHiMdA",
+      "language": "en",
+      "duration": "1:08:11",
+      "publishedDate": "2023-06-07",
+      "thumbnail": "https://i.ytimg.com/vi/eGuXUbHiMdA/maxresdefault.jpg",
+      "noteEs": "Drewmora dedica 1h 8min a desentrañar las inconsistencias de Hermaeus Mora en sus dialogues, los Black Books y la DLC Dragonborn. Argumenta que el Prince of Knowledge esconde su agenda real detrás de promesas a Miraak y al Dragonborn. Análisis textual cuidadoso, con referencias específicas al material in-game.",
+      "noteEn": "Drewmora spends 1h 8min unpacking Hermaeus Mora's inconsistencies across his dialogues, the Black Books, and the Dragonborn DLC. He argues the Prince of Knowledge hides his real agenda behind promises to Miraak and the Dragonborn. Careful textual analysis with specific references to in-game material."
+    }
+  ]
+}

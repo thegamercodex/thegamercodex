@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "master-neloth-starting-guide-skyrim-2025",
+      "type": "video",
+      "title": "Skyrim Starting Guide + Tips and Tricks (2025)",
+      "creator": "Master Neloth",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ovcsVSc0Jh0",
+      "youtubeId": "ovcsVSc0Jh0",
+      "language": "en",
+      "duration": "20:27",
+      "publishedDate": "2025-01-03",
+      "thumbnail": "https://i.ytimg.com/vi/ovcsVSc0Jh0/maxresdefault.jpg",
+      "noteEs": "Guía actualizada para arrancar Skyrim Anniversary Edition con tips concretos: distribución temprana de atributos, qué skills subir primero, follower más útil del prólogo y dónde priorizar perks. Formato pausado, ~20 min, sin spoilers de main quest.",
+      "noteEn": "Updated guide to start Skyrim Anniversary Edition with concrete tips: early attribute distribution, which skills to level first, the most useful prologue follower, and where to prioritize perks. Calm format, ~20 min, no main-quest spoilers."
+    },
+    {
+      "id": "vress-games-33-tips-skyrim-2024",
+      "type": "video",
+      "title": "Skyrim Guide - 33 Tips for Total Beginners [Elder Scrolls Guide]",
+      "creator": "Vress Games",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=er07mD_StAo",
+      "youtubeId": "er07mD_StAo",
+      "language": "en",
+      "duration": "22:04",
+      "publishedDate": "2024-12-10",
+      "thumbnail": "https://i.ytimg.com/vi/er07mD_StAo/maxresdefault.jpg",
+      "noteEs": "33 tips estructurados para players totalmente nuevos en Skyrim. Cubre quality-of-life que el juego no explica: cómo manejar el encumbrance, qué hacer con los gemas raras temprano, cuándo aceptar quests de facciones. Ritmo rápido y denso.",
+      "noteEn": "33 structured tips for total Skyrim newcomers. Covers quality-of-life the game doesn't explain: managing encumbrance, what to do with rare gems early, when to accept faction quests. Fast, dense pace."
+    },
+    {
+      "id": "vress-games-ultimate-skyrim-beginners-guide-2025",
+      "type": "video",
+      "title": "The Ultimate Skyrim Beginners Guide",
+      "creator": "Vress Games",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=YDbq6coXmvM",
+      "youtubeId": "YDbq6coXmvM",
+      "language": "en",
+      "duration": "1:36:35",
+      "publishedDate": "2025-04-30",
+      "thumbnail": "https://i.ytimg.com/vi/YDbq6coXmvM/maxresdefault.jpg",
+      "noteEs": "Guía exhaustiva de 1.5 horas que cubre prácticamente todo lo que un nuevo player necesita saber: stats, skills, perks por archetype, facciones, economía, smithing y enchanting básico, exploración. Largo pero útil para tener en segundo monitor durante las primeras 20 horas de juego.",
+      "noteEn": "Exhaustive 1.5-hour guide covering nearly everything a new player needs: stats, skills, perks per archetype, factions, economy, basic smithing and enchanting, exploration. Long but useful to keep on a second monitor during the first 20 hours of gameplay."
+    },
+    {
+      "id": "dunkan-winter-newbies-principiantes-skyrim-2024",
+      "type": "video",
+      "title": "Newbies y Principiantes, esto deben saber ANTES de comenzar Skyrim!",
+      "creator": "Dunkan Winter",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=b84mwWSxblg",
+      "youtubeId": "b84mwWSxblg",
+      "language": "es",
+      "duration": "8:05",
+      "publishedDate": "2024-11-22",
+      "thumbnail": "https://i.ytimg.com/vi/b84mwWSxblg/maxresdefault.jpg",
+      "noteEs": "Guía corta en español para players nuevos: qué versión comprar (LE vs SE vs AE), expectativas razonables del juego, errores típicos que cometen los newbies, y decisiones tempranas que importan. 8 min directos sin relleno.",
+      "noteEn": "Short Spanish-language guide for new players: which version to buy (LE vs SE vs AE), reasonable expectations, typical newbie mistakes, and early decisions that matter. Direct 8 min, no filler."
+    },
+    {
+      "id": "devilghost-16-cosas-skyrim-2025",
+      "type": "video",
+      "title": "16 Cosas Que Debes HACER Al Empezar En Skyrim",
+      "creator": "DevilGhost",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=84i_zi3_lOo",
+      "youtubeId": "84i_zi3_lOo",
+      "language": "es",
+      "duration": "9:36",
+      "publishedDate": "2025-08-08",
+      "thumbnail": "https://i.ytimg.com/vi/84i_zi3_lOo/maxresdefault.jpg",
+      "noteEs": "Lista de 16 cosas concretas para hacer durante las primeras horas de Skyrim, en español. Incluye locations específicas con loot útil, NPCs que dar early para builds buenas, y mecánicas que el tutorial omite. Ritmo dinámico, formato lista.",
+      "noteEn": "List of 16 concrete things to do during your first hours in Skyrim, in Spanish. Includes specific locations with useful loot, early NPCs to talk to for good builds, and mechanics the tutorial skips. Dynamic pace, list format."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "sseedit",
+  "name": "SSEEdit (xEdit for Skyrim SE)",
+  "shortName": "SSEEdit",
+  "taglineEs": "Editor de records y herramienta de patches: lo que xEdit es para Bethesda games, aplicado a Skyrim SE",
+  "taglineEn": "Record editor and patcher: what xEdit is to Bethesda games, applied to Skyrim SE",
+  "url": "https://www.nexusmods.com/skyrimspecialedition/mods/164",
+  "category": "modding-utilities",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/TES5Edit/TES5Edit",
+  "license": "Custom (open)",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["editor", "patches", "conflicts", "esp", "esm", "xedit"],
+  "essential": true,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/skyrim/sseedit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["loot", "mod-organizer-2", "synthesis"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "xEdit Team (ElminsterAU & contributors)",
+    "url": "https://github.com/TES5Edit/TES5Edit"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "skse64",
+  "name": "Skyrim Script Extender (SKSE64)",
+  "shortName": "SKSE64",
+  "taglineEs": "El extensor de scripts que la mayoría de mods avanzados de Skyrim requieren para funcionar",
+  "taglineEn": "The script extender that most advanced Skyrim mods require to function",
+  "url": "https://skse.silverlock.org",
+  "category": "modding-frameworks",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["framework", "script-extender", "dependency", "runtime"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/skyrim/skse64-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["address-library-skse", "skyui", "mod-organizer-2"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "SKSE Team",
+    "url": "https://skse.silverlock.org"
+  }
+}

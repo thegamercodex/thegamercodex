@@ -1,0 +1,28 @@
+{
+  "id": "skyrim-calculator",
+  "name": "Skyrim Calculator",
+  "shortName": "Skyrim Calculator",
+  "taglineEs": "Planificador web de skills, perks y stats para diseñar tu build antes de gastar perk points",
+  "taglineEn": "Web planner for skills, perks, and stats to design your build before spending perk points",
+  "url": "https://skyrimcalculator.com",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-planner", "perks", "skills", "calculator"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/skyrim/skyrim-calculator-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["uesp"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Skyrim Calculator Team",
+    "url": "https://skyrimcalculator.com"
+  }
+}

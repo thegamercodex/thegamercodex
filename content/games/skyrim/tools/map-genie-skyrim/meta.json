@@ -1,0 +1,28 @@
+{
+  "id": "map-genie-skyrim",
+  "name": "Map Genie Skyrim Interactive Map",
+  "shortName": "Map Genie",
+  "taglineEs": "Mapa interactivo de Skyrim con shouts, dragons, treasure maps, smithing materials y todo coleccionable",
+  "taglineEn": "Interactive Skyrim map with shouts, dragons, treasure maps, smithing materials, and every collectible",
+  "url": "https://mapgenie.io/skyrim",
+  "category": "maps",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["map", "collectibles", "tracker", "exploration"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/skyrim/map-genie-skyrim-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["uesp"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Map Genie",
+    "url": "https://mapgenie.io"
+  }
+}

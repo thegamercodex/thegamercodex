@@ -1,0 +1,45 @@
+{
+  "id": "brodual",
+  "name": "Brodual",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2012,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Brodual",
+      "url": "https://www.youtube.com/@Brodual",
+      "channelId": "UCMQkYC9HUcPTertReHILVOA",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "mod-showcases",
+    "weekly-mod-roundups",
+    "skyrim-special-edition",
+    "quality-curation",
+    "long-form-reviews"
+  ],
+  "games": ["skyrim"],
+  "contentTypes": ["videos", "mod-reviews", "showcases"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Brodual es uno de los canales de Skyrim Mods más consistentes desde 2012 — formato calmado, voiceover claro, foco en mods de calidad ya verificados antes de mostrarlos. Sus videos son típicamente \"Top 10 mods de [categoría]\" o \"Best new mods this week\". Más enfocado a curation que a opinion fuerte. Útil para descubrir mods que no conocías sin tener que filtrar 50 candidatos vos mismo en Nexus. La curaduría está orientada principalmente a Skyrim SE/AE.",
+  "noteEn": "Brodual is one of the most consistent Skyrim Mods channels since 2012 — calm format, clear voiceover, focused on quality-checked mods before showcasing them. Videos are typically \"Top 10 mods for [category]\" or \"Best new mods this week\". More focused on curation than strong opinion. Useful for discovering mods you didn't know without filtering 50 candidates yourself on Nexus. Curation skews toward Skyrim SE/AE.",
+  "highlightsEs": [
+    "Roundups regulares de Best New Mods que destacan releases recientes worth-watching",
+    "Top 10 por categoría: weapons, armor, magic, follower mods, immersion",
+    "Pre-screening editorial — los mods que muestran ya pasaron filtro de funcionar y no romper",
+    "Estilo más narrativo que demostrativo, útil para evaluar antes de instalar",
+    "Catálogo histórico de mods de Skyrim que actúa como índice retrospectivo"
+  ],
+  "highlightsEn": [
+    "Regular Best New Mods roundups highlighting recent releases worth watching",
+    "Top 10 by category: weapons, armor, magic, follower mods, immersion",
+    "Editorial pre-screening — the mods they showcase already passed a filter for working and not breaking",
+    "More narrative than demonstrative style, useful for evaluating before installing",
+    "Historical catalog of Skyrim mods that doubles as a retrospective index"
+  ],
+  "avatar": "/images/creators/brodual-avatar.jpg",
+  "banner": "/images/creators/brodual-banner.jpg"
+}

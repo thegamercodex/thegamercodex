@@ -1,0 +1,36 @@
+{
+  "id": "mod-organizer-2",
+  "name": "Mod Organizer 2",
+  "shortName": "MO2",
+  "taglineEs": "Mod manager con virtual file system — instala 500 mods sin escribir un solo archivo a la carpeta del juego",
+  "taglineEn": "Mod manager with virtual file system — install 500 mods without writing a single file to the game folder",
+  "url": "https://www.nexusmods.com/skyrimspecialedition/mods/6194",
+  "category": "mod-managers",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/ModOrganizer2/modorganizer",
+  "license": "GPL-3.0",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["mod-manager", "vfs", "load-order", "profiles"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/skyrim/mod-organizer-2-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["skse64", "loot", "sseedit"],
+  "alternatives": ["vortex-mod-manager"],
+  "createdBy": {
+    "name": "Tannin & MO2 Team",
+    "url": "https://github.com/ModOrganizer2/modorganizer"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "cyberpunk-2077", "url": "https://github.com/ModOrganizer2/modorganizer" }
+    ]
+  }
+}

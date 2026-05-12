@@ -1,0 +1,45 @@
+{
+  "id": "gamerpoets",
+  "name": "GamerPoets",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2013,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@GamerPoets",
+      "url": "https://www.youtube.com/@GamerPoets",
+      "channelId": "UCF1Qkw7OUG4JmIrw1QI-oWg",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "modding-tutorials",
+    "tool-walkthroughs",
+    "skyrim-special-edition",
+    "fallout-modding",
+    "patient-instruction"
+  ],
+  "games": ["skyrim"],
+  "contentTypes": ["videos", "tutorials", "modding"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "GamerPoets es referencia absoluta para tutoriales de modding de Skyrim y Fallout. Estilo de instrucción tranquilo, completo y orientado a explicar el porqué, no solo el qué. Cubre todos los pilares de modding moderno: MO2, Vortex, SSEEdit (xEdit), Nemesis, BodySlide, DynDOLOD, Wabbajack. Sus videos suelen tener 15-40 min porque no asume conocimiento previo. Si vas a aprender una tool específica del modding stack de Skyrim, su tutorial probablemente es el más claro disponible.",
+  "noteEn": "GamerPoets is the absolute reference for Skyrim and Fallout modding tutorials. A calm, complete instruction style focused on explaining the why, not just the what. Covers every pillar of modern modding: MO2, Vortex, SSEEdit (xEdit), Nemesis, BodySlide, DynDOLOD, Wabbajack. Videos typically run 15-40 minutes because he doesn't assume prior knowledge. If you're learning a specific tool from Skyrim's modding stack, his tutorial is probably the clearest available.",
+  "highlightsEs": [
+    "Tutoriales de xEdit (SSEEdit) que se usan como referencia obligada en r/skyrimmods y en guías de modlists Wabbajack",
+    "Serie de Mod Organizer 2 desde cero — cómo instalar, configurar profiles, manejar conflicts",
+    "Walkthroughs de Wabbajack instalando modlists curadas como Lorerim y Living Skyrim",
+    "Cobertura de tools de modding nuevas a medida que aparecen (Synthesis, Pandora, Open Animation Replacer)",
+    "Foco editorial en no romper tu setup — siempre explica backups y rollback"
+  ],
+  "highlightsEn": [
+    "xEdit (SSEEdit) tutorials used as the required reference on r/skyrimmods and Wabbajack modlist guides",
+    "Mod Organizer 2 series from scratch — how to install, configure profiles, handle conflicts",
+    "Wabbajack walkthroughs installing curated modlists like Lorerim and Living Skyrim",
+    "Coverage of new modding tools as they appear (Synthesis, Pandora, Open Animation Replacer)",
+    "Editorial focus on not breaking your setup — always explains backups and rollback"
+  ],
+  "avatar": "/images/creators/gamerpoets-avatar.jpg",
+  "banner": "/images/creators/gamerpoets-banner.jpg"
+}

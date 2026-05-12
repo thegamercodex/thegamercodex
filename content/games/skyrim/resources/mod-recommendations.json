@@ -1,0 +1,80 @@
+{
+  "category": "mod-recommendations",
+  "resources": [
+    {
+      "id": "redshift-every-skyrim-mod-2024-2025",
+      "type": "video",
+      "title": "Every Skyrim Mod You Should Be Using in 2024 (& 2025)",
+      "creator": "redshift",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=r2SjyhZ9Yps",
+      "youtubeId": "r2SjyhZ9Yps",
+      "language": "en",
+      "duration": "19:40",
+      "publishedDate": "2024-02-27",
+      "thumbnail": "https://i.ytimg.com/vi/r2SjyhZ9Yps/maxresdefault.jpg",
+      "noteEs": "Lista curada de mods esenciales para Skyrim SE/AE en 2024-2025. redshift cubre los pilares (graphics, gameplay, QoL) sin caer en listas inflatadas de 100+ mods. Es un buen baseline para armar una modlist sólida sin que te abrume el catálogo de Nexus.",
+      "noteEn": "Curated list of essential Skyrim SE/AE mods for 2024-2025. redshift covers the pillars (graphics, gameplay, QoL) without falling into bloated 100+ mod lists. A good baseline for building a solid modlist without being overwhelmed by Nexus' catalog."
+    },
+    {
+      "id": "bards-college-graduate-best-skyrim-mods-2024-hall-of-fame",
+      "type": "video",
+      "title": "The Best Skyrim Mods of the Year (2024 Hall of Fame)",
+      "creator": "Bards College Graduate",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=joTgFvqcV5o",
+      "youtubeId": "joTgFvqcV5o",
+      "language": "en",
+      "duration": "34:41",
+      "publishedDate": "2024-12-22",
+      "thumbnail": "https://i.ytimg.com/vi/joTgFvqcV5o/maxresdefault.jpg",
+      "noteEs": "Hall of Fame anual de los mejores mods de Skyrim publicados en 2024. Bards College Graduate organiza por categoría (combat, NPCs, world, magic) y explica por qué cada uno destacó frente a alternativas. 34 min con showcases visuales claros.",
+      "noteEn": "Annual Hall of Fame of the best Skyrim mods published in 2024. Bards College Graduate organizes by category (combat, NPCs, world, magic) and explains why each stood out against alternatives. 34 min with clear visual showcases."
+    },
+    {
+      "id": "softgaming-best-skyrim-mods-2024",
+      "type": "video",
+      "title": "The BEST Skyrim Mods of 2024!",
+      "creator": "SoftGaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=KFqrMClcIdc",
+      "youtubeId": "KFqrMClcIdc",
+      "language": "en",
+      "duration": "20:57",
+      "publishedDate": "2024-12-20",
+      "thumbnail": "https://i.ytimg.com/vi/KFqrMClcIdc/maxresdefault.jpg",
+      "noteEs": "Roundup de los mejores mods que aparecieron en 2024 — selección con foco en mods recientes, no clásicos ya conocidos. Útil para mantener tu modlist al día con releases del año en curso. 20 min, formato ágil.",
+      "noteEn": "Roundup of the best mods released in 2024 — selection focused on recent mods, not already-known classics. Useful for keeping your modlist current with the year's releases. 20 min, brisk format."
+    },
+    {
+      "id": "brodual-stealth-overhaul-skyrim",
+      "type": "video",
+      "title": "Skyrim Mods: The Stealth Overhaul",
+      "creator": "Brodual",
+      "creatorId": "brodual",
+      "url": "https://www.youtube.com/watch?v=mSKtezWD8w4",
+      "youtubeId": "mSKtezWD8w4",
+      "language": "en",
+      "duration": "9:21",
+      "publishedDate": "2020-10-18",
+      "thumbnail": "https://i.ytimg.com/vi/mSKtezWD8w4/maxresdefault.jpg",
+      "noteEs": "Brodual revisa mods que rehacen el sistema de sigilo de Skyrim — detection AI, sneak skill changes, distance-based perception. Los mods cubiertos siguen vigentes para SE/AE en 2025 y forman parte estándar de modlists stealth-focused. Curaduría editorial cuidadosa, sin clickbait.",
+      "noteEn": "Brodual reviews mods that rebuild Skyrim's stealth system — detection AI, sneak skill changes, distance-based perception. The featured mods remain valid for SE/AE in 2025 and are a standard part of stealth-focused modlists. Careful editorial curation, no clickbait."
+    },
+    {
+      "id": "heavy-burns-100-skyrim-mods-last-year-2025",
+      "type": "video",
+      "title": "Over 100 Of The BEST Skyrim Mods Of The Last Year!",
+      "creator": "Heavy Burns",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=q3U3_rmb8QM",
+      "youtubeId": "q3U3_rmb8QM",
+      "language": "en",
+      "duration": "1:15:38",
+      "publishedDate": "2025-10-28",
+      "thumbnail": "https://i.ytimg.com/vi/q3U3_rmb8QM/maxresdefault.jpg",
+      "noteEs": "Compilado masivo de Heavy Burns con 100+ mods destacados de 2024-2025, organizado por categoría con breves demos visuales. 1h 15min es largo pero el formato es scrollable: el index del video permite saltar a cada categoría (combat, graphics, NPCs, quests). Útil como catálogo de descubrimiento.",
+      "noteEn": "Heavy Burns' massive compilation of 100+ standout mods from 2024-2025, organized by category with short visual demos. 1h 15min is long but the format is scrollable: the video index lets you jump to each category (combat, graphics, NPCs, quests). Useful as a discovery catalog."
+    }
+  ]
+}

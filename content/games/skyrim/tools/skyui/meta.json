@@ -1,0 +1,28 @@
+{
+  "id": "skyui",
+  "name": "SkyUI",
+  "shortName": "SkyUI",
+  "taglineEs": "Overhaul de UI con sorting, filtros y el Mod Configuration Menu que cientos de mods usan",
+  "taglineEn": "UI overhaul with sorting, filters, and the Mod Configuration Menu hundreds of mods build on",
+  "url": "https://www.nexusmods.com/skyrimspecialedition/mods/12604",
+  "category": "modding-frameworks",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en", "es"],
+  "tags": ["ui", "interface", "mcm", "framework", "inventory"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/skyrim/skyui-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["skse64", "address-library-skse"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "SkyUI Team",
+    "url": "https://www.nexusmods.com/skyrimspecialedition/mods/12604"
+  }
+}
