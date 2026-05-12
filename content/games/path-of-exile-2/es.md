@@ -28,12 +28,13 @@ Desde el lanzamiento en EA, GGG ha publicado patches grandes con nuevas ascenden
 - **0.1** — Lanzamiento EA, primera campaña, primeras 6 ascendencias.
 - **0.2** — Cruel Difficulty, ajustes de loot, primera liga.
 - **0.3 / 0.4** — Last of the Druids: nueva ascendencia Druid, mecánica Fate of the Vaal, expansión del endgame.
+- **0.5** — Return of the Ancients (anunciado en mayo 2026, patch notes el 21 de mayo, lanzamiento de liga el 29 de mayo): nueva liga **Runes of Aldur** con Ezomyte Runesmithing (NPC Farrow y Remnants con slots de runas), 2 ascendencias nuevas (una para Huntress y una para Monk) y endgame redesign. GGG lo presentó como el último parche mayor antes del 1.0 full release, esperado tras ExileCon en noviembre.
 
-Las versiones 0.x indican que el juego está en desarrollo activo y los players deben esperar cambios significativos entre patches.
+Las versiones 0.x indican que el juego está en desarrollo activo y los players deben esperar cambios significativos entre patches. Con 0.5 cerrando el ciclo EA, el codex va a marcar contenido nuevo a medida que la liga avance.
 
 ## Para quién es esta sección
 
-Si venís de PoE 1 y querés probar PoE 2, vas a encontrar mucho de lo que aprendiste útil pero el ritmo y muchos detalles cambian. Empezá por **guías para principiantes** PoE 2 — no asumas que tu conocimiento PoE 1 transfiere directo.
+Si vienes de PoE 1 y quieres probar PoE 2, vas a encontrar mucho de lo que aprendiste útil pero el ritmo y muchos detalles cambian. Empieza por **guías para principiantes** PoE 2 — no asumas que tu conocimiento PoE 1 transfiere directo.
 
 Si recién entrás al género, PoE 2 es más accesible que PoE 1 en sus primeras horas (combat más legible, campaña con mejor pacing) pero igual de profundo en endgame.
 

@@ -28,8 +28,9 @@ Since EA launch, GGG has shipped major patches with new ascendancies, league mec
 - **0.1** — EA launch, first campaign, first 6 ascendancies.
 - **0.2** — Cruel Difficulty, loot adjustments, first league.
 - **0.3 / 0.4** — Last of the Druids: new Druid ascendancy, Fate of the Vaal mechanic, endgame expansion.
+- **0.5** — Return of the Ancients (announced May 2026, patch notes May 21, league launch May 29): new **Runes of Aldur** league with Ezomyte Runesmithing (NPC Farrow and Remnants with rune slots), 2 new ascendancies (one for Huntress and one for Monk), and an endgame redesign. GGG framed it as the last major patch before the 1.0 full release, expected after ExileCon in November.
 
-The 0.x versioning signals the game is in active development and players should expect significant changes between patches.
+The 0.x versioning signals the game is in active development and players should expect significant changes between patches. With 0.5 closing out the EA cycle, the codex will flag new content as the league progresses.
 
 ## Who this section is for
 

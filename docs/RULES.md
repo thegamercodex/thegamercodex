@@ -86,7 +86,8 @@ Sin matches = limpio. Cualquier match es un bug y bloquea el commit.
 - Tool ids son únicos globalmente (entre creators y entre tools), pero al colocarse bajo un game subfolder de assets el riesgo de colisión queda absorbido por el path completo. Si una tool aparece en múltiples juegos vía `multiGame`, los otros games referencian el path de su game primario (no se duplican los archivos).
 - Otros tipos de asset (game hero/logo, creator avatar/banner) **no usan subcarpetas** — viven flat en `games/` y `creators/` respectivamente. La regla de subcarpeta es solo para tools por el volumen alto.
 - Hero del juego **≥1500px de ancho** (cap visual del banner). Imágenes más chicas se ven pixeladas en monitores ultrawide.
-- **Formatos aceptados** (cualquier asset del proyecto: hero, logo, avatar, banner, screenshot): `.png`, `.jpg`, `.svg`, `.webp`. Para hero images preferir `.webp` por peso/calidad. Para logos preferir `.png` o `.svg` con fondo transparente. `.jpg` queda como opción válida cuando solo se tiene fuente JPEG.
+- **Hero del juego SIEMPRE en `.webp`** (sin excepciones). Si la fuente es JPG/PNG, convertir a WebP antes de subir (ej: `cwebp -q 85 source.jpg -o public/images/games/<game-id>-hero.webp`). El `heroImage` del `meta.json` siempre apunta a `.webp`. Razón: AVIF/WebP fallback automático del Next image optimizer da el mejor balance peso/calidad, y los heroes son los assets más pesados del sitio.
+- **Formatos aceptados** (otros assets — logo, avatar, banner, screenshot): `.png`, `.jpg`, `.svg`, `.webp`. Para logos preferir `.png` o `.svg` con fondo transparente. `.jpg` queda como opción válida cuando solo se tiene fuente JPEG.
 - Si un asset no existe, los componentes hacen fallback automático (initial letter, sección omitida) gracias a `existsSync`. **NO añadir imágenes rotas** a producción.
 - `next.config.ts` tiene `images.remotePatterns` para `**.ytimg.com` (thumbnails de YouTube). Otros dominios externos requieren agregar pattern.
 
