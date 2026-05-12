@@ -1,8 +1,8 @@
-import Image from "next/image";
 import { getLocale, getTranslations } from "next-intl/server";
 import { ExternalLink, Heart } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { getGames } from "@/lib/content";
+import { BrandImage } from "@/components/BrandImage";
 import { SponsorSlot } from "@/components/SponsorSlot";
 import { activeSponsor } from "@/lib/sponsor";
 import type { Locale } from "@/types";
@@ -21,11 +21,9 @@ export async function Footer() {
         <div className="grid grid-cols-1 gap-10 sm:grid-cols-12 sm:gap-8">
           <div className="flex flex-col gap-4 sm:col-span-5">
             <div className="flex items-center gap-4">
-              <Image
-                src="/images/tgc-logo.png"
+              <BrandImage
+                variant="logoSquare"
                 alt=""
-                width={1254}
-                height={1254}
                 sizes="80px"
                 className="h-20 w-20 rounded-2xl shadow-md"
               />

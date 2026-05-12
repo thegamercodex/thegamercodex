@@ -32,6 +32,56 @@
   --muted-foreground: var(--foreground-muted);
 }
 
+/* Chrome theme: Medieval — warm dark, parchment text, muted gold accent.
+   Overrides chrome tokens only. --highlight and semantic colors (success/warning/danger/info)
+   stay universal so endorsements and state colors read consistently across themes.
+   Game-page wrappers in [game]/layout.tsx override these again, so game theming still wins
+   inside game pages. */
+:root[data-chrome-theme="medieval"] {
+  --background: #0a0807;
+  --background-secondary: #1c140a;
+  --background-tertiary: #2a1f10;
+
+  --foreground: #e8d8a8;
+  --foreground-muted: #a89878;
+  --foreground-subtle: #6e5f44;
+
+  --border: #3a2c1a;
+  --border-subtle: #1f1610;
+  --border-strong: #5a4730;
+
+  --accent: #d4a857;
+  --accent-hover: #e6bb6a;
+  --accent-subtle: #8a6a30;
+  --accent-foreground: #1c140a;
+}
+
+/* Candle-lit ambient wash for the medieval theme. Three soft warm radial gradients
+   anchored to the viewport (background-attachment: fixed) so they feel like ambient
+   light rather than spots painted on the page. Game-page wrappers don't apply this,
+   so inside [game] routes the game's own atmosphere takes over. */
+:root[data-chrome-theme="medieval"] body {
+  background-color: var(--background);
+  background-image:
+    radial-gradient(
+      ellipse 50vw 40vh at 8% 12%,
+      rgba(212, 168, 87, 0.1) 0%,
+      transparent 60%
+    ),
+    radial-gradient(
+      ellipse 45vw 35vh at 92% 88%,
+      rgba(196, 100, 40, 0.08) 0%,
+      transparent 65%
+    ),
+    radial-gradient(
+      ellipse 80vw 60vh at 50% 50%,
+      rgba(212, 168, 87, 0.035) 0%,
+      transparent 70%
+    );
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-background-secondary: var(--background-secondary);

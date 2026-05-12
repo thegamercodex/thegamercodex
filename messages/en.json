@@ -110,7 +110,13 @@
     "creatorsList": "Creators",
     "resources": "Resources",
     "about": "About",
-    "switchLanguage": "Switch language"
+    "switchLanguage": "Switch language",
+    "switchTheme": "Switch theme",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "menu": "Menu",
+    "language": "Language",
+    "theme": "Theme"
   },
   "home": {
     "heroTitle": "The definitive codex for gamers",

@@ -78,17 +78,17 @@ export async function GameHero({ game, locale }: GameHeroProps) {
             </div>
           )}
           <p
-            className="text-xs font-semibold uppercase tracking-[0.3em]"
+            className="text-[10px] font-semibold uppercase tracking-[0.2em] sm:text-xs sm:tracking-[0.3em]"
             style={{ color: theme.accent }}
           >
             {game.shortName} · {game.developer} · {game.releaseYear}
           </p>
-          <h1 className="mt-2 max-w-3xl text-4xl font-semibold leading-[1.05] tracking-tight sm:text-5xl">
+          <h1 className="mt-1.5 max-w-3xl text-2xl font-semibold leading-[1.1] tracking-tight sm:mt-2 sm:text-5xl sm:leading-[1.05]">
             {game.name}
           </h1>
           {tagline && (
             <p
-              className="mt-3 max-w-2xl text-lg font-medium"
+              className="mt-2 max-w-2xl text-sm font-medium leading-snug sm:mt-3 sm:text-lg sm:leading-normal"
               style={{ color: theme.text }}
             >
               {tagline}

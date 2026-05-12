@@ -1,6 +1,6 @@
-import Image from "next/image";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import type { Metadata } from "next";
+import { BrandImage } from "@/components/BrandImage";
 import { GameCard } from "@/components/GameCard";
 import { StatsStrip } from "@/components/StatsStrip";
 import { getGames } from "@/lib/content";
@@ -61,11 +61,9 @@ export default async function HomePage({
                 "radial-gradient(ellipse at center, var(--accent-subtle) 0%, transparent 65%)",
             }}
           />
-          <Image
-            src="/images/tgc-banner-v2.png"
+          <BrandImage
+            variant="bannerLanding"
             alt={t("bannerAlt")}
-            width={2172}
-            height={724}
             priority
             sizes="(min-width: 768px) 768px, 100vw"
             className="h-auto w-full"

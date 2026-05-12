@@ -1,7 +1,9 @@
-import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { LanguageSwitcher } from "./LanguageSwitcher";
+import { ChromeThemeSwitcher } from "./ChromeThemeSwitcher";
+import { HeaderMobileMenu } from "./HeaderMobileMenu";
+import { BrandImage } from "./BrandImage";
 
 export async function Header() {
   const t = await getTranslations("common");
@@ -14,20 +16,23 @@ export async function Header() {
           aria-label={t("siteName")}
           className="group inline-flex items-center transition-opacity duration-200 hover:opacity-90"
         >
-          <Image
-            src="/images/tgc-logo-horizontal-tight.png"
+          <BrandImage
+            variant="logoHorizontal"
             alt={t("siteName")}
-            width={2087}
-            height={248}
             priority
             sizes="(min-width: 640px) 340px, 260px"
             className="h-9 w-auto sm:h-10"
           />
         </Link>
 
-        <div className="flex items-center gap-2">
+        {/* Inline switchers on sm+ screens. Below sm, the hamburger menu
+            (HeaderMobileMenu) is shown instead and these are hidden. */}
+        <div className="hidden items-center gap-2 sm:flex">
+          <ChromeThemeSwitcher />
           <LanguageSwitcher />
         </div>
+
+        <HeaderMobileMenu />
       </div>
     </header>
   );

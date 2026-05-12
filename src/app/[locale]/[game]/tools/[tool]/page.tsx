@@ -182,7 +182,7 @@ export default async function ToolPage({ params }: PageParams) {
   const shareTitle = `${tool.name} — ${game.name}`;
 
   return (
-    <div className="mx-auto w-full max-w-6xl px-6 py-10">
+    <div className="mx-auto w-full max-w-6xl px-6 py-6 sm:py-10">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -191,7 +191,7 @@ export default async function ToolPage({ params }: PageParams) {
       />
       <nav
         aria-label="Breadcrumb"
-        className="mb-8 flex items-center gap-1.5 text-xs text-muted-foreground"
+        className="mb-6 flex items-center gap-1.5 text-xs text-muted-foreground sm:mb-8"
       >
         <Link href="/" className="transition-colors hover:text-foreground">
           {tNav("games")}
@@ -214,7 +214,7 @@ export default async function ToolPage({ params }: PageParams) {
         <span className="text-foreground">{tool.name}</span>
       </nav>
 
-      <header className="mb-10 flex flex-col gap-5 border-b border-border pb-10">
+      <header className="mb-8 flex flex-col gap-4 border-b border-border pb-8 sm:mb-10 sm:gap-5 sm:pb-10">
         <div className="flex items-start gap-4">
           <div
             className="flex h-16 w-16 shrink-0 items-center justify-center overflow-hidden rounded-xl border-2 bg-muted text-2xl font-semibold sm:h-20 sm:w-20"
@@ -235,30 +235,30 @@ export default async function ToolPage({ params }: PageParams) {
           <div className="min-w-0 flex-1 pt-1">
             {category && (
               <p
-                className="text-xs font-semibold uppercase tracking-[0.2em]"
+                className="text-[10px] font-semibold uppercase tracking-[0.15em] sm:text-xs sm:tracking-[0.2em]"
                 style={{ color: accentVar }}
               >
                 {category.icon && <span className="mr-1">{category.icon}</span>}
                 {categoryName(category, loc)}
               </p>
             )}
-            <h1 className="mt-1.5 flex flex-wrap items-center gap-x-2 text-3xl font-semibold leading-tight tracking-tight sm:text-4xl">
+            <h1 className="mt-1.5 flex flex-wrap items-center gap-x-2 text-2xl font-semibold leading-tight tracking-tight sm:text-4xl">
               <span>{tool.name}</span>
               {tool.essential && (
                 <Star
-                  className="h-5 w-5 fill-current text-highlight"
+                  className="h-4 w-4 fill-current text-highlight sm:h-5 sm:w-5"
                   aria-label={t("essential")}
                 />
               )}
               {tool.official && (
                 <BadgeCheck
-                  className="h-5 w-5 text-sky-400"
+                  className="h-4 w-4 text-sky-400 sm:h-5 sm:w-5"
                   aria-label={t("official")}
                 />
               )}
             </h1>
             {tagline && (
-              <p className="mt-2 text-lg leading-relaxed text-muted-foreground">
+              <p className="mt-2 text-sm leading-snug text-muted-foreground sm:text-lg sm:leading-relaxed">
                 {tagline}
               </p>
             )}

@@ -9,7 +9,18 @@ import { Footer } from "@/components/Footer";
 import { ScrollToTop } from "@/components/ScrollToTop";
 import { routing } from "@/i18n/routing";
 import { siteUrl } from "@/lib/site";
+import {
+  CHROME_THEME_ATTRIBUTE,
+  CHROME_THEME_STORAGE_KEY,
+  DEFAULT_CHROME_THEME,
+} from "@/lib/themes";
 import "../globals.css";
+
+const chromeThemeInitScript = `(function(){try{var k=${JSON.stringify(
+  CHROME_THEME_STORAGE_KEY
+)};var d=${JSON.stringify(DEFAULT_CHROME_THEME)};var t=localStorage.getItem(k)||d;if(t&&t!==d){document.documentElement.setAttribute(${JSON.stringify(
+  CHROME_THEME_ATTRIBUTE
+)},t);}}catch(e){}})();`;
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -82,7 +93,13 @@ export default async function LocaleLayout({
     <html
       lang={locale}
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      suppressHydrationWarning
     >
+      <head>
+        <script
+          dangerouslySetInnerHTML={{ __html: chromeThemeInitScript }}
+        />
+      </head>
       <body className="min-h-full flex flex-col bg-background text-foreground">
         <NextIntlClientProvider>
           <Header />

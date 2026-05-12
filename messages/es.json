@@ -110,7 +110,13 @@
     "creatorsList": "Creadores",
     "resources": "Recursos",
     "about": "Acerca de",
-    "switchLanguage": "Cambiar idioma"
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "menu": "Menú",
+    "language": "Idioma",
+    "theme": "Tema"
   },
   "home": {
     "heroTitle": "El compendio definitivo para gamers",
