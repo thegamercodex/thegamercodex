@@ -38,4 +38,4 @@ Since we don't collect personal data that identifies you, there is no profile or
 
 ## Changes to this policy
 
-If we update this page, we'll log it in the project's public [changelog](/en/changelog).
+The *Last updated* date at the top of the page reflects the most recent revision. Since the site is open source, you can also review the [full change history on GitHub](https://github.com/thegamercodex/thegamercodex/commits/main/content/pages/privacy/en.md).

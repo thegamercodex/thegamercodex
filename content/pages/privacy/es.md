@@ -38,4 +38,4 @@ Como no recopilamos datos personales que te identifiquen, no hay perfil ni cuent
 
 ## Cambios a esta política
 
-Si actualizamos esta página, lo dejamos registrado en el [changelog público](/es/changelog) del proyecto.
+La fecha de *Última actualización* al inicio de la página indica la revisión más reciente. Como el sitio es código abierto, también puedes consultar el [historial completo de cambios en GitHub](https://github.com/thegamercodex/thegamercodex/commits/main/content/pages/privacy/es.md).

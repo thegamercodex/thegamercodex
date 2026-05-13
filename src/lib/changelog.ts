@@ -6,9 +6,9 @@ import { parseDateOnly } from "@/lib/format";
 
 /**
  * Granular event recorded against a changelog entry. The changelog is
- * scoped intentionally to CRUD on the four cataloged entity types — games,
- * tools, creators, and resources. UI improvements, infrastructure work,
- * and other technical changes are not tracked here.
+ * scoped intentionally to CRUD on the five cataloged entity types — games,
+ * tools, creators, resources, and comparisons. UI improvements,
+ * infrastructure work, and other technical changes are not tracked here.
  *
  * Each entry's `events` array represents the net delta versus the
  * previously shipped state — a tool that was added on dev and reverted
