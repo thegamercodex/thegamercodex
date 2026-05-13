@@ -31,7 +31,7 @@ Frente a **STEP Modifications forum**: STEP es excelente para guides estructurad
 
 ## Para qué la usa la gente
 
-**Troubleshooting de crashes en vivo**: posteás tu crash log + load order, alguien responde con sugerencias.
+**Troubleshooting de crashes en vivo**: posteas tu crash log + load order, alguien responde con sugerencias.
 
 **Discutir modlist choices**: "¿uso Requiem o SkyRem para overhaul?" tiene mejor debate en Discord que en Reddit.
 
@@ -51,7 +51,7 @@ Si no quieres instalar Discord o usar la web app, no aplica.
 
 Si te abruma el volumen de mensajes (Discord activo puede tener 100s de mensajes/hora), Reddit te va a ser más manejable.
 
-Si no hablás inglés con fluidez, la mayoría de chat es inglés.
+Si no hablas inglés con fluidez, la mayoría de chat es inglés.
 
 ## Cómo se usa en la práctica
 
@@ -69,17 +69,17 @@ Si no hablás inglés con fluidez, la mayoría de chat es inglés.
 
 **Moderation puede ser estricta**. Las rules son consistentes pero pueden parecer arbitrarias en casos edge.
 
-**No reemplaza documentación**. Si preguntás algo cubierto en el FAQ o guías estándar, te van a redirigir (educadamente o no).
+**No reemplaza documentación**. Si preguntas algo cubierto en el FAQ o guías estándar, te van a redirigir (educadamente o no).
 
 **Activity skewed a English-speaking timezones**. Players en otros timezones pueden tener menos respuesta en sus horas.
 
 ## Cómo empezar
 
-1. Asegurate que tienes cuenta Discord. Si no, regístrate gratis en `discord.com`.
+1. Asegúrate que tienes cuenta Discord. Si no, regístrate gratis en `discord.com`.
 2. Click el invite `discord.gg/skyrimmods`.
 3. Acepta las rules.
 4. Lee los pinned messages en cada channel que vayas a usar — frecuentemente tienen el FAQ del topic.
 5. Antes de preguntar, intenta search del Discord (Ctrl+F dentro de un channel) para ver si tu pregunta ya fue respondida.
-6. Cuando preguntes, incluí: versión de Skyrim, mod manager, modlist (Wabbajack o custom), crash log si aplica.
+6. Cuando preguntes, incluye: versión de Skyrim, mod manager, modlist (Wabbajack o custom), crash log si aplica.
 
 Para players serios sobre modding, el Discord se vuelve referencia diaria.

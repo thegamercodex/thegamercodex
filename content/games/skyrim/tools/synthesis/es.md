@@ -32,7 +32,7 @@ Frente a **patches manuales con SSEEdit**: para tareas one-off, SSEEdit manual e
 
 ## Para qué la usa la gente
 
-**Leveled list integration**: los patchers como "ENB Light" o "Skyrim Souls patch" distribuyen items/efectos a todos los enemies relevantes sin que vos tengas que tocar cada leveled list.
+**Leveled list integration**: los patchers como "ENB Light" o "Skyrim Souls patch" distribuyen items/efectos a todos los enemies relevantes sin que tú tengas que tocar cada leveled list.
 
 **NPC Face Patcher**: cuando tienes varios mods que modifican apariencia de NPCs, Synthesis genera un patch que toma la versión más alta en load order para cada NPC sin que tengas que armarlo manual.
 
@@ -82,6 +82,6 @@ Cada vez que cambies mods relevantes, vas a rerun Synthesis para regenerar el pa
 3. Extrae en `C:\Modding\Synthesis\`.
 4. Configura Skyrim Special Edition como game.
 5. Empieza con un patcher simple: "Outfit Patcher" o "Race Patcher" son entry-friendly.
-6. Run → mové output a MO2 → testear in-game.
+6. Run → mueve output a MO2 → testear in-game.
 
 Para deep dive, el wiki en `mutagen-modding.github.io/Synthesis` cubre cómo escribir tus propios patchers.

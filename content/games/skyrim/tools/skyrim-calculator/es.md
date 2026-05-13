@@ -17,7 +17,7 @@ Skyrim tiene 18 skill trees y ~250 perks. Cuando empiezas un playthrough, sabes 
 - ¿Qué perks específicos rinden más en early vs late game?
 - ¿Cómo combinar 2-3 skill trees sin overspending?
 
-Sin un planner, terminás gastando perks reactivamente y al level 40 descubres que no tienes stamina suficiente o que un perk crítico de Conjuration requiere otro que olvidaste.
+Sin un planner, terminas gastando perks reactivamente y al level 40 descubres que no tienes stamina suficiente o que un perk crítico de Conjuration requiere otro que olvidaste.
 
 Skyrim Calculator resuelve eso al permitir planning visual antes de comprometerte.
 
@@ -47,7 +47,7 @@ Si tu modlist incluye Ordinator, Vokrii, SkyRem o cualquier perk overhaul, Skyri
 
 Si juegas Requiem (overhaul masivo de balance), Skyrim Calculator no refleja Requiem's economy.
 
-Si te gusta improvisar y no planeás builds, Calculator es overhead.
+Si te gusta improvisar y no planeas builds, Calculator es overhead.
 
 ## Cómo se usa en la práctica
 
@@ -60,7 +60,7 @@ Si te gusta improvisar y no planeás builds, Calculator es overhead.
 
 ## Limitaciones honestas
 
-**Solo vanilla**. No soporta perk overhauls como Ordinator. Si modeás perks, Calculator no aplica.
+**Solo vanilla**. No soporta perk overhauls como Ordinator. Si modeas perks, Calculator no aplica.
 
 **No simula combat real**. Te dice qué perks tomar, no si tu build será viable contra dragons de Master difficulty. Eso requiere experiencia real.
 
@@ -75,8 +75,8 @@ Si te gusta improvisar y no planeás builds, Calculator es overhead.
 1. Abre `skyrimcalculator.com`.
 2. Decidí qué playstyle quieres: mage, warrior, thief, hybrid.
 3. Marca perks objetivo en cada tree relevante.
-4. Verifica que tu total de perks gastados es razonable para el level que planeás.
+4. Verifica que tu total de perks gastados es razonable para el level que planeas.
 5. Configura atributos según necesites.
 6. Copia el URL y guarda.
 
-Para vanilla Skyrim, es el go-to. Si modeás perks, busca calculators específicos del mod (ej: Ordinator tiene su propio fan-made planner).
+Para vanilla Skyrim, es el go-to. Si modeas perks, busca calculators específicos del mod (ej: Ordinator tiene su propio fan-made planner).

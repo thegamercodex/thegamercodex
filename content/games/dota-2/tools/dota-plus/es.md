@@ -1,14 +1,14 @@
 ---
 title: "Dota Plus"
 description: "Suscripción oficial de Valve dentro del cliente de Dota 2: Plus Assistant con sugerencias de items, hero leveling con rewards, stats de performance personal, cosméticos exclusivos y currency Plus Shards."
-quickTake: "Si querés asistencia integrada directamente en el cliente oficial sin overlays de terceros, esta es la opción. ~$4/mes e integrada a la experiencia oficial de Dota 2 sin telemetría a terceros."
+quickTake: "Si quieres asistencia integrada directamente en el cliente oficial sin overlays de terceros, esta es la opción. ~$4/mes e integrada a la experiencia oficial de Dota 2 sin telemetría a terceros."
 ---
 
 ## Qué es
 
 Dota Plus es un servicio de suscripción paga ofrecido por Valve directamente dentro del cliente de Dota 2. Activo desde 2018, reemplazó el viejo modelo de Battle Pass como mecanismo de monetización continua de Valve para usuarios que quieren una experiencia enriquecida. La suscripción cuesta ~$4/mes con descuentos por comprar 6 o 12 meses.
 
-Suscribirse desbloquea cinco pilares principales: **Plus Assistant** (sugerencias de items y habilidades durante el match basadas en tu héroe y build actual), **Hero Leveling** (cada héroe tiene niveles Plus con rewards cosméticos a medida que lo jugás), **Plus Stats** (stats personales avanzados accesibles desde el cliente), **Plus Shards** (currency exclusiva in-game para items cosméticos especiales) y **Plus Discord & Forums** (comunidades exclusivas para suscriptores).
+Suscribirse desbloquea cinco pilares principales: **Plus Assistant** (sugerencias de items y habilidades durante el match basadas en tu héroe y build actual), **Hero Leveling** (cada héroe tiene niveles Plus con rewards cosméticos a medida que lo juegas), **Plus Stats** (stats personales avanzados accesibles desde el cliente), **Plus Shards** (currency exclusiva in-game para items cosméticos especiales) y **Plus Discord & Forums** (comunidades exclusivas para suscriptores).
 
 Es un servicio oficial de Valve, distribuido dentro del cliente de Dota 2 sin dependencia de terceros como Overwolf. No hay telemetría enviada a servidores externos; toda la data queda en el ecosistema de Steam.
 
@@ -20,9 +20,9 @@ La integración también es más elegante: las features se sienten nativas del j
 
 ## Para qué la usa la gente
 
-**Plus Assistant durante matches**: mientras jugás, el cliente oficial expone sugerencias de items y skills basadas en tu héroe y estado actual. Menos agresivo visualmente que los overlays de Overwolf, integrado a la UI propia del juego.
+**Plus Assistant durante matches**: mientras juegas, el cliente oficial expone sugerencias de items y skills basadas en tu héroe y estado actual. Menos agresivo visualmente que los overlays de Overwolf, integrado a la UI propia del juego.
 
-**Hero leveling para rewards cosméticos**: cada héroe tiene niveles Plus (hasta nivel 35-50). A medida que lo jugás, vas desbloqueando efectos cosméticos exclusivos para ese héroe (kill effects, efectos de level up, emotes exclusivos). Mecánica de colección de largo plazo.
+**Hero leveling para rewards cosméticos**: cada héroe tiene niveles Plus (hasta nivel 35-50). A medida que lo juegas, vas desbloqueando efectos cosméticos exclusivos para ese héroe (kill effects, efectos de level up, emotes exclusivos). Mecánica de colección de largo plazo.
 
 **Stats personales de performance**: desde el cliente, acceso a stats detallados de tu performance: win rate por héroe, comparativas de performance contra jugadores de tu bracket, tendencias de MMR.
 
@@ -48,7 +48,7 @@ Dota Plus tiene valor claro pero no es para todos:
 
 3. Una vez activa, Plus Assistant se activa automáticamente en tus matches. Verás sugerencias en el panel de buyback y skill tree.
 
-4. Cada héroe que jugás gana niveles Plus. Trackearlo desde la pestaña Plus.
+4. Cada héroe que juegas gana niveles Plus. Trackearlo desde la pestaña Plus.
 
 5. Plus Shards se acumulan semanalmente con tasks (matar X héroes con este héroe, ganar 3 partidas ranked, etc.). Redimirlos en la tienda Plus por cosméticos.
 
@@ -62,11 +62,11 @@ Dota Plus tiene valor claro pero no es para todos:
 
 **Plus Assistant ha sido criticado por ser demasiado genérico**: las primeras versiones del assistant ofrecían sugerencias muy básicas. Ha mejorado con el tiempo pero todavía no es tan profundo como un coaching tool de tercero.
 
-**Rewards cosméticos enfocados en hardcore players**: los hero levels van hasta 35-50 cada uno, lo cual asume que jugás ciertos héroes cientos de veces. Para jugadores que experimentan y no mainan héroes, mucho de esa mecánica es irrelevante.
+**Rewards cosméticos enfocados en hardcore players**: los hero levels van hasta 35-50 cada uno, lo cual asume que juegas ciertos héroes cientos de veces. Para jugadores que experimentan y no mainan héroes, mucho de esa mecánica es irrelevante.
 
 **No tiene análisis de replays profundo**: Plus no incluye tools de análisis de replays sofisticadas. Para eso, complementar con Dotabuff (TrueSight) o OpenDota.
 
-**La suscripción no transfiere entre cuentas**: ligada a la cuenta de Steam específica. Si tenés múltiples cuentas, tendrías que suscribirte separadamente.
+**La suscripción no transfiere entre cuentas**: ligada a la cuenta de Steam específica. Si tienes múltiples cuentas, tendrías que suscribirte separadamente.
 
 **Compite con features bundle en terceros**: Dota Coach y DotaPlus by Overwolf ofrecen features similares gratis. El premium justificado para Dota Plus es la integración oficial sin terceros.
 
@@ -76,10 +76,10 @@ Dota Plus tiene valor claro pero no es para todos:
 
 2. Leer la descripción de features y ofertas de cosméticos actuales — Valve rota cosméticos featured regularmente.
 
-3. Decidir basado en volumen mensual: si jugás 10+ matches/semana y valorás features integradas al cliente, la suscripción tiene valor. Si menos, evaluar alternativas gratis.
+3. Decidir basado en volumen mensual: si juegas 10+ matches/semana y valoras features integradas al cliente, la suscripción tiene valor. Si menos, evaluar alternativas gratis.
 
 4. Suscribirse inicialmente por un mes para probar. Plus Shards se acumulan desde el día uno y el assistant se activa inmediatamente.
 
-5. Trackear tu hero leveling y stats en la pestaña Plus. Si después de un mes te encontrás usando las features regularmente, posiblemente extender a 6 meses por el descuento.
+5. Trackear tu hero leveling y stats en la pestaña Plus. Si después de un mes te encuentras usando las features regularmente, posiblemente extender a 6 meses por el descuento.
 
-6. Si decidís que no la justificás, cancelar vía Steam y usar Dota Coach o DotaPlus by Overwolf como alternativas gratis.
+6. Si decides que no la justificas, cancelar vía Steam y usar Dota Coach o DotaPlus by Overwolf como alternativas gratis.

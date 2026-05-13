@@ -1,7 +1,7 @@
 ---
 title: "Prosettings.net Valorant"
 description: "Base de datos exhaustiva de configuración de pros de Valorant: sensitivity, mouse, monitor, video settings, periféricos."
-quickTake: "Si querés copiar la config completa de un pro — no solo el crosshair sino también sens, monitor settings, mouse específico — Prosettings es la enciclopedia."
+quickTake: "Si quieres copiar la config completa de un pro — no solo el crosshair sino también sens, monitor settings, mouse específico — Prosettings es la enciclopedia."
 ---
 
 ## Qué es
@@ -12,7 +12,7 @@ Para cada pro relevante, una página con: sensitivity, DPI, polling rate, eDPI c
 
 ## Qué problema resuelve
 
-Cuando un pro tira un highlight insano y querés "jugar como él", no es solo el crosshair — la combinación de sens + DPI + monitor refresh + grip de mouse afecta cómo se siente el aim. Prosettings te da el setup completo, no fragmentos.
+Cuando un pro tira un highlight insano y quieres "jugar como él", no es solo el crosshair — la combinación de sens + DPI + monitor refresh + grip de mouse afecta cómo se siente el aim. Prosettings te da el setup completo, no fragmentos.
 
 También resuelve el meta de "qué peripherals usan los pros". Cuando estás considerando comprar mouse nuevo, ver cuáles usan los top 10 de VCT informa la decisión más que reviews comerciales.
 
@@ -28,7 +28,7 @@ Frente a inputlag.com o rtings.com (sites técnicos de hardware), Prosettings es
 
 **Copiar config completa de un pro**: Sentinels TenZ usa X mouse a Y DPI con Z sens. Replicar todo eso requiere lookup por categoría — Prosettings consolida.
 
-**Decidir hardware**: ¿Vale la pena un monitor 360Hz? Mirá qué usan los pros. ¿Es Logitech G Pro X Superlight el meta de mice? Top 50 lista lo confirma o no.
+**Decidir hardware**: ¿Vale la pena un monitor 360Hz? Mira qué usan los pros. ¿Es Logitech G Pro X Superlight el meta de mice? Top 50 lista lo confirma o no.
 
 **Calcular eDPI propio**: la página tiene calculator para sens × DPI = eDPI, métrica útil para comparar entre pros que usan setups distintos.
 
@@ -38,15 +38,15 @@ Frente a inputlag.com o rtings.com (sites técnicos de hardware), Prosettings es
 
 ## Para quién NO es esta herramienta
 
-Si solo querés crosshair, ValorantCC es más rápido y específico.
+Si solo quieres crosshair, ValorantCC es más rápido y específico.
 
-Si jugás casual y no buscás optimizar setup, Prosettings es overkill — tu skill no está limitado por hardware todavía.
+Si juegas casual y no buscas optimizar setup, Prosettings es overkill — tu skill no está limitado por hardware todavía.
 
-Si buscás reviews técnicas de hardware (latency, sensor accuracy), Rtings/Hardware Unboxed son mejores. Prosettings no testea, solo reporta.
+Si buscas reviews técnicas de hardware (latency, sensor accuracy), Rtings/Hardware Unboxed son mejores. Prosettings no testea, solo reporta.
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `prosettings.net/games/valorant`. Sin login.
+1. Entras a `prosettings.net/games/valorant`. Sin login.
 2. Lista de pros en home, filtrable por team y región.
 3. Click en un pro para su página completa con todas las categorías.
 4. Para calculadora eDPI: pestaña "eDPI Calculator".
@@ -60,12 +60,12 @@ Si buscás reviews técnicas de hardware (latency, sensor accuracy), Rtings/Hard
 
 **Affiliate links sesgan recomendaciones**. Aunque Prosettings es relativamente honesto, links a Amazon de mice/keyboards monetizan. Algunos "rankings" pueden tener sesgo comercial sutil.
 
-**No personaliza por skill level**. Un setup de pro no necesariamente conviene a alguien con 200 horas. Prosettings te muestra qué usan, no qué te conviene a vos.
+**No personaliza por skill level**. Un setup de pro no necesariamente conviene a alguien con 200 horas. Prosettings te muestra qué usan, no qué te conviene a tú.
 
 **Solo en inglés**. Sin localización.
 
-**No incluye personality/playstyle context**. Sabés que TenZ usa X DPI, pero no por qué. Para el "por qué", entrevistas o videos del propio pro son mejor source.
+**No incluye personality/playstyle context**. Sabes que TenZ usa X DPI, pero no por qué. Para el "por qué", entrevistas o videos del propio pro son mejor source.
 
 ## Cómo empezar
 
-Entrá a `prosettings.net/games/valorant`. Buscá un pro que admires. Anotá sens, DPI, eDPI. Calculá tu eDPI actual y comparalo. Si la diferencia es grande, no copies directo — bajá la sens del pro a algo más cerca de tu actual y subí gradual. Cambios de sens grandes destruyen aim sin que mejoren progresivamente.
+Entra a `prosettings.net/games/valorant`. Busca un pro que admires. Anota sens, DPI, eDPI. Calculá tu eDPI actual y comparalo. Si la diferencia es grande, no copies directo — baja la sens del pro a algo más cerca de tu actual y sube gradual. Cambios de sens grandes destruyen aim sin que mejoren progresivamente.

@@ -1,7 +1,7 @@
 ---
 title: "Liquipedia Dota 2"
 description: "Wiki comunitaria especializada en esports de Dota 2: resultados de torneos, brackets, rosters de equipos, historia de jugadores, prize pools y cronología completa de la scene competitiva."
-quickTake: "Si seguís la scene pro, esta es tu referencia. Liquipedia es a esports de Dota 2 lo que Wikipedia es a la historia: imperfecta pero autoritativa, gratis y la única fuente realmente completa."
+quickTake: "Si sigues la scene pro, esta es tu referencia. Liquipedia es a esports de Dota 2 lo que Wikipedia es a la historia: imperfecta pero autoritativa, gratis y la única fuente realmente completa."
 ---
 
 ## Qué es
@@ -22,13 +22,13 @@ Para un fan del esports o nuevo seguidor de la scene pro, Liquipedia responde pr
 
 **Tracking de torneos activos**: mientras el DPC está en temporada o un major está sucediendo, Liquipedia tiene el bracket actualizado prácticamente en tiempo real, con resultados de partidas, VODs post-match y links a streams del broadcast.
 
-**Investigación de jugadores y equipos**: cada jugador pro tiene página con historia completa de equipos, ganancias acumuladas, achievements y héroes signature. Útil cuando querés "wikipediar" a un jugador del que acabás de escuchar en un cast.
+**Investigación de jugadores y equipos**: cada jugador pro tiene página con historia completa de equipos, ganancias acumuladas, achievements y héroes signature. Útil cuando quieres "wikipediar" a un jugador del que acabas de escuchar en un cast.
 
 **Consulta de calendario esports**: el sitio tiene un calendario global con todos los torneos próximos, qualifiers regionales y fechas importantes. Mucho más completo que cualquier fuente oficial.
 
 **Investigación histórica**: leer sobre TI 2013, la era de los super-rosters de Liquid, Wings Gaming, la era post-bootcamp. Todo eso está documentado.
 
-**Referencia de héroes y items por meta**: aunque datdota es más analítica, Liquipedia tiene páginas descriptivas de cada héroe e item, además de mecánicas clave — útil cuando necesitás info técnica gruesa sobre algo que viste en pro play.
+**Referencia de héroes y items por meta**: aunque datdota es más analítica, Liquipedia tiene páginas descriptivas de cada héroe e item, además de mecánicas clave — útil cuando necesitas info técnica gruesa sobre algo que viste en pro play.
 
 ## Para quién NO es esta herramienta
 
@@ -74,6 +74,6 @@ No se necesita registro para browsear. Ir a la página de inicio y explorar.
 
 3. Para investigación de pregunta específica (un jugador, un equipo, un torneo de hace años), usar el search en la parte superior de la página. Liquipedia tiene búsqueda interna que funciona bien.
 
-4. Si querés contribuir, registrar una cuenta y leer las guías editoriales. La comunidad es receptiva con editores nuevos que sigan las convenciones.
+4. Si quieres contribuir, registrar una cuenta y leer las guías editoriales. La comunidad es receptiva con editores nuevos que sigan las convenciones.
 
 5. Combinar con datdota para análisis cuantitativo: Liquipedia da contexto editorial, datdota da profundidad de data. Juntas son el toolkit pro de Dota 2 completo.

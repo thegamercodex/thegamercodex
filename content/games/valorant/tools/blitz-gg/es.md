@@ -1,7 +1,7 @@
 ---
 title: "Blitz.gg Valorant"
 description: "Aplicación desktop con overlay en partida más sitio web con stats, agent guides y tier lists para Valorant."
-quickTake: "Si querés info en partida sin alt-tab, Blitz es la opción. El overlay no es perfecto pero es lo más cómodo cuando estás aprendiendo a leer mapas y composiciones."
+quickTake: "Si quieres info en partida sin alt-tab, Blitz es la opción. El overlay no es perfecto pero es lo más cómodo cuando estás aprendiendo a leer mapas y composiciones."
 ---
 
 ## Qué es
@@ -32,13 +32,13 @@ Si tu prioridad es info en partida, Blitz. Si es análisis post-partida, Tracker
 
 **Tier lists del meta vigente**: Blitz mantiene tier lists semanales por mapa y rank tier. Útil para decidir qué agente practicar.
 
-**Match history accesible desde desktop**: sin abrir browser, abrís Blitz y ves tu historial reciente.
+**Match history accesible desde desktop**: sin abrir browser, abres Blitz y ves tu historial reciente.
 
 **Pre-made loadouts y crosshairs**: el cliente sugiere crosshairs populares y permite copy-paste rápido al juego.
 
 ## Para quién NO es esta herramienta
 
-Si jugás en consola (PS5/Xbox), Blitz no tiene overlay para esas plataformas. La web sigue funcionando pero la propuesta principal se diluye.
+Si juegas en consola (PS5/Xbox), Blitz no tiene overlay para esas plataformas. La web sigue funcionando pero la propuesta principal se diluye.
 
 Si te molestan apps de terceros corriendo en background, o tu PC es modesto, el overlay consume RAM/CPU continuo.
 
@@ -46,9 +46,9 @@ Si tu único uso es match history web, Tracker.gg cubre eso con mejor UI sin ins
 
 ## Cómo se usa en la práctica
 
-1. Bajás el cliente desde `blitz.gg/valorant`. Instalación normal Windows.
+1. Bajas el cliente desde `blitz.gg/valorant`. Instalación normal Windows.
 2. Login con cuenta Blitz (puede ser via Riot OAuth).
-3. Abrís Valorant. Blitz detecta el cliente y monta el overlay automáticamente.
+3. Abres Valorant. Blitz detecta el cliente y monta el overlay automáticamente.
 4. Durante agent select, el overlay muestra tier list, comp suggestions, opponent stats si están públicos.
 5. Post-partida, popup con resumen.
 
@@ -66,4 +66,4 @@ Si tu único uso es match history web, Tracker.gg cubre eso con mejor UI sin ins
 
 ## Cómo empezar
 
-Si jugás en PC, descargá el cliente y dejalo correr en background. La próxima vez que entres a Valorant, el overlay aparece solo en agent select. Si no te gusta, una toggle en config lo apaga sin desinstalar. Para uso casual, no necesitás más.
+Si juegas en PC, descarga el cliente y dejalo correr en background. La próxima vez que entres a Valorant, el overlay aparece solo en agent select. Si no te gusta, una toggle en config lo apaga sin desinstalar. Para uso casual, no necesitas más.

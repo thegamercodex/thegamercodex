@@ -18,7 +18,7 @@ Skyrim tiene cientos de quests, NPCs, items, hechizos, perks, mecánicas. Cuando
 - "Cuál es la diferencia exacta entre Slow Time y Whirlwind Sprint?"
 - "Dónde encuentro el Black Star vs. Azura's Star?"
 
-Sin UESP, terminás buscando en YouTube videos que no responden directamente. UESP tiene la respuesta exacta, citada, con tablas.
+Sin UESP, terminas buscando en YouTube videos que no responden directamente. UESP tiene la respuesta exacta, citada, con tablas.
 
 ## Diferenciación
 
@@ -66,7 +66,7 @@ Hábito típico: en sesión de Skyrim, segunda monitor abierta en UESP para quer
 
 **Diseño visual de 2005**. UESP usa MediaWiki estándar. Funcional pero no estéticamente moderno. Mobile experience es básica.
 
-**No cubre mods**. UESP es vanilla-focused. Si te preguntás "qué hace el mod X", UESP no te ayuda. Para mods, Nexus comments + foros.
+**No cubre mods**. UESP es vanilla-focused. Si te preguntas "qué hace el mod X", UESP no te ayuda. Para mods, Nexus comments + foros.
 
 **Edits pueden estar atrasados**. Después de patches de Bethesda, info de stats puede tardar en actualizarse. Algunas pages tienen warnings de "pending verification".
 

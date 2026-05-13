@@ -36,7 +36,7 @@ Frente a **mods de "iHUD" y "More Informative Console"**: estos te dan info on-t
 
 **Buscar locations específicas**: "dónde está el shout Become Ethereal" → search → pin en mapa.
 
-**Trackear progreso de coleccionables**: con cuenta gratis, marcás cada item como found. Sync entre devices.
+**Trackear progreso de coleccionables**: con cuenta gratis, marcas cada item como found. Sync entre devices.
 
 **Planning de rutas eficientes**: si vas a hacer una pasada de "todos los Stones of Barenziah", el mapa muestra todos en simultáneo y puedes trazar ruta óptima.
 
@@ -56,7 +56,7 @@ Si tu modlist agrega cells nuevas o cambia drásticamente las locations, Map Gen
 2. La primera carga es el mapa completo zoomable.
 3. Filtros en el sidebar: marca las categorías que te interesan (Shouts, Dragons, Daedric Quests, etc.). El resto se oculta.
 4. Click en un pin para info: nombre, descripción corta, link a UESP para detalle profundo.
-5. Para tracking, creá cuenta gratis. Cada pin tiene checkbox "found" — márcalo cuando lo encuentras in-game.
+5. Para tracking, crea cuenta gratis. Cada pin tiene checkbox "found" — márcalo cuando lo encuentras in-game.
 6. Premium ($5/mes o $20 lifetime) desbloquea features avanzadas: notes per pin, más maps, sin ads.
 
 ## Limitaciones honestas
@@ -74,7 +74,7 @@ Si tu modlist agrega cells nuevas o cambia drásticamente las locations, Map Gen
 ## Cómo empezar
 
 1. Abre `mapgenie.io/skyrim`.
-2. Sin cuenta, explorá: filtros y pins funcionan.
+2. Sin cuenta, explora: filtros y pins funcionan.
 3. Para tracking, regístrate (gratis).
 4. Para tu primer playthrough completionist, filtros recomendados: Shouts (30) + Stones of Barenziah (24) + Daedric Quests (15). Esos solos son 70 hours de gameplay.
 5. Cada vez que encuentras algo, márcalo. Mantiene tu progreso entre sesiones.

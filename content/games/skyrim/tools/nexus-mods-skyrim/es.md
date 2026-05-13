@@ -50,11 +50,11 @@ Si juegas Skyrim en console, Nexus no aplica — usa Bethesda.net Creations.
 
 Si quieres mods NSFW específicamente, LoversLab tiene más selección. Nexus prohíbe contenido adult.
 
-Si solo bajaste 1-2 mods sueltos y no planeás modear más, Nexus es overhead.
+Si solo bajaste 1-2 mods sueltos y no planeas modear más, Nexus es overhead.
 
 ## Cómo se usa en la práctica
 
-1. Creá cuenta gratis en `nexusmods.com`. Required para downloads.
+1. Crea cuenta gratis en `nexusmods.com`. Required para downloads.
 2. Navegá a `nexusmods.com/skyrimspecialedition`.
 3. Hot Files: scroll por lo trending. Tags y categorías filtran la búsqueda.
 4. Click en un mod → lee description, file requirements (qué dependencias necesita), comments para verificar.
@@ -77,9 +77,9 @@ Sobre Premium: vale la pena si vas a bajar mucho. Si solo modea ocasional, free 
 
 ## Cómo empezar
 
-1. Creá cuenta gratis en `nexusmods.com`.
+1. Crea cuenta gratis en `nexusmods.com`.
 2. Ve a la sección Skyrim Special Edition.
-3. Explorá Hot Files para ver qué se está descargando ahora.
+3. Explora Hot Files para ver qué se está descargando ahora.
 4. Para tu primer mod, elige algo simple y popular: "Address Library for SKSE Plugins" o "SkyUI".
 5. Instala tu mod manager (MO2 o Vortex) y configura conexión con Nexus.
 6. Click en "Mod Manager Download" → el mod baja directo al manager.

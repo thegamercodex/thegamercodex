@@ -68,7 +68,7 @@ Cada vez que cambies mods que tocan animations, vas a tener que correr Nemesis d
 
 **No es plug-and-play**. La primera vez confunde: hay que entender que Nemesis genera un "patch" que es un mod en sí, y ese mod debe estar activo en tu mod manager.
 
-**Conflicts con FNIS**. No puedes tener FNIS y Nemesis activos simultáneamente. Si venís de un setup viejo con FNIS, hay que migrar limpio.
+**Conflicts con FNIS**. No puedes tener FNIS y Nemesis activos simultáneamente. Si vienes de un setup viejo con FNIS, hay que migrar limpio.
 
 **El output va a Overwrite**. Si usas MO2, el patch generado por Nemesis se escribe a la carpeta Overwrite. Hay que mover ese contenido a un mod nombrado tipo "Nemesis Output" para que persista entre profiles.
 
@@ -78,7 +78,7 @@ Cada vez que cambies mods que tocan animations, vas a tener que correr Nemesis d
 
 ## Cómo empezar
 
-1. Asegurate que tienes SKSE64 instalado y funcionando.
+1. Asegúrate que tienes SKSE64 instalado y funcionando.
 2. Baja Nemesis desde `nexusmods.com/skyrimspecialedition/mods/60033`.
 3. Instala con tu mod manager.
 4. Configura `Nemesis Unlimited Behavior Engine.exe` como ejecutable.

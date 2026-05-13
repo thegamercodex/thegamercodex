@@ -47,9 +47,9 @@ Si no quieres tener Discord instalado: el web client funciona pero la experienci
 ## Cómo se usa en la práctica
 
 1. Cliqueas discord.gg/nomanssky desde browser o app.
-2. Aceptás reglas en el welcome channel (obligatorio para acceder al resto).
+2. Aceptas reglas en el welcome channel (obligatorio para acceder al resto).
 3. Te asignas roles: idioma preferido, plataforma (PC/PS/Xbox/Switch), interés (multiplayer, modding, base sharing). Esto desbloquea channels relevantes.
-4. Browseás los channels que te interesan. La estructura está bien organizada con categorías visibles.
+4. Browseas los channels que te interesan. La estructura está bien organizada con categorías visibles.
 5. Para LFG: postear en el channel de tu plataforma con "looking for X mission, region Y, online now".
 6. Para support: usar los channels de #help-pc / #help-console según el caso.
 7. Mute channels que no quieres (right-click → mute).
@@ -72,7 +72,7 @@ Si no quieres tener Discord instalado: el web client funciona pero la experienci
 
 Cliqueas discord.gg/nomanssky desde tu app de Discord (instálala primero si no la tienes).
 
-Aceptás reglas. Te asignas roles en el channel de role assignment para desbloquear los canales relevantes a tu setup (plataforma, idioma).
+Aceptas reglas. Te asignas roles en el channel de role assignment para desbloquear los canales relevantes a tu setup (plataforma, idioma).
 
 Lurkear el primer día — leer un par de channels populares para entender el vibe y los moderation patterns.
 

@@ -68,7 +68,7 @@ Si solo quieres mods simples (replacement de texturas, reshade, archivos pak dir
 
 1. Si vas a instalar CET o cualquier mod que liste "REQUIRES RED4ext", bájalo desde `github.com/WopsS/RED4ext/releases` (release más reciente con tag estable).
 2. Extrae directamente sobre tu folder de Cyberpunk 2077 (donde está el `bin\x64\Cyberpunk2077.exe`).
-3. Levantá el juego una vez para verificar que carga. Si el juego abre normalmente, RED4ext está OK.
+3. Levanta el juego una vez para verificar que carga. Si el juego abre normalmente, RED4ext está OK.
 4. Procede a instalar los demás mods. RED4ext sigue siendo invisible — solo ves los efectos de los plugins que carga.
 5. Si algo falla más adelante, mira los logs en `bin\x64\red4ext\logs\` — los errores ahí indican qué plugin se rompió y por qué.
 

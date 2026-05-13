@@ -1,7 +1,7 @@
 ---
 title: "Cathedral Assets Optimizer"
 description: "Optimizador open-source para texturas, meshes y animaciones de Skyrim — convierte assets LE a formato SE y comprime para mejor performance."
-quickTake: "Cuando portás un mod de Skyrim LE a SE o cuando una modlist consume demasiada VRAM, CAO es la herramienta de optimización. Batch processing rápido y resultados consistentes."
+quickTake: "Cuando portas un mod de Skyrim LE a SE o cuando una modlist consume demasiada VRAM, CAO es la herramienta de optimización. Batch processing rápido y resultados consistentes."
 ---
 
 ## Qué es
@@ -49,7 +49,7 @@ Si tu modlist es chica y tu VRAM es suficiente, CAO es overhead — no hace falt
 
 Si te importa preservar la calidad visual exacta de cada texture al 100% (modding photoreal extremo), CAO con downsampling puede degradar imperceptible o no — verifica comparando antes/después.
 
-Si solo trabajas con Skyrim SE puro (no portás de LE), la mitad de las features de CAO no aplican.
+Si solo trabajas con Skyrim SE puro (no portas de LE), la mitad de las features de CAO no aplican.
 
 ## Cómo se usa en la práctica
 

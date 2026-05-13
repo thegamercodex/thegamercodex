@@ -1,17 +1,17 @@
 ---
 title: PoE Wiki vs PoEDB — qué usar para consultar información de PoE
-description: Comparación entre las dos referencias principales de Path of Exile. Cuándo querés artículos editoriales y cuándo necesitás data dump cruda.
+description: Comparación entre las dos referencias principales de Path of Exile. Cuándo quieres artículos editoriales y cuándo necesitas data dump cruda.
 ---
 
 Cualquiera que juegue PoE más de un par de horas eventualmente termina abriendo una de estas dos. **PoE Wiki** es la enciclopedia comunitaria, redactada como artículos legibles con contexto y ejemplos. **PoEDB** es una base de datos datamineada del cliente del juego, llena de tablas, números crudos y exactitud técnica que la wiki no apunta a tener. Saber cuál usar te ahorra tiempo, y muy seguido la respuesta correcta es "ambas".
 
 ## Tipo de contenido: artículos editoriales vs data dump
 
-La wiki está escrita para humanos. Cada artículo de mecánica (digamos, "Shock") empieza explicando qué es, cómo se aplica, fórmulas relevantes, edge cases, y se complementa con tablas y enlaces internos. Los artículos de ítems incluyen historia (cuándo se agregó la liga, cómo era antes), uso en builds, y trivia. Los de NPCs incluyen quotes, contexto narrativo y arte. Es la herramienta que querés cuando estás *aprendiendo* algo de cero.
+La wiki está escrita para humanos. Cada artículo de mecánica (digamos, "Shock") empieza explicando qué es, cómo se aplica, fórmulas relevantes, edge cases, y se complementa con tablas y enlaces internos. Los artículos de ítems incluyen historia (cuándo se agregó la liga, cómo era antes), uso en builds, y trivia. Los de NPCs incluyen quotes, contexto narrativo y arte. Es la herramienta que quieres cuando estás *aprendiendo* algo de cero.
 
-PoEDB asume que ya sabés qué buscás. Si entrás a la página de "Shock" en PoEDB, no encontrás un artículo: encontrás tablas de mods que aplican shock, su tier, su rango numérico, en qué bases aparecen y a qué item levels. Es denso, técnico y orientado a referenciar datos rápido, no a enseñar.
+PoEDB asume que ya sabes qué buscas. Si entras a la página de "Shock" en PoEDB, no encuentras un artículo: encuentras tablas de mods que aplican shock, su tier, su rango numérico, en qué bases aparecen y a qué item levels. Es denso, técnico y orientado a referenciar datos rápido, no a enseñar.
 
-Esto define el uso: **wiki cuando preguntás "cómo funciona X", PoEDB cuando preguntás "cuáles son los rangos exactos de Y"**.
+Esto define el uso: **wiki cuando preguntas "cómo funciona X", PoEDB cuando preguntas "cuáles son los rangos exactos de Y"**.
 
 ## Profundidad y actualización
 
@@ -26,7 +26,7 @@ La wiki es **mantenida manualmente por la comunidad**. Tiene cobertura excelente
 
 Para data hunting puro, PoEDB es la fuente. Para entender el contexto de esa data, la wiki lo da.
 
-## Cuándo necesitás cada una
+## Cuándo necesitas cada una
 
 **Wiki:**
 - Aprender una mecánica desde cero (ascendancies, ailments, charges, conversion, fortify).
@@ -56,7 +56,7 @@ Para queries naturales del estilo "poe how does shock work" o "poe what is the l
 
 PoEDB rankea fuerte cuando la query incluye un nombre específico de ítem, mod, o mecánica datamineada — "poe Hyrri's Truth" o "poe T17 boss life". Los usuarios técnicos suelen ir directo al sitio.
 
-Tip práctico: si Google te tira primero la wiki y la respuesta es vaga, agregar `site:poedb.tw` a la query suele dar lo que necesitás cuando lo que buscás es un número exacto.
+Tip práctico: si Google te tira primero la wiki y la respuesta es vaga, agregar `site:poedb.tw` a la query suele dar lo que necesitas cuando lo que buscas es un número exacto.
 
 ## En resumen
 
@@ -80,4 +80,4 @@ Como con muchas comparaciones en PoE: **no son competidores, son complementos**.
 - Si tu pregunta empieza con "cómo funciona" o "qué significa" → **wiki**.
 - Si tu pregunta empieza con "cuál es el valor exacto de" o "qué dropea" → **PoEDB**.
 
-Si recién empezás, hacé bookmark de la wiki. Es la mejor herramienta de onboarding. PoEDB la vas a descubrir naturalmente cuando empieces a crafting o a target farming en endgame, y a partir de ahí te vas a alternar entre las dos sin pensarlo.
+Si recién empiezas, haz bookmark de la wiki. Es la mejor herramienta de onboarding. PoEDB la vas a descubrir naturalmente cuando empieces a crafting o a target farming en endgame, y a partir de ahí te vas a alternar entre las dos sin pensarlo.

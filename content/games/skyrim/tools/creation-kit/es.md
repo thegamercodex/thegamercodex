@@ -56,7 +56,7 @@ Si no quieres escribir Papyrus, gran parte del potencial de CK queda sin explota
 1. En Steam, instala "Skyrim Special Edition Creation Kit" (gratis).
 2. Si tienes problemas de login con Bethesda.net, consigue la versión legacy via Nexus o mirrors comunitarios — está bien documentada.
 3. Lanza CK. Te pide qué plugins cargar — selecciona Skyrim.esm, Update.esm, los DLC y solo los mods masters que tu mod va a depender.
-4. Confirma como Active File el plugin nuevo (o creá uno).
+4. Confirma como Active File el plugin nuevo (o crea uno).
 5. Workflow típico: crear cell → poblar con assets → posicionar NPCs → escribir quest stages → dialogue → scripts → testear in-game → iterar.
 6. Para testear, salvá tu mod, lanza Skyrim con el mod activo, y `coc` (center-on-cell) a la cell que creaste.
 

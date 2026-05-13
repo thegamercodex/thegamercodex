@@ -1,7 +1,7 @@
 ---
 title: "TradeSkillMaster"
 description: "Suite completa de auction house management y goldmaking para WoW. Combina addon in-game, desktop app obligatoria (TSM4+) y sitio web. Existe desde 2010 y es la herramienta de referencia para players que tratan al AH como negocio."
-quickTake: "Si goldmakeás en serio, TSM es la única opción que escala. La curva es empinada y la dependencia de la desktop app desde TSM4 fue controversial. Pero el ROI de la setup inicial es enorme: pasar de 'vender items random a precio random' a 'operar un negocio en el AH' es el cambio que TSM habilita."
+quickTake: "Si goldmakeas en serio, TSM es la única opción que escala. La curva es empinada y la dependencia de la desktop app desde TSM4 fue controversial. Pero el ROI de la setup inicial es enorme: pasar de 'vender items random a precio random' a 'operar un negocio en el AH' es el cambio que TSM habilita."
 ---
 
 ## Qué es
@@ -18,16 +18,16 @@ La setup completa requiere los tres. La desktop app es el punto de fricción: en
 
 ## Qué problema resuelve
 
-Para un player casual que vende sus drops de raid en el AH, la auction interface de WoW es suficiente. Listás un item, eligís precio, listo.
+Para un player casual que vende sus drops de raid en el AH, la auction interface de WoW es suficiente. Listas un item, eliges precio, listo.
 
-Pero para goldmaking serio (vender hundreds de items per week, craft profitable, sniper deals, market manipulation), la auction interface por defecto es prohibitively limited. Sin tools, hacés:
+Pero para goldmaking serio (vender hundreds de items per week, craft profitable, sniper deals, market manipulation), la auction interface por defecto es prohibitively limited. Sin tools, haces:
 
 - Re-list manual cada 2 horas porque los items expiran.
 - Calcular precio razonable mirando otros listings uno por uno.
 - Manejar accounting (cuánto te costó craftear vs cuánto vendiste) en spreadsheet aparte.
 - Decidir qué craftear sin data agregada de mercado.
 
-TSM resuelve cada uno: post groups con strings de precio dynamic ("market value × 1.1"), cancel/repost automático, accounting integrado, alerts de deals (sniper), y comparison cross-realm si jugás en multiple servers.
+TSM resuelve cada uno: post groups con strings de precio dynamic ("market value × 1.1"), cancel/repost automático, accounting integrado, alerts de deals (sniper), y comparison cross-realm si juegas en multiple servers.
 
 Para players que tratan al AH como negocio (gold ≥1M/semana es threshold típico), TSM es la diferencia entre "vendo cosas" y "opero un negocio".
 
@@ -35,15 +35,15 @@ Para players que tratan al AH como negocio (gold ≥1M/semana es threshold típi
 
 **Posting bulk de crafted goods**: si craftáis 50 items por semana para vender, TSM grupea por categoría y postea con strings de precio dynamic.
 
-**Cancel/repost automático**: cuando alguien postea más barato que vos, TSM detecta y cancela tus listings (para que no se vendan a precio sub-óptimo). Después repostea con precio competitive. Vos no haceés nada manual.
+**Cancel/repost automático**: cuando alguien postea más barato que tú, TSM detecta y cancela tus listings (para que no se vendan a precio sub-óptimo). Después repostea con precio competitive. Tú no haces nada manual.
 
 **Sniper / Dealfinder**: TSM escanea AH constantemente (via desktop app data) y alerta cuando aparece deal: items posteados muy debajo de market value. Permite arbitrage profitable.
 
-**Crafting decisions**: TSM compara cost de materials vs sell price para tu spec de profession. Si profit es positivo, craftás. Si es negativo, no. Critical para crafters serios.
+**Crafting decisions**: TSM compara cost de materials vs sell price para tu spec de profession. Si profit es positivo, crafteas. Si es negativo, no. Critical para crafters serios.
 
 **Accounting histórico**: tracking de gold earned/spent por categoría, item, periodo. Útil para optimizar estrategia y detect items que ya no son rentables.
 
-**Cross-realm goldmaking**: si tenés chars en multiple servers, TSM puede aggregar accounting y compare markets entre realms.
+**Cross-realm goldmaking**: si tienes chars en multiple servers, TSM puede aggregar accounting y compare markets entre realms.
 
 **Sourcing de mats**: para crafters, TSM puede shopping-list automáticamente los materials needed para crafts profitable.
 
@@ -58,31 +58,31 @@ Para players que tratan al AH como negocio (gold ≥1M/semana es threshold típi
 
 **Setup inicial (requerido pre-uso)**:
 
-1. Creás cuenta en [tradeskillmaster.com](https://tradeskillmaster.com).
+1. Creas cuenta en [tradeskillmaster.com](https://tradeskillmaster.com).
 
-2. Descargás **TSM Desktop App** (Windows/macOS).
+2. Descargas **TSM Desktop App** (Windows/macOS).
 
-3. Descargás **TSM Addon** via CurseForge o Wago.
+3. Descargas **TSM Addon** via CurseForge o Wago.
 
-4. Logueás en la app desktop con tu cuenta. Configurás qué realms scanear.
+4. Logueas en la app desktop con tu cuenta. Configuras qué realms scanear.
 
 5. La app baja data y la sube al addon in-game.
 
-6. In-game, abrís AH y ves data de TSM (market value por item, profit estimado).
+6. In-game, abres AH y ves data de TSM (market value por item, profit estimado).
 
 **Uso recurrente**:
 
-1. Antes de session de goldmaking, abrís TSM Desktop App. Hacés un manual scan o esperás scan automático.
+1. Antes de session de goldmaking, abres TSM Desktop App. Haces un manual scan o esperas scan automático.
 
-2. In-game, abrís AH con TSM addon active.
+2. In-game, abres AH con TSM addon active.
 
 3. Para postear: TSM groups con strings de precio (e.g., `100% market`). Click "Post" — postea bulk.
 
-4. Para cancel/repost: TSM detecta undercutting automatic. Click "Cancel" then "Post" si querés mantener competitive.
+4. Para cancel/repost: TSM detecta undercutting automatic. Click "Cancel" then "Post" si quieres mantener competitive.
 
-5. Para sniper: dejás TSM scanning en background. Cuando aparece deal alerts.
+5. Para sniper: dejas TSM scanning en background. Cuando aparece deal alerts.
 
-6. Post-session: revisás accounting in-game o web para ver profit del día.
+6. Post-session: revisas accounting in-game o web para ver profit del día.
 
 ## Limitaciones honestas
 
@@ -94,7 +94,7 @@ Para players que tratan al AH como negocio (gold ≥1M/semana es threshold típi
 
 **Performance overhead**: TSM addon es addon "heavy" — consume RAM y CPU notable. Si tu PC es marginal, puede causar frame drops in-game. La Desktop App también tiene footprint.
 
-**Lock-in**: una vez que tenés todo configurado en TSM (groups, operations, accounting), migrar a otra tool sería volver a empezar desde cero. No hay export universal.
+**Lock-in**: una vez que tienes todo configurado en TSM (groups, operations, accounting), migrar a otra tool sería volver a empezar desde cero. No hay export universal.
 
 **Cobertura de Classic / SoD desigual**: aunque cubren ambos, algunos features están menos pulidos en versiones legacy.
 
@@ -104,15 +104,15 @@ Para players que tratan al AH como negocio (gold ≥1M/semana es threshold típi
 
 ## Cómo empezar
 
-1. Si goldmakeás casualmente y no necesitás escala, considerá si realmente necesitás TSM. Para vender 5 items por sesión, default UI alcanza.
+1. Si goldmakeas casualmente y no necesitas escala, considera si realmente necesitas TSM. Para vender 5 items por sesión, default UI alcanza.
 
-2. Si decidís adoptar TSM:
-   - Creá cuenta en [tradeskillmaster.com](https://tradeskillmaster.com).
-   - Descargá Desktop App + Addon.
-   - Logueá, configurá realms, dejá que escane primer scan.
+2. Si decides adoptar TSM:
+   - Crea cuenta en [tradeskillmaster.com](https://tradeskillmaster.com).
+   - Descarga Desktop App + Addon.
+   - Logueá, configurá realms, deja que escane primer scan.
 
-3. Para learning curve: leé guías oficiales en el site, mirá videos de YouTube sobre TSM4 setup (Studen Albatroz, JMTC, ProtCowSham son creators conocidos en goldmaking).
+3. Para learning curve: lee guías oficiales en el site, mira videos de YouTube sobre TSM4 setup (Studen Albatroz, JMTC, ProtCowSham son creators conocidos en goldmaking).
 
-4. Empezá simple: 1-2 groups con basic operations (post + cancel/repost). Cuando dominas eso, expandí a sniper, accounting tracking, crafting decisions.
+4. Empieza simple: 1-2 groups con basic operations (post + cancel/repost). Cuando dominas eso, expandí a sniper, accounting tracking, crafting decisions.
 
-5. Si después de 2-3 sesiones encontrás que TSM no compensa el overhead (lo cual es razonable para muchos casos), no es failure — es señal de que tu workflow no requiere TSM en este momento. Hay tiempo para retomar después.
+5. Si después de 2-3 sesiones encuentras que TSM no compensa el overhead (lo cual es razonable para muchos casos), no es failure — es señal de que tu workflow no requiere TSM en este momento. Hay tiempo para retomar después.

@@ -79,7 +79,7 @@ Como user: instálalo cuando un mod lo pida. No requiere config previa.
 Como creator:
 1. Asegúrate primero de tener manejo de WolvenKit — sin habilidad para crear archives, ArchiveXL no aporta.
 2. Lee la wiki: `github.com/psiberx/cp2077-archive-xl/wiki` cubre formato `.xl` y ejemplos básicos.
-3. Estudiá un mod existente: baja uno que agregue items y abre su `.xl` para ver cómo registra los assets.
+3. Estudia un mod existente: baja uno que agregue items y abre su `.xl` para ver cómo registra los assets.
 4. Empieza con un mod minimal — agregar un solo item con variants básicas. Después extiendes.
 5. El Discord del Modding Community es donde se resuelven los problemas reales — la wiki es buen starting point, pero los casos edge se resuelven en chat.
 

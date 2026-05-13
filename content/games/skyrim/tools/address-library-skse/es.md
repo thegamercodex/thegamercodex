@@ -43,9 +43,9 @@ Frente a **hard-coded address offsets**: la alternativa antigua. Solo funcionaba
 
 Si solo vas a usar mods que no son SKSE plugins (texture packs, ESP-only mods), no necesitas Address Library.
 
-Si solo modeás Skyrim VR, asegúrate de usar VR Address Library en lugar de la SE/AE.
+Si solo modeas Skyrim VR, asegúrate de usar VR Address Library en lugar de la SE/AE.
 
-Pero realmente: si modeás Skyrim al nivel de tener SKSE instalado, la respuesta es siempre "instalala, no hace daño".
+Pero realmente: si modeas Skyrim al nivel de tener SKSE instalado, la respuesta es siempre "instalala, no hace daño".
 
 ## Cómo se usa en la práctica
 

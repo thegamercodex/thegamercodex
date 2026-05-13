@@ -15,7 +15,7 @@ Maxroll publica **build guides completas** con:
 - Strategy de farmeo para cada fase
 - Tier list de builds entre sí
 
-Cada build tiene un autor identificable (jugadores reconocidos como Snap, Mathil, Palsterion en algún momento). Las guías se actualizan al inicio de cada liga y se mantienen durante la liga si hay cambios significativos. El tone editorial es directo y prescriptivo: "hacé esto, después esto".
+Cada build tiene un autor identificable (jugadores reconocidos como Snap, Mathil, Palsterion en algún momento). Las guías se actualizan al inicio de cada liga y se mantienen durante la liga si hay cambios significativos. El tone editorial es directo y prescriptivo: "haz esto, después esto".
 
 La wiki publica **artículos enciclopédicos** con:
 - Mecánicas explicadas con fórmulas
@@ -28,7 +28,7 @@ Los artículos son colaborativos (community-edited), no atribuidos a un autor in
 
 ## Audience level y freshness
 
-Maxroll asume que ya entendés PoE básicamente — sabés qué es un passive tree, qué es un map, cómo funciona trade. Sus guías están escritas para alguien que va a jugar el contenido del juego, no para alguien que necesita entender el contenido. Si nunca jugaste PoE, una guide de Maxroll te va a confundir; mejor entrá primero a la wiki.
+Maxroll asume que ya entiendes PoE básicamente — sabes qué es un passive tree, qué es un map, cómo funciona trade. Sus guías están escritas para alguien que va a jugar el contenido del juego, no para alguien que necesita entender el contenido. Si nunca jugaste PoE, una guide de Maxroll te va a confundir; mejor entra primero a la wiki.
 
 La wiki cubre desde el principio absoluto. Hay artículos para "¿qué es un Exile?", "¿cómo funcionan los map devices?", "¿qué es un currency tab?". Es la mejor herramienta de onboarding para nuevos jugadores.
 
@@ -46,7 +46,7 @@ Para hispanohablantes ninguna ofrece localization completa. Si tu inglés es bá
 
 - **Liga arranca el viernes y necesito un build para jugar** → Maxroll. Te ahorra horas de research.
 - **No entiendo qué es algo del juego** → Wiki. La explica desde cero.
-- **Estoy mid-league y quiero optimizar mi build elegido** → Maxroll, sección de la guide que estás siguiendo. Si la guide no cubre tu duda exacta, abrí también la wiki.
+- **Estoy mid-league y quiero optimizar mi build elegido** → Maxroll, sección de la guide que estás siguiendo. Si la guide no cubre tu duda exacta, abre también la wiki.
 - **Quiero leer la historia del lore de PoE** → Wiki. Maxroll no cubre lore.
 - **Soy nuevo en PoE y no sé por dónde empezar** → Wiki primero para entender el sistema; Maxroll después para elegir tu primer build.
 

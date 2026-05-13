@@ -1,7 +1,7 @@
 ---
 title: "Archon.gg"
 description: "Sitio data-driven de guías para WoW que agrega stats de top players (Mythic raid, Mythic+ alto, top arena) y presenta builds, talents, stat priority y rotación como métricas con porcentajes reales del meta actual."
-quickTake: "Si querés saber qué juega el top 1% de tu spec ahora mismo sin leer dos páginas de prosa, Archon es el approach más limpio. La filosofía es opuesta a Icy Veins/Method (datos vs prosa). Útil junto con ellas, no como reemplazo absoluto."
+quickTake: "Si quieres saber qué juega el top 1% de tu spec ahora mismo sin leer dos páginas de prosa, Archon es el approach más limpio. La filosofía es opuesta a Icy Veins/Method (datos vs prosa). Útil junto con ellas, no como reemplazo absoluto."
 ---
 
 ## Qué es
@@ -34,46 +34,46 @@ Es la separación más clara del cluster guides:
 - **Method**: prosa avanzada con perspective de top guild. Asume baseline alto. Mejor para **optimizar Mythic raid específico**.
 - **Archon.gg**: datos sin explicación. Te muestra *qué* juega el top 1%. Mejor para **calibrar tu setup contra meta actual**.
 
-Las tres son complementarias. Archon no enseña: muestra. Si no entendés por qué el meta usa build A en lugar de build B, leé Icy Veins/Method/Discord. Si solo querés saber cuál es el meta, Archon es el más rápido.
+Las tres son complementarias. Archon no enseña: muestra. Si no entiendes por qué el meta usa build A en lugar de build B, lee Icy Veins/Method/Discord. Si solo quieres saber cuál es el meta, Archon es el más rápido.
 
 ## Para qué la usa la gente
 
-**Check rápido de talents pre-raid**: abrís tu spec en Archon, mirás la build top, copiás el código, importás al juego. Tres minutos.
+**Check rápido de talents pre-raid**: abres tu spec en Archon, miras la build top, copias el código, importas al juego. Tres minutos.
 
-**Validar tu setup vs meta**: comparás tus talents/stats actuales con los porcentajes de top players. Si tus stats están desalineadas, entendés qué reordenar.
+**Validar tu setup vs meta**: comparas tus talents/stats actuales con los porcentajes de top players. Si tus stats están desalineadas, entiendes qué reordenar.
 
 **M+ comp evaluation**: para una key específica, Archon muestra qué comps están sacando mejores tiempos en esa dungeon esa semana. Útil para planning.
 
-**Investigar shifts de meta**: si un patch sale y querés saber qué cambió en práctica vs en patch notes, Archon refleja eso en pocas horas a medida que top players adaptan.
+**Investigar shifts de meta**: si un patch sale y quieres saber qué cambió en práctica vs en patch notes, Archon refleja eso en pocas horas a medida que top players adaptan.
 
 **PvP composition meta**: para arena, comps con mejor win rate por bracket actualizadas dinámicamente.
 
 ## Para quién NO es esta herramienta
 
-- **Newcomers a una spec**: Archon te dice qué hacen los pros, no cómo hacerlo. Si no entendés tu rotación, empezá con Icy Veins.
-- **Players que quieren entender** *why* **el meta es así**: Archon es descripción, no análisis. Para reasoning, leé Method o Discord.
+- **Newcomers a una spec**: Archon te dice qué hacen los pros, no cómo hacerlo. Si no entiendes tu rotación, empieza con Icy Veins.
+- **Players que quieren entender** *why* **el meta es así**: Archon es descripción, no análisis. Para reasoning, lee Method o Discord.
 - **Specs con sample size bajo**: si una spec es nicho, los porcentajes pueden tener variance alta y reflejar individual preferences en lugar de meta real. Verificar cuántos parses están agregados.
 - **Hardcore Mythic raiders en world-first race**: el meta pre-kill muta cada hora. Para esos primeros días, hay que confiar en intuición y comunicación con el equipo, no en data agregada que aún no existe.
 
 ## Cómo se usa en la práctica
 
-1. Abrís [archon.gg](https://www.archon.gg).
+1. Abres [archon.gg](https://www.archon.gg).
 
-2. Elegís contenido (Raid, Mythic+, PvP) y dificultad/contexto (Mythic, key level alto, arena bracket).
+2. Eliges contenido (Raid, Mythic+, PvP) y dificultad/contexto (Mythic, key level alto, arena bracket).
 
 3. Click en tu clase y spec.
 
 4. Página con secciones: Talent Builds (con porcentajes), Stat Priority, Rotation overview, Gear (BiS y popular items).
 
-5. Para talent: copiás el code de la build top y lo importás al talent UI in-game.
+5. Para talent: copias el code de la build top y lo importas al talent UI in-game.
 
-6. Para stat priority: comparás con tu gear actual; si tenés exceso de un stat, considerás reforjar/recambiar gear con el approach que el top 1% sigue.
+6. Para stat priority: comparas con tu gear actual; si tienes exceso de un stat, consideras reforjar/recambiar gear con el approach que el top 1% sigue.
 
 7. Para rotación: la mostrada en Archon suele ser baseline. Cruzar con WoWAnalyzer para verificar tu ejecución vs lo que la data sugiere.
 
 ## Limitaciones honestas
 
-**No explica por qué**: si el meta cambia y no sabés qué pasó, Archon no te da contexto. Los porcentajes te dicen el "qué", no el "por qué".
+**No explica por qué**: si el meta cambia y no sabes qué pasó, Archon no te da contexto. Los porcentajes te dicen el "qué", no el "por qué".
 
 **Sample size variable**: para specs populares con muchos parses (Mage, Rogue, Druid), los porcentajes son sólidos. Para specs nicho o nuevas (Augmentation Evoker primeras semanas), la sample puede ser chica y volátil. Verificar.
 
@@ -89,9 +89,9 @@ Las tres son complementarias. Archon no enseña: muestra. Si no entendés por qu
 
 ## Cómo empezar
 
-1. Visitá [archon.gg](https://www.archon.gg) y elegí tu spec de la home page.
+1. Visitá [archon.gg](https://www.archon.gg) y elige tu spec de la home page.
 
-2. Comparate los talent builds top con lo que estás jugando ahora. Si hay diferencia material, considerá probar la build de mayor porcentaje.
+2. Comparate los talent builds top con lo que estás jugando ahora. Si hay diferencia material, considera probar la build de mayor porcentaje.
 
 3. Cruzá los stat priority con tu equipamiento actual — Archon puede revelar que estás sub-optimizando en un stat sin saberlo.
 

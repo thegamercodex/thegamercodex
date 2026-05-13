@@ -1,7 +1,7 @@
 ---
 title: "Ishtar Collective"
 description: "Archivo completo del lore de Destiny 2 organizado cronológicamente: lore cards, transcripciones de cinemáticas, dialogues y context."
-quickTake: "El destino para cuando un creator menciona algo de lore y querés contexto. Ishtar Collective tiene cada lore card desde el lanzamiento, organizado para narrativas largas — no fragmentos sueltos."
+quickTake: "El destino para cuando un creator menciona algo de lore y quieres contexto. Ishtar Collective tiene cada lore card desde el lanzamiento, organizado para narrativas largas — no fragmentos sueltos."
 ---
 
 ## Qué es
@@ -14,15 +14,15 @@ Cubre cada lore card del juego (cientos, posiblemente miles), transcripciones co
 
 El lore de Destiny 2 está fragmentado por diseño: una historia importante se cuenta en 5 lore cards distintas, dialogues de side missions, descriptions de items exotic, y cinemáticas. Conectar todo en una narrativa cohesiva desde dentro del juego es prácticamente imposible — el juego no te da timeline ni cross-reference.
 
-Ishtar Collective resuelve eso. Pegás "Caiatl" o "Eramis" o "The Witness" en la búsqueda y obtenés cada referencia ordenada cronológicamente con context. Ves cómo el personaje aparece, evoluciona, qué arcos lo cruzan. La narrativa de Destiny — confusa desde dentro — se vuelve legible.
+Ishtar Collective resuelve eso. Pegas "Caiatl" o "Eramis" o "The Witness" en la búsqueda y obtienes cada referencia ordenada cronológicamente con context. Ves cómo el personaje aparece, evoluciona, qué arcos lo cruzan. La narrativa de Destiny — confusa desde dentro — se vuelve legible.
 
 ## Diferenciación
 
-Frente al sub-r/destinylore (la otra fuente comunitaria principal), Ishtar Collective es **archivo, no discusión**. Reddit es donde se debate teorías; Ishtar es donde verificás hechos. Los dos se complementan: leés Ishtar para fundamento, leés Reddit para interpretación.
+Frente al sub-r/destinylore (la otra fuente comunitaria principal), Ishtar Collective es **archivo, no discusión**. Reddit es donde se debate teorías; Ishtar es donde verificas hechos. Los dos se complementan: lees Ishtar para fundamento, lees Reddit para interpretación.
 
 Frente a la app Companion oficial (que tiene sección Lore vault), Ishtar Collective gana en **organización y cross-referencing**. La oficial muestra cards individuales sin context narrativo. Ishtar arma timelines, agrupa por personaje, y conecta historias.
 
-Frente a videos de creators de lore (My Name Is Byf siendo el más famoso), no compite — los videos son curated narrative, Ishtar es source material. Byf usa Ishtar Collective como una de sus fuentes; vos usás Ishtar para verificar lo que Byf dice o escribir tu propia interpretación.
+Frente a videos de creators de lore (My Name Is Byf siendo el más famoso), no compite — los videos son curated narrative, Ishtar es source material. Byf usa Ishtar Collective como una de sus fuentes; tú usas Ishtar para verificar lo que Byf dice o escribir tu propia interpretación.
 
 ## Para qué la usa la gente
 
@@ -38,17 +38,17 @@ Frente a videos de creators de lore (My Name Is Byf siendo el más famoso), no c
 
 ## Para quién NO es esta herramienta
 
-Si jugás Destiny 2 sin interés en lore (sólo gunplay y endgame), Ishtar es invisible al flujo. No aporta nada a la experiencia mecánica.
+Si juegas Destiny 2 sin interés en lore (sólo gunplay y endgame), Ishtar es invisible al flujo. No aporta nada a la experiencia mecánica.
 
-Si preferís lore curated (un narrador que te lo cuenta, no que vos investigues), los videos de My Name Is Byf rinden más.
+Si prefieres lore curated (un narrador que te lo cuenta, no que tú investigues), los videos de My Name Is Byf rinden más.
 
 Si tu interés es D1 lore específicamente, Ishtar lo cubre pero es secundario — el foco vigente es D2.
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `ishtar-collective.net`. Sin login.
+1. Entras a `ishtar-collective.net`. Sin login.
 2. Para búsqueda exploratoria: pestaña "Categories" o "Characters". Browse por personaje o evento.
-3. Para búsqueda específica: barra superior con search. Pegás el término ("Witness", "Sword Logic") y obtenés cada card que lo referencia.
+3. Para búsqueda específica: barra superior con search. Pegas el término ("Witness", "Sword Logic") y obtienes cada card que lo referencia.
 4. Cada card tiene metadata: cuándo se introdujo, en qué expansión, asociaciones con otros personajes/eventos.
 5. Para timelines: pestaña "Themes" agrupa narrative arcs (Light/Dark, Shadowkeep arc, Witch Queen arc).
 
@@ -56,11 +56,11 @@ Si tu interés es D1 lore específicamente, Ishtar lo cubre pero es secundario �
 
 **Inglés solamente**. Sin localización a español. Para lectores que prefieren español, la experiencia es solo lo que tu inglés permita.
 
-**No tiene narrative editorialism**. Ishtar es archivo factual: muestra las cards, vos sacás conclusiones. Para narrativa lineal "qué pasó", videos de creators son mejores.
+**No tiene narrative editorialism**. Ishtar es archivo factual: muestra las cards, tú sacas conclusiones. Para narrativa lineal "qué pasó", videos de creators son mejores.
 
 **Update lag post-expansión**. Cuando Bungie suelta nueva campaña con lore cards nuevas, Ishtar tarda 1-3 semanas en agregar todo. Para Day-1 lore, hay que esperar.
 
-**UI funcional pero no moderna**. El sitio prioriza coverage sobre design. Esperá tablas densas, link clusters, layout academic.
+**UI funcional pero no moderna**. El sitio prioriza coverage sobre design. Espera tablas densas, link clusters, layout academic.
 
 **Comunidad chica**. Mantenido por voluntarios; si pierden mantenedores activos, el ritmo de updates cae.
 
@@ -68,4 +68,4 @@ Si tu interés es D1 lore específicamente, Ishtar lo cubre pero es secundario �
 
 ## Cómo empezar
 
-Entrá a `ishtar-collective.net`. Buscá un personaje que te interese (Caiatl, Eris Morn, The Stranger). Leé las primeras 3-5 cards en orden cronológico. Ya tenés más context que la mayoría de jugadores casuales. Para uso recurrente, bookmarkealo y volvé cuando un creator mencione algo y querás verificar.
+Entra a `ishtar-collective.net`. Busca un personaje que te interese (Caiatl, Eris Morn, The Stranger). Lee las primeras 3-5 cards en orden cronológico. Ya tienes más context que la mayoría de jugadores casuales. Para uso recurrente, bookmarkealo y vuelve cuando un creator mencione algo y quieras verificar.

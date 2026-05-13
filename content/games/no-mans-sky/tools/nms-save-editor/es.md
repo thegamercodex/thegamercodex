@@ -40,16 +40,16 @@ Si quieres UX moderna con previews y tabs ricas, NomNom es preferible. goatfungu
 
 Si tienes muchos perfiles y quieres navegar entre ellos rápido, NomNom maneja mejor el flujo. goatfungus carga uno a la vez con ceremonia.
 
-Si juegas Permadeath/Survival manteniendo challenge intacta, no es para vos (igual que cualquier save editor).
+Si juegas Permadeath/Survival manteniendo challenge intacta, no es para tú (igual que cualquier save editor).
 
 Si tu OS no soporta Java o no quieres instalarlo, goatfungus te obliga a tener Java runtime. NomNom es C# nativo y no tiene esa dependencia.
 
 ## Cómo se usa en la práctica
 
 1. Vas a github.com/goatfungus/NMSSaveEditor/releases y bajas el JAR de la última release (typical filename: `NMSSaveEditor.jar`).
-2. Asegurate de tener Java 11+ instalado (`java -version` para verificar).
+2. Asegúrate de tener Java 11+ instalado (`java -version` para verificar).
 3. Doble click al JAR o ejecutá `java -jar NMSSaveEditor.jar` desde terminal.
-4. Apuntás al archivo de save (Open → seleccionas el save_X.hg de la carpeta de NMS).
+4. Apuntas al archivo de save (Open → seleccionas el save_X.hg de la carpeta de NMS).
 5. Tabs: Inventory, Multi-tools, Ships, Exocraft, Freighter, Frigates, Bases, Stats. Editas lo que quieres.
 6. File → Save. El editor sobrescribe el save.
 7. Importante: haz backup manual ANTES de la primera edición. goatfungus hace copia automática menos agresivamente que NomNom.
@@ -76,7 +76,7 @@ Vas a github.com/goatfungus/NMSSaveEditor y lees el README — explica setup de 
 
 Bajas el JAR más reciente. Si no tienes Java, instalas OpenJDK 17+ (gratis, oficial).
 
-Haces backup manual de tu carpeta de saves de NMS antes de tocar nada. Copiá todo `%APPDATA%\HelloGames\NMS\` (o equivalente) a otro lugar.
+Haces backup manual de tu carpeta de saves de NMS antes de tocar nada. Copia todo `%APPDATA%\HelloGames\NMS\` (o equivalente) a otro lugar.
 
 Abres el JAR, cargas un save de prueba (modo creative o un perfil viejo), tocas algo trivial (agregar 100k units), guardas, cargas el save en NMS y verificas que el cambio se aplicó.
 

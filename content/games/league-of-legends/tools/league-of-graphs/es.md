@@ -1,7 +1,7 @@
 ---
 title: "League of Graphs"
 description: "Plataforma de análisis estadístico histórico de League of Legends, con gráficos de evolución de win rate multi-patch, leaderboards de records y stats curiosas pedagógicas. Visualmente más amigable que Lolalytics, foco en profundidad temporal."
-quickTake: "La tool de stats con la mejor presentación visual del ecosistema. Si querés ver cómo evolucionó tu champion a lo largo de los últimos 12 patches o descubrir stats curiosas que ninguna otra tool muestra, esta es. Para análisis táctico de patch actual, Lolalytics sigue siendo más profundo."
+quickTake: "La tool de stats con la mejor presentación visual del ecosistema. Si quieres ver cómo evolucionó tu champion a lo largo de los últimos 12 patches o descubrir stats curiosas que ninguna otra tool muestra, esta es. Para análisis táctico de patch actual, Lolalytics sigue siendo más profundo."
 ---
 
 ## Qué es
@@ -14,7 +14,7 @@ Es free, financiada por ads. No tiene tier paga, y la cobertura de features es c
 
 ## Qué problema resuelve
 
-Si querés saber el win rate actual de Yasuo, varias tools te dan ese número. Pero si querés saber **cómo evolucionó ese win rate a lo largo de los últimos 6 patches**, qué cambios de balance afectaron qué picos, o cómo se compara la trayectoria de Yasuo respecto a otros mid-laners, las opciones se reducen drásticamente. Lolalytics tiene mucha data pero su foco editorial es el patch actual; los sitios estilo OP.GG/U.GG se actualizan cada patch sin retener fácilmente la trayectoria histórica.
+Si quieres saber el win rate actual de Yasuo, varias tools te dan ese número. Pero si quieres saber **cómo evolucionó ese win rate a lo largo de los últimos 6 patches**, qué cambios de balance afectaron qué picos, o cómo se compara la trayectoria de Yasuo respecto a otros mid-laners, las opciones se reducen drásticamente. Lolalytics tiene mucha data pero su foco editorial es el patch actual; los sitios estilo OP.GG/U.GG se actualizan cada patch sin retener fácilmente la trayectoria histórica.
 
 League of Graphs cubre exactamente ese gap: profundidad temporal con visualización clara. Para players que quieren entender el meta como un fenómeno que evoluciona —no solo el snapshot del patch presente— esta tool es la referencia.
 
@@ -22,7 +22,7 @@ Lolalytics y League of Graphs cubren territorio adyacente y se complementan: Lol
 
 ## Para qué la usa la gente
 
-**Tracking de evolución de champion a lo largo de patches**: caso de uso más distintivo. Mirás un champion y ves su gráfico de win rate de los últimos 12 patches, con marcas de cuándo recibió buffs/nerfs y cómo respondió la comunidad.
+**Tracking de evolución de champion a lo largo de patches**: caso de uso más distintivo. Miras un champion y ves su gráfico de win rate de los últimos 12 patches, con marcas de cuándo recibió buffs/nerfs y cómo respondió la comunidad.
 
 **Investigación de records y curiosidades**: quién registró el record de partida más larga, qué champion tiene mayor probabilidad de pentakill, cómo varía la duración promedio de partida por rango. Útil para contenido y para debate de comunidad.
 
@@ -34,18 +34,18 @@ Lolalytics y League of Graphs cubren territorio adyacente y se complementan: Lol
 
 ## Para quién NO es esta herramienta
 
-League of Graphs es excelente para análisis histórico y visualización, pero no es lo que necesitás si:
+League of Graphs es excelente para análisis histórico y visualización, pero no es lo que necesitas si:
 
-- **Querés breakdowns granulares del patch actual** → Lolalytics es más profundo (filtros por skill cap, por composición, por timing) para análisis táctico inmediato.
-- **Querés guía de build rápida** → U.GG es más limpio y directo para esa función específica.
-- **Querés match history personal denso** → OP.GG es más completo en perfiles individuales.
-- **Querés coaching estructurado** → Mobalytics tiene el GPI; League of Graphs no entra en ese terreno.
+- **Quieres breakdowns granulares del patch actual** → Lolalytics es más profundo (filtros por skill cap, por composición, por timing) para análisis táctico inmediato.
+- **Quieres guía de build rápida** → U.GG es más limpio y directo para esa función específica.
+- **Quieres match history personal denso** → OP.GG es más completo en perfiles individuales.
+- **Quieres coaching estructurado** → Mobalytics tiene el GPI; League of Graphs no entra en ese terreno.
 
 ## Cómo se usa en la práctica
 
 1. Vas a `leagueofgraphs.com` (sin login).
 
-2. Buscás un champion o navegás por la home, que destaca tier lists y secciones de "Records" / "Statistics".
+2. Buscas un champion o navegas por la home, que destaca tier lists y secciones de "Records" / "Statistics".
 
 3. Vista de champion muestra: win rate actual, pero también gráfico de evolución de los últimos N patches, con marcas de buff/nerf en cada cambio relevante.
 
@@ -65,7 +65,7 @@ Para uso recurrente: bookmarkeá la URL de tu main para chequear evolución cada
 
 **Datasets de regiones más chicas son menos representativos**: como el resto del ecosistema, KR/NA/EUW son sólidos; LAS/LAN/OCE/BR pueden tener gaps en agregados temporales.
 
-**Sin app desktop ni overlay**: League of Graphs es exclusivamente web. Si querés integración con cliente o asistencia activa, necesitás otras tools.
+**Sin app desktop ni overlay**: League of Graphs es exclusivamente web. Si quieres integración con cliente o asistencia activa, necesitas otras tools.
 
 **Algunos gráficos requieren tiempo de lectura**: la presentación visual ayuda pero no reemplaza interpretación. Un usuario nuevo puede mirar un gráfico de evolución de win rate sin saber qué inferir — la tool no fuerza un "takeaway" como sí hace Mobalytics con el GPI.
 
@@ -73,10 +73,10 @@ Para uso recurrente: bookmarkeá la URL de tu main para chequear evolución cada
 
 1. Vas a `leagueofgraphs.com`. Sin registro.
 
-2. Buscá tu champion main. Mirá el gráfico de evolución del win rate — entendé qué pasó en los patches recientes y por qué.
+2. Busca tu champion main. Mira el gráfico de evolución del win rate — entendé qué pasó en los patches recientes y por qué.
 
-3. Explorá la pestaña Statistics general (top nav) — pasá 10 minutos curioseando data de comunidad. Es la sección más distintiva de la tool.
+3. Explora la pestaña Statistics general (top nav) — pasa 10 minutos curioseando data de comunidad. Es la sección más distintiva de la tool.
 
-4. Para cada patch nuevo, volvé a tu champion y notá si el cambio movió o no el win rate respecto a los patches previos. Eso te da intuición sobre si el balance change tuvo impacto real o no.
+4. Para cada patch nuevo, vuelve a tu champion y notá si el cambio movió o no el win rate respecto a los patches previos. Eso te da intuición sobre si el balance change tuvo impacto real o no.
 
 5. Si te interesa theorycrafting profundo del patch actual, complementá con Lolalytics. Las dos tools cubren ángulos distintos del mismo análisis estadístico — usar ambas en paralelo es lo común para players de elo medio-alto.

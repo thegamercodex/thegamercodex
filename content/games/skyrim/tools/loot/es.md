@@ -37,7 +37,7 @@ Frente al **sort en MO2**: MO2 también tiene LOOT integrado vía plugin. Standa
 
 **Detectar dirty edits**: LOOT identifica plugins con records "sucios" — ediciones no intencionales que pueden causar bugs. Te avisa para limpiarlos con SSEEdit.
 
-**Generar reporte de la modlist**: el botón "Copy load order" exporta el orden completo como texto, útil para compartir cuando pedís ayuda en foros.
+**Generar reporte de la modlist**: el botón "Copy load order" exporta el orden completo como texto, útil para compartir cuando pides ayuda en foros.
 
 **Validar antes de un playthrough largo**: antes de empezar un save serio, una corrida de LOOT confirma que todo está ordenado y no hay warnings críticos.
 
@@ -82,4 +82,4 @@ Si usas MO2: corre LOOT desde dentro de MO2 (botón en la barra superior). Esto 
 5. Cliquea "Sort" → revisa warnings → "Apply".
 6. Lanza Skyrim. Si arranca sin CTD, LOOT hizo su trabajo.
 
-Repetí el sort después de cada cambio de modlist. Hábito típico: instalar mods nuevos, correr LOOT, jugar.
+Repite el sort después de cada cambio de modlist. Hábito típico: instalar mods nuevos, correr LOOT, jugar.

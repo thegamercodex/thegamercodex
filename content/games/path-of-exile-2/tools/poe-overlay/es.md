@@ -42,35 +42,35 @@ Si estás en Linux o macOS, POE Overlay no es para ti — solo Windows. Las alte
 
 Si te incomoda software closed source en tu sistema, mejor las alternativas auditables.
 
-Si jugás SSF, no hay trade que monitorear — el overlay no aporta.
+Si juegas SSF, no hay trade que monitorear — el overlay no aporta.
 
-Si solo abrís el juego ocasionalmente, instalar Overwolf por unas horas a la semana es overkill. Para uso casual, las alternativas standalone son más livianas.
+Si solo abres el juego ocasionalmente, instalar Overwolf por unas horas a la semana es overkill. Para uso casual, las alternativas standalone son más livianas.
 
 ## Cómo se usa en la práctica
 
-1. Descargás desde `poeoverlay.com`. Eligís Overwolf (recomendado para updates auto) o standalone.
-2. Instalás siguiendo el wizard. Overwolf instala su runtime; standalone es directo.
-3. Abrís PoE 2. POE Overlay se inyecta como overlay sobre el cliente.
-4. Configurás hotkeys (default: Ctrl+D para price check, otros configurables).
+1. Descargas desde `poeoverlay.com`. Eliges Overwolf (recomendado para updates auto) o standalone.
+2. Instalas siguiendo el wizard. Overwolf instala su runtime; standalone es directo.
+3. Abres PoE 2. POE Overlay se inyecta como overlay sobre el cliente.
+4. Configuras hotkeys (default: Ctrl+D para price check, otros configurables).
 5. In-game, hover sobre un item + hotkey → aparece overlay con precio estimado.
 6. Para servicios: hotkey específico para abrir el browser integrado.
 
 ## Limitaciones honestas
 
-**Closed source**. No podés auditar el código ni forkear. Para algunos usuarios eso es deal-breaker; para otros, irrelevante.
+**Closed source**. No puedes auditar el código ni forkear. Para algunos usuarios eso es deal-breaker; para otros, irrelevante.
 
 **Solo Windows**. Linux y macOS quedan fuera. Las alternativas open source cubren esos sistemas.
 
-**Dependencia de Overwolf** (modo recomendado). Overwolf es runtime tercero con sus propios recursos y telemetry. Si instalás standalone, evitas Overwolf pero perdés updates automáticos.
+**Dependencia de Overwolf** (modo recomendado). Overwolf es runtime tercero con sus propios recursos y telemetry. Si instalas standalone, evitas Overwolf pero pierdes updates automáticos.
 
 **Trabaja sobre el API público de GGG**. Si GGG cambia rate-limits o estructura del trade, hay lag hasta que el equipo updatea.
 
 **Donation-funded, no commitment formal**. El proyecto se mantiene con donaciones (~938 donors mencionados). No hay contrato de servicio — si el equipo pausa el desarrollo, no hay alternativa contractual.
 
-**El "free" tiene asterisco indirecto**. Es free de usar, pero el modelo Overwolf inyecta posibles ads dentro de su propia interfaz (no del overlay PoE en sí). Si eso te molesta, instalá standalone.
+**El "free" tiene asterisco indirecto**. Es free de usar, pero el modelo Overwolf inyecta posibles ads dentro de su propia interfaz (no del overlay PoE en sí). Si eso te molesta, instala standalone.
 
 ## Cómo empezar
 
-Vas a `poeoverlay.com`. Eligís PoE Overlay II (PoE 2) o PoE Overlay clásico según el juego. Recomendado vía Overwolf para no perderte updates. Después de instalar, abrís PoE 2 y configurás hotkeys básicos.
+Vas a `poeoverlay.com`. Eliges PoE Overlay II (PoE 2) o PoE Overlay clásico según el juego. Recomendado vía Overwolf para no perderte updates. Después de instalar, abres PoE 2 y configuras hotkeys básicos.
 
-La curva de aprendizaje es chata: si ya usaste Awakened PoE Trade o cualquier overlay similar, el flow es prácticamente idéntico. La primera sesión usás solo el price check con hotkey; las features avanzadas (services, market history) las descubrís con el tiempo.
+La curva de aprendizaje es chata: si ya usaste Awakened PoE Trade o cualquier overlay similar, el flow es prácticamente idéntico. La primera sesión usas solo el price check con hotkey; las features avanzadas (services, market history) las descubres con el tiempo.

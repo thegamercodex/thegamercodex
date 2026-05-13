@@ -26,7 +26,7 @@ Frente al **Hello Games Release Log**: el release log son patch notes textuales 
 
 **Ver expediciones activas y sus rewards**: cuando arranca una expedition nueva, el atlas tiene la página con la lista de milestones y rewards exclusivos visibles antes de empezar.
 
-**Visualización de la escala del universo**: para ilustrar a alguien (o a vos mismo) cuán grande es NMS, el atlas tiene cinemáticas hermosas de zoom out por las galaxias.
+**Visualización de la escala del universo**: para ilustrar a alguien (o a tú mismo) cuán grande es NMS, el atlas tiene cinemáticas hermosas de zoom out por las galaxias.
 
 **Discoveries comunitarios curados por Hello Games**: los planetas marcados en el atlas no son random — son reportados al equipo y a veces curados por el staff.
 
@@ -71,6 +71,6 @@ Abres galacticatlas.nomanssky.com en un browser desktop o tablet (mobile funcion
 
 Espera unos segundos a que cargue la visualización 3D y empieza a hacer zoom. Los marcadores son interactivos.
 
-Si hay una expedition activa, cliqueá su entrada para ver milestones y rewards. Si vas a participar, anotá la fecha de cierre — las expediciones tienen ventanas finitas.
+Si hay una expedition activa, cliqueá su entrada para ver milestones y rewards. Si vas a participar, anota la fecha de cierre — las expediciones tienen ventanas finitas.
 
 Considera bookmarkearlo y volver al inicio de cada expedition (Hello Games lanza una expedition cada 2-3 meses) para no perderte rewards exclusivos.

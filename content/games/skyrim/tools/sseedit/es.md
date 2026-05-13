@@ -1,7 +1,7 @@
 ---
 title: "SSEEdit (xEdit for Skyrim SE)"
 description: "Variante de xEdit para Skyrim Special Edition: editor de plugins, detector de conflictos y herramienta de creación de patches de compatibilidad."
-quickTake: "Cuando dos mods chocan en el mismo record y uno tiene que ganar, SSEEdit es donde armás el patch. También es el cuchillo suizo para limpiar dirty edits y entender qué hace exactamente cada mod."
+quickTake: "Cuando dos mods chocan en el mismo record y uno tiene que ganar, SSEEdit es donde armas el patch. También es el cuchillo suizo para limpiar dirty edits y entender qué hace exactamente cada mod."
 ---
 
 ## Qué es
@@ -28,7 +28,7 @@ Frente a **Synthesis (auto-patcher)**: Synthesis es un framework de patches auto
 
 ## Para qué la usa la gente
 
-**Crear compatibility patches**: cuando dos mods chocan, abres ambos en SSEEdit, comparás los records en conflicto, y armás un tercer plugin que toma los valores que quieres. Salvás como .esp.
+**Crear compatibility patches**: cuando dos mods chocan, abres ambos en SSEEdit, comparas los records en conflicto, y armas un tercer plugin que toma los valores que quieres. Salvás como .esp.
 
 **Limpiar dirty edits**: corre "Apply Filter for Cleaning" → "Quick Clean" sobre el master plugin sucio. SSEEdit remueve ITM (identical to master) e ITPO (deleted records) records.
 
@@ -36,7 +36,7 @@ Frente a **Synthesis (auto-patcher)**: Synthesis es un framework de patches auto
 
 **Verificar leveled lists**: cuando agregas mods que añaden ítems al loot, los mods modifican leveled lists. SSEEdit te muestra si los ítems están entrando como esperas.
 
-**Generar reportes**: para debugging serio, puedes exportar el contenido del plugin como texto y compartirlo cuando pedís ayuda.
+**Generar reportes**: para debugging serio, puedes exportar el contenido del plugin como texto y compartirlo cuando pides ayuda.
 
 ## Para quién NO es esta herramienta
 
@@ -55,20 +55,20 @@ Si te abruma el modelo de records de Bethesda (FormIDs, masters, override priori
 5. Una vez cargado, navegá por el tree del left pane. Cada plugin tiene sus records agrupados por tipo (NPC_, ARMO, WEAP, QUST, etc.).
 6. Records en **rojo** son conflicts; click derecho → "Apply Filter for Conflicts" → mostrar solo los conflictivos.
 7. Para crear patch: selecciona los records conflictivos, click derecho → "Copy as override into..." → selecciona "<new file>" → nombrá tu patch.esp.
-8. En el patch nuevo, editá los valores de cada record para lo que quieres (ej: tomar el nombre del Mod A pero las stats del Mod B).
+8. En el patch nuevo, edita los valores de cada record para lo que quieres (ej: tomar el nombre del Mod A pero las stats del Mod B).
 9. Guarda. SSEEdit te pregunta confirmación antes de escribir cambios.
 
 ## Limitaciones honestas
 
 **Curva de aprendizaje pronunciada**. El UI es funcional pero denso. Hay decenas de tipos de records, FormIDs hexadecimales, masters, override chains. Wikis y videos de tutorial son obligatorios para arrancar.
 
-**No previene errores de gameplay**. Puedes guardar un patch sintácticamente válido que rompe el balance del juego. SSEEdit solo edita estructura — la lógica de gameplay la tienes que entender vos.
+**No previene errores de gameplay**. Puedes guardar un patch sintácticamente válido que rompe el balance del juego. SSEEdit solo edita estructura — la lógica de gameplay la tienes que entender tú.
 
 **Lectura de todo el modlist es lenta**. Para una modlist de 500 plugins, el load inicial es minutos. No es para abrir-cerrar rápido.
 
 **Algunos mods esconden complejidad**. Mods script-heavy (cosas que viven en Papyrus) no se ven completamente desde SSEEdit — necesitas también descompilar scripts o leer source.
 
-**Versiones**. SSEEdit (SE/AE) es distinto de TES5Edit (LE) y FO4Edit. Asegurate de usar la build correcta para tu versión.
+**Versiones**. SSEEdit (SE/AE) es distinto de TES5Edit (LE) y FO4Edit. Asegúrate de usar la build correcta para tu versión.
 
 ## Cómo empezar
 

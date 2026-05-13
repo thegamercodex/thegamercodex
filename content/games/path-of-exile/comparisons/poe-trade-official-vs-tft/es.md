@@ -1,5 +1,5 @@
 ---
-title: Sitio oficial de trade vs TFT — dónde tradear según qué necesitás
+title: Sitio oficial de trade vs TFT — dónde tradear según qué necesitas
 description: Comparación corta entre el sitio de trading oficial de GGG y el Discord TFT. Cubren tipos de trade distintos.
 ---
 
@@ -7,7 +7,7 @@ Ambos son herramientas centrales para tradear en PoE, pero cubren spectrums dist
 
 ## Tipos de trade que cubre cada uno
 
-El sitio oficial brilla para **ítems individuales**: buscás "ring con +30 life y resistance fire", encontrás 200 resultados, elegís uno, hacés whisper, completás el trade en-game. Para el 80% de los trades de un mapper típico, esto es lo único que necesitás. La UI tiene filtros poderosos, integration nativa con el cliente, y es la fuente verificada (no hay middlemen, sos vos y el seller directamente).
+El sitio oficial brilla para **ítems individuales**: buscas "ring con +30 life y resistance fire", encuentras 200 resultados, eliges uno, haces whisper, completas el trade en-game. Para el 80% de los trades de un mapper típico, esto es lo único que necesitas. La UI tiene filtros poderosos, integration nativa con el cliente, y es la fuente verificada (no hay middlemen, eres tú y el seller directamente).
 
 TFT cubre el 20% restante pero crítico:
 
@@ -18,9 +18,9 @@ TFT cubre el 20% restante pero crítico:
 
 ## Fricción y velocidad
 
-El sitio oficial: buscás, copias whisper, esperás respuesta del seller, te invita a su hideout, completás el trade. Tiempo típico: 1-5 minutos por trade si el seller responde. Fricción media: el seller puede estar AFK, no responder o haber listado un precio "trap" (precio bajo para atraer pero después no completa).
+El sitio oficial: buscas, copias whisper, esperas respuesta del seller, te invita a su hideout, completas el trade. Tiempo típico: 1-5 minutos por trade si el seller responde. Fricción media: el seller puede estar AFK, no responder o haber listado un precio "trap" (precio bajo para atraer pero después no completa).
 
-TFT: posteás tu pedido en el canal correcto, alguien con reputación responde, coordinan en DM, se completa el trade. Tiempo típico: similar pero con menos AFK risk porque los traders activos están en línea. Fricción mayor de entrada: tenés que entender la cultura del server, las reglas de cada canal, leer las pinned notes. Pero una vez que aprendiste el sistema, los trades grandes se cierran rápido.
+TFT: posteas tu pedido en el canal correcto, alguien con reputación responde, coordinan en DM, se completa el trade. Tiempo típico: similar pero con menos AFK risk porque los traders activos están en línea. Fricción mayor de entrada: tienes que entender la cultura del server, las reglas de cada canal, leer las pinned notes. Pero una vez que aprendiste el sistema, los trades grandes se cierran rápido.
 
 ## Servicios y reputación
 
@@ -32,7 +32,7 @@ Para servicios pagos (carries, levelings), TFT es el hub donde se concentra el o
 
 - **Trade individual de un ítem específico** → sitio oficial. Es lo que hace mejor.
 - **Bulk currency, services, mirror items** → TFT. Sin alternativa real.
-- **Sos nuevo y solo querés equiparte para mapping** → sitio oficial. La curva de aprendizaje de TFT no vale la pena para tus primeros 100 trades.
+- **Eres nuevo y solo quieres equiparte para mapping** → sitio oficial. La curva de aprendizaje de TFT no vale la pena para tus primeros 100 trades.
 - **Te estás metiendo en el endgame económico de PoE** → ambos, en paralelo, sin debate.
 
 TFT tiene un onboarding sólido en el server (canal `#getting-started` y reglas pinned por canal). Si nunca lo usaste, **vale la pena entrar y leer 20 minutos** antes de necesitar un service específico; ahorra fricción cuando llegue el momento.

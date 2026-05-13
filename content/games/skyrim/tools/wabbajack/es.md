@@ -14,7 +14,7 @@ Cómo funciona técnicamente: un autor de modlist construye su setup completo en
 
 Armar una modlist seria de Skyrim toma semanas: investigar mods, instalar, probar conflicts, parchear, retest, repetir. Para players que solo quieren jugar Skyrim "con todo arreglado" sin convertirse en modder full-time, eso es prohibitivo.
 
-Wabbajack invierte la ecuación: en vez de que cada player rearme su modlist desde cero, autores expertos publican sus setups completos. Vos los descargás y los instalas. La modlist resultante incluye:
+Wabbajack invierte la ecuación: en vez de que cada player rearme su modlist desde cero, autores expertos publican sus setups completos. Tú los descargas y los instalas. La modlist resultante incluye:
 - 200-1500 mods compatibles entre sí.
 - Patches custom hechos por el autor.
 - INI tweaks y configuraciones afinadas.
@@ -32,7 +32,7 @@ Frente a **NolvusAscension installer o STEP Guide manual**: Nolvus tiene su prop
 
 **Probar setups distintos sin perder el actual**: cada modlist instala en su carpeta separada. Tienes 3-4 modlists distintas en disco y eliges cuál jugar.
 
-**Compartir tu setup**: si vos construiste una modlist y quieres que tus amigos jueguen lo mismo, "compilás" tu MO2 y compartís el `.wabbajack`. Ellos lo instalan y obtienen el clon exacto.
+**Compartir tu setup**: si tú construiste una modlist y quieres que tus amigos jueguen lo mismo, "compilas" tu MO2 y compartes el `.wabbajack`. Ellos lo instalan y obtienen el clon exacto.
 
 **Backup de tu propia modlist**: el archivo `.wabbajack` es portátil. Si reinstalas Windows, puedes recompilar la modlist sin re-descargar cada mod manualmente.
 
@@ -60,7 +60,7 @@ Si no tienes Nexus Premium, las descargas vía Wabbajack son LENTAS — Nexus li
 
 **Versión de Skyrim crítica**. Muchas modlists requieren una versión específica (1.5.97 "SSE" o 1.6.640 "AE pre-2023"). Si tu Steam updateó a una versión nueva, vas a tener que downgradear con Best of Both Worlds patch o similar.
 
-**No es un mod manager interactivo**. Wabbajack instala una modlist y se "olvida". Una vez instalada, gestionás la modlist con MO2 (que viene incluido). Agregar mods adicionales requiere conocimiento de MO2.
+**No es un mod manager interactivo**. Wabbajack instala una modlist y se "olvida". Una vez instalada, gestionas la modlist con MO2 (que viene incluido). Agregar mods adicionales requiere conocimiento de MO2.
 
 **Modlists pueden romper con Bethesda updates**. Si Bethesda lanza un patch nuevo, las modlists existentes pueden quedar incompatibles hasta que el autor publique una versión actualizada.
 

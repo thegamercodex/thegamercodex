@@ -6,7 +6,7 @@ quickTake: "Si quieres ahorrarte 20 horas farmeando un ship exótico o un multi-
 
 ## Qué es
 
-NMS Coordinate Exchange es una web app comunitaria que cataloga coordenadas de portal compartidas por jugadores. Cada entry incluye los 12 glyphs del portal, una categoría (planeta, ship, multi-tool, freighter, base, settlement), descripción, screenshots opcionales y reviews de otros usuarios. La idea: vos aterrizas a la fuerza un planeta increíble o encuentras un ship exótico, lo subes con coordenadas, y otros jugadores pueden teleportarse al mismo lugar.
+NMS Coordinate Exchange es una web app comunitaria que cataloga coordenadas de portal compartidas por jugadores. Cada entry incluye los 12 glyphs del portal, una categoría (planeta, ship, multi-tool, freighter, base, settlement), descripción, screenshots opcionales y reviews de otros usuarios. La idea: tú aterrizas a la fuerza un planeta increíble o encuentras un ship exótico, lo subes con coordenadas, y otros jugadores pueden teleportarse al mismo lugar.
 
 La plataforma soporta búsqueda por categoría, filtros por galaxia (NMS tiene 256 galaxias procedurales y solo Euclid es la inicial), y ordenamiento por rating. Es completamente gratis, sin ads agresivos, y existe desde las primeras versiones del juego.
 
@@ -69,10 +69,10 @@ Si quieres solo ver el universo público globalmente, el Galactic Atlas oficial 
 
 ## Cómo empezar
 
-Vas a nmsce.com y empiezas navegando sin login — todas las búsquedas son públicas. Probá buscar por categoría "Exotic Ship" en Euclid para tener una idea del tipo de contenido.
+Vas a nmsce.com y empiezas navegando sin login — todas las búsquedas son públicas. Prueba buscar por categoría "Exotic Ship" en Euclid para tener una idea del tipo de contenido.
 
-Si vas a usar la base seguido o quieres contribuir, creá cuenta gratis (registro simple con email).
+Si vas a usar la base seguido o quieres contribuir, crea cuenta gratis (registro simple con email).
 
-En el juego, asegurate de tener portales desbloqueados (necesitas aprender los 16 glyphs primero — la quest "The Purge" o farmeo de Travellers te dan los glyphs). Sin portales no puedes usar coords directamente.
+En el juego, asegúrate de tener portales desbloqueados (necesitas aprender los 16 glyphs primero — la quest "The Purge" o farmeo de Travellers te dan los glyphs). Sin portales no puedes usar coords directamente.
 
 Cuando uses una coord exitosa, deja review confirmando — eso ayuda a mantener la base limpia.

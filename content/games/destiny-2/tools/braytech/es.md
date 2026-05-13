@@ -14,7 +14,7 @@ Su foco está en **tracking de progresión**: vendor checklists, bounty tracker,
 
 Destiny 2 tiene tantos sistemas paralelos de progresión que mantenerse al día desde dentro del juego es difícil. Vendor checklists (cada NPC tiene items rotativos), triumphs (miles de logros), collections (todo lo que has obtenido alguna vez), bounties activos, lost sector rotation. Cada uno está en una pestaña distinta del juego, sin overview unificado.
 
-Braytech consolida todo eso en una pantalla buscable. Abrís el sitio y ves: qué triumphs te faltan para X título, qué inventory tiene Banshee esta semana, qué bounties activos tenés, qué lost sector está hoy en master. La toma de decisiones de "qué hacer en esta sesión" se simplifica.
+Braytech consolida todo eso en una pantalla buscable. Abres el sitio y ves: qué triumphs te faltan para X título, qué inventory tiene Banshee esta semana, qué bounties activos tienes, qué lost sector está hoy en master. La toma de decisiones de "qué hacer en esta sesión" se simplifica.
 
 ## Diferenciación
 
@@ -26,7 +26,7 @@ Frente a la app Companion oficial, Braytech tiene mejor búsqueda y customizaci�
 
 ## Para qué la usa la gente
 
-**Vendor checklists**: ver qué items tiene cada vendor (Banshee, Spider, Saint-14) y cuáles ya tenés en collections. Ahorra el trip al juego.
+**Vendor checklists**: ver qué items tiene cada vendor (Banshee, Spider, Saint-14) y cuáles ya tienes en collections. Ahorra el trip al juego.
 
 **Triumph progress**: filtrar triumphs por seal/título (Conqueror, Flawless, Dredgen) y ver % de completion. Útil para chase de títulos.
 
@@ -38,15 +38,15 @@ Frente a la app Companion oficial, Braytech tiene mejor búsqueda y customizaci�
 
 ## Para quién NO es esta herramienta
 
-Si jugás Destiny 2 sin completionist drive (sólo te interesan raids o PvP), Braytech tiene utility limitada. Su valor está en chase de seals, triumphs y collections.
+Si juegas Destiny 2 sin completionist drive (sólo te interesan raids o PvP), Braytech tiene utility limitada. Su valor está en chase de seals, triumphs y collections.
 
-Si querés algo súper minimal con sólo "qué hago hoy", Where Is Xur + un checklist resumido pueden ser suficientes. Braytech es opt-in para auditoría completa.
+Si quieres algo súper minimal con sólo "qué hago hoy", Where Is Xur + un checklist resumido pueden ser suficientes. Braytech es opt-in para auditoría completa.
 
-Si no tenés cuenta Bungie.net pública, mucha de la funcionalidad personal está bloqueada (aunque las páginas globales — vendor inventories, lost sector rotation — funcionan sin login).
+Si no tienes cuenta Bungie.net pública, mucha de la funcionalidad personal está bloqueada (aunque las páginas globales — vendor inventories, lost sector rotation — funcionan sin login).
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `bray.tech`. Sin login podés ver vendor inventories y lost sector rotation.
+1. Entras a `bray.tech`. Sin login puedes ver vendor inventories y lost sector rotation.
 2. Para tracking personal: link con Bungie OAuth. La página se llena con tu progresión específica.
 3. Pestaña "Vendors" muestra cada NPC con su inventory rotativo. Filtros para "no tengo aún".
 4. Pestaña "Triumphs" filtra por seal. Click en un seal para ver desglose de triumphs requeridos.
@@ -62,8 +62,8 @@ Si no tenés cuenta Bungie.net pública, mucha de la funcionalidad personal est�
 
 **Mantenimiento depende del owner solo**. Es proyecto de un dev, sin equipo. Riesgo de futuro: si Tom deja de mantenerlo, no hay garantía de continuidad. Hasta hoy (2026) sigue activo.
 
-**Diseño minimalista puede ser cold para algunos**. La UI prioriza función sobre warmth — no hay decoración, todo es grilla y data. Si preferís UIs más amigables, otras tools ganan en feel.
+**Diseño minimalista puede ser cold para algunos**. La UI prioriza función sobre warmth — no hay decoración, todo es grilla y data. Si prefieres UIs más amigables, otras tools ganan en feel.
 
 ## Cómo empezar
 
-Entrá a `bray.tech`. Sin login, navegá vendor inventories de la semana actual. Después linkeá tu Bungie con OAuth y revisá triumphs por seal — encontrás un par que estás cerca de completar y nunca habías notado. Esa es la propuesta de valor: visibility sobre cosas que el juego esconde.
+Entra a `bray.tech`. Sin login, navegá vendor inventories de la semana actual. Después linkeá tu Bungie con OAuth y revisa triumphs por seal — encuentras un par que estás cerca de completar y nunca habías notado. Esa es la propuesta de valor: visibility sobre cosas que el juego esconde.

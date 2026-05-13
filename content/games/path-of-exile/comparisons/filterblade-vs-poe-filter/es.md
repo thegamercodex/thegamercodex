@@ -7,15 +7,15 @@ Filtrar loot bien es una de las skills no obvias de PoE: la diferencia entre un 
 
 ## Filosofía
 
-**FilterBlade** es el panel de control para customizar el filter de NeverSink — el filter más usado y mantenido de la comunidad PoE. Está pensado para coverage completa: todo el loot del juego, organizado por tiers de strictness (Soft, Regular, Semi-Strict, Strict, Very Strict, Uber-Strict). Estás eligiendo cuánto ocultar dentro de un sistema que asume que querés ver mucho y filtrar agresivamente cuando hace falta.
+**FilterBlade** es el panel de control para customizar el filter de NeverSink — el filter más usado y mantenido de la comunidad PoE. Está pensado para coverage completa: todo el loot del juego, organizado por tiers de strictness (Soft, Regular, Semi-Strict, Strict, Very Strict, Uber-Strict). Estás eligiendo cuánto ocultar dentro de un sistema que asume que quieres ver mucho y filtrar agresivamente cuando hace falta.
 
 **PoE Filter** parte de la filosofía opuesta: un filter limpio, minimal, que respeta la estética visual original del juego. Menos colores fluo, menos íconos cargados, menos sounds intrusivos. Es el filter para alguien que prefiere ver el loot del juego "como está" pero con ayuda discreta en lo importante.
 
 ## Customización
 
-FilterBlade tiene la UI de customización más completa: cada categoría de ítem editable por tier, con preview en tiempo real, sound packs, drop sounds, mini map icons, beams, y la capacidad de override granular cualquier rule específica. Si querés cambiar exactamente cómo se ve un Headhunter cuando dropea (color, tamaño, sonido, icono), lo hacés en tres clicks.
+FilterBlade tiene la UI de customización más completa: cada categoría de ítem editable por tier, con preview en tiempo real, sound packs, drop sounds, mini map icons, beams, y la capacidad de override granular cualquier rule específica. Si quieres cambiar exactamente cómo se ve un Headhunter cuando dropea (color, tamaño, sonido, icono), lo haces en tres clicks.
 
-PoE Filter ofrece customización más acotada pero suficiente para la mayoría: drop tier configurable, integración con poe.ninja para que los tiers se ajusten al valor real del mercado por liga, y una UI más simple. Si no necesitás cambiar 50 reglas específicas, llegás a un buen filter con menos esfuerzo cognitivo.
+PoE Filter ofrece customización más acotada pero suficiente para la mayoría: drop tier configurable, integración con poe.ninja para que los tiers se ajusten al valor real del mercado por liga, y una UI más simple. Si no necesitas cambiar 50 reglas específicas, llegas a un buen filter con menos esfuerzo cognitivo.
 
 Para builders de filters que quieren control total, FilterBlade gana. Para players que quieren un "good enough" rápido, PoE Filter gana.
 
@@ -27,9 +27,9 @@ PoE Filter también se actualiza pero tiene menos presión comunitaria detrás. 
 
 ## ¿Cuál usar?
 
-- **Si jugás endgame en serio y querés el filter más completo del juego** → FilterBlade. Es el estándar de facto por algo.
-- **Si estás empezando y querés un filter discreto y limpio** → PoE Filter. Menos overwhelming visualmente.
+- **Si juegas endgame en serio y quieres el filter más completo del juego** → FilterBlade. Es el estándar de facto por algo.
+- **Si estás empezando y quieres un filter discreto y limpio** → PoE Filter. Menos overwhelming visualmente.
 - **Si te importa integración nativa con poe.ninja para que el filter se ajuste al valor real** → PoE Filter. Es feature distintivo.
-- **Si querés sound packs custom y control granular extremo** → FilterBlade. Solo gana acá.
+- **Si quieres sound packs custom y control granular extremo** → FilterBlade. Solo gana acá.
 
-Como con muchas comparativas en PoE, **probar las dos toma 10 minutos cada una**. Ambas son web tools que generan un archivo `.filter` que pegás en tu carpeta de PoE. Cambiar es trivial.
+Como con muchas comparativas en PoE, **probar las dos toma 10 minutos cada una**. Ambas son web tools que generan un archivo `.filter` que pegas en tu carpeta de PoE. Cambiar es trivial.

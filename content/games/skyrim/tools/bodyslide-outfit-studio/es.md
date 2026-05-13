@@ -1,7 +1,7 @@
 ---
 title: "BodySlide and Outfit Studio"
 description: "Editor open-source para customizar body types (CBBE, UNP, 3BA) y adaptar armaduras al body elegido sin romper el rigging."
-quickTake: "Si tu modlist incluye CBBE, UNP o 3BA y armaduras custom, BodySlide es donde unís todo. Sin él, las armaduras no se ajustan al body y aparecen clipping o gaps."
+quickTake: "Si tu modlist incluye CBBE, UNP o 3BA y armaduras custom, BodySlide es donde unes todo. Sin él, las armaduras no se ajustan al body y aparecen clipping o gaps."
 ---
 
 ## Qué es
@@ -47,7 +47,7 @@ Frente a **Outfit Studio standalone**: Outfit Studio viene incluido en el pack d
 
 Si juegas con male character y no usas body replacements masculinos custom (HIMBO, SOS), no necesitas BodySlide.
 
-Si juegas con female character pero no instalaste body replacement y te conformás con el vanilla, BodySlide es overhead.
+Si juegas con female character pero no instalaste body replacement y te conformas con el vanilla, BodySlide es overhead.
 
 Si modeas Skyrim solo a nivel gameplay (combat overhauls, quest mods) sin tocar cosmetics, BodySlide no aporta.
 

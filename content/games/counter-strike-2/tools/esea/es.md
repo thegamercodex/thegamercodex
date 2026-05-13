@@ -1,7 +1,7 @@
 ---
 title: "ESEA"
 description: "Plataforma de matchmaking competitivo de larga trayectoria en Counter-Strike, conocida por su anti-cheat propietario (ESEA Client) y sus ligas estructuradas (Premier/Main/Intermediate/Open). Adquirida por FACEIT en 2019."
-quickTake: "Legacy con prestigio histórico, hoy en sombra de Faceit dentro del mismo corporate group. Si buscás liga estructurada estilo temporadas con promotion/relegation, ESEA todavía la ofrece — pero el matchmaking persistente quedó como territorio de Faceit."
+quickTake: "Legacy con prestigio histórico, hoy en sombra de Faceit dentro del mismo corporate group. Si buscas liga estructurada estilo temporadas con promotion/relegation, ESEA todavía la ofrece — pero el matchmaking persistente quedó como territorio de Faceit."
 ---
 
 ## Qué es
@@ -18,7 +18,7 @@ El modelo es de **subscripción paga** desde siempre (~12 USD/mes históricament
 
 ESEA cubre dos casos distintos hoy:
 
-**1. Ligas estructuradas con seasons**: si querés competir en formato season-based con divisiones, promotion/relegation, calendar fijo y standings, ESEA todavía corre eso. Es más estructurado que el matchmaking continuo de Faceit.
+**1. Ligas estructuradas con seasons**: si quieres competir en formato season-based con divisiones, promotion/relegation, calendar fijo y standings, ESEA todavía corre eso. Es más estructurado que el matchmaking continuo de Faceit.
 
 **2. Legacy users**: una población conservadora de la escena CS — especialmente NA — siguió usando ESEA porque "es lo que conocen". Para ellos sigue siendo plataforma viable.
 
@@ -26,7 +26,7 @@ Para casi cualquier otro caso (matchmaking serio cotidiano, anti-cheat fuerte, q
 
 ## Para qué la usa la gente
 
-**Jugar ligas ESEA por season**: el formato "Open → Intermediate → Main → Premier" con promotion/relegation. Atractivo si querés progresión estructurada con calendar fijo.
+**Jugar ligas ESEA por season**: el formato "Open → Intermediate → Main → Premier" con promotion/relegation. Atractivo si quieres progresión estructurada con calendar fijo.
 
 **Mantener historial legacy**: players con cuentas ESEA de 5-10+ años suelen mantenerlas por nostalgia, ranking histórico y stats acumuladas.
 
@@ -45,15 +45,15 @@ ESEA es excelente para legacy y ligas estructuradas pero no es:
 
 ## Cómo se usa en la práctica
 
-1. Vas a `play.esea.net` y registrás cuenta. Conectás Steam.
+1. Vas a `play.esea.net` y registras cuenta. Conectas Steam.
 
 2. Subscribís a una tier paga (la free es muy limitada).
 
-3. Descargás el **ESEA Client** (Windows) que sirve como anti-cheat y launcher para PUG/leagues.
+3. Descargas el **ESEA Client** (Windows) que sirve como anti-cheat y launcher para PUG/leagues.
 
-4. Para PUG (matchmaking informal): entrás al lobby de tu división y joineás partidos.
+4. Para PUG (matchmaking informal): entras al lobby de tu división y joineas partidos.
 
-5. Para ligas: te inscribís a la season activa (con un equipo registrado o como free agent) en la división que corresponda a tu skill.
+5. Para ligas: te inscribes a la season activa (con un equipo registrado o como free agent) en la división que corresponda a tu skill.
 
 6. Stats y ranking se actualizan automáticamente. El perfil tiene historial de seasons jugadas.
 
@@ -61,7 +61,7 @@ ESEA es excelente para legacy y ligas estructuradas pero no es:
 
 **Decline notable post-CS2**: la base activa de ESEA es notoriamente más chica que en su pico (2010-2018). Encontrar match rápido fuera de prime time NA puede ser difícil.
 
-**Paywall obligatorio**: tier free es básicamente solo lookup. Para jugar necesitás subscribir, lo cual es barrera adicional vs Faceit.
+**Paywall obligatorio**: tier free es básicamente solo lookup. Para jugar necesitas subscribir, lo cual es barrera adicional vs Faceit.
 
 **Anti-cheat dated comparado con FACEIT AC**: el ESEA Client fue de los mejores en su época pero hoy FACEIT AC es considerado más actualizado contra cheats modernos.
 
@@ -81,6 +81,6 @@ ESEA es excelente para legacy y ligas estructuradas pero no es:
 
 4. Si tu interés es matchmaking informal: PUG queues. Si tu interés es ligas: inscribirte a la season activa de tu división.
 
-5. Si estás empezando en CS2 competitivo en 2026: probablemente Faceit es mejor primer paso. ESEA tiene sentido principalmente si valorás formato season-based o tenés cuenta legacy.
+5. Si estás empezando en CS2 competitivo en 2026: probablemente Faceit es mejor primer paso. ESEA tiene sentido principalmente si valoras formato season-based o tienes cuenta legacy.
 
 6. Para cross-tracking de stats ESEA, CS Stats integra históricamente con la API.

@@ -15,7 +15,7 @@ Funciona generando archivos `.nif` y `.dds` que extienden el sistema de LOD vani
 
 ## Qué problema resuelve
 
-Skyrim vanilla maneja distance rendering muy simplificadamente: a partir de ~500 metros, todo se vuelve un billboard plano del terreno. Casas, torres, árboles individuales — desaparecen. Esto causa el famoso "pop-in" cuando te acercás.
+Skyrim vanilla maneja distance rendering muy simplificadamente: a partir de ~500 metros, todo se vuelve un billboard plano del terreno. Casas, torres, árboles individuales — desaparecen. Esto causa el famoso "pop-in" cuando te acercas.
 
 DynDOLOD genera LODs detallados que persisten a distancia mucho mayor. El resultado: paisajes con profundidad real, ruinas visibles desde montañas lejanas, árboles individuales a 2 km, ciudades reconocibles desde el horizonte.
 
@@ -29,7 +29,7 @@ Frente a **mods de "Skyrim Distant" packs**: son packs estáticos pre-generados.
 
 ## Para qué la usa la gente
 
-**Eliminar pop-in visible**: el síntoma más obvio del problema. Después de DynDOLOD, te paseás por Skyrim sin ver objetos materializándose a 200 metros.
+**Eliminar pop-in visible**: el síntoma más obvio del problema. Después de DynDOLOD, te paseas por Skyrim sin ver objetos materializándose a 200 metros.
 
 **Habilitar screenshot-grade graphics**: las modlists "fotorealistas" (Nordic Souls, The Phoenix Flavour, ELFX setups serios) usan DynDOLOD como capa final. Sin él, el setup gráfico se desperdicia más allá del LOD draw distance.
 
@@ -70,7 +70,7 @@ Cada vez que cambies mods que afectan el world (cells nuevas, ciudades modificad
 
 **Performance cost**. Más detail a distancia = más draw calls. La diferencia entre Low y Ultra es notable en FPS — hay que balancear según hardware.
 
-**Versión específica de DynDOLOD por versión de Skyrim**. Builds para SE 1.5.97 ≠ AE 1.6.x ≠ VR. Asegurate de la matching build.
+**Versión específica de DynDOLOD por versión de Skyrim**. Builds para SE 1.5.97 ≠ AE 1.6.x ≠ VR. Asegúrate de la matching build.
 
 **No es open-source**. DynDOLOD tiene licencia restrictiva. El binario es free, pero no puedes redistribuirlo ni forkearlo.
 

@@ -38,7 +38,7 @@ Frente a **SkyUI VR**: SkyUI VR es la versión para Skyrim VR. Mismo concepto pe
 
 **Búsqueda fuzzy**: typear parte del nombre para encontrar un ítem específico entre 300 en tu stash.
 
-**Barter mejorado**: cuando comerciás con NPCs, el barter screen tiene la misma estructura — sorting, filtros, ratios.
+**Barter mejorado**: cuando comercias con NPCs, el barter screen tiene la misma estructura — sorting, filtros, ratios.
 
 ## Para quién NO es esta herramienta
 
@@ -50,7 +50,7 @@ Si tu modlist es vanilla puro sin otros mods que dependen de MCM, técnicamente 
 
 ## Cómo se usa en la práctica
 
-1. Asegurate que tienes SKSE64 instalado (SkyUI lo requiere).
+1. Asegúrate que tienes SKSE64 instalado (SkyUI lo requiere).
 2. Baja SkyUI desde Nexus (`nexusmods.com/skyrimspecialedition/mods/12604`).
 3. Instala vía MO2/Vortex con "Mod Manager Download".
 4. Actívala.

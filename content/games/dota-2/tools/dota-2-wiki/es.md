@@ -1,7 +1,7 @@
 ---
 title: "Dota 2 Wiki"
 description: "Wiki comunitaria de Dota 2 sobre Fandom: base de datos enciclopédica con páginas de héroes, items, mecánicas, lore, historia, parches e información de developer. Multilingüe."
-quickTake: "Cuando necesitás verificar una habilidad específica de un héroe, una interacción de items o un detalle de mecánica, esta es tu referencia. La data técnica del juego documentada exhaustivamente."
+quickTake: "Cuando necesitas verificar una habilidad específica de un héroe, una interacción de items o un detalle de mecánica, esta es tu referencia. La data técnica del juego documentada exhaustivamente."
 ---
 
 ## Qué es
@@ -16,11 +16,11 @@ La wiki es totalmente gratis y ad-supported (Fandom hostea ads). Cualquiera pued
 
 Los tooltips in-game de Dota 2 son limitados. Te dan la descripción básica de la habilidad pero no la fórmula exacta, las interacciones posibles con items, los edge cases (funciona contra magic immunity? stackea con otro efecto similar?) o el historial completo de cambios de la habilidad.
 
-Dota 2 Wiki documenta todo eso exhaustivamente. Cuando necesitás verificar "el Spirit Vessel slow se aplica a unidades spell-immune?" o "cuánto cuesta exactamente cada upgrade del Aghanim Shard", la wiki tiene la respuesta precisa. Los tooltips del sitio de Dotabuff o D2PT son funcionales pero frecuentemente resumidos — la wiki tiene la profundidad técnica completa.
+Dota 2 Wiki documenta todo eso exhaustivamente. Cuando necesitas verificar "el Spirit Vessel slow se aplica a unidades spell-immune?" o "cuánto cuesta exactamente cada upgrade del Aghanim Shard", la wiki tiene la respuesta precisa. Los tooltips del sitio de Dotabuff o D2PT son funcionales pero frecuentemente resumidos — la wiki tiene la profundidad técnica completa.
 
 ## Para qué la usa la gente
 
-**Verificación de fórmulas de habilidades**: cuando querés saber exactamente cuánto damage hace tu nuke en nivel X, con Y stats y Z items, la wiki tiene la fórmula.
+**Verificación de fórmulas de habilidades**: cuando quieres saber exactamente cuánto damage hace tu nuke en nivel X, con Y stats y Z items, la wiki tiene la fórmula.
 
 **Entender interacciones de items**: muchos items de Dota 2 tienen interacciones complejas (el Diffusal Blade burn mana funciona contra magic immunity? Sí, parcialmente). La wiki documenta esos edge cases.
 
@@ -74,7 +74,7 @@ No se necesita registro para browsear.
 
 2. Para consultar un héroe, item o mecánica específica, usar el search en la parte superior de la página.
 
-3. Si consultás los mismos héroes frecuentemente, marcar sus páginas como bookmarks para acceso instantáneo.
+3. Si consultas los mismos héroes frecuentemente, marcar sus páginas como bookmarks para acceso instantáneo.
 
 4. Activar ad-blocker si los ads de Fandom te molestan — son notorios en este sitio.
 

@@ -42,11 +42,11 @@ Si en algún momento Leaguepedia migra a un hosting independiente (como hicieron
 
 ## Para quién NO es esta herramienta
 
-Leaguepedia es excelente para histórico y data confirmada, pero no es lo que necesitás si:
+Leaguepedia es excelente para histórico y data confirmada, pero no es lo que necesitas si:
 
-- **Querés stats analíticas profundas de pro plays** → Gol.gg y Oracle's Elixir descomponen métricas avanzadas (KDA, gold differential, vision score) con análisis estadístico que Leaguepedia no provee.
-- **Querés información del juego (champions, items, lore)** → la wiki oficial de LoL (`wiki.leagueoflegends.com`) es la fuente. Leaguepedia es solo esports.
-- **Querés cobertura editorial / hot takes / reporting** → Leaguepedia es enciclopedia, no medio. Para análisis editorial buscá sites de noticias específicos del esports.
+- **Quieres stats analíticas profundas de pro plays** → Gol.gg y Oracle's Elixir descomponen métricas avanzadas (KDA, gold differential, vision score) con análisis estadístico que Leaguepedia no provee.
+- **Quieres información del juego (champions, items, lore)** → la wiki oficial de LoL (`wiki.leagueoflegends.com`) es la fuente. Leaguepedia es solo esports.
+- **Quieres cobertura editorial / hot takes / reporting** → Leaguepedia es enciclopedia, no medio. Para análisis editorial busca sites de noticias específicos del esports.
 - **Te bloquean los ads de Fandom** → la experiencia sin ad-blocker es genuinamente mala. Ad-blocker resuelve el problema pero algunos usuarios prefieren no usarlo.
 
 ## Cómo se usa en la práctica
@@ -63,7 +63,7 @@ Leaguepedia es excelente para histórico y data confirmada, pero no es lo que ne
 
 6. Para investigaciones complejas, Leaguepedia tiene "data queries" que permiten cross-reference info (ej: "todos los jugadores que han ganado Worlds y MSI en el mismo año").
 
-Para uso recurrente: bookmarkeá las páginas de tus teams favoritos y de los torneos que seguís — se actualizan en tiempo casi-real durante eventos.
+Para uso recurrente: bookmarkeá las páginas de tus teams favoritos y de los torneos que sigues — se actualizan en tiempo casi-real durante eventos.
 
 ## Limitaciones honestas
 
@@ -83,10 +83,10 @@ Para uso recurrente: bookmarkeá las páginas de tus teams favoritos y de los to
 
 2. **Activá un ad-blocker antes de navegar** — la experiencia sin él es notablemente peor. uBlock Origin es la opción estándar.
 
-3. Buscá un equipo o jugador que te interese. Explorá la sección "History" del roster — es la sección más distintiva, muestra cada cambio de line con fechas exactas.
+3. Busca un equipo o jugador que te interese. Explora la sección "History" del roster — es la sección más distintiva, muestra cada cambio de line con fechas exactas.
 
-4. Para tracking de torneos en curso (MSI, Worlds, ligas regionales), bookmarkeá la página del torneo y volvé durante el evento — los editores actualizan en tiempo casi-real.
+4. Para tracking de torneos en curso (MSI, Worlds, ligas regionales), bookmarkeá la página del torneo y vuelve durante el evento — los editores actualizan en tiempo casi-real.
 
-5. Si querés stats analíticas profundas (no solo resultados), complementá con Gol.gg u Oracle's Elixir.
+5. Si quieres stats analíticas profundas (no solo resultados), complementá con Gol.gg u Oracle's Elixir.
 
-6. Para datos del juego mismo (champions, items, mecánicas, lore), no busques acá — andá a `wiki.leagueoflegends.com`. Leaguepedia es exclusivamente esports.
+6. Para datos del juego mismo (champions, items, mecánicas, lore), no busques acá — anda a `wiki.leagueoflegends.com`. Leaguepedia es exclusivamente esports.

@@ -32,7 +32,7 @@ Frente a **CET console** (editar via runtime Lua): CET puede modificar player st
 
 **Cambiar apariencia de V mid-playthrough**: Cyberpunk 2077 base no tiene mirror para re-customizar (lo agregaron en un patch, pero algunos players quieren más options). CyberCAT te deja editar todos los sliders de creator desde fuera.
 
-**Respec sin Tarot Card**: en lugar de gastar el item raro, abres CyberCAT, reseteás atributos y perks, distribuyes de nuevo.
+**Respec sin Tarot Card**: en lugar de gastar el item raro, abres CyberCAT, reseteas atributos y perks, distribuyes de nuevo.
 
 **Add money / components / items**: para players que quieren testing rápido o just probar un build sin grindear, CyberCAT permite agregar eddies, weapons, components.
 
@@ -52,11 +52,11 @@ Si quieres modificar entities del game (NPCs, world state), CyberCAT no llega ta
 
 1. Bajas CyberCAT-SimpleGUI desde `github.com/Deweh/CyberCAT-SimpleGUI/releases` o desde Nexus Mods (`nexusmods.com/cyberpunk2077/mods/718`).
 2. Lo extraes a cualquier folder — es portable, no requiere install.
-3. **HAZ BACKUP** de tu save antes de tocar nada. Los saves de Cyberpunk viven en `Saved Games\CD Projekt Red\Cyberpunk 2077\`. Copiá la carpeta entera a otro lado.
+3. **HAZ BACKUP** de tu save antes de tocar nada. Los saves de Cyberpunk viven en `Saved Games\CD Projekt Red\Cyberpunk 2077\`. Copia la carpeta entera a otro lado.
 4. Abres CyberCAT y cargas el `.sav` (el archivo se llama `sav.dat` dentro de una carpeta por save slot).
 5. Las tabs muestran: Appearance (sliders del creator), Character (atributos, perks), Inventory (items), Stats (money, level, etc.), Facts (quest flags).
 6. Editas lo que necesites, guardas. CyberCAT escribe el archivo modificado.
-7. Cargas el save in-game. Si funciona, perfecto. Si hay corruption, restaurás el backup.
+7. Cargas el save in-game. Si funciona, perfecto. Si hay corruption, restauras el backup.
 
 ## Limitaciones honestas
 
@@ -72,7 +72,7 @@ Si quieres modificar entities del game (NPCs, world state), CyberCAT no llega ta
 
 ## Cómo empezar
 
-1. Antes de bajar CyberCAT, asegúrate de tener una copia backup limpia de tu save. **Copiá toda la carpeta `Saved Games\CD Projekt Red\Cyberpunk 2077\` a otro disk o cloud**.
+1. Antes de bajar CyberCAT, asegúrate de tener una copia backup limpia de tu save. **Copia toda la carpeta `Saved Games\CD Projekt Red\Cyberpunk 2077\` a otro disk o cloud**.
 2. Baja la última release desde GitHub (o Nexus). Extrae el zip.
 3. Ejecutá `CP2077SaveEditor.exe`. La UI abre.
 4. File → Open → navega hasta tu save folder → eligí el `sav.dat` que quieras editar.

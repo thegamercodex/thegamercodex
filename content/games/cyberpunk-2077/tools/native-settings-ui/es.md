@@ -41,7 +41,7 @@ Frente a **mods que no exponen settings**: algunos mods son fixed-config (sin op
 
 Si solo instalas mods sin configurarlos (vanilla feature toggle, nada más), no necesitas Native Settings UI estrictamente — el mod usa defaults.
 
-Si modeas creando mods, Native Settings UI es opcional para vos: agregar settings es nice-to-have, no requirement.
+Si modeas creando mods, Native Settings UI es opcional para tú: agregar settings es nice-to-have, no requirement.
 
 Si quieres UI custom (mod muy interactivo con paneles propios), Native Settings UI puede no ser suficiente — para eso, CET overlay panel directo es más flexible.
 
@@ -58,7 +58,7 @@ Como mod author:
 1. En tu mod Lua/CET, importas Native Settings UI API.
 2. Registras tus settings con tipos (slider, toggle, dropdown), defaults, rangos, callbacks.
 3. Native Settings UI los rendea cuando el user abre Settings → Mods → [Tu mod].
-4. Cuando el user cambia un value, tu callback recibe el nuevo valor y aplicás el cambio.
+4. Cuando el user cambia un value, tu callback recibe el nuevo valor y aplicas el cambio.
 
 ## Limitaciones honestas
 
@@ -77,7 +77,7 @@ Como mod author:
 1. Verifica que CET está instalado (es pre-requisito).
 2. Baja Native Settings UI desde Nexus (mod ID 3518). Versión más reciente compatible con tu juego.
 3. Extrae el ZIP. La carpeta `nativeSettings` (o como esté nombrada) va a `bin\x64\plugins\cyber_engine_tweaks\mods\`.
-4. Levantá el juego. Carga save. Ve a Settings → Mods. Si Native Settings UI cargó OK, verás la sección "Mods" presente (puede estar vacía si no instalaste mods que la usen aún).
+4. Levanta el juego. Carga save. Ve a Settings → Mods. Si Native Settings UI cargó OK, verás la sección "Mods" presente (puede estar vacía si no instalaste mods que la usen aún).
 5. Instala tu primer mod que use Native Settings UI (ej: AMM o cualquier mod que liste "Requires Native Settings UI"). Sus settings deberían aparecer en Settings → Mods.
 
 Tip: Native Settings UI es uno de los mods que **siempre instalas de entrada** en un mod-heavy setup. CET → Native Settings UI → demás mods. Es infraestructura básica.

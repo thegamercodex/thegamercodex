@@ -19,7 +19,7 @@ Valorant comparte engine y filosofía con CS2 (precision FPS, recoil, economía)
 - **Patches y meta más activos** — Riot publica patch notes cada 2 semanas con balance changes notables. CS2 es más conservador.
 - **Esports en sistema cerrado** — VCT es franchised, equipos partner pagan slot. Comparado con el tier-1 abierto de CS, es un ecosistema distinto.
 
-Si jugaste CS y querés probar Valorant, mucho del aim transfiere; las habilidades requieren reaprender. Si jugás Valorant y querés CS2, el gunplay similar pero el meta sin habilidades es shock al inicio.
+Si jugaste CS y quieres probar Valorant, mucho del aim transfiere; las habilidades requieren reaprender. Si juegas Valorant y quieres CS2, el gunplay similar pero el meta sin habilidades es shock al inicio.
 
 ## El ciclo de actos y episodios
 
@@ -34,6 +34,6 @@ Las herramientas curadas en este codex se mantienen al día con cada patch — m
 
 ## Para quién es esta sección
 
-Si recién entrás y querés sobrevivir las primeras horas, **guías para principiantes** + un par de tools de match-history para ver tu progreso son lo primero. Si ya tenés algunos cientos de horas y queres optimizar, **lineups por mapa** + **crosshair/config** + **aim trainers** son donde se vive. Si seguís VCT y el escenario competitivo, **vlr.gg + Liquipedia + The Spike** te dan cobertura completa.
+Si recién entras y quieres sobrevivir las primeras horas, **guías para principiantes** + un par de tools de match-history para ver tu progreso son lo primero. Si ya tienes algunos cientos de horas y quieres optimizar, **lineups por mapa** + **crosshair/config** + **aim trainers** son donde se vive. Si sigues VCT y el escenario competitivo, **vlr.gg + Liquipedia + The Spike** te dan cobertura completa.
 
 Cada herramienta y recurso listado acá está específicamente curado para Valorant — no contenido genérico de FPS, no tactics de CS reciclados.
