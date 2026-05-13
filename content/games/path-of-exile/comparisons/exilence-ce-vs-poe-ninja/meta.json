@@ -1,0 +1,32 @@
+{
+  "id": "exilence-ce-vs-poe-ninja",
+  "toolIds": ["exilence-ce", "poe-ninja"],
+  "category": "economy",
+  "depth": "short",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "poe.ninja para datos del mercado completo (precios, builds populares, tendencias). Exilence CE para trackear tu portfolio personal: net worth, profit por hora, valor agregado de tus stash tabs.",
+  "verdictEn": "poe.ninja for full market data (prices, popular builds, trends). Exilence CE for tracking your personal portfolio: net worth, profit per hour, aggregated stash tab value.",
+  "useCases": [
+    {
+      "labelEs": "Consultar precios de mercado de un ítem o currency",
+      "labelEn": "Look up market price of an item or currency",
+      "winner": "poe-ninja",
+      "reasonEs": "Es el estándar de la comunidad para precios agregados y tendencias por liga.",
+      "reasonEn": "Community standard for aggregated prices and per-league trends."
+    },
+    {
+      "labelEs": "Trackear tu net worth y profit por hora durante una sesión",
+      "labelEn": "Track your net worth and profit per hour during a session",
+      "winner": "exilence-ce",
+      "reasonEs": "Exilence CE escanea tu stash y calcula valor total + delta a lo largo del tiempo. poe.ninja no apunta a tu portfolio personal.",
+      "reasonEn": "Exilence CE scans your stash and calculates total value + delta over time. poe.ninja doesn't target your personal portfolio."
+    },
+    {
+      "labelEs": "Investigar qué builds están funcionando en la liga actual",
+      "labelEn": "Research what builds are working in the current league",
+      "winner": "poe-ninja",
+      "reasonEs": "El build browser de poe.ninja muestra ladder picks, popular skills y ascendancies con stats reales. Es la mejor fuente de meta data.",
+      "reasonEn": "poe.ninja's build browser shows ladder picks, popular skills, and ascendancies with real stats. Best source for meta data."
+    }
+  ]
+}

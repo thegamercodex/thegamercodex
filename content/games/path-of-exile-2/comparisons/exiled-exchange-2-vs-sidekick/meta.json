@@ -1,0 +1,32 @@
+{
+  "id": "exiled-exchange-2-vs-sidekick",
+  "toolIds": ["exiled-exchange-2", "sidekick"],
+  "category": "trading",
+  "depth": "short",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "Exiled Exchange 2 si vienes de Awakened PoE Trade y quieres el mismo flujo en PoE 2. Sidekick si juegas también PoE 1 o si valoras detección de mods peligrosos de mapa en una sola herramienta.",
+  "verdictEn": "Exiled Exchange 2 if you're coming from Awakened PoE Trade and want the same workflow in PoE 2. Sidekick if you also play PoE 1 or value dangerous map mod detection in a single tool.",
+  "useCases": [
+    {
+      "labelEs": "Vienes de PoE 1 con muscle memory de Awakened PoE Trade",
+      "labelEn": "Coming from PoE 1 with Awakened PoE Trade muscle memory",
+      "winner": "exiled-exchange-2",
+      "reasonEs": "EE2 es el sucesor espiritual directo; hotkeys, layout y flujo replican APT casi 1:1.",
+      "reasonEn": "EE2 is the direct spiritual successor; hotkeys, layout, and flow mirror APT almost 1:1."
+    },
+    {
+      "labelEs": "Juegas activamente PoE 1 y PoE 2",
+      "labelEn": "You actively play both PoE 1 and PoE 2",
+      "winner": "sidekick",
+      "reasonEs": "Una sola instalación cubre ambos juegos; no necesitas dos overlays compitiendo por hotkeys.",
+      "reasonEn": "One install covers both games; no need for two overlays competing for hotkeys."
+    },
+    {
+      "labelEs": "Alertas de mods peligrosos en mapas",
+      "labelEn": "Dangerous map mod alerts",
+      "winner": "sidekick",
+      "reasonEs": "Sidekick incluye detección y warning de combinaciones de mods de mapa riesgosas (reflect, no leech, etc.) — EE2 está enfocado solo en price-check.",
+      "reasonEn": "Sidekick includes detection and warnings for risky map mod combinations (reflect, no leech, etc.) — EE2 focuses on price-check only."
+    }
+  ]
+}

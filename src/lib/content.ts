@@ -2,6 +2,8 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 import type {
+  Comparison,
+  ComparisonMeta,
   Creator,
   CreatorMeta,
   Game,
@@ -172,6 +174,41 @@ export async function getResources(
     `${category}.json`,
   );
   return readJson<ResourceCollection>(filePath);
+}
+
+interface ComparisonFrontmatter {
+  title?: string;
+  description?: string;
+}
+
+export async function getComparisonIds(gameId: string): Promise<string[]> {
+  return listDirs(path.join(GAMES_ROOT, gameId, "comparisons"));
+}
+
+export async function getComparisons(gameId: string): Promise<Comparison[]> {
+  const ids = await getComparisonIds(gameId);
+  return Promise.all(ids.map((id) => getComparison(gameId, id)));
+}
+
+export async function getComparison(
+  gameId: string,
+  comparisonId: string,
+): Promise<Comparison> {
+  const dir = path.join(GAMES_ROOT, gameId, "comparisons", comparisonId);
+  const meta = await readJson<ComparisonMeta>(path.join(dir, "meta.json"));
+  const [es, en] = await Promise.all([
+    readMarkdown<ComparisonFrontmatter>(path.join(dir, "es.md")),
+    readMarkdown<ComparisonFrontmatter>(path.join(dir, "en.md")),
+  ]);
+  return {
+    ...meta,
+    titleEs: es.data.title ?? "",
+    titleEn: en.data.title ?? "",
+    descriptionEs: es.data.description ?? "",
+    descriptionEn: en.data.description ?? "",
+    contentEs: es.content,
+    contentEn: en.content,
+  };
 }
 
 export async function getAllResources(

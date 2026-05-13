@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import {
+  getComparisons,
   getCreators,
   getGames,
   getTools,
@@ -54,10 +55,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       buildEntry(`/${game.id}`, { changeFrequency: "weekly", priority: 0.9 }),
     );
 
-    const [tools, creators, resourceCollections] = await Promise.all([
+    const [tools, creators, resourceCollections, comparisons] = await Promise.all([
       getTools(game.id),
       getCreators(game.id),
       getAllResources(game.id),
+      getComparisons(game.id),
     ]);
 
     for (const tool of tools) {
@@ -75,6 +77,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         buildEntry(`/${game.id}/creators/${creator.id}`, {
           changeFrequency: "weekly",
           priority: 0.7,
+        }),
+      );
+    }
+
+    for (const comparison of comparisons) {
+      entries.push(
+        buildEntry(`/${game.id}/compare/${comparison.id}`, {
+          lastModified: comparison.lastVerified ?? undefined,
+          changeFrequency: "monthly",
+          priority: 0.75,
         }),
       );
     }

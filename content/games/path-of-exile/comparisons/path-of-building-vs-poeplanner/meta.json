@@ -1,0 +1,53 @@
+{
+  "id": "path-of-building-vs-poeplanner",
+  "toolIds": ["path-of-building", "poeplanner"],
+  "category": "build-planning",
+  "depth": "flagship",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "Path of Building si necesitas DPS exacto, simulación profunda y trabajo serio sobre builds. PoEPlanner si querés algo web, rápido, shareable, y especialmente para planificar el atlas tree, donde es la opción dominante.",
+  "verdictEn": "Path of Building if you need exact DPS, deep simulation, and serious build work. PoEPlanner if you want a fast, shareable web tool — especially for atlas tree planning, where it's the dominant option.",
+  "useCases": [
+    {
+      "labelEs": "Calcular DPS exacto con gear, jewels y skill setup completo",
+      "labelEn": "Calculate exact DPS with gear, jewels, and full skill setup",
+      "winner": "path-of-building",
+      "reasonEs": "PoB simula el motor de daño real del juego con precisión. PoEPlanner no calcula DPS al mismo nivel.",
+      "reasonEn": "PoB simulates the actual game damage engine with precision. PoEPlanner doesn't calculate DPS at the same level."
+    },
+    {
+      "labelEs": "Planificar el atlas tree",
+      "labelEn": "Atlas tree planning",
+      "winner": "poeplanner",
+      "reasonEs": "PoEPlanner es el estándar de facto para atlas planning. PoB se enfoca en el passive tree y no cubre atlas con la misma profundidad.",
+      "reasonEn": "PoEPlanner is the de facto standard for atlas planning. PoB focuses on the passive tree and doesn't cover atlas with the same depth."
+    },
+    {
+      "labelEs": "Compartir un build con un link directo",
+      "labelEn": "Share a build via direct link",
+      "winner": "poeplanner",
+      "reasonEs": "Genera URL pública en un click. PoB exporta a código de pastebin que el otro tiene que importar manualmente.",
+      "reasonEn": "Generates a public URL in one click. PoB exports a pastebin code the recipient has to import manually."
+    },
+    {
+      "labelEs": "Importar tu personaje real y ajustar sobre eso",
+      "labelEn": "Import your real character and adjust from there",
+      "winner": "path-of-building",
+      "reasonEs": "PoB importa directo desde tu cuenta de PoE con un click; PoEPlanner solo soporta input manual.",
+      "reasonEn": "PoB imports directly from your PoE account in one click; PoEPlanner only supports manual input."
+    },
+    {
+      "labelEs": "Acceder desde un navegador sin instalar nada",
+      "labelEn": "Access from a browser without installing anything",
+      "winner": "poeplanner",
+      "reasonEs": "Solo web. PoB requiere instalación de un cliente Windows/Mac/Linux con permisos.",
+      "reasonEn": "Web only. PoB requires installing a Windows/Mac/Linux client with permissions."
+    },
+    {
+      "labelEs": "Simular bench crafts y bases de gear potencial",
+      "labelEn": "Simulate bench crafts and potential gear bases",
+      "winner": "path-of-building",
+      "reasonEs": "PoB tiene editor de ítems con bench crafts, fossils, essences y craft outputs predecibles. PoEPlanner no llega a ese nivel.",
+      "reasonEn": "PoB has an item editor with bench crafts, fossils, essences, and predictable craft outputs. PoEPlanner doesn't reach that level."
+    }
+  ]
+}

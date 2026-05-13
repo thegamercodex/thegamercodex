@@ -15,7 +15,12 @@ import { parseDateOnly } from "@/lib/format";
  * before promoting to main is not listed at all (no add+remove pair).
  * Editorial discipline, not enforced by code.
  */
-export type ChangelogEventType = "tool" | "creator" | "game" | "resource";
+export type ChangelogEventType =
+  | "tool"
+  | "creator"
+  | "game"
+  | "resource"
+  | "comparison";
 
 export type ChangelogEventAction = "added" | "changed" | "removed" | "moved";
 

@@ -26,6 +26,12 @@ export async function StatsStrip() {
       <span>{t("creators", { count: stats.creators })}</span>
       <span aria-hidden className="text-foreground-subtle">·</span>
       <span>{t("resources", { count: stats.resources })}</span>
+      {stats.comparisons > 0 && (
+        <>
+          <span aria-hidden className="text-foreground-subtle">·</span>
+          <span>{t("comparisons", { count: stats.comparisons })}</span>
+        </>
+      )}
       {showFreshness && (
         <>
           <span aria-hidden className="text-foreground-subtle">·</span>

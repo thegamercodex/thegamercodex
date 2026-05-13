@@ -1,0 +1,32 @@
+{
+  "id": "poe-trade-official-vs-tft",
+  "toolIds": ["poe-trade-official", "tft"],
+  "category": "trading",
+  "depth": "short",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "El sitio oficial para tradear ítems individuales con búsqueda directa. TFT (Discord) para todo lo demás: bulk currency, services, carries, mirror crafts y trades específicos que el sitio oficial no cubre bien.",
+  "verdictEn": "The official site for trading individual items via direct search. TFT (Discord) for everything else: bulk currency, services, carries, mirror crafts, and specialized trades the official site doesn't cover well.",
+  "useCases": [
+    {
+      "labelEs": "Comprar un ítem específico del trade",
+      "labelEn": "Buy a specific item from trade",
+      "winner": "poe-trade-official",
+      "reasonEs": "El flujo de búsqueda + whisper + trade in-game es lo que el sitio oficial hace mejor.",
+      "reasonEn": "The search + whisper + in-game trade flow is what the official site does best."
+    },
+    {
+      "labelEs": "Comprar/vender currency en bulk con tipos de cambio agregados",
+      "labelEn": "Buy/sell currency in bulk with aggregated exchange rates",
+      "winner": "tft",
+      "reasonEs": "TFT tiene canales dedicados de bulk pricing con bots y reputación; el sitio oficial tiene la pestaña Bulk pero TFT mueve volúmenes más grandes.",
+      "reasonEn": "TFT has dedicated bulk pricing channels with bots and reputation; the official site has a Bulk tab but TFT moves larger volumes."
+    },
+    {
+      "labelEs": "Contratar servicios: carries de boss, levelings, crafts complejos",
+      "labelEn": "Hire services: boss carries, levelings, complex crafts",
+      "winner": "tft",
+      "reasonEs": "TFT es el hub oficial de la comunidad para services con sistema de rep verificado; el sitio oficial no soporta este tipo de trades.",
+      "reasonEn": "TFT is the community's official services hub with verified reputation; the official site doesn't support these trades."
+    }
+  ]
+}

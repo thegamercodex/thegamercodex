@@ -260,3 +260,33 @@ export interface ResourceCollection {
   category: string;
   resources: Resource[];
 }
+
+export type ComparisonDepth = "short" | "flagship";
+
+export interface ComparisonUseCase {
+  labelEs: string;
+  labelEn: string;
+  winner: string;
+  reasonEs: string;
+  reasonEn: string;
+}
+
+export interface ComparisonMeta {
+  id: string;
+  toolIds: [string, string];
+  category: string;
+  depth: ComparisonDepth;
+  lastVerified: string;
+  verdictEs: string;
+  verdictEn: string;
+  useCases: ComparisonUseCase[];
+}
+
+export interface Comparison extends ComparisonMeta {
+  titleEs: string;
+  titleEn: string;
+  descriptionEs: string;
+  descriptionEn: string;
+  contentEs: string;
+  contentEn: string;
+}
