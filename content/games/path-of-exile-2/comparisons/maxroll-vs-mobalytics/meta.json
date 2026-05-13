@@ -1,0 +1,32 @@
+{
+  "id": "maxroll-vs-mobalytics",
+  "toolIds": ["maxroll", "mobalytics"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "Maxroll si querés guías editoriales profundas con leveling step-by-step y endgame setups por skill, escritas por jugadores top y revisadas con cada parche. Mobalytics si valorás un build hub PoE 2-focused con planner web propio integrado y tracker de progreso.",
+  "verdictEn": "Maxroll if you want deep editorial guides with step-by-step leveling and per-skill endgame setups, written by top players and revised each patch. Mobalytics if you value a PoE 2-focused build hub with its own integrated web planner and progress tracker.",
+  "useCases": [
+    {
+      "labelEs": "Seguir una guía completa de build paso a paso para un league start",
+      "labelEn": "Follow a complete step-by-step build guide for a league start",
+      "winner": "maxroll",
+      "reasonEs": "Maxroll publica guías editoriales con leveling trees, gear progression y endgame setups por skill — la fortaleza histórica del proyecto.",
+      "reasonEn": "Maxroll publishes editorial guides with leveling trees, gear progression, and per-skill endgame setups — the project's historical strength."
+    },
+    {
+      "labelEs": "Build hub PoE 2-specific con planner integrado",
+      "labelEn": "PoE 2-specific build hub with integrated planner",
+      "winner": "mobalytics",
+      "reasonEs": "Mobalytics está más PoE 2-focused y tiene su propio planner web integrado más build tracker dentro de la misma plataforma.",
+      "reasonEn": "Mobalytics is more PoE 2-focused and has its own integrated web planner plus build tracker in the same platform."
+    },
+    {
+      "labelEs": "Profundidad editorial y autoridad de la comunidad",
+      "labelEn": "Editorial depth and community authority",
+      "winner": "maxroll",
+      "reasonEs": "Las guías de Maxroll están firmadas por nombres conocidos del PoE community y se mantienen activamente. Mobalytics tiene presencia editorial pero menos peso histórico.",
+      "reasonEn": "Maxroll guides are signed by recognized PoE community names and actively maintained. Mobalytics has editorial presence but less historical weight."
+    }
+  ]
+}

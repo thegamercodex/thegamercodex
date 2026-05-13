@@ -1,0 +1,46 @@
+{
+  "id": "poe2-wiki-vs-poe2db",
+  "toolIds": ["poe2-wiki", "poe2db"],
+  "category": "reference",
+  "depth": "flagship",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "PoE 2 Wiki cuando querés entender algo: artículos legibles, mecánicas explicadas, contexto y lore. PoE 2 DB cuando querés datos exactos: tiers de mods, drop tables, stats de monstruos y todo lo datamined del cliente.",
+  "verdictEn": "PoE 2 Wiki when you want to understand something: readable articles, explained mechanics, context, and lore. PoE 2 DB when you want exact data: mod tiers, drop tables, monster stats, and everything datamined from the client.",
+  "useCases": [
+    {
+      "labelEs": "Aprender mecánicas nuevas de PoE 2 (uncut gems, Sekhema trials, atlas)",
+      "labelEn": "Learn PoE 2's new mechanics (uncut gems, Sekhema trials, atlas)",
+      "winner": "poe2-wiki",
+      "reasonEs": "La wiki publica artículos editoriales que explican las mecánicas paso a paso, con contexto y ejemplos. PoE 2 DB asume que ya entendés qué hace cada cosa.",
+      "reasonEn": "The wiki publishes editorial articles that explain mechanics step by step, with context and examples. PoE 2 DB assumes you already know what each thing does."
+    },
+    {
+      "labelEs": "Consultar tiers exactos de mods en bases de PoE 2",
+      "labelEn": "Look up exact mod tiers on PoE 2 bases",
+      "winner": "poe2db",
+      "reasonEs": "PoE 2 DB lista todos los tiers con rangos numéricos, niveles de drop y pesos relativos. Es la referencia para anyone serio sobre crafting.",
+      "reasonEn": "PoE 2 DB lists every tier with numeric ranges, drop levels, and relative weights. It's the reference for anyone serious about crafting."
+    },
+    {
+      "labelEs": "Stats exactos de un boss de PoE 2 (HP, resistencias, AI)",
+      "labelEn": "Exact stats of a PoE 2 boss (HP, resistances, AI)",
+      "winner": "poe2db",
+      "reasonEs": "PoE 2 DB tiene tablas datamineadas con HP exacto, resistencias por área y attack patterns. La wiki tiene info general pero menos números crudos.",
+      "reasonEn": "PoE 2 DB has datamined tables with exact HP, per-area resistances, and attack patterns. The wiki has general info but fewer raw numbers."
+    },
+    {
+      "labelEs": "Leer lore y narrativa de los Acts de PoE 2",
+      "labelEn": "Read lore and narrative from PoE 2's Acts",
+      "winner": "poe2-wiki",
+      "reasonEs": "Toda la historia, NPCs, contexto de los Acts y mitología vive en la wiki. PoE 2 DB no cubre lore.",
+      "reasonEn": "All the story, NPCs, Act context, and mythology lives on the wiki. PoE 2 DB doesn't cover lore."
+    },
+    {
+      "labelEs": "Drop tables y skill gem reward sources",
+      "labelEn": "Drop tables and skill gem reward sources",
+      "winner": "poe2db",
+      "reasonEs": "PoE 2 DB sabe qué dropea cada monstruo y dónde aparece, incluyendo gems uncut. Base de todo planning de farmeo dirigido.",
+      "reasonEn": "PoE 2 DB knows what each monster drops and where it spawns, including uncut gems. Foundation for any targeted farming plan."
+    }
+  ]
+}

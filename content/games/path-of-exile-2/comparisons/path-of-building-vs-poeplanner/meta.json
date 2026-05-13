@@ -1,0 +1,53 @@
+{
+  "id": "path-of-building-vs-poeplanner",
+  "toolIds": ["path-of-building", "poeplanner"],
+  "category": "build-planning",
+  "depth": "flagship",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "PoB 2 si querés profundidad matemática y simulación de DPS sobre tus builds reales en PoE 2. PoEPlanner si necesitás un planner web rápido, shareable y accesible sin instalación, especialmente para visualizar el atlas tree y compartir builds en la comunidad.",
+  "verdictEn": "PoB 2 if you want math depth and DPS simulation on your real PoE 2 builds. PoEPlanner if you need a fast, shareable web planner with no install, especially for visualizing the atlas tree and sharing builds with the community.",
+  "useCases": [
+    {
+      "labelEs": "Calcular DPS sobre tu personaje real de PoE 2",
+      "labelEn": "Calculate DPS on your real PoE 2 character",
+      "winner": "path-of-building",
+      "reasonEs": "PoB 2 modela el motor de daño de PoE 2 con la misma filosofía que el original, incorporando skill gems uncut, supports swappables y mecánicas nuevas. PoEPlanner no apunta a cálculo profundo.",
+      "reasonEn": "PoB 2 models PoE 2's damage engine with the same philosophy as the original, accounting for uncut skill gems, swappable supports, and new mechanics. PoEPlanner doesn't aim for deep calculation."
+    },
+    {
+      "labelEs": "Planificar el atlas tree de PoE 2",
+      "labelEn": "Plan the PoE 2 atlas tree",
+      "winner": "poeplanner",
+      "reasonEs": "PoEPlanner sigue siendo el estándar comunitario para atlas planning, también en PoE 2. PoB 2 cubre passive tree con más detalle pero el atlas no es su fuerte.",
+      "reasonEn": "PoEPlanner is still the community standard for atlas planning, also in PoE 2. PoB 2 covers the passive tree in more detail but atlas isn't its strength."
+    },
+    {
+      "labelEs": "Compartir un build con link directo",
+      "labelEn": "Share a build via direct link",
+      "winner": "poeplanner",
+      "reasonEs": "URL pública en un click, sin que el receptor instale nada. PoB 2 requiere export a pastebin + el otro tiene que tener PoB 2 instalado para importar.",
+      "reasonEn": "Public URL in one click, no install required for the recipient. PoB 2 needs pastebin export + the other person must have PoB 2 installed to import."
+    },
+    {
+      "labelEs": "Importar tu personaje de PoE 2 desde la cuenta",
+      "labelEn": "Import your PoE 2 character from your account",
+      "winner": "path-of-building",
+      "reasonEs": "PoB 2 importa tu personaje real con un click, mismo flujo que el PoB original. PoEPlanner no soporta import automático.",
+      "reasonEn": "PoB 2 imports your real character with one click, same flow as the original PoB. PoEPlanner doesn't support auto import."
+    },
+    {
+      "labelEs": "Accesibilidad multiplataforma sin instalación",
+      "labelEn": "Cross-platform accessibility without install",
+      "winner": "poeplanner",
+      "reasonEs": "Web puro funciona en cualquier dispositivo. PoB 2 requiere build community para Mac/Linux y la fork de PoE 2 todavía está madurando.",
+      "reasonEn": "Pure web works on any device. PoB 2 requires a community build for Mac/Linux and the PoE 2 fork is still maturing."
+    },
+    {
+      "labelEs": "Madurez del soporte de mecánicas nuevas de PoE 2",
+      "labelEn": "Maturity of support for PoE 2's new mechanics",
+      "winner": "path-of-building",
+      "reasonEs": "Por filosofía de proyecto, PoB 2 incorpora cada parche de PoE 2 al motor de cálculo. PoEPlanner suele tener menor profundidad de soporte por mecánica.",
+      "reasonEn": "By project philosophy, PoB 2 incorporates every PoE 2 patch into the calculation engine. PoEPlanner typically has less per-mechanic support depth."
+    }
+  ]
+}

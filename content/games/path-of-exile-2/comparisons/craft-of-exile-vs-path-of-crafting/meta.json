@@ -1,0 +1,32 @@
+{
+  "id": "craft-of-exile-vs-path-of-crafting",
+  "toolIds": ["craft-of-exile", "path-of-crafting"],
+  "category": "crafting",
+  "depth": "short",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "Craft of Exile si valorás un modelo maduro de probabilidades y costos con años de iteración (fork de la versión de PoE 1). Path of Crafting si querés una experiencia PoE 2-native con mod pools en tiempo real y UI rediseñada desde cero para las mecánicas nuevas.",
+  "verdictEn": "Craft of Exile if you value a mature probability and cost model with years of iteration (forked from the PoE 1 version). Path of Crafting if you want a PoE 2-native experience with real-time mod pools and a UI redesigned from scratch around the new mechanics.",
+  "useCases": [
+    {
+      "labelEs": "Vienes de PoE 1 y ya usabas Craft of Exile",
+      "labelEn": "Coming from PoE 1 and already used Craft of Exile",
+      "winner": "craft-of-exile",
+      "reasonEs": "La interfaz es familiar y el modelo de probabilidades viene heredado de años de iteración en PoE 1.",
+      "reasonEn": "The interface is familiar and the probability model is inherited from years of PoE 1 iteration."
+    },
+    {
+      "labelEs": "Querés ver mod pools actualizados en tiempo real con cambios del juego",
+      "labelEn": "Want to see mod pools updated in real time with game changes",
+      "winner": "path-of-crafting",
+      "reasonEs": "Path of Crafting fue construido PoE 2-native con énfasis en mantener los pools sincronizados con la versión actual del cliente.",
+      "reasonEn": "Path of Crafting was built PoE 2-native with focus on keeping pools synchronized with the current client version."
+    },
+    {
+      "labelEs": "Calcular costos esperados de un proyecto de crafting complejo",
+      "labelEn": "Calculate expected costs of a complex crafting project",
+      "winner": "craft-of-exile",
+      "reasonEs": "El modelo de costos de CoE incorpora secuencias largas con corrupciones y recombinaciones; Path of Crafting cubre lo común muy bien pero menos esquinas raras.",
+      "reasonEn": "CoE's cost model handles long sequences with corruptions and recombinations; Path of Crafting covers common cases very well but fewer edge cases."
+    }
+  ]
+}

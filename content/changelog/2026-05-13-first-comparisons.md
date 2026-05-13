@@ -1,9 +1,9 @@
 ---
 date: 2026-05-13
-titleEs: "Primer batch de comparativas: 7 en PoE, 1 en PoE 2"
-titleEn: "First batch of comparisons: 7 in PoE, 1 in PoE 2"
-summaryEs: "Estrenamos un nuevo tipo de contenido: comparativas head-to-head entre herramientas, con veredicto editorial, tabla side-by-side y matriz de casos de uso. Arrancamos con 8 comparativas — 2 flagships (~1800 palabras cada una) y 6 cortas (~700). Cobertura: 7 comparativas en PoE cubriendo trading, build planning, reference, filters y economía; 1 en PoE 2 para overlays de trading. Cada comparativa aparece como sección propia en la página del juego y como chip visible en cada tool involucrada."
-summaryEn: "Shipping a new content type: head-to-head tool comparisons with editorial verdict, side-by-side table, and use-case matrix. Starting with 8 comparisons — 2 flagships (~1800 words each) and 6 shorts (~700). Coverage: 7 comparisons in PoE covering trading, build planning, reference, filters, and economy; 1 in PoE 2 for trading overlays. Each comparison surfaces as a dedicated section on the game page and as a chip visible on each tool involved."
+titleEs: "Primer batch de comparativas: 7 en PoE, 8 en PoE 2"
+titleEn: "First batch of comparisons: 7 in PoE, 8 in PoE 2"
+summaryEs: "Estrenamos un nuevo tipo de contenido: comparativas head-to-head entre herramientas, con veredicto editorial, tabla side-by-side y matriz de casos de uso. Arrancamos con 15 comparativas — 4 flagships (~1800 palabras cada una) y 11 cortas (~700). Cobertura: 7 comparativas en PoE y 8 en PoE 2, cubriendo todas las categorías relevantes (trading, build planning, reference, crafting, filters, economía). Cada comparativa aparece como sección propia en la página del juego y como chip visible en cada tool involucrada."
+summaryEn: "Shipping a new content type: head-to-head tool comparisons with editorial verdict, side-by-side table, and use-case matrix. Starting with 15 comparisons — 4 flagships (~1800 words each) and 11 shorts (~700). Coverage: 7 comparisons in PoE and 8 in PoE 2, spanning every relevant category (trading, build planning, reference, crafting, filters, economy). Each comparison surfaces as a dedicated section on the game page and as a chip visible on each tool involved."
 gameAdded: null
 events:
   - type: comparison
@@ -54,4 +54,46 @@ events:
     gameId: path-of-exile-2
     noteEs: "Corta: ~700 palabras. EE2 como sucesor espiritual de Awakened PoE Trade en PoE 2; Sidekick para multi-game (PoE 1 y 2) y warnings de mods peligrosos en maps."
     noteEn: "Short: ~700 words. EE2 as Awakened PoE Trade's spiritual successor in PoE 2; Sidekick for multi-game (PoE 1 and 2) and dangerous map mod warnings."
+  - type: comparison
+    action: added
+    name: "Path of Building vs PoEPlanner (PoE 2)"
+    gameId: path-of-exile-2
+    noteEs: "Flagship: ~1800 palabras. PoB 2 para profundidad matemática y cálculo de DPS sobre builds reales; PoEPlanner para atlas tree, sharing rápido y acceso web. Caveat: PoB 2 todavía es una fork community en maduración."
+    noteEn: "Flagship: ~1800 words. PoB 2 for math depth and DPS calculation on real builds; PoEPlanner for atlas tree, fast sharing, and web access. Caveat: PoB 2 is still a maturing community fork."
+  - type: comparison
+    action: added
+    name: "PoE 2 Wiki vs PoE 2 DB"
+    gameId: path-of-exile-2
+    noteEs: "Flagship: ~1800 palabras. Wiki para artículos editoriales sobre mecánicas, classes y lore de PoE 2; PoE 2 DB para datos exactos datamineados (mod tiers, drop tables, monster stats)."
+    noteEn: "Flagship: ~1800 words. Wiki for editorial articles on PoE 2 mechanics, classes, and lore; PoE 2 DB for exact datamined data (mod tiers, drop tables, monster stats)."
+  - type: comparison
+    action: added
+    name: "Exiled Exchange 2 vs POE Overlay"
+    gameId: path-of-exile-2
+    noteEs: "Corta: ~700 palabras. EE2 minimal y focalizado solo en price-check; POE Overlay como toolkit más amplio con historial de mercado y servicios integrados."
+    noteEn: "Short: ~700 words. EE2 minimal and focused only on price-check; POE Overlay as a broader toolkit with market history and integrated services."
+  - type: comparison
+    action: added
+    name: "Craft of Exile vs Path of Crafting"
+    gameId: path-of-exile-2
+    noteEs: "Corta: ~700 palabras. CoE con modelo de probabilidades maduro heredado de PoE 1; Path of Crafting nativo de PoE 2 con mod pools en tiempo real."
+    noteEn: "Short: ~700 words. CoE with mature probability model inherited from PoE 1; Path of Crafting PoE 2-native with real-time mod pools."
+  - type: comparison
+    action: added
+    name: "poe.ninja vs PoE 2 Scout"
+    gameId: path-of-exile-2
+    noteEs: "Corta: ~700 palabras. poe.ninja como estándar consolidado con build browser; PoE 2 Scout como alternativa open source nativa de PoE 2."
+    noteEn: "Short: ~700 words. poe.ninja as consolidated standard with build browser; PoE 2 Scout as open-source PoE 2-native alternative."
+  - type: comparison
+    action: added
+    name: "Maxroll vs Mobalytics"
+    gameId: path-of-exile-2
+    noteEs: "Corta: ~700 palabras. Maxroll con guías editoriales firmadas y autoridad de la comunidad; Mobalytics con build hub PoE 2-focused y planner web integrado."
+    noteEn: "Short: ~700 words. Maxroll with signed editorial guides and community authority; Mobalytics with PoE 2-focused build hub and integrated web planner."
+  - type: comparison
+    action: added
+    name: "Path of Exile 2 Trade vs TFT"
+    gameId: path-of-exile-2
+    noteEs: "Corta: ~700 palabras. Sitio oficial de PoE 2 trade para ítems individuales; TFT para bulk currency, services y carries (con volumen menor que en PoE 1 pero igual el hub principal)."
+    noteEn: "Short: ~700 words. Official PoE 2 trade site for individual items; TFT for bulk currency, services, and carries (lower volume than PoE 1 but still the main hub)."
 ---
