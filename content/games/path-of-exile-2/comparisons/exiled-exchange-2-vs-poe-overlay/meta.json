@@ -1,0 +1,32 @@
+{
+  "id": "exiled-exchange-2-vs-poe-overlay",
+  "toolIds": ["exiled-exchange-2", "poe-overlay"],
+  "category": "trading",
+  "depth": "short",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "Exiled Exchange 2 si querés el sucesor espiritual directo de Awakened PoE Trade enfocado solo en price-check rápido. POE Overlay si necesitás features extra: historial de mercado, integración de servicios de carry y un toolkit más amplio dentro del mismo overlay.",
+  "verdictEn": "Exiled Exchange 2 if you want the direct spiritual successor of Awakened PoE Trade, focused only on fast price-checking. POE Overlay if you need extra features: market history, carry services integration, and a broader toolkit inside the same overlay.",
+  "useCases": [
+    {
+      "labelEs": "Vienes de Awakened PoE Trade y querés la misma experiencia en PoE 2",
+      "labelEn": "Coming from Awakened PoE Trade, want the same experience in PoE 2",
+      "winner": "exiled-exchange-2",
+      "reasonEs": "EE2 replica casi 1:1 las hotkeys, layout y flujo de APT. Cero curva de re-aprendizaje.",
+      "reasonEn": "EE2 mirrors APT's hotkeys, layout, and flow almost 1:1. Zero re-learning curve."
+    },
+    {
+      "labelEs": "Necesitás historial de mercado para ver tendencias de precio",
+      "labelEn": "You need market history to see price trends",
+      "winner": "poe-overlay",
+      "reasonEs": "POE Overlay incluye gráficas históricas de precios dentro del overlay; EE2 muestra precios actuales pero no tendencia.",
+      "reasonEn": "POE Overlay includes historical price charts inside the overlay; EE2 shows current prices but not the trend."
+    },
+    {
+      "labelEs": "Querés un toolkit más amplio (carry services, calculadoras integradas)",
+      "labelEn": "Want a broader toolkit (carry services, integrated calculators)",
+      "winner": "poe-overlay",
+      "reasonEs": "POE Overlay agrupa varias utilities en el mismo overlay. EE2 es deliberadamente focalizado en price-check.",
+      "reasonEn": "POE Overlay groups several utilities in the same overlay. EE2 is deliberately focused on price-check."
+    }
+  ]
+}

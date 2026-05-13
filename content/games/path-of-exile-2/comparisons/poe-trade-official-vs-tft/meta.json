@@ -1,0 +1,32 @@
+{
+  "id": "poe-trade-official-vs-tft",
+  "toolIds": ["poe-trade-official", "tft"],
+  "category": "trading",
+  "depth": "short",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "El sitio oficial de trade de PoE 2 para ítems individuales con búsqueda directa. TFT (Discord) para bulk currency, services, carries y trades que el sitio oficial no cubre bien — con presencia más chica en PoE 2 que en PoE 1 pero igual el hub principal de la comunidad.",
+  "verdictEn": "PoE 2's official trade site for individual items via direct search. TFT (Discord) for bulk currency, services, carries, and trades the official site doesn't cover well — with smaller PoE 2 presence than PoE 1 but still the community's main hub.",
+  "useCases": [
+    {
+      "labelEs": "Comprar un ítem específico para tu build",
+      "labelEn": "Buy a specific item for your build",
+      "winner": "poe-trade-official",
+      "reasonEs": "El flujo de búsqueda + whisper + trade in-game es el caso central que el sitio oficial cubre mejor.",
+      "reasonEn": "The search + whisper + in-game trade flow is the central case the official site handles best."
+    },
+    {
+      "labelEs": "Bulk currency exchange y trades de gran volumen",
+      "labelEn": "Bulk currency exchange and high-volume trades",
+      "winner": "tft",
+      "reasonEs": "TFT tiene canales dedicados con bots de pricing para bulk también en PoE 2; el volumen es menor que en PoE 1 pero sigue siendo el mejor lugar.",
+      "reasonEn": "TFT has dedicated channels with pricing bots for bulk also in PoE 2; volume is lower than PoE 1 but still the best place."
+    },
+    {
+      "labelEs": "Servicios pagos: carries de boss, levelings, crafts complejos",
+      "labelEn": "Paid services: boss carries, levelings, complex crafts",
+      "winner": "tft",
+      "reasonEs": "El sistema de reputación verificado de TFT lo hace viable para servicios de alto valor; el sitio oficial no cubre este tipo de trades.",
+      "reasonEn": "TFT's verified reputation system makes high-value services viable; the official site doesn't cover these trades."
+    }
+  ]
+}
