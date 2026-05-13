@@ -247,3 +247,31 @@ body {
   color: var(--muted-foreground);
   font-style: italic;
 }
+.markdown-content table {
+  width: 100%;
+  border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
+}
+.markdown-content thead {
+  border-bottom: 1px solid var(--border);
+}
+.markdown-content th,
+.markdown-content td {
+  padding: 0.5rem 0.875rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--border-subtle);
+}
+.markdown-content th {
+  font-weight: 600;
+  color: var(--foreground);
+  font-size: 0.875rem;
+}
+.markdown-content td {
+  color: var(--muted-foreground);
+  font-size: 0.9375rem;
+}
+.markdown-content tbody tr:last-child td {
+  border-bottom: none;
+}

@@ -14,10 +14,12 @@ import { ShareButtons } from "@/components/ShareButtons";
 import { absoluteUrl } from "@/lib/site";
 import {
   getAllResources,
+  getComparisons,
   getCreators,
   getGame,
   getTools,
 } from "@/lib/content";
+import { ComparisonCard } from "@/components/ComparisonCard";
 import { categoryName } from "@/lib/categories";
 import { jsonLdScript, videoGameJsonLd } from "@/lib/jsonld";
 import type { Locale } from "@/types";
@@ -72,14 +74,16 @@ export default async function GamePage({ params }: PageParams) {
   setRequestLocale(locale);
   const loc = locale as Locale;
 
-  let game, tools, creators, resourceCollections;
+  let game, tools, creators, resourceCollections, comparisons;
   try {
-    [game, tools, creators, resourceCollections] = await Promise.all([
-      getGame(gameId),
-      getTools(gameId),
-      getCreators(gameId),
-      getAllResources(gameId),
-    ]);
+    [game, tools, creators, resourceCollections, comparisons] =
+      await Promise.all([
+        getGame(gameId),
+        getTools(gameId),
+        getCreators(gameId),
+        getAllResources(gameId),
+        getComparisons(gameId),
+      ]);
   } catch {
     notFound();
   }
@@ -93,6 +97,14 @@ export default async function GamePage({ params }: PageParams) {
   const resourceMap = new Map(
     resourceCollections.map((r) => [r.category, r.resources.length]),
   );
+  const toolsById = new Map(tools.map((tool) => [tool.id, tool]));
+  const resolvedComparisons = comparisons
+    .map((c) => {
+      const a = toolsById.get(c.toolIds[0]);
+      const b = toolsById.get(c.toolIds[1]);
+      return a && b ? { comparison: c, toolA: a, toolB: b } : null;
+    })
+    .filter((x): x is { comparison: typeof comparisons[number]; toolA: typeof tools[number]; toolB: typeof tools[number] } => x !== null);
   const toolLogos: Record<string, boolean> = {};
   for (const tool of tools) {
     toolLogos[tool.id] =
@@ -102,6 +114,10 @@ export default async function GamePage({ params }: PageParams) {
 
   const tabs = [
     tools.length > 0 && { id: "tools", label: t("toolsHeading") },
+    resolvedComparisons.length > 0 && {
+      id: "comparisons",
+      label: t("comparisonsHeading"),
+    },
     creators.length > 0 && { id: "creators", label: t("creatorsHeading") },
     game.resourceCategories.length > 0 && {
       id: "resources",
@@ -155,6 +171,38 @@ export default async function GamePage({ params }: PageParams) {
               locale={loc}
               toolLogos={toolLogos}
             />
+          </section>
+        )}
+
+        {resolvedComparisons.length > 0 && (
+          <section
+            id="comparisons"
+            className="scroll-mt-32 border-b border-border py-12"
+          >
+            <div className="mb-6 flex items-baseline justify-between">
+              <h2 className="text-2xl font-semibold tracking-tight">
+                {t("comparisonsHeading")}
+              </h2>
+              <span className="text-sm text-muted-foreground">
+                {resolvedComparisons.length}
+              </span>
+            </div>
+            <div className="-mx-6 overflow-x-auto px-6 pb-2 sm:mx-0 sm:overflow-visible sm:px-0 sm:pb-0">
+              <div className="grid auto-cols-[85%] grid-flow-col gap-3 sm:auto-cols-auto sm:grid-flow-row sm:grid-cols-2 lg:grid-cols-3">
+                {resolvedComparisons.map(({ comparison, toolA, toolB }) => (
+                  <ComparisonCard
+                    key={comparison.id}
+                    comparison={comparison}
+                    toolA={toolA}
+                    toolB={toolB}
+                    game={game}
+                    locale={loc}
+                    eyebrowLabel={t("comparisonEyebrow")}
+                    lastVerifiedLabel={t("comparisonLastVerified")}
+                  />
+                ))}
+              </div>
+            </div>
           </section>
         )}
 

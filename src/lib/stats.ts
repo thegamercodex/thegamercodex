@@ -6,6 +6,7 @@ export interface CodexStats {
   tools: number;
   creators: number;
   resources: number;
+  comparisons: number;
 }
 
 const CONTENT_ROOT = path.join(process.cwd(), "content", "games");
@@ -32,11 +33,13 @@ export function getStats(): CodexStats {
   let toolCount = 0;
   let creatorCount = 0;
   let resourceCount = 0;
+  let comparisonCount = 0;
 
   for (const game of games) {
     const gameDir = path.join(CONTENT_ROOT, game);
     toolCount += listSubdirs(path.join(gameDir, "tools")).length;
     creatorCount += listSubdirs(path.join(gameDir, "creators")).length;
+    comparisonCount += listSubdirs(path.join(gameDir, "comparisons")).length;
 
     const resourcesDir = path.join(gameDir, "resources");
     if (fs.existsSync(resourcesDir)) {
@@ -60,5 +63,6 @@ export function getStats(): CodexStats {
     tools: toolCount,
     creators: creatorCount,
     resources: resourceCount,
+    comparisons: comparisonCount,
   };
 }

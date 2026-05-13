@@ -1,0 +1,32 @@
+{
+  "id": "filterblade-vs-poe-filter",
+  "toolIds": ["filterblade", "poe-filter"],
+  "category": "filters",
+  "depth": "short",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "FilterBlade si querés el filter más completo y mantenido del juego (el de NeverSink) con tier strictness avanzado. PoE Filter si preferís minimalismo y un look que respete la estética visual original de PoE sin tantos esconder/colorear.",
+  "verdictEn": "FilterBlade if you want the most complete and maintained filter (NeverSink's) with advanced tier strictness. PoE Filter if you prefer minimalism and a look that respects PoE's original visual aesthetic without heavy hiding and coloring.",
+  "useCases": [
+    {
+      "labelEs": "Endgame con tier strictness alto y maintenance por league",
+      "labelEn": "Endgame with high tier strictness and per-league maintenance",
+      "winner": "filterblade",
+      "reasonEs": "NeverSink actualiza su filter con cada parche y FilterBlade es la interfaz oficial para customizarlo.",
+      "reasonEn": "NeverSink updates his filter each patch and FilterBlade is the official interface to customize it."
+    },
+    {
+      "labelEs": "Empezar con un filter simple y limpio",
+      "labelEn": "Starting with a simple, clean filter",
+      "winner": "poe-filter",
+      "reasonEs": "Foco minimalista que respeta la estética del juego; menos overwhelming para nuevos jugadores.",
+      "reasonEn": "Minimalist focus that respects the game's aesthetic; less overwhelming for new players."
+    },
+    {
+      "labelEs": "Integración con economía y precios en vivo",
+      "labelEn": "Integration with live economy and prices",
+      "winner": "poe-filter",
+      "reasonEs": "PoE Filter incluye integración nativa con poe.ninja para ajustar tiers según valor real de mercado por liga.",
+      "reasonEn": "PoE Filter ships with native poe.ninja integration to adjust tiers based on real per-league market value."
+    }
+  ]
+}

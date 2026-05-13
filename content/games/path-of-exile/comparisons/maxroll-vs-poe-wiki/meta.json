@@ -1,0 +1,32 @@
+{
+  "id": "maxroll-vs-poe-wiki",
+  "toolIds": ["maxroll", "poe-wiki"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "Maxroll para guías editoriales de builds completas escritas por jugadores top, especialmente para arrancar una liga. PoE Wiki para entender mecánicas, leer lore, y consultar info enciclopédica de ítems, monstruos y sistemas.",
+  "verdictEn": "Maxroll for editorial build guides written by top players, especially for league starts. PoE Wiki for understanding mechanics, reading lore, and looking up encyclopedic info on items, monsters, and systems.",
+  "useCases": [
+    {
+      "labelEs": "Seguir un build guide completo paso a paso para una liga",
+      "labelEn": "Follow a complete step-by-step build guide for a league",
+      "winner": "maxroll",
+      "reasonEs": "Maxroll es el hub editorial de builds con leveling trees, gear progression y endgame setups por skill.",
+      "reasonEn": "Maxroll is the editorial build hub with leveling trees, gear progression, and per-skill endgame setups."
+    },
+    {
+      "labelEs": "Entender cómo funciona una mecánica del juego",
+      "labelEn": "Understand how a game mechanic works",
+      "winner": "poe-wiki",
+      "reasonEs": "La wiki tiene artículos explicativos con fórmulas y ejemplos; Maxroll asume que ya entendés las mecánicas.",
+      "reasonEn": "The wiki has explanatory articles with formulas and examples; Maxroll assumes you already understand mechanics."
+    },
+    {
+      "labelEs": "Investigar un ítem único, NPC o lore de la historia",
+      "labelEn": "Look up a unique item, NPC, or story lore",
+      "winner": "poe-wiki",
+      "reasonEs": "Cobertura enciclopédica completa de todo lo del juego. Maxroll no cubre lore ni reference data.",
+      "reasonEn": "Complete encyclopedic coverage of everything in the game. Maxroll doesn't cover lore or reference data."
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 import { absoluteUrl, siteUrl } from "@/lib/site";
 import { categoryName } from "@/lib/categories";
 import type {
+  Comparison,
   Creator,
   Game,
   Locale,
@@ -149,6 +150,39 @@ export function collectionPageJsonLd(
         name: r.title,
       })),
     },
+  };
+}
+
+export function comparisonJsonLd(
+  comparison: Comparison,
+  tools: [Tool, Tool],
+  game: Game,
+  locale: Locale,
+): JsonLd {
+  const title = locale === "es" ? comparison.titleEs : comparison.titleEn;
+  const description =
+    locale === "es" ? comparison.descriptionEs : comparison.descriptionEn;
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: title,
+    description,
+    url: absoluteUrl(
+      `/${locale}/${game.id}/compare/${comparison.id}`,
+    ),
+    inLanguage: locale,
+    isPartOf: {
+      "@type": "WebSite",
+      name: SITE_NAME,
+      url: `${siteUrl()}/${locale}`,
+    },
+    about: tools.map((tool) => ({
+      "@type": "SoftwareApplication",
+      name: tool.name,
+      url: absoluteUrl(`/${locale}/${game.id}/tools/${tool.id}`),
+      applicationCategory: "GameApplication",
+      isAccessibleForFree: tool.free,
+    })),
   };
 }
 

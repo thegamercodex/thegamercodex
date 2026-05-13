@@ -42,7 +42,8 @@
       "tool": "Herramienta",
       "creator": "Creador",
       "game": "Juego",
-      "resource": "Recurso"
+      "resource": "Recurso",
+      "comparison": "Comparativa"
     },
     "eventActions": {
       "added": "Agregado",
@@ -55,6 +56,7 @@
       "tools": "{count, plural, one {# herramienta} other {# herramientas}}",
       "creators": "{count, plural, one {# creator} other {# creators}}",
       "resources": "{count, plural, one {# recurso} other {# recursos}}",
+      "comparisons": "{count, plural, one {# comparativa} other {# comparativas}}",
       "lastUpdated": "actualizado hace {days, plural, =0 {hoy} one {# día} other {# días}}"
     }
   },
@@ -144,6 +146,9 @@
     "toolsHeading": "Herramientas",
     "creatorsHeading": "Creadores",
     "resourcesHeading": "Recursos",
+    "comparisonsHeading": "Comparativas",
+    "comparisonEyebrow": "Comparativa",
+    "comparisonLastVerified": "Verificada",
     "aboutHeading": "Sobre el juego",
     "developer": "Desarrollador",
     "released": "Lanzamiento",
@@ -176,7 +181,8 @@
     "viewScreenshot": "Ampliar captura",
     "closeScreenshot": "Cerrar",
     "previousScreenshot": "Captura anterior",
-    "nextScreenshot": "Siguiente captura"
+    "nextScreenshot": "Siguiente captura",
+    "comparisonsHeading": "Comparativas"
   },
   "type": {
     "software": "Software",
@@ -212,6 +218,35 @@
     "beginner": "Principiante",
     "intermediate": "Intermedio",
     "advanced": "Avanzado"
+  },
+  "comparison": {
+    "eyebrow": "Comparativa",
+    "breadcrumb": "Comparativas",
+    "verdictHeading": "Veredicto",
+    "useCasesHeading": "¿Cuál usar para qué?",
+    "useCaseWinner": "Mejor opción",
+    "useCaseTie": "Empate",
+    "tableHeading": "Comparación lado a lado",
+    "lastVerifiedLabel": "Última verificación",
+    "categoryLabel": "Categoría",
+    "viewTool": "Ver {name}",
+    "relatedHeading": "Otras comparativas",
+    "rows": {
+      "free": "Gratis",
+      "openSource": "Open source",
+      "official": "Oficial",
+      "platforms": "Plataformas",
+      "languages": "Idiomas",
+      "difficulty": "Dificultad",
+      "license": "Licencia",
+      "github": "Código fuente",
+      "site": "Sitio",
+      "type": "Tipo",
+      "lastVerified": "Verificada"
+    },
+    "yes": "Sí",
+    "no": "No",
+    "dash": "—"
   },
   "resources": {
     "noResources": "Aún no hay recursos en esta categoría.",

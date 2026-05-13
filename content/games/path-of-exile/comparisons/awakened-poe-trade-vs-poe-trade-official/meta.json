@@ -1,0 +1,53 @@
+{
+  "id": "awakened-poe-trade-vs-poe-trade-official",
+  "toolIds": ["awakened-poe-trade", "poe-trade-official"],
+  "category": "trading",
+  "depth": "flagship",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "Awakened PoE Trade si quieres velocidad in-game con hotkeys y price-check instantáneo. El sitio oficial si prefieres cero instalación, filtros avanzados con live search, y revisar mercado desde cualquier dispositivo.",
+  "verdictEn": "Awakened PoE Trade for fast in-game price checking via hotkeys. The official site for zero install, advanced filters with live search, and reviewing the market from any device.",
+  "useCases": [
+    {
+      "labelEs": "Price-check rápido durante el juego sin alt-tab",
+      "labelEn": "Quick in-game price checking without alt-tab",
+      "winner": "awakened-poe-trade",
+      "reasonEs": "Hotkey directo sobre el ítem hovereado; respuesta en menos de un segundo y sin perder foco en el juego.",
+      "reasonEn": "Direct hotkey on the hovered item; sub-second response without losing focus on the game."
+    },
+    {
+      "labelEs": "Filtros avanzados con múltiples modifiers y stat groups",
+      "labelEn": "Advanced filters with multiple modifiers and stat groups",
+      "winner": "poe-trade-official",
+      "reasonEs": "La interfaz web ofrece toda la granularidad de filtros, incluyendo búsquedas con combinaciones booleanas y rangos numéricos por mod.",
+      "reasonEn": "The web interface offers full filter granularity, including boolean combinations and per-mod numeric ranges."
+    },
+    {
+      "labelEs": "Live search y alertas cuando aparece un ítem",
+      "labelEn": "Live search and alerts when an item appears",
+      "winner": "poe-trade-official",
+      "reasonEs": "Soporta live search nativo en el sitio con notificaciones del sistema cuando aparece un ítem que coincide con tu filtro.",
+      "reasonEn": "Native live search on the site with system notifications when an item matching your filter appears."
+    },
+    {
+      "labelEs": "Cero instalación y revisión desde cualquier dispositivo",
+      "labelEn": "Zero install, review from any device",
+      "winner": "poe-trade-official",
+      "reasonEs": "Solo navegador. APT requiere instalar un overlay con permisos elevados en Windows y abrirlo cada sesión.",
+      "reasonEn": "Browser only. APT requires installing an overlay with elevated permissions on Windows and launching it every session."
+    },
+    {
+      "labelEs": "Identificación masiva de loot tras una sesión de mapping",
+      "labelEn": "Bulk identification of loot after a mapping session",
+      "winner": "awakened-poe-trade",
+      "reasonEs": "Price-check secuencial con una hotkey por ítem es órdenes de magnitud más rápido que pegar nombres en la web uno por uno.",
+      "reasonEn": "Sequential hotkey-based price check is orders of magnitude faster than pasting names into the web UI one by one."
+    },
+    {
+      "labelEs": "Bulk exchange de currency",
+      "labelEn": "Bulk currency exchange",
+      "winner": "poe-trade-official",
+      "reasonEs": "El sitio tiene una pestaña Bulk dedicada con tipos de cambio agregados que APT no replica al mismo nivel.",
+      "reasonEn": "The site has a dedicated Bulk tab with aggregated exchange rates that APT doesn't match at the same level."
+    }
+  ]
+}

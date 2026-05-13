@@ -1,0 +1,53 @@
+{
+  "id": "poe-wiki-vs-poedb",
+  "toolIds": ["poe-wiki", "poedb"],
+  "category": "reference",
+  "depth": "flagship",
+  "lastVerified": "2026-05-13",
+  "verdictEs": "PoE Wiki cuando querés entender algo: artículos legibles, lore, mecánicas explicadas paso a paso. PoEDB cuando querés datos exactos: tiers de mods, drop tables, stats de monstruos, todo datamined direct del cliente.",
+  "verdictEn": "PoE Wiki when you want to understand something: readable articles, lore, mechanics explained step by step. PoEDB when you want exact data: mod tiers, drop tables, monster stats — everything datamined straight from the client.",
+  "useCases": [
+    {
+      "labelEs": "Aprender cómo funciona una mecánica nueva (shock, ailments, charges)",
+      "labelEn": "Learn how a new mechanic works (shock, ailments, charges)",
+      "winner": "poe-wiki",
+      "reasonEs": "La wiki tiene explicaciones humanas con ejemplos, fórmulas y contexto. PoEDB asume que ya sabés qué hace cada cosa.",
+      "reasonEn": "The wiki has human-written explanations with examples, formulas, and context. PoEDB assumes you already know what each thing does."
+    },
+    {
+      "labelEs": "Consultar tiers exactos de mods en una base de ítem",
+      "labelEn": "Look up exact mod tiers on an item base",
+      "winner": "poedb",
+      "reasonEs": "PoEDB lista todos los tiers con sus rangos numéricos, niveles de drop y pesos. Es la referencia para crafters.",
+      "reasonEn": "PoEDB lists every tier with numeric ranges, drop levels, and weights. It's the crafter's reference."
+    },
+    {
+      "labelEs": "Leer lore y story de la historia de PoE",
+      "labelEn": "Read lore and story content",
+      "winner": "poe-wiki",
+      "reasonEs": "Toda la narrativa, NPCs, historia de los Exiles, story acts y mitología vive en la wiki. PoEDB no cubre lore.",
+      "reasonEn": "All narrative, NPCs, Exile history, story acts, and mythology lives on the wiki. PoEDB doesn't cover lore."
+    },
+    {
+      "labelEs": "Stats exactos de un monstruo o boss (life, resistances, AI)",
+      "labelEn": "Exact stats of a monster or boss (life, resistances, AI)",
+      "winner": "poedb",
+      "reasonEs": "PoEDB tiene tablas datamineadas con HP exacto, resistencias por área, attack patterns. La wiki tiene info general pero menos números crudos.",
+      "reasonEn": "PoEDB has datamined tables with exact HP, per-area resistances, and attack patterns. The wiki has general info but fewer raw numbers."
+    },
+    {
+      "labelEs": "Drop tables y bestiary para farmeo dirigido",
+      "labelEn": "Drop tables and bestiary for targeted farming",
+      "winner": "poedb",
+      "reasonEs": "PoEDB sabe exactamente qué dropea cada monstruo y dónde aparece. Es la base de toda strategy de targeted farming.",
+      "reasonEn": "PoEDB knows exactly what each monster drops and where it spawns. It's the foundation of every targeted farming strategy."
+    },
+    {
+      "labelEs": "Resolver una pregunta puntual rápido durante el juego",
+      "labelEn": "Resolve a quick in-game question fast",
+      "winner": "poe-wiki",
+      "reasonEs": "La wiki tiene mejor SEO y suele aparecer primero en Google para queries naturales como \"poe how does X work\".",
+      "reasonEn": "The wiki has better SEO and usually appears first on Google for natural queries like \"poe how does X work\"."
+    }
+  ]
+}
