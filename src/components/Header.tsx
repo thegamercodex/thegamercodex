@@ -19,8 +19,6 @@ export async function Header() {
           <BrandImage
             variant="logoHorizontal"
             alt={t("siteName")}
-            priority
-            sizes="(min-width: 640px) 340px, 260px"
             className="h-9 w-auto sm:h-10"
           />
         </Link>
