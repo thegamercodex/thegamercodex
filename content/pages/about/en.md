@@ -5,7 +5,7 @@ description: A curated directory of gaming tools and resources, built by one gam
 
 ## What it is
 
-TheGamerCodex is a curated compendium of tools, creators, and resources for gamers. It covers nine games today and grows as we play them deeply enough to have informed opinions. Every entry is hand-reviewed: each tool is evaluated, each creator is picked for the quality of their output, each resource is there because it earns the click.
+TheGamerCodex is a curated compendium of tools, creators, and resources for gamers. New games join the catalog once we've played them deeply enough to have informed opinions. Every entry is hand-reviewed: each tool is evaluated, each creator is picked for the quality of their output, each resource is there because it earns the click.
 
 ## Who's behind it
 
@@ -17,6 +17,10 @@ I'm **Gerson**, a gamer who enjoys organizing information almost as much as play
 - **No affiliates.** When we link to a paid tool or a storefront, it's a direct link. We don't earn when you click.
 - **Open source.** The entire site lives on [GitHub](https://github.com/thegamercodex/thegamercodex). If you want to review what it does, suggest a change, or report a bug, the repo is public.
 - **No advertising tracking.** We only use [Vercel Analytics](https://vercel.com/docs/analytics), which is cookieless, anonymous, and aggregated. See the [privacy policy](/en/privacy) for details.
+
+## How it stays current
+
+Verifying URLs, descriptions, and catalogs across every game by hand would be hard to sustain alone. I use **AI tools** to speed up the repetitive parts — checking links, cross-referencing data between sources, translating between Spanish and English, regenerating inventories — but every editorial decision still goes through me: which tools belong, which creators get featured, which resources earn their spot. The plan is to keep growing: add more games and keep the existing ones up to date.
 
 ## How to support
 
