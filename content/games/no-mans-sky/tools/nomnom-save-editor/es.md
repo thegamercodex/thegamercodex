@@ -1,7 +1,7 @@
 ---
 title: "NomNom"
 description: "Save editor open-source de No Man's Sky desarrollado por Christian Engelhardt (zencq), compatible con Windows, macOS y Linux. Trabaja directo sobre los archivos de save de Steam, GoG, Microsoft Store y plataformas de consola exportadas, con backup automático antes de cada modificación."
-quickTake: "El save editor moderno de NMS. Si vas a editar tu save, NomNom es la elección obvia: tiene UI clara, multi-save (manejá varias partidas de un mismo perfil), backup automático, y release cadence rápida tras patches. NMS Save Editor de goatfungus sigue funcionando pero su UI es más austera y le falta el manejo elegante de múltiples saves."
+quickTake: "El save editor moderno de NMS. Si vas a editar tu save, NomNom es la elección obvia: tiene UI clara, multi-save (maneja varias partidas de un mismo perfil), backup automático, y release cadence rápida tras patches. NMS Save Editor de goatfungus sigue funcionando pero su UI es más austera y le falta el manejo elegante de múltiples saves."
 ---
 
 ## Qué es

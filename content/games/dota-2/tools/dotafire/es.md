@@ -1,7 +1,7 @@
 ---
 title: "DOTAFire"
 description: "Plataforma comunitaria de guías de héroes para Dota 2 en formato long-form: análisis escrito con estrategia, matchups, items, skill order y contexto histórico, votado por la comunidad."
-quickTake: "Si querés entender un héroe en profundidad — no solo ver top items — este es tu lugar. Las guías escritas explican el por qué detrás de cada decisión, algo que los trackers de data no pueden replicar."
+quickTake: "Si quieres entender un héroe en profundidad — no solo ver top items — este es tu lugar. Las guías escritas explican el por qué detrás de cada decisión, algo que los trackers de data no pueden replicar."
 ---
 
 ## Qué es
@@ -20,13 +20,13 @@ DOTAFire cubre ese gap con contenido long-form. Cada guía fuerte incluye párra
 
 ## Para qué la usa la gente
 
-**Aprender un héroe nuevo en profundidad**: cuando decidís dedicar tiempo a un héroe, leer 1-2 guías bien valoradas de DOTAFire para entender fundamentos antes de ir a D2PT por builds actuales. La combinación es potente.
+**Aprender un héroe nuevo en profundidad**: cuando decides dedicar tiempo a un héroe, leer 1-2 guías bien valoradas de DOTAFire para entender fundamentos antes de ir a D2PT por builds actuales. La combinación es potente.
 
 **Entender gameplay específico de rol**: muchos héroes pueden jugarse en múltiples roles. DOTAFire tiene guías separadas por rol (ej: una guía de Pudge support y otra de Pudge offlane), cada una con estrategia apropiada.
 
 **Lectura de matchup analysis profundo**: las guías bien escritas incluyen secciones sobre cómo jugar el héroe contra oponentes difíciles específicos. Para solo queue, esto importa porque te vas a encontrar con esos matchups regularmente.
 
-**Contenido educativo para jugadores más nuevos**: para alguien recién aprendiendo Dota 2, las guías escritas son más accesibles que videos de YouTube en algunos casos, ya que podés pausar y re-leer secciones.
+**Contenido educativo para jugadores más nuevos**: para alguien recién aprendiendo Dota 2, las guías escritas son más accesibles que videos de YouTube en algunos casos, ya que puedes pausar y re-leer secciones.
 
 **Discusión y preguntas en comentarios**: cada guía tiene comentarios donde lectores hacen preguntas y el autor frecuentemente responde. Construye comunidad de aprendizaje alrededor de cada guía.
 
@@ -70,7 +70,7 @@ DOTAFire es excelente para lo que es, pero no es la tool correcta para todo uso:
 
 No se necesita registro para leer. Para comentar o votar, registrar cuenta gratis.
 
-1. Ir a `dotafire.com` y elegir un héroe que querés aprender.
+1. Ir a `dotafire.com` y elegir un héroe que quieres aprender.
 
 2. Filtrar por rol si aplica (carry, mid, offlane, support).
 
@@ -80,4 +80,4 @@ No se necesita registro para leer. Para comentar o votar, registrar cuenta grati
 
 5. Para aprendizaje activo, leer los comentarios — frecuentemente más interesantes que la guía misma.
 
-6. Si encontrás una guía claramente desactualizada o de baja calidad, no frustrarte — buscar otra o ir a contenido de YouTube de creators como BSJ, Speeed o Bulldog que hacen material escrito y video actualizado frecuentemente.
+6. Si encuentras una guía claramente desactualizada o de baja calidad, no frustrarte — buscar otra o ir a contenido de YouTube de creators como BSJ, Speeed o Bulldog que hacen material escrito y video actualizado frecuentemente.

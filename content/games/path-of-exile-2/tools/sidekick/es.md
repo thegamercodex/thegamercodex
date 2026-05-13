@@ -1,7 +1,7 @@
 ---
 title: "Sidekick"
 description: "Overlay open source bajo MIT para Path of Exile 1 y 2 con price check, verificación de modificadores de mapa peligrosos, y soporte multi-OS."
-quickTake: "Si querés un overlay que respete tu sistema (open source, sin Overwolf, sin telemetry escondida, corre nativo en Linux también) Sidekick es la opción. Tiene menos features que POE Overlay, pero las que tiene están bien hechas y el código está disponible si querés auditar o forkear."
+quickTake: "Si quieres un overlay que respete tu sistema (open source, sin Overwolf, sin telemetry escondida, corre nativo en Linux también) Sidekick es la opción. Tiene menos features que POE Overlay, pero las que tiene están bien hechas y el código está disponible si quieres auditar o forkear."
 ---
 
 ## Qué es
@@ -32,30 +32,30 @@ Frente a exiled-exchange-2: ambos open source, ambos multi-OS, pero exiled-excha
 
 **Setup en Linux**: para players de Linux que corren PoE vía Proton/Wine, Sidekick es de los pocos overlays que tienen build nativa AppImage y funcionan sin hacks.
 
-**Forking y customización**: el código está abierto, si querés agregar feature específica (ej: alertas custom para modifiers que tu build no tolera) podés forkear.
+**Forking y customización**: el código está abierto, si quieres agregar feature específica (ej: alertas custom para modifiers que tu build no tolera) puedes forkear.
 
 ## Para quién NO es esta herramienta
 
-Si querés feature parity con POE Overlay (servicios browser, market history visual), Sidekick no llega ahí. Es deliberadamente más minimalista.
+Si quieres feature parity con POE Overlay (servicios browser, market history visual), Sidekick no llega ahí. Es deliberadamente más minimalista.
 
-Si jugás SSF, no hay trade que checkear — el overlay aporta menos.
+Si juegas SSF, no hay trade que checkear — el overlay aporta menos.
 
-Si te asusta instalar binarios desde GitHub releases y preferís el wizard de Overwolf, POE Overlay es más amigable.
+Si te asusta instalar binarios desde GitHub releases y prefieres el wizard de Overwolf, POE Overlay es más amigable.
 
-Si solo jugás casual unas horas a la semana, instalar y configurar overlay puede ser overkill.
+Si solo juegas casual unas horas a la semana, instalar y configurar overlay puede ser overkill.
 
 ## Cómo se usa en la práctica
 
-1. Vas al repo en GitHub: `github.com/Sidekick-Poe/Sidekick`. Releases tab, descargás el binario para tu OS.
-2. En Windows: ejecutás el installer o el portable. En Linux: AppImage marcado como ejecutable y corrido.
-3. Configurás Sidekick para que detecte tu liga activa (Standard, Hardcore, temp league del momento).
-4. Configurás hotkeys (defaults razonables; podés cambiarlos).
+1. Vas al repo en GitHub: `github.com/Sidekick-Poe/Sidekick`. Releases tab, descargas el binario para tu OS.
+2. En Windows: ejecutas el installer o el portable. En Linux: AppImage marcado como ejecutable y corrido.
+3. Configuras Sidekick para que detecte tu liga activa (Standard, Hardcore, temp league del momento).
+4. Configuras hotkeys (defaults razonables; puedes cambiarlos).
 5. In-game: hover sobre item o map + hotkey → overlay con info.
-6. Updates: bajás la nueva release manualmente (no hay auto-update). Suscribite a las notificaciones del repo en GitHub para enterarte.
+6. Updates: bajas la nueva release manualmente (no hay auto-update). Suscribite a las notificaciones del repo en GitHub para enterarte.
 
 ## Limitaciones honestas
 
-**Sin auto-update**. Tenés que monitorear releases en GitHub. Para algunos usuarios eso es no-ir; para otros es preferible vs runtimes terceros.
+**Sin auto-update**. Tienes que monitorear releases en GitHub. Para algunos usuarios eso es no-ir; para otros es preferible vs runtimes terceros.
 
 **Solo en inglés**. Sin localizaciones. La interfaz es chica así que no es bloqueador grande.
 
@@ -69,8 +69,8 @@ Si solo jugás casual unas horas a la semana, instalar y configurar overlay pued
 
 ## Cómo empezar
 
-Vas a `github.com/Sidekick-Poe/Sidekick/releases/latest` y descargás el binario para tu OS. En Windows ejecutás directo; en Linux marcás el AppImage como ejecutable y lo corrés.
+Vas a `github.com/Sidekick-Poe/Sidekick/releases/latest` y descargas el binario para tu OS. En Windows ejecutas directo; en Linux marcas el AppImage como ejecutable y lo corres.
 
-Si tenés problemas de instalación o configuración, el Discord linkeado en el README es el primer lugar a buscar — la comunidad responde y los maintainers están presentes.
+Si tienes problemas de instalación o configuración, el Discord linkeado en el README es el primer lugar a buscar — la comunidad responde y los maintainers están presentes.
 
-Para entender qué hace cada hotkey, revisá la sección de configuration al primer launch. La curva de aprendizaje es similar a otros overlays: la primera sesión usás solo el price check; el resto se descubre orgánicamente.
+Para entender qué hace cada hotkey, revisa la sección de configuration al primer launch. La curva de aprendizaje es similar a otros overlays: la primera sesión usas solo el price check; el resto se descubre orgánicamente.

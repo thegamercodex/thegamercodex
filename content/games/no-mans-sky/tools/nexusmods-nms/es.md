@@ -51,7 +51,7 @@ Si juegas en Game Pass / Microsoft Store: el formato de archivos puede diferir d
 3. Cliqueas Download. Nexus te da el ZIP/PAK del mod.
 4. NMS busca mods en el folder `<NMS install>/GAMEDATA/PCBANKS/MODS/`. Si la carpeta no existe, creala.
 5. Copias el archivo .pak del mod ahí. Borrá el archivo `DISABLEMODS.TXT` que NMS pone en PCBANKS — sino los mods son ignorados.
-6. Lanzás NMS y testeas. Si hay conflicto entre mods, los .pak se aplican en orden alfabético — renombralos para forzar prioridad.
+6. Lanzas NMS y testeas. Si hay conflicto entre mods, los .pak se aplican en orden alfabético — renombralos para forzar prioridad.
 7. Para uninstall: eliminas el .pak. Reaparece DISABLEMODS.TXT por default cuando NMS hace updates — verifica tras patches.
 
 ## Limitaciones honestas
@@ -76,7 +76,7 @@ Buscas algún mod popular y simple para empezar (ejemplo: un sky color tweak o u
 
 Confirmá la ruta de instalación: `<Steam>/steamapps/common/No Man's Sky/GAMEDATA/PCBANKS/MODS/`. Borrá `DISABLEMODS.TXT` de PCBANKS.
 
-Lanzás NMS y verificas que el mod aplicó. Si todo OK, puedes agregar más.
+Lanzas NMS y verificas que el mod aplicó. Si todo OK, puedes agregar más.
 
 Para mods complejos o conflictos, mira AMUMSS (Auto-Modder for Use with Mod Compatibility Scripts) en Nexus mismo — es la herramienta para resolver overlaps entre mods que tocan archivos similares.
 

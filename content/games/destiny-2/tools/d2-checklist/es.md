@@ -12,13 +12,13 @@ Su propuesta es ser **exhaustivo**: si Bungie expone un checklist en su API, D2 
 
 ## Qué problema resuelve
 
-Cuando jugás múltiples personajes (típico para los seasonal grindes y power leveling), saber qué hizo cada uno esta semana se vuelve complicado. ¿Hice el Nightfall en mi Hunter? ¿La Warlock tiene los milestones de Vanguard? Sin tracker, abrís el juego y revisás character por character, perdiendo tiempo.
+Cuando juegas múltiples personajes (típico para los seasonal grindes y power leveling), saber qué hizo cada uno esta semana se vuelve complicado. ¿Hice el Nightfall en mi Hunter? ¿La Warlock tiene los milestones de Vanguard? Sin tracker, abres el juego y revisas character por character, perdiendo tiempo.
 
-D2 Checklist te da los tres personajes lado-a-lado con cada checklist disponible y su estado. En 30 segundos sabés qué te falta en cada toon, planificás qué activity hacer y con qué character.
+D2 Checklist te da los tres personajes lado-a-lado con cada checklist disponible y su estado. En 30 segundos sabes qué te falta en cada toon, planificas qué activity hacer y con qué character.
 
 ## Diferenciación
 
-Frente a Braytech (su alternativa más directa), D2 Checklist gana en **exhaustividad y comparativa multi-character**. Braytech tiene mejor UI y más cobertura editorial (vendors, triumphs filtrados); D2 Checklist tiene mejor "audit completo de las 3 chars en una sola pantalla". Si jugás main solo, Braytech es más cómodo. Si trifecteás semanalmente, D2 Checklist gana.
+Frente a Braytech (su alternativa más directa), D2 Checklist gana en **exhaustividad y comparativa multi-character**. Braytech tiene mejor UI y más cobertura editorial (vendors, triumphs filtrados); D2 Checklist tiene mejor "audit completo de las 3 chars en una sola pantalla". Si juegas main solo, Braytech es más cómodo. Si trifecteas semanalmente, D2 Checklist gana.
 
 Frente a la app Companion oficial, D2 Checklist gana en cobertura de checklists derivados que la oficial no expone. La oficial gana en integración con Companion features (Fireteam Finder, etc.).
 
@@ -36,27 +36,27 @@ Frente a la app Companion oficial, D2 Checklist gana en cobertura de checklists 
 
 ## Para quién NO es esta herramienta
 
-Si jugás un solo character casual, Braytech rinde más por mejor UI con menor noise. D2 Checklist es overkill cuando no hay paralelismo.
+Si juegas un solo character casual, Braytech rinde más por mejor UI con menor noise. D2 Checklist es overkill cuando no hay paralelismo.
 
-Si te molestan las UIs densas/feas, te frustrás. D2 Checklist no apuesta a estética; es funcional al máximo.
+Si te molestan las UIs densas/feas, te frustras. D2 Checklist no apuesta a estética; es funcional al máximo.
 
 Si tu interés primario es lore, builds o weapon meta, este sitio no aporta — está enfocado en progression y completionism.
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `d2checklist.com`. Login con Bungie OAuth (obligatorio para data personal).
+1. Entras a `d2checklist.com`. Login con Bungie OAuth (obligatorio para data personal).
 2. La página principal lista tus 3 personajes lado-a-lado con grilla de checklists semanales.
-3. Filtrás por "incomplete" para ver solo lo que falta. Pinpoint qué activity hacer.
+3. Filtras por "incomplete" para ver solo lo que falta. Pinpoint qué activity hacer.
 4. Para detalle por character: click en uno y ves su progreso completo (ranks, challenges, bounties).
 5. Reset semanal (martes 10am PT): la página se actualiza con la nueva rotación.
 
 ## Limitaciones honestas
 
-**Diseño funcional pero feo**. La UI no es Modrinth ni Mobalytics — es una grilla densa con poca jerarquía visual. Esperá learning curve de "dónde está cada cosa".
+**Diseño funcional pero feo**. La UI no es Modrinth ni Mobalytics — es una grilla densa con poca jerarquía visual. Espera learning curve de "dónde está cada cosa".
 
 **Mobile experience pobre**. La densidad de info no escala bien a pantalla chica. En desktop, navegable; en mobile, a duras penas.
 
-**Algunos checklists pueden estar desactualizados**. Cuando Bungie agrega un nuevo seasonal challenge type, D2 Checklist puede tardar días en mapearlo. Verificá contra el juego cuando estés cerca de un milestone clave.
+**Algunos checklists pueden estar desactualizados**. Cuando Bungie agrega un nuevo seasonal challenge type, D2 Checklist puede tardar días en mapearlo. Verifica contra el juego cuando estés cerca de un milestone clave.
 
 **Inglés solamente**. Sin localización a español.
 
@@ -66,4 +66,4 @@ Si tu interés primario es lore, builds o weapon meta, este sitio no aporta — 
 
 ## Cómo empezar
 
-Entrá a `d2checklist.com`, login con Bungie OAuth. Apenas carga, mirá los 3 characters lado-a-lado y identificá qué milestone te falta en cada uno. Probá el filtro "incomplete" para ver solo qué te falta. En 5 minutos ya tenés visibility sobre semanas que antes hacías a ciegas.
+Entra a `d2checklist.com`, login con Bungie OAuth. Apenas carga, mira los 3 characters lado-a-lado y identificá qué milestone te falta en cada uno. Prueba el filtro "incomplete" para ver solo qué te falta. En 5 minutos ya tienes visibility sobre semanas que antes hacías a ciegas.

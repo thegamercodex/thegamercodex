@@ -72,8 +72,8 @@ Vas a nomanssky.com/release-log/.
 
 Si vuelves al juego, scrollá hasta el último update que jugaste y lee desde ahí hacia adelante. Te da un walkthrough fácil del progress.
 
-Si sos nuevo, scrollá al lanzamiento original y vení hacia adelante para apreciar el viaje del juego — ayuda a contextualizar por qué la comunidad es leal.
+Si eres nuevo, scrollá al lanzamiento original y ven hacia adelante para apreciar el viaje del juego — ayuda a contextualizar por qué la comunidad es leal.
 
-Guárdalo en marcadores. Cuando salga el siguiente update grande (Hello Games los publica cada 2-4 meses), volvé acá para ver qué cambió.
+Guárdalo en marcadores. Cuando salga el siguiente update grande (Hello Games los publica cada 2-4 meses), vuelve acá para ver qué cambió.
 
 Considera complementar con el Galactic Atlas (galacticatlas.nomanssky.com) — el atlas tiene la información de eventos en vivo, el Release Log tiene la historia.

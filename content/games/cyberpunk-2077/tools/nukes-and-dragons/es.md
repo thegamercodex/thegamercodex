@@ -32,7 +32,7 @@ A cambio, el oficial es **autoritativo**: en caso de discrepancia entre lo que d
 
 **Compartir builds en Reddit / Discord**: los URLs de Nukes & Dragons suelen aparecer más en threads de community porque la herramienta era popular en la era pre-2.0 y muchos creators siguen usándola.
 
-**Planificar respec serio**: antes de gastar un Tarot Card de respec, modelas 2-3 variantes acá y eligís la que mejor cierra antes de tocar el save.
+**Planificar respec serio**: antes de gastar un Tarot Card de respec, modelas 2-3 variantes acá y eliges la que mejor cierra antes de tocar el save.
 
 **Estudiar builds de otros**: cuando alguien postea un URL de Nukes & Dragons, lo pegas en tu navegador y ves exactamente cómo está armado. Editar variaciones sobre ese build es trivial.
 
@@ -42,7 +42,7 @@ Si quieres **garantía absoluta de que el planner refleje el patch vigente**, ir
 
 Si recién empiezas Cyberpunk 2077 y no tienes intuición de qué hace cada perk, la UI densa de Nukes & Dragons abruma. Conviene arrancar con el oficial (más limpio) y graduarse a Nukes & Dragons cuando ya entiendes el árbol.
 
-Si planeás builds en español o necesitas localización, Nukes & Dragons es solo en inglés. El oficial tiene multilenguaje.
+Si planeas builds en español o necesitas localización, Nukes & Dragons es solo en inglés. El oficial tiene multilenguaje.
 
 ## Cómo se usa en la práctica
 
@@ -70,4 +70,4 @@ Si planeás builds en español o necesitas localización, Nukes & Dragons es sol
 
 Entras a `nukesdragons.com/cyberpunk-2077/character`. Empiezas moviendo el slider de Body para ver cómo se abren perks; eso te da intuición rápida de cómo funcionan los thresholds. Después armas un build experimental — no importa el resultado, es para familiarizarte con la UI.
 
-Tip: cuando encontrés un build de Reddit/YouTube con URL de Nukes & Dragons, en lugar de leerlo pasivamente, ábrelo, eliminá un perk al azar y ve qué se rompe. Esa exploración activa enseña más sobre interacciones de árboles que cualquier guía pasiva.
+Tip: cuando encuentres un build de Reddit/YouTube con URL de Nukes & Dragons, en lugar de leerlo pasivamente, ábrelo, eliminá un perk al azar y ve qué se rompe. Esa exploración activa enseña más sobre interacciones de árboles que cualquier guía pasiva.

@@ -1,7 +1,7 @@
 ---
 title: "light.gg"
 description: "Base de datos web de armas, armaduras, perks y mods de Destiny 2 con god rolls votados por la comunidad."
-quickTake: "El primer sitio que abrís cuando dropea un arma nueva. Los god rolls de light.gg son la wisdom-of-crowds del meta de Destiny 2: imperfectos pero útiles para no descartar piezas valiosas por accidente."
+quickTake: "El primer sitio que abres cuando dropea un arma nueva. Los god rolls de light.gg son la wisdom-of-crowds del meta de Destiny 2: imperfectos pero útiles para no descartar piezas valiosas por accidente."
 ---
 
 ## Qué es
@@ -12,9 +12,9 @@ Activa desde 2017 — el sitio creció como referencia rápida del weapon pool y
 
 ## Qué problema resuelve
 
-Cuando una nueva arma drop, no hay manera de saber si tu roll es bueno desde dentro del juego. Destiny 2 muestra los perks pero no qué combinación es meta, ni cómo se compara con otras del mismo arquetipo. light.gg responde esa pregunta en 30 segundos: abrís la página del arma, ves los god rolls votados, comparás con tu roll, decidís quedarte o desensamblar.
+Cuando una nueva arma drop, no hay manera de saber si tu roll es bueno desde dentro del juego. Destiny 2 muestra los perks pero no qué combinación es meta, ni cómo se compara con otras del mismo arquetipo. light.gg responde esa pregunta en 30 segundos: abres la página del arma, ves los god rolls votados, comparas con tu roll, decides quedarte o desensamblar.
 
-También resuelve el problema de buscar perks específicos: "qué scout rifles tienen Rapid Hit + Kill Clip" se contesta con el filtro de búsqueda. Útil cuando buscás reemplazar un arma que sunsetearon o que ya no dropea.
+También resuelve el problema de buscar perks específicos: "qué scout rifles tienen Rapid Hit + Kill Clip" se contesta con el filtro de búsqueda. Útil cuando buscas reemplazar un arma que sunsetearon o que ya no dropea.
 
 ## Diferenciación
 
@@ -26,29 +26,29 @@ Frente a la wiki o destinypedia, light.gg es más rápido y mejor diseñado para
 
 ## Para qué la usa la gente
 
-**Appraise un drop**: pegás el item en la página correspondiente, ves cómo se compara contra el god roll comunitario. Verde = mantener, rojo = shard.
+**Appraise un drop**: pegas el item en la página correspondiente, ves cómo se compara contra el god roll comunitario. Verde = mantener, rojo = shard.
 
-**Buscar god rolls antes de farmearlos**: filtrás por activity (Trials, Iron Banner, raid X) y ves qué armas worth chasing tienen rolls que se complementan con tu build.
+**Buscar god rolls antes de farmearlos**: filtras por activity (Trials, Iron Banner, raid X) y ves qué armas worth chasing tienen rolls que se complementan con tu build.
 
 **Comparar arquetipos**: la página de cada arma muestra archetype averages. Útil para decidir entre dos hand cannons aggressive frame con perks similares.
 
 **Ver vendor rolls**: cuando Banshee, Xur o un vendor rotan inventario, light.gg suele tener los rolls listados antes de que abras el juego.
 
-**Buscar por perk**: filtro de búsqueda permite "todas las armas que pueden dropear con [perk]". Ahorra tiempo cuando reconstruís un arquetipo.
+**Buscar por perk**: filtro de búsqueda permite "todas las armas que pueden dropear con [perk]". Ahorra tiempo cuando reconstruyes un arquetipo.
 
 ## Para quién NO es esta herramienta
 
-Si buscás precision matemática para min-max de DPS contra un boss específico, light.gg no es suficiente — sus god rolls son aproximaciones populares, no análisis de daño. D2 Foundry es la herramienta correcta para eso.
+Si buscas precision matemática para min-max de DPS contra un boss específico, light.gg no es suficiente — sus god rolls son aproximaciones populares, no análisis de daño. D2 Foundry es la herramienta correcta para eso.
 
 Si tu interés primario es lore o cosméticos, light.gg cubre esos campos pero hay sitios más especializados (Ishtar Collective para lore, emblem.report para emblems).
 
 ## Cómo se usa en la práctica
 
-1. Buscás el arma por nombre en la barra superior. La página individual carga.
+1. Buscas el arma por nombre en la barra superior. La página individual carga.
 2. Scroll hasta "Community Average Rolls" — verde son los más votados, en orden de columna.
-3. Comparás con tu roll. Si tu arma matchea 3 de los 4 perks votados, es un keeper.
+3. Comparas con tu roll. Si tu arma matchea 3 de los 4 perks votados, es un keeper.
 4. Para items con barra de masterwork variable o stats configurables (ej: armor pieces con tiers), light.gg lista las stats máximas posibles y las medias.
-5. Para búsquedas más complejas, usás la página `/db/items` con filtros por categoría, frame, perk y archetype.
+5. Para búsquedas más complejas, usas la página `/db/items` con filtros por categoría, frame, perk y archetype.
 
 ## Limitaciones honestas
 
@@ -64,4 +64,4 @@ Si tu interés primario es lore o cosméticos, light.gg cubre esos campos pero h
 
 ## Cómo empezar
 
-Entrá a `light.gg`, buscá el nombre de un arma que tengas, y revisá su página. Si tenés cuenta Bungie.net podés vincularla para que el sitio compare automáticamente tus rolls contra los god rolls — pero no es obligatorio. Para uso casual, búsqueda + lectura de la community average alcanza.
+Entra a `light.gg`, busca el nombre de un arma que tengas, y revisa su página. Si tienes cuenta Bungie.net puedes vincularla para que el sitio compare automáticamente tus rolls contra los god rolls — pero no es obligatorio. Para uso casual, búsqueda + lectura de la community average alcanza.

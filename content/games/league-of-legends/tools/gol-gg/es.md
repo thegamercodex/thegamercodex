@@ -1,7 +1,7 @@
 ---
 title: "Gol.gg"
 description: "Database analítica del esports profesional de League of Legends, activa desde 2014 desde Europa. Métricas profundas por partida, jugador, equipo y torneo: KDA, gold per minute, vision score, damage share, gold differential y más."
-quickTake: "La referencia analítica del esports europeo. Si necesitás métricas profundas de un jugador o equipo en un torneo específico —no solo resultados, sino performance descompuesta— Gol.gg es la fuente. Más navegable que Oracle's Elixir, menos crudo en data."
+quickTake: "La referencia analítica del esports europeo. Si necesitas métricas profundas de un jugador o equipo en un torneo específico —no solo resultados, sino performance descompuesta— Gol.gg es la fuente. Más navegable que Oracle's Elixir, menos crudo en data."
 ---
 
 ## Qué es
@@ -24,7 +24,7 @@ Esto cubre un gap real: ni Riot publica esta data agregada de forma navegable, n
 
 Gol.gg y Oracle's Elixir son las dos referencias del esports analítico, con énfasis distinto en presentación y filosofía:
 
-**Gol.gg**: foco en navegabilidad. Las stats están presentadas en tablas y dashboards que podés explorar haciendo click — torneo → partida → jugador → métricas individuales. La curva de aprendizaje es menor. Cobertura completa pero más fuerte en ligas europeas.
+**Gol.gg**: foco en navegabilidad. Las stats están presentadas en tablas y dashboards que puedes explorar haciendo click — torneo → partida → jugador → métricas individuales. La curva de aprendizaje es menor. Cobertura completa pero más fuerte en ligas europeas.
 
 **Oracle's Elixir**: foco en raw data y datasets descargables. Tim "Magic" Sevenhuysen mantiene la base con datasets en CSV exportables y un blog con análisis editorial periódico. Más rigor estadístico, mejor para analistas que quieren correr sus propias queries. Cobertura más fuerte en ligas anglosajonas (LCS, LCO).
 
@@ -32,7 +32,7 @@ Si tu workflow es "explorar visualmente para encontrar insights", Gol.gg. Si tu 
 
 ## Para qué la usa la gente
 
-**Análisis de performance de jugador en torneo específico**: caso de uso central. Filtrás por torneo y jugador, y obtenés breakdown completo de sus métricas: KDA, GPM, damage share, vision score, kill participation, comparado contra promedio del rol en ese torneo.
+**Análisis de performance de jugador en torneo específico**: caso de uso central. Filtras por torneo y jugador, y obtienes breakdown completo de sus métricas: KDA, GPM, damage share, vision score, kill participation, comparado contra promedio del rol en ese torneo.
 
 **Estudio de tendencias macro entre ligas**: comparar gold differential promedio o vision score por rol entre LCK, LEC, LCS y LPL revela diferencias paradigmáticas (estilos más agresivos vs estructurados).
 
@@ -44,12 +44,12 @@ Si tu workflow es "explorar visualmente para encontrar insights", Gol.gg. Si tu 
 
 ## Para quién NO es esta herramienta
 
-Gol.gg es excelente para análisis pro, pero no es lo que necesitás si:
+Gol.gg es excelente para análisis pro, pero no es lo que necesitas si:
 
-- **Querés histórico enciclopédico de teams/jugadores** → Leaguepedia tiene rosters, fechas exactas y achievements; Gol.gg es analytics, no historia.
-- **Querés datasets descargables para análisis propio** → Oracle's Elixir es mejor opción — datasets CSV, metodología documentada.
-- **Querés stats de soloqueue / personales** → OP.GG cubre eso. Gol.gg es exclusivamente pro scene.
-- **Querés información del juego (champions, items, mecánicas)** → la wiki oficial de LoL es la fuente.
+- **Quieres histórico enciclopédico de teams/jugadores** → Leaguepedia tiene rosters, fechas exactas y achievements; Gol.gg es analytics, no historia.
+- **Quieres datasets descargables para análisis propio** → Oracle's Elixir es mejor opción — datasets CSV, metodología documentada.
+- **Quieres stats de soloqueue / personales** → OP.GG cubre eso. Gol.gg es exclusivamente pro scene.
+- **Quieres información del juego (champions, items, mecánicas)** → la wiki oficial de LoL es la fuente.
 
 ## Cómo se usa en la práctica
 
@@ -65,11 +65,11 @@ Gol.gg es excelente para análisis pro, pero no es lo que necesitás si:
 
 6. Filtros disponibles: por liga, por temporada, por rol, por champion específico.
 
-Para uso recurrente: bookmarkeá las URLs de torneos que seguís. Las páginas se actualizan en tiempo casi-real durante eventos.
+Para uso recurrente: bookmarkeá las URLs de torneos que sigues. Las páginas se actualizan en tiempo casi-real durante eventos.
 
 ## Limitaciones honestas
 
-**UX denso, no apto para casual**: Gol.gg está pensado para analistas y fans serios. Si solo querés saber el resultado de una partida, es overkill — Leaguepedia es más directa.
+**UX denso, no apto para casual**: Gol.gg está pensado para analistas y fans serios. Si solo quieres saber el resultado de una partida, es overkill — Leaguepedia es más directa.
 
 **Cobertura desigual entre ligas**: las ligas europeas (LEC, LFL) tienen cobertura excelente. LCK, LPL, LCS son completas pero pueden tener algunos gaps en eventos secundarios. Ligas regionales menores pueden estar incompletas.
 
@@ -77,17 +77,17 @@ Para uso recurrente: bookmarkeá las URLs de torneos que seguís. Las páginas s
 
 **Anuncios visibles**: discretos pero presentes. La tool es free y se sostiene con ads.
 
-**Curva de aprendizaje del vocabulario**: si no entendés conceptos como "gold differential at 15", "damage share" o "kill participation", la información puede sentirse opaca al inicio. Vale la pena leer un explainer básico de métricas avanzadas antes de usar la tool seriamente.
+**Curva de aprendizaje del vocabulario**: si no entiendes conceptos como "gold differential at 15", "damage share" o "kill participation", la información puede sentirse opaca al inicio. Vale la pena leer un explainer básico de métricas avanzadas antes de usar la tool seriamente.
 
 ## Cómo empezar
 
 1. Vas a `gol.gg`. Sin registro.
 
-2. Si seguís un torneo en curso (MSI, Worlds, ligas regionales), buscá su página y explorá. Los standings + top performers son la entrada visual más cómoda.
+2. Si sigues un torneo en curso (MSI, Worlds, ligas regionales), busca su página y explora. Los standings + top performers son la entrada visual más cómoda.
 
-3. Click en un jugador que te interese y revisá su breakdown — comparativas contra el promedio del rol son el insight más útil para identificar performers reales.
+3. Click en un jugador que te interese y revisa su breakdown — comparativas contra el promedio del rol son el insight más útil para identificar performers reales.
 
-4. Si querés entender una métrica específica (ej: "qué significa exactamente kill participation"), busca un explainer externo (Reddit r/leagueoflegends o r/summonerschool tienen threads pedagógicos).
+4. Si quieres entender una métrica específica (ej: "qué significa exactamente kill participation"), busca un explainer externo (Reddit r/leagueoflegends o r/summonerschool tienen threads pedagógicos).
 
 5. Para análisis propios serios o investigación periodística, complementá con Oracle's Elixir — los datasets descargables permiten queries que la web nativa no soporta.
 

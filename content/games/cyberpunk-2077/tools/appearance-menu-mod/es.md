@@ -78,8 +78,8 @@ Si quieres un photo mode más conservador (poses fijas, sin spawn), Photo Mode U
 
 1. Verifica que tienes CET y RED4ext instalados y working. Si no, instala esos primero (ver sus respectivas guías).
 2. Baja AMM desde Nexus (mod ID 790). La versión más reciente que es compatible con tu patch del juego (Nexus muestra compatibility).
-3. Extrae el ZIP. AMM viene como una carpeta `AppearanceMenuMod` — copiá esa carpeta a `bin\x64\plugins\cyber_engine_tweaks\mods\`.
-4. Levantá el juego. Carga tu save.
+3. Extrae el ZIP. AMM viene como una carpeta `AppearanceMenuMod` — copia esa carpeta a `bin\x64\plugins\cyber_engine_tweaks\mods\`.
+4. Levanta el juego. Carga tu save.
 5. Abre el overlay de CET. Si AMM cargó OK, verás "Appearance Menu Mod" en la lista de mods. Click → la UI de AMM abre.
 6. Como primer experiment, ve a Spawn tab → eligí un NPC → spawn cerca de V. Si aparece, AMM funciona.
 

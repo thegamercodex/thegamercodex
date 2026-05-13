@@ -5,7 +5,7 @@
 
 ## Resumen
 
-11 juegos · 174 tools · 55 creators · 57 categorías · 285 resources items · 8 comparisons
+11 juegos · 174 tools · 55 creators · 57 categorías · 285 resources items · 15 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -17,7 +17,7 @@
 | `league-of-legends` | League of Legends | 15 | 5 | 5 | 25 | 0 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 0 |
 | `path-of-exile` | Path of Exile | 17 | 5 | 5 | 25 | 7 |
-| `path-of-exile-2` | Path of Exile 2 | 20 | 5 | 5 | 25 | 1 |
+| `path-of-exile-2` | Path of Exile 2 | 20 | 5 | 5 | 25 | 8 |
 | `valorant` | Valorant | 15 | 5 | 5 | 25 | 0 |
 | `world-of-warcraft` | World of Warcraft | 15 | 5 | 6 | 30 | 0 |
 
@@ -157,7 +157,7 @@
 - `mechanics-per-league` — 5 items
 - `trading-guides` — 5 items
 
-**Comparisons (1)**: `exiled-exchange-2-vs-sidekick` (short)
+**Comparisons (8)**: `craft-of-exile-vs-path-of-crafting` (short), `exiled-exchange-2-vs-poe-overlay` (short), `exiled-exchange-2-vs-sidekick` (short), `maxroll-vs-mobalytics` (short), `path-of-building-vs-poeplanner` (flagship), `poe-ninja-vs-poe2-scout` (short), `poe-trade-official-vs-tft` (short), `poe2-wiki-vs-poe2db` (flagship)
 
 ### Valorant (`valorant`)
 

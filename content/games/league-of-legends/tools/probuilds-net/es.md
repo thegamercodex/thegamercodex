@@ -1,12 +1,12 @@
 ---
 title: "Probuilds.net"
 description: "El sitio clásico para consultar builds y runas de jugadores profesionales de League of Legends en sus partidas recientes de soloqueue. Foco en agregación por champion con histórico de pros tracked."
-quickTake: "El probuilds original. Si querés ver qué construyeron los pros en sus últimas partidas para un champion específico, esta es la fuente más larga del ecosistema. UX viejo pero la data está completa y siempre actualizada."
+quickTake: "El probuilds original. Si quieres ver qué construyeron los pros en sus últimas partidas para un champion específico, esta es la fuente más larga del ecosistema. UX viejo pero la data está completa y siempre actualizada."
 ---
 
 ## Qué es
 
-Probuilds.net es el sitio histórico de builds de jugadores profesionales en League of Legends, activo desde alrededor de 2014. Su producto es directo: agrega las partidas recientes de soloqueue (y a veces partidas oficiales) de cientos de jugadores profesionales tracked manualmente, y las indexa por champion. Cuando buscás un champion, ves las builds más recientes que pros eligieron en partidas reales — items, runas, hechizos, orden de skills, duración de partida.
+Probuilds.net es el sitio histórico de builds de jugadores profesionales en League of Legends, activo desde alrededor de 2014. Su producto es directo: agrega las partidas recientes de soloqueue (y a veces partidas oficiales) de cientos de jugadores profesionales tracked manualmente, y las indexa por champion. Cuando buscas un champion, ves las builds más recientes que pros eligieron en partidas reales — items, runas, hechizos, orden de skills, duración de partida.
 
 El roster de pros tracked cubre las cuatro ligas mayores (LCK, LPL, LEC, LCS) más streamers de alto elo y jugadores Challenger conocidos. Los datos vienen de la API de Riot directamente; cada partida nueva de un pro tracked aparece en cuestión de horas.
 
@@ -32,30 +32,30 @@ Si tu prioridad es completitud de data y no te molesta UX legacy, Probuilds.net.
 
 ## Para qué la usa la gente
 
-**Ver builds recientes de pros por champion**: caso de uso central. Buscás un champion y ves las últimas N partidas de pros con ese pick — items, runas, summoner spells, KDA y duración de partida.
+**Ver builds recientes de pros por champion**: caso de uso central. Buscas un champion y ves las últimas N partidas de pros con ese pick — items, runas, summoner spells, KDA y duración de partida.
 
 **Adelantarse al meta nuevo en patches recientes**: cuando recién sale un patch, U.GG/Lolalytics todavía tienen poco sample. Probuilds.net muestra qué están probando los pros en sus primeras partidas del patch, días antes de que la data agregada se estabilice.
 
-**Estudiar a un pro específico**: si querés copiar el style de tu pro favorito, podés filtrar por nombre y ver todas sus partidas recientes con sus builds correspondientes.
+**Estudiar a un pro específico**: si quieres copiar el style de tu pro favorito, puedes filtrar por nombre y ver todas sus partidas recientes con sus builds correspondientes.
 
 **Comparar enfoques entre ligas**: ver si los coreanos (LCK) construyen un champion distinto a los europeos (LEC) o los chinos (LPL). Diferencias regionales reflejan paradigmas tácticos distintos.
 
-**Validar builds off-meta**: si querés probar algo no convencional, ver si **algún** pro lo hizo recientemente da señal de viabilidad.
+**Validar builds off-meta**: si quieres probar algo no convencional, ver si **algún** pro lo hizo recientemente da señal de viabilidad.
 
 ## Para quién NO es esta herramienta
 
-Probuilds.net es excelente para una función específica, pero no es lo que necesitás si:
+Probuilds.net es excelente para una función específica, pero no es lo que necesitas si:
 
-- **Querés builds optimizadas para tu rango (no para Challenger)** → U.GG / Lolalytics agregan data de tu rango específico, no del top 0.01%. Lo que funciona en Challenger no necesariamente escala a Diamond.
-- **Querés UX moderno y mobile-friendly** → Probuild.gg cubre la misma función con presentación más limpia.
-- **Querés análisis estadístico profundo** → Probuilds.net no descompone win rate por matchup ni timing; Lolalytics y League of Graphs sí.
-- **Querés perfil personal de match history** → OP.GG es la opción para tu propio histórico.
+- **Quieres builds optimizadas para tu rango (no para Challenger)** → U.GG / Lolalytics agregan data de tu rango específico, no del top 0.01%. Lo que funciona en Challenger no necesariamente escala a Diamond.
+- **Quieres UX moderno y mobile-friendly** → Probuild.gg cubre la misma función con presentación más limpia.
+- **Quieres análisis estadístico profundo** → Probuilds.net no descompone win rate por matchup ni timing; Lolalytics y League of Graphs sí.
+- **Quieres perfil personal de match history** → OP.GG es la opción para tu propio histórico.
 
 ## Cómo se usa en la práctica
 
 1. Vas a `probuilds.net`. Sin login.
 
-2. Buscás un champion (o navegás por la grilla general).
+2. Buscas un champion (o navegas por la grilla general).
 
 3. La página muestra las últimas N partidas de pros con ese pick: nombre del pro, equipo (si aplica), región, duración de partida, KDA, y build completa (items en orden, runas, summoner spells).
 
@@ -83,12 +83,12 @@ Para uso recurrente: bookmarkeá la URL de tu champion main para ver builds reci
 
 1. Vas a `probuilds.net`. Sin registro.
 
-2. Buscá tu champion main. Mirá las últimas 5-10 partidas de pros — notá patrones (¿qué item building primero? ¿qué runa secundaria predominó?).
+2. Busca tu champion main. Mira las últimas 5-10 partidas de pros — notá patrones (¿qué item building primero? ¿qué runa secundaria predominó?).
 
 3. Compará lo que ves con lo que recomienda U.GG para tu rango. Si hay diferencia consistente, esa es señal de que el meta está evolucionando o de que pros están explorando algo distinto.
 
-4. Para pro favorito: filtrá por su nombre y mirá sus últimas 20 partidas para ver su rotación de picks y builds.
+4. Para pro favorito: filtrá por su nombre y mira sus últimas 20 partidas para ver su rotación de picks y builds.
 
-5. Cuando salga un patch nuevo, volvé a Probuilds.net en los primeros días — los pros suelen experimentar antes que la comunidad agregada estabilice. Es la ventana donde Probuilds.net aporta más valor diferencial.
+5. Cuando salga un patch nuevo, vuelve a Probuilds.net en los primeros días — los pros suelen experimentar antes que la comunidad agregada estabilice. Es la ventana donde Probuilds.net aporta más valor diferencial.
 
 6. No copies builds ciegamente sin entender por qué — completá con análisis editorial (Lolalytics para el porqué estadístico, guías de coaches para el porqué táctico).

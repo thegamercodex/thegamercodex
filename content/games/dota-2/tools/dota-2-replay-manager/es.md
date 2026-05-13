@@ -1,7 +1,7 @@
 ---
 title: "DOTA 2 Replay Manager"
 description: "App de desktop gratis y open-source para Windows, Mac y Linux que permite parsear, gestionar y ver replays de Dota 2 localmente. Sin signup, sin ads, sin cloud — privacy-first."
-quickTake: "Si querés mantener tus replays locales, parseados offline y vistos sin mandar data a servidores de terceros, esta es la opción. Niche pero útil para usuarios privacy-focused."
+quickTake: "Si quieres mantener tus replays locales, parseados offline y vistos sin mandar data a servidores de terceros, esta es la opción. Niche pero útil para usuarios privacy-focused."
 ---
 
 ## Qué es
@@ -16,7 +16,7 @@ La app es funcional más que visualmente impactante — es una utility tool sól
 
 Los replay parsers con los que la mayoría de usuarios interactúa (Dotabuff, OpenDota, STRATZ) son servicios cloud: los replays se suben a servidores remotos y se parsean ahí. Para la mayoría de usuarios eso está bien, pero para quienes tienen privacy concerns, problemas de conexión a internet o quieren archivo local permanente, tener una tool desktop self-contained tiene valor.
 
-D2RM cubre ese gap con foco en tres cosas: parsing local (sin mandar data a servidores remotos), gestión local (tus replays quedan donde los pongas) y vista offline (podés analizar tus partidas sin internet). Es una tool nicho pero real.
+D2RM cubre ese gap con foco en tres cosas: parsing local (sin mandar data a servidores remotos), gestión local (tus replays quedan donde los pongas) y vista offline (puedes analizar tus partidas sin internet). Es una tool nicho pero real.
 
 ## Para qué la usa la gente
 
@@ -84,6 +84,6 @@ D2RM es hiper-nicho. La mayoría de usuarios están mejor servidos en otro lado:
 
 5. Hacer click en cualquier replay para probar la vista básica.
 
-6. Si tenés privacy concerns específicos, esta es una buena opción. Si no, los servicios cloud son más fáciles y más featureful.
+6. Si tienes privacy concerns específicos, esta es una buena opción. Si no, los servicios cloud son más fáciles y más featureful.
 
 7. Para mantenerla actualizada, seguir el GitHub repo y actualizar cuando se publican nuevas releases.

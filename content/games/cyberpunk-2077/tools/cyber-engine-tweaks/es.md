@@ -66,7 +66,7 @@ Si tu hardware es muy modesto, CET agrega un poquito de overhead al loading. No 
 1. Lee la wiki oficial: `wiki.redmodding.org/cyber-engine-tweaks/getting-started/installing`. Tiene step-by-step actualizado.
 2. Baja la última release de GitHub o Nexus. Las dos fuentes ofrecen el mismo binario.
 3. Haz backup de tu carpeta de instalación antes (o mejor: usa una segunda instalación dedicada a modding si tienes espacio).
-4. Después de instalar CET, levantá el juego una vez y verifica que aparece el overlay (default hotkey: home key, pero verifica tu config).
+4. Después de instalar CET, levanta el juego una vez y verifica que aparece el overlay (default hotkey: home key, pero verifica tu config).
 5. Cuando funcione, ya puedes instalar mods que dependen de CET. Empieza con uno simple (Native Settings UI) antes de meter algo grande (AMM).
 
 Si algo falla, el primer lugar a mirar es el panel "Logs" dentro del overlay — los errores Lua ahí indican exactamente qué mod o función está rota.

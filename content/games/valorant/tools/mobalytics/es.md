@@ -1,7 +1,7 @@
 ---
 title: "Mobalytics Valorant"
 description: "Plataforma con guías editoriales por agente, tier lists, lineups por mapa y herramientas de coaching para Valorant."
-quickTake: "Si querés contenido editorial profundo por agente — sinergias, role específico, mid-game reads — Mobalytics es donde se invierte el research. Más texto y menos stat dump que la competencia."
+quickTake: "Si quieres contenido editorial profundo por agente — sinergias, role específico, mid-game reads — Mobalytics es donde se invierte el research. Más texto y menos stat dump que la competencia."
 ---
 
 ## Qué es
@@ -12,7 +12,7 @@ A diferencia de Tracker.gg (datos puros) o Blitz (overlay), Mobalytics se inclin
 
 ## Qué problema resuelve
 
-"Cómo jugar Reyna" o "qué hace bien Cypher en Bind" no se contestan con un win rate. Necesitás contexto: rol, sinergia, ability priority, mid-round reads. Eso es contenido editorial, no data.
+"Cómo jugar Reyna" o "qué hace bien Cypher en Bind" no se contestan con un win rate. Necesitas contexto: rol, sinergia, ability priority, mid-round reads. Eso es contenido editorial, no data.
 
 Mobalytics ofrece eso. Las páginas de agente tienen escritos pedagógicos largos, tips por nivel de skill, y videos curados. Para players que prefieren leer/ver tutoriales antes de jugar, es donde se invierte el research.
 
@@ -38,19 +38,19 @@ La regla práctica: Mobalytics para leer/preparar antes de jugar, Blitz para inf
 
 ## Para quién NO es esta herramienta
 
-Si querés data crudos sin filler editorial, Tracker.gg es más directo. Mobalytics te hace leer 3 párrafos antes de llegar a un número.
+Si quieres data crudos sin filler editorial, Tracker.gg es más directo. Mobalytics te hace leer 3 párrafos antes de llegar a un número.
 
-Si jugás casual (un par de horas a la semana), las guías profundas son overkill. Para casuals los videos cortos de creators rinden más.
+Si juegas casual (un par de horas a la semana), las guías profundas son overkill. Para casuals los videos cortos de creators rinden más.
 
-Si necesitás tier lists actualizadas al patch del día, Mobalytics puede tardar 1-3 días en publicar la actualización editorial. Para urgencia post-patch, Blitz tier lists o videos de creators son más rápidos.
+Si necesitas tier lists actualizadas al patch del día, Mobalytics puede tardar 1-3 días en publicar la actualización editorial. Para urgencia post-patch, Blitz tier lists o videos de creators son más rápidos.
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `mobalytics.gg/valorant`. Sin login podés ver todo el contenido editorial; cuenta opcional para tracking personal.
-2. Seleccionás el agente que querés aprender en la lista de agentes.
-3. Leés la guía completa: kit, role, sinergias, comps, mapas. Toma 10-15 minutos por agente.
-4. Para lineups: pestaña "Lineups", filtrás por mapa y agente, vé los GIFs/videos de cada utility throw.
-5. Para tier list: pestaña "Tier List", filtrás por mapa y rank tier para ver el meta vigente.
+1. Entras a `mobalytics.gg/valorant`. Sin login puedes ver todo el contenido editorial; cuenta opcional para tracking personal.
+2. Seleccionas el agente que quieres aprender en la lista de agentes.
+3. Lees la guía completa: kit, role, sinergias, comps, mapas. Toma 10-15 minutos por agente.
+4. Para lineups: pestaña "Lineups", filtras por mapa y agente, vé los GIFs/videos de cada utility throw.
+5. Para tier list: pestaña "Tier List", filtras por mapa y rank tier para ver el meta vigente.
 
 ## Limitaciones honestas
 
@@ -62,8 +62,8 @@ Si necesitás tier lists actualizadas al patch del día, Mobalytics puede tardar
 
 **Solo en inglés**. Sin localización.
 
-**No tiene overlay**. Si querés info en partida, esta no es la herramienta.
+**No tiene overlay**. Si quieres info en partida, esta no es la herramienta.
 
 ## Cómo empezar
 
-Entrá a `mobalytics.gg/valorant`. Tomá un agente que jugás casual y leé su guía completa — vas a aprender al menos 3 cosas que no sabías. Después chequeá el lineup database del mapa que más jugás. Para uso recurrente, bookmark del agente y mapa principales.
+Entra a `mobalytics.gg/valorant`. Toma un agente que juegas casual y lee su guía completa — vas a aprender al menos 3 cosas que no sabías. Después chequea el lineup database del mapa que más juegas. Para uso recurrente, bookmark del agente y mapa principales.

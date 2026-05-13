@@ -1,7 +1,7 @@
 ---
 title: "Path of Exile 2 Wiki"
 description: "Wiki colaborativa de Path of Exile 2 con artículos editoriales y data sobre clases, mecánicas, items, y lore."
-quickTake: "El primer link cuando preguntás 'qué hace exactamente este keystone' o 'cómo funciona la mecánica X'. Más narrativa que PoE2DB, más editada que reddit. Para conceptos de juego, empezás acá."
+quickTake: "El primer link cuando preguntas 'qué hace exactamente este keystone' o 'cómo funciona la mecánica X'. Más narrativa que PoE2DB, más editada que reddit. Para conceptos de juego, empiezas acá."
 ---
 
 ## Qué es
@@ -12,33 +12,33 @@ Es un proyecto independiente de GGG pero con cobranding aceptado y respaldo via 
 
 ## Qué problema resuelve
 
-Cuando aprendés PoE 2, hay conceptos que necesitás entender en detalle: cómo funciona el Spirit, qué es un Sekhema, cómo escalan exactamente las resistencias, qué hace cada keystone notable. Esa información existe en distintos lugares (videos, reddit, dev posts), pero está dispersa y muchas veces obsoleta.
+Cuando aprendes PoE 2, hay conceptos que necesitas entender en detalle: cómo funciona el Spirit, qué es un Sekhema, cómo escalan exactamente las resistencias, qué hace cada keystone notable. Esa información existe en distintos lugares (videos, reddit, dev posts), pero está dispersa y muchas veces obsoleta.
 
-La wiki agrega eso en formato unificado. Cada concepto tiene página dedicada con descripción, mecánicas exactas, ejemplos y links a entidades relacionadas. Si querés saber "todo sobre X", la wiki te da un punto de entrada estructurado.
+La wiki agrega eso en formato unificado. Cada concepto tiene página dedicada con descripción, mecánicas exactas, ejemplos y links a entidades relacionadas. Si quieres saber "todo sobre X", la wiki te da un punto de entrada estructurado.
 
 ## Diferenciación
 
 Frente a PoE2DB, la wiki es la versión narrativa: agrega contexto, ejemplos y explicaciones. PoE2DB te dice "este mod tiene tier 1 a 5 con weight 1000"; la wiki te explica qué significa weight, cómo se aplica en crafting, y por qué importa.
 
-Frente a maxroll u otros sitios editoriales, la wiki es más enciclopédica y menos opinada. No te dice qué build hacer; te explica qué herramientas tenés a disposición. Workflow combinado: wiki para entender, maxroll para decidir.
+Frente a maxroll u otros sitios editoriales, la wiki es más enciclopédica y menos opinada. No te dice qué build hacer; te explica qué herramientas tienes a disposición. Workflow combinado: wiki para entender, maxroll para decidir.
 
 ## Para qué la usa la gente
 
-**Investigar mecánicas core**: el Spirit system, las gem combinations, el Atlas — la wiki cubre estos sistemas con explicaciones rigurosas que no obtenés de un tooltip in-game.
+**Investigar mecánicas core**: el Spirit system, las gem combinations, el Atlas — la wiki cubre estos sistemas con explicaciones rigurosas que no obtienes de un tooltip in-game.
 
 **Buscar lore y storyline**: PoE 2 tiene narrative deeper que muchos arpgs. La wiki documenta NPCs, factions, eventos y conexiones con PoE 1 lore.
 
 **Entender clases y ascendancies**: cada clase tiene página con stats base, ascendancies disponibles, skills recomendadas y notas editoriales sobre identidad de clase.
 
-**Resolver dudas puntuales durante el juego**: cuando aparece un nuevo enemigo o item raro y querés saber qué es rápido, la wiki suele tener entrada con la información esencial.
+**Resolver dudas puntuales durante el juego**: cuando aparece un nuevo enemigo o item raro y quieres saber qué es rápido, la wiki suele tener entrada con la información esencial.
 
 **Cross-referencias**: la wiki está fuertemente linkeada — un artículo sobre un boss te lleva al maps que lo dropean, a las skills que usa el boss, a items asociados. Útil para investigar ramificaciones de un sistema.
 
 ## Para quién NO es esta herramienta
 
-Si necesitás data primaria de máxima precisión (exact mod weights, item base distributions), PoE2DB rinde más. La wiki puede tener data redondeada o desactualizada en algunos rincones.
+Si necesitas data primaria de máxima precisión (exact mod weights, item base distributions), PoE2DB rinde más. La wiki puede tener data redondeada o desactualizada en algunos rincones.
 
-Si buscás opinión editorial sobre balance o tier lists, la wiki no es el lugar. Su estilo es enciclopédico — describe, no juzga.
+Si buscas opinión editorial sobre balance o tier lists, la wiki no es el lugar. Su estilo es enciclopédico — describe, no juzga.
 
 ## Cómo se usa en la práctica
 
@@ -46,7 +46,7 @@ Si buscás opinión editorial sobre balance o tier lists, la wiki no es el lugar
 2. Para cualquier término específico, search bar global → la wiki encuentra artículos relacionados.
 3. Cada artículo tiene infobox con stats clave + cuerpo narrativo + sección de "see also" con cross-links.
 4. Algunas páginas tienen sub-secciones con ejemplos de builds o uso, especialmente en skills populares.
-5. Workflow normal: mientras leés guides o jugás, la wiki abierta en pestaña paralela como referencia general.
+5. Workflow normal: mientras lees guides o juegas, la wiki abierta en pestaña paralela como referencia general.
 
 ## Limitaciones honestas
 
@@ -62,6 +62,6 @@ Si buscás opinión editorial sobre balance o tier lists, la wiki no es el lugar
 
 ## Cómo empezar
 
-No requiere registro. Vas a `poe2wiki.net`, usás search o navegación de la home, y leés. Si querés contribuir, te creás cuenta gratis y editás como cualquier wiki.
+No requiere registro. Vas a `poe2wiki.net`, usas search o navegación de la home, y lees. Si quieres contribuir, te creas cuenta gratis y editas como cualquier wiki.
 
 Para integrarlo: leelo cuando tengas duda específica sobre algo del juego. No es lectura lineal — es consultivo. Útil tener bookmarkeado para acceso rápido durante sesiones de juego.

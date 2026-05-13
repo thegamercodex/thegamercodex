@@ -8,7 +8,7 @@ quickTake: "La referencia más limpia para consultar builds y runas por champion
 
 U.GG es una plataforma web de builds, runas y stats por campeón en League of Legends, lanzada en 2018 y operada por la empresa del mismo nombre con sede en Estados Unidos. Su foco original fue construir el sitio de builds más rápido y limpio del ecosistema, en una época donde Mobafire y otros sitios legacy dominaban la categoría con UX cargada y poco actualizada.
 
-El uso más común es directo: buscás un champion, elegís rol, y la página te muestra la build óptima del patch actual (items, runas, hechizos, orden de habilidades) calculada sobre millones de partidas agregadas. Cubre además match history (estilo OP.GG), counters por matchup, tier lists y probuilds.
+El uso más común es directo: buscas un champion, eliges rol, y la página te muestra la build óptima del patch actual (items, runas, hechizos, orden de habilidades) calculada sobre millones de partidas agregadas. Cubre además match history (estilo OP.GG), counters por matchup, tier lists y probuilds.
 
 Tiene una tier paga ("U.GG Premium", ~3 USD/mes) que remueve ads y desbloquea filtros avanzados, pero todo el core editorial de la herramienta es gratis y consultable directo desde el navegador, sin login.
 
@@ -22,9 +22,9 @@ El cliente de Riot trae builds recomendadas, pero son estáticas, genéricas y m
 
 OP.GG y U.GG cubren funciones que se solapan, pero la entrada principal de cada una es distinta:
 
-**OP.GG**: la entrada natural es **un summoner**. Buscás una cuenta y desde ahí navegás a sus matches, sus champions, sus stats. Las builds y tier lists existen pero son secundarias.
+**OP.GG**: la entrada natural es **un summoner**. Buscas una cuenta y desde ahí navegas a sus matches, sus champions, sus stats. Las builds y tier lists existen pero son secundarias.
 
-**U.GG**: la entrada natural es **un champion**. Buscás "Yasuo mid" y obtenés directamente la build, runas, matchups, items por situación. El match history existe pero es funcionalidad complementaria.
+**U.GG**: la entrada natural es **un champion**. Buscas "Yasuo mid" y obtienes directamente la build, runas, matchups, items por situación. El match history existe pero es funcionalidad complementaria.
 
 Otro punto: U.GG suele aparecer descrita como "Riot-approved" en foros y reddits. **No existe** un programa formal de "Riot Partner" para sites de builds — ese rol está reservado a creadores de contenido. U.GG fue sponsor de un segmento del LCS en 2019 (un acuerdo comercial puntual), y su propio sitio incluye el disclaimer estándar "isn't endorsed by Riot Games". Es third-party, igual que OP.GG, Mobalytics y Blitz.
 
@@ -32,7 +32,7 @@ Si tu workflow empieza por "quiero ver mi última partida", OP.GG. Si empieza po
 
 ## Para qué la usa la gente
 
-**Consultar build optimizada del patch actual**: el caso de uso dominante. Buscás el champion + rol y obtenés items, runas, hechizos y orden de habilidades en una vista única.
+**Consultar build optimizada del patch actual**: el caso de uso dominante. Buscas el champion + rol y obtienes items, runas, hechizos y orden de habilidades en una vista única.
 
 **Importar runas al cliente**: U.GG tiene una desktop app opcional que importa la página de runas directo al cliente de LoL al detectar el champion seleccionado en champ select.
 
@@ -53,9 +53,9 @@ U.GG es excelente como guía de builds rápida y consulta de meta, pero no es la
 
 ## Cómo se usa en la práctica
 
-1. Vas a `u.gg` y buscás el nombre del champion (o navegás por la grilla de champions).
+1. Vas a `u.gg` y buscas el nombre del champion (o navegas por la grilla de champions).
 
-2. Seleccionás el rol (top, jungle, mid, ADC, support) — el sitio detecta el rol más común si no especificás.
+2. Seleccionas el rol (top, jungle, mid, ADC, support) — el sitio detecta el rol más común si no especificas.
 
 3. La página carga la build recomendada con: starting items, core build path, items situacionales, runas primarias y secundarias, hechizos de invocador, orden de habilidades.
 
@@ -63,7 +63,7 @@ U.GG es excelente como guía de builds rápida y consulta de meta, pero no es la
 
 5. Filtros disponibles: por rango (Platinum+, Diamond+, Master+), por región, por patch específico.
 
-Si querés importar runas automáticamente al cliente, instalás la desktop app — pero para consulta web pura no es necesaria.
+Si quieres importar runas automáticamente al cliente, instalas la desktop app — pero para consulta web pura no es necesaria.
 
 ## Limitaciones honestas
 
@@ -75,18 +75,18 @@ Si querés importar runas automáticamente al cliente, instalás la desktop app 
 
 **Cobertura competitiva no es su fuerte**: U.GG tiene Probuilds pero la base es más chica que la de Probuilds.net o Probuild.gg, que son sitios dedicados exclusivamente a esa función.
 
-**Premium tier es opcional pero ofrecido frecuentemente**: el sitio empuja la suscripción con popups y banners. Si solo querés consultar builds, ignorá los upsells — la versión gratis cubre el 95% de los casos de uso.
+**Premium tier es opcional pero ofrecido frecuentemente**: el sitio empuja la suscripción con popups y banners. Si solo quieres consultar builds, ignorá los upsells — la versión gratis cubre el 95% de los casos de uso.
 
 ## Cómo empezar
 
-No requiere registro ni instalación. Vas a `u.gg`, buscás un champion, elegís rol, listo. Para sacarle máximo provecho:
+No requiere registro ni instalación. Vas a `u.gg`, buscas un champion, eliges rol, listo. Para sacarle máximo provecho:
 
 1. Bookmarkeá la URL del champion + rol que más juegues — las builds se actualizan automáticamente cada patch.
 
-2. Si te interesa el meta general de tu rol, marcá la tier list correspondiente como recurso de inicio de sesión.
+2. Si te interesa el meta general de tu rol, marca la tier list correspondiente como recurso de inicio de sesión.
 
-3. Antes de cada partida ranked, abrí la sección Counters de tu champion para ver qué bans priorizar.
+3. Antes de cada partida ranked, abre la sección Counters de tu champion para ver qué bans priorizar.
 
-4. Considerá la desktop app solo si te interesa el auto-import de runas — para todo lo demás, la web es suficiente.
+4. Considera la desktop app solo si te interesa el auto-import de runas — para todo lo demás, la web es suficiente.
 
-5. Si querés entender por qué una build funciona (no solo qué construir), complementá con Lolalytics que muestra mejor el "porqué" estadístico.
+5. Si quieres entender por qué una build funciona (no solo qué construir), complementá con Lolalytics que muestra mejor el "porqué" estadístico.

@@ -1,7 +1,7 @@
 ---
 title: "Raid Report"
 description: "Sitio web especializado en stats de raids y dungeons de Destiny 2: clears totales, sherpas, y composición de fireteams."
-quickTake: "El sitio que abrís cuando alguien dice 'hago raids' y querés saber si es verdad. Para LFG y validación de experience, Raid Report es la fuente de verdad."
+quickTake: "El sitio que abres cuando alguien dice 'hago raids' y quieres saber si es verdad. Para LFG y validación de experience, Raid Report es la fuente de verdad."
 ---
 
 ## Qué es
@@ -12,9 +12,9 @@ Cubre todas las raids y dungeons del juego (incluyendo las que ya no están rota
 
 ## Qué problema resuelve
 
-LFG (Looking for Group) en Destiny 2 vive de la confianza: querés saber si el jugador que postula tiene experiencia real con la raid antes de invitarlo al fireteam. Bungie expone los clears en Career pero sin el detalle de sherpas, contest mode o fastest time — info crítica para decidir si confiar o no.
+LFG (Looking for Group) en Destiny 2 vive de la confianza: quieres saber si el jugador que postula tiene experiencia real con la raid antes de invitarlo al fireteam. Bungie expone los clears en Career pero sin el detalle de sherpas, contest mode o fastest time — info crítica para decidir si confiar o no.
 
-Raid Report responde eso en 3 segundos: pegás el Bungie ID, ves su historial de raids con números limpios. Si dice 47 clears de Vow of the Disciple, es real. Si dice 0 sherpas, sabés que prefiere ir con grupos experienced.
+Raid Report responde eso en 3 segundos: pegas el Bungie ID, ves su historial de raids con números limpios. Si dice 47 clears de Vow of the Disciple, es real. Si dice 0 sherpas, sabes que prefiere ir con grupos experienced.
 
 ## Diferenciación
 
@@ -24,31 +24,31 @@ Frente a la pestaña Career oficial, Raid Report gana en granularidad y velocida
 
 ## Para qué la usa la gente
 
-**Validar experiencia para LFG**: antes de invitar a un jugador a tu fireteam, pegás su ID y revisás cuántos clears tiene de la raid en cuestión.
+**Validar experiencia para LFG**: antes de invitar a un jugador a tu fireteam, pegas su ID y revisas cuántos clears tiene de la raid en cuestión.
 
-**Buscar sherpas**: filtrás por sherpa count para encontrar jugadores que llevan rookies. Útil cuando vos sos el rookie y querés a alguien con paciencia comprobada.
+**Buscar sherpas**: filtras por sherpa count para encontrar jugadores que llevan rookies. Útil cuando tú eres el rookie y quieres a alguien con paciencia comprobada.
 
-**Tracking de tu propio progreso**: cuántos clears llevás de cada raid, cuál es tu fastest, quiénes han sido tus fireteam mates más frecuentes.
+**Tracking de tu propio progreso**: cuántos clears llevas de cada raid, cuál es tu fastest, quiénes han sido tus fireteam mates más frecuentes.
 
-**Verificar Day-1 emblems / contest mode**: Raid Report distingue clear normal de contest mode. Para wear el emblema legítimamente, necesitás esa diferenciación.
+**Verificar Day-1 emblems / contest mode**: Raid Report distingue clear normal de contest mode. Para wear el emblema legítimamente, necesitas esa diferenciación.
 
 **Stalk de tu propio fireteam**: ver con quién jugaste la última raid, cuánto tardaron, quién hizo más wipes.
 
 ## Para quién NO es esta herramienta
 
-Si no jugás raids ni dungeons, Raid Report no aporta nada. Para PvP usá Trials Report; para overview general, Destiny Tracker.
+Si no juegas raids ni dungeons, Raid Report no aporta nada. Para PvP usa Trials Report; para overview general, Destiny Tracker.
 
-Si tu Bungie profile está privado, los stats no aparecen para nadie incluido vos mismo (a menos que abras el perfil).
+Si tu Bungie profile está privado, los stats no aparecen para nadie incluido tú mismo (a menos que abras el perfil).
 
-Si lo que querés es coaching de raids (mecánicas, callouts, encounter strategy), Raid Report no enseña nada — es puro stats. Para guías, los videos en YouTube son la fuente.
+Si lo que quieres es coaching de raids (mecánicas, callouts, encounter strategy), Raid Report no enseña nada — es puro stats. Para guías, los videos en YouTube son la fuente.
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `raid.report` y buscás el Bungie ID o gamer tag de la plataforma.
+1. Entras a `raid.report` y buscas el Bungie ID o gamer tag de la plataforma.
 2. La página de perfil muestra una grilla de cada raid y dungeon con clears, dificultades, fastest time y sherpas.
 3. Click en una raid específica para ver detalle por completion: fecha, fireteam, tiempo, dificultad.
-4. Para comparar dos jugadores, abrís dos tabs y escaneás side-by-side. No hay vista comparativa nativa pero la info es densa.
-5. Para LFG: pegás el ID en `/profile` antes de aceptar al jugador. 30 segundos.
+4. Para comparar dos jugadores, abres dos tabs y escaneas side-by-side. No hay vista comparativa nativa pero la info es densa.
+5. Para LFG: pegas el ID en `/profile` antes de aceptar al jugador. 30 segundos.
 
 ## Limitaciones honestas
 
@@ -60,8 +60,8 @@ Si lo que querés es coaching de raids (mecánicas, callouts, encounter strategy
 
 **Ads**. Sin adblock, página puede ser slow en mobile.
 
-**No tiene login ni features personales**. No podés guardar friend list ni recibir notificaciones. Es read-only stalker tool.
+**No tiene login ni features personales**. No puedes guardar friend list ni recibir notificaciones. Es read-only stalker tool.
 
 ## Cómo empezar
 
-Entrá a `raid.report`, buscás tu Bungie ID. Recorré tu propia historia primero — es la mejor forma de aprender qué muestra el sitio. Después, antes del próximo raid LFG, validá a los applicants pegando sus IDs. La diferencia entre un fireteam que clear vs wipe es a menudo legible desde acá.
+Entra a `raid.report`, buscas tu Bungie ID. Recorré tu propia historia primero — es la mejor forma de aprender qué muestra el sitio. Después, antes del próximo raid LFG, valida a los applicants pegando sus IDs. La diferencia entre un fireteam que clear vs wipe es a menudo legible desde acá.

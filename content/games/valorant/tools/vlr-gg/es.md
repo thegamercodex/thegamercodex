@@ -1,7 +1,7 @@
 ---
 title: "VLR.gg"
 description: "Sitio comunitario que cubre Valorant esports: resultados, brackets, stats de pros, transferencias y discusión de la comunidad."
-quickTake: "Si seguís VCT, VLR.gg es el destination obligatorio. Stats de pros, picks y bans por mapa, calendario completo de torneos y un foro activo — todo lo que el sitio oficial nunca te da con esa profundidad."
+quickTake: "Si sigues VCT, VLR.gg es el destination obligatorio. Stats de pros, picks y bans por mapa, calendario completo de torneos y un foro activo — todo lo que el sitio oficial nunca te da con esa profundidad."
 ---
 
 ## Qué es
@@ -38,17 +38,17 @@ Frente al sitio oficial valorantesports.com, no hay competencia real — el ofic
 
 ## Para quién NO es esta herramienta
 
-Si no seguís Valorant esports, VLR es inútil para vos. Es 100% competitivo, cero contenido para casuals.
+Si no sigues Valorant esports, VLR es inútil para tú. Es 100% competitivo, cero contenido para casuals.
 
-Si querés guías de gameplay o tier lists para tu propio juego, VLR no cubre eso. Mobalytics o Blitz son mejor.
+Si quieres guías de gameplay o tier lists para tu propio juego, VLR no cubre eso. Mobalytics o Blitz son mejor.
 
-Si preferís contenido editorial / opinión, thespike.gg tiene mejor escritura. VLR es data + foros.
+Si prefieres contenido editorial / opinión, thespike.gg tiene mejor escritura. VLR es data + foros.
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `vlr.gg`. Sin login podés ver todo; cuenta opcional para participar en foros.
+1. Entras a `vlr.gg`. Sin login puedes ver todo; cuenta opcional para participar en foros.
 2. Home tiene calendario del día y resultados recientes.
-3. Para un team específico: pestaña "Teams", buscás el name. Página tiene roster, stats, partidos próximos y pasados.
+3. Para un team específico: pestaña "Teams", buscas el name. Página tiene roster, stats, partidos próximos y pasados.
 4. Para un player: similar, pestaña "Players" o link desde un team.
 5. Para foros: pestaña "Forum", organizado por categorías (general, regions, off-topic).
 
@@ -66,4 +66,4 @@ Si preferís contenido editorial / opinión, thespike.gg tiene mejor escritura. 
 
 ## Cómo empezar
 
-Entrá a `vlr.gg`. Recorré el home para ver matches del día. Buscá tu team favorito en "Teams" y revisá su página. Después de un par de visitas el flujo es natural — VLR se vuelve la primera tab que abrís cada mañana de VCT.
+Entra a `vlr.gg`. Recorré el home para ver matches del día. Busca tu team favorito en "Teams" y revisa su página. Después de un par de visitas el flujo es natural — VLR se vuelve la primera tab que abres cada mañana de VCT.

@@ -1,7 +1,7 @@
 ---
 title: "HLTV Live Matches"
 description: "Sección de matches en vivo de HLTV: scoreboards en tiempo real, schedule del día, brackets activos, embed de streams oficiales y predicciones comunitarias."
-quickTake: "El hub de partidas activas de CS profesional. Si querés saber qué está jugándose ahora, qué empieza en una hora y qué pasó hace 5 minutos, esta es la página default de la escena."
+quickTake: "El hub de partidas activas de CS profesional. Si quieres saber qué está jugándose ahora, qué empieza en una hora y qué pasó hace 5 minutos, esta es la página default de la escena."
 ---
 
 ## Qué es
@@ -18,7 +18,7 @@ Saber qué partidas profesionales están jugándose en cualquier momento dado re
 
 HLTV Live Matches resuelve eso siendo un hub único. Independiente de qué torneo, organizador, region o stream — todo aparece en la misma lista. Para fans que siguen múltiples ligas/torneos paralelos (ESL Pro League + BLAST + IEM + CCT regional), tener un solo bookmark donde ver todo es valioso.
 
-Para casos como "es sábado de finals, ¿qué está corriendo en este momento?", abrís Live Matches y tenés respuesta inmediata.
+Para casos como "es sábado de finals, ¿qué está corriendo en este momento?", abres Live Matches y tienes respuesta inmediata.
 
 ## Para qué la usa la gente
 
@@ -40,7 +40,7 @@ HLTV Live Matches es excelente para tracking en vivo pero no es:
 - **Análisis editorial profundo** → para previas, recaps, post-tournament analysis, ver la home de HLTV (sección de news).
 - **Database de archivo histórico** → para investigar matches viejos, usar HLTV principal o Liquipedia.
 - **Calendario de matches amateur o de tier-3 sin presencia HLTV** → cobertura está enfocada en tier-1/2 internacional. Para regionales chicos, sites locales.
-- **Notificaciones nativas mobile** → si querés alertas en tu teléfono, hay apps third-party (algunos torneos también tienen apps oficiales).
+- **Notificaciones nativas mobile** → si quieres alertas en tu teléfono, hay apps third-party (algunos torneos también tienen apps oficiales).
 
 ## Cómo se usa en la práctica
 
@@ -48,11 +48,11 @@ HLTV Live Matches es excelente para tracking en vivo pero no es:
 
 2. Para ver un match en vivo: click en él → página dedicada con scoreboard real-time, mapa actual, picks/bans, link al stream oficial, predicciones comunitarias.
 
-3. Para schedule del día: scroll en la sección upcoming. Filtros disponibles por torneo o equipo si seguís específicos.
+3. Para schedule del día: scroll en la sección upcoming. Filtros disponibles por torneo o equipo si sigues específicos.
 
 4. Para resultados recientes: sección Results muestra los últimos finalizados con scores y links al detalle.
 
-5. Para seguir torneo específico: en cada match aparece link al evento padre, donde tenés bracket completo y schedule del torneo entero.
+5. Para seguir torneo específico: en cada match aparece link al evento padre, donde tienes bracket completo y schedule del torneo entero.
 
 ## Limitaciones honestas
 
@@ -64,7 +64,7 @@ HLTV Live Matches es excelente para tracking en vivo pero no es:
 
 **Cobertura tier-3 limitada**: torneos chicos regionales pueden no aparecer si HLTV no los tracking. Para escena local, cross-reference con sites regionales.
 
-**No tiene push notifications nativas**: si querés alertas para "X equipo empieza en 10 min", necesitás app third-party o configurar manual del calendar exportable.
+**No tiene push notifications nativas**: si quieres alertas para "X equipo empieza en 10 min", necesitas app third-party o configurar manual del calendar exportable.
 
 **Predicciones comunitarias son curiosidad, no signal**: la población que vota es self-selected y a veces sesgada. No es base estadística para apuestas.
 
@@ -72,9 +72,9 @@ HLTV Live Matches es excelente para tracking en vivo pero no es:
 
 1. Vas a `hltv.org/matches` y bookmarkea.
 
-2. Para uso recurrente durante torneos, dejá la pestaña abierta — el contenido se refresh automático.
+2. Para uso recurrente durante torneos, deja la pestaña abierta — el contenido se refresh automático.
 
-3. Para seguir equipo específico: andá a la página del equipo en HLTV → la sección "Upcoming matches" filtra solo sus próximos.
+3. Para seguir equipo específico: anda a la página del equipo en HLTV → la sección "Upcoming matches" filtra solo sus próximos.
 
 4. Para calendar exportable a Google Calendar / iCal: HLTV tiene feed de calendar para torneos importantes (link en la página del evento).
 

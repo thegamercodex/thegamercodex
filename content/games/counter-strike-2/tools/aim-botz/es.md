@@ -1,7 +1,7 @@
 ---
 title: "Aim Botz"
 description: "Workshop map clásico de Counter-Strike (CS:GO y ahora CS2) creado por uLetsPlay para entrenar aim. Arena con bots configurables, infinite ammo y métricas básicas. La herramienta de warmup más usada del ecosistema."
-quickTake: "El warmup map más universal de CS. Si jugás CS2 en serio y no usás Aim Botz al menos 5-10 minutos antes de matchmaking, estás dejando rendimiento en la mesa por ninguna razón. Es free, instala en 30 segundos."
+quickTake: "El warmup map más universal de CS. Si juegas CS2 en serio y no usas Aim Botz al menos 5-10 minutos antes de matchmaking, estás dejando rendimiento en la mesa por ninguna razón. Es free, instala en 30 segundos."
 ---
 
 ## Qué es
@@ -14,26 +14,26 @@ Su popularidad es enorme: más de 100M de subscriptores históricos en Workshop,
 
 ## Qué problema resuelve
 
-Aim en FPS competitivo requiere mantenimiento muscular constante. Si jugás directo de iniciar el juego, los primeros 1-2 rounds son típicamente subóptimos — tu reaction time, spray control y flick precision necesitan calentar.
+Aim en FPS competitivo requiere mantenimiento muscular constante. Si juegas directo de iniciar el juego, los primeros 1-2 rounds son típicamente subóptimos — tu reaction time, spray control y flick precision necesitan calentar.
 
 Las soluciones tradicionales son:
 1. **Jugar Deathmatch oficial**: efectivo pero con friction (queue, spawns aleatorios, mapas largos).
 2. **Bot match**: muy lento, muchos downtime.
 3. **Aim trainers externos** (Aim Lab, Kovaak's): tienen valor pero sienten "diferentes" porque usan otro engine y otra física.
 
-Aim Botz resuelve eso siendo: misma engine que CS2 (= mismo feel exacto), customizable (configurás distancia, número de bots, movement), zero downtime (target dies → otro spawnea inmediatamente), y free.
+Aim Botz resuelve eso siendo: misma engine que CS2 (= mismo feel exacto), customizable (configuras distancia, número de bots, movement), zero downtime (target dies → otro spawnea inmediatamente), y free.
 
 Para 5-10 minutos de warmup pre-match, no hay opción más eficiente.
 
 ## Para qué la usa la gente
 
-**Warmup pre-match**: caso de uso central. 5-10 minutos antes de matchmaking calentás click responsivo, spray AK/M4, flicks con AWP.
+**Warmup pre-match**: caso de uso central. 5-10 minutos antes de matchmaking calientas click responsivo, spray AK/M4, flicks con AWP.
 
-**Practice de spray patterns**: con bots estáticos a distancia media, podés practicar AK/M4 spray sin presión de duelo real.
+**Practice de spray patterns**: con bots estáticos a distancia media, puedes practicar AK/M4 spray sin presión de duelo real.
 
 **Reaction time training**: configurar bots que aparecen aleatoriamente y responder con first-shot accuracy.
 
-**Sensitivity tuning**: cuando ajustás DPI/sens, Aim Botz es donde verificás si el cambio se siente bien antes de testearlo en partida real.
+**Sensitivity tuning**: cuando ajustas DPI/sens, Aim Botz es donde verificas si el cambio se siente bien antes de testearlo en partida real.
 
 **Routine consistency**: muchos players hacen el mismo set de drills cada día (ej: 100 kills con AK estática + 50 con USP + 50 con AWP) — Aim Botz facilita esa structure.
 
@@ -56,7 +56,7 @@ Aim Botz es excelente para warmup y aim drills pero no es:
 
 4. Loadeás el mapa. Apareces en una zona con menú de configuración: número de bots (1-50), distancia, movement (estáticos / strafe), armor, weapons enabled.
 
-5. Configurás según routine (ej: 16 bots estáticos a 25m con AK only) y clickeás **Start**.
+5. Configuras según routine (ej: 16 bots estáticos a 25m con AK only) y clickeas **Start**.
 
 6. Matar bots con métricas en pantalla: kill count, time elapsed, kill/sec.
 

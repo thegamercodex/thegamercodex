@@ -36,16 +36,16 @@ Frente al sitio oficial valorantesports.com, Liquipedia tiene mejor búsqueda, m
 
 ## Para quién NO es esta herramienta
 
-Si querés stats vivas en tiempo real, VLR es mejor. Liquipedia se actualiza pero menos frecuente.
+Si quieres stats vivas en tiempo real, VLR es mejor. Liquipedia se actualiza pero menos frecuente.
 
-Si tu interés es comentario editorial o análisis, Liquipedia es enciclopédica — sin opiniones, sin storytelling. Para narrativa, leés thespike o creators.
+Si tu interés es comentario editorial o análisis, Liquipedia es enciclopédica — sin opiniones, sin storytelling. Para narrativa, lees thespike o creators.
 
-Si jugás casual y no seguís el escenario competitivo, Liquipedia no aporta nada.
+Si juegas casual y no sigues el escenario competitivo, Liquipedia no aporta nada.
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `liquipedia.net/valorant/Main_Page`. Home tiene calendario de eventos próximos y recientes.
-2. Para una entidad específica: barra de búsqueda. Buscás "Sentinels", "TenZ", "Champions 2024", etc.
+1. Entras a `liquipedia.net/valorant/Main_Page`. Home tiene calendario de eventos próximos y recientes.
+2. Para una entidad específica: barra de búsqueda. Buscas "Sentinels", "TenZ", "Champions 2024", etc.
 3. Las páginas tienen tabla de contenidos a la derecha. Skipeás a la sección que te interesa.
 4. Links internos cruzan a otras páginas (un team linkea a sus rosters históricos, etc.).
 5. Para info reciente, "Portal:Tournaments" muestra calendario y resultados.
@@ -66,4 +66,4 @@ Si jugás casual y no seguís el escenario competitivo, Liquipedia no aporta nad
 
 ## Cómo empezar
 
-Entrá a `liquipedia.net/valorant`. Buscá tu team o player favorito. Notá cómo la información está estructurada — tablas, secciones, links. Para uso recurrente, bookmark de la home y de los teams principales que sigás. Liquipedia se vuelve útil cuando necesitás contexto que no encontrás en otro lado.
+Entra a `liquipedia.net/valorant`. Busca tu team o player favorito. Notá cómo la información está estructurada — tablas, secciones, links. Para uso recurrente, bookmark de la home y de los teams principales que sigas. Liquipedia se vuelve útil cuando necesitas contexto que no encuentras en otro lado.

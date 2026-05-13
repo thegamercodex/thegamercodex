@@ -49,7 +49,7 @@ Si juegas 100% offline, irrelevante — todas las tools requieren conexión.
 1. Vas a nmscd.com y miras el catalog principal: cada tool tiene su tile con nombre, descripción corta y ícono.
 2. Cliqueas en la que necesitas. Cada tool es página independiente con su UI.
 3. Algunas tools requieren input (tipear, pegar coordinates, seleccionar items); otras son solo lectura/exploración.
-4. Compartís output (link, copy/paste el resultado al wiki, exportar JSON, etc.) según el flow.
+4. Compartes output (link, copy/paste el resultado al wiki, exportar JSON, etc.) según el flow.
 5. No requiere login para la mayoría de las tools — son utilities stateless.
 
 ## Limitaciones honestas

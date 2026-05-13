@@ -12,7 +12,7 @@ Cubre ampliamente: stats globales del jugador, match history detallado, leaderbo
 
 ## Qué problema resuelve
 
-Destiny 2 expone poco sobre tu desempeño histórico desde dentro del juego. La pestaña Career muestra stats agregados pero no permite filtrar por modo, comparar con otros jugadores, o ver qué armas usás más. Destiny Tracker llena ese gap: te da tu K/D por modo, win rate por mapa, partidas recientes con detalles, y comparativas con el resto de la comunidad.
+Destiny 2 expone poco sobre tu desempeño histórico desde dentro del juego. La pestaña Career muestra stats agregados pero no permite filtrar por modo, comparar con otros jugadores, o ver qué armas usas más. Destiny Tracker llena ese gap: te da tu K/D por modo, win rate por mapa, partidas recientes con detalles, y comparativas con el resto de la comunidad.
 
 También resuelve el problema de "qué arma se está usando ahora": las páginas de weapon usage muestran picks por modo y patch, útil para entender el meta sin depender de hot takes editoriales.
 
@@ -32,21 +32,21 @@ Frente a la pestaña Career oficial de Bungie.net, Destiny Tracker gana en filtr
 
 **Leaderboards globales**: top players por kills, win rate, K/D. Inspiración o vara de comparación.
 
-**Stalk de oponentes**: si te aparece un oponente con K/D 4.0 en Trials, podés stalkearlo en Destiny Tracker antes del próximo match (aunque hoy esto está limitado por las protecciones de Bungie a privacidad).
+**Stalk de oponentes**: si te aparece un oponente con K/D 4.0 en Trials, puedes stalkearlo en Destiny Tracker antes del próximo match (aunque hoy esto está limitado por las protecciones de Bungie a privacidad).
 
 ## Para quién NO es esta herramienta
 
-Si buscás stats granulares de raids (sherpas, contest mode, low-mans), Raid Report es la fuente. Destiny Tracker te muestra completions pero no profundiza.
+Si buscas stats granulares de raids (sherpas, contest mode, low-mans), Raid Report es la fuente. Destiny Tracker te muestra completions pero no profundiza.
 
 Si tu interés es mejorar PvP con análisis de fireteam y matchup, Trials Report es más útil. Destiny Tracker es mejor para overview que para coaching.
 
-Si no tenés cuenta Bungie.net pública, los stats individuales pueden estar limitados (Bungie permite ocultar el perfil).
+Si no tienes cuenta Bungie.net pública, los stats individuales pueden estar limitados (Bungie permite ocultar el perfil).
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `destinytracker.com` y buscás tu Bungie ID o gamer tag de la plataforma (Steam / PSN / Xbox).
+1. Entras a `destinytracker.com` y buscas tu Bungie ID o gamer tag de la plataforma (Steam / PSN / Xbox).
 2. La página de tu perfil carga con stats agregados, una grilla de modos y match history reciente.
-3. Filtrás por modo (PvP, PvE, Trials) y rango de fechas para refinar.
+3. Filtras por modo (PvP, PvE, Trials) y rango de fechas para refinar.
 4. Click en una partida individual para ver el desglose: tu performance vs cada jugador, kills por arma, mapa, duración.
 5. Pestaña "Weapons" muestra qué armas estás usando más y cómo se compara con leaderboards.
 
@@ -64,4 +64,4 @@ Si no tenés cuenta Bungie.net pública, los stats individuales pueden estar lim
 
 ## Cómo empezar
 
-Entrá a `destinytracker.com`, buscás tu Bungie ID. Si tu perfil es público, la página carga al instante. Recorré las pestañas Overview, Crucible, Weapons. Click en alguna partida reciente para ver el detalle. Para uso casual, no necesitás más que eso.
+Entra a `destinytracker.com`, buscas tu Bungie ID. Si tu perfil es público, la página carga al instante. Recorré las pestañas Overview, Crucible, Weapons. Click en alguna partida reciente para ver el detalle. Para uso casual, no necesitas más que eso.

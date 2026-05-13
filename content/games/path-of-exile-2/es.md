@@ -36,6 +36,6 @@ Las versiones 0.x indican que el juego está en desarrollo activo y los players 
 
 Si vienes de PoE 1 y quieres probar PoE 2, vas a encontrar mucho de lo que aprendiste útil pero el ritmo y muchos detalles cambian. Empieza por **guías para principiantes** PoE 2 — no asumas que tu conocimiento PoE 1 transfiere directo.
 
-Si recién entrás al género, PoE 2 es más accesible que PoE 1 en sus primeras horas (combat más legible, campaña con mejor pacing) pero igual de profundo en endgame.
+Si recién entras al género, PoE 2 es más accesible que PoE 1 en sus primeras horas (combat más legible, campaña con mejor pacing) pero igual de profundo en endgame.
 
 Cada herramienta y recurso listado acá está específicamente curado para PoE 2 — no contenido genérico ni reciclado de PoE 1.

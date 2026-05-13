@@ -3,7 +3,7 @@ title: Path of Building vs PoEPlanner — qué planner usar en PoE
 description: Comparación entre los dos planners más usados de PoE. Profundidad matemática, planificación del atlas, sharing, instalación y los escenarios donde gana cada uno.
 ---
 
-A primera vista parecen competidores directos: ambos te permiten armar un build y ver el passive tree. Pero apenas usás uno en serio, queda claro que cubren necesidades distintas. **Path of Building (PoB)** es un calculador de daño y planificador de builds desktop con profundidad de simulación que el resto de la comunidad usa como referencia. **PoEPlanner** es una web app rápida y shareable cuya fortaleza principal es la planificación del atlas tree, donde es la opción dominante. Esta comparación te ayuda a saber cuál usar cuando.
+A primera vista parecen competidores directos: ambos te permiten armar un build y ver el passive tree. Pero apenas usas uno en serio, queda claro que cubren necesidades distintas. **Path of Building (PoB)** es un calculador de daño y planificador de builds desktop con profundidad de simulación que el resto de la comunidad usa como referencia. **PoEPlanner** es una web app rápida y shareable cuya fortaleza principal es la planificación del atlas tree, donde es la opción dominante. Esta comparación te ayuda a saber cuál usar cuando.
 
 ## Profundidad de cálculo y simulación
 
@@ -22,7 +22,7 @@ PoEPlanner no apunta a este nivel. Su passive tree es funcional para mockups, pe
 
 ## Atlas tree planning
 
-Acá la situación se invierte. **PoEPlanner es el estándar de facto para planificar el atlas tree** desde que GGG introdujo el sistema del Atlas Passive Tree en la liga 3.17. Su interfaz es limpia, las connection chains se ven a simple vista, y ofrece estrategias preconfiguradas (essence farming, harvest, breach, expedition, etc.) que podés cargar como punto de partida.
+Acá la situación se invierte. **PoEPlanner es el estándar de facto para planificar el atlas tree** desde que GGG introdujo el sistema del Atlas Passive Tree en la liga 3.17. Su interfaz es limpia, las connection chains se ven a simple vista, y ofrece estrategias preconfiguradas (essence farming, harvest, breach, expedition, etc.) que puedes cargar como punto de partida.
 
 PoB tiene soporte de atlas tree, pero claramente no es su foco principal. La UI es menos clara, el discovery de strategies es más manual, y la comunidad cuando comparte un atlas tree casi siempre usa un link de PoEPlanner.
 
@@ -30,7 +30,7 @@ Si pasaste a la fase de endgame y estás puliendo tu atlas para una estrategia d
 
 ## Sharing y colaboración
 
-PoEPlanner gana cómodo en este eje. Hacés tu build o tu atlas, le das al botón de share, y obtenés un URL público que cualquiera puede abrir en su browser. Sin instalar nada, sin importar nada. Es por eso que cuando ves builds compartidos en Discord casuales o en Reddit posts cortos, suelen venir como link de PoEPlanner.
+PoEPlanner gana cómodo en este eje. Haces tu build o tu atlas, le das al botón de share, y obtienes un URL público que cualquiera puede abrir en su browser. Sin instalar nada, sin importar nada. Es por eso que cuando ves builds compartidos en Discord casuales o en Reddit posts cortos, suelen venir como link de PoEPlanner.
 
 PoB tiene un sistema de export/import basado en un código encodeado en base64 (típicamente alojado en pastebin). Es funcional, pero requiere que el otro:
 1. Tenga PoB instalado
@@ -41,17 +41,17 @@ Para comunicación entre jugadores serios la fricción extra de PoB se acepta. P
 
 ## Curva de aprendizaje e instalación
 
-PoB requiere instalación. En Windows es un installer estándar; en Mac y Linux hay community forks oficiales que funcionan bien pero requieren más setup. El primer launch puede ser intimidante: la UI tiene docenas de paneles, opciones y configs. Es una herramienta poderosa que asume que sabés (o estás dispuesto a aprender) cómo funciona el motor de daño de PoE.
+PoB requiere instalación. En Windows es un installer estándar; en Mac y Linux hay community forks oficiales que funcionan bien pero requieren más setup. El primer launch puede ser intimidante: la UI tiene docenas de paneles, opciones y configs. Es una herramienta poderosa que asume que sabes (o estás dispuesto a aprender) cómo funciona el motor de daño de PoE.
 
 PoEPlanner es solo abrir el browser. La UI es más limpia, con menos opciones expuestas de entrada. Para un jugador casual que quiere "ver más o menos cómo se ve mi build", la barrera de entrada es nula.
 
-Esto importa especialmente para nuevos jugadores. Decirle a alguien que recién empieza "abrí PoB" suele ser overwhelming. Decirle "andá a PoEPlanner.com" es accesible. Una vez que el jugador madura y empieza a pensar en optimizar daño en serio, naturalmente migra a PoB.
+Esto importa especialmente para nuevos jugadores. Decirle a alguien que recién empieza "abre PoB" suele ser overwhelming. Decirle "anda a PoEPlanner.com" es accesible. Una vez que el jugador madura y empieza a pensar en optimizar daño en serio, naturalmente migra a PoB.
 
 ## Importar personaje real
 
-PoB tiene una feature crítica que PoEPlanner no replica: **import directo desde tu cuenta de PoE**. Le das tu account name, elegís el character, y PoB chupa tu equipment, jewels, skill setup y pasives reales. En 30 segundos tenés tu personaje exacto cargado y podés empezar a simular cambios sobre lo que realmente tenés.
+PoB tiene una feature crítica que PoEPlanner no replica: **import directo desde tu cuenta de PoE**. Le das tu account name, eliges el character, y PoB chupa tu equipment, jewels, skill setup y pasives reales. En 30 segundos tienes tu personaje exacto cargado y puedes empezar a simular cambios sobre lo que realmente tienes.
 
-PoEPlanner no tiene este flujo. Si querés representar tu personaje en PoEPlanner, lo hacés a mano: click por click en el tree, gear pegado uno por uno, jewels manualmente. Para mockups está bien, pero para trabajar sobre tu build real es impracticable.
+PoEPlanner no tiene este flujo. Si quieres representar tu personaje en PoEPlanner, lo haces a mano: click por click en el tree, gear pegado uno por uno, jewels manualmente. Para mockups está bien, pero para trabajar sobre tu build real es impracticable.
 
 Para jugadores que quieren responder "¿qué pasa si cambio este anillo por aquel otro que vi en trade?" — el flujo es: import en PoB, swap del item, ver el delta de DPS. Esto es el corazón de la optimization loop en PoE y PoB es la única forma seria de hacerlo.
 
@@ -70,6 +70,6 @@ Para jugadores que quieren responder "¿qué pasa si cambio este anillo por aque
 
 ## Veredicto final
 
-No son competidores directos: son complementarios. La mayoría de jugadores serios de PoE usan **ambas**. PoB es la calculadora pesada que vive corriendo cuando estás puliendo un build; PoEPlanner es la web rápida que abrís cuando querés compartir, cuando estás afuera de tu PC, o cuando estás planificando el atlas.
+No son competidores directos: son complementarios. La mayoría de jugadores serios de PoE usan **ambas**. PoB es la calculadora pesada que vive corriendo cuando estás puliendo un build; PoEPlanner es la web rápida que abres cuando quieres compartir, cuando estás afuera de tu PC, o cuando estás planificando el atlas.
 
-Si tuvieras que elegir solo una y recién empezás: **PoEPlanner**. Es accesible, web, y cubre el 80% de lo que querés ver visualmente en una build. Cuando empieces a obsesionarte con DPS exacto y optimización por puntos de pasivo, instalá PoB y va a convertirse en tu herramienta principal sin desplazar a PoEPlanner — son dos roles distintos en tu workflow.
+Si tuvieras que elegir solo una y recién empiezas: **PoEPlanner**. Es accesible, web, y cubre el 80% de lo que quieres ver visualmente en una build. Cuando empieces a obsesionarte con DPS exacto y optimización por puntos de pasivo, instala PoB y va a convertirse en tu herramienta principal sin desplazar a PoEPlanner — son dos roles distintos en tu workflow.

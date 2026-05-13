@@ -26,13 +26,13 @@ Esta es la comparación obligada porque ambas cubren match history. Pero las fil
 
 **Blitz.gg**: overlay-first, requiere instalar un cliente desktop que se integra durante champ select y partida. Auto-imports de builds y runas, performance tracker en tiempo real. Más features pero con paywall más agresivo y telemetría más invasiva.
 
-Si querés consultar puntualmente y comparar tu rank, OP.GG. Si querés que una herramienta te asista activamente durante el juego (con el costo asociado de instalar un cliente y aceptar tracking), Blitz.
+Si quieres consultar puntualmente y comparar tu rank, OP.GG. Si quieres que una herramienta te asista activamente durante el juego (con el costo asociado de instalar un cliente y aceptar tracking), Blitz.
 
 ## Para qué la usa la gente
 
-**Verificar rank y stats post-game**: el caso de uso más común. Después de una partida, abrís OP.GG y revisás KDA, gold, daño, y comparás con teammates y oponentes.
+**Verificar rank y stats post-game**: el caso de uso más común. Después de una partida, abres OP.GG y revisas KDA, gold, daño, y comparas con teammates y oponentes.
 
-**Scout en champ select**: pegás el Riot ID de un teammate u oponente para ver su champion pool, win rate reciente, y si está jugando algo nuevo o autofilleado.
+**Scout en champ select**: pegas el Riot ID de un teammate u oponente para ver su champion pool, win rate reciente, y si está jugando algo nuevo o autofilleado.
 
 **Tier lists del patch actual**: la sección "Champions" lista win rate, pick rate y ban rate por rol y por rango. Útil para tener un pulso del meta sin profundizar en stats avanzadas.
 
@@ -40,7 +40,7 @@ Si querés consultar puntualmente y comparar tu rank, OP.GG. Si querés que una 
 
 ## Para quién NO es esta herramienta
 
-OP.GG es excelente como dashboard de consulta, pero no como asistente activo. Si lo que querés es:
+OP.GG es excelente como dashboard de consulta, pero no como asistente activo. Si lo que quieres es:
 
 - **Asistencia durante champ select / partida** → Porofessor (overlay nativo) o Blitz (overlay con automation) son mejores opciones.
 - **Coaching y análisis de mejora estructurado** → Mobalytics tiene el GPI (Gamer Performance Index) que te dice exactamente qué áreas mejorar.
@@ -49,9 +49,9 @@ OP.GG es excelente como dashboard de consulta, pero no como asistente activo. Si
 
 ## Cómo se usa en la práctica
 
-1. Vas a `op.gg` y seleccionás tu región (NA, EUW, KR, LAS, LAN, etc.).
+1. Vas a `op.gg` y seleccionas tu región (NA, EUW, KR, LAS, LAN, etc.).
 
-2. Ingresás tu Riot ID con tagline (formato `Nombre#TAG`).
+2. Ingresas tu Riot ID con tagline (formato `Nombre#TAG`).
 
 3. La página carga tu perfil con rank, últimas 20 partidas, stats por champion de la temporada actual, y picks más frecuentes.
 
@@ -59,11 +59,11 @@ OP.GG es excelente como dashboard de consulta, pero no como asistente activo. Si
 
 5. Pestañas adicionales: **Live Game** (info en tiempo real si estás en partida), **Champions** (tier list por rol), **Leaderboards** (ranking global de la región).
 
-Para uso recurrente, marcá summoners frecuentes como favoritos — el sitio mantiene una lista accesible desde la sidebar.
+Para uso recurrente, marca summoners frecuentes como favoritos — el sitio mantiene una lista accesible desde la sidebar.
 
 ## Limitaciones honestas
 
-**Sincronización lenta**: los datos de una partida recién terminada pueden tardar 5-30 minutos en aparecer. Si querés review inmediato post-game, la API de Riot está retrasada para todos los terceros.
+**Sincronización lenta**: los datos de una partida recién terminada pueden tardar 5-30 minutos en aparecer. Si quieres review inmediato post-game, la API de Riot está retrasada para todos los terceros.
 
 **Anuncios intrusivos**: como casi todos los sitios free de gaming stats, OP.GG carga ads que pueden ser molestos en mobile. Un ad-blocker resuelve la mayoría.
 
@@ -75,12 +75,12 @@ Para uso recurrente, marcá summoners frecuentes como favoritos — el sitio man
 
 ## Cómo empezar
 
-No requiere registro ni instalación. Vas a `op.gg`, seleccionás región, ingresás tu Riot ID y listo. Para máxima utilidad:
+No requiere registro ni instalación. Vas a `op.gg`, seleccionas región, ingresas tu Riot ID y listo. Para máxima utilidad:
 
 1. Configurá favoritos con tu cuenta principal y las cuentas de tu duo.
 
 2. Bookmarkea el dashboard de tier list de tu rol — útil para checkear meta antes de cada sesión.
 
-3. Cuando estés en champ select, abrí los perfiles de teammates y oponentes en paralelo (toma 30 segundos y te da contexto valioso).
+3. Cuando estés en champ select, abre los perfiles de teammates y oponentes en paralelo (toma 30 segundos y te da contexto valioso).
 
-4. Si querés deeper stats sobre un champion específico, complementá con Lolalytics o League of Graphs — OP.GG es excelente como overview rápido pero no como herramienta de theorycrafting.
+4. Si quieres deeper stats sobre un champion específico, complementá con Lolalytics o League of Graphs — OP.GG es excelente como overview rápido pero no como herramienta de theorycrafting.

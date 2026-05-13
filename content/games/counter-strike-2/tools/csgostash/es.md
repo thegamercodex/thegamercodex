@@ -8,7 +8,7 @@ quickTake: "No es marketplace activo — es la enciclopedia de skins. Si vas a i
 
 CSGOSTASH es un sitio de referencia dedicado al catálogo de skins de Counter-Strike. Desde la era CS:GO mantiene database completo de cada skin del juego, organizado por colección, case, rareza y tipo de arma. Para cada skin individual, ofrece información detallada: precio histórico, comparativa visual de wear (Factory New vs Field-Tested vs Battle-Scarred), stickers compatibles, info de release y notas comunitarias.
 
-A diferencia de CS.MONEY o Steam Market, csgostash **no es marketplace activo**. No comprás ni vendés ahí. Su función es exclusivamente investigación: te ayuda a entender qué estás viendo antes de tomar una decisión de compra/venta en otra plataforma.
+A diferencia de CS.MONEY o Steam Market, csgostash **no es marketplace activo**. No compras ni vendes ahí. Su función es exclusivamente investigación: te ayuda a entender qué estás viendo antes de tomar una decisión de compra/venta en otra plataforma.
 
 Es operado por una pequeña team independiente y monetiza con ads + algunos affiliates a marketplaces. La cobertura es exhaustiva en items "mainstream" y razonablemente buena en items raros.
 
@@ -18,7 +18,7 @@ Comprar skins informadamente requiere context que ningún marketplace expone bie
 
 - **Precio histórico extendido**: Steam Market muestra solo 12 meses; csgostash tiene mucho más, útil para evaluar si una skin está en pico de precio o en valle.
 - **Wear comparisons visuales**: ver lado a lado cómo se ve la misma skin en Factory New vs Battle-Scarred. Steam no facilita esto; csgostash lo hace nativo.
-- **Catálogo navegable por colección**: en Steam buscás por nombre. En csgostash navegás "todos los skins del Operation Riptide Case", que es una vista que el cliente del juego no tiene.
+- **Catálogo navegable por colección**: en Steam buscas por nombre. En csgostash navegas "todos los skins del Operation Riptide Case", que es una vista que el cliente del juego no tiene.
 - **Stickers compatibles**: ver qué stickers físicamente caben bien en cada arma (algunos tapan diseño, otros se ven bien) requiere reference visual.
 
 Para cualquier transacción no trivial (skin >$50 USD), pasar 5 minutos en csgostash antes ahorra arrepentimientos.
@@ -33,13 +33,13 @@ Para cualquier transacción no trivial (skin >$50 USD), pasar 5 minutos en csgos
 
 **Investigar collections de Operation antiguas**: skins discontinuados o de operations cerradas tienen menos info en otras tools; csgostash mantiene archivo.
 
-**Aprender vocabulario de skins**: si sos nuevo y no entendés "float", "pattern index", "sticker craft", csgostash tiene glosarios y explicaciones.
+**Aprender vocabulario de skins**: si eres nuevo y no entiendes "float", "pattern index", "sticker craft", csgostash tiene glosarios y explicaciones.
 
 ## Para quién NO es esta herramienta
 
 csgostash es excelente para investigación pero no es:
 
-- **Para comprar/vender directamente** → no es marketplace. Vas con la info acá pero la transacción la hacés en Steam o CS.MONEY.
+- **Para comprar/vender directamente** → no es marketplace. Vas con la info acá pero la transacción la haces en Steam o CS.MONEY.
 - **Para data en tiempo real de mercado** → los precios mostrados son referencia agregada, puede haber lag. Para precio actual exacto, ver Steam Market directamente.
 - **Para tradear high-value items con confidence absoluta** → la data es buena pero no infalible. Para skins muy valiosas, cross-reference con varios sources.
 - **Para mobile-first browsing** → la UX es desktop-friendly pero en mobile se siente apretada.
@@ -74,9 +74,9 @@ csgostash es excelente para investigación pero no es:
 
 1. Vas a `csgostash.com` y bookmarkea.
 
-2. Antes de tu próxima compra de skin, dedicale 2-3 minutos: buscá la skin, mirá wear comparison, revisá precio histórico.
+2. Antes de tu próxima compra de skin, dedicale 2-3 minutos: busca la skin, mira wear comparison, revisa precio histórico.
 
-3. Si querés aprender vocabulario de skin trading, la sección **About** y los blog posts ocasionales explican floats, patterns, sticker crafts.
+3. Si quieres aprender vocabulario de skin trading, la sección **About** y los blog posts ocasionales explican floats, patterns, sticker crafts.
 
 4. Cross-reference con Steam Market es práctica estándar: csgostash te da context histórico, Steam te da precio actual exacto.
 

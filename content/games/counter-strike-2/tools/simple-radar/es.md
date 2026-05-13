@@ -17,7 +17,7 @@ Es distribuído gratuitamente por **readtldr.gg**, un site de la comunidad CS qu
 Los radares default de CS2 son funcionales pero tienen problemas reales de UX:
 
 - **Contraste pobre**: en algunos mapas, muros y suelos comparten colores similares, lo cual hace difícil distinguir áreas a primera vista.
-- **Callouts pequeños o ausentes**: el default no muestra todos los callouts comunes — algunos los tenés que aprender de memoria.
+- **Callouts pequeños o ausentes**: el default no muestra todos los callouts comunes — algunos los tienes que aprender de memoria.
 - **Diferenciación de niveles confusa**: en mapas con multiple altura (Vertigo, Nuke), el default no clarifica bien qué nivel estás mirando.
 
 Simple Radar ataca estos problemas con paleta plana, callouts grandes, y código de color claro para niveles. La mejora es sutil round a round pero compone notablemente en awareness a lo largo de una sesión.
@@ -26,7 +26,7 @@ Simple Radar ataca estos problemas con paleta plana, callouts grandes, y código
 
 **Mejorar lectura del radar en heat de partida**: cuando hay 3 acciones simultáneas, el radar default puede ser hard de leer en milisegundos. Simple Radar reduce esa friction.
 
-**Aprender callouts más rápido**: si sos relativamente nuevo a un mapa, tener todos los callouts visibles en el radar acelera memorización.
+**Aprender callouts más rápido**: si eres relativamente nuevo a un mapa, tener todos los callouts visibles en el radar acelera memorización.
 
 **Reducir tilt visual**: para usuarios que encuentran los defaults visualmente cargados, el cambio a paleta plana es legitimately calmante.
 
@@ -38,16 +38,16 @@ Simple Radar ataca estos problemas con paleta plana, callouts grandes, y código
 
 Simple Radar es excelente como QoL pero no es:
 
-- **Para players satisfechos con el default** → si no sentís fricción con el radar default, no necesitás esto. No agrega información gameplay-relevant.
-- **Para servers competitivos con file integrity strict** → algunos torneos LAN o ligas serias requieren config files default. Verificar antes de instalar si jugás competitive estructurado.
+- **Para players satisfechos con el default** → si no sientes fricción con el radar default, no necesitas esto. No agrega información gameplay-relevant.
+- **Para servers competitivos con file integrity strict** → algunos torneos LAN o ligas serias requieren config files default. Verificar antes de instalar si juegas competitive estructurado.
 - **Para mejorar tu skill de aim/posicionamiento** → es solo radar. Para skill mejora, Aim Botz / Leetify / scope.gg.
 - **Para usuarios que cambian el default radar regularmente** → updates de mapas pueden requerir re-instalar.
 
 ## Cómo se usa en la práctica
 
-1. Vas a `readtldr.gg/simpleradar` y descargás el zip más reciente.
+1. Vas a `readtldr.gg/simpleradar` y descargas el zip más reciente.
 
-2. Extraés y copiás los archivos a `Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/resource/overviews/` (path típico, verificar tu install path).
+2. Extraes y copias los archivos a `Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/resource/overviews/` (path típico, verificar tu install path).
 
 3. Reiniciás CS2. Los mapas afectados (todos del active pool y algunos legacy) usarán automáticamente los radares de Simple Radar.
 
@@ -83,6 +83,6 @@ Simple Radar es excelente como QoL pero no es:
 
 6. Probar en un mapa offline para verificar instalación correcta.
 
-7. Si querés revertir: borrar los archivos copiados, o **Verify Integrity of Game Files** desde Steam.
+7. Si quieres revertir: borrar los archivos copiados, o **Verify Integrity of Game Files** desde Steam.
 
 8. Combinar con CSNADES y scope.gg para utility-focused training: Simple Radar mejora tu lectura del minimap, CSNADES enseña qué tirar, scope.gg revisa qué tiraste.

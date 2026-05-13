@@ -53,7 +53,7 @@ Como source primaria de "cuándo es el próximo torneo y donde lo veo", es el de
 
 ## Cómo se usa en la práctica
 
-1. Abrís [worldofwarcraft.blizzard.com/en-us/esports](https://worldofwarcraft.blizzard.com/en-us/esports).
+1. Abres [worldofwarcraft.blizzard.com/en-us/esports](https://worldofwarcraft.blizzard.com/en-us/esports).
 
 2. La home page muestra los esports activos del momento (MDI, AWC, RWF según calendar).
 
@@ -67,7 +67,7 @@ Como source primaria de "cuándo es el próximo torneo y donde lo veo", es el de
 
 ## Limitaciones honestas
 
-**Coverage promocional, no análisis**: Blizzard cubre sus propios eventos. La narrative editorial es positivo siempre — no esperés crítica honesta de problemas del format, controversias, o issues entre players. Para esa lectura, third-party.
+**Coverage promocional, no análisis**: Blizzard cubre sus propios eventos. La narrative editorial es positivo siempre — no esperes crítica honesta de problemas del format, controversias, o issues entre players. Para esa lectura, third-party.
 
 **Cobertura de RWF limitada al recap**: durante el race (que es el momento de mayor interés para hardcore fans), Blizzard no covera live. Las guilds y casters individuales lo hacen. WoW Esports publica recap days después.
 
@@ -77,7 +77,7 @@ Como source primaria de "cuándo es el próximo torneo y donde lo veo", es el de
 
 **No es source para drama / context**: cuando hay controversies (player bans, esports decisions controversiales, scene drama), el sitio oficial las elude o reporta sanitizado. Reddit, Twitter y casters cubren esos angulos.
 
-**Replays delays**: los VODs tardan días en aparecer en YouTube oficial. Si querés watch immediato post-match, los streams en Twitch son más rápidos.
+**Replays delays**: los VODs tardan días en aparecer en YouTube oficial. Si quieres watch immediato post-match, los streams en Twitch son más rápidos.
 
 **Tier list y meta info missing**: para "qué comps están winning MDI esta temporada", no es el sitio. Liquipedia, Method analysis, Discord de competitive son mejores sources.
 
@@ -85,11 +85,11 @@ Como source primaria de "cuándo es el próximo torneo y donde lo veo", es el de
 
 1. Visitá [worldofwarcraft.blizzard.com/en-us/esports](https://worldofwarcraft.blizzard.com/en-us/esports). Familiarizate con los tres formats (MDI, AWC, RWF).
 
-2. Si te interesa MDI: revisá schedule de la temporada actual y bookmarkeá los próximos events.
+2. Si te interesa MDI: revisa schedule de la temporada actual y bookmarkeá los próximos events.
 
 3. Si te interesa AWC: similar, schedule + teams clasificados.
 
-4. Para RWF: el sitio cubre post-event. Para coverage live durante el race, seguí streams de las top guilds (Liquid, Method, Echo, Honestly) directamente en Twitch.
+4. Para RWF: el sitio cubre post-event. Para coverage live durante el race, sigue streams de las top guilds (Liquid, Method, Echo, Honestly) directamente en Twitch.
 
 5. Suscribite al YouTube de WoW Esports para replays oficiales.
 

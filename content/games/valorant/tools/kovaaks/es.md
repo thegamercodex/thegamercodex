@@ -1,7 +1,7 @@
 ---
 title: "KovaaK's"
 description: "Aim trainer pago en Steam con la librería community-made más grande de scenarios para FPS, incluido Valorant."
-quickTake: "El aim trainer serio. Pagás una vez en Steam y obtenés acceso a miles de scenarios community-made, incluyendo routines diseñados específicamente para Valorant. Si Aim Lab te quedó chico, KovaaK's es el siguiente paso."
+quickTake: "El aim trainer serio. Pagas una vez en Steam y obtienes acceso a miles de scenarios community-made, incluyendo routines diseñados específicamente para Valorant. Si Aim Lab te quedó chico, KovaaK's es el siguiente paso."
 ---
 
 ## Qué es
@@ -14,7 +14,7 @@ Lo distintivo es la **librería community-made**: miles de scenarios creados por
 
 Aim Lab tiene scenarios curados pero limitados. Para players que ya pasaron 100+ horas en aim training y quieren profundidad — scenarios que no se sienten repetidos, métricas competitivas en leaderboards, routines diseñados por pros — Aim Lab queda chico.
 
-KovaaK's resuelve eso. La librería es enorme y se actualiza constantemente. Tenés benchmarks (Voltaic, etc.) que la comunidad usa como vara objetiva de skill mecánico. Para players serios, es donde se hace la diferencia mecánica del rango Diamond+ hacia arriba.
+KovaaK's resuelve eso. La librería es enorme y se actualiza constantemente. Tienes benchmarks (Voltaic, etc.) que la comunidad usa como vara objetiva de skill mecánico. Para players serios, es donde se hace la diferencia mecánica del rango Diamond+ hacia arriba.
 
 ## Diferenciación
 
@@ -22,11 +22,11 @@ Frente a Aim Lab, KovaaK's gana en **profundidad y comunidad**. Aim Lab gana en 
 
 KovaaK's tiene scenarios más nicho (Valorant micro-corrections en clutch, target switching tipo retake), benchmarks competitivos comunitarios (Voltaic), y routines diseñados por pros (genburten, neyo). Aim Lab tiene mejor onboarding pero menos profundidad.
 
-La regla práctica: empezás con Aim Lab. Cuando te quede chico (después de 50-100 horas), migrás a KovaaK's. Ambos en paralelo es overkill para casi todos.
+La regla práctica: empiezas con Aim Lab. Cuando te quede chico (después de 50-100 horas), migras a KovaaK's. Ambos en paralelo es overkill para casi todos.
 
 ## Para qué la usa la gente
 
-**Routines profesionales**: pro coaches y aim experts publican routines (Voltaic Bronze/Silver/Gold/Plat, Sero's routine, etc.). Las descargás y seguís estructura curated.
+**Routines profesionales**: pro coaches y aim experts publican routines (Voltaic Bronze/Silver/Gold/Plat, Sero's routine, etc.). Las descargas y sigues estructura curated.
 
 **Benchmarks comunitarios**: Voltaic Benchmarks miden tu skill mecánico contra una vara objetiva. Subir de Iron→Diamond en Voltaic es indicador de mejora real.
 
@@ -38,25 +38,25 @@ La regla práctica: empezás con Aim Lab. Cuando te quede chico (después de 50-
 
 ## Para quién NO es esta herramienta
 
-Si nunca aim-trainaste, KovaaK's te puede abrumar — la cantidad de scenarios y routines no curados puede paralizar. Empezá con Aim Lab.
+Si nunca aim-trainaste, KovaaK's te puede abrumar — la cantidad de scenarios y routines no curados puede paralizar. Empieza con Aim Lab.
 
-Si jugás casual o solo querés warm-up, los $10 no se justifican. Aim Lab free es más que suficiente.
+Si juegas casual o solo quieres warm-up, los $10 no se justifican. Aim Lab free es más que suficiente.
 
-Si jugás Valorant en consola, KovaaK's es Windows-only — no hay versión consola.
+Si juegas Valorant en consola, KovaaK's es Windows-only — no hay versión consola.
 
 Si te molesta la curva de aprendizaje de "qué scenario usar", Aim Lab es más linear.
 
 ## Cómo se usa en la práctica
 
-1. Comprás KovaaK's en Steam (~$9.99 one-time).
-2. Login con Steam, bajás routine recomendado para Valorant. Voltaic ofrece guías para encontrar el routine apropiado.
+1. Compras KovaaK's en Steam (~$9.99 one-time).
+2. Login con Steam, bajas routine recomendado para Valorant. Voltaic ofrece guías para encontrar el routine apropiado.
 3. Calibras sensitivity. KovaaK's tiene calculator built-in para matchear con Valorant.
-4. Practicás routine completo — típicamente 30-45 min cubriendo flicks, tracking, switching.
-5. Para benchmarks: completás Voltaic Bronze como punto de partida. Mejorás hasta Silver/Gold con meses de práctica.
+4. Practicas routine completo — típicamente 30-45 min cubriendo flicks, tracking, switching.
+5. Para benchmarks: completas Voltaic Bronze como punto de partida. Mejoras hasta Silver/Gold con meses de práctica.
 
 ## Limitaciones honestas
 
-**Curva de uso pronunciada**. Hay tantas opciones que principiantes se pierden. Sin un routine recomendado, gastás tiempo eligiendo en lugar de practicando.
+**Curva de uso pronunciada**. Hay tantas opciones que principiantes se pierden. Sin un routine recomendado, gastas tiempo eligiendo en lugar de practicando.
 
 **Solo Windows**. Mac, Linux, consolas: no.
 
@@ -70,4 +70,4 @@ Si te molesta la curva de aprendizaje de "qué scenario usar", Aim Lab es más l
 
 ## Cómo empezar
 
-Si nunca aim-trainaste, mejor empezá con Aim Lab. Si ya tenés base, comprá KovaaK's en Steam, descargá la routine "Voltaic Bronze" desde el comunidad menu, y practicalo 30 min/día durante 3 semanas. Después de eso, evalúa si tu aim mejoró in-game. Si sí, sube de routine; si no, ajustá la rutina o reduce frecuencia.
+Si nunca aim-trainaste, mejor empieza con Aim Lab. Si ya tienes base, compra KovaaK's en Steam, descarga la routine "Voltaic Bronze" desde el comunidad menu, y practicalo 30 min/día durante 3 semanas. Después de eso, evalúa si tu aim mejoró in-game. Si sí, sube de routine; si no, ajustá la rutina o reduce frecuencia.

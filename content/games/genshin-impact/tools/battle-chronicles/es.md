@@ -42,7 +42,7 @@ Si solo quieres mostrar 1-2 builds optimizados con foco visual y comparación de
 
 1. Vas a HoYoLAB.com y haces login con tu cuenta.
 
-2. Asegurate de tener tu cuenta de Genshin linkeada a HoYoLAB (Settings → Linked Accounts si no está).
+2. Asegúrate de tener tu cuenta de Genshin linkeada a HoYoLAB (Settings → Linked Accounts si no está).
 
 3. Ve a tu profile en HoYoLAB y activa "Battle Chronicle Public" en privacy settings. Sin esto, el link no funciona para otros usuarios.
 
@@ -70,4 +70,4 @@ Ve a HoYoLAB.com con tu cuenta de Genshin linkeada. Vas a Settings → Privacy y
 
 El link compartible está en el botón de "Share" arriba a la derecha. Cópialo y mandalo a quien quiera ver tu cuenta. No hace falta que la otra persona tenga cuenta HoYoLAB para verlo.
 
-Recomendación: tomate 5 minutos para revisar qué muestra Battle Chronicle de tu cuenta antes de compartirlo. Spiral Abyss runs viejos a veces son embarazosos cuando recién lo activas.
+Recomendación: tómate 5 minutos para revisar qué muestra Battle Chronicle de tu cuenta antes de compartirlo. Spiral Abyss runs viejos a veces son embarazosos cuando recién lo activas.
