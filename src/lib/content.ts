@@ -14,6 +14,31 @@ import type {
 
 const CONTENT_ROOT = path.join(process.cwd(), "content");
 const GAMES_ROOT = path.join(CONTENT_ROOT, "games");
+const PAGES_ROOT = path.join(CONTENT_ROOT, "pages");
+
+interface StaticPageFrontmatter {
+  title: string;
+  description: string;
+}
+
+export interface StaticPage {
+  title: string;
+  description: string;
+  body: string;
+}
+
+export async function getStaticPage(
+  slug: string,
+  locale: Locale,
+): Promise<StaticPage> {
+  const filePath = path.join(PAGES_ROOT, slug, `${locale}.md`);
+  const { data, content } = await readMarkdown<StaticPageFrontmatter>(filePath);
+  return {
+    title: data.title ?? "",
+    description: data.description ?? "",
+    body: content,
+  };
+}
 
 async function readJson<T>(filePath: string): Promise<T> {
   const raw = await fs.readFile(filePath, "utf8");

@@ -12,11 +12,22 @@
     "connectHeading": "Connect",
     "aboutHeading": "About the codex",
     "aboutText": "Made by a gamer for gamers. If you like the content, share it with other players.",
+    "about": "About",
+    "privacy": "Privacy",
     "github": "GitHub",
     "feedback": "Report an issue",
     "changelog": "Changelog",
     "support": "Support the codex",
-    "rights": "Curated gaming codex."
+    "rights": "Curated gaming codex.",
+    "trustNoAds": "No ads",
+    "trustNoAffiliates": "No affiliates",
+    "trustOpenSource": "Open source"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The URL you're looking for doesn't exist or moved. Head back home to explore the curated games, or check the changelog if you were following a recent update.",
+    "home": "Back to home",
+    "changelog": "View the changelog"
   },
   "changelog": {
     "pageTitle": "Changelog",

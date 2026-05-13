@@ -12,11 +12,22 @@
     "connectHeading": "Conectar",
     "aboutHeading": "Sobre el codex",
     "aboutText": "Hecho por un gamer para gamers. Si te gusta el contenido, compártelo con más jugadores.",
+    "about": "Acerca de",
+    "privacy": "Privacidad",
     "github": "GitHub",
     "feedback": "Reportar problema",
     "changelog": "Changelog",
     "support": "Apoyar el codex",
-    "rights": "Compendio curado de gaming."
+    "rights": "Compendio curado de gaming.",
+    "trustNoAds": "Sin anuncios",
+    "trustNoAffiliates": "Sin afiliados",
+    "trustOpenSource": "Open source"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La URL que buscas no existe o cambió de lugar. Puedes volver al inicio para explorar los juegos curados, o revisar el changelog si seguías un cambio reciente.",
+    "home": "Volver al inicio",
+    "changelog": "Ver el changelog"
   },
   "changelog": {
     "pageTitle": "Changelog",
