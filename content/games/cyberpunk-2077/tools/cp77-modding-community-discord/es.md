@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 Modding Community"
 description: "Discord server con 80k+ miembros donde se desarrollan, distribuyen y soportan las tools centrales del modding de Cyberpunk 2077."
-quickTake: "El sitio donde realmente se resuelven los problemas de modding. WolvenKit, CET, RED4ext, todos los frameworks viven acá — devs, contributors y users en el mismo channel. Si modeas en serio, te unís."
+quickTake: "El sitio donde realmente se resuelven los problemas de modding. WolvenKit, CET, RED4ext, todos los frameworks viven acá — devs, contributors y users en el mismo channel. Si modeas en serio, te unes."
 ---
 
 ## Qué es
@@ -30,7 +30,7 @@ Frente al **Wiki redmodding.org**: la wiki es info estática (cómo instalar X, 
 
 ## Para qué la usa la gente
 
-**Troubleshooting urgente**: tu juego crashea con un setup específico de mods. Posteás logs en el channel de support, alguien (modder, user experimentado, dev) probablemente te responde en horas o minutos según traffic.
+**Troubleshooting urgente**: tu juego crashea con un setup específico de mods. Posteas logs en el channel de support, alguien (modder, user experimentado, dev) probablemente te responde en horas o minutos según traffic.
 
 **Updates de frameworks post-patch**: cuando CDPR lanza un patch, el Discord es el primer lugar donde se anuncia "RED4ext compatible release coming in 24h" o "TweakXL is broken, wait for X". Información que ni Nexus ni GitHub releases capturan en real-time.
 
@@ -40,7 +40,7 @@ Frente al **Wiki redmodding.org**: la wiki es info estática (cómo instalar X, 
 
 **Aprender modding**: channels específicos para "newcomer questions" donde puedes pedir help mientras aprendes. Veteranos contestan.
 
-**Discovery de mods nuevos**: muchos mods se anuncian primero en Discord y después en Nexus. Si sigues el server, te enterás de mods antes que el público general.
+**Discovery de mods nuevos**: muchos mods se anuncian primero en Discord y después en Nexus. Si sigues el server, te enteras de mods antes que el público general.
 
 ## Para quién NO es esta herramienta
 
@@ -53,7 +53,7 @@ Si Discord como plataforma no te funciona (alergia a real-time chat, preference 
 ## Cómo se usa en la práctica
 
 1. Clic en el invite link `discord.com/invite/redmodding`. Necesitas cuenta de Discord (gratis).
-2. Te unes el server. Aceptás reglas y verificas (algunos servers tienen anti-bot verification).
+2. Te unes el server. Aceptas reglas y verificas (algunos servers tienen anti-bot verification).
 3. Navegas channels: tienen estructura por tema (modding tools, mod making, troubleshooting, mod showcase, dev channels, off-topic). El layout suele estar documentado en un welcome channel.
 4. Para preguntar: lee pinned messages del channel relevante primero (a veces tu pregunta ya tiene answer). Después postea con contexto claro: qué intentas, qué pasa, qué probaste.
 5. Para contribuir: si tienes expertise, contestas preguntas. Si vas a desarrollar mods, hay channels específicos por framework (CET dev, WolvenKit dev, etc.).
@@ -71,7 +71,7 @@ Si Discord como plataforma no te funciona (alergia a real-time chat, preference 
 
 **Real-time pressure**. Si vas en off-hours o weekends raros, traffic baja y respuestas tardan más. No es 24/7 instantáneo.
 
-**Moderación estricta (apropiadamente)**. El server tiene rules sobre spam, NSFW, harassment. Violations get warning/kick. No es problema si te comportás bien, pero noten que es moderated, no un free-for-all.
+**Moderación estricta (apropiadamente)**. El server tiene rules sobre spam, NSFW, harassment. Violations get warning/kick. No es problema si te comportas bien, pero noten que es moderated, no un free-for-all.
 
 ## Cómo empezar
 
@@ -80,6 +80,6 @@ Si Discord como plataforma no te funciona (alergia a real-time chat, preference 
 3. Lee el welcome channel para entender layout y rules.
 4. Para arrancar conservador: lurkea un día. Mira qué se discute, cómo se hacen las preguntas, qué tipo de respuestas funcionan.
 5. Cuando tengas tu primera pregunta concreta de modding (ej: "no carga mi CET después del patch 2.3"), postearla en el channel apropiado con contexto y logs. Probable que recibas help.
-6. A largo plazo, si te involucrás con un framework específico, considerá joinar a su channel dedicated — es donde se hace el trabajo real.
+6. A largo plazo, si te involucras con un framework específico, considera joinar a su channel dedicated — es donde se hace el trabajo real.
 
 Tip: pin de pinned messages — todos los channels relevantes tienen pinned messages con info crítica (FAQ, install guides, current patch status). Léelos antes de preguntar lo mismo.

@@ -5,6 +5,7 @@ import {
   ExternalLink,
   Gamepad2,
   Heart,
+  Scale,
   Sparkles,
   User,
   Wrench,
@@ -54,6 +55,7 @@ const TYPE_ICONS: Record<ChangelogEventType, typeof Wrench> = {
   creator: User,
   game: Gamepad2,
   resource: BookOpen,
+  comparison: Scale,
 };
 
 const ACTION_COLORS: Record<string, string> = {
@@ -197,6 +199,16 @@ export default async function ChangelogPage({
             ·
           </span>
           <span>{tStats("resources", { count: stats.resources })}</span>
+          {stats.comparisons > 0 && (
+            <>
+              <span aria-hidden className="text-foreground-subtle">
+                ·
+              </span>
+              <span>
+                {tStats("comparisons", { count: stats.comparisons })}
+              </span>
+            </>
+          )}
         </div>
 
         <div className="mt-6 flex flex-wrap items-center gap-3 rounded-lg border border-border/60 bg-muted/30 px-4 py-3">

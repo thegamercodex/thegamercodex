@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 Wiki (Fextralife)"
 description: "Wiki comunitaria amplia con cobertura de side jobs, items, builds, lore y mecánicas. Mantenida por Fextralife, el equipo detrás de wikis de Dark Souls, Elden Ring, y otros."
-quickTake: "Cuando necesités lookup rápido — qué hace un perk, dónde se compra un weapon, qué requirements tiene un side job — Fextralife es lo más rápido. La cobertura es ancha aunque la profundidad varía por entry."
+quickTake: "Cuando necesites lookup rápido — qué hace un perk, dónde se compra un weapon, qué requirements tiene un side job — Fextralife es lo más rápido. La cobertura es ancha aunque la profundidad varía por entry."
 ---
 
 ## Qué es
@@ -12,7 +12,7 @@ Cubre exhaustivamente: side jobs (con walkthroughs), main jobs (con choice conse
 
 ## Qué problema resuelve
 
-Cyberpunk 2077 tiene muchísimo contenido sin documentación in-game completa: side jobs con choices subtle, items con stats hidden, perks con interacciones que no son obvias hasta que las testás. Sin wiki:
+Cyberpunk 2077 tiene muchísimo contenido sin documentación in-game completa: side jobs con choices subtle, items con stats hidden, perks con interacciones que no son obvias hasta que las testeas. Sin wiki:
 - "¿Qué pasa si elijo X en este side job?" — solo lo sabes post-decision.
 - "¿Dónde se consigue este iconic weapon?" — exploración o YouTube guide largo.
 - "¿Cómo interactúan estos dos perks?" — testing in-game.
@@ -77,7 +77,7 @@ Workflow real: abres la wiki en pestaña paralela al juego. Cuando llegas a algo
 
 1. Instala uBlock Origin u otro ad blocker antes de visitar Fextralife — ahorrate la experiencia con ads agresivos.
 2. Ve a `cyberpunk2077.wiki.fextralife.com`.
-3. Para tu primera consulta: pensá en algo concreto que tengas in-game pendiente (un side job que no entiendes, un weapon que quieres ubicar) y búscalo. Familiarizate con cómo están estructuradas las pages.
+3. Para tu primera consulta: piensa en algo concreto que tengas in-game pendiente (un side job que no entiendes, un weapon que quieres ubicar) y búscalo. Familiarizate con cómo están estructuradas las pages.
 4. Bookmarkeá la wiki para acceso rápido. La vas a abrir muchas veces durante un playthrough.
 5. Para searches específicas: googlear "Fextralife cyberpunk [topic]" es más rápido que navegar desde la home. SEO favoreciendo Google se aprovecha.
 

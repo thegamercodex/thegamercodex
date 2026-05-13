@@ -22,7 +22,7 @@ D2PT resuelve esto con un corte estricto: 7K MMR mínimo. En ese nivel, los juga
 
 **Consulta rápida del meta antes de poner queue**: abrir D2PT, revisar tu héroe seleccionado, ver top items y skill order del momento. Flujo de 30-60 segundos que previene pickear builds desactualizadas.
 
-**Aprendizaje de héroes por meta actual**: cuando querés aprender un héroe nuevo, D2PT te dice cuál es el path más exitoso del momento — punto de partida mucho mejor que guías genéricas que pueden estar desactualizadas.
+**Aprendizaje de héroes por meta actual**: cuando quieres aprender un héroe nuevo, D2PT te dice cuál es el path más exitoso del momento — punto de partida mucho mejor que guías genéricas que pueden estar desactualizadas.
 
 **Tracking de transición de parche**: cuando se lanza un parche grande y varios héroes cambian, D2PT muestra en los días siguientes cómo se está adaptando alto MMR. Más rápido que esperar a que las guías estáticas sean reescritas.
 
@@ -37,7 +37,7 @@ D2PT está hiper-enfocada en su nicho. Otros casos de uso están mejor servidos 
 - **Tracking de stats personales** → Dotabuff, OpenDota o STRATZ.
 - **Guías comprehensivas de héroes con estrategia completa** → guías de DOTAFire o Steam Workshop tienen más contexto escrito.
 - **Análisis a nivel de torneo pro** → datdota es la tool de analista.
-- **Tips in-game en vivo** → para eso necesitás un overlay de coaching (Dota Coach, DotaPlus).
+- **Tips in-game en vivo** → para eso necesitas un overlay de coaching (Dota Coach, DotaPlus).
 - **Análisis histórico cross-parches** → STRATZ y OpenDota tienen time-series más amplios.
 
 ## Cómo se usa en la práctica
@@ -56,7 +56,7 @@ D2PT está hiper-enfocada en su nicho. Otros casos de uso están mejor servidos 
 
 4. La página "Meta" muestra tier list global con win rate actual y pickrate por héroe.
 
-5. Usarla como quick check 30 segundos antes de poner queue — abrir D2PT en otra pestaña y consultar mientras esperás en la cola.
+5. Usarla como quick check 30 segundos antes de poner queue — abrir D2PT en otra pestaña y consultar mientras esperas en la cola.
 
 ## Limitaciones honestas
 
@@ -66,7 +66,7 @@ D2PT está hiper-enfocada en su nicho. Otros casos de uso están mejor servidos 
 
 **No explica por qué una build funciona**: la tool muestra el *qué*, no el *por qué*. Para entender por qué una build es fuerte, complementar con contenido educativo (guías de YouTube de creators como BSJ o Bulldog).
 
-**No tiene cuenta personal ni favoritos**: no tiene features de cuenta de usuario. No podés guardar tus héroes más chequeados ni recibir notificaciones.
+**No tiene cuenta personal ni favoritos**: no tiene features de cuenta de usuario. No puedes guardar tus héroes más chequeados ni recibir notificaciones.
 
 **UI espartana y densa**: no es para usuarios que les gusta UX pulida. Funcional e informativa, pero no diseñada para seducir.
 
@@ -76,10 +76,10 @@ No se necesita registro. Ir a `dota2protracker.com` y empezar a explorar.
 
 1. La primera pantalla útil es la homepage — tier list global del meta actual.
 
-2. Hacer click en cualquier héroe que jugás para ver sus top builds y skill order.
+2. Hacer click en cualquier héroe que juegas para ver sus top builds y skill order.
 
 3. Usarla como ritual pre-queue: 30 segundos chequeando el meta de tu héroe seleccionado te ahorra builds desactualizadas.
 
 4. Para tracking de un parche grande, visitar D2PT 2-3 días después de que el parche se lanza y chequear cómo evolucionaron las builds en alto MMR.
 
-5. Combinar con Dotabuff (para tu performance personal) y Liquipedia (para contexto pro) y tenés el toolkit de Dota 2 gratis más completo.
+5. Combinar con Dotabuff (para tu performance personal) y Liquipedia (para contexto pro) y tienes el toolkit de Dota 2 gratis más completo.

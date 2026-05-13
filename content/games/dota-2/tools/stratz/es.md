@@ -32,7 +32,7 @@ Para lookup típico de partidas cualquiera de los tres funciona. Para dashboards
 
 ## Para qué la usa la gente
 
-**Dashboard personalizado**: la homepage de tu perfil de STRATZ prioriza data relevante para *vos*: héroes que jugaste más recientemente, héroes sugeridos para aprender basados en tu estilo, gráficos de tendencia de MMR y alertas sobre patrones de juego recurrentes.
+**Dashboard personalizado**: la homepage de tu perfil de STRATZ prioriza data relevante para *tú*: héroes que jugaste más recientemente, héroes sugeridos para aprender basados en tu estilo, gráficos de tendencia de MMR y alertas sobre patrones de juego recurrentes.
 
 **Predicciones AI de partidas**: al inicio de una partida (o durante una en curso), STRATZ predice probabilidad de victoria basándose en composiciones de cada equipo e historial de los jugadores participantes. Útil como lectura rápida y entretenimiento.
 
@@ -70,7 +70,7 @@ STRATZ es excelente en ciertas dimensiones pero no es un default universal:
 
 **Las predicciones AI son estadísticas, no mágicas**: no apostarse la vida en ellas. Los modelos predictivos funcionan sobre patrones agregados y tienen márgenes de error naturales. Útiles como un input más, no como oráculo.
 
-**Closed-source**: como Dotabuff, no podés auditar la metodología de cálculo. Si la transparencia importa, OpenDota es el camino.
+**Closed-source**: como Dotabuff, no puedes auditar la metodología de cálculo. Si la transparencia importa, OpenDota es el camino.
 
 **Tier Plus es más relevante que Dotabuff Plus**: ciertas features (filtros avanzados, breakdowns detallados) están detrás del paywall en una forma que Dotabuff Plus no tiene. El tier gratis sigue siendo generoso, pero la presión de upsell es más visible.
 
@@ -92,4 +92,4 @@ STRATZ es excelente en ciertas dimensiones pero no es un default universal:
 
 6. Considerar STRATZ Plus solo si vas a usar los filtros avanzados regularmente. El tier gratis alcanza para el caso de uso típico.
 
-7. Si querés comparación, abrir Dotabuff y OpenDota en paralelo — los tres son complementarios.
+7. Si quieres comparación, abrir Dotabuff y OpenDota en paralelo — los tres son complementarios.

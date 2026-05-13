@@ -40,7 +40,7 @@ Frente a **NMS.py** (también de monkeyman192): NMS.py es un framework Python pa
 
 ## Para quién NO es esta herramienta
 
-Si solo quieres usar mods, no es para vos — bajas de Nexus directamente.
+Si solo quieres usar mods, no es para tú — bajas de Nexus directamente.
 
 Si te incomoda la línea de comandos: MBINCompiler es CLI primero. Hay GUIs comunitarias (AMUMSS la usa internamente) pero el uso directo asume terminal.
 
@@ -79,6 +79,6 @@ Extraes a una carpeta como `C:\nms-modding\mbincompiler\` y agregas esa carpeta 
 
 Para experimentar, instala psarc.exe (parte del Sony Toolkit, accesible legalmente) o usa AMUMSS que abstrae el flujo.
 
-Empieza con un mod simple: extrae `NMSARC.GLOBAL.MERGED.PAK`, encuentra un .mbin trivial (típicamente `BALANCE/STARSHIPCATALOGUE.MBIN` para variantes de ship), decompila, abre el .mxml en VSCode, cambiá un valor numérico, recompila, empaquétalo de vuelta como .pak en `MODS/`, lanzá NMS y verifica.
+Empieza con un mod simple: extrae `NMSARC.GLOBAL.MERGED.PAK`, encuentra un .mbin trivial (típicamente `BALANCE/STARSHIPCATALOGUE.MBIN` para variantes de ship), decompila, abre el .mxml en VSCode, cambia un valor numérico, recompila, empaquétalo de vuelta como .pak en `MODS/`, lanza NMS y verifica.
 
 Cuando ese flujo funciona, tienes la base para mods más complejos.

@@ -1,7 +1,7 @@
 ---
 title: "Liquipedia Counter-Strike"
 description: "Wiki colaborativa del esports de Counter-Strike, parte del Liquipedia Network operado por Team Liquid. Cobertura estructurada de torneos, equipos, jugadores y formatos competitivos."
-quickTake: "La enciclopedia oficiosa del esports de CS. Cuando necesitás formato exacto de un torneo, prize pool detallado o histórico estructurado de transfers, Liquipedia es la fuente."
+quickTake: "La enciclopedia oficiosa del esports de CS. Cuando necesitas formato exacto de un torneo, prize pool detallado o histórico estructurado de transfers, Liquipedia es la fuente."
 ---
 
 ## Qué es
@@ -50,7 +50,7 @@ Liquipedia es excelente como referencia pero no como noticia ni opinión:
 
 ## Cómo se usa en la práctica
 
-1. Abrís `liquipedia.net/counterstrike`. La home muestra featured tournaments, news condensadas y link a calendar.
+1. Abres `liquipedia.net/counterstrike`. La home muestra featured tournaments, news condensadas y link a calendar.
 
 2. Para un torneo: search box arriba o navegación por **Tournaments** en el menú lateral. Cada artículo tiene infobox con datos clave + secciones de bracket, results, prize distribution.
 
@@ -58,7 +58,7 @@ Liquipedia es excelente como referencia pero no como noticia ni opinión:
 
 4. Para un jugador: similar a equipo. Tabs para career timeline, results, statistics y media.
 
-5. La función **Random article** es útil para descubrir torneos o equipos que no conocés — útil para fans curiosos.
+5. La función **Random article** es útil para descubrir torneos o equipos que no conoces — útil para fans curiosos.
 
 ## Limitaciones honestas
 
@@ -78,8 +78,8 @@ No requiere registro para consultar. Para uso recurrente:
 
 1. Bookmarkea `liquipedia.net/counterstrike` y la sección **Tournaments → Calendar**.
 
-2. Si seguís un equipo, su página de Liquipedia es buen anchor — siempre actualizada con roster vigente y próximos eventos.
+2. Si sigues un equipo, su página de Liquipedia es buen anchor — siempre actualizada con roster vigente y próximos eventos.
 
-3. Si querés cross-reference durante un torneo, abrí Liquipedia en una pestaña y HLTV en otra: HLTV te da news y rating, Liquipedia te da formato y datos estructurados.
+3. Si quieres cross-reference durante un torneo, abre Liquipedia en una pestaña y HLTV en otra: HLTV te da news y rating, Liquipedia te da formato y datos estructurados.
 
 4. Si te interesa contribuir, la sección **Help → Style guide** explica las reglas. Editores nuevos suelen empezar por completar roster transfers o mejorar artículos stub.

@@ -8,21 +8,32 @@
     "backToHome": "Back to home"
   },
   "footer": {
-    "gamesHeading": "Games",
+    "siteHeading": "Site",
     "connectHeading": "Connect",
     "aboutHeading": "About the codex",
     "aboutText": "Made by a gamer for gamers. If you like the content, share it with other players.",
+    "about": "About",
+    "privacy": "Privacy",
     "github": "GitHub",
     "feedback": "Report an issue",
     "changelog": "Changelog",
     "support": "Support the codex",
-    "rights": "Curated gaming codex."
+    "rights": "Curated gaming codex.",
+    "trustNoAds": "No ads",
+    "trustNoAffiliates": "No affiliates",
+    "trustOpenSource": "Open source"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The URL you're looking for doesn't exist or moved. Head back home to explore the curated games, or check the changelog if you were following a recent update.",
+    "home": "Back to home",
+    "changelog": "View the changelog"
   },
   "changelog": {
     "pageTitle": "Changelog",
     "pageDescription": "Codex release history: new games, added tools, fixes, and removals.",
     "newGameBadge": "New game",
-    "scopeDisclaimer": "We only log adds, changes, removals, and moves for games, tools, creators, and resources. UI tweaks, infrastructure, and other technical improvements don't appear here.",
+    "scopeDisclaimer": "We only log adds, changes, removals, and moves for games, tools, creators, resources, and comparisons. UI tweaks, infrastructure, and other technical improvements don't appear here.",
     "supportPrompt": "If you like the content, help us keep the page updated and ad-free.",
     "supportCta": "Support the codex",
     "eventsHeading": "Changes",
@@ -31,7 +42,8 @@
       "tool": "Tool",
       "creator": "Creator",
       "game": "Game",
-      "resource": "Resource"
+      "resource": "Resource",
+      "comparison": "Comparison"
     },
     "eventActions": {
       "added": "Added",
@@ -44,6 +56,7 @@
       "tools": "{count, plural, one {# tool} other {# tools}}",
       "creators": "{count, plural, one {# creator} other {# creators}}",
       "resources": "{count, plural, one {# resource} other {# resources}}",
+      "comparisons": "{count, plural, one {# comparison} other {# comparisons}}",
       "lastUpdated": "updated {days, plural, =0 {today} one {# day ago} other {# days ago}}"
     }
   },
@@ -133,6 +146,9 @@
     "toolsHeading": "Tools",
     "creatorsHeading": "Creators",
     "resourcesHeading": "Resources",
+    "comparisonsHeading": "Comparisons",
+    "comparisonEyebrow": "Comparison",
+    "comparisonLastVerified": "Verified",
     "aboutHeading": "About the game",
     "developer": "Developer",
     "released": "Released",
@@ -165,7 +181,8 @@
     "viewScreenshot": "Expand screenshot",
     "closeScreenshot": "Close",
     "previousScreenshot": "Previous screenshot",
-    "nextScreenshot": "Next screenshot"
+    "nextScreenshot": "Next screenshot",
+    "comparisonsHeading": "Comparisons"
   },
   "type": {
     "software": "Software",
@@ -201,6 +218,35 @@
     "beginner": "Beginner",
     "intermediate": "Intermediate",
     "advanced": "Advanced"
+  },
+  "comparison": {
+    "eyebrow": "Comparison",
+    "breadcrumb": "Comparisons",
+    "verdictHeading": "Verdict",
+    "useCasesHeading": "Which to use for what",
+    "useCaseWinner": "Better pick",
+    "useCaseTie": "Tie",
+    "tableHeading": "Side-by-side",
+    "lastVerifiedLabel": "Last verified",
+    "categoryLabel": "Category",
+    "viewTool": "View {name}",
+    "relatedHeading": "More comparisons",
+    "rows": {
+      "free": "Free",
+      "openSource": "Open source",
+      "official": "Official",
+      "platforms": "Platforms",
+      "languages": "Languages",
+      "difficulty": "Difficulty",
+      "license": "License",
+      "github": "Source",
+      "site": "Site",
+      "type": "Type",
+      "lastVerified": "Verified"
+    },
+    "yes": "Yes",
+    "no": "No",
+    "dash": "—"
   },
   "resources": {
     "noResources": "No resources in this category yet.",

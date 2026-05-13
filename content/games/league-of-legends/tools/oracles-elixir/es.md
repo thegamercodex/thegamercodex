@@ -1,7 +1,7 @@
 ---
 title: "Oracle's Elixir"
 description: "Database analítica del esports profesional de League of Legends mantenida desde 2014 por Tim 'Magic' Sevenhuysen. Datasets descargables en CSV con métricas por partida, web app navegable y blog editorial con análisis cualitativo periódico."
-quickTake: "La referencia anglosajona del análisis riguroso del esports de LoL. Si necesitás raw data en CSV para análisis propio, o leer análisis editorial con backing estadístico serio, Oracle's Elixir es la fuente. Tim Sevenhuysen es uno de los analistas más respetados del ecosistema."
+quickTake: "La referencia anglosajona del análisis riguroso del esports de LoL. Si necesitas raw data en CSV para análisis propio, o leer análisis editorial con backing estadístico serio, Oracle's Elixir es la fuente. Tim Sevenhuysen es uno de los analistas más respetados del ecosistema."
 ---
 
 ## Qué es
@@ -24,11 +24,11 @@ Ver "La diferencia con Oracle's Elixir" en Gol.gg para el comparativo completo e
 
 ## Para qué la usa la gente
 
-**Descargar datasets para análisis propio**: caso de uso más distintivo. Bajás CSVs de un torneo o temporada y procesás con tus propias herramientas — Python, R, Excel, lo que sea — para queries que la web app no soporta.
+**Descargar datasets para análisis propio**: caso de uso más distintivo. Bajas CSVs de un torneo o temporada y procesas con tus propias herramientas — Python, R, Excel, lo que sea — para queries que la web app no soporta.
 
 **Leer análisis editorial con backing cuantitativo**: el blog de Tim publica posts periódicos con análisis de patrones del meta, tendencias entre regiones, o evaluaciones de performance de jugadores específicos. Combinación poco común de rigor + lectura accesible.
 
-**Verificar metodología de cálculos**: como la metodología está documentada, otros analistas pueden replicar y validar. Si vas a citar números de Oracle's Elixir en un artículo o paper, sabés exactamente cómo se calcularon.
+**Verificar metodología de cálculos**: como la metodología está documentada, otros analistas pueden replicar y validar. Si vas a citar números de Oracle's Elixir en un artículo o paper, sabes exactamente cómo se calcularon.
 
 **Investigación académica y proyectos personales**: estudiantes y aficionados al data science usan los datasets para proyectos de portfolio, tesis, o exploración personal del esports como dominio.
 
@@ -36,12 +36,12 @@ Ver "La diferencia con Oracle's Elixir" en Gol.gg para el comparativo completo e
 
 ## Para quién NO es esta herramienta
 
-Oracle's Elixir es excelente para análisis serio, pero no es lo que necesitás si:
+Oracle's Elixir es excelente para análisis serio, pero no es lo que necesitas si:
 
-- **Querés navegabilidad visual de stats sin descargar nada** → Gol.gg tiene mejor UX para exploración click-by-click.
-- **Querés histórico enciclopédico de teams y jugadores** → Leaguepedia es la fuente para rosters, fechas, achievements.
-- **No te interesan los datasets ni el análisis cuantitativo** → si solo querés ver resultados o seguir un torneo casualmente, Oracle's Elixir es overkill.
-- **Querés stats personales o de soloqueue** → OP.GG cubre esa función; Oracle's Elixir es exclusivamente pro scene.
+- **Quieres navegabilidad visual de stats sin descargar nada** → Gol.gg tiene mejor UX para exploración click-by-click.
+- **Quieres histórico enciclopédico de teams y jugadores** → Leaguepedia es la fuente para rosters, fechas, achievements.
+- **No te interesan los datasets ni el análisis cuantitativo** → si solo quieres ver resultados o seguir un torneo casualmente, Oracle's Elixir es overkill.
+- **Quieres stats personales o de soloqueue** → OP.GG cubre esa función; Oracle's Elixir es exclusivamente pro scene.
 
 ## Cómo se usa en la práctica
 
@@ -55,7 +55,7 @@ Oracle's Elixir es excelente para análisis serio, pero no es lo que necesitás 
 
 5. Blog **Match Stats** publica análisis editorial periódico — post-mortem de finales, evaluaciones de jugadores, tendencias del meta competitivo.
 
-6. Si querés contribuir o consultar metodología, hay sección "About" con info del proyecto y cómo Tim lo mantiene.
+6. Si quieres contribuir o consultar metodología, hay sección "About" con info del proyecto y cómo Tim lo mantiene.
 
 Para uso recurrente como analista: bookmarkeá la sección Data de la temporada en curso. Cada torneo grande genera un CSV consolidado al terminar.
 
@@ -67,7 +67,7 @@ Para uso recurrente como analista: bookmarkeá la sección Data de la temporada 
 
 **Cobertura más fuerte en LCS / LCO**: por origen anglosajón del autor. LCK, LPL y LEC están cubiertas pero pueden tener menos profundidad editorial que las ligas anglo. Para análisis euro-centric, Gol.gg complementa mejor.
 
-**Curva de aprendizaje del vocabulario y de los CSVs**: si no manejás Python/R/Excel ni entendés métricas avanzadas, los datasets pueden parecer crípticos. Vale la pena leer la documentación de columnas antes de usarlos.
+**Curva de aprendizaje del vocabulario y de los CSVs**: si no manejas Python/R/Excel ni entiendes métricas avanzadas, los datasets pueden parecer crípticos. Vale la pena leer la documentación de columnas antes de usarlos.
 
 **Sin app móvil ni overlay**: 100% web. No hay integración con cliente ni asistencia activa. La tool es para análisis, no para uso operativo.
 
@@ -75,12 +75,12 @@ Para uso recurrente como analista: bookmarkeá la sección Data de la temporada 
 
 1. Vas a `oracleselixir.com`. Sin registro.
 
-2. Si querés ver qué tipo de análisis publica Tim, leé los últimos 2-3 posts del blog. Es el mejor onboarding al estilo de la tool.
+2. Si quieres ver qué tipo de análisis publica Tim, lee los últimos 2-3 posts del blog. Es el mejor onboarding al estilo de la tool.
 
-3. Para tu primer dataset: andá a Data, elegí un torneo reciente que conozcas (ej: Worlds 2024 o el último Spring de tu liga preferida), y descargá el CSV. Abrilo en Excel/Google Sheets y explorá las columnas.
+3. Para tu primer dataset: anda a Data, elige un torneo reciente que conozcas (ej: Worlds 2024 o el último Spring de tu liga preferida), y descarga el CSV. Abrilo en Excel/Google Sheets y explora las columnas.
 
-4. Si manejás Python, los CSVs son ideales para pandas — pocas filas, columnas bien documentadas, fácil de explorar.
+4. Si manejas Python, los CSVs son ideales para pandas — pocas filas, columnas bien documentadas, fácil de explorar.
 
-5. Para análisis pro completo de un torneo internacional, usá Gol.gg en paralelo — Oracle's Elixir para deep data, Gol.gg para navegación rápida.
+5. Para análisis pro completo de un torneo internacional, usa Gol.gg en paralelo — Oracle's Elixir para deep data, Gol.gg para navegación rápida.
 
-6. Apoyá el proyecto via Patreon si lo usás regularmente — es uno de los recursos más valiosos del ecosistema y depende de donaciones.
+6. Apoyá el proyecto via Patreon si lo usas regularmente — es uno de los recursos más valiosos del ecosistema y depende de donaciones.

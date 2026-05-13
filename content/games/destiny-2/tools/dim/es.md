@@ -1,7 +1,7 @@
 ---
 title: "Destiny Item Manager"
 description: "Aplicación web open-source para gestionar el inventario, vault y loadouts de Destiny 2 desde el browser, mobile o desktop."
-quickTake: "Si jugás Destiny 2 más de un par de horas a la semana, DIM no es opcional. Mover gear entre personajes, armar loadouts y filtrar el vault sin DIM es masoquismo voluntario."
+quickTake: "Si juegas Destiny 2 más de un par de horas a la semana, DIM no es opcional. Mover gear entre personajes, armar loadouts y filtrar el vault sin DIM es masoquismo voluntario."
 ---
 
 ## Qué es
@@ -24,35 +24,35 @@ Frente a la app Companion oficial de Bungie, DIM gana en velocidad, capacidad de
 
 ## Para qué la usa la gente
 
-**Armar loadouts por actividad**: guardás "Loadout PvE Solar Warlock", "Loadout Trials Hunter", "Loadout Raid DPS" y los equipás con un click antes de la actividad. DIM transfiere todo el gear y mods automáticamente.
+**Armar loadouts por actividad**: guardas "Loadout PvE Solar Warlock", "Loadout Trials Hunter", "Loadout Raid DPS" y los equipas con un click antes de la actividad. DIM transfiere todo el gear y mods automáticamente.
 
-**Limpiar el vault sin pánico**: con búsquedas tipo `is:dupe is:weapon -is:masterwork` ves duplicados sin masterwork de un solo vistazo y los desensamblás en bulk. Lo mismo con armaduras viejas que ya no usás.
+**Limpiar el vault sin pánico**: con búsquedas tipo `is:dupe is:weapon -is:masterwork` ves duplicados sin masterwork de un solo vistazo y los desensamblas en bulk. Lo mismo con armaduras viejas que ya no usas.
 
-**Comparar god rolls**: tag a mano (favorite, junk, infuse) las armas según el rol y filtrás por tag para decidir qué mantener cuando el vault se llena.
+**Comparar god rolls**: tag a mano (favorite, junk, infuse) las armas según el rol y filtras por tag para decidir qué mantener cuando el vault se llena.
 
 **Mover gear rápido**: drag-and-drop entre personaje y vault, sin el tedio del flow oficial. Cuando estás en raid y cambian la rotación, DIM te salva minutos.
 
-**Loadout Optimizer**: la pestaña dedicada combina armaduras + mods + stats target y te dice qué pieza usar en cada slot para llegar al stat budget que querés.
+**Loadout Optimizer**: la pestaña dedicada combina armaduras + mods + stats target y te dice qué pieza usar en cada slot para llegar al stat budget que quieres.
 
 ## Para quién NO es esta herramienta
 
-Si jugás Destiny 2 muy casual (una hora cada par de semanas) y nunca tocás endgame, DIM es overkill. La app Companion oficial cubre lo básico.
+Si juegas Destiny 2 muy casual (una hora cada par de semanas) y nunca tocas endgame, DIM es overkill. La app Companion oficial cubre lo básico.
 
-Si no tenés cuenta Bungie.net o no querés autenticarla con OAuth, DIM no funciona — la conexión a la API es obligatoria para cualquier acción.
+Si no tienes cuenta Bungie.net o no quieres autenticarla con OAuth, DIM no funciona — la conexión a la API es obligatoria para cualquier acción.
 
 ## Cómo se usa en la práctica
 
-1. Abrís `destinyitemmanager.com` y le das "Authorize with Bungie.net" — flujo OAuth normal, no pide credenciales directas.
-2. Esperás a que sincronice tu inventario (3-5 segundos la primera vez).
-3. Para mover un item, lo arrastrás al personaje destino o al vault. La animación in-game lo refleja en segundos.
-4. Para crear un loadout: click en el personaje → "Loadouts" → "Create Loadout" → seleccionás items y mods → guardás con nombre.
+1. Abres `destinyitemmanager.com` y le das "Authorize with Bungie.net" — flujo OAuth normal, no pide credenciales directas.
+2. Esperas a que sincronice tu inventario (3-5 segundos la primera vez).
+3. Para mover un item, lo arrastras al personaje destino o al vault. La animación in-game lo refleja en segundos.
+4. Para crear un loadout: click en el personaje → "Loadouts" → "Create Loadout" → seleccionas items y mods → guardas con nombre.
 5. Para búsquedas avanzadas: barra superior con sintaxis tipo `is:weapon -is:masterwork stat:range:>50`. La doc completa de queries está en el botón de help.
 
 ## Limitaciones honestas
 
 **Depende de la API de Bungie**: si Bungie tiene maintenance o el servicio cae, DIM no funciona. Esto pasa típicamente en patch days de expansión grande.
 
-**Loadouts están limitados a items que ya tenés**: no podés "planear" una build con armas que aún no dropearon. Para eso hay otras tools.
+**Loadouts están limitados a items que ya tienes**: no puedes "planear" una build con armas que aún no dropearon. Para eso hay otras tools.
 
 **La curva de búsqueda es real**: la sintaxis es potente pero leer la doc paga. Los nuevos suelen ignorar el filtrado avanzado y se pierden la mitad del valor.
 
@@ -60,4 +60,4 @@ Si no tenés cuenta Bungie.net o no querés autenticarla con OAuth, DIM no funci
 
 ## Cómo empezar
 
-Entrá a `destinyitemmanager.com`, autorizá con tu cuenta Bungie.net (Steam / PlayStation / Xbox), y ya estás dentro. La primera vez explorá los tres personajes, probá mover un item al vault, y andá al panel de Loadouts. En menos de 10 minutos ya estás moviendo gear más rápido que dentro del juego.
+Entra a `destinyitemmanager.com`, autorizá con tu cuenta Bungie.net (Steam / PlayStation / Xbox), y ya estás dentro. La primera vez explora los tres personajes, prueba mover un item al vault, y anda al panel de Loadouts. En menos de 10 minutos ya estás moviendo gear más rápido que dentro del juego.

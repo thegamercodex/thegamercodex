@@ -8,13 +8,13 @@ quickTake: "El marketplace third-party más conocido para trading de skins. Úti
 
 CS.MONEY es un marketplace third-party para skins de CS2 con foco específico en **trading skin-por-skin** (en vez de cash → skin como hace Steam Community Market). El usuario deposita skins de su inventario Steam en CS.MONEY y puede intercambiarlas por otras skins del catálogo, con valuaciones automáticas que calculan diferencias de precio.
 
-El modelo elimina el "doble fee" del Steam Marketplace (15% al vender + 15% al comprar) en cierto modo: si solo querés cambiar una skin por otra de valor similar, el flujo es mucho más eficiente que pasar por cash. CS.MONEY cobra spread propio en las transacciones pero el usuario percibe menos friction que via Steam.
+El modelo elimina el "doble fee" del Steam Marketplace (15% al vender + 15% al comprar) en cierto modo: si solo quieres cambiar una skin por otra de valor similar, el flujo es mucho más eficiente que pasar por cash. CS.MONEY cobra spread propio en las transacciones pero el usuario percibe menos friction que via Steam.
 
 Existe desde la era CS:GO y migró a CS2 manteniendo su catálogo y modelo. Tiene mobile app además de web. Idiomas múltiples por su base internacional fuerte (especialmente CIS, LATAM, EU).
 
 ## Qué problema resuelve
 
-El Steam Community Market es el canal oficial pero tiene fricciones reales: 15% de fee compuesto, USD encerrado en wallet de Steam (no podés sacarlo), y limitaciones de cooldowns en trades.
+El Steam Community Market es el canal oficial pero tiene fricciones reales: 15% de fee compuesto, USD encerrado en wallet de Steam (no puedes sacarlo), y limitaciones de cooldowns en trades.
 
 Para un usuario que quiere "cambiar mi AK Redline por una M4 Asiimov" sin tener que vender uno y comprar el otro pasando por cash en wallet, las plataformas P2P como CS.MONEY ofrecen valor real: matching automático y trade directo.
 
@@ -39,21 +39,21 @@ CS.MONEY es excelente para trading activo pero NO es:
 - **Para players casuales que solo quieren su skin favorita** → Steam Community Market es más simple y oficial.
 - **Para usuarios sensibles a security history** → el hack de septiembre 2022 ($6M USD en skins robados) sigue siendo factor a considerar. La empresa repuso a usuarios afectados pero el incidente existió.
 - **Para investigar precios históricos** → csgostash es mejor para data; CS.MONEY es transaccional.
-- **Para usuarios que requieren protección de Steam pura** → cualquier marketplace third-party agrega capa de riesgo. Si querés cero superficie de ataque externa, quedate en Steam.
+- **Para usuarios que requieren protección de Steam pura** → cualquier marketplace third-party agrega capa de riesgo. Si quieres cero superficie de ataque externa, quédate en Steam.
 
 ## Cómo se usa en la práctica
 
-1. Vas a `cs.money` y conectás tu cuenta Steam (OAuth).
+1. Vas a `cs.money` y conectas tu cuenta Steam (OAuth).
 
-2. Configurás Steam Trade URL en tu perfil para habilitar trades.
+2. Configuras Steam Trade URL en tu perfil para habilitar trades.
 
-3. Para tradear: navegás el catálogo de skins disponibles, seleccionás las que querés, y la plataforma propone el match con tu inventario (o pedís add cash si hay diferencia).
+3. Para tradear: navegas el catálogo de skins disponibles, seleccionas las que quieres, y la plataforma propone el match con tu inventario (o pides add cash si hay diferencia).
 
-4. Confirmás el trade. Recibís oferta de Steam Trade desde el bot de CS.MONEY que tenés que aceptar manualmente desde Steam.
+4. Confirmas el trade. Recibes oferta de Steam Trade desde el bot de CS.MONEY que tienes que aceptar manualmente desde Steam.
 
 5. Trade se completa: tus skins van a CS.MONEY, las nuevas vienen a tu inventario.
 
-6. Para vender outright: depositás skins en CS.MONEY y recibís créditos que podés convertir a otras skins o (en algunos casos) withdrawal a métodos de pago.
+6. Para vender outright: depositas skins en CS.MONEY y recibes créditos que puedes convertir a otras skins o (en algunos casos) withdrawal a métodos de pago.
 
 ## Limitaciones honestas
 
@@ -71,14 +71,14 @@ CS.MONEY es excelente para trading activo pero NO es:
 
 ## Cómo empezar
 
-1. Vas a `cs.money` y conectás Steam OAuth.
+1. Vas a `cs.money` y conectas Steam OAuth.
 
-2. Configurás tu Steam Trade URL en settings (instrucciones en el sitio).
+2. Configuras tu Steam Trade URL en settings (instrucciones en el sitio).
 
 3. Para primera transacción: empezar pequeño. Cambiar una skin barata por otra del mismo valor para ver el flujo completo (depositar → match → confirmar → recibir).
 
-4. Si sos nuevo en trading de skins en general, leer guías sobre float values, pattern indices, sticker premiums antes de tradear cosas valiosas. Una skin con sticker 4x Holo de Major puede valer 10x el float idéntico sin stickers.
+4. Si eres nuevo en trading de skins en general, leer guías sobre float values, pattern indices, sticker premiums antes de tradear cosas valiosas. Una skin con sticker 4x Holo de Major puede valer 10x el float idéntico sin stickers.
 
 5. Para análisis de precios históricos antes de comprar, usar csgostash en paralelo.
 
-6. Mantener escepticismo razonable: si una oferta parece demasiado buena, casi siempre es porque omitís algún detalle (float bajo, pattern raro, sticker desgastado).
+6. Mantener escepticismo razonable: si una oferta parece demasiado buena, casi siempre es porque omites algún detalle (float bajo, pattern raro, sticker desgastado).

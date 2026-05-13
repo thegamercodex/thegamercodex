@@ -14,9 +14,9 @@ El proyecto se sostiene por contribuciones comunitarias y un modelo "Plus" (~$3/
 
 ## Qué problema resuelve
 
-Dotabuff y STRATZ son excelentes productos pero son cajas cerradas: solo podés ver lo que ellos eligen mostrarte, y no podés construir encima. Para desarrolladores, jugadores avanzados y la comunidad Dota 2 en su conjunto, esto es una limitación significativa.
+Dotabuff y STRATZ son excelentes productos pero son cajas cerradas: solo puedes ver lo que ellos eligen mostrarte, y no puedes construir encima. Para desarrolladores, jugadores avanzados y la comunidad Dota 2 en su conjunto, esto es una limitación significativa.
 
-OpenDota resuelve eso de dos formas: primero, exponiendo la misma data raw y queryable vía API, permitiendo que cualquiera construya sus propias tools o análisis. Segundo, siendo transparente sobre la metodología de parsing — si un stat parece mal, podés auditar cómo se calcula.
+OpenDota resuelve eso de dos formas: primero, exponiendo la misma data raw y queryable vía API, permitiendo que cualquiera construya sus propias tools o análisis. Segundo, siendo transparente sobre la metodología de parsing — si un stat parece mal, puedes auditar cómo se calcula.
 
 Para un usuario final también tiene usos únicos: consultar "Explorer" con SQL custom sobre la base de datos pública de partidas es la forma más poderosa de responder preguntas como "cuál es la tasa promedio de buyback de héroes que ganan partidas arriba de 4K MMR" o "cuál es el win rate de Templar Assassin en Dota 2 con vs sin Desolator en este parche".
 
@@ -34,7 +34,7 @@ Para lookup típico de match history cualquiera funciona. Para análisis profund
 
 **Análisis detallado de partidas**: cada partida tiene parsed-replay data con timings, posiciones y granularidad inigualadas por competidores. Excelente para deep dives honestos post-match.
 
-**SQL Explorer**: la página Explorer pública permite correr SQL custom sobre la base de datos de partidas. Las queries ejemplo responden preguntas reales del meta ("Top 50 héroes por win rate en 5K+ MMR últimos 30 días") y podés escribir las tuyas.
+**SQL Explorer**: la página Explorer pública permite correr SQL custom sobre la base de datos de partidas. Las queries ejemplo responden preguntas reales del meta ("Top 50 héroes por win rate en 5K+ MMR últimos 30 días") y puedes escribir las tuyas.
 
 **API pública para tools**: decenas de tools Dota 2, overlays de Twitch y bots de Discord usan la API de OpenDota como data backend. Si vas a construir algo relacionado a Dota 2, esta es la API a aprender.
 
@@ -50,7 +50,7 @@ La fortaleza de OpenDota (raw, completa, open) es también su limitación. Algun
 - **Coaching AI-driven con insights ML** → STRATZ invirtió específicamente en eso.
 - **Experiencia mobile pulida** → Dotabuff y STRATZ tienen mejor UX mobile.
 - **Stats pro competitivas con contexto editorial** → datdota y Liquipedia proveen más curación.
-- **Tips in-game en vivo** → para eso necesitás un overlay (Dota Coach, DotaPlus).
+- **Tips in-game en vivo** → para eso necesitas un overlay (Dota Coach, DotaPlus).
 
 ## Cómo se usa en la práctica
 
@@ -62,15 +62,15 @@ La fortaleza de OpenDota (raw, completa, open) es también su limitación. Algun
 
 4. Para construir algo encima: leer la documentación de la API en `docs.opendota.com`. El tier gratis (50K calls/mes) alcanza para proyectos personales y tools chicas.
 
-5. Para parsing de replays: subir un replay manualmente o esperar que el sistema auto-parsee una partida. El parsing detallado requiere más tiempo/recursos, así que no todas las partidas se parsean automáticamente — podés solicitar partidas específicas vía Plus.
+5. Para parsing de replays: subir un replay manualmente o esperar que el sistema auto-parsee una partida. El parsing detallado requiere más tiempo/recursos, así que no todas las partidas se parsean automáticamente — puedes solicitar partidas específicas vía Plus.
 
 ## Limitaciones honestas
 
 **UI menos pulida que Dotabuff o STRATZ**: la experiencia es funcional y densa, con menos atención al onboarding visual. Usuarios nuevos pueden necesitar unos minutos para orientarse.
 
-**El parsing de replays no es automático para todas las partidas**: por costo computacional, OpenDota parsea solo algunas partidas en detalle por default. Plus garantiza parsing para tus partidas; si no, podés solicitar manualmente.
+**El parsing de replays no es automático para todas las partidas**: por costo computacional, OpenDota parsea solo algunas partidas en detalle por default. Plus garantiza parsing para tus partidas; si no, puedes solicitar manualmente.
 
-**Rate limits de la API**: el tier gratis es generoso (50K calls/mes) pero si construís una tool con tráfico, vas a necesitar plan pago o tu propia instancia.
+**Rate limits de la API**: el tier gratis es generoso (50K calls/mes) pero si construyes una tool con tráfico, vas a necesitar plan pago o tu propia instancia.
 
 **Sustentabilidad del proyecto depende de la comunidad**: como proyecto open-source, la continuidad de OpenDota depende de contribuciones voluntarias y donaciones. Hubo períodos históricos de updates lentos. Actualmente activo.
 
@@ -84,8 +84,8 @@ Para uso pasivo, no se necesita registro: `opendota.com`, buscar tu nombre de ju
 
 2. Probar el SQL Explorer en `opendota.com/explorer`. Empezar con las queries ejemplo del dropdown — te enseñan qué data está disponible.
 
-3. Si tenés perfil developer, leer la documentación de la API y aplicar a una API key. Las primeras 50K calls/mes son gratis.
+3. Si tienes perfil developer, leer la documentación de la API y aplicar a una API key. Las primeras 50K calls/mes son gratis.
 
-4. Considerar OpenDota Plus solo si genuinamente usás la plataforma a diario y querés apoyar el proyecto — no hay paywall funcional core.
+4. Considerar OpenDota Plus solo si genuinamente usas la plataforma a diario y quieres apoyar el proyecto — no hay paywall funcional core.
 
 5. Para comparación o fact-checking contra otro tracker, abrir Dotabuff o STRATZ en paralelo — los tres son complementarios, no redundantes.

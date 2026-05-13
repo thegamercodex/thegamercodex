@@ -1,7 +1,7 @@
 ---
 title: "datdota"
 description: "Plataforma de estadísticas especializada en Dota 2 profesional: queries personalizables sobre data de torneos, análisis de drafts, performance por héroe por parche y por contexto competitivo."
-quickTake: "La tool del analista. Si solo seguís pubs, es overkill. Si seguís la scene profesional con seriedad o querés entender tendencias de draft entre parches, datdota tiene data que no se consigue en otro lado."
+quickTake: "La tool del analista. Si solo sigues pubs, es overkill. Si sigues la scene profesional con seriedad o quieres entender tendencias de draft entre parches, datdota tiene data que no se consigue en otro lado."
 ---
 
 ## Qué es
@@ -52,13 +52,13 @@ datdota es hiper-especializada. Muchos usuarios están mejor servidos en otro la
 
 5. La tool "Drafts" ofrece visualización de patrones de pick/ban por torneo y equipo, útil para entender preferencias estratégicas.
 
-6. La mayoría de tablas se exportan a CSV para análisis en Excel/Google Sheets si querés construir tus propias visualizaciones.
+6. La mayoría de tablas se exportan a CSV para análisis en Excel/Google Sheets si quieres construir tus propias visualizaciones.
 
 ## Limitaciones honestas
 
 **UI espartana**: datdota es funcional, densa y no está visualmente pulida. Usuarios nuevos a tools de data pueden necesitar unos minutos para orientarse.
 
-**No cubre partidas públicas**: si querés stats de pubs de tu bracket, datdota no las tiene. Es feature, no bug — pero es limitación real si querías data de pubs.
+**No cubre partidas públicas**: si quieres stats de pubs de tu bracket, datdota no las tiene. Es feature, no bug — pero es limitación real si querías data de pubs.
 
 **No app mobile**: web only y el diseño responsive funciona pero no está afinado para mobile.
 
@@ -78,4 +78,4 @@ No se necesita registro. Ir a `datdota.com` y empezar a explorar.
 
 4. Para análisis custom, aprender la tool de Custom Queries — hay curva, pero para usuarios que saben SQL básico es intuitiva en un par de sesiones.
 
-5. Combinar con Liquipedia para contexto editorial (resultados, brackets, narrativas) y tenés el toolkit pro de Dota 2 más completo.
+5. Combinar con Liquipedia para contexto editorial (resultados, brackets, narrativas) y tienes el toolkit pro de Dota 2 más completo.

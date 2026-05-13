@@ -1,7 +1,7 @@
 ---
 title: "Dota Coach"
 description: "App de desktop sobre Overwolf con guías in-game de héroes mantenidas por coaches profesionales: 1,250+ tips contextuales, combos de items y habilidades para cada uno de los 124 héroes."
-quickTake: "Si aprendés mejor con reminders durante la partida que después de jugarla, esta es la mejor opción gratis. Las guías mantenidas por coaches le dan peso editorial que otros overlays auto-generados no tienen."
+quickTake: "Si aprendes mejor con reminders durante la partida que después de jugarla, esta es la mejor opción gratis. Las guías mantenidas por coaches le dan peso editorial que otros overlays auto-generados no tienen."
 ---
 
 ## Qué es
@@ -14,13 +14,13 @@ El tier gratis cubre la mayoría de la experiencia. Hay una suscripción Premium
 
 ## Qué problema resuelve
 
-Dota 2 es un juego complejo donde las decisiones en tiempo real importan enormemente. Leer una guía antes de un match no es lo mismo que tener reminders contextuales durante el match. Para cuando recordás "debería wardear este spot en minuto 4", ya es minuto 6.
+Dota 2 es un juego complejo donde las decisiones en tiempo real importan enormemente. Leer una guía antes de un match no es lo mismo que tener reminders contextuales durante el match. Para cuando recuerdas "debería wardear este spot en minuto 4", ya es minuto 6.
 
-Dota Coach actúa como un coach mirando sobre tu hombro, exponiendo reminders relevantes en el momento apropiado: sugerencias de build cuando tenés oro, tips de warding cuando cycles de día, Roshan timing alerts. Es especialmente útil para jugadores menos experimentados que aún están construyendo conciencia situacional.
+Dota Coach actúa como un coach mirando sobre tu hombro, exponiendo reminders relevantes en el momento apropiado: sugerencias de build cuando tienes oro, tips de warding cuando cycles de día, Roshan timing alerts. Es especialmente útil para jugadores menos experimentados que aún están construyendo conciencia situacional.
 
 ## Para qué la usa la gente
 
-**Aprender héroes nuevos durante el juego**: cuando pickeás un héroe que no dominás, Dota Coach te muestra la build y tips contextuales durante la lane phase y más allá. Más rápido que alt-tabear para consultar guía externa.
+**Aprender héroes nuevos durante el juego**: cuando pickeas un héroe que no dominas, Dota Coach te muestra la build y tips contextuales durante la lane phase y más allá. Más rápido que alt-tabear para consultar guía externa.
 
 **Sugerencia de items en tiempo real**: basado en tu estado actual y composición enemiga, la app sugiere próximos items a comprar. Útil para jugadores menos experimentados o para héroes off-meta.
 
@@ -36,7 +36,7 @@ Dota Coach es excelente para muchos jugadores pero no para todos:
 
 - **Jugadores arriba de 5K-6K MMR** → en ese nivel el conocimiento del juego está internalizado y los tips contextuales se vuelven ruido. Mejor DotaPlus de Valve, que es más discreto.
 - **Usuarios que no juegan en Windows** → Overwolf es solo Windows. Mac/Linux no soportado.
-- **Jugadores que prefieren overlays mínimos durante matches** → Dota Coach tiene presencia visual notoria. Si preferís foco absoluto, saltearse overlays.
+- **Jugadores que prefieren overlays mínimos durante matches** → Dota Coach tiene presencia visual notoria. Si prefieres foco absoluto, saltearse overlays.
 - **Análisis de stats pro y esports** → datdota y Liquipedia.
 - **Tracking de stats personales fuera del juego** → Dotabuff y STRATZ.
 
@@ -54,21 +54,21 @@ Dota Coach es excelente para muchos jugadores pero no para todos:
 
 6. Al final del match, revisar brevemente el post-game summary. Útil como reflexión rápida antes de la próxima partida.
 
-7. Para settings, accederlas desde la system tray de Overwolf. Podés ajustar frecuencia de tips, posición del overlay y enable/disable categorías específicas.
+7. Para settings, accederlas desde la system tray de Overwolf. Puedes ajustar frecuencia de tips, posición del overlay y enable/disable categorías específicas.
 
 ## Limitaciones honestas
 
-**Solo Windows**: Overwolf no soporta Mac ni Linux. Si jugás Dota 2 en esos sistemas operativos, esta no es la tool.
+**Solo Windows**: Overwolf no soporta Mac ni Linux. Si juegas Dota 2 en esos sistemas operativos, esta no es la tool.
 
 **Ruido visual durante matches**: dependiendo de la configuración, Dota Coach puede tener presencia visual notoria durante el match. Para usuarios que prefieren interfaz mínima, esto puede ser molesto. Los settings permiten bajarlo.
 
-**Calidad de tips varía**: aunque los coaches mantienen el contenido, algunos tips son demasiado genéricos ("comprá ward") y otros muy específicos. Calibración toma un par de matches.
+**Calidad de tips varía**: aunque los coaches mantienen el contenido, algunos tips son demasiado genéricos ("compra ward") y otros muy específicos. Calibración toma un par de matches.
 
 **Tier Premium con valor real pero no esencial**: análisis AI y builds custom son interesantes pero no necesarios para el usuario típico. La mayoría puede quedarse en el tier gratis.
 
-**Telemetría enviada a Overwolf**: como app de Overwolf, la tool colecta data de gameplay y envía a servidores remotos. Si tenés privacy concerns, leer la política de privacidad de Overwolf.
+**Telemetría enviada a Overwolf**: como app de Overwolf, la tool colecta data de gameplay y envía a servidores remotos. Si tienes privacy concerns, leer la política de privacidad de Overwolf.
 
-**Conflicto con Dota Plus (Valve)**: si usás Dota Plus de Valve, ambos pueden mostrar tips similares al mismo tiempo. La mayoría de usuarios usa uno u otro, no ambos.
+**Conflicto con Dota Plus (Valve)**: si usas Dota Plus de Valve, ambos pueden mostrar tips similares al mismo tiempo. La mayoría de usuarios usa uno u otro, no ambos.
 
 ## Cómo empezar
 
@@ -84,6 +84,6 @@ Dota Coach es excelente para muchos jugadores pero no para todos:
 
 6. Ajustar los settings según preferencia: posición del overlay, frecuencia de tips, audio enabled/disabled.
 
-7. Si después de una semana lo encontrás útil, considerar Premium. Si no, el tier gratis es sostenible indefinidamente.
+7. Si después de una semana lo encuentras útil, considerar Premium. Si no, el tier gratis es sostenible indefinidamente.
 
-8. Para desinstalar, podés removerla del app store de Overwolf o desinstalar Overwolf entero.
+8. Para desinstalar, puedes removerla del app store de Overwolf o desinstalar Overwolf entero.

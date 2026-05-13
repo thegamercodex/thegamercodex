@@ -34,7 +34,7 @@ Para un Mythic raider serio, los tres se usan en paralelo: Icy Veins como founda
 
 **Strats de Mythic boss**: la información de Method para Mythic es típicamente más detallada que en sitios mainstream. Cooldown windows específicos, decisiones de comp, optimizations que un casual guide no incluye.
 
-**Class optimization tier**: las guías de clase asumen que ya conocés la rotación. Profundizan en mín-máx por boss específico, talent builds alternativas para diferentes fases.
+**Class optimization tier**: las guías de clase asumen que ya conoces la rotación. Profundizan en mín-máx por boss específico, talent builds alternativas para diferentes fases.
 
 **Tracking del world-first race**: durante RWF, Method es uno de los principales contendientes y publican notes y VOD review de sus pulls. Para fans del competitive WoW, es content directo del frente.
 
@@ -44,14 +44,14 @@ Para un Mythic raider serio, los tres se usan en paralelo: Icy Veins como founda
 
 ## Para quién NO es esta herramienta
 
-- **Players nuevos**: las guías asumen conocimiento previo. Si recién levaste y no entendés tu rotación, empezá con Icy Veins.
+- **Players nuevos**: las guías asumen conocimiento previo. Si recién levaste y no entiendes tu rotación, empieza con Icy Veins.
 - **Mythic+ exclusivos**: la cobertura M+ existe pero es secundaria al raid. Para M+ profundo, Wowhead Guides + Archon + el Discord de la spec son mejores opciones.
 - **PvP**: Method no tiene presencia significativa en arena/RBG. Para PvP, otras fuentes.
 - **Players sensibles a la historia controversial**: la organización tuvo controversias serias. Si el contexto te molesta, hay alternativas (Liquid, Echo, etc. también producen content de hardcore raid).
 
 ## Cómo se usa en la práctica
 
-1. Abrís [method.gg](https://www.method.gg).
+1. Abres [method.gg](https://www.method.gg).
 
 2. Para current raid: menú **Guides → [current expansion] → Raids → [boss name]**. Cada boss tiene guía escrita y a veces video embebido.
 
@@ -59,7 +59,7 @@ Para un Mythic raider serio, los tres se usan en paralelo: Icy Veins como founda
 
 4. Para video content: el canal de YouTube de Method tiene VODs de pulls, raid reviews, y guides en formato video.
 
-5. Si seguís el RWF: durante el race, el sitio y los streams de Method son fuente primaria de info en tiempo real.
+5. Si sigues el RWF: durante el race, el sitio y los streams de Method son fuente primaria de info en tiempo real.
 
 ## Limitaciones honestas
 
@@ -73,16 +73,16 @@ Para un Mythic raider serio, los tres se usan en paralelo: Icy Veins como founda
 
 **Sitio menos pulido que competidores**: el web design tiene años, navegación a veces frustra, search no es óptimo. Funciona pero no compite con UX moderno de sitios como Archon.
 
-**Foco solo Retail Mythic raid**: si jugás Classic, SoD, M+ exclusivamente, o solo Heroic, Method aporta poco. La especialización es estrecha y deliberada.
+**Foco solo Retail Mythic raid**: si juegas Classic, SoD, M+ exclusivamente, o solo Heroic, Method aporta poco. La especialización es estrecha y deliberada.
 
 ## Cómo empezar
 
-1. Visitá [method.gg](https://www.method.gg) y revisá las guías del current raid. Empezá por el boss que tu guild esté trabajando.
+1. Visitá [method.gg](https://www.method.gg) y revisa las guías del current raid. Empieza por el boss que tu guild esté trabajando.
 
 2. Si vas a usar Method como fuente principal, complementá con Icy Veins para fundamentals y Archon para data-driven meta.
 
 3. Suscribite al canal de YouTube de Method si te interesa el content video y RWF coverage.
 
-4. Para aprovechar todo el ecosystem, el Discord oficial de Method tiene canales de discussion por clase con players activos del high tier — útil si querés feedback más allá de guías escritas.
+4. Para aprovechar todo el ecosystem, el Discord oficial de Method tiene canales de discussion por clase con players activos del high tier — útil si quieres feedback más allá de guías escritas.
 
-5. Como con cualquier source de hardcore content: contrastar con tu propia experiencia y tus logs. Las strats de top guilds asumen comp y gear que tu raid puede no tener — adaptá, no copiés ciegamente.
+5. Como con cualquier source de hardcore content: contrastar con tu propia experiencia y tus logs. Las strats de top guilds asumen comp y gear que tu raid puede no tener — adaptá, no copies ciegamente.

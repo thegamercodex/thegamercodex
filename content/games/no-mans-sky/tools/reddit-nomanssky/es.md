@@ -81,4 +81,4 @@ Filtrá por Top → All Time para ver los posts más representativos del sub. Te
 
 Lee algunos megathreads recientes para ver cómo la comunidad organiza discusión sobre patches y eventos.
 
-Cuando posteas por primera vez, asegurate de usar flair y leer las reglas — los mods son rigurosos con first-time posters que no las siguen.
+Cuando posteas por primera vez, asegúrate de usar flair y leer las reglas — los mods son rigurosos con first-time posters que no las siguen.

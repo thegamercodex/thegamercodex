@@ -16,7 +16,7 @@ El modelo es freemium: tier free permite jugar matchmaking ilimitado con map poo
 
 El matchmaking oficial de Valve (Premier y Competitive) tiene problemas conocidos: anti-cheat débil (VAC + VACnet), pool grande de cheaters incluso en tiers altos, y comunidad heterogénea (mucho casual, mucho leaver, poca cohesión).
 
-Faceit cubre el caso "quiero jugar CS2 serio con players que también quieren jugar CS2 serio". Su anti-cheat AC es client-side anti-cheat más invasivo (kernel-level en algunas configs) y ataja muchos cheats que VAC ignora. La población es también más auto-seleccionada: si te tomaste el trabajo de instalar Faceit AC, probablemente venís a jugar.
+Faceit cubre el caso "quiero jugar CS2 serio con players que también quieren jugar CS2 serio". Su anti-cheat AC es client-side anti-cheat más invasivo (kernel-level en algunas configs) y ataja muchos cheats que VAC ignora. La población es también más auto-seleccionada: si te tomaste el trabajo de instalar Faceit AC, probablemente vienes a jugar.
 
 Para players intermedios y avanzados (Faceit Level 6+), la calidad del juego es notablemente superior al matchmaking de Valve en términos de coordinación, comms y comportamiento.
 
@@ -36,20 +36,20 @@ Para players intermedios y avanzados (Faceit Level 6+), la calidad del juego es 
 
 Faceit es excelente para serious matchmaking pero no es:
 
-- **Para jugar casual/relajado** → la cultura es competitiva. Si querés divertirte con random comms y memes, Premier de Valve es más amigable.
-- **Para evitar instalar anti-cheat** → FACEIT AC es kernel-level en algunos setups. Si tenés objeciones de privacidad/security, no podés usarlo.
+- **Para jugar casual/relajado** → la cultura es competitiva. Si quieres divertirte con random comms y memes, Premier de Valve es más amigable.
+- **Para evitar instalar anti-cheat** → FACEIT AC es kernel-level en algunos setups. Si tienes objeciones de privacidad/security, no puedes usarlo.
 - **Para Linux nativo sin friction** → FACEIT AC oficialmente solo soporta Windows. Linux requiere workarounds o Proton (limitado).
 - **Para jugar 1-2 horas y olvidarse** → la queue puede ser larga (especialmente en tiers altos), y un match de Faceit toma típicamente 45-60 minutos. Es compromiso de sesión seria.
 
 ## Cómo se usa en la práctica
 
-1. Vas a `faceit.com`, registrás cuenta y conectás Steam.
+1. Vas a `faceit.com`, registras cuenta y conectas Steam.
 
-2. Descargás e instalás el **FACEIT Anti-Cheat client** (Windows). Es required para jugar matchmaking.
+2. Descargas e instalas el **FACEIT Anti-Cheat client** (Windows). Es required para jugar matchmaking.
 
 3. Tu primera partida es la **placement match** que define tu Faceit Level inicial (típicamente 3-5 para players del MM normal).
 
-4. Para queue: click en **Play CS2** → seleccionás región y modo (5v5 estándar es el principal). Te asigna lobby con teammates, entran al map veto, y al server.
+4. Para queue: click en **Play CS2** → seleccionas región y modo (5v5 estándar es el principal). Te asigna lobby con teammates, entran al map veto, y al server.
 
 5. Después de la partida, ELO se ajusta y nivel cambia según breakpoints (Level 1: 1-500, Level 10: 2001+).
 
@@ -65,7 +65,7 @@ Faceit es excelente para serious matchmaking pero no es:
 
 **Toxicidad existe pero es distinta a MM**: la comunidad es más motivada pero también más exigente. Errores costosos generan más tilt que en MM. La cultura es de "jugar serio o no estás", lo cual no le sirve a todos.
 
-**Linux/Mac soporte limitado**: oficialmente solo Windows tiene soporte completo del AC. Si jugás en Linux, hay workarounds pero es fricción real.
+**Linux/Mac soporte limitado**: oficialmente solo Windows tiene soporte completo del AC. Si juegas en Linux, hay workarounds pero es fricción real.
 
 **Corporate consolidation**: con la compra de ESL+FACEIT+Savvy, hay concerns sobre integridad del ecosistema profesional. No afecta directamente al matchmaking pero es contexto a saber.
 

@@ -14,7 +14,7 @@ Cubre lo esperable: stats globales del jugador, K/D por modo, win rate por agent
 
 Valorant in-game muestra match history limitado a las últimas 20 partidas y stats agregados por agente sin contexto. Para entender tendencias — qué agente te da más wins, qué mapa te lastra, cómo está tu performance vs el promedio de tu rango — el cliente del juego es insuficiente.
 
-Tracker.gg responde eso: pegás tu Riot ID y obtenés un dashboard con todo el historial accesible, comparativas por percentil, y filtros que el juego no expone.
+Tracker.gg responde eso: pegas tu Riot ID y obtienes un dashboard con todo el historial accesible, comparativas por percentil, y filtros que el juego no expone.
 
 ## Diferenciación
 
@@ -26,11 +26,11 @@ La regla práctica: Tracker.gg para análisis profundo de tu carrera, Blitz para
 
 ## Para qué la usa la gente
 
-**Ver win rate por agente**: identificás qué agentes te funcionan y cuáles abandonar. Útil cuando estás eligiendo main.
+**Ver win rate por agente**: identificas qué agentes te funcionan y cuáles abandonar. Útil cuando estás eligiendo main.
 
 **Comparar contra tu rango**: percentiles te muestran si tu K/D está sobre o bajo el promedio del rango. Vara honesta.
 
-**Stalkear oponentes**: en pre-game lobby, buscás el Riot ID del rival y ves su agent pool, K/D y mapas fuertes. Asimétrico pero usado.
+**Stalkear oponentes**: en pre-game lobby, buscas el Riot ID del rival y ves su agent pool, K/D y mapas fuertes. Asimétrico pero usado.
 
 **Identificar mapas débiles**: filtro por mapa muestra qué tan mal vas en Bind o Haven. Sirve para queue de mapas o para entrenar específico.
 
@@ -38,7 +38,7 @@ La regla práctica: Tracker.gg para análisis profundo de tu carrera, Blitz para
 
 ## Para quién NO es esta herramienta
 
-Si querés un overlay en partida con info en tiempo real, Blitz.gg es mejor — Tracker.gg es web-only.
+Si quieres un overlay en partida con info en tiempo real, Blitz.gg es mejor — Tracker.gg es web-only.
 
 Si tu interés es esports / pro stats, vlr.gg cubre eso mucho mejor. Tracker.gg es para players normales.
 
@@ -46,15 +46,15 @@ Si Riot privatizó tu perfil, Tracker.gg no muestra nada — Riot permite oculta
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `tracker.gg/valorant` y buscás tu Riot ID (formato `Nombre#TAG`).
+1. Entras a `tracker.gg/valorant` y buscas tu Riot ID (formato `Nombre#TAG`).
 2. Tu profile carga con stats agregados, grilla de agentes, mapas y match history reciente.
-3. Filtrás por modo (Competitive, Premier, Unrated) y por act/episodio para refinar.
+3. Filtras por modo (Competitive, Premier, Unrated) y por act/episodio para refinar.
 4. Click en una partida específica para ver desglose por round con kills, deaths, plant info.
-5. Pestaña "Weapons" para ver qué armas usás más.
+5. Pestaña "Weapons" para ver qué armas usas más.
 
 ## Limitaciones honestas
 
-**Datos limitados a perfiles públicos**. Riot permite ocultar career; cuando lo hacen, no podés stalkear nada. Frecuente en jugadores top-rank que no quieren ser analizados.
+**Datos limitados a perfiles públicos**. Riot permite ocultar career; cuando lo hacen, no puedes stalkear nada. Frecuente en jugadores top-rank que no quieren ser analizados.
 
 **Tier premium pushy**. Free es funcional para 80% del uso pero el sitio empuja PRO Tier para "filtros avanzados", "stats sin delay" y otras features.
 
@@ -66,4 +66,4 @@ Si Riot privatizó tu perfil, Tracker.gg no muestra nada — Riot permite oculta
 
 ## Cómo empezar
 
-Entrá a `tracker.gg/valorant`, buscás tu Riot ID. La página carga al instante si tu perfil es público. Recorré pestañas Overview, Agents, Maps, Weapons. En 10 minutos tenés visibility sobre tendencias que el cliente del juego nunca te mostró.
+Entra a `tracker.gg/valorant`, buscas tu Riot ID. La página carga al instante si tu perfil es público. Recorré pestañas Overview, Agents, Maps, Weapons. En 10 minutos tienes visibility sobre tendencias que el cliente del juego nunca te mostró.

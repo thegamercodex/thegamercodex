@@ -8,21 +8,32 @@
     "backToHome": "Volver al inicio"
   },
   "footer": {
-    "gamesHeading": "Juegos",
+    "siteHeading": "Sitio",
     "connectHeading": "Conectar",
     "aboutHeading": "Sobre el codex",
     "aboutText": "Hecho por un gamer para gamers. Si te gusta el contenido, compártelo con más jugadores.",
+    "about": "Acerca de",
+    "privacy": "Privacidad",
     "github": "GitHub",
     "feedback": "Reportar problema",
     "changelog": "Changelog",
     "support": "Apoyar el codex",
-    "rights": "Compendio curado de gaming."
+    "rights": "Compendio curado de gaming.",
+    "trustNoAds": "Sin anuncios",
+    "trustNoAffiliates": "Sin afiliados",
+    "trustOpenSource": "Open source"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La URL que buscas no existe o cambió de lugar. Puedes volver al inicio para explorar los juegos curados, o revisar el changelog si seguías un cambio reciente.",
+    "home": "Volver al inicio",
+    "changelog": "Ver el changelog"
   },
   "changelog": {
     "pageTitle": "Changelog",
     "pageDescription": "Historial de releases del codex: nuevos juegos, herramientas agregadas, fixes y removals.",
     "newGameBadge": "Nuevo juego",
-    "scopeDisclaimer": "Solo registramos altas, cambios, bajas y movimientos de juegos, herramientas, creadores y recursos. Cambios de UI, infraestructura u otras mejoras técnicas no aparecen acá.",
+    "scopeDisclaimer": "Solo registramos altas, cambios, bajas y movimientos de juegos, herramientas, creadores, recursos y comparativas. Cambios de UI, infraestructura u otras mejoras técnicas no aparecen aquí.",
     "supportPrompt": "Si te gusta el contenido, ayúdanos a mantener la página actualizada y sin anuncios.",
     "supportCta": "Apoyar el codex",
     "eventsHeading": "Cambios",
@@ -31,7 +42,8 @@
       "tool": "Herramienta",
       "creator": "Creador",
       "game": "Juego",
-      "resource": "Recurso"
+      "resource": "Recurso",
+      "comparison": "Comparativa"
     },
     "eventActions": {
       "added": "Agregado",
@@ -44,6 +56,7 @@
       "tools": "{count, plural, one {# herramienta} other {# herramientas}}",
       "creators": "{count, plural, one {# creator} other {# creators}}",
       "resources": "{count, plural, one {# recurso} other {# recursos}}",
+      "comparisons": "{count, plural, one {# comparativa} other {# comparativas}}",
       "lastUpdated": "actualizado hace {days, plural, =0 {hoy} one {# día} other {# días}}"
     }
   },
@@ -133,6 +146,9 @@
     "toolsHeading": "Herramientas",
     "creatorsHeading": "Creadores",
     "resourcesHeading": "Recursos",
+    "comparisonsHeading": "Comparativas",
+    "comparisonEyebrow": "Comparativa",
+    "comparisonLastVerified": "Verificada",
     "aboutHeading": "Sobre el juego",
     "developer": "Desarrollador",
     "released": "Lanzamiento",
@@ -165,7 +181,8 @@
     "viewScreenshot": "Ampliar captura",
     "closeScreenshot": "Cerrar",
     "previousScreenshot": "Captura anterior",
-    "nextScreenshot": "Siguiente captura"
+    "nextScreenshot": "Siguiente captura",
+    "comparisonsHeading": "Comparativas"
   },
   "type": {
     "software": "Software",
@@ -201,6 +218,35 @@
     "beginner": "Principiante",
     "intermediate": "Intermedio",
     "advanced": "Avanzado"
+  },
+  "comparison": {
+    "eyebrow": "Comparativa",
+    "breadcrumb": "Comparativas",
+    "verdictHeading": "Veredicto",
+    "useCasesHeading": "¿Cuál usar para qué?",
+    "useCaseWinner": "Mejor opción",
+    "useCaseTie": "Empate",
+    "tableHeading": "Comparación lado a lado",
+    "lastVerifiedLabel": "Última verificación",
+    "categoryLabel": "Categoría",
+    "viewTool": "Ver {name}",
+    "relatedHeading": "Otras comparativas",
+    "rows": {
+      "free": "Gratis",
+      "openSource": "Open source",
+      "official": "Oficial",
+      "platforms": "Plataformas",
+      "languages": "Idiomas",
+      "difficulty": "Dificultad",
+      "license": "Licencia",
+      "github": "Código fuente",
+      "site": "Sitio",
+      "type": "Tipo",
+      "lastVerified": "Verificada"
+    },
+    "yes": "Sí",
+    "no": "No",
+    "dash": "—"
   },
   "resources": {
     "noResources": "Aún no hay recursos en esta categoría.",

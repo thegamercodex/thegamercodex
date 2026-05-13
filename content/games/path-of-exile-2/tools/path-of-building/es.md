@@ -1,7 +1,7 @@
 ---
 title: "Path of Building Community (PoE 2)"
 description: "Calculadora offline de DPS y planificador de builds para Path of Exile 2, mantenida por la comunidad como fork dedicado del PoB original."
-quickTake: "Si vas a invertir más de unas horas por semana en PoE 2, dejá de jugar a ciegas. PoB 2 todavía está en construcción y le faltan piezas, pero ya hoy es la única forma de ver matemáticamente qué hace tu personaje."
+quickTake: "Si vas a invertir más de unas horas por semana en PoE 2, deja de jugar a ciegas. PoB 2 todavía está en construcción y le faltan piezas, pero ya hoy es la única forma de ver matemáticamente qué hace tu personaje."
 ---
 
 ## Qué es
@@ -24,11 +24,11 @@ A cambio, los planners web ganan en accesibilidad: no requieren instalación, co
 
 ## Para qué la usa la gente
 
-**Importar tu personaje y diagnosticar gaps**: pegás el link de tu perfil de PoE 2 y PoB 2 trae items, gemas, passive tree y atlas. En 30 segundos ves dónde estás bajo en resistencias, accuracy o crit, y qué nodos del árbol están desperdiciados.
+**Importar tu personaje y diagnosticar gaps**: pegas el link de tu perfil de PoE 2 y PoB 2 trae items, gemas, passive tree y atlas. En 30 segundos ves dónde estás bajo en resistencias, accuracy o crit, y qué nodos del árbol están desperdiciados.
 
-**Comparar items antes de comprarlos**: editás un slot con el item potencial y ves al instante el delta de DPS, vida, ES. Decidís si esos 80 Exalted del trade valen la pena antes de hacer la oferta.
+**Comparar items antes de comprarlos**: editas un slot con el item potencial y ves al instante el delta de DPS, vida, ES. Decides si esos 80 Exalted del trade valen la pena antes de hacer la oferta.
 
-**Diseñar builds desde cero**: empezás con personaje vacío, elegís clase y ascendencia, planificás passive tree y atlas. PoB 2 te dice exactamente qué resultado vas a tener antes de levelear.
+**Diseñar builds desde cero**: empiezas con personaje vacío, eliges clase y ascendencia, planificas passive tree y atlas. PoB 2 te dice exactamente qué resultado vas a tener antes de levelear.
 
 **Validar guides de creators**: los buildmakers serios publican links de PoB 2 con sus builds. Importarla te muestra exactamente cómo está armada — no hay traducción intermedia ni "yo entendí esto".
 
@@ -36,28 +36,28 @@ A cambio, los planners web ganan en accesibilidad: no requieren instalación, co
 
 ## Para quién NO es esta herramienta
 
-Si recién empezás PoE 2 y todavía no terminaste la campaña, PoB 2 te va a abrumar. La interfaz es densa — pestañas, paneles, calcs — y mucha de la información solo cobra sentido cuando ya entendés las mecánicas core del juego. Para esa fase, las guías escritas y videos de creators rinden más.
+Si recién empiezas PoE 2 y todavía no terminaste la campaña, PoB 2 te va a abrumar. La interfaz es densa — pestañas, paneles, calcs — y mucha de la información solo cobra sentido cuando ya entiendes las mecánicas core del juego. Para esa fase, las guías escritas y videos de creators rinden más.
 
-Si jugás casual (un par de horas a la semana, sin ambición de pinnacle bossing), tampoco lo necesitás. PoB 2 paga su curva de aprendizaje cuando estás optimizando endgame; para campaña + primer atlas tier, el juego te alcanza solo.
+Si juegas casual (un par de horas a la semana, sin ambición de pinnacle bossing), tampoco lo necesitas. PoB 2 paga su curva de aprendizaje cuando estás optimizando endgame; para campaña + primer atlas tier, el juego te alcanza solo.
 
 ## Cómo se usa en la práctica
 
-1. Descargás el instalador desde `pathofbuilding.community` (sección PoE 2) o GitHub Releases del fork. Se instala como app de escritorio.
-2. Abrís PoB 2, click en "Import/Export Build", pegás el link de tu personaje del sitio oficial de PoE.
-3. Activás los flask uptimes, buffs y conditions correctas en el panel "Configuration" (ej: enemy at low life, on full life). Esto cambia tu DPS estimado dramáticamente — sin esto las cifras son fantasiosas.
-4. Mirás los stats del panel izquierdo: Hit Rate / Skill DPS / Combined DPS, Life / ES / Mana, y resistencias. Lo que esté en rojo es donde tenés problemas.
-5. Para iterar: editás items o nodos del árbol, comparás versiones con la opción "Compare" entre dos calcs, y guardás builds candidatas.
+1. Descargas el instalador desde `pathofbuilding.community` (sección PoE 2) o GitHub Releases del fork. Se instala como app de escritorio.
+2. Abres PoB 2, click en "Import/Export Build", pegas el link de tu personaje del sitio oficial de PoE.
+3. Activas los flask uptimes, buffs y conditions correctas en el panel "Configuration" (ej: enemy at low life, on full life). Esto cambia tu DPS estimado dramáticamente — sin esto las cifras son fantasiosas.
+4. Miras los stats del panel izquierdo: Hit Rate / Skill DPS / Combined DPS, Life / ES / Mana, y resistencias. Lo que esté en rojo es donde tienes problemas.
+5. Para iterar: editas items o nodos del árbol, comparas versiones con la opción "Compare" entre dos calcs, y guardas builds candidatas.
 
 ## Limitaciones honestas
 
-**El fork de PoE 2 está atrás del de PoE 1 en madurez**. Mecánicas nuevas tardan días o semanas en modelarse correctamente cuando GGG las introduce. En patch day frecuentemente hay items o gemas con cálculos provisorios o incompletos. Verificá las release notes del fork antes de confiar 100% en un número de DPS.
+**El fork de PoE 2 está atrás del de PoE 1 en madurez**. Mecánicas nuevas tardan días o semanas en modelarse correctamente cuando GGG las introduce. En patch day frecuentemente hay items o gemas con cálculos provisorios o incompletos. Verifica las release notes del fork antes de confiar 100% en un número de DPS.
 
-**Solo disponible en inglés**. No hay localización a español. Si no manejás términos técnicos de PoE en inglés (More vs Increased, ailment threshold, etc.) hay barrera. Los videos en español de creators ayudan a salvarla.
+**Solo disponible en inglés**. No hay localización a español. Si no manejas términos técnicos de PoE en inglés (More vs Increased, ailment threshold, etc.) hay barrera. Los videos en español de creators ayudan a salvarla.
 
-**La interfaz es funcional pero fea**. No es Modrinth ni un dashboard moderno: es una herramienta hecha por jugadores para jugadores. Esperá tablas densas y abreviaturas. Una vez te acostumbrás es eficiente; el primer uso es chocante.
+**La interfaz es funcional pero fea**. No es Modrinth ni un dashboard moderno: es una herramienta hecha por jugadores para jugadores. Espera tablas densas y abreviaturas. Una vez te acostumbras es eficiente; el primer uso es chocante.
 
 **Algunas mecánicas exóticas (Sekhema buffs específicos, ciertos efectos legacy) pueden no estar perfectamente modeladas**. Para builds nicho, cruzá el cálculo con tests in-game.
 
 ## Cómo empezar
 
-Bajás el instalador de la web oficial o de GitHub. Lo instalás. Abrís el programa. La forma más rápida de aprender no es leer docs: importá la build de algún creador de PoE 2 que sigas y andá clickeando todo. Ver una build real armada te enseña qué hace cada panel mejor que cualquier tutorial. Cuando tengas dudas, los videos en YouTube cubren el flujo paso a paso desde instalación hasta uso avanzado.
+Bajas el instalador de la web oficial o de GitHub. Lo instalas. Abres el programa. La forma más rápida de aprender no es leer docs: importa la build de algún creador de PoE 2 que sigas y anda clickeando todo. Ver una build real armada te enseña qué hace cada panel mejor que cualquier tutorial. Cuando tengas dudas, los videos en YouTube cubren el flujo paso a paso desde instalación hasta uso avanzado.

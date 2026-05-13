@@ -1,7 +1,7 @@
 ---
 title: "SkinPeek"
 description: "Tracker open-source de tienda de Valorant: daily store, accessory shop, night market, y catálogo completo de skins."
-quickTake: "Si farmeás VP esperando tu skin, SkinPeek + el bot de Discord te avisan automáticamente cuando aparece. Free, open-source, y sin friction de login web."
+quickTake: "Si farmeas VP esperando tu skin, SkinPeek + el bot de Discord te avisan automáticamente cuando aparece. Free, open-source, y sin friction de login web."
 ---
 
 ## Qué es
@@ -12,7 +12,7 @@ Cubre: tu daily store de 4 skins, accessory shop, night market cuando está acti
 
 ## Qué problema resuelve
 
-La tienda de Valorant rota cada 24h con 4 skins random. Si estás chasing una skin específica, abrir el cliente cada día para chequear es tedioso. Para night markets (events temporales con descuentos), olvidate de qué hay este weekend mientras estás afuera.
+La tienda de Valorant rota cada 24h con 4 skins random. Si estás chasing una skin específica, abrir el cliente cada día para chequear es tedioso. Para night markets (events temporales con descuentos), olvídate de qué hay este weekend mientras estás afuera.
 
 SkinPeek resuelve eso. El Discord bot manda notification cuando tu skin wishlisted aparece en daily store. La web te muestra tu store y night market sin entrar al juego.
 
@@ -26,7 +26,7 @@ Frente a otras shop trackers que han venido y ido, SkinPeek tiene la ventaja de 
 
 ## Para qué la usa la gente
 
-**Notificación automática de wishlist**: configurás "quiero la Prime Vandal" y el bot te ping en Discord cuando aparece en tu daily store.
+**Notificación automática de wishlist**: configuras "quiero la Prime Vandal" y el bot te ping en Discord cuando aparece en tu daily store.
 
 **Daily store check sin entrar al cliente**: web viewer rápido para chequear hoy.
 
@@ -38,17 +38,17 @@ Frente a otras shop trackers que han venido y ido, SkinPeek tiene la ventaja de 
 
 ## Para quién NO es esta herramienta
 
-Si no compras skins (gameplay-only player), SkinPeek es invisible para vos.
+Si no compras skins (gameplay-only player), SkinPeek es invisible para tú.
 
-Si solo querés stats, no skins, las otras tools (Tracker.gg, etc.) cubren eso. SkinPeek es niche.
+Si solo quieres stats, no skins, las otras tools (Tracker.gg, etc.) cubren eso. SkinPeek es niche.
 
-Si no usás Discord, perdés la mejor feature (bot notifications). La web sigue siendo útil pero menos compelling.
+Si no usas Discord, pierdes la mejor feature (bot notifications). La web sigue siendo útil pero menos compelling.
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `skinpeek.com` o agregás el bot a tu Discord (link en GitHub).
+1. Entras a `skinpeek.com` o agregas el bot a tu Discord (link en GitHub).
 2. Auth con cuenta Riot via OAuth (necesario para ver TU store, no shared).
-3. Configurás wishlist seleccionando skins que querés.
+3. Configuras wishlist seleccionando skins que quieres.
 4. Bot manda notification cuando una wishlisted skin aparece en tu daily store.
 5. Para night market: bot anuncia cuando empieza, mostrando lo que te tocó.
 
@@ -68,4 +68,4 @@ Si no usás Discord, perdés la mejor feature (bot notifications). La web sigue 
 
 ## Cómo empezar
 
-Si te interesan skins: agregá el bot a tu Discord server, configurá wishlist con 5-10 skins que querrías. En 1-2 semanas vas a ver el primer ping cuando una aparezca. Sin friction adicional. Si no usás Discord pero querés web viewer, la página `skinpeek.com` te lleva al mismo lookup.
+Si te interesan skins: agregá el bot a tu Discord server, configurá wishlist con 5-10 skins que querrías. En 1-2 semanas vas a ver el primer ping cuando una aparezca. Sin friction adicional. Si no usas Discord pero quieres web viewer, la página `skinpeek.com` te lleva al mismo lookup.

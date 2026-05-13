@@ -1,7 +1,7 @@
 ---
 title: "Tracker.gg CS2"
 description: "Sección dedicada a CS2 dentro de Tracker.gg, una plataforma multi-juego de stats y match history. Útil para players que también consumen otros tools de la red (Apex, Valorant, Fortnite, etc.)."
-quickTake: "El generalista del cluster. Si jugás varios títulos y querés un solo dashboard, Tracker.gg vale. Si solo jugás CS2 seriamente, los specialists (CS Stats, Leetify) son mejores opción."
+quickTake: "El generalista del cluster. Si juegas varios títulos y quieres un solo dashboard, Tracker.gg vale. Si solo juegas CS2 seriamente, los specialists (CS Stats, Leetify) son mejores opción."
 ---
 
 ## Qué es
@@ -24,7 +24,7 @@ La cobertura de CS2 específicamente no es la más profunda (eso lo cubren mejor
 
 **Lookup rápido de stats personales**: KDA, win rate, mapa más jugado, mejor arma. Mismo flujo que en otros juegos del catalog.
 
-**Comparar performance cross-game** (informalmente): aunque no hay scoring transversal, ver tu evolución en distintos juegos lado a lado es interesante para entender en cuál sos más consistente.
+**Comparar performance cross-game** (informalmente): aunque no hay scoring transversal, ver tu evolución en distintos juegos lado a lado es interesante para entender en cuál eres más consistente.
 
 **Leaderboards regionales**: como en otras tools del cluster, filtros por región/rank para curiosidad.
 
@@ -43,11 +43,11 @@ Tracker.gg para CS2 es excelente como generalist multi-juego pero no es:
 
 1. Vas a `tracker.gg/cs2`. La home tiene input para Steam ID o vanity URL.
 
-2. Pegás tu perfil y la página carga: overview con stats agregadas, últimas matches, breakdown por arma, mapa más jugado, mejores partidas.
+2. Pegas tu perfil y la página carga: overview con stats agregadas, últimas matches, breakdown por arma, mapa más jugado, mejores partidas.
 
 3. Tabs adicionales: **Performance** (rendimiento por arma y mapa), **History** (matches paginados), **Leaderboards** (ranking regional).
 
-4. Si jugás otros títulos del catalog, podés agregar perfiles de Apex/Valorant/Fortnite y verlos en el mismo dashboard.
+4. Si juegas otros títulos del catalog, puedes agregar perfiles de Apex/Valorant/Fortnite y verlos en el mismo dashboard.
 
 5. Tracker.gg tiene una browser extension oficial (Chrome/Firefox) que agrega overlays en el browser durante navegación de algunos sites — opcional, no requerido.
 
@@ -63,16 +63,16 @@ Tracker.gg para CS2 es excelente como generalist multi-juego pero no es:
 
 **Sin database de utility ni lineups**: foco está en stats personales, no en knowledge base. Para lineups, CSNADES.
 
-**Privacy típica de tools de stats**: tu perfil público de Steam queda visible, no podés "no aparecer" sin cambiar settings de Steam.
+**Privacy típica de tools de stats**: tu perfil público de Steam queda visible, no puedes "no aparecer" sin cambiar settings de Steam.
 
 ## Cómo empezar
 
 1. Vas a `tracker.gg/cs2`.
 
-2. Pegás tu Steam URL en el input principal.
+2. Pegas tu Steam URL en el input principal.
 
-3. Si ya usás Tracker.gg para otros juegos, login con tu cuenta existente para tener todo en un dashboard.
+3. Si ya usas Tracker.gg para otros juegos, login con tu cuenta existente para tener todo en un dashboard.
 
-4. Si solo jugás CS2 seriamente: CS Stats probablemente te sirve mejor como tracker simple, y Leetify/scope.gg para análisis profundo. Tracker.gg tiene sentido principalmente si valorás el ecosistema multi-juego.
+4. Si solo juegas CS2 seriamente: CS Stats probablemente te sirve mejor como tracker simple, y Leetify/scope.gg para análisis profundo. Tracker.gg tiene sentido principalmente si valoras el ecosistema multi-juego.
 
 5. Si la versión free te molesta por ads, Premium (~5 USD/mes) las quita y agrega features de history extendida.

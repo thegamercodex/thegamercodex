@@ -1,7 +1,7 @@
 ---
 title: "Probuild.gg"
 description: "Sitio de builds de jugadores profesionales de League of Legends con UX moderno, presentación visual limpia y experiencia mobile cuidada. Alternativa contemporánea a Probuilds.net."
-quickTake: "Si la función que buscás es 'ver builds de pros' pero la UX legacy de Probuilds.net te frustra, Probuild.gg cubre lo mismo con presentación moderna. Roster de pros tracked más chico, pero suficiente para uso casual y mobile-friendly por defecto."
+quickTake: "Si la función que buscas es 'ver builds de pros' pero la UX legacy de Probuilds.net te frustra, Probuild.gg cubre lo mismo con presentación moderna. Roster de pros tracked más chico, pero suficiente para uso casual y mobile-friendly por defecto."
 ---
 
 ## Qué es
@@ -22,9 +22,9 @@ Ver la sección "La diferencia con Probuild.gg" en Probuilds.net para el compara
 
 ## Para qué la usa la gente
 
-**Consultar builds de pros desde mobile**: caso de uso más distintivo. La experiencia mobile de Probuild.gg es la mejor del nicho probuilds, lo cual importa cuando consultás entre partidas o en el celular durante stream.
+**Consultar builds de pros desde mobile**: caso de uso más distintivo. La experiencia mobile de Probuild.gg es la mejor del nicho probuilds, lo cual importa cuando consultas entre partidas o en el celular durante stream.
 
-**Lookup rápido por champion**: buscás un champion, ves las builds más recientes en cards limpias con runas e items presentados visualmente. Sin scroll horizontal ni layouts incómodos.
+**Lookup rápido por champion**: buscas un champion, ves las builds más recientes en cards limpias con runas e items presentados visualmente. Sin scroll horizontal ni layouts incómodos.
 
 **Browse casual del meta competitivo**: la presentación visual hace que sea más cómodo "explorar" qué están construyendo pros en distintos roles, sin objetivo específico.
 
@@ -32,18 +32,18 @@ Ver la sección "La diferencia con Probuild.gg" en Probuilds.net para el compara
 
 ## Para quién NO es esta herramienta
 
-Probuild.gg es excelente para uso casual y mobile, pero no es lo que necesitás si:
+Probuild.gg es excelente para uso casual y mobile, pero no es lo que necesitas si:
 
-- **Querés el roster más completo de pros tracked** → Probuilds.net tiene más jugadores indexados, especialmente de academias y ligas secundarias.
-- **Querés profundidad histórica de builds** → Probuilds.net retiene histórico más largo; Probuild.gg prioriza partidas recientes.
-- **Querés builds optimizadas para tu rango específico** → U.GG / Lolalytics agregan por rango, lo cual es más representativo que copiar builds de Challenger.
-- **Querés análisis estadístico de por qué la build funciona** → Lolalytics descompone win rate por opción; Probuild.gg solo muestra qué construyeron.
+- **Quieres el roster más completo de pros tracked** → Probuilds.net tiene más jugadores indexados, especialmente de academias y ligas secundarias.
+- **Quieres profundidad histórica de builds** → Probuilds.net retiene histórico más largo; Probuild.gg prioriza partidas recientes.
+- **Quieres builds optimizadas para tu rango específico** → U.GG / Lolalytics agregan por rango, lo cual es más representativo que copiar builds de Challenger.
+- **Quieres análisis estadístico de por qué la build funciona** → Lolalytics descompone win rate por opción; Probuild.gg solo muestra qué construyeron.
 
 ## Cómo se usa en la práctica
 
 1. Vas a `probuild.gg`. Sin login.
 
-2. Buscás un champion (o navegás por la grilla con cards visuales).
+2. Buscas un champion (o navegas por la grilla con cards visuales).
 
 3. La página muestra cards con builds recientes de pros: nombre del pro, equipo, items en orden, runas, summoner spells y duración de la partida. Cada card es independiente y legible sin tener que abrir vista de detalle.
 
@@ -55,11 +55,11 @@ Para uso recurrente: bookmarkeá la URL de tu champion main. La experiencia de "
 
 ## Limitaciones honestas
 
-**Roster de pros tracked más chico**: Probuilds.net indexa más jugadores históricamente. Si buscás pros menos mainstream o de academias, Probuild.gg puede no tenerlos.
+**Roster de pros tracked más chico**: Probuilds.net indexa más jugadores históricamente. Si buscas pros menos mainstream o de academias, Probuild.gg puede no tenerlos.
 
 **Profundidad histórica limitada**: prioriza partidas recientes, no retiene histórico extendido. Para tracking de evolución de un pro a lo largo del tiempo, Probuilds.net es más completo.
 
-**Sin filtros avanzados**: no podés filtrar por jugador específico (ej: "ver solo partidas de Faker") con la profundidad que ofrece Probuilds.net.
+**Sin filtros avanzados**: no puedes filtrar por jugador específico (ej: "ver solo partidas de Faker") con la profundidad que ofrece Probuilds.net.
 
 **Anuncios visibles aunque más livianos**: la densidad de ads es menor que en Probuilds.net pero existe. Tier free no implica zero ads.
 
@@ -69,10 +69,10 @@ Para uso recurrente: bookmarkeá la URL de tu champion main. La experiencia de "
 
 1. Vas a `probuild.gg`. Sin registro.
 
-2. Buscá tu champion main. Mirá las últimas builds de pros en formato card — la presentación es directa, no hace falta navegar.
+2. Busca tu champion main. Mira las últimas builds de pros en formato card — la presentación es directa, no hace falta navegar.
 
 3. Si vas a usar la tool desde mobile (ej: entre partidas o en el celular durante stream), confirmá que el responsive te resulta cómodo. Es probablemente su feature más distintiva vs Probuilds.net.
 
-4. Para uso sistemático de tracking de meta competitivo en patches nuevos, considerá tener ambas tools abiertas — Probuild.gg para vista limpia rápida, Probuilds.net para data más completa.
+4. Para uso sistemático de tracking de meta competitivo en patches nuevos, considera tener ambas tools abiertas — Probuild.gg para vista limpia rápida, Probuilds.net para data más completa.
 
-5. No copies builds ciegamente sin entender por qué — complementá con análisis editorial (Lolalytics para el porqué estadístico, guías de coaches para el porqué táctico) si querés aplicar la build a tu propio rango.
+5. No copies builds ciegamente sin entender por qué — complementá con análisis editorial (Lolalytics para el porqué estadístico, guías de coaches para el porqué táctico) si quieres aplicar la build a tu propio rango.

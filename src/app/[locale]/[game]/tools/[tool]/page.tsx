@@ -10,6 +10,7 @@ import {
   ChevronRight,
   Code2,
   Layers,
+  Scale,
   Star,
 } from "lucide-react";
 import { Link } from "@/i18n/navigation";
@@ -19,6 +20,7 @@ import { ScreenshotGallery } from "@/components/ScreenshotGallery";
 import { ShareButtons } from "@/components/ShareButtons";
 import { absoluteUrl } from "@/lib/site";
 import {
+  getComparisons,
   getGame,
   getGameIds,
   getTool,
@@ -99,12 +101,13 @@ export default async function ToolPage({ params }: PageParams) {
   setRequestLocale(locale);
   const loc = locale as Locale;
 
-  let game, tool, sameGameTools;
+  let game, tool, sameGameTools, allComparisons;
   try {
-    [game, tool, sameGameTools] = await Promise.all([
+    [game, tool, sameGameTools, allComparisons] = await Promise.all([
       getGame(gameId),
       getTool(gameId, toolId),
       getTools(gameId),
+      getComparisons(gameId),
     ]);
   } catch {
     notFound();
@@ -176,6 +179,20 @@ export default async function ToolPage({ params }: PageParams) {
     );
     multiGameLinks = enriched;
   }
+
+  const toolComparisons = allComparisons
+    .map((c) => {
+      if (!c.toolIds.includes(tool.id)) return null;
+      const otherId = c.toolIds.find((id) => id !== tool.id);
+      if (!otherId) return null;
+      const otherTool = toolMap.get(otherId);
+      if (!otherTool) return null;
+      return { comparison: c, otherTool };
+    })
+    .filter(
+      (x): x is { comparison: (typeof allComparisons)[number]; otherTool: Tool } =>
+        x !== null,
+    );
 
   const accentVar = "var(--game-accent)";
   const shareUrl = absoluteUrl(`/${loc}/${game.id}/tools/${tool.id}`);
@@ -324,6 +341,40 @@ export default async function ToolPage({ params }: PageParams) {
 
       <div className="grid gap-12 lg:grid-cols-[1fr_300px]">
         <article className="min-w-0">
+          {toolComparisons.length > 0 && (
+            <div className="mb-8 rounded-lg border border-border bg-muted/30 px-4 py-3">
+              <div className="mb-2 flex items-center gap-2">
+                <Scale
+                  aria-hidden
+                  className="h-4 w-4 shrink-0"
+                  style={{ color: accentVar }}
+                />
+                <span className="text-xs font-semibold uppercase tracking-[0.2em] text-foreground-subtle">
+                  {t("comparisonsHeading")}
+                </span>
+              </div>
+              <ul className="flex flex-wrap gap-2">
+                {toolComparisons.map(({ comparison, otherTool }) => (
+                  <li key={comparison.id}>
+                    <Link
+                      href={`/${game.id}/compare/${comparison.id}`}
+                      className="inline-flex items-center gap-1.5 rounded-full border border-border bg-background px-3 py-1 text-sm font-medium text-foreground transition-colors hover:border-[var(--game-accent)]/60 hover:bg-muted"
+                    >
+                      <span>
+                        {tool.name}
+                        <span className="px-1 text-foreground-subtle">vs</span>
+                        {otherTool.name}
+                      </span>
+                      <ArrowUpRight
+                        className="h-3 w-3 shrink-0 text-foreground-subtle"
+                      />
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
           {quickTake && (
             <aside
               className="mb-8 rounded-xl border-l-4 bg-muted/40 p-5"
@@ -495,6 +546,35 @@ export default async function ToolPage({ params }: PageParams) {
                   </span>
                 ))}
               </div>
+            </div>
+          )}
+
+          {toolComparisons.length > 0 && (
+            <div className="mt-6">
+              <p className="mb-2 text-[10px] font-semibold uppercase tracking-[0.25em] text-muted-foreground">
+                {t("comparisonsHeading")}
+              </p>
+              <ul className="flex flex-col gap-1.5">
+                {toolComparisons.map(({ comparison, otherTool }) => (
+                  <li key={comparison.id}>
+                    <Link
+                      href={`/${game.id}/compare/${comparison.id}`}
+                      className="group flex items-center gap-2 rounded-md border border-border bg-muted/40 px-3 py-2 text-sm transition-colors hover:bg-muted"
+                    >
+                      <Scale
+                        aria-hidden
+                        className="h-3.5 w-3.5 shrink-0 text-foreground-subtle"
+                      />
+                      <span className="min-w-0 flex-1 truncate">
+                        {tool.shortName ?? tool.name}
+                        <span className="px-1 text-foreground-subtle">vs</span>
+                        {otherTool.shortName ?? otherTool.name}
+                      </span>
+                      <ArrowUpRight className="h-3 w-3 shrink-0 text-foreground-subtle transition-colors group-hover:text-foreground" />
+                    </Link>
+                  </li>
+                ))}
+              </ul>
             </div>
           )}
 

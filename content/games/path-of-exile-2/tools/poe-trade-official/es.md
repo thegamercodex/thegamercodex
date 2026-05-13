@@ -18,9 +18,9 @@ Es el único endpoint canónico. poe.ninja, Exiled Exchange 2 y cualquier otra h
 
 ## Diferenciación
 
-Frente a Exiled Exchange 2 (overlay para queries rápidas), el sitio oficial gana en precision para queries complejas — buscás un item con 5 mods específicos, ranges custom, sockets exactos, y el sitio te lo permite. EE2 es más rápido pero cubre cases más simples.
+Frente a Exiled Exchange 2 (overlay para queries rápidas), el sitio oficial gana en precision para queries complejas — buscas un item con 5 mods específicos, ranges custom, sockets exactos, y el sitio te lo permite. EE2 es más rápido pero cubre cases más simples.
 
-Frente a poe.ninja (panorámica de economía), el sitio oficial es transaccional puro: no te da históricos ni tendencias, te da listings activos ahora. Combinás los tres: poe.ninja para entender el mercado, sitio oficial para hacer la transacción, EE2 para acelerar el flow durante mapeo.
+Frente a poe.ninja (panorámica de economía), el sitio oficial es transaccional puro: no te da históricos ni tendencias, te da listings activos ahora. Combinas los tres: poe.ninja para entender el mercado, sitio oficial para hacer la transacción, EE2 para acelerar el flow durante mapeo.
 
 ## Para qué la usa la gente
 
@@ -32,43 +32,43 @@ Frente a poe.ninja (panorámica de economía), el sitio oficial es transaccional
 
 **Investigar mercados nicho**: para uniques específicos o crafted con mod combinations exóticas, ver listings activos te dice si hay liquidity o si vas a estar listing por semanas.
 
-**Verificar precios antes de craftear**: si vas a invertir 50 Exalted en crafting, querés saber qué se está vendiendo el resultado. El sitio te muestra real listings, no estimaciones.
+**Verificar precios antes de craftear**: si vas a invertir 50 Exalted en crafting, quieres saber qué se está vendiendo el resultado. El sitio te muestra real listings, no estimaciones.
 
 ## Para quién NO es esta herramienta
 
-Si jugás SSF, el trade site es irrelevante — no podés trade. La hard lockout aplica.
+Si juegas SSF, el trade site es irrelevante — no puedes trade. La hard lockout aplica.
 
-Si solo querés "el precio aproximado" de algo y no estás transaccionando, poe.ninja es más rápido y muestra histórico. El trade oficial es para hacer la operación, no para observar el mercado.
+Si solo quieres "el precio aproximado" de algo y no estás transaccionando, poe.ninja es más rápido y muestra histórico. El trade oficial es para hacer la operación, no para observar el mercado.
 
-Si recién empezás y no entendés qué mods son relevantes para tu build, el trade te va a frustrar — vas a poder buscar pero no sabrás qué filtros poner. Conviene primero seguir una guía que te diga qué mods importan, después usar trade.
+Si recién empiezas y no entiendes qué mods son relevantes para tu build, el trade te va a frustrar — vas a poder buscar pero no sabrás qué filtros poner. Conviene primero seguir una guía que te diga qué mods importan, después usar trade.
 
 ## Cómo se usa en la práctica
 
-1. Vas a `pathofexile.com/trade2` y logueás con tu cuenta del forum.
-2. Seleccionás liga (Standard, current league, SSF si corresponde) en el dropdown superior.
-3. Para search: ingresás item base (ej: "Vaal Regalia") y agregás filtros (item level, mods, sockets). El sitio devuelve matches en vivo.
-4. Click en un listing → "Whisper" copia un mensaje al clipboard. Pegás in-game (chat) y mandás el whisper al seller.
-5. El seller te invita a su hideout, hacés el trade in-game, confirmás.
-6. Para bulk: tab `/exchange`. Seleccionás currency tienes / currency querés, ratio mínimo, monto. El sitio te lista bulk listings.
+1. Vas a `pathofexile.com/trade2` y logueas con tu cuenta del forum.
+2. Seleccionas liga (Standard, current league, SSF si corresponde) en el dropdown superior.
+3. Para search: ingresas item base (ej: "Vaal Regalia") y agregas filtros (item level, mods, sockets). El sitio devuelve matches en vivo.
+4. Click en un listing → "Whisper" copia un mensaje al clipboard. Pegas in-game (chat) y mandas el whisper al seller.
+5. El seller te invita a su hideout, haces el trade in-game, confirmas.
+6. Para bulk: tab `/exchange`. Seleccionas currency tienes / currency quieres, ratio mínimo, monto. El sitio te lista bulk listings.
 
 ## Limitaciones honestas
 
 **Búsqueda strict por defecto**. PoE 2 Trade defaults a fuzzy más estricto que PoE 1. Si tu query no devuelve nada, agregar un tilde (~) al inicio del nombre fuerza fuzzy mode. Tip que los newcomers desconocen.
 
-**Whisper no garantiza venta**. El seller puede ignorarte, estar afk, o haber vendido el item ya. Sin auction house instantáneo, frustrar a buyers es free para sellers. Probá múltiples listings cuando lo necesités urgent.
+**Whisper no garantiza venta**. El seller puede ignorarte, estar afk, o haber vendido el item ya. Sin auction house instantáneo, frustrar a buyers es free para sellers. Prueba múltiples listings cuando lo necesites urgent.
 
-**Rate limits agresivos**. Si abrís muchos listings rápido, el sitio te tira temporary lock. Es el mecanismo de GGG para evitar bots — afecta a humanos legítimos también ocasionalmente.
+**Rate limits agresivos**. Si abres muchos listings rápido, el sitio te tira temporary lock. Es el mecanismo de GGG para evitar bots — afecta a humanos legítimos también ocasionalmente.
 
-**No hay reputation de sellers en el sitio**. No sabés si el seller es serio o re-sells fakes. Las protecciones del juego (verificación in-game) reducen el riesgo, pero no lo eliminan.
+**No hay reputation de sellers en el sitio**. No sabes si el seller es serio o re-sells fakes. Las protecciones del juego (verificación in-game) reducen el riesgo, pero no lo eliminan.
 
 **UI funcional, no moderna**. Dense, mucha información, navegación que premia familiaridad. La curva inicial es áspera.
 
-**El cliente in-game tiene shortcut limitado**. Podés invocar `/trade` in-game pero abre browser externo — no es overlay nativo. Para overlay nativo, Exiled Exchange 2.
+**El cliente in-game tiene shortcut limitado**. Puedes invocar `/trade` in-game pero abre browser externo — no es overlay nativo. Para overlay nativo, Exiled Exchange 2.
 
 ## Cómo empezar
 
-No requiere registro adicional al de PoE — usás tu cuenta del forum. La primera vez que intentés trade, el flow es: encontrar el item en el sitio, click whisper, pegar in-game, esperar invitación, confirmar trade.
+No requiere registro adicional al de PoE — usas tu cuenta del forum. La primera vez que intentes trade, el flow es: encontrar el item en el sitio, click whisper, pegar in-game, esperar invitación, confirmar trade.
 
-Tip de productividad: configurá tus stash tabs como premium (paid) para listar. El sitio espera que uses premium tabs — es la fricción intencional de GGG para monetizar trade. Sin premium tabs, no podés vender (solo comprar).
+Tip de productividad: configurá tus stash tabs como premium (paid) para listar. El sitio espera que uses premium tabs — es la fricción intencional de GGG para monetizar trade. Sin premium tabs, no puedes vender (solo comprar).
 
-Para integrarlo: lo abrís cuando vas a comprar gear específico o cuando termina una sesión y querés listar drops. Para queries rapidísimas en mapeo, Exiled Exchange 2 es más eficiente. El sitio oficial es para operaciones más planificadas.
+Para integrarlo: lo abres cuando vas a comprar gear específico o cuando termina una sesión y quieres listar drops. Para queries rapidísimas en mapeo, Exiled Exchange 2 es más eficiente. El sitio oficial es para operaciones más planificadas.

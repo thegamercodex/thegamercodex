@@ -1,7 +1,7 @@
 ---
 title: "Maxroll PoE 2"
 description: "Hub editorial de Maxroll dedicado a Path of Exile 2: guías de builds, planners de árbol pasivo y atlas, y guías de campaña."
-quickTake: "Si querés una referencia escrita y mantenida — guías de builds curadas, planners web pulidos, leveling guides paso a paso — Maxroll PoE 2 es el primer link que abrís. Ahorra horas de buscar en Reddit y Discord."
+quickTake: "Si quieres una referencia escrita y mantenida — guías de builds curadas, planners web pulidos, leveling guides paso a paso — Maxroll PoE 2 es el primer link que abres. Ahorra horas de buscar en Reddit y Discord."
 ---
 
 ## Qué es
@@ -14,7 +14,7 @@ A diferencia de wikis colaborativas, Maxroll tiene editorial line: cada guía es
 
 PoE 2 es complejo y la información canónica se reparte entre el sitio oficial (escaso en docs), reddit (caótico), Discord (efímero) y videos de creators (no searchables). Para un player que arranca o vuelve a la liga y necesita "una build sólida que sé que funciona" o "qué hago primero en endgame", buscar entre fuentes lleva horas.
 
-Maxroll concentra eso en un sitio editado y consistentemente formateado. Una build guide en Maxroll incluye gear progression, gem links, passive tree con priority order, atlas tree y budget tier — todo lo que necesitás para correr la build de campaña a mid-tier endgame sin tener que saltar entre 5 fuentes.
+Maxroll concentra eso en un sitio editado y consistentemente formateado. Una build guide en Maxroll incluye gear progression, gem links, passive tree con priority order, atlas tree y budget tier — todo lo que necesitas para correr la build de campaña a mid-tier endgame sin tener que saltar entre 5 fuentes.
 
 ## Diferenciación
 
@@ -28,7 +28,7 @@ Frente a poe.ninja (que da data agregada sin opinión), Maxroll es la versión o
 
 **Seguir una build paso a paso**: cada guía top tiene secciones de gear progression (qué buscar en cada act), gem links iniciales y mid-game, passive tree con leveling order. Esto baja la curva para players que no quieren theory-craft.
 
-**Plannear atlas tree**: Maxroll tiene atlas planner web (`maxroll.gg/poe2/atlas-tree`) propio donde podés diseñar y compartir tu tree sin instalar nada.
+**Plannear atlas tree**: Maxroll tiene atlas planner web (`maxroll.gg/poe2/atlas-tree`) propio donde puedes diseñar y compartir tu tree sin instalar nada.
 
 **Leveling guides de campaña**: la guía comprehensive de league-start cubre Acts 1-4 e Interludes, con permanent rewards, hidden caches, optimal pathing — útil tanto para fresh start como para alts.
 
@@ -36,15 +36,15 @@ Frente a poe.ninja (que da data agregada sin opinión), Maxroll es la versión o
 
 ## Para quién NO es esta herramienta
 
-Si buscás builds nicho o experimentales, Maxroll va a ser conservador — su editorial line favorece builds testeadas y replicables, no la última creación weird de un theory-crafter. Para eso son mejor reddit, Discord o creators específicos.
+Si buscas builds nicho o experimentales, Maxroll va a ser conservador — su editorial line favorece builds testeadas y replicables, no la última creación weird de un theory-crafter. Para eso son mejor reddit, Discord o creators específicos.
 
-Si necesitás data primaria (mod weights, exact damage formulas, drop rates), Maxroll no es el sitio. Para eso van poedb / poe2db. Maxroll usa esa data, pero presenta conclusions, no underlying tables.
+Si necesitas data primaria (mod weights, exact damage formulas, drop rates), Maxroll no es el sitio. Para eso van poedb / poe2db. Maxroll usa esa data, pero presenta conclusions, no underlying tables.
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `maxroll.gg/poe2`. La home destaca el patch vigente y las builds top de league start.
+1. Entras a `maxroll.gg/poe2`. La home destaca el patch vigente y las builds top de league start.
 2. Tier List (`/builds`) te ranquea builds por categoría: SSF-friendly, league-start, endgame-meta, etc. Un click te lleva a la guía completa.
-3. Cualquier build guide tiene navegación lateral: Overview → Skills → Gear → Passive Tree → Atlas → Endgame. Leés en orden si arrancás la build, salteás secciones si ya estás avanzado.
+3. Cualquier build guide tiene navegación lateral: Overview → Skills → Gear → Passive Tree → Atlas → Endgame. Lees en orden si arrancas la build, salteas secciones si ya estás avanzado.
 4. Al final de cada guide está el PoB import code o link, listo para abrir en Path of Building.
 5. El planner de atlas tree es web-app independiente — usable para sharing builds vía URL.
 
@@ -56,12 +56,12 @@ Si necesitás data primaria (mod weights, exact damage formulas, drop rates), Ma
 
 **El sitio tiene ads y newsletter prompts**. Es free, monetiza con display ads y email captures. No invasivo pero sí presente.
 
-**Dependés de la cadencia editorial del equipo**. Cuando una build se nerfea mid-league, puede haber lag entre el nerf y el update de la guía. Maxroll generalmente actualiza en días, pero no es instantáneo.
+**Dependes de la cadencia editorial del equipo**. Cuando una build se nerfea mid-league, puede haber lag entre el nerf y el update de la guía. Maxroll generalmente actualiza en días, pero no es instantáneo.
 
 **Cobertura amplia ≠ profundidad infinita**. No todas las clases reciben el mismo nivel de detalle. Las clases más populares (típicamente Witch, Monk en PoE 2) tienen más builds; otras pueden estar bajo-cubiertas.
 
 ## Cómo empezar
 
-No requiere registro. Vas a `maxroll.gg/poe2`. Si arrancás un personaje, abrí la Tier List y ordenás por "Best League Start" o "Best for Beginners". Lees la guía top-to-bottom una vez antes de jugar; tenés la pestaña abierta mientras levelás para consultas rápidas.
+No requiere registro. Vas a `maxroll.gg/poe2`. Si arrancas un personaje, abre la Tier List y ordenas por "Best League Start" o "Best for Beginners". Lees la guía top-to-bottom una vez antes de jugar; tienes la pestaña abierta mientras levelas para consultas rápidas.
 
-Para integrarlo a tu workflow: bookmarkeá la sección de builds de tu clase favorita y revisás cada vez que cambia la liga. Maxroll no necesita visita diaria — su valor es como referencia editada, no como timeline.
+Para integrarlo a tu workflow: bookmarkeá la sección de builds de tu clase favorita y revisas cada vez que cambia la liga. Maxroll no necesita visita diaria — su valor es como referencia editada, no como timeline.

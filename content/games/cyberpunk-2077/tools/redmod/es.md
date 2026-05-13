@@ -14,7 +14,7 @@ A diferencia de los frameworks comunitarios (CET, RED4ext), REDmod no inyecta c�
 
 Antes de REDmod, modear Cyberpunk 2077 implicaba inyectar DLLs (CET, RED4ext) — funciona, pero requiere que la comunidad mantenga compatibilidad post-patch, y técnicamente disables algunos achievements. Para users casuales que quieren mods simples sin frameworks comunitarios, eso es overhead.
 
-REDmod resuelve eso ofreciendo un canal oficial: descargás el toolkit gratis, instalas mods compatibles, los activas desde el launcher y juega. CDPR garantiza que la stack REDmod sigue funcionando a través de updates.
+REDmod resuelve eso ofreciendo un canal oficial: descargas el toolkit gratis, instalas mods compatibles, los activas desde el launcher y juega. CDPR garantiza que la stack REDmod sigue funcionando a través de updates.
 
 ## Diferenciación
 
@@ -42,10 +42,10 @@ Si tu mod requiere hookear funciones del engine (espías scripts, intercepta eve
 
 ## Cómo se usa en la práctica
 
-1. Descargás REDmod desde Steam / GOG / Epic como DLC gratuito (lo encuentras en el store page del juego como "REDmod").
+1. Descargas REDmod desde Steam / GOG / Epic como DLC gratuito (lo encuentras en el store page del juego como "REDmod").
 2. Después de instalado, abres el launcher de Cyberpunk 2077: aparecen dos opciones — "Play" y "Play with mods". La segunda activa el flow de REDmod.
 3. Mods compatibles con REDmod se instalan en `mods\` dentro de la carpeta del juego.
-4. Cuando ejecutás "Play with mods", REDmod corre un paso de deployment (compila scripts, mergea archives) antes de levantar el juego.
+4. Cuando ejecutas "Play with mods", REDmod corre un paso de deployment (compila scripts, mergea archives) antes de levantar el juego.
 5. Si todo va bien, el juego carga con los mods aplicados. Si hay errores de deployment, REDmod muestra logs explicando qué mod falló.
 
 ## Limitaciones honestas

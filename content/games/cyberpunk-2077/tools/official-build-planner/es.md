@@ -43,7 +43,7 @@ Si estás en un build muy meta-específico (Sandevistan Edgerunner clones de Red
 ## Cómo se usa en la práctica
 
 1. Vas a `cyberpunk.net/en/build-planner` — la página carga en inglés por default; el menú de idioma está abajo (incluye español).
-2. Eligís nivel target (60 base, +20 perk points con Phantom Liberty = 80 máx).
+2. Eliges nivel target (60 base, +20 perk points con Phantom Liberty = 80 máx).
 3. Distribuyes puntos de atributo entre Body, Reflexes, Technical Ability, Intelligence, Cool. El planner respeta el cap (~20 por atributo).
 4. Haces clic en perks de cada árbol; los que requieren mayor atributo se desbloquean al subir el slider.
 5. Si activas Phantom Liberty, agregas puntos al Relic Skill Tree (Sensory Amplifier, Vulnerability Analytics, etc.).

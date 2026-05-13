@@ -1,7 +1,7 @@
 ---
 title: "Lolalytics"
 description: "Plataforma de análisis estadístico granular para League of Legends, con breakdowns por matchup, patch, rango, duración de partida y composición de equipo. Foco en transparencia metodológica."
-quickTake: "La tool con la data más granular y la metodología más transparente del ecosistema. Si querés saber el porqué estadístico detrás de una build —no solo qué construir— Lolalytics es la indicada. Densa, no apta para uso casual."
+quickTake: "La tool con la data más granular y la metodología más transparente del ecosistema. Si quieres saber el porqué estadístico detrás de una build —no solo qué construir— Lolalytics es la indicada. Densa, no apta para uso casual."
 ---
 
 ## Qué es
@@ -26,15 +26,15 @@ Lolalytics y League of Graphs son las dos tools "stats nerd" del ecosistema. Cub
 
 **League of Graphs**: foco en **profundidad histórica y agregados de larga duración**. Tiene gráficos de evolución multi-patch, leaderboards de records (matches más largos, más kills, etc.), y stats curiosas/pedagógicas (por ejemplo: probabilidad de conseguir Pentakill por champion). Más amigable visualmente, pero menos enfocado en theorycrafting de patch actual.
 
-Si querés decisiones tácticas para el patch que se está jugando ahora, Lolalytics. Si querés entender tendencias largas, comparativas históricas y curiosidades estadísticas, League of Graphs. Para theorycrafting completo, conviene tener ambas abiertas.
+Si quieres decisiones tácticas para el patch que se está jugando ahora, Lolalytics. Si quieres entender tendencias largas, comparativas históricas y curiosidades estadísticas, League of Graphs. Para theorycrafting completo, conviene tener ambas abiertas.
 
 ## Para qué la usa la gente
 
-**Análisis de matchup profundo**: caso de uso central para jugadores serios de un main. Comparás tu pick vs un oponente específico y obtenés breakdown por timing, composición, runa y build elegida — no solo el win rate plano.
+**Análisis de matchup profundo**: caso de uso central para jugadores serios de un main. Comparas tu pick vs un oponente específico y obtienes breakdown por timing, composición, runa y build elegida — no solo el win rate plano.
 
 **Evaluar cambios de patch**: cuando sale un patch nuevo, Lolalytics es la primera tool que muestra los deltas reales — qué champion subió o bajó win rate respecto al patch anterior, qué item cambió de presence rate, qué runas se reconfiguraron.
 
-**Theorycrafting de runas no-meta**: si querés probar una runa secundaria fuera del consenso, Lolalytics te muestra el sample size y win rate asociado. Te permite distinguir entre "nadie la usa porque es mala" y "nadie la usa pero rinde".
+**Theorycrafting de runas no-meta**: si quieres probar una runa secundaria fuera del consenso, Lolalytics te muestra el sample size y win rate asociado. Te permite distinguir entre "nadie la usa porque es mala" y "nadie la usa pero rinde".
 
 **Validar builds situacionales**: para champions con builds altamente situacionales (ej: tanks con item path variable según comp enemiga), Lolalytics descompone el win rate por opción tomada, no solo por la "build core" agregada.
 
@@ -42,16 +42,16 @@ Si querés decisiones tácticas para el patch que se está jugando ahora, Lolaly
 
 ## Para quién NO es esta herramienta
 
-Lolalytics es excelente para análisis profundo, pero no es lo que necesitás si:
+Lolalytics es excelente para análisis profundo, pero no es lo que necesitas si:
 
-- **Querés una guía de build rápida sin friccionar con stats** → U.GG es más limpio y directo, te dice qué construir sin hacerte digerir la justificación estadística.
-- **Querés match history personal y scouting** → OP.GG es más cómodo, Lolalytics no se centra en perfiles de summoner.
-- **Querés coaching o framework de mejora** → Mobalytics tiene el GPI, Lolalytics no entra en ese terreno.
-- **Sos beginner** → la densidad de información puede abrumar. Empezá con U.GG/OP.GG y migrá a Lolalytics cuando ya tengas vocabulario para leer los breakdowns.
+- **Quieres una guía de build rápida sin friccionar con stats** → U.GG es más limpio y directo, te dice qué construir sin hacerte digerir la justificación estadística.
+- **Quieres match history personal y scouting** → OP.GG es más cómodo, Lolalytics no se centra en perfiles de summoner.
+- **Quieres coaching o framework de mejora** → Mobalytics tiene el GPI, Lolalytics no entra en ese terreno.
+- **Eres beginner** → la densidad de información puede abrumar. Empieza con U.GG/OP.GG y migrá a Lolalytics cuando ya tengas vocabulario para leer los breakdowns.
 
 ## Cómo se usa en la práctica
 
-1. Vas a `lolalytics.com` y buscás un champion (o navegás por la tier list general).
+1. Vas a `lolalytics.com` y buscas un champion (o navegas por la tier list general).
 
 2. Selección de rol y filtros iniciales: rango (Platinum+, Diamond+, Master+), patch específico (default = patch actual).
 
@@ -67,7 +67,7 @@ Para uso recurrente: bookmarkeá las URLs de tu main y de los matchups más frec
 
 ## Limitaciones honestas
 
-**Curva de aprendizaje pronunciada**: la interfaz no perdona — si no sabés qué estás mirando, te perdés. Toma 1-2 sesiones de uso para internalizar la disposición.
+**Curva de aprendizaje pronunciada**: la interfaz no perdona — si no sabes qué estás mirando, te pierdes. Toma 1-2 sesiones de uso para internalizar la disposición.
 
 **UX denso, no optimizado para mobile**: Lolalytics está claramente diseñado para desktop. En mobile la experiencia es pobre, con tablas que requieren scroll horizontal y filtros incómodos.
 
@@ -75,18 +75,18 @@ Para uso recurrente: bookmarkeá las URLs de tu main y de los matchups más frec
 
 **Cobertura desigual de regiones más chicas**: como op.gg / U.GG, los datasets de KR/NA/EUW son enormes y confiables; en LAS/LAN/OCE/BR los stats por matchup pueden tener baja confianza estadística (sample size chico).
 
-**Sin perfil personal denso**: si querés ver tu propio histórico estilo OP.GG, Lolalytics no es la opción. Su valor está en el análisis agregado, no en el perfil individual.
+**Sin perfil personal denso**: si quieres ver tu propio histórico estilo OP.GG, Lolalytics no es la opción. Su valor está en el análisis agregado, no en el perfil individual.
 
 ## Cómo empezar
 
 1. Vas a `lolalytics.com`. Sin login, sin instalación.
 
-2. Buscá tu champion main y el rol que jugás. Configurá el filtro de rango (probá con tu rango real para data más representativa).
+2. Busca tu champion main y el rol que juegas. Configurá el filtro de rango (prueba con tu rango real para data más representativa).
 
-3. Pasá 5 minutos explorando las pestañas: Build, Matchups, Runes, Skills, Stats. Cada una tiene su propio nivel de profundidad.
+3. Pasa 5 minutos explorando las pestañas: Build, Matchups, Runes, Skills, Stats. Cada una tiene su propio nivel de profundidad.
 
-4. Para cada uno de tus 3 matchups más frecuentes (los oponentes que ves más seguido), abrí la vista detallada y notá el breakdown por timing — eso te da intuición sobre cuándo pelear y cuándo evitar.
+4. Para cada uno de tus 3 matchups más frecuentes (los oponentes que ves más seguido), abre la vista detallada y notá el breakdown por timing — eso te da intuición sobre cuándo pelear y cuándo evitar.
 
-5. Cuando salga un patch nuevo, volvé a la sección Patch Notes Analysis para ver qué cambió en tu pick y en sus matchups principales antes de jugar la primera ranked del patch.
+5. Cuando salga un patch nuevo, vuelve a la sección Patch Notes Analysis para ver qué cambió en tu pick y en sus matchups principales antes de jugar la primera ranked del patch.
 
-6. Si la densidad te abruma, empezá con U.GG y volvé a Lolalytics cuando quieras profundizar en un matchup específico.
+6. Si la densidad te abruma, empieza con U.GG y vuelve a Lolalytics cuando quieras profundizar en un matchup específico.

@@ -12,9 +12,9 @@ Cubre todas las actividades cooperativas que requieren más de 3 jugadores (raid
 
 ## Qué problema resuelve
 
-LFG instantáneo (in-game Fireteam Finder, app Companion, sub-r/destiny2lfg) tiene un problema: depende de que los 6 jugadores estén disponibles ahora. Para adultos con vida fuera del juego, ahora rara vez funciona — necesitás coordinar con anticipación.
+LFG instantáneo (in-game Fireteam Finder, app Companion, sub-r/destiny2lfg) tiene un problema: depende de que los 6 jugadores estén disponibles ahora. Para adultos con vida fuera del juego, ahora rara vez funciona — necesitas coordinar con anticipación.
 
-The100.io resuelve eso con scheduling: posteás "Raid Vow of the Disciple, jueves 8pm ET, looking for 5", los aplicantes saben exactamente cuándo es y se comprometen. Cuando llega la hora, el fireteam ya está armado y todos saben con quién juegan.
+The100.io resuelve eso con scheduling: posteas "Raid Vow of the Disciple, jueves 8pm ET, looking for 5", los aplicantes saben exactamente cuándo es y se comprometen. Cuando llega la hora, el fireteam ya está armado y todos saben con quién juegan.
 
 ## Diferenciación
 
@@ -22,13 +22,13 @@ Frente al Fireteam Finder oficial in-game (lanzado en 2024 con The Final Shape),
 
 Frente al sub-r/destiny2lfg, The100 gana en **estructura**: replies son aplicaciones formales con tu Bungie ID y experience visible, no comments libres.
 
-Frente a Discord LFG channels, The100 gana en **persistencia y discoverabilidad** — no necesitás joinear 5 servers diferentes para encontrar runs.
+Frente a Discord LFG channels, The100 gana en **persistencia y discoverabilidad** — no necesitas joinear 5 servers diferentes para encontrar runs.
 
 ## Para qué la usa la gente
 
 **Reservar raid runs con anticipación**: postear o aplicar a runs que comienzan en horas o días futuras. Útil para weekend raids planificados.
 
-**Encontrar groups persistentes**: joinear comunidades de 50-200 jugadores con cadencia regular (semanal, mensual). Te repetís con la misma gente, formás conexiones.
+**Encontrar groups persistentes**: joinear comunidades de 50-200 jugadores con cadencia regular (semanal, mensual). Te repites con la misma gente, formas conexiones.
 
 **Scheduling de Day-1 raids o contest mode**: para events grandes (raid release day), The100 es donde se planea con días de anticipación.
 
@@ -38,9 +38,9 @@ Frente a Discord LFG channels, The100 gana en **persistencia y discoverabilidad*
 
 ## Para quién NO es esta herramienta
 
-Si jugás Destiny 2 instant (ahora-quiero-jugar-X), Fireteam Finder oficial es más rápido. The100 paga su valor cuando podés esperar 30 minutos a 24 horas.
+Si juegas Destiny 2 instant (ahora-quiero-jugar-X), Fireteam Finder oficial es más rápido. The100 paga su valor cuando puedes esperar 30 minutos a 24 horas.
 
-Si jugás solo o con un grupo fijo de amigos, no necesitás LFG plataforma — usás Discord directo.
+Si juegas solo o con un grupo fijo de amigos, no necesitas LFG plataforma — usas Discord directo.
 
 Si tu interés es PvP (Crucible, Trials), The100 cubre menos esos modos. Trials Report y stadias propias de PvP son mejor source de teammates.
 
@@ -49,7 +49,7 @@ Si tu interés es PvP (Crucible, Trials), The100 cubre menos esos modos. Trials 
 1. Sign up en `the100.io` con Bungie ID o email. Free tier es funcional.
 2. Browse groups por idioma, región, experience level. Joinear uno o varios.
 3. Para LFG específico: postear un game con activity (raid, dungeon, GM, etc.), día/hora, y descripción.
-4. Aplicantes envían request con su Bungie ID; vos los aceptás o rechazás según experience (cross-checkear con Raid Report).
+4. Aplicantes envían request con su Bungie ID; tú los aceptas o rechazas según experience (cross-checkear con Raid Report).
 5. Llegada la hora, todos los confirmados se conectan en Discord del group o juego directo.
 
 ## Limitaciones honestas
@@ -58,7 +58,7 @@ Si tu interés es PvP (Crucible, Trials), The100 cubre menos esos modos. Trials 
 
 **Tier premium pushy**. Free es funcional pero el sitio empuja PRO Tier para "más groups joineables", "filtros avanzados". Algunos features están detrás del paywall.
 
-**Comunidad mayormente angloparlante**. Los groups en español existen pero son minoría. Si solo hablás español, expectativas de cobertura bajan.
+**Comunidad mayormente angloparlante**. Los groups en español existen pero son minoría. Si solo hablas español, expectativas de cobertura bajan.
 
 **Cancelaciones de last-minute**. El scheduling no garantiza que la gente se aparezca; los flake-outs son comunes. The100 tiene sistema de reputation pero no es perfecto.
 
@@ -66,4 +66,4 @@ Si tu interés es PvP (Crucible, Trials), The100 cubre menos esos modos. Trials 
 
 ## Cómo empezar
 
-Sign up con tu Bungie ID. Joineá un par de groups de tu región/idioma con buen activity (>500 miembros). Para tu primer raid, aplicá a uno scheduled en lugar de postear vos mismo — ver el flujo desde el lado del aplicante es la mejor introducción. Después de un par de runs, postear tus propios games se vuelve natural.
+Sign up con tu Bungie ID. Joineá un par de groups de tu región/idioma con buen activity (>500 miembros). Para tu primer raid, aplicá a uno scheduled en lugar de postear tú mismo — ver el flujo desde el lado del aplicante es la mejor introducción. Después de un par de runs, postear tus propios games se vuelve natural.

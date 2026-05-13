@@ -33,7 +33,7 @@ Para player nuevo: CurseForge tiene cobertura más amplia, buscar cualquier addo
 
 **Buscar addons nuevos**: la home de CurseForge tiene categorías (Action Bars, Auction & Economy, Boss Encounters, etc.). Browse o search por nombre.
 
-**Mantener addons updated**: la app desktop chequea updates automáticamente. Click en "Update All" cuando lo abrís.
+**Mantener addons updated**: la app desktop chequea updates automáticamente. Click en "Update All" cuando lo abres.
 
 **Backup de configuración**: la app puede exportar profiles de addon configs para sync entre maquinas o re-install limpio.
 
@@ -52,19 +52,19 @@ Para player nuevo: CurseForge tiene cobertura más amplia, buscar cualquier addo
 
 **Para descubrir e instalar manualmente**:
 
-1. Abrís [curseforge.com/wow/addons](https://www.curseforge.com/wow/addons).
+1. Abres [curseforge.com/wow/addons](https://www.curseforge.com/wow/addons).
 
 2. Browse por categoría o search por nombre.
 
-3. En la página del addon: descargás el zip, extraés en `World of Warcraft/_retail_/Interface/AddOns/` (o `_classic_/`, etc. según versión).
+3. En la página del addon: descargas el zip, extraes en `World of Warcraft/_retail_/Interface/AddOns/` (o `_classic_/`, etc. según versión).
 
 4. Reiniciás WoW. El addon aparece en `/addons` en game.
 
 **Para uso recurrente con app**:
 
-1. Descargás la **CurseForge / Overwolf** app desktop.
+1. Descargas la **CurseForge / Overwolf** app desktop.
 
-2. La app detecta tu install de WoW. Le decís qué addons instalar.
+2. La app detecta tu install de WoW. Le dices qué addons instalar.
 
 3. Updates automáticos en background; click "Update All" cuando hay updates pendientes.
 
@@ -92,8 +92,8 @@ Para player nuevo: CurseForge tiene cobertura más amplia, buscar cualquier addo
 
 2. Decidí: app desktop o manual download. Si vas a tener 10+ addons, la app vale la pena pesar de la fricción. Si vas a tener 2-3, manual download es más limpio.
 
-3. Si elegís app: descargá [overwolf.com/curseforge](https://overwolf.com/app/curseforge), instalá, y dejá que detecte tu cliente de WoW.
+3. Si eliges app: descarga [overwolf.com/curseforge](https://overwolf.com/app/curseforge), instala, y deja que detecte tu cliente de WoW.
 
 4. Para WeakAuras específicamente, considera complementar con [wago.io](https://wago.io) — mejor experiencia de import codes y community sharing.
 
-5. Como referencia editorial honesta: si no querés la suite Overwolf, **Wago.io** + manual install desde GitHub directo son combinación válida para evitar CurseForge entirely. Pero a costa de catálogo limitado.
+5. Como referencia editorial honesta: si no quieres la suite Overwolf, **Wago.io** + manual install desde GitHub directo son combinación válida para evitar CurseForge entirely. Pero a costa de catálogo limitado.

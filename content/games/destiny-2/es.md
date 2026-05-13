@@ -32,6 +32,6 @@ Las herramientas curadas en este codex se actualizan al ritmo del juego: lo que 
 
 ## Para quién es esta sección
 
-Si volvés después de meses o años, lo primero útil es ponerte al día con el episodio vigente y reorganizar el vault — DIM y los trackers de progression están pensados para exactamente eso. Si jugás casual una hora por noche, las tools de loot y rolls aceleran las decisiones de "quedarme o desensamblar". Si buscás endgame serio (Day 1 raid, Flawless Trials, contest mode, solo dungeons), el conjunto raid-report + trials-report + LFG es donde se vive.
+Si vuelves después de meses o años, lo primero útil es ponerte al día con el episodio vigente y reorganizar el vault — DIM y los trackers de progression están pensados para exactamente eso. Si juegas casual una hora por noche, las tools de loot y rolls aceleran las decisiones de "quedarme o desensamblar". Si buscas endgame serio (Day 1 raid, Flawless Trials, contest mode, solo dungeons), el conjunto raid-report + trials-report + LFG es donde se vive.
 
 Cada herramienta y recurso listado acá está específicamente curado para Destiny 2 — no contenido de Destiny 1, no spinoffs, no franquicias adyacentes.

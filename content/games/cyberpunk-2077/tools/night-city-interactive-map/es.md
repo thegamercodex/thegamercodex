@@ -33,7 +33,7 @@ Frente a **Fextralife wiki**: Fextralife lista locations en texto; Night City lo
 
 **100% completion runs**: filtras por tipo (ej: "iconic weapons" o "tarot cards"), ves cuáles ya completaste, ves cuáles te faltan, planificas el path eficiente para hacerlos.
 
-**Encontrar iconic weapons antes**: armas únicas que el juego no destaca específicamente. El mapa te dice exactamente la calle donde está, te llevás eso del primer playthrough.
+**Encontrar iconic weapons antes**: armas únicas que el juego no destaca específicamente. El mapa te dice exactamente la calle donde está, te llevas eso del primer playthrough.
 
 **NCPD scanner hustles**: actividades menores que dan XP y cred. El mapa los muestra todos, puedes tradeoff "voy en route" vs "desvío 2km por esto".
 
@@ -43,7 +43,7 @@ Frente a **Fextralife wiki**: Fextralife lista locations en texto; Night City lo
 
 ## Para quién NO es esta herramienta
 
-Si juegas first playthrough y quieres descubrir Night City orgánicamente, evitá los interactive maps. Te van a tentar a stripear el sentido de exploración. Mejor terminar la story una vez, después usar el mapa para completion.
+Si juegas first playthrough y quieres descubrir Night City orgánicamente, evita los interactive maps. Te van a tentar a stripear el sentido de exploración. Mejor terminar la story una vez, después usar el mapa para completion.
 
 Si juegas casual sin obsesión por completion, el mapa in-game alcanza. Interactive maps son para "voy por el 100%".
 
@@ -68,7 +68,7 @@ Para play sessions concurrentes: tener el mapa abierto en segundo monitor o tel�
 
 **Updates manuales post-patch**. Cuando CDPR agrega content via update (a veces lo hacen — Phantom Liberty fue un add masivo, pero también micro-patches con nuevas side jobs), el mapa puede tardar semanas en sincronizar.
 
-**Spoilers de story content**. Algunos side jobs cuyo trigger es story-related se muestran sin warning. Si quieres mantener freshness narrativa, evitá leer descripciones de quests con "?" antes de jugarlos.
+**Spoilers de story content**. Algunos side jobs cuyo trigger es story-related se muestran sin warning. Si quieres mantener freshness narrativa, evita leer descripciones de quests con "?" antes de jugarlos.
 
 **Sin filtro "near me"**. No te dice "qué POIs hay en 500m de donde estás ahora" — tienes que orientarte visualmente. Otros mapas (algunos GameMappers) tienen overlay de player position, este no.
 
@@ -77,7 +77,7 @@ Para play sessions concurrentes: tener el mapa abierto en segundo monitor o tel�
 1. Abre `nightcity.io` en cualquier browser.
 2. Si tienes Phantom Liberty, activá el toggle de Dogtown — sin él, el mapa base es suficiente.
 3. Decidí qué buscas: para cazar iconic weapons, filtra solo esa categoría. Para 100% completion run, activá todo.
-4. Mientras juegas, deja el mapa abierto en otro device o monitor. Cuando estés cerca de un POI, navega al area y completá. Marcá como done después.
+4. Mientras juegas, deja el mapa abierto en otro device o monitor. Cuando estés cerca de un POI, navega al area y completá. Marca como done después.
 5. Itera: progresá story principal en sessions normales, periodicamente abres el mapa para "what's near?" cuando vayas a un district nuevo.
 
 Tip: para evitar spoilers, **no actives el filtro de "main jobs"** hasta haber terminado la story. Los side jobs y NCPD hustles son safe; los main jobs te van a mostrar locations spoilery.

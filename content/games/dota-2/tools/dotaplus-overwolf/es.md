@@ -1,14 +1,14 @@
 ---
 title: "DotaPlus by Overwolf"
 description: "Asistente in-game de Dota 2 corriendo sobre Overwolf: sugerencias de héroes counter y sinergia en vivo durante el draft, smart builds de items, conciencia de objetivos en tiempo real y análisis post-match."
-quickTake: "Si querés un overlay completo que cubra draft + match + post-game sin pagar Dota Plus de Valve, esta es la alternativa más directa. Gratis con tier Premium opcional."
+quickTake: "Si quieres un overlay completo que cubra draft + match + post-game sin pagar Dota Plus de Valve, esta es la alternativa más directa. Gratis con tier Premium opcional."
 ---
 
 ## Qué es
 
 DotaPlus es un asistente in-game para Dota 2 hecho por Overwolf, la misma empresa detrás de la plataforma que hostea decenas de overlays similares para varios juegos. El naming es desafortunadamente confuso — Valve tiene su propio servicio llamado "Dota Plus" (suscripción dentro de Dota 2) que es un producto distinto. Este DotaPlus es el overlay de Overwolf, no el oficial de Valve.
 
-La app se activa automáticamente cuando lanzás Dota 2 y provee cuatro pilares de features: asistencia de draft (sugerencias de héroes counter y synergy en vivo durante pick/ban), smart builds (sugerencias de items ajustadas a tendencias del momento), conciencia de objetivos (alertas de Roshan, runas, ciclo día-noche) y análisis post-match (review de momentos clave al final del match).
+La app se activa automáticamente cuando lanzas Dota 2 y provee cuatro pilares de features: asistencia de draft (sugerencias de héroes counter y synergy en vivo durante pick/ban), smart builds (sugerencias de items ajustadas a tendencias del momento), conciencia de objetivos (alertas de Roshan, runas, ciclo día-noche) y análisis post-match (review de momentos clave al final del match).
 
 El tier gratis cubre la mayoría de features. Hay suscripción Premium (~$4-5/mes) opcional que desbloquea analytics más profundos, filtros avanzados y experiencia sin ads. El tier gratis es sostenible indefinidamente para el usuario típico.
 
@@ -20,7 +20,7 @@ El diferenciador vs Dota Coach es el enfoque en draft helper: esta app tiene un 
 
 ## Para qué la usa la gente
 
-**Draft helper en vivo**: durante el champ select, la app expone sugerencias de qué héroe pickear próximo basadas en héroes enemigos, tu equipo y el meta actual. Útil cuando tenés que pickear último y querés optimizar.
+**Draft helper en vivo**: durante el champ select, la app expone sugerencias de qué héroe pickear próximo basadas en héroes enemigos, tu equipo y el meta actual. Útil cuando tienes que pickear último y quieres optimizar.
 
 **Sugerencias de items en tiempo real**: basadas en composición enemiga y tu estado del héroe, la app sugiere próximos items a comprar. Menos detalladas que el catálogo estático de D2PT pero más contextual.
 
@@ -28,7 +28,7 @@ El diferenciador vs Dota Coach es el enfoque en draft helper: esta app tiene un 
 
 **Análisis post-match**: al final de cada match la app muestra resumen de momentos clave y áreas sugeridas para mejorar. Útil como reflexión rápida antes de la próxima partida.
 
-**Integración para broadcaster Twitch**: si streameás, DotaPlus integra con OBS para mostrar algunos stats en el layout del broadcast — interesante para streamers.
+**Integración para broadcaster Twitch**: si streameas, DotaPlus integra con OBS para mostrar algunos stats en el layout del broadcast — interesante para streamers.
 
 ## Para quién NO es esta herramienta
 
@@ -54,7 +54,7 @@ DotaPlus by Overwolf es excelente en muchos casos pero no es óptima para todos:
 
 6. Al final del match, la app muestra el post-game summary brevemente.
 
-7. Para settings, accederlas desde la system tray de Overwolf. Podés ajustar frecuencia, posición, audio y enable/disable categorías específicas.
+7. Para settings, accederlas desde la system tray de Overwolf. Puedes ajustar frecuencia, posición, audio y enable/disable categorías específicas.
 
 ## Limitaciones honestas
 
@@ -66,15 +66,15 @@ DotaPlus by Overwolf es excelente en muchos casos pero no es óptima para todos:
 
 **Tier Premium con upselling notable**: aunque el tier gratis es sostenible, la app muestra prompts de upgrade a Premium frecuentemente. Visible vs competidores con menos upsell agresivo.
 
-**Telemetría enviada a Overwolf**: como app de Overwolf, colecta data de gameplay. Leer política de privacidad si tenés privacy concerns.
+**Telemetría enviada a Overwolf**: como app de Overwolf, colecta data de gameplay. Leer política de privacidad si tienes privacy concerns.
 
-**Conflicto con Dota Plus de Valve**: si usás ambos, vas a ver sugerencias redundantes. La mayoría de usuarios usa uno u otro.
+**Conflicto con Dota Plus de Valve**: si usas ambos, vas a ver sugerencias redundantes. La mayoría de usuarios usa uno u otro.
 
 ## Cómo empezar
 
 1. Verificar Windows.
 
-2. Instalar Overwolf si no lo tenés ya. Algunos usuarios ya lo tienen para otras apps de Overwolf (LoL, CS2, etc.).
+2. Instalar Overwolf si no lo tienes ya. Algunos usuarios ya lo tienen para otras apps de Overwolf (LoL, CS2, etc.).
 
 3. Buscar "DotaPlus" en la store de Overwolf. Asegurarse de instalar la de Overwolf, no buscar el producto de Valve en Steam.
 

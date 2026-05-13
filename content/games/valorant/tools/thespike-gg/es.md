@@ -38,15 +38,15 @@ Frente a sub-r/ValorantCompetitive, The Spike es periodismo curado vs discusión
 
 ## Para quién NO es esta herramienta
 
-Si solo querés stats y resultados, VLR es directo. The Spike te hace leer prosa.
+Si solo quieres stats y resultados, VLR es directo. The Spike te hace leer prosa.
 
-Si buscás cobertura nivel reportaje cinemático (Dexerto, ESPN-tier production), The Spike es más modesto. Es periodismo competente pero no premium polish.
+Si buscas cobertura nivel reportaje cinemático (Dexerto, ESPN-tier production), The Spike es más modesto. Es periodismo competente pero no premium polish.
 
 Si tu interés es histórico/structural, Liquipedia es mejor. The Spike es del momento, no archivo.
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `thespike.gg`. Sin login.
+1. Entras a `thespike.gg`. Sin login.
 2. Home muestra los artículos más recientes.
 3. Pestaña "News" para últimas noticias, "Esports" para cobertura competitiva, "Guides" para tutoriales.
 4. Search bar para buscar topic específico (player, team, evento).
@@ -64,8 +64,8 @@ Si tu interés es histórico/structural, Liquipedia es mejor. The Spike es del m
 
 **Solo en inglés**. Sin localización.
 
-**No es VLR**. Si buscás stats o results en vivo, no es la herramienta correcta — visitar VLR primero.
+**No es VLR**. Si buscas stats o results en vivo, no es la herramienta correcta — visitar VLR primero.
 
 ## Cómo empezar
 
-Entrá a `thespike.gg`. Recorré la home para ver los últimos artículos. Si te interesa un torneo en curso, buscá su nombre — probablemente tengan recaps. Para uso recurrente, bookmark + RSS si sos fan del periodismo escrito sobre esports.
+Entra a `thespike.gg`. Recorré la home para ver los últimos artículos. Si te interesa un torneo en curso, busca su nombre — probablemente tengan recaps. Para uso recurrente, bookmark + RSS si eres fan del periodismo escrito sobre esports.

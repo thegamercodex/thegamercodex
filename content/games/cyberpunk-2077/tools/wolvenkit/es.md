@@ -67,7 +67,7 @@ Si no quieres invertir tiempo en aprender el formato REDengine, los workflows de
 ## Cómo empezar
 
 1. Si vas a hacer modding serio, lee primero `wiki.redmodding.org/wolvenkit/help/community` para entender qué hace y qué no hace WolvenKit.
-2. Descargá la última release desde GitHub.
+2. Descarga la última release desde GitHub.
 3. Mira uno o dos tutorials en YouTube para tu caso de uso (ej: "Cyberpunk 2077 texture replacement tutorial WolvenKit").
 4. Haz un proyecto pequeño primero — replazar la textura de un arma. El ejercicio enseña el flujo end-to-end.
 5. Cuando entres en problemas, el Discord del Cyberpunk Modding Community es donde se resuelven (link `discord.com/invite/redmodding`).

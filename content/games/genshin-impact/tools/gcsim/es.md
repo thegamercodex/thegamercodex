@@ -1,12 +1,12 @@
 ---
 title: gcsim
 description: Simulador Monte Carlo de combate de equipo para Genshin Impact, usado por teorycrafters para comparar comps, rotaciones y builds con resultados estadísticos rigurosos.
-quickTake: La herramienta de teorycrafting más respetada del ecosistema. No es para todos —tiene curva pronunciada— pero si querés saber qué team comp pega más fuerte con datos reales en lugar de opiniones, gcsim es donde se hace el análisis serio.
+quickTake: La herramienta de teorycrafting más respetada del ecosistema. No es para todos —tiene curva pronunciada— pero si quieres saber qué team comp pega más fuerte con datos reales en lugar de opiniones, gcsim es donde se hace el análisis serio.
 ---
 
 ## Qué es
 
-gcsim es un simulador de combate Monte Carlo open source para Genshin Impact. Le das un equipo de cuatro personajes con sus armas, artefactos y stats; le escribís una rotación (la secuencia de habilidades, ataques normales, cargados y burst); y el simulador ejecuta esa rotación cientos o miles de veces para darte una distribución estadística del DPS esperado, no un único número.
+gcsim es un simulador de combate Monte Carlo open source para Genshin Impact. Le das un equipo de cuatro personajes con sus armas, artefactos y stats; le escribes una rotación (la secuencia de habilidades, ataques normales, cargados y burst); y el simulador ejecuta esa rotación cientos o miles de veces para darte una distribución estadística del DPS esperado, no un único número.
 
 El proyecto vive en gcsim.app como webapp y también está disponible como CLI para uso avanzado. Está bajo licencia MIT, mantenido por voluntarios desde 2022, con releases continuos (la versión actual es v2.41.x de abril 2026) y una comunidad de unos 7,000 miembros en Discord.
 
@@ -26,13 +26,13 @@ Los casos típicos: comparar dos team comps para Spiral Abyss con la misma cuent
 
 Esta es la confusión más común, así que vale la pena ser explícito: las tres herramientas resuelven problemas distintos.
 
-**Genshin Optimizer** te dice qué artefactos *de los que tenés en tu inventario* maximizan una stat objetivo (típicamente daño esperado en una hit única). Es un optimizador combinatorio sobre tu pool real.
+**Genshin Optimizer** te dice qué artefactos *de los que tienes en tu inventario* maximizan una stat objetivo (típicamente daño esperado en una hit única). Es un optimizador combinatorio sobre tu pool real.
 
 **Akasha System** te muestra cómo se compara tu personaje contra una leaderboard global usando una métrica de daño teórico estandarizada. Es ranking comparativo.
 
 **gcsim** ejecuta una rotación completa de combate en un equipo de cuatro personajes y mide el DPS sostenido con análisis estadístico. Es simulación de combate, no optimización de gear ni comparación de showcase.
 
-En la práctica se usan en cadena: optimizás artefactos en GO, exportás el equipo a gcsim, escribís la rotación, y simulás. gcsim incluso tiene importación directa desde Enka.Network y Genshin Optimizer.
+En la práctica se usan en cadena: optimizas artefactos en GO, exportas el equipo a gcsim, escribes la rotación, y simulas. gcsim incluso tiene importación directa desde Enka.Network y Genshin Optimizer.
 
 ## Limitaciones honestas
 
@@ -40,7 +40,7 @@ En la práctica se usan en cadena: optimizás artefactos en GO, exportás el equ
 
 **Los modelos son aproximaciones.** El propio equipo lo dice: están refinando constantemente la precisión del sim. Hay aspectos del combate real (movimiento del enemigo, hitboxes complejas, timing humano imperfecto) que el sim simplifica o asume idealmente. Los resultados son útiles para *comparar* opciones entre sí, no como predicción exacta de tu DPS in-game.
 
-**Depende de configs de calidad.** Una rotación mal escrita produce resultados engañosos. La comunidad mantiene una database de configs validadas, pero si escribís la tuya desde cero, los errores son fáciles y silenciosos.
+**Depende de configs de calidad.** Una rotación mal escrita produce resultados engañosos. La comunidad mantiene una database de configs validadas, pero si escribes la tuya desde cero, los errores son fáciles y silenciosos.
 
 **Solo en inglés.** La app, docs y comunidad son anglófonas. Para lectores hispanohablantes, esto suma una capa adicional de fricción.
 
@@ -58,6 +58,6 @@ El flujo típico de un usuario serio:
 
 ## Cómo empezar
 
-Si querés probar sin compromiso: entrá a gcsim.app, cargá una de las simulaciones de ejemplo (samples) que ya están en la database, y corré. Vas a ver la interfaz, los resultados, el frame-by-frame.
+Si quieres probar sin compromiso: entra a gcsim.app, cargá una de las simulaciones de ejemplo (samples) que ya están en la database, y corré. Vas a ver la interfaz, los resultados, el frame-by-frame.
 
-Si querés ir en serio: leé la guía "Building a Sim from Scratch" en docs.gcsim.app, sumate al Discord para resolver dudas, y arrancá replicando una rotación documentada de un team comp que ya juegues. Recién después intentá escribir una desde cero.
+Si quieres ir en serio: lee la guía "Building a Sim from Scratch" en docs.gcsim.app, sumate al Discord para resolver dudas, y arrancá replicando una rotación documentada de un team comp que ya juegues. Recién después intenta escribir una desde cero.

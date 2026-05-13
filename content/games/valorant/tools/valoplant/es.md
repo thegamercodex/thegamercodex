@@ -6,15 +6,15 @@ quickTake: "Para cualquier squad serio (premade competitivo o team scrimmeando),
 
 ## Qué es
 
-Valoplant es una herramienta web de strategy planning para Valorant. Free con tier premium opcional. Activa desde 2021. Diseñada para teams competitivos: te da mapas en alta resolución sobre los cuales podés dibujar (utilities, posicionamiento, rotaciones), guardar strats y compartirlos con tu fireteam.
+Valoplant es una herramienta web de strategy planning para Valorant. Free con tier premium opcional. Activa desde 2021. Diseñada para teams competitivos: te da mapas en alta resolución sobre los cuales puedes dibujar (utilities, posicionamiento, rotaciones), guardar strats y compartirlos con tu fireteam.
 
-Lo distintivo es la combinación: mapa drawable (tipo whiteboard de coach) + database integrada de lineups (smokes, flashes, mollys, recon arrows) que podés colocar sobre el mapa con detalle.
+Lo distintivo es la combinación: mapa drawable (tipo whiteboard de coach) + database integrada de lineups (smokes, flashes, mollys, recon arrows) que puedes colocar sobre el mapa con detalle.
 
 ## Qué problema resuelve
 
-Coordinar strats con un team requiere visualización compartida. Discord screen-sharing del mapa de Liquipedia funciona pero es awkward — no podés dibujar fácil, no se guarda, todo el mundo tiene que estar viendo en simultáneo.
+Coordinar strats con un team requiere visualización compartida. Discord screen-sharing del mapa de Liquipedia funciona pero es awkward — no puedes dibujar fácil, no se guarda, todo el mundo tiene que estar viendo en simultáneo.
 
-Valoplant resuelve eso. Creás un strat sobre el mapa con annotations claras (smokes acá, flash a Heaven, B player rotation X→Y), lo guardás, y compartís el link. Tu team lo abre cuando quiere y ve la misma cosa.
+Valoplant resuelve eso. Creas un strat sobre el mapa con annotations claras (smokes acá, flash a Heaven, B player rotation X→Y), lo guardas, y compartes el link. Tu team lo abre cuando quiere y ve la misma cosa.
 
 ## Diferenciación
 
@@ -30,28 +30,28 @@ Frente a Discord whiteboard apps, Valoplant es Valorant-específico — mapas pr
 
 **Coaches trabajan con players**: revisar VOD y dibujar lo que pasó / lo que debió pasar sobre el mapa. Visual feedback efectivo.
 
-**Database de lineups**: para players solo, Valoplant tiene library de utilities populares. Filtrás por mapa y agente, ves el setup completo.
+**Database de lineups**: para players solo, Valoplant tiene library de utilities populares. Filtras por mapa y agente, ves el setup completo.
 
-**Strats por sitio**: planificás default attack para A site de Bind, save para B site, pistol round setup. Catalog completo del playbook del team.
+**Strats por sitio**: planificas default attack para A site de Bind, save para B site, pistol round setup. Catalog completo del playbook del team.
 
-**Sharing público**: si crearás strats interesantes, podés publicarlos para la comunidad.
+**Sharing público**: si crearás strats interesantes, puedes publicarlos para la comunidad.
 
 ## Para quién NO es esta herramienta
 
-Si jugás solo soloQ casual sin team coordination, Valoplant es overkill. Tu solo-q decisions no requieren strat planning.
+Si juegas solo soloQ casual sin team coordination, Valoplant es overkill. Tu solo-q decisions no requieren strat planning.
 
-Si solo querés lineups individuales, Mobalytics o videos de YouTube son más rápidos. Valoplant requiere más onboarding.
+Si solo quieres lineups individuales, Mobalytics o videos de YouTube son más rápidos. Valoplant requiere más onboarding.
 
 Si tu team prefiere coordinar verbal y no escribe strats, Valoplant agrega proceso que tu team no quiere. Forzar tools sin buy-in falla.
 
 ## Cómo se usa en la práctica
 
-1. Entrás a `valoplant.gg`. Login con cuenta Valoplant (free).
-2. Elegís mapa de la lista (Bind, Haven, Split, etc.).
+1. Entras a `valoplant.gg`. Login con cuenta Valoplant (free).
+2. Eliges mapa de la lista (Bind, Haven, Split, etc.).
 3. Drawable canvas aparece con el mapa de fondo.
 4. Toolbar: agente icons, utility icons, drawing pen, text labels.
-5. Construís el strat: posicionás agentes, dibujás líneas de movimiento, agregás utilities desde la library.
-6. Guardás → obtenés link compartible.
+5. Construyes el strat: posicionas agentes, dibujas líneas de movimiento, agregas utilities desde la library.
+6. Guardas → obtienes link compartible.
 7. Tu team abre el link y ve el strat. Pueden comentar.
 
 ## Limitaciones honestas
@@ -66,8 +66,8 @@ Si tu team prefiere coordinar verbal y no escribe strats, Valoplant agrega proce
 
 **Solo en inglés**. Sin localización.
 
-**No tiene replay analysis**. Si querés revisar VODs con timestamps, Insights.gg es la herramienta.
+**No tiene replay analysis**. Si quieres revisar VODs con timestamps, Insights.gg es la herramienta.
 
 ## Cómo empezar
 
-Si jugás casual: probablemente no necesites Valoplant. Mejor mirá lineups en Mobalytics o YouTube. Si jugás en team competitivo: entrá a `valoplant.gg`, dibujá un strat para el mapa que más jugás, comparte con tu team. Si lo usan, sigan; si no, no fuercen el flujo. Algunos teams adoptan, otros prefieren coordinar oral.
+Si juegas casual: probablemente no necesites Valoplant. Mejor mira lineups en Mobalytics o YouTube. Si juegas en team competitivo: entra a `valoplant.gg`, dibujá un strat para el mapa que más juegas, comparte con tu team. Si lo usan, sigan; si no, no fuercen el flujo. Algunos teams adoptan, otros prefieren coordinar oral.

@@ -36,18 +36,18 @@ Patrón equivalente al de WoW (Warcraft Wiki vs Wowpedia legacy) y al de PoE (po
 
 **Lectura de lore y narrativa**: pages de cada champion incluyen biografía, faction de Runeterra, conexiones con otros champions, y stories oficiales escritas por Riot Narrative team.
 
-**Tracking de cambios por patch**: cada página tiene historial de versiones; podés ver exactamente cuándo cambió un valor y qué patch lo hizo.
+**Tracking de cambios por patch**: cada página tiene historial de versiones; puedes ver exactamente cuándo cambió un valor y qué patch lo hizo.
 
 **Referencia para content creators**: streamers, YouTubers y autores de guides usan la wiki como fuente para no equivocarse en números. Ahorra el riesgo de propagar info errónea.
 
 ## Para quién NO es esta herramienta
 
-La wiki es referencia, no asistente operativo. No es lo que necesitás si:
+La wiki es referencia, no asistente operativo. No es lo que necesitas si:
 
-- **Querés builds recomendadas con win rate** → U.GG / Lolalytics agregan data de partidas; la wiki muestra la "Recommended" del cliente pero no analiza meta.
-- **Querés cobertura de esports** → Leaguepedia es la fuente para tournaments, players, equipos, historia competitiva.
-- **Querés stats personales o match history** → OP.GG es la opción. La wiki es enciclopédica, no personalizable.
-- **Querés tutorial guiado para principiantes** → la wiki es referencia, no curriculum. Buscá guides de creators o el tutorial oficial in-game como entrada.
+- **Quieres builds recomendadas con win rate** → U.GG / Lolalytics agregan data de partidas; la wiki muestra la "Recommended" del cliente pero no analiza meta.
+- **Quieres cobertura de esports** → Leaguepedia es la fuente para tournaments, players, equipos, historia competitiva.
+- **Quieres stats personales o match history** → OP.GG es la opción. La wiki es enciclopédica, no personalizable.
+- **Quieres tutorial guiado para principiantes** → la wiki es referencia, no curriculum. Busca guides de creators o el tutorial oficial in-game como entrada.
 
 ## Cómo se usa en la práctica
 
@@ -59,15 +59,15 @@ La wiki es referencia, no asistente operativo. No es lo que necesitás si:
 
 4. Páginas de item estructuradas en: stats, cost & recipe, passives/actives, builds into, notes, history.
 
-5. Para mecánicas profundas (ej: cómo funciona el rune Conqueror), buscá el nombre del concepto y leé la sección Notes — ahí están las interacciones y edge cases documentados.
+5. Para mecánicas profundas (ej: cómo funciona el rune Conqueror), busca el nombre del concepto y lee la sección Notes — ahí están las interacciones y edge cases documentados.
 
 6. Cada página tiene tab "History" arriba que muestra el historial de cambios (qué patch modificó qué). Útil para entender la trayectoria de un champion o item.
 
-Para theorycrafters: bookmarkeá las páginas de tu main y los items que más usás. Las URLs son estables.
+Para theorycrafters: bookmarkeá las páginas de tu main y los items que más usas. Las URLs son estables.
 
 ## Limitaciones honestas
 
-**No es analítica**: la wiki te da los números pero no te dice si el champion es bueno o malo en el meta. Para análisis comparativo necesitás Lolalytics o U.GG.
+**No es analítica**: la wiki te da los números pero no te dice si el champion es bueno o malo en el meta. Para análisis comparativo necesitas Lolalytics o U.GG.
 
 **Demora ~24-48 horas en actualizar tras un patch**: cuando sale un patch nuevo, los editores comunitarios necesitan tiempo para reflejar todos los cambios. Para los primeros días post-patch, puede haber valores desactualizados en algunas páginas.
 
@@ -81,12 +81,12 @@ Para theorycrafters: bookmarkeá las páginas de tu main y los items que más us
 
 1. Vas a `wiki.leagueoflegends.com`. Sin registro para lectura.
 
-2. **Verificá que NO estás en `leagueoflegends.fandom.com`** — esa es la versión vieja deprecada. Si Google te lleva ahí, copiá la URL y reemplazá el dominio por el nuevo.
+2. **Verifica que NO estás en `leagueoflegends.fandom.com`** — esa es la versión vieja deprecada. Si Google te lleva ahí, copia la URL y reemplaza el dominio por el nuevo.
 
-3. Buscá tu champion main. Leé las secciones Abilities (con valores exactos por rank) y Notes (con interacciones y edge cases que el tooltip del juego no muestra).
+3. Busca tu champion main. Lee las secciones Abilities (con valores exactos por rank) y Notes (con interacciones y edge cases que el tooltip del juego no muestra).
 
-4. Para entender un concepto del juego que no tenés claro (ej: "vision wards", "true damage", "tenacity"), buscá el concepto directo — la wiki tiene página dedicada para casi todo.
+4. Para entender un concepto del juego que no tienes claro (ej: "vision wards", "true damage", "tenacity"), busca el concepto directo — la wiki tiene página dedicada para casi todo.
 
-5. Si querés cobertura de esports (jugadores pros, ligas, torneos), no buscá acá — andá a Leaguepedia. Esta wiki es solo del game content.
+5. Si quieres cobertura de esports (jugadores pros, ligas, torneos), no busca acá — anda a Leaguepedia. Esta wiki es solo del game content.
 
 6. Para mantener la info al día, los days después de cada patch es buen momento para visitar las páginas de los champions/items que cambiaron — verás el delta exacto vs valores anteriores.

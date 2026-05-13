@@ -1,7 +1,7 @@
 ---
 title: "Warcraft Logs"
 description: "El servicio canónico de logging y análisis de raids en WoW desde 2014. Sube combat logs, los parsea boss por boss, calcula percentiles globales y mantiene leaderboards históricos por spec, encounter y temporada."
-quickTake: "Si tu guild raidea Mythic en serio, Warcraft Logs no es opcional. Es la infraestructura sobre la que viven WoWAnalyzer, Wipefest y la conversación entera del raid PvE. El Premium tier termina siendo prácticamente obligatorio si querés exprimirlo."
+quickTake: "Si tu guild raidea Mythic en serio, Warcraft Logs no es opcional. Es la infraestructura sobre la que viven WoWAnalyzer, Wipefest y la conversación entera del raid PvE. El Premium tier termina siendo prácticamente obligatorio si quieres exprimirlo."
 ---
 
 ## Qué es
@@ -32,7 +32,7 @@ Para review individual: WoWAnalyzer. Para review de raid leadership / mecánicas
 
 ## Para qué la usa la gente
 
-**Review post-raid de tu propia performance**: abrís tu log, ves tu percentil por boss, comparás con el top de tu spec, identificás dónde perdiste DPS o uptime.
+**Review post-raid de tu propia performance**: abres tu log, ves tu percentil por boss, comparas con el top de tu spec, identificas dónde perdiste DPS o uptime.
 
 **Review de la guild para raid leaders**: timeline completo de la pelea, deaths con causa, daño taken, cooldown coverage, identificación de gaps en mitigation.
 
@@ -44,24 +44,24 @@ Para review individual: WoWAnalyzer. Para review de raid leadership / mecánicas
 
 ## Para quién NO es esta herramienta
 
-- **Players casuales que no raidean Mythic**: el setup (instalar addon, subir logs, leer percentiles) es overhead innecesario si solo hacés LFR o Heroic puntuales.
+- **Players casuales que no raidean Mythic**: el setup (instalar addon, subir logs, leer percentiles) es overhead innecesario si solo haces LFR o Heroic puntuales.
 - **PvP-only**: Warcraft Logs cubre PvE. Para arena, ataques específicos a stats de PvP, hay otras tools.
 - **Mythic+ tracking**: aunque WCL parsea M+ logs, la herramienta dominante para M+ es Raider.IO.
 - **Análisis automatizado paso-a-paso**: para "qué hago para mejorar concretamente", WoWAnalyzer es más directo. WCL te da el dato; WoWAnalyzer te da la sugerencia.
 
 ## Cómo se usa en la práctica
 
-1. Instalás el addon **Advanced Combat Logging** (ya viene con WoW: `/console combatLogVersion 2`) o el companion app de WoW.
+1. Instalas el addon **Advanced Combat Logging** (ya viene con WoW: `/console combatLogVersion 2`) o el companion app de WoW.
 
-2. Activás logging in-game con `/combatlog` (o automatizado vía addon como **AutoCombatLogger**).
+2. Activas logging in-game con `/combatlog` (o automatizado vía addon como **AutoCombatLogger**).
 
-3. Después del raid, subís el archivo `.txt` desde `Logs/` de tu carpeta de WoW. Hay tres formas: web upload, **Warcraft Logs Uploader** (desktop, Windows/macOS), o el companion vía addon.
+3. Después del raid, subes el archivo `.txt` desde `Logs/` de tu carpeta de WoW. Hay tres formas: web upload, **Warcraft Logs Uploader** (desktop, Windows/macOS), o el companion vía addon.
 
-4. Esperás unos minutos a que parse. Recibís link al reporte.
+4. Esperas unos minutos a que parse. Recibes link al reporte.
 
-5. Abrís boss por boss: tab Damage Done para DPS, Healing para healers, Deaths para wipes, Buffs/Debuffs para uptime de buffs críticos.
+5. Abres boss por boss: tab Damage Done para DPS, Healing para healers, Deaths para wipes, Buffs/Debuffs para uptime de buffs críticos.
 
-6. Comparás contra rankings: dropdown que filtra por difficulty (LFR / Normal / Heroic / Mythic), region, y rango de fechas.
+6. Comparas contra rankings: dropdown que filtra por difficulty (LFR / Normal / Heroic / Mythic), region, y rango de fechas.
 
 ## Limitaciones honestas
 
@@ -79,12 +79,12 @@ Para review individual: WoWAnalyzer. Para review de raid leadership / mecánicas
 
 ## Cómo empezar
 
-1. Creá cuenta gratuita en [warcraftlogs.com](https://www.warcraftlogs.com).
+1. Crea cuenta gratuita en [warcraftlogs.com](https://www.warcraftlogs.com).
 
-2. Instalá el companion (Warcraft Logs Uploader desktop o el addon **WCL Uploader**). El desktop client es más estable; el addon más conveniente si raideás regularmente.
+2. Instala el companion (Warcraft Logs Uploader desktop o el addon **WCL Uploader**). El desktop client es más estable; el addon más conveniente si raideas regularmente.
 
 3. Activá Advanced Combat Logging in-game (`/console combatLogVersion 2` la primera vez).
 
-4. Después de tu primer raid, subí el log. Compará tu primer reporte con los rankings públicos de tu spec.
+4. Después de tu primer raid, sube el log. Compará tu primer reporte con los rankings públicos de tu spec.
 
-5. Si tu guild raidea Mythic en serio, considerá el plan Premium — o coordiná que algún oficial lo tenga para compartir analysis profundos al resto.
+5. Si tu guild raidea Mythic en serio, considera el plan Premium — o coordiná que algún oficial lo tenga para compartir analysis profundos al resto.

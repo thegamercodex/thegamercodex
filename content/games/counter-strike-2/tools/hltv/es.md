@@ -1,7 +1,7 @@
 ---
 title: "HLTV.org"
 description: "Portal de referencia del esports de Counter-Strike desde 2002, con rankings mundiales, archivo histórico de partidas, HLTV Rating 2.1 y cobertura editorial completa."
-quickTake: "Si seguís el esports de CS al nivel que sea, HLTV es la database. Vivió toda la historia del juego desde 1.6, y su rating propio es la métrica que la propia escena usa para hablar de jugadores."
+quickTake: "Si sigues el esports de CS al nivel que sea, HLTV es la database. Vivió toda la historia del juego desde 1.6, y su rating propio es la métrica que la propia escena usa para hablar de jugadores."
 ---
 
 ## Qué es
@@ -28,7 +28,7 @@ Para investigación rápida sobre un equipo o jugador hoy, HLTV. Para historia e
 
 **Seguir rankings semanales**: el HLTV Top 30 es la referencia compartida — cuando alguien dice "el #5 del mundo", todos saben de qué ranking habla.
 
-**Investigar a un jugador**: pegás el nick, ves carrera completa, equipos pasados, stats agregadas, mapas favoritos, su HLTV Rating actual y por evento.
+**Investigar a un jugador**: pegas el nick, ves carrera completa, equipos pasados, stats agregadas, mapas favoritos, su HLTV Rating actual y por evento.
 
 **Ver schedule de torneos**: la sección Events lista qué hay programado, brackets, formato, equipos clasificados, y links directos al stream.
 
@@ -43,11 +43,11 @@ HLTV es excelente para esports y archivo competitivo, pero no es para:
 - **Trackear tu propia performance** → Leetify, CS Stats o scope.gg son las correctas.
 - **Aprender mecánicas o estrategia desde cero** → guías en YouTube o Liquipedia tienen mejor formato pedagógico.
 - **Investigar a tu opponent en matchmaking** → HLTV solo cubre cuentas de pros y semi-pros con presencia en torneos.
-- **Cobertura friendly o enciclopédica** → los foros de HLTV tienen reputación de toxicidad; si querés un ambiente más calmado, Liquipedia o reddit.
+- **Cobertura friendly o enciclopédica** → los foros de HLTV tienen reputación de toxicidad; si quieres un ambiente más calmado, Liquipedia o reddit.
 
 ## Cómo se usa en la práctica
 
-1. Abrís `hltv.org`. La home muestra news del día y matches en curso.
+1. Abres `hltv.org`. La home muestra news del día y matches en curso.
 
 2. Para rankings: menú **Stats → World ranking**. Lista top 30 con puntos, cambios semanales y roster.
 
@@ -55,7 +55,7 @@ HLTV es excelente para esports y archivo competitivo, pero no es para:
 
 4. Para un torneo: sección **Events**. Página de cada evento con bracket, equipos, prize pool, schedule, resultados por día y stats de stars.
 
-5. Para demos de una partida: abrís la página de la partida, click en **Download demo** (formato `.dem` para Counter-Strike).
+5. Para demos de una partida: abres la página de la partida, click en **Download demo** (formato `.dem` para Counter-Strike).
 
 ## Limitaciones honestas
 
@@ -75,8 +75,8 @@ No necesita registro para consultar. Para uso recurrente:
 
 1. Bookmarkea **Stats → World ranking** y **Events** — son los dos hubs que más vas a abrir.
 
-2. Si querés notificaciones de partidas, el sitio tiene calendar exportable y favorites por equipo.
+2. Si quieres notificaciones de partidas, el sitio tiene calendar exportable y favorites por equipo.
 
-3. Para entender qué significa el HLTV Rating, leé el FAQ del sitio: [Rating 2.1 explanation](https://www.hltv.org/news/29545/introducing-rating-20). Te ayuda a interpretar números cuando los veas mencionados en transmisiones.
+3. Para entender qué significa el HLTV Rating, lee el FAQ del sitio: [Rating 2.1 explanation](https://www.hltv.org/news/29545/introducing-rating-20). Te ayuda a interpretar números cuando los veas mencionados en transmisiones.
 
-4. Si seguís un equipo en particular, su página tiene RSS feed para news y schedule.
+4. Si sigues un equipo en particular, su página tiene RSS feed para news y schedule.

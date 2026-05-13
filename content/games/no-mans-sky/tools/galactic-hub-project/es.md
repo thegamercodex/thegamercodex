@@ -79,6 +79,6 @@ Visitá r/GalacticHub para ver el tipo de discusión actual. Subscribite si te l
 
 Para visitar el Hub Capital, copia las coords desde el wiki (estará en la página principal). Necesitas portales activados — si no, viajas manual desde el centro de Euclid.
 
-Si te gusta el vibe, pedí join en el Discord del Hub (link desde el subreddit).
+Si te gusta el vibe, pide join en el Discord del Hub (link desde el subreddit).
 
 Considera contribuir al wiki documentando un descubrimiento personal — es una manera concreta de integrarte sin necesidad de ceremonia formal.
