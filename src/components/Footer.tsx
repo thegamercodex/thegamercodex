@@ -1,11 +1,13 @@
 import { getLocale, getTranslations } from "next-intl/server";
-import { ExternalLink, Heart } from "lucide-react";
+import { Check, ExternalLink, Heart, Mail } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { getGames } from "@/lib/content";
 import { BrandImage } from "@/components/BrandImage";
 import { SponsorSlot } from "@/components/SponsorSlot";
 import { activeSponsor } from "@/lib/sponsor";
 import type { Locale } from "@/types";
+
+const CONTACT_EMAIL = "hello@thegamercodex.com";
 
 export async function Footer() {
   const t = await getTranslations("common");
@@ -14,6 +16,12 @@ export async function Footer() {
   const year = new Date().getFullYear();
   const games = await getGames();
   const sortedGames = [...games].sort((a, b) => a.name.localeCompare(b.name));
+
+  const trustClaims = [
+    tFooter("trustNoAds"),
+    tFooter("trustNoAffiliates"),
+    tFooter("trustOpenSource"),
+  ];
 
   return (
     <footer className="mt-16 border-t border-border bg-muted/30">
@@ -24,7 +32,6 @@ export async function Footer() {
               <BrandImage
                 variant="logoSquare"
                 alt=""
-                sizes="80px"
                 className="h-20 w-20 rounded-2xl shadow-md"
               />
               <div className="flex flex-col">
@@ -41,6 +48,20 @@ export async function Footer() {
                 {tFooter("aboutText")}
               </p>
             )}
+            <ul className="flex flex-wrap gap-1.5">
+              {trustClaims.map((claim) => (
+                <li
+                  key={claim}
+                  className="inline-flex items-center gap-1 rounded-full border border-border bg-muted/40 px-2 py-0.5 text-[11px] font-medium text-foreground-muted"
+                >
+                  <Check
+                    aria-hidden
+                    className="h-3 w-3 shrink-0 text-success"
+                  />
+                  {claim}
+                </li>
+              ))}
+            </ul>
           </div>
 
           <div className="flex flex-col gap-3 sm:col-span-4">
@@ -68,11 +89,36 @@ export async function Footer() {
             <ul className="flex flex-col gap-1.5 text-sm">
               <li>
                 <Link
+                  href="/about"
+                  className="inline-flex items-center gap-1.5 text-foreground-muted transition-colors hover:text-accent"
+                >
+                  {tFooter("about")}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/privacy"
+                  className="inline-flex items-center gap-1.5 text-foreground-muted transition-colors hover:text-accent"
+                >
+                  {tFooter("privacy")}
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="/changelog"
                   className="inline-flex items-center gap-1.5 text-foreground-muted transition-colors hover:text-accent"
                 >
                   {tFooter("changelog")}
                 </Link>
+              </li>
+              <li>
+                <a
+                  href={`mailto:${CONTACT_EMAIL}`}
+                  className="inline-flex items-center gap-1.5 text-foreground-muted transition-colors hover:text-accent"
+                >
+                  <Mail className="h-3 w-3" />
+                  {CONTACT_EMAIL}
+                </a>
               </li>
               <li>
                 <a

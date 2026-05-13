@@ -54,16 +54,12 @@ export async function generateMetadata({
       openGraph: {
         title,
         description,
-        images: game.heroImage
-          ? [{ url: game.heroImage, alt: game.name }]
-          : undefined,
         type: "website",
       },
       twitter: {
         card: "summary_large_image",
         title,
         description,
-        images: game.heroImage ? [game.heroImage] : undefined,
       },
     };
   } catch {
