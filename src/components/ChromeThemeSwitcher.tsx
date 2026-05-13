@@ -111,12 +111,7 @@ export function ChromeThemeSwitcher() {
             type="button"
             onClick={() => switchTo(cfg.id)}
             aria-pressed={active}
-            className={
-              "rounded-[5px] px-2.5 py-1 transition-colors duration-150 " +
-              (active
-                ? "bg-foreground text-background"
-                : "text-muted-foreground hover:text-foreground")
-            }
+            className={`chrome-theme-switch chrome-theme-switch--${cfg.id} rounded-[5px] px-2.5 py-1 transition-colors duration-150`}
           >
             {label}
           </button>

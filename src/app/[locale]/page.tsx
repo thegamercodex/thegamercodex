@@ -64,8 +64,6 @@ export default async function HomePage({
           <BrandImage
             variant="bannerLanding"
             alt={t("bannerAlt")}
-            priority
-            sizes="(min-width: 768px) 768px, 100vw"
             className="h-auto w-full"
           />
         </div>

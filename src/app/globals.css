@@ -82,6 +82,67 @@
   background-repeat: no-repeat;
 }
 
+/* Brand image — theme-aware via CSS background-image and [data-chrome-theme]
+   selectors. The inline <head> script sets data-chrome-theme on <html> before
+   first paint, so the browser only fetches the URL matching the active theme:
+   no flash on reload, no double download. Each variant has its own aspect-ratio
+   so callers can size with just a height (or width) and the other dimension
+   follows. Default rules cover the "cyber" theme; the medieval block below
+   overrides background-image only. */
+.brand-image {
+  display: block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.brand-image-bannerLanding {
+  aspect-ratio: 2172 / 724;
+  background-image: url("/images/tgc-banner-v2.webp");
+}
+
+.brand-image-logoSquare {
+  aspect-ratio: 1 / 1;
+  background-image: url("/images/tgc-logo.webp");
+}
+
+.brand-image-logoHorizontal {
+  aspect-ratio: 2087 / 248;
+  background-image: url("/images/tgc-logo-horizontal-tight.webp");
+}
+
+:root[data-chrome-theme="medieval"] .brand-image-bannerLanding {
+  background-image: url("/images/tgc-banner-medieval.webp");
+}
+
+:root[data-chrome-theme="medieval"] .brand-image-logoSquare {
+  background-image: url("/images/tgc-logo-medieval.webp");
+}
+
+:root[data-chrome-theme="medieval"] .brand-image-logoHorizontal {
+  aspect-ratio: 1600 / 220;
+  background-image: url("/images/tgc-logo-horizontal-tight-medieval.webp");
+}
+
+/* Chrome theme switcher — the visually-pressed button is selected by CSS using
+   [data-chrome-theme] on <html>, not by React state. The inline <head> script
+   sets the attribute before paint, so on reload the right button looks active
+   from the first frame (no flash from cyber → stored theme on hydrate).
+   aria-pressed still flips on hydration but that's not visible to sighted users. */
+.chrome-theme-switch {
+  color: var(--foreground-muted);
+  background-color: transparent;
+}
+.chrome-theme-switch:hover {
+  color: var(--foreground);
+}
+:root:not([data-chrome-theme]) .chrome-theme-switch--cyber,
+:root[data-chrome-theme="cyber"] .chrome-theme-switch--cyber,
+:root[data-chrome-theme="medieval"] .chrome-theme-switch--medieval {
+  color: var(--background);
+  background-color: var(--foreground);
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-background-secondary: var(--background-secondary);
