@@ -1,0 +1,53 @@
+{
+  "id": "mod-organizer-2-vs-vortex-mod-manager",
+  "toolIds": ["mod-organizer-2", "vortex-mod-manager"],
+  "category": "mod-managers",
+  "depth": "flagship",
+  "lastVerified": "2026-05-14",
+  "verdictEs": "Mod Organizer 2 si planeas una modlist seria con cientos de mods, múltiples perfiles y profiling avanzado de conflictos: su virtual file system mantiene la carpeta del juego limpia. Vortex si quieres instalar mods con un click, te molesta la curva técnica de MO2 y prefieres la integración nativa con Nexus.",
+  "verdictEn": "Mod Organizer 2 if you plan a serious modlist with hundreds of mods, multiple profiles, and advanced conflict profiling: its virtual file system keeps the game folder pristine. Vortex if you want one-click installs, dislike MO2's technical learning curve, and prefer native Nexus integration.",
+  "useCases": [
+    {
+      "labelEs": "Armar una modlist de 200+ mods sin tocar la carpeta del juego",
+      "labelEn": "Build a 200+ mod modlist without touching the game folder",
+      "winner": "mod-organizer-2",
+      "reasonEs": "El virtual file system de MO2 monta los mods en runtime sin escribir archivos al directorio de Skyrim. Vortex despliega los archivos con hardlinks/symlinks al disco real, lo que ensucia el folder y dificulta reversiones.",
+      "reasonEn": "MO2's virtual file system mounts mods at runtime without writing files to the Skyrim directory. Vortex deploys files via hardlinks/symlinks to the real disk, which clutters the folder and makes rollbacks harder."
+    },
+    {
+      "labelEs": "Mantener varios perfiles (vanilla+, gameplay overhaul, modlist gráfica) en paralelo",
+      "labelEn": "Keep several profiles (vanilla+, gameplay overhaul, graphics modlist) in parallel",
+      "winner": "mod-organizer-2",
+      "reasonEs": "MO2 trata cada perfil como un setup aislado con su propia lista de mods, plugins, INIs y saves. En Vortex los perfiles existen pero la separación es menos limpia y los archivos siguen viviendo en el folder del juego.",
+      "reasonEn": "MO2 treats each profile as an isolated setup with its own mod list, plugins, INIs, and saves. Vortex supports profiles too, but separation is less clean and files still live in the game folder."
+    },
+    {
+      "labelEs": "Instalación rápida sin querer aprender otra herramienta",
+      "labelEn": "Quick install without wanting to learn another tool",
+      "winner": "vortex-mod-manager",
+      "reasonEs": "Vortex tiene integración nativa con Nexus: un botón \"Mod Manager Download\" en cualquier página y el mod aparece instalado y ordenado. MO2 también soporta esto pero requiere setup adicional.",
+      "reasonEn": "Vortex has native Nexus integration: hit \"Mod Manager Download\" on any page and the mod shows up installed and sorted. MO2 supports this too but needs extra setup."
+    },
+    {
+      "labelEs": "Resolver conflictos de assets entre mods con precisión quirúrgica",
+      "labelEn": "Resolve asset conflicts between mods with surgical precision",
+      "winner": "mod-organizer-2",
+      "reasonEs": "La pestaña de Data y el panel de conflictos por archivo de MO2 muestran exactamente qué mod gana sobre cuál archivo. Vortex resuelve conflictos con un sistema de rules pero la visibilidad por archivo es mucho menor.",
+      "reasonEn": "MO2's Data tab and per-file conflict panel show exactly which mod wins over which file. Vortex resolves conflicts with a rules system, but per-file visibility is much weaker."
+    },
+    {
+      "labelEs": "Instalar una modlist precompilada de Wabbajack",
+      "labelEn": "Install a precompiled Wabbajack modlist",
+      "winner": "mod-organizer-2",
+      "reasonEs": "Casi todas las modlists de Wabbajack se distribuyen como instancias portátiles de MO2. Es el estándar de facto del ecosistema de modlists curadas.",
+      "reasonEn": "Nearly every Wabbajack modlist ships as a portable MO2 instance. It's the de facto standard of the curated modlist ecosystem."
+    },
+    {
+      "labelEs": "Soporte oficial integrado con la cuenta de Nexus Mods",
+      "labelEn": "Official integrated support with the Nexus Mods account",
+      "winner": "vortex-mod-manager",
+      "reasonEs": "Vortex es desarrollado por Nexus y se actualiza con cualquier cambio del sitio sin friction. MO2 es community-driven y reacciona después.",
+      "reasonEn": "Vortex is developed by Nexus and tracks any site changes without friction. MO2 is community-driven and reacts later."
+    }
+  ]
+}

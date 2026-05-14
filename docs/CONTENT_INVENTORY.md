@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-13
+> Última generación: 2026-05-14
 
 ## Resumen
 
-12 juegos · 193 tools · 60 creators · 62 categorías · 310 resources items · 15 comparisons
+12 juegos · 193 tools · 60 creators · 62 categorías · 310 resources items · 20 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -18,7 +18,7 @@
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 0 |
 | `path-of-exile` | Path of Exile | 17 | 5 | 5 | 25 | 7 |
 | `path-of-exile-2` | Path of Exile 2 | 20 | 5 | 5 | 25 | 8 |
-| `skyrim` | The Elder Scrolls V: Skyrim | 19 | 5 | 5 | 25 | 0 |
+| `skyrim` | The Elder Scrolls V: Skyrim | 19 | 5 | 5 | 25 | 5 |
 | `valorant` | Valorant | 15 | 5 | 5 | 25 | 0 |
 | `world-of-warcraft` | World of Warcraft | 15 | 5 | 6 | 30 | 0 |
 
@@ -173,7 +173,7 @@
 - `mod-recommendations` — 5 items
 - `modding-guides` — 5 items
 
-**Comparisons (0)**: _(none)_
+**Comparisons (5)**: `creation-kit-vs-sseedit` (short), `loot-vs-sseedit` (short), `mod-organizer-2-vs-vortex-mod-manager` (flagship), `synthesis-vs-sseedit` (flagship), `wabbajack-vs-mod-organizer-2` (short)
 
 ### Valorant (`valorant`)
 
