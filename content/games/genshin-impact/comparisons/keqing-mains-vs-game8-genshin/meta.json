@@ -1,0 +1,53 @@
+{
+  "id": "keqing-mains-vs-game8-genshin",
+  "toolIds": ["keqing-mains", "game8-genshin"],
+  "category": "character-builds",
+  "depth": "flagship",
+  "lastVerified": "2026-05-14",
+  "verdictEs": "Keqing Mains si quieres theorycrafting profundo, guías de personaje con racionalización detrás de cada decisión y acceso a la comunidad técnica más respetada de Genshin. Game8 si quieres respuestas rápidas, tier lists accesibles y guías condensadas que respondan \"qué uso\" en un párrafo.",
+  "verdictEn": "Keqing Mains if you want deep theorycrafting, character guides with rationale behind every decision, and access to Genshin's most respected technical community. Game8 if you want fast answers, accessible tier lists, and condensed guides that answer \"what should I use\" in a paragraph.",
+  "useCases": [
+    {
+      "labelEs": "Entender por qué un build es bueno, no solo qué equipar",
+      "labelEn": "Understand why a build is good, not just what to equip",
+      "winner": "keqing-mains",
+      "reasonEs": "KQM publica el razonamiento técnico: por qué tal weapon escala mejor, qué reactions priorizar, cuál es la rotación óptima. Game8 prioriza prescriptivo \"equip this\".",
+      "reasonEn": "KQM publishes the technical reasoning: why this weapon scales better, which reactions to prioritize, the optimal rotation. Game8 prioritizes prescriptive \"equip this\"."
+    },
+    {
+      "labelEs": "Decidir rápido qué personaje pullear o qué team armar",
+      "labelEn": "Decide quickly which character to pull or which team to build",
+      "winner": "game8-genshin",
+      "reasonEs": "Game8 tiene tier lists públicas, recomendaciones one-liner y formato escaneable diseñado para decisiones rápidas. KQM requiere leer documentos largos.",
+      "reasonEn": "Game8 has public tier lists, one-liner recommendations, and a scannable format designed for fast decisions. KQM requires reading long docs."
+    },
+    {
+      "labelEs": "Buscar la racionalización detrás de una recomendación específica",
+      "labelEn": "Look up the rationale behind a specific recommendation",
+      "winner": "keqing-mains",
+      "reasonEs": "Las guías de KQM citan sims de gcsim, cálculos en GO y debates internos del team. Cada decisión tiene tracking público.",
+      "reasonEn": "KQM guides cite gcsim runs, GO calculations, and internal team debates. Every decision has a public trail."
+    },
+    {
+      "labelEs": "Acceder a contenido en formato móvil cómodo durante un evento",
+      "labelEn": "Access mobile-friendly content during an event",
+      "winner": "game8-genshin",
+      "reasonEs": "Game8 está diseñado para consumo móvil con UI optimizada. Las guías de KQM son docs largos mejor consumidos en desktop.",
+      "reasonEn": "Game8 is designed for mobile consumption with optimized UI. KQM guides are long docs better consumed on desktop."
+    },
+    {
+      "labelEs": "Encontrar guías de eventos y patch coverage el día del release",
+      "labelEn": "Find event and patch coverage on release day",
+      "winner": "game8-genshin",
+      "reasonEs": "Game8 publica coverage de eventos en horas: rewards, mecánicas, walkthroughs. KQM se enfoca en personajes y theorycrafting, no en eventos efímeros.",
+      "reasonEn": "Game8 publishes event coverage in hours: rewards, mechanics, walkthroughs. KQM focuses on characters and theorycrafting, not ephemeral events."
+    },
+    {
+      "labelEs": "Theorycrafting de personajes nuevos antes de pullear",
+      "labelEn": "Theorycrafting new characters before pulling",
+      "winner": "keqing-mains",
+      "reasonEs": "El proceso de Quick Guide → Mains Guide de KQM da análisis técnico que ningún hub mainstream replica.",
+      "reasonEn": "KQM's Quick Guide → Mains Guide process delivers technical analysis no mainstream hub matches."
+    }
+  ]
+}

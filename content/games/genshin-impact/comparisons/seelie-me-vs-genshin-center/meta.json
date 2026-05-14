@@ -1,0 +1,39 @@
+{
+  "id": "seelie-me-vs-genshin-center",
+  "toolIds": ["seelie-me", "genshin-center"],
+  "category": "character-builds",
+  "depth": "short",
+  "lastVerified": "2026-05-14",
+  "verdictEs": "Seelie.me si quieres un planificador completo con tracking de achievements, materials por personaje y sync de inventario in-game vía companion. Genshin Center si solo quieres saber qué domains farmear hoy según los personajes que estás levelando.",
+  "verdictEn": "Seelie.me if you want a full planner with achievement tracking, per-character materials, and in-game inventory sync via companion. Genshin Center if you just want to know which domains to farm today based on the characters you're leveling.",
+  "useCases": [
+    {
+      "labelEs": "Planificar materials de varios personajes en paralelo",
+      "labelEn": "Plan materials across several characters in parallel",
+      "winner": "seelie-me",
+      "reasonEs": "Seelie soporta múltiples personajes con objetivos individuales y muestra el costo total agregado en mora, materials, resin. Genshin Center es más simple en gestión multi-personaje.",
+      "reasonEn": "Seelie supports multiple characters with individual goals and shows total cost aggregated in mora, materials, resin. Genshin Center is simpler in multi-character management."
+    },
+    {
+      "labelEs": "Ver rápido qué talent books o weapon ascension toca farmear hoy",
+      "labelEn": "Quickly see which talent books or weapon ascension to farm today",
+      "winner": "genshin-center",
+      "reasonEs": "Genshin Center está optimizado para la pregunta diaria: dada tu lista de personajes en progreso y el día de la semana, qué domains rotan disponibles ahora.",
+      "reasonEn": "Genshin Center is optimized for the daily question: given your in-progress characters and day of the week, which domains are available right now."
+    },
+    {
+      "labelEs": "Sincronizar tu inventario in-game para que el planner sepa qué tienes",
+      "labelEn": "Sync your in-game inventory so the planner knows what you have",
+      "winner": "seelie-me",
+      "reasonEs": "Seelie tiene companion app que escanea tu inventario; el planner descuenta automáticamente lo que ya tienes en stock. Genshin Center asume input manual.",
+      "reasonEn": "Seelie has a companion app that scans your inventory; the planner auto-deducts what you already have in stock. Genshin Center assumes manual input."
+    },
+    {
+      "labelEs": "Trackear achievements completados y los que faltan",
+      "labelEn": "Track completed achievements and which are left",
+      "winner": "seelie-me",
+      "reasonEs": "Seelie incluye tracker de achievements; Genshin Center se enfoca solo en farmeo de personajes.",
+      "reasonEn": "Seelie includes an achievement tracker; Genshin Center focuses only on character farming."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hoyolab-map-vs-appsample-genshin-map",
+  "toolIds": ["hoyolab-map", "appsample-genshin-map"],
+  "category": "exploration-maps",
+  "depth": "short",
+  "lastVerified": "2026-05-14",
+  "verdictEs": "HoYoLAB Map para tener el mapa oficial actualizado con cada parche directo de HoYoverse, especialmente al day-one de regiones nuevas. AppSample para una UI más rápida, tracking persistente sin login y filtros más simples.",
+  "verdictEn": "HoYoLAB Map for the official map updated each patch directly by HoYoverse, especially day-one for new regions. AppSample for a faster UI, persistent tracking without login, and simpler filters.",
+  "useCases": [
+    {
+      "labelEs": "Explorar una región recién lanzada con todos los coleccionables marcados",
+      "labelEn": "Explore a freshly released region with every collectible marked",
+      "winner": "hoyolab-map",
+      "reasonEs": "HoYoverse mapea regiones nuevas el día del release. AppSample suele tener delay de días o semanas para poblar regiones nuevas con todos los nodos.",
+      "reasonEn": "HoYoverse maps new regions on release day. AppSample usually has a days-to-weeks delay before populating new regions with every node."
+    },
+    {
+      "labelEs": "Trackear progreso de farmeo sin crear cuenta de HoYoLAB",
+      "labelEn": "Track farming progress without creating a HoYoLAB account",
+      "winner": "appsample-genshin-map",
+      "reasonEs": "AppSample guarda tu progreso en local storage del navegador sin login. HoYoLAB requiere cuenta y sincronización con tu UID.",
+      "reasonEn": "AppSample stores your progress in browser local storage without login. HoYoLAB requires an account and UID sync."
+    },
+    {
+      "labelEs": "UI rápida y filtros minimalistas para una sesión corta de farmeo",
+      "labelEn": "Fast UI and minimalist filters for a short farming session",
+      "winner": "appsample-genshin-map",
+      "reasonEs": "AppSample tiene UI más liviana y carga más rápido. HoYoLAB es más pesado por la integración con el resto de la plataforma oficial.",
+      "reasonEn": "AppSample has a lighter UI and loads faster. HoYoLAB is heavier due to integration with the rest of the official platform."
+    },
+    {
+      "labelEs": "Acceder a notas oficiales o lore vinculado a ubicaciones",
+      "labelEn": "Access official notes or lore tied to locations",
+      "winner": "hoyolab-map",
+      "reasonEs": "Como producto oficial, HoYoLAB Map incluye contexto narrativo y lore que productos community no tienen.",
+      "reasonEn": "As an official product, HoYoLAB Map includes narrative context and lore community products don't have."
+    }
+  ]
+}

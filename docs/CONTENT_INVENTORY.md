@@ -5,7 +5,7 @@
 
 ## Resumen
 
-12 juegos · 193 tools · 60 creators · 62 categorías · 310 resources items · 20 comparisons
+12 juegos · 193 tools · 60 creators · 62 categorías · 310 resources items · 26 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -13,7 +13,7 @@
 | `cyberpunk-2077` | Cyberpunk 2077 | 15 | 5 | 5 | 25 | 0 |
 | `destiny-2` | Destiny 2 | 12 | 5 | 5 | 25 | 0 |
 | `dota-2` | Dota 2 | 13 | 5 | 5 | 25 | 0 |
-| `genshin-impact` | Genshin Impact | 24 | 5 | 6 | 30 | 0 |
+| `genshin-impact` | Genshin Impact | 24 | 5 | 6 | 30 | 6 |
 | `league-of-legends` | League of Legends | 15 | 5 | 5 | 25 | 0 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 0 |
 | `path-of-exile` | Path of Exile | 17 | 5 | 5 | 25 | 7 |
@@ -98,7 +98,7 @@
 - `lore-and-story` — 5 items
 - `patch-coverage` — 5 items
 
-**Comparisons (0)**: _(none)_
+**Comparisons (6)**: `gcsim-vs-akasha-system` (short), `genshin-optimizer-vs-aspirine` (flagship), `honey-hunter-world-vs-hoyowiki` (short), `hoyolab-map-vs-appsample-genshin-map` (short), `keqing-mains-vs-game8-genshin` (flagship), `seelie-me-vs-genshin-center` (short)
 
 ### League of Legends (`league-of-legends`)
 
