@@ -1,10 +1,10 @@
 {
   "id": "nukes-and-dragons",
-  "name": "Nukes & Dragons Cyberpunk 2077 Build Planner",
+  "name": "Nukes & Dragons Skyrim Build Planner",
   "shortName": "Nukes & Dragons",
-  "taglineEs": "Build planner comunitario con URLs compartibles y soporte para el árbol 2.0 + Phantom Liberty",
-  "taglineEn": "Community build planner with shareable URLs and support for the 2.0 tree + Phantom Liberty",
-  "url": "https://nukesdragons.com/cyberpunk-2077/character",
+  "taglineEs": "Build planner web con tracking de stats, skills y perks vanilla, URLs compartibles y soporte para Special/Anniversary Edition",
+  "taglineEn": "Web build planner with stat, skill, and vanilla perk tracking, shareable URLs, and Special/Anniversary Edition support",
+  "url": "https://nukesdragons.com/skyrim/character",
   "category": "build-planning",
   "type": "web-app",
   "official": false,
@@ -12,15 +12,15 @@
   "openSource": false,
   "platforms": ["web"],
   "languages": ["en"],
-  "tags": ["build-planning", "perks", "attributes", "community", "phantom-liberty"],
+  "tags": ["build-planning", "perks", "attributes", "stats", "community"],
   "essential": false,
-  "difficulty": "intermediate",
-  "lastVerified": "2026-05-11",
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-14",
   "logo": "/images/tools/cyberpunk-2077/nukes-and-dragons-logo.png",
   "screenshots": [],
   "videos": [],
-  "relatedTools": ["official-build-planner"],
-  "alternatives": ["official-build-planner"],
+  "relatedTools": [],
+  "alternatives": ["skyrim-builds"],
   "createdBy": {
     "name": "Wombat Factory",
     "url": "https://nukesdragons.com"
@@ -28,7 +28,7 @@
   "multiGame": {
     "available": true,
     "otherGames": [
-      { "gameId": "skyrim", "url": "https://nukesdragons.com/skyrim/character" },
+      { "gameId": "cyberpunk-2077", "url": "https://nukesdragons.com/cyberpunk-2077/character" },
       { "gameId": "fallout-4", "url": "https://nukesdragons.com/fallout-4/character" },
       { "gameId": "fallout-76", "url": "https://nukesdragons.com/fallout-76/character" },
       { "gameId": "starfield", "url": "https://nukesdragons.com/starfield/character" }
