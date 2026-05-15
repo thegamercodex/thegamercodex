@@ -1,0 +1,46 @@
+{
+  "id": "icy-veins-vs-archon-gg",
+  "toolIds": ["icy-veins", "archon-gg"],
+  "category": "guides",
+  "depth": "short",
+  "lastVerified": "2026-05-15",
+  "verdictEs": "Icy Veins si quieres aprender una spec o entrar a un raid desde cero, con prosa exhaustiva-pero-accesible. Archon.gg si ya sabes jugar y quieres saber qué corre el top 1% esta semana sin leer 2 páginas de explicación — data agregada en lugar de prosa editorial.",
+  "verdictEn": "Icy Veins to learn a spec or enter a raid from scratch, with exhaustive-but-accessible prose. Archon.gg if you already know how to play and want to know what the top 1% is running this week without reading 2 pages of prose — aggregated data instead of editorial prose.",
+  "useCases": [
+    {
+      "labelEs": "Onboarding a una spec nueva sin background previo",
+      "labelEn": "Onboarding to a new spec without prior background",
+      "winner": "icy-veins",
+      "reasonEs": "Icy Veins explica el por qué de cada decisión con prosa pedagogical. Un beginner lee y entiende rotation, stat priority, talents en context. Archon muestra qué juega el top 1% sin explicar por qué — útil solo si ya tienes framework.",
+      "reasonEn": "Icy Veins explains the why behind every decision with pedagogical prose. A beginner reads and understands rotation, stat priority, talents in context. Archon shows what the top 1% plays without explaining why — useful only if you already have framework."
+    },
+    {
+      "labelEs": "Saber qué talent build corre el top 1% esta semana",
+      "labelEn": "Know what talent build the top 1% runs this week",
+      "winner": "archon-gg",
+      "reasonEs": "Archon agrega data en tiempo real de logs top-tier. Te muestra percentages exactos: qué porcentaje del top 100 mythic corre talent A vs B, qué stat distribution domina. Icy Veins tarda en updatear con cada hotfix.",
+      "reasonEn": "Archon aggregates real-time data from top-tier logs. Shows exact percentages: what share of top 100 Mythic runs talent A vs B, which stat distribution dominates. Icy Veins lags with each hotfix."
+    },
+    {
+      "labelEs": "Entender por qué un talent es óptimo vs solo saber que lo es",
+      "labelEn": "Understand why a talent is optimal vs just knowing that it is",
+      "winner": "icy-veins",
+      "reasonEs": "Icy Veins justifica decisiones: 'X talent es óptimo porque interactúa con Y mechanic en Z encounter'. Archon te dice 'el 73% del top corre X' sin justificar — la justification implícita es 'porque los pros lo hacen'.",
+      "reasonEn": "Icy Veins justifies decisions: 'X talent is optimal because it interacts with Y mechanic in Z encounter'. Archon tells you '73% of the top runs X' without justifying — implicit justification is 'because pros do it'."
+    },
+    {
+      "labelEs": "Update urgente justo después de un hotfix balance",
+      "labelEn": "Urgent update right after a balance hotfix",
+      "winner": "archon-gg",
+      "reasonEs": "Archon refleja el cambio de meta en horas, no días — los pros se ajustan al hotfix y la data lo captura automáticamente. Icy Veins requires editor para reescribir prose, lag de días tras un cambio mayor.",
+      "reasonEn": "Archon reflects meta changes in hours, not days — pros adjust to the hotfix and data captures it automatically. Icy Veins requires an editor to rewrite prose, with days of lag after a major change."
+    },
+    {
+      "labelEs": "Buscar guide de boss específico de current raid con mechanics explicadas",
+      "labelEn": "Look for a current-raid boss guide with explained mechanics",
+      "winner": "icy-veins",
+      "reasonEs": "Icy Veins tiene boss strategy guides con prosa que explica each phase, mechanics, role responsibilities. Archon no produce este tipo de content — su scope es player optimization, no encounter teaching.",
+      "reasonEn": "Icy Veins has boss strategy guides with prose explaining each phase, mechanics, role responsibilities. Archon doesn't produce this content type — its scope is player optimization, not encounter teaching."
+    }
+  ]
+}

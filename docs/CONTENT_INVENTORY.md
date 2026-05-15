@@ -5,7 +5,7 @@
 
 ## Resumen
 
-13 juegos · 206 tools · 65 creators · 67 categorías · 335 resources items · 35 comparisons
+13 juegos · 206 tools · 65 creators · 67 categorías · 335 resources items · 40 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -21,7 +21,7 @@
 | `skyrim` | The Elder Scrolls V: Skyrim | 19 | 5 | 5 | 25 | 5 |
 | `valorant` | Valorant | 15 | 5 | 5 | 25 | 0 |
 | `windrose` | Windrose | 13 | 5 | 5 | 25 | 4 |
-| `world-of-warcraft` | World of Warcraft | 15 | 5 | 6 | 30 | 0 |
+| `world-of-warcraft` | World of Warcraft | 15 | 5 | 6 | 30 | 5 |
 
 ## Por juego
 
@@ -220,4 +220,4 @@
 - `patch-coverage` — 5 items
 - `raid-guides` — 5 items
 
-**Comparisons (0)**: _(none)_
+**Comparisons (5)**: `curseforge-vs-wago-io` (flagship), `icy-veins-vs-archon-gg` (short), `raidbots-vs-bloodmallet` (short), `wowanalyzer-vs-wipefest` (short), `wowhead-vs-warcraft-wiki` (flagship)

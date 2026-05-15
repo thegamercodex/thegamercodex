@@ -1,0 +1,46 @@
+{
+  "id": "wowanalyzer-vs-wipefest",
+  "toolIds": ["wowanalyzer", "wipefest"],
+  "category": "raid-logs",
+  "depth": "short",
+  "lastVerified": "2026-05-15",
+  "verdictEs": "WoWAnalyzer si quieres saber por qué tu DPS/HPS está por debajo del top: rotation mistakes, cooldown usage tardío, buff uptime suboptimo, todo per-spec con suggestions actionable. Wipefest si eres raid leader y necesitas saber por qué wiperon: qué mechanic falló, quién murió de qué, mechanic-by-mechanic breakdown.",
+  "verdictEn": "WoWAnalyzer if you want to know why your DPS/HPS is below top: rotation mistakes, late cooldown usage, suboptimal buff uptime, all per-spec with actionable suggestions. Wipefest if you're a raid leader and need to know why the raid wiped: what mechanic failed, who died of what, mechanic-by-mechanic breakdown.",
+  "useCases": [
+    {
+      "labelEs": "Mejorar tu performance personal como DPS/healer",
+      "labelEn": "Improve your personal DPS/healer performance",
+      "winner": "wowanalyzer",
+      "reasonEs": "WoWAnalyzer es per-spec con suggestions específicos: 'has usado X cooldown 12 segundos tarde 3 veces', 'mantain Y buff at 95% uptime, tú tuviste 73%'. Wipefest no analiza individual DPS — su scope es mechanics.",
+      "reasonEn": "WoWAnalyzer is per-spec with specific suggestions: 'you used X cooldown 12 seconds late 3 times', 'maintain Y buff at 95% uptime, you had 73%'. Wipefest doesn't analyze individual DPS — its scope is mechanics."
+    },
+    {
+      "labelEs": "Identificar por qué la raid wipeó en un boss",
+      "labelEn": "Identify why the raid wiped on a boss",
+      "winner": "wipefest",
+      "reasonEs": "Wipefest construye timeline mecánico del pull: qué mechanic se ejecutó, quién la falló, en qué orden las muertes. Para raid leader es la tab obligatoria post-wipe. WoWAnalyzer no toca mechanics — solo individual rotation.",
+      "reasonEn": "Wipefest builds a mechanical timeline of the pull: what mechanic fired, who failed it, in what order deaths happened. For raid leader it's the mandatory post-wipe tab. WoWAnalyzer doesn't touch mechanics — only individual rotation."
+    },
+    {
+      "labelEs": "Spec sin cobertura activa de WoWAnalyzer",
+      "labelEn": "Spec without active WoWAnalyzer coverage",
+      "winner": "wipefest",
+      "reasonEs": "WoWAnalyzer coverage es uneven — algunas specs tienen modules maintained, otras no. Si tu spec no tiene module activo, los suggestions son genericos o vacíos. Wipefest funciona universal porque su data es mechanics-level, no spec-level.",
+      "reasonEn": "WoWAnalyzer coverage is uneven — some specs have maintained modules, others don't. If your spec lacks an active module, suggestions are generic or empty. Wipefest works universally because its data is mechanics-level, not spec-level."
+    },
+    {
+      "labelEs": "Identificar mechanic-specific deaths en un raid pull",
+      "labelEn": "Identify mechanic-specific deaths in a raid pull",
+      "winner": "wipefest",
+      "reasonEs": "Wipefest construye breakdown por mechanic: 5 deaths a 'Searing Glare', 3 deaths a 'Stomp', 2 deaths overlapping debuffs. WoWAnalyzer reporta deaths individuales pero no agrupa por mechanic.",
+      "reasonEn": "Wipefest builds per-mechanic breakdown: 5 deaths to 'Searing Glare', 3 deaths to 'Stomp', 2 deaths to overlapping debuffs. WoWAnalyzer reports individual deaths but doesn't aggregate by mechanic."
+    },
+    {
+      "labelEs": "Coaching individual: ver qué cooldown un player usó tarde",
+      "labelEn": "Individual coaching: see what cooldown a player used late",
+      "winner": "wowanalyzer",
+      "reasonEs": "WoWAnalyzer detalla timing exacto de cooldowns: 'usado a 2:34, óptimo era 1:58 (36 segundos late)'. Suggestions específicas por habit, no por mechanic. Wipefest no entra a este nivel de detalle individual.",
+      "reasonEn": "WoWAnalyzer details exact cooldown timing: 'used at 2:34, optimal was 1:58 (36 seconds late)'. Specific suggestions per habit, not per mechanic. Wipefest doesn't go to this level of individual detail."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "curseforge-vs-wago-io",
+  "toolIds": ["curseforge", "wago-io"],
+  "category": "addons",
+  "depth": "flagship",
+  "lastVerified": "2026-05-15",
+  "verdictEs": "CurseForge si necesitas el catálogo más grande de addons con soporte amplio para mods que solo viven ahí. Wago.io si quieres un app desktop ligero, sin ads/telemetría, mejor UX para WeakAuras y compartir builds con import codes versionados. Para muchos players serios, Wago se volvió el default.",
+  "verdictEn": "CurseForge for the largest addon catalog with broad support for mods that only live there. Wago.io for a lightweight desktop app, no ads/telemetry, better UX for WeakAuras, and sharing builds with versioned import codes. For many serious players, Wago became the default.",
+  "useCases": [
+    {
+      "labelEs": "Instalar y mantener un set de WeakAuras complejas",
+      "labelEn": "Install and maintain a complex WeakAuras set",
+      "winner": "wago-io",
+      "reasonEs": "Wago fue construido alrededor de WeakAuras. Import codes con version tracking, update notifications cuando el author publica fix, browse por spec con filtros granulares. CurseForge cubre WeakAuras pero la UX está pensada para addons genéricos.",
+      "reasonEn": "Wago was built around WeakAuras. Import codes with version tracking, update notifications when the author publishes a fix, browse by spec with granular filters. CurseForge covers WeakAuras but its UX is built for generic addons."
+    },
+    {
+      "labelEs": "Buscar un addon obscuro que solo está hosted en un lugar",
+      "labelEn": "Look for an obscure addon hosted in only one place",
+      "winner": "curseforge",
+      "reasonEs": "CurseForge tiene el catálogo más grande con 15+ años de historia. Addons abandonados pero todavía funcionales, mods de niche profundo y proyectos sin migration a Wago suelen vivir solo en CurseForge.",
+      "reasonEn": "CurseForge has the largest catalog with 15+ years of history. Abandoned but still-functional addons, deep-niche mods, and projects that didn't migrate to Wago typically live only on CurseForge."
+    },
+    {
+      "labelEs": "Compartir un setup completo de UI con tu guild",
+      "labelEn": "Share a full UI setup with your guild",
+      "winner": "wago-io",
+      "reasonEs": "Wago tiene mejor mecánica de import codes y URL sharing. Pegás una URL y el receiver instala el WeakAura/Plater profile con un click. CurseForge requiere descargar zip + import manual.",
+      "reasonEn": "Wago has better import code and URL sharing. Paste a URL and the recipient installs the WeakAura/Plater profile with one click. CurseForge requires zip download + manual import."
+    },
+    {
+      "labelEs": "Evitar telemetría y ads del desktop app",
+      "labelEn": "Avoid desktop app telemetry and ads",
+      "winner": "wago-io",
+      "reasonEs": "El CurseForge app post-Overwolf (2020) incluye ads y telemetría que muchos players consideran invasivos. El Wago app es lightweight, sin ads, focus en addon management puro.",
+      "reasonEn": "The CurseForge app post-Overwolf (2020) includes ads and telemetry that many players consider invasive. The Wago app is lightweight, no ads, focused on pure addon management."
+    },
+    {
+      "labelEs": "Instalar y actualizar addons sin un suite obligatorio",
+      "labelEn": "Install and update addons without a mandatory suite",
+      "winner": "wago-io",
+      "reasonEs": "Wago permite manage addons via app o manualmente sin lock-in. CurseForge históricamente force a usar su app para auto-updates — manual install funciona pero el flow está degradado.",
+      "reasonEn": "Wago lets you manage addons via app or manually without lock-in. CurseForge historically forces you to use its app for auto-updates — manual install works but the flow is degraded."
+    },
+    {
+      "labelEs": "Acceder a addons clásicos abandonados pero todavía útiles",
+      "labelEn": "Access classic abandoned but still-useful addons",
+      "winner": "curseforge",
+      "reasonEs": "CurseForge tiene 15+ años de archive — addons sin updates desde 2020 pero que siguen funcionando están preservados ahí. Wago es más joven; ese archive histórico no se replicó.",
+      "reasonEn": "CurseForge has 15+ years of archive — addons without updates since 2020 but still functional are preserved there. Wago is younger; that historical archive didn't get replicated."
+    }
+  ]
+}
