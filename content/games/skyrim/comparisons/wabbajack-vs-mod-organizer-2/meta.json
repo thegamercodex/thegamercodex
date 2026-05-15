@@ -1,0 +1,39 @@
+{
+  "id": "wabbajack-vs-mod-organizer-2",
+  "toolIds": ["wabbajack", "mod-organizer-2"],
+  "category": "mod-managers",
+  "depth": "short",
+  "lastVerified": "2026-05-14",
+  "verdictEs": "Wabbajack si quieres una modlist curada y probada de 300-700 mods instalada en una tarde sin elegir nada. Mod Organizer 2 si quieres construir tu propia modlist, controlar cada decisión y aprender los internals del modding de Skyrim.",
+  "verdictEn": "Wabbajack if you want a curated, battle-tested 300-700 mod modlist installed in an afternoon with zero choices to make. Mod Organizer 2 if you want to build your own modlist, control every decision, and learn the internals of Skyrim modding.",
+  "useCases": [
+    {
+      "labelEs": "Tener Skyrim modeado y jugable este fin de semana",
+      "labelEn": "Have Skyrim modded and playable this weekend",
+      "winner": "wabbajack",
+      "reasonEs": "Wabbajack instala una modlist completa en 2-6 horas (mayormente descarga) sin decisiones del usuario. Armar la misma modlist en MO2 manualmente tomaría semanas.",
+      "reasonEn": "Wabbajack installs a complete modlist in 2-6 hours (mostly download time) with no user decisions. Building the same modlist manually in MO2 would take weeks."
+    },
+    {
+      "labelEs": "Elegir cada mod de tu setup y entender cada conflicto",
+      "labelEn": "Pick every mod in your setup and understand every conflict",
+      "winner": "mod-organizer-2",
+      "reasonEs": "MO2 te da control total: eliges qué entra, en qué orden y cómo resolver overrides. Wabbajack es opaco — instalas la curación del autor de la lista.",
+      "reasonEn": "MO2 gives you full control: you choose what goes in, in what order, and how to resolve overrides. Wabbajack is opaque — you're installing the list author's curation."
+    },
+    {
+      "labelEs": "Modificar la modlist a tu gusto después de instalarla",
+      "labelEn": "Modify the modlist to your taste after installing it",
+      "winner": "mod-organizer-2",
+      "reasonEs": "Una vez instalada por Wabbajack la modlist es una instancia de MO2, así que técnicamente la puedes editar — pero salirse de la curación rompe la garantía de estabilidad. MO2 from scratch te da una base que es tuya.",
+      "reasonEn": "Once installed by Wabbajack, the modlist is an MO2 instance, so technically you can edit it — but stepping outside the curation breaks the stability guarantee. MO2 from scratch gives you a base that's yours."
+    },
+    {
+      "labelEs": "Aprender cómo funciona el modding de Skyrim",
+      "labelEn": "Learn how Skyrim modding works",
+      "winner": "mod-organizer-2",
+      "reasonEs": "Armar una modlist propia te obliga a entender LOOT, SSEEdit, conflict resolution, plugin order. Con Wabbajack todo eso queda invisible.",
+      "reasonEn": "Building your own modlist forces you to understand LOOT, SSEEdit, conflict resolution, plugin order. With Wabbajack all of that stays invisible."
+    }
+  ]
+}

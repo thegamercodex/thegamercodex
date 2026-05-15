@@ -1,0 +1,39 @@
+{
+  "id": "loot-vs-sseedit",
+  "toolIds": ["loot", "sseedit"],
+  "category": "modding-utilities",
+  "depth": "short",
+  "lastVerified": "2026-05-14",
+  "verdictEs": "LOOT para ordenar plugins automáticamente según las reglas curadas por la comunidad — un paso obligatorio antes de jugar. SSEEdit para inspeccionar y resolver los conflicts que LOOT no puede arreglar solo (overrides cruzados, parches manuales, limpieza de masters).",
+  "verdictEn": "LOOT to auto-sort plugins by community-curated rules — a mandatory step before playing. SSEEdit to inspect and resolve the conflicts LOOT can't fix on its own (cross overrides, manual patches, master cleaning).",
+  "useCases": [
+    {
+      "labelEs": "Ordenar tu load order después de instalar mods nuevos",
+      "labelEn": "Sort your load order after installing new mods",
+      "winner": "loot",
+      "reasonEs": "Es exactamente para esto: LOOT lee tus plugins, consulta las reglas curadas y produce un orden seguro en segundos.",
+      "reasonEn": "This is exactly what it's for: LOOT reads your plugins, consults curated rules, and produces a safe order in seconds."
+    },
+    {
+      "labelEs": "Resolver un conflict específico que LOOT marcó como warning",
+      "labelEn": "Resolve a specific conflict LOOT flagged as a warning",
+      "winner": "sseedit",
+      "reasonEs": "LOOT te avisa que hay un conflict pero no lo resuelve. SSEEdit es donde abres ambos plugins, comparas records y escribes el parche.",
+      "reasonEn": "LOOT warns you about the conflict but doesn't resolve it. SSEEdit is where you open both plugins, compare records, and write the patch."
+    },
+    {
+      "labelEs": "Limpiar Update.esm, Dawnguard.esm, Hearthfires.esm y Dragonborn.esm",
+      "labelEn": "Clean Update.esm, Dawnguard.esm, Hearthfires.esm, and Dragonborn.esm",
+      "winner": "sseedit",
+      "reasonEs": "Quick Auto Clean de SSEEdit ejecuta la limpieza estándar. LOOT detecta que necesitas limpiar pero no lo hace por ti.",
+      "reasonEn": "SSEEdit's Quick Auto Clean runs the standard cleaning. LOOT detects that you need cleaning but doesn't do it for you."
+    },
+    {
+      "labelEs": "Ver exactamente qué records modifica un plugin individual",
+      "labelEn": "See exactly which records an individual plugin modifies",
+      "winner": "sseedit",
+      "reasonEs": "LOOT opera sobre metadata del plugin (masters, dependencies, tags); no expone los records internos. SSEEdit es un explorador record por record.",
+      "reasonEn": "LOOT operates on plugin metadata (masters, dependencies, tags); it doesn't expose internal records. SSEEdit is a record-by-record explorer."
+    }
+  ]
+}

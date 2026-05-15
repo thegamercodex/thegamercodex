@@ -1,0 +1,28 @@
+{
+  "id": "skyrim-builds",
+  "name": "Skyrim Builds",
+  "shortName": "Skyrim Builds",
+  "taglineEs": "Calculadora de perks vanilla y Ordinator, más biblioteca de builds curados con foco en roleplay",
+  "taglineEn": "Vanilla and Ordinator perk calculators plus a curated build library focused on roleplay",
+  "url": "https://skyrimbuilds.com/perk-calculator",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-planning", "perks", "ordinator", "roleplay", "community"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-14",
+  "logo": "/images/tools/skyrim/skyrim-builds-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [],
+  "alternatives": ["nukes-and-dragons"],
+  "createdBy": {
+    "name": "Skyrim Builds",
+    "url": "https://skyrimbuilds.com"
+  }
+}

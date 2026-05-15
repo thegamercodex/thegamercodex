@@ -1,0 +1,30 @@
+{
+  "id": "nemesis-behavior-engine",
+  "name": "Nemesis Unlimited Behavior Engine",
+  "shortName": "Nemesis",
+  "taglineEs": "Patcher de comportamientos y animaciones — el reemplazo open-source de FNIS para Skyrim SE/AE",
+  "taglineEn": "Behavior and animation patcher — the open-source replacement for FNIS in Skyrim SE/AE",
+  "url": "https://www.nexusmods.com/skyrimspecialedition/mods/60033",
+  "category": "modding-utilities",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main",
+  "license": "Custom (open)",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["animations", "behaviors", "patcher", "combat"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["skse64", "mod-organizer-2", "bodyslide-outfit-studio"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Shikyo Kira",
+    "url": "https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main"
+  }
+}

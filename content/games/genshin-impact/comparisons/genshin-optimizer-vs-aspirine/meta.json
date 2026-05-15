@@ -1,0 +1,53 @@
+{
+  "id": "genshin-optimizer-vs-aspirine",
+  "toolIds": ["genshin-optimizer", "aspirine"],
+  "category": "artifact-optimization",
+  "depth": "flagship",
+  "lastVerified": "2026-05-14",
+  "verdictEs": "Genshin Optimizer si quieres la herramienta más completa para escanear, evaluar y optimizar tu inventario entero de artefactos — el estándar de facto que el resto de la comunidad cita como referencia. Aspirine si prefieres una calculadora web rápida, sin instalación, para chequear daño de un set específico sin importar todo tu inventario.",
+  "verdictEn": "Genshin Optimizer if you want the most complete tool for scanning, evaluating, and optimizing your entire artifact inventory — the de facto standard the rest of the community cites as reference. Aspirine if you prefer a fast browser calculator, no install, to check damage for a specific set without importing your full inventory.",
+  "useCases": [
+    {
+      "labelEs": "Encontrar el mejor set de 5 artefactos de tu inventario para un personaje específico",
+      "labelEn": "Find the best 5-piece artifact set in your inventory for a specific character",
+      "winner": "genshin-optimizer",
+      "reasonEs": "Genshin Optimizer permite cargar tu inventario completo (vía Inventory Kamera o entrada manual) y ejecuta un solver que prueba combinaciones reales contra fórmulas de daño. Aspirine no opera sobre inventario.",
+      "reasonEn": "Genshin Optimizer lets you load your full inventory (via Inventory Kamera or manual entry) and runs a solver that tests real combinations against damage formulas. Aspirine doesn't operate on inventory."
+    },
+    {
+      "labelEs": "Calcular rápidamente el daño de un build hipotético sin meter tu inventario",
+      "labelEn": "Quickly calculate damage for a hypothetical build without entering your inventory",
+      "winner": "aspirine",
+      "reasonEs": "Aspirine es web, abre rápido y te deja meter substats a mano para ver el daño en segundos. Genshin Optimizer asume que tienes tu inventario importado.",
+      "reasonEn": "Aspirine is web-based, opens fast, and lets you enter substats by hand to see damage in seconds. Genshin Optimizer assumes your inventory is imported."
+    },
+    {
+      "labelEs": "Comparar exactamente cuánto DPS gana o pierde un personaje al cambiar artefactos",
+      "labelEn": "Compare exactly how much DPS a character gains or loses when swapping artifacts",
+      "winner": "genshin-optimizer",
+      "reasonEs": "GO modela el motor de daño con suficiente profundidad para mostrar el delta entre builds candidatos. Aspirine cubre daño básico pero menos escenarios edge.",
+      "reasonEn": "GO models the damage engine deeply enough to show the delta between candidate builds. Aspirine covers basic damage but fewer edge scenarios."
+    },
+    {
+      "labelEs": "Usar la herramienta desde el navegador sin instalar nada",
+      "labelEn": "Use the tool from the browser without installing anything",
+      "winner": "aspirine",
+      "reasonEs": "Aspirine corre 100% en navegador. GO también tiene versión web pero la mayoría de la comunidad lo corre como desktop app para mejor performance con inventarios grandes.",
+      "reasonEn": "Aspirine runs 100% in browser. GO also has a web version but most of the community runs it as a desktop app for better performance with large inventories."
+    },
+    {
+      "labelEs": "Importar tu inventario con un scanner como Inventory Kamera",
+      "labelEn": "Import your inventory with a scanner like Inventory Kamera",
+      "winner": "genshin-optimizer",
+      "reasonEs": "GO tiene integración nativa con Inventory Kamera y el formato de import es el estándar de la comunidad. Aspirine no soporta este flujo.",
+      "reasonEn": "GO has native Inventory Kamera integration and the import format is the community standard. Aspirine doesn't support this flow."
+    },
+    {
+      "labelEs": "Theorycrafting de qué stats apuntar antes de farmear domain",
+      "labelEn": "Theorycrafting which stats to target before farming a domain",
+      "winner": "aspirine",
+      "reasonEs": "Aspirine es más rápido para iterar hipotéticos: cambiar valores de substats y ver delta sin abrir un proyecto pesado.",
+      "reasonEn": "Aspirine is faster for iterating on hypotheticals: tweak substat values and see the delta without opening a heavy project."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "fudgemuppet",
+  "name": "FudgeMuppet",
+  "realName": "Scott & Michael",
+  "country": "AU",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2014,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@FudgeMuppet",
+      "url": "https://www.youtube.com/@FudgeMuppet",
+      "channelId": "UCGcF0fKGWCu1a-QJ6crOHlQ",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "lore-analysis",
+    "character-builds",
+    "elder-scrolls-history",
+    "rpg-storytelling",
+    "deep-dives"
+  ],
+  "games": ["skyrim"],
+  "contentTypes": ["videos", "lore", "builds", "analysis"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "FudgeMuppet es el dúo australiano (Scott y Michael) que se convirtió en referencia absoluta de Elder Scrolls lore desde 2014. Sus videos son largos (30-60 min), bien producidos y se dividen en dos pilares: análisis profundo de lore (historia de los Daedra, Dwemer, Aedra, los Imperios) y character builds detalladas con backstory roleplay completo. Para Skyrim son la fuente go-to si quieres entender el universo más allá de la main quest. Multi-juego dentro del franchise pero Skyrim sigue siendo su contenido más vasto.",
+  "noteEn": "FudgeMuppet is the Australian duo (Scott and Michael) who became the de facto Elder Scrolls lore reference since 2014. Their videos are long (30-60 min), well-produced, and split into two pillars: deep lore analysis (history of the Daedra, Dwemer, Aedra, the Empires) and detailed character builds with full roleplay backstory. For Skyrim they're the go-to source if you want to understand the universe beyond the main quest. Multi-game within the franchise but Skyrim is still their largest body of content.",
+  "highlightsEs": [
+    "Series de lore exhaustivas sobre cada Daedric Prince, los Dwemer y la historia política de Tamriel",
+    "Character builds icónicas como The Witcher, The Vampire, The Demigod — con perks, equipment y roleplay completo",
+    "Análisis de quests específicas que decodifican subtexto y conexiones con el lore mayor",
+    "Tier lists de razas, archetypes y armaduras desde una perspectiva editorial",
+    "Producción audiovisual cuidada que se diferencia de la mayoría de Skyrim YouTubers"
+  ],
+  "highlightsEn": [
+    "Exhaustive lore series on each Daedric Prince, the Dwemer, and Tamriel's political history",
+    "Iconic character builds like The Witcher, The Vampire, The Demigod — with perks, equipment, and full roleplay",
+    "Specific quest analyses decoding subtext and connections to the wider lore",
+    "Race, archetype, and armor tier lists from an editorial perspective",
+    "Polished audiovisual production that sets them apart from most Skyrim YouTubers"
+  ],
+  "avatar": "/images/creators/fudgemuppet-avatar.jpg",
+  "banner": "/images/creators/fudgemuppet-banner.jpg"
+}

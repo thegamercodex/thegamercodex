@@ -1,0 +1,160 @@
+{
+  "id": "skyrim",
+  "name": "The Elder Scrolls V: Skyrim",
+  "shortName": "Skyrim",
+  "developer": "Bethesda Game Studios",
+  "releaseYear": 2011,
+  "officialUrl": "https://elderscrolls.bethesda.net/skyrim",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/",
+      "appId": "489830",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "gog",
+      "url": "https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "epic",
+      "url": "https://store.epicgames.com/en-US/p/the-elder-scrolls-v-skyrim-special-edition",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10001316",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/store/the-elder-scrolls-v-skyrim-anniversary-edition/9p1q01n4lmsl",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "nintendo",
+      "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-v-skyrim-switch/",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": false,
+    "purchaseTypes": ["expansion", "creation-club"],
+    "payToWin": false,
+    "noteEs": "Single-player puro. Compra única (Special Edition o Anniversary Edition, ~$40 USD). La AE agrega contenido del Creation Club — quests, armaduras, hechizos creados por Bethesda y modders contratados. No hay battle pass, no hay microtransacciones recurrentes. Las Creations individuales se pueden comprar sueltas si tienes solo SE, pero la mayoría de la comunidad mods gratis cubre y supera ese contenido.",
+    "noteEn": "Pure single-player. One-time purchase (Special Edition or Anniversary Edition, ~$40 USD). AE adds Creation Club content — quests, armor, spells created by Bethesda and contracted modders. No battle pass, no recurring microtransactions. Individual Creations can be bought standalone with just SE, but most free community mods cover and exceed that content."
+  },
+  "platforms": ["windows", "playstation", "xbox", "switch"],
+  "genres": ["action-rpg", "open-world", "fantasy", "single-player"],
+  "theme": {
+    "primary": "#2c3e54",
+    "secondary": "#161c25",
+    "accent": "#c9a458",
+    "background": "#0a0e14",
+    "text": "#ece8d8"
+  },
+  "logo": "/images/games/skyrim-logo.png",
+  "heroImage": "/images/games/skyrim-hero.webp",
+  "toolCategories": [
+    {
+      "id": "mod-managers",
+      "nameEs": "Gestores de Mods",
+      "nameEn": "Mod Managers",
+      "descriptionEs": "Aplicaciones que descargan, instalan y mantienen tu lista de mods sin tocar la carpeta del juego",
+      "descriptionEn": "Applications that download, install, and maintain your mod list without touching the game folder",
+      "icon": "📦"
+    },
+    {
+      "id": "modding-frameworks",
+      "nameEs": "Frameworks de Modding",
+      "nameEn": "Modding Frameworks",
+      "descriptionEs": "Base técnica sobre la que se montan la mayoría de mods: extensores de script, librerías de direcciones, UI",
+      "descriptionEn": "Technical foundation most mods build on: script extenders, address libraries, UI frameworks",
+      "icon": "🧩"
+    },
+    {
+      "id": "modding-utilities",
+      "nameEs": "Utilidades de Modding",
+      "nameEn": "Modding Utilities",
+      "descriptionEs": "Editores, sorters, generadores de LOD y patchers que armas y limpias tu modlist",
+      "descriptionEn": "Editors, sorters, LOD generators, and patchers used to build and clean your modlist",
+      "icon": "🛠️"
+    },
+    {
+      "id": "build-planning",
+      "nameEs": "Planificación de Builds",
+      "nameEn": "Build Planning",
+      "descriptionEs": "Planificadores de perks y atributos para diseñar tu Dragonborn antes de subir niveles",
+      "descriptionEn": "Perk and attribute planners to design your Dragonborn before leveling up",
+      "icon": "🧮"
+    },
+    {
+      "id": "maps",
+      "nameEs": "Mapas Interactivos",
+      "nameEn": "Interactive Maps",
+      "descriptionEs": "Mapas con coleccionables, palabras de poder, locaciones y quests de Skyrim",
+      "descriptionEn": "Maps with collectibles, words of power, locations, and Skyrim quests",
+      "icon": "🗺️"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis, bases de datos y hubs de mods con todo el contenido vanilla y community de Skyrim",
+      "descriptionEn": "Wikis, databases, and mod hubs covering all vanilla and community Skyrim content",
+      "icon": "📚"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Servidores donde la comunidad de modders y players de Skyrim intercambia ayuda y guías",
+      "descriptionEn": "Servers where the Skyrim modder and player community exchange help and guides",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para arrancar Skyrim sin perderte ni romper tu primera build",
+      "descriptionEn": "Essential resources to start Skyrim without getting lost or breaking your first build",
+      "icon": "🌱"
+    },
+    {
+      "id": "build-guides",
+      "nameEs": "Guías de Builds",
+      "nameEn": "Build Guides",
+      "descriptionEs": "Builds destacadas por arquetipo: stealth archer, two-handed warrior, pure mage, sneak assassin",
+      "descriptionEn": "Featured builds by archetype: stealth archer, two-handed warrior, pure mage, sneak assassin",
+      "icon": "🛡️"
+    },
+    {
+      "id": "modding-guides",
+      "nameEs": "Guías de Modding",
+      "nameEn": "Modding Guides",
+      "descriptionEs": "Cómo instalar, ordenar y solucionar problemas con mods de Skyrim Special/Anniversary Edition",
+      "descriptionEn": "How to install, order, and troubleshoot Skyrim Special/Anniversary Edition mods",
+      "icon": "🧩"
+    },
+    {
+      "id": "mod-recommendations",
+      "nameEs": "Mods Recomendados",
+      "nameEn": "Mod Recommendations",
+      "descriptionEs": "Listas curadas y reviews de los mejores mods por categoría: gráficos, gameplay, quests, NPCs",
+      "descriptionEn": "Curated lists and reviews of the best mods by category: graphics, gameplay, quests, NPCs",
+      "icon": "⭐"
+    },
+    {
+      "id": "lore-and-deep-dives",
+      "nameEs": "Lore y Análisis",
+      "nameEn": "Lore & Deep Dives",
+      "descriptionEs": "Análisis narrativos, lore de Tamriel, historia de los Nords y conexiones con el universo Elder Scrolls",
+      "descriptionEn": "Narrative analyses, Tamriel lore, Nord history, and connections to the broader Elder Scrolls universe",
+      "icon": "📖"
+    }
+  ]
+}

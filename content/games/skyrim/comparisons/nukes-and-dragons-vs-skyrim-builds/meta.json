@@ -1,0 +1,46 @@
+{
+  "id": "nukes-and-dragons-vs-skyrim-builds",
+  "toolIds": ["nukes-and-dragons", "skyrim-builds"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-05-14",
+  "verdictEs": "Nukes & Dragons si juegas Skyrim vanilla y quieres el planner web más pulido — bonus si también juegas otros juegos de Bethesda o Cyberpunk porque la UX es idéntica. Skyrim Builds si tienes Ordinator instalado o quieres una biblioteca de builds curados con foco en roleplay.",
+  "verdictEn": "Nukes & Dragons if you play vanilla Skyrim and want the most polished web planner — bonus if you also play other Bethesda games or Cyberpunk since the UX is identical. Skyrim Builds if you have Ordinator installed or want a curated library of roleplay-focused builds.",
+  "useCases": [
+    {
+      "labelEs": "Planificar un build con Ordinator instalado en tu modlist",
+      "labelEn": "Plan a build with Ordinator installed in your modlist",
+      "winner": "skyrim-builds",
+      "reasonEs": "Skyrim Builds tiene calculator dedicado para Ordinator. Nukes & Dragons solo cubre los perks vanilla y queda inútil si tu modlist usa el overhaul.",
+      "reasonEn": "Skyrim Builds has a dedicated Ordinator calculator. Nukes & Dragons only covers vanilla perks and is useless if your modlist uses the overhaul."
+    },
+    {
+      "labelEs": "Empezar desde un build curado en lugar de un árbol vacío",
+      "labelEn": "Start from a curated build instead of an empty tree",
+      "winner": "skyrim-builds",
+      "reasonEs": "Skyrim Builds incluye biblioteca de builds (Stealth Archer, Battlemage, Necromancer, etc.) con calculator precargado. Nukes & Dragons solo da la herramienta vacía.",
+      "reasonEn": "Skyrim Builds includes a build library (Stealth Archer, Battlemage, Necromancer, etc.) with the calculator preloaded. Nukes & Dragons only gives you the empty tool."
+    },
+    {
+      "labelEs": "Compartir un build por URL con UX pulida",
+      "labelEn": "Share a build by URL with a polished UX",
+      "winner": "nukes-and-dragons",
+      "reasonEs": "Ambos exportan URLs, pero N&D tiene UI más profesional, iconografía consistente y un layout más limpio del passive tree. Mejor presentación cuando el destinatario abre el link.",
+      "reasonEn": "Both export URLs, but N&D has a more professional UI, consistent iconography, and a cleaner passive-tree layout. Better presentation when the recipient opens the link."
+    },
+    {
+      "labelEs": "Consistencia con planners de otros juegos de Bethesda o Cyberpunk",
+      "labelEn": "Consistency with planners for other Bethesda games or Cyberpunk",
+      "winner": "nukes-and-dragons",
+      "reasonEs": "N&D cubre Fallout 4, Fallout 76, Starfield, Cyberpunk y Skyrim con la misma UX. Si saltas entre juegos, el planner se mantiene familiar. Skyrim Builds es solo Skyrim.",
+      "reasonEn": "N&D covers Fallout 4, Fallout 76, Starfield, Cyberpunk, and Skyrim with the same UX. If you jump between games, the planner stays familiar. Skyrim Builds is Skyrim-only."
+    },
+    {
+      "labelEs": "Vanilla Skyrim sin mods y planificación rápida",
+      "labelEn": "Vanilla Skyrim with no mods and fast planning",
+      "winner": "nukes-and-dragons",
+      "reasonEs": "Para el caso vanilla puro N&D tiene la mejor UX. Skyrim Builds funciona pero es claramente menos pulido cuando solo necesitas el calculator vanilla.",
+      "reasonEn": "For the pure vanilla case N&D has the best UX. Skyrim Builds works but is clearly less polished when you only need the vanilla calculator."
+    }
+  ]
+}

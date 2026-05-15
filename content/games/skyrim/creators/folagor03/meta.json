@@ -1,0 +1,45 @@
+{
+  "id": "folagor03",
+  "name": "Folagor03",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "joinedYear": 2012,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Folagor03",
+      "url": "https://www.youtube.com/@Folagor03",
+      "channelId": "UCYcdw2wL6W6iGBKZgGK_Hjw",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "rpg-gameplay",
+    "elder-scrolls",
+    "open-world-exploration",
+    "playthrough-series",
+    "spanish-content"
+  ],
+  "games": ["skyrim"],
+  "contentTypes": ["videos", "playthroughs", "gameplay-series"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Folagor03 es uno de los creators de RPGs más establecidos en español, activo desde 2012. Su contenido cubre una variedad amplia de juegos pero los RPGs de mundo abierto — incluyendo Skyrim y otros Elder Scrolls — son pilar regular. Formato: gameplays serializados con narración propia, foco en exploración, builds y storytelling. Para hispanohablantes que prefieren consumir Skyrim en su idioma sin doblaje robótico, Folagor es punto de entrada confiable. Multi-juego por naturaleza — Skyrim es uno de sus pilares cuando hay relanzamiento o expansión.",
+  "noteEn": "Folagor03 is one of the most established Spanish-language RPG creators, active since 2012. His content covers a broad range of games but open-world RPGs — including Skyrim and other Elder Scrolls titles — are a regular pillar. Format: serialized gameplay with his own narration, focus on exploration, builds, and storytelling. For Spanish speakers who'd rather consume Skyrim in their language without robotic dubbing, Folagor is a reliable entry point. Multi-game by nature — Skyrim is one of his pillars when there's a re-release or expansion.",
+  "highlightsEs": [
+    "Playthroughs serializados de Skyrim que cubren main quest y facciones con comentario en español",
+    "Builds explicadas con visión de jugador casual, no min-max obsesivo",
+    "Cobertura amplia del catálogo Elder Scrolls (Skyrim, Oblivion en su momento, ESO)",
+    "Narración natural sin doblaje robótico ni traducciones automáticas",
+    "Comunidad hispanohablante activa en comentarios y Discord"
+  ],
+  "highlightsEn": [
+    "Serialized Skyrim playthroughs covering main quest and factions with Spanish commentary",
+    "Builds explained from a casual player's lens, not obsessive min-maxing",
+    "Broad Elder Scrolls catalog coverage (Skyrim, Oblivion in its day, ESO)",
+    "Natural narration without robotic dubbing or auto-translations",
+    "Active Spanish-speaking community in comments and Discord"
+  ],
+  "avatar": "/images/creators/folagor03-avatar.jpg",
+  "banner": "/images/creators/folagor03-banner.jpg"
+}

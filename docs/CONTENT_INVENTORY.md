@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-13
+> Última generación: 2026-05-15
 
 ## Resumen
 
-11 juegos · 174 tools · 55 creators · 57 categorías · 285 resources items · 15 comparisons
+12 juegos · 193 tools · 60 creators · 62 categorías · 310 resources items · 26 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -13,11 +13,12 @@
 | `cyberpunk-2077` | Cyberpunk 2077 | 15 | 5 | 5 | 25 | 0 |
 | `destiny-2` | Destiny 2 | 12 | 5 | 5 | 25 | 0 |
 | `dota-2` | Dota 2 | 13 | 5 | 5 | 25 | 0 |
-| `genshin-impact` | Genshin Impact | 24 | 5 | 6 | 30 | 0 |
+| `genshin-impact` | Genshin Impact | 24 | 5 | 6 | 30 | 6 |
 | `league-of-legends` | League of Legends | 15 | 5 | 5 | 25 | 0 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 0 |
 | `path-of-exile` | Path of Exile | 17 | 5 | 5 | 25 | 7 |
 | `path-of-exile-2` | Path of Exile 2 | 20 | 5 | 5 | 25 | 8 |
+| `skyrim` | The Elder Scrolls V: Skyrim | 19 | 5 | 5 | 25 | 5 |
 | `valorant` | Valorant | 15 | 5 | 5 | 25 | 0 |
 | `world-of-warcraft` | World of Warcraft | 15 | 5 | 6 | 30 | 0 |
 
@@ -97,7 +98,7 @@
 - `lore-and-story` — 5 items
 - `patch-coverage` — 5 items
 
-**Comparisons (0)**: _(none)_
+**Comparisons (6)**: `gcsim-vs-akasha-system` (short), `genshin-optimizer-vs-aspirine` (flagship), `honey-hunter-world-vs-hoyowiki` (short), `hoyolab-map-vs-appsample-genshin-map` (short), `keqing-mains-vs-game8-genshin` (flagship), `seelie-me-vs-genshin-center` (short)
 
 ### League of Legends (`league-of-legends`)
 
@@ -158,6 +159,21 @@
 - `trading-guides` — 5 items
 
 **Comparisons (8)**: `craft-of-exile-vs-path-of-crafting` (short), `exiled-exchange-2-vs-poe-overlay` (short), `exiled-exchange-2-vs-sidekick` (short), `maxroll-vs-mobalytics` (short), `path-of-building-vs-poeplanner` (flagship), `poe-ninja-vs-poe2-scout` (short), `poe-trade-official-vs-tft` (short), `poe2-wiki-vs-poe2db` (flagship)
+
+### The Elder Scrolls V: Skyrim (`skyrim`)
+
+**Tools (19)**: Address Library for SKSE Plugins (`address-library-skse`), BodySlide and Outfit Studio (`bodyslide-outfit-studio`), Cathedral Assets Optimizer (`cathedral-assets-optimizer`), DynDOLOD (`dyndolod`), LOOT (Load Order Optimization Tool) (`loot`), Map Genie Skyrim Interactive Map (`map-genie-skyrim`), Mod Organizer 2 (`mod-organizer-2`), Nemesis Unlimited Behavior Engine (`nemesis-behavior-engine`), Nexus Mods (Skyrim Special Edition) (`nexus-mods-skyrim`), Nukes & Dragons Skyrim Build Planner (`nukes-and-dragons`), Skyrim Script Extender (SKSE64) (`skse64`), Skyrim Builds (`skyrim-builds`), r/skyrimmods Discord (`skyrimmods-discord`), SkyUI (`skyui`), SSEEdit (xEdit for Skyrim SE) (`sseedit`), Synthesis (`synthesis`), UESP — Unofficial Elder Scrolls Pages (`uesp`), Vortex Mod Manager (`vortex-mod-manager`), Wabbajack (`wabbajack`)
+
+**Creators (5)**: Brodual (`brodual`), Folagor03 (`folagor03`), FudgeMuppet (`fudgemuppet`), GamerPoets (`gamerpoets`), TheEpicNate315 (`the-epic-nate-315`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `build-guides` — 5 items
+- `lore-and-deep-dives` — 5 items
+- `mod-recommendations` — 5 items
+- `modding-guides` — 5 items
+
+**Comparisons (5)**: `loot-vs-sseedit` (short), `mod-organizer-2-vs-vortex-mod-manager` (flagship), `nukes-and-dragons-vs-skyrim-builds` (short), `synthesis-vs-sseedit` (flagship), `wabbajack-vs-mod-organizer-2` (short)
 
 ### Valorant (`valorant`)
 

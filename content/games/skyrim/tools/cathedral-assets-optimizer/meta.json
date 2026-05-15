@@ -1,0 +1,30 @@
+{
+  "id": "cathedral-assets-optimizer",
+  "name": "Cathedral Assets Optimizer",
+  "shortName": "CAO",
+  "taglineEs": "Optimizador de texturas, meshes y animaciones — convierte assets LE a SE y reduce VRAM",
+  "taglineEn": "Texture, mesh, and animation optimizer — converts LE assets to SE and reduces VRAM usage",
+  "url": "https://www.nexusmods.com/skyrimspecialedition/mods/23316",
+  "category": "modding-utilities",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/G-K-r/Cathedral-Assets-Optimizer",
+  "license": "GPL-3.0",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["optimizer", "textures", "meshes", "conversion", "performance"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["sseedit", "mod-organizer-2"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "G_k",
+    "url": "https://github.com/G-K-r/Cathedral-Assets-Optimizer"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "synthesis-vs-sseedit",
+  "toolIds": ["synthesis", "sseedit"],
+  "category": "modding-utilities",
+  "depth": "flagship",
+  "lastVerified": "2026-05-14",
+  "verdictEs": "SSEEdit si necesitas inspeccionar plugins, escribir parches manuales precisos o limpiar masters huérfanos. Synthesis si quieres automatizar parches repetitivos (leveled lists, NPCs, races) que se regeneran cada vez que cambias la modlist.",
+  "verdictEn": "SSEEdit if you need to inspect plugins, write precise manual patches, or clean orphan masters. Synthesis if you want to automate repetitive patches (leveled lists, NPCs, races) that regenerate every time you change the modlist.",
+  "useCases": [
+    {
+      "labelEs": "Investigar exactamente qué records modifica un plugin",
+      "labelEn": "Investigate exactly which records a plugin modifies",
+      "winner": "sseedit",
+      "reasonEs": "SSEEdit es un explorador de records: abres un plugin y ves cada modificación, cada override y cada conflict en un árbol completo. Synthesis no expone los records — se mueve a nivel de transformaciones programáticas.",
+      "reasonEn": "SSEEdit is a record explorer: open a plugin and see every modification, override, and conflict in a full tree. Synthesis doesn't expose records — it operates at the level of programmatic transformations."
+    },
+    {
+      "labelEs": "Regenerar parches de leveled list automáticamente al agregar o quitar mods",
+      "labelEn": "Regenerate leveled list patches automatically when adding or removing mods",
+      "winner": "synthesis",
+      "reasonEs": "Patchers como SynLeveledList resuelven mergers de leveled lists en segundos, repetibles. En SSEEdit hay que correr el Leveled List Patcher manualmente y rehacerlo en cada cambio.",
+      "reasonEn": "Patchers like SynLeveledList resolve leveled list merges in seconds, repeatable. In SSEEdit you have to run the Leveled List Patcher manually and redo it on every change."
+    },
+    {
+      "labelEs": "Escribir un parche puntual entre dos mods específicos",
+      "labelEn": "Write a one-off patch between two specific mods",
+      "winner": "sseedit",
+      "reasonEs": "Abres ambos plugins, copias el record ganador a un nuevo plugin con \"Copy as override\" y editas a mano. Para un patch único es más directo que escribir código C#.",
+      "reasonEn": "Open both plugins, copy the winning record to a new plugin with \"Copy as override\", and edit by hand. For a one-off patch it's more direct than writing C# code."
+    },
+    {
+      "labelEs": "Limpiar masters huérfanos (ITM/UDR) de plugins oficiales o de la comunidad",
+      "labelEn": "Clean orphan masters (ITM/UDR) from official or community plugins",
+      "winner": "sseedit",
+      "reasonEs": "Quick Auto Clean de SSEEdit es la herramienta estándar para limpiar Update.esm, Dawnguard.esm, Hearthfires.esm, Dragonborn.esm. Synthesis no cubre limpieza, cubre patching.",
+      "reasonEn": "SSEEdit's Quick Auto Clean is the standard tool for cleaning Update.esm, Dawnguard.esm, Hearthfires.esm, Dragonborn.esm. Synthesis doesn't cover cleaning, it covers patching."
+    },
+    {
+      "labelEs": "Mantener una modlist grande donde reinstalas o swappeas mods seguido",
+      "labelEn": "Maintain a large modlist where you reinstall or swap mods often",
+      "winner": "synthesis",
+      "reasonEs": "Synthesis re-ejecuta toda la pipeline de patches en un solo click cuando cambia la modlist. SSEEdit requiere rehacer cada patch manualmente.",
+      "reasonEn": "Synthesis re-runs the whole patch pipeline with one click whenever the modlist changes. SSEEdit requires redoing each patch manually."
+    },
+    {
+      "labelEs": "Aprender cómo funciona la estructura de plugins de Skyrim",
+      "labelEn": "Learn how Skyrim's plugin structure works",
+      "winner": "sseedit",
+      "reasonEs": "SSEEdit es la mejor herramienta para entender records, masters, FormIDs y la jerarquía de overrides. Synthesis abstrae todo eso detrás de patchers ya escritos.",
+      "reasonEn": "SSEEdit is the best tool for understanding records, masters, FormIDs, and the override hierarchy. Synthesis abstracts all of that behind pre-written patchers."
+    }
+  ]
+}

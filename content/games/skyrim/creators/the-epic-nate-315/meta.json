@@ -1,0 +1,46 @@
+{
+  "id": "the-epic-nate-315",
+  "name": "TheEpicNate315",
+  "realName": "Nate",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2014,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@TheEpicNate315",
+      "url": "https://www.youtube.com/@TheEpicNate315",
+      "channelId": "UCZz1vlP2XaeKnEP3L5hmcVA",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "exploration",
+    "easter-eggs",
+    "secrets",
+    "details-and-trivia",
+    "bethesda-games"
+  ],
+  "games": ["skyrim"],
+  "contentTypes": ["videos", "exploration", "secrets", "deep-dives"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Nate construyó su canal alrededor de un nicho único: descubrir detalles, easter eggs, secretos no documentados y mecánicas ocultas de juegos Bethesda. Para Skyrim eso significa videos sobre locations que pasan desapercibidas, NPCs con dialogue raro, environmental storytelling oculto, y mecánicas que el juego no explica. Si jugaste Skyrim varias veces y creés que ya viste todo, Nate prueba lo contrario. Formato pausado, montaje cuidado, sin clickbait.",
+  "noteEn": "Nate built his channel around a unique niche: discovering details, easter eggs, undocumented secrets, and hidden mechanics in Bethesda games. For Skyrim that means videos on overlooked locations, NPCs with strange dialogue, hidden environmental storytelling, and mechanics the game doesn't explain. If you played Skyrim multiple times and think you've seen it all, Nate proves otherwise. Slow-paced format, careful editing, no clickbait.",
+  "highlightsEs": [
+    "Series \"X things you didn't know about Skyrim\" con detalles realmente oscuros, no clickbait reciclado",
+    "Análisis de NPCs ignorados — esquemas de AI, dialogue trees alternativos, schedules raros",
+    "Exploration deep dives en cells secundarias que el lore principal no menciona",
+    "Comparaciones cross-Bethesda (Skyrim vs Oblivion vs Morrowind) cuando los easter eggs conectan",
+    "Estilo no pretensioso, dejando que el descubrimiento hable por sí mismo"
+  ],
+  "highlightsEn": [
+    "\"X things you didn't know about Skyrim\" series with genuinely obscure details, no recycled clickbait",
+    "Analysis of ignored NPCs — AI schemas, alternate dialogue trees, weird schedules",
+    "Exploration deep dives into secondary cells the main lore doesn't mention",
+    "Cross-Bethesda comparisons (Skyrim vs Oblivion vs Morrowind) when easter eggs connect",
+    "Non-pretentious style that lets the discovery speak for itself"
+  ],
+  "avatar": "/images/creators/the-epic-nate-315-avatar.jpg",
+  "banner": "/images/creators/the-epic-nate-315-banner.jpg"
+}

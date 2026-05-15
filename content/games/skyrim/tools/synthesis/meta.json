@@ -1,0 +1,30 @@
+{
+  "id": "synthesis",
+  "name": "Synthesis",
+  "shortName": "Synthesis",
+  "taglineEs": "Framework de auto-patchers en C# que reemplaza patches manuales repetitivos por código",
+  "taglineEn": "C# auto-patcher framework that replaces repetitive manual patches with code",
+  "url": "https://www.nexusmods.com/skyrimspecialedition/mods/33996",
+  "category": "modding-utilities",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Mutagen-Modding/Synthesis",
+  "license": "MIT",
+  "platforms": ["windows", "linux", "macos"],
+  "languages": ["en"],
+  "tags": ["auto-patcher", "automation", "csharp", "mutagen"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["sseedit", "mod-organizer-2"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Noggog & Mutagen Team",
+    "url": "https://github.com/Mutagen-Modding/Synthesis"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "vortex-mod-manager",
+  "name": "Vortex Mod Manager",
+  "shortName": "Vortex",
+  "taglineEs": "El mod manager oficial de Nexus — instala mods de Skyrim con un click y mantiene tu setup ordenado",
+  "taglineEn": "Nexus Mods' official mod manager — install Skyrim mods with one click and keep your setup ordered",
+  "url": "https://www.nexusmods.com/site/mods/1",
+  "category": "mod-managers",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Nexus-Mods/Vortex",
+  "license": "GPL-3.0",
+  "platforms": ["windows"],
+  "languages": ["en", "es"],
+  "tags": ["mod-manager", "installer", "automation", "nexus"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["skse64", "loot", "mod-organizer-2"],
+  "alternatives": ["mod-organizer-2"],
+  "createdBy": {
+    "name": "Nexus Mods",
+    "url": "https://www.nexusmods.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "cyberpunk-2077", "url": "https://www.nexusmods.com/site/mods/1" }
+    ]
+  }
+}

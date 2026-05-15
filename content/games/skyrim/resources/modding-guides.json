@@ -1,0 +1,80 @@
+{
+  "category": "modding-guides",
+  "resources": [
+    {
+      "id": "gamerpoets-skse-complete-2025-guide",
+      "type": "video",
+      "title": "The Complete 2025 Guide to Using Skyrim Script Extender (SKSE)",
+      "creator": "GamerPoets",
+      "creatorId": "gamerpoets",
+      "url": "https://www.youtube.com/watch?v=nvFfqgqBFIU",
+      "youtubeId": "nvFfqgqBFIU",
+      "language": "en",
+      "duration": "3:47",
+      "publishedDate": "2024-05-07",
+      "thumbnail": "https://i.ytimg.com/vi/nvFfqgqBFIU/maxresdefault.jpg",
+      "noteEs": "Walkthrough oficial de GamerPoets para instalar y configurar SKSE64 en Skyrim Special/Anniversary Edition en 2025. Cubre version matching, lanzamiento via mod manager, y verificación in-game. Tutorial directo, ideal como primer paso del setup de modding.",
+      "noteEn": "GamerPoets' official walkthrough for installing and configuring SKSE64 on Skyrim Special/Anniversary Edition in 2025. Covers version matching, launching via mod manager, and in-game verification. Direct tutorial, ideal as the first modding-setup step."
+    },
+    {
+      "id": "gamerpoets-xedit-install-setup-2024",
+      "type": "video",
+      "title": "How to Install & Setup xEdit - Ultimate Modding Tool",
+      "creator": "GamerPoets",
+      "creatorId": "gamerpoets",
+      "url": "https://www.youtube.com/watch?v=YCAmgBm6o8I",
+      "youtubeId": "YCAmgBm6o8I",
+      "language": "en",
+      "duration": "5:04",
+      "publishedDate": "2024-07-17",
+      "thumbnail": "https://i.ytimg.com/vi/YCAmgBm6o8I/maxresdefault.jpg",
+      "noteEs": "Cómo instalar SSEEdit (la versión Skyrim SE de xEdit) y configurar el primer launch correctamente. GamerPoets es la referencia obligada en r/skyrimmods cuando alguien pregunta cómo arrancar con xEdit — claro, paso a paso, sin asunciones de conocimiento previo.",
+      "noteEn": "How to install SSEEdit (the Skyrim SE version of xEdit) and configure the first launch correctly. GamerPoets is the go-to reference on r/skyrimmods when someone asks how to start with xEdit — clear, step-by-step, no assumed prior knowledge."
+    },
+    {
+      "id": "gamerpoets-clean-bethesda-dlc-mods-2024",
+      "type": "video",
+      "title": "Should you Clean Bethesda DLC and Mods? And How to do so",
+      "creator": "GamerPoets",
+      "creatorId": "gamerpoets",
+      "url": "https://www.youtube.com/watch?v=9puPtKgMcJM",
+      "youtubeId": "9puPtKgMcJM",
+      "language": "en",
+      "duration": "5:11",
+      "publishedDate": "2024-08-04",
+      "thumbnail": "https://i.ytimg.com/vi/9puPtKgMcJM/maxresdefault.jpg",
+      "noteEs": "Debate honesto sobre si conviene limpiar los DLC oficiales de Bethesda (Dawnguard, Hearthfire, Dragonborn) y cómo hacerlo con xEdit Quick Clean. La práctica histórica era \"siempre limpiar\"; GamerPoets revisita el consenso con info actualizada de Bethesda updates.",
+      "noteEn": "An honest take on whether you should clean Bethesda's official DLCs (Dawnguard, Hearthfire, Dragonborn) and how to do it with xEdit Quick Clean. Historical practice was \"always clean\"; GamerPoets revisits the consensus with updated info from Bethesda patches."
+    },
+    {
+      "id": "dunkan-winter-guia-modear-skyrim-aniversary-2024",
+      "type": "video",
+      "title": "2024: GUÍA para modear tu Skyrim Aniversary Edition",
+      "creator": "Dunkan Winter",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=OyWEbP-qyC0",
+      "youtubeId": "OyWEbP-qyC0",
+      "language": "es",
+      "duration": "45:54",
+      "publishedDate": "2024-01-15",
+      "thumbnail": "https://i.ytimg.com/vi/OyWEbP-qyC0/maxresdefault.jpg",
+      "noteEs": "Guía completa en español para modear Skyrim Anniversary Edition: setup de mod manager, instalación de SKSE, SkyUI, mods esenciales, manejo de load order. 45 min cubriendo el flow desde cero. Para players hispanohablantes que prefieren tutorial en su idioma sin doblaje automático.",
+      "noteEn": "Full Spanish-language guide to modding Skyrim Anniversary Edition: mod manager setup, installing SKSE, SkyUI, essential mods, load order management. 45 min covering the flow from scratch. For Spanish-speaking players who'd rather follow the tutorial in their language without auto-dubbing."
+    },
+    {
+      "id": "zerofps-wabbajack-lorerim-modlist-guia-2025",
+      "type": "video",
+      "title": "GUÍA COMPLETA ¡Cómo Instalar Cualquier Modlist con Wabbajack – Fácil y sin Errores! (LORERIM)",
+      "creator": "ZeroFPS",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=vvIj1uowUEQ",
+      "youtubeId": "vvIj1uowUEQ",
+      "language": "es",
+      "duration": "55:19",
+      "publishedDate": "2025-06-25",
+      "thumbnail": "https://i.ytimg.com/vi/vvIj1uowUEQ/maxresdefault.jpg",
+      "noteEs": "Guía exhaustiva en español de cómo instalar modlists Wabbajack — usando Lorerim como ejemplo. Cubre requisitos previos, downgrade de Skyrim si hace falta, configuración de cuenta Nexus, manejo del proceso de descarga, y troubleshooting común. 55 min, formato detallado.",
+      "noteEn": "Exhaustive Spanish-language guide to installing Wabbajack modlists — using Lorerim as the example. Covers prerequisites, Skyrim downgrade if needed, Nexus account setup, managing the download process, and common troubleshooting. 55 min, detailed format."
+    }
+  ]
+}

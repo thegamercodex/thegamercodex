@@ -1,0 +1,30 @@
+{
+  "id": "loot",
+  "name": "LOOT (Load Order Optimization Tool)",
+  "shortName": "LOOT",
+  "taglineEs": "Auto-ordena tus plugins de Skyrim según rules curadas por la comunidad para evitar crashes por orden incorrecto",
+  "taglineEn": "Auto-sorts your Skyrim plugins by community-curated rules to avoid crashes from incorrect ordering",
+  "url": "https://loot.github.io",
+  "category": "modding-utilities",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/loot/loot",
+  "license": "GPL-3.0",
+  "platforms": ["windows", "linux"],
+  "languages": ["en"],
+  "tags": ["load-order", "sorting", "dependencies", "masterlist"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/skyrim/loot-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mod-organizer-2", "vortex-mod-manager", "sseedit"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "LOOT Team",
+    "url": "https://loot.github.io"
+  }
+}

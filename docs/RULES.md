@@ -78,11 +78,16 @@ Sin matches = limpio. Cualquier match es un bug y bloquea el commit.
 | Creator avatar | `public/images/creators/<creator-id>-avatar.<ext>` | `zizaran-avatar.jpg` |
 | Creator banner | `public/images/creators/<creator-id>-banner.<ext>` | `zizaran-banner.jpg` |
 | Tool logo | `public/images/tools/<game-id>/<tool-id>-logo.<ext>` | `path-of-exile/maxroll-logo.png` |
+| Tool logo (shared vendor) | `public/images/tools/common/<vendor>-logo.<ext>` | `github-logo.png`, `nexusmods-logo.svg` |
 | Tool screenshot | `public/images/tools/<game-id>/<tool-id>-ss-<N>.<ext>` | `path-of-exile/path-of-building-ss-1.png` |
 
 **Reglas**:
 
 - Las **tool images viven en una subcarpeta por juego** dentro de `public/images/tools/`. La carpeta corresponde al juego donde el tool tiene su entry en `content/games/<game>/tools/<tool>/`. Esto evita que el directorio raíz se llene con cientos de archivos sueltos cuando el codex crezca a 200+ tools.
+- **Logos compartidos en `public/images/tools/common/`** para tools cuya identidad visual es la plataforma que las hostea (GitHub, Nexus Mods, etc.) en lugar de una marca propia. **Antes de bajar un logo per-tool, chequear si la URL del tool corresponde a un vendor con logo ya en `common/`** — si sí, referenciar ese path en `meta.json` y saltar la descarga. Mapeo actual (crece a medida que se agregan logos):
+  - `github.com/*` → `"logo": "/images/tools/common/github-logo.png"`
+  - `nexusmods.com/*` (y `www.nexusmods.com/*`) → `"logo": "/images/tools/common/nexusmods-logo.svg"`
+- El criterio para mover un logo a `common/` es que **se repita en 3+ tools**. Marcas con presencia única se mantienen como logo per-tool.
 - Tool ids son únicos globalmente (entre creators y entre tools), pero al colocarse bajo un game subfolder de assets el riesgo de colisión queda absorbido por el path completo. Si una tool aparece en múltiples juegos vía `multiGame`, los otros games referencian el path de su game primario (no se duplican los archivos).
 - Otros tipos de asset (game hero/logo, creator avatar/banner) **no usan subcarpetas** — viven flat en `games/` y `creators/` respectivamente. La regla de subcarpeta es solo para tools por el volumen alto.
 - Hero del juego **≥1500px de ancho** (cap visual del banner). Imágenes más chicas se ven pixeladas en monitores ultrawide.

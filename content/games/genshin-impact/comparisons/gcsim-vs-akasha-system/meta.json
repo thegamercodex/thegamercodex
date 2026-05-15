@@ -1,0 +1,39 @@
+{
+  "id": "gcsim-vs-akasha-system",
+  "toolIds": ["gcsim", "akasha-system"],
+  "category": "damage-calculation",
+  "depth": "short",
+  "lastVerified": "2026-05-14",
+  "verdictEs": "gcsim si necesitas simular daño de equipos con rotaciones controladas, frame por frame, para theorycrafting o validar comps. Akasha System si quieres ver qué tan buenos son tus builds reales comparados con la comunidad — ranking empírico sobre data extraída de Spiral Abyss.",
+  "verdictEn": "gcsim if you need to simulate team damage with controlled rotations, frame by frame, for theorycrafting or comp validation. Akasha System if you want to see how good your real builds are compared to the community — empirical ranking on Spiral Abyss extracted data.",
+  "useCases": [
+    {
+      "labelEs": "Comparar dos team comps en daño teórico antes de armar una",
+      "labelEn": "Compare two team comps on theoretical damage before committing to one",
+      "winner": "gcsim",
+      "reasonEs": "gcsim simula la rotación completa con buffs, debuffs y reactions; produce un DPS promedio sobre miles de trials. Akasha mide tu build vs otros, no simula comps hipotéticas.",
+      "reasonEn": "gcsim simulates the full rotation with buffs, debuffs, and reactions; produces an average DPS over thousands of trials. Akasha measures your build vs others, doesn't simulate hypothetical comps."
+    },
+    {
+      "labelEs": "Saber qué percentil ocupa tu build de un personaje vs la comunidad",
+      "labelEn": "See what percentile your character's build occupies vs the community",
+      "winner": "akasha-system",
+      "reasonEs": "Akasha extrae builds reales de Spiral Abyss vía Enka.Network y publica leaderboards por personaje. Te dice si tu Ayaka está en top 10% o top 80%.",
+      "reasonEn": "Akasha pulls real builds from Spiral Abyss via Enka.Network and publishes leaderboards by character. Tells you if your Ayaka sits in top 10% or top 80%."
+    },
+    {
+      "labelEs": "Investigar qué weapon o substats están usando los top players",
+      "labelEn": "Investigate which weapons or substats top players use",
+      "winner": "akasha-system",
+      "reasonEs": "Akasha es data observada — muestra qué builds reales eligieron los top players. gcsim solo dice qué es óptimo en teoría.",
+      "reasonEn": "Akasha is observed data — shows what real builds top players chose. gcsim only tells you what's optimal in theory."
+    },
+    {
+      "labelEs": "Validar una rotación o cycle de un team antes de jugarlo",
+      "labelEn": "Validate a rotation or team cycle before playing it",
+      "winner": "gcsim",
+      "reasonEs": "gcsim corre la rotación tick por tick: ves uptime de buffs, gaps de stamina, dependencias de energy. Akasha no modela rotaciones.",
+      "reasonEn": "gcsim runs the rotation tick by tick: you see buff uptime, stamina gaps, energy dependencies. Akasha doesn't model rotations."
+    }
+  ]
+}

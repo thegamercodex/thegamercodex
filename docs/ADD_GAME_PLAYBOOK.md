@@ -152,7 +152,12 @@ en.md        ← frontmatter + 8 secciones H2
 
 ### Descarga automática del logo (best-effort)
 
-Después de escribir el `meta.json` de cada tool, **intentar descargar el logo** desde el sitio oficial de la tool (campo `url`). Si falla, seguir el flujo normal (path queda referenciado, `existsSync` cae a inicial de letra cuando se renderiza).
+**Antes de bajar nada, chequear si la URL del tool corresponde a un vendor con logo compartido en `public/images/tools/common/`** (ver `RULES.md` → "Imágenes y assets"). Mapeo actual:
+
+- `github.com/*` → setear `"logo": "/images/tools/common/github-logo.png"` en el `meta.json` y **saltar la descarga**.
+- `nexusmods.com/*` (incl. `www.nexusmods.com`) → setear `"logo": "/images/tools/common/nexusmods-logo.svg"` y **saltar la descarga**.
+
+Si la URL no matchea un vendor compartido, **intentar descargar el logo** desde el sitio oficial de la tool (campo `url`). Si falla, seguir el flujo normal (path queda referenciado, `existsSync` cae a inicial de letra cuando se renderiza).
 
 Helper:
 

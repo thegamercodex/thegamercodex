@@ -1,0 +1,37 @@
+{
+  "id": "nukes-and-dragons",
+  "name": "Nukes & Dragons Skyrim Build Planner",
+  "shortName": "Nukes & Dragons",
+  "taglineEs": "Build planner web con tracking de stats, skills y perks vanilla, URLs compartibles y soporte para Special/Anniversary Edition",
+  "taglineEn": "Web build planner with stat, skill, and vanilla perk tracking, shareable URLs, and Special/Anniversary Edition support",
+  "url": "https://nukesdragons.com/skyrim/character",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-planning", "perks", "attributes", "stats", "community"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-14",
+  "logo": "/images/tools/cyberpunk-2077/nukes-and-dragons-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [],
+  "alternatives": ["skyrim-builds"],
+  "createdBy": {
+    "name": "Wombat Factory",
+    "url": "https://nukesdragons.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "cyberpunk-2077", "url": "https://nukesdragons.com/cyberpunk-2077/character" },
+      { "gameId": "fallout-4", "url": "https://nukesdragons.com/fallout-4/character" },
+      { "gameId": "fallout-76", "url": "https://nukesdragons.com/fallout-76/character" },
+      { "gameId": "starfield", "url": "https://nukesdragons.com/starfield/character" }
+    ]
+  }
+}

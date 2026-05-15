@@ -22,7 +22,16 @@
   "relatedTools": ["official-build-planner"],
   "alternatives": ["official-build-planner"],
   "createdBy": {
-    "name": "Nukes & Dragons",
+    "name": "Wombat Factory",
     "url": "https://nukesdragons.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "skyrim", "url": "https://nukesdragons.com/skyrim/character" },
+      { "gameId": "fallout-4", "url": "https://nukesdragons.com/fallout-4/character" },
+      { "gameId": "fallout-76", "url": "https://nukesdragons.com/fallout-76/character" },
+      { "gameId": "starfield", "url": "https://nukesdragons.com/starfield/character" }
+    ]
   }
 }

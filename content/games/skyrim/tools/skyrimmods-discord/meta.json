@@ -1,0 +1,28 @@
+{
+  "id": "skyrimmods-discord",
+  "name": "r/skyrimmods Discord",
+  "shortName": "skyrimmods Discord",
+  "taglineEs": "Servidor Discord asociado a r/skyrimmods — soporte en vivo, troubleshooting y guías de modlists",
+  "taglineEn": "Discord server tied to r/skyrimmods — live support, troubleshooting, and modlist guidance",
+  "url": "https://discord.gg/skyrimmods",
+  "category": "community",
+  "type": "discord",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows", "web", "android", "ios"],
+  "languages": ["en"],
+  "tags": ["community", "discord", "support", "modding"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nexus-mods-skyrim", "wabbajack"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "r/skyrimmods community",
+    "url": "https://www.reddit.com/r/skyrimmods"
+  }
+}

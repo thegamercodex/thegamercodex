@@ -1,0 +1,30 @@
+{
+  "id": "address-library-skse",
+  "name": "Address Library for SKSE Plugins",
+  "shortName": "Address Library",
+  "taglineEs": "Librería que estabiliza la compatibilidad de SKSE plugins entre versiones de Skyrim",
+  "taglineEn": "Library stabilizing SKSE plugin compatibility across Skyrim versions",
+  "url": "https://www.nexusmods.com/skyrimspecialedition/mods/32444",
+  "category": "modding-frameworks",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/meh321/AddressLibraryDatabase",
+  "license": "MIT",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["framework", "dependency", "skse-plugin", "address-resolution"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["skse64", "skyui"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "meh321",
+    "url": "https://github.com/meh321/AddressLibraryDatabase"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bodyslide-outfit-studio",
+  "name": "BodySlide and Outfit Studio",
+  "shortName": "BodySlide",
+  "taglineEs": "Editor de cuerpos y armaduras con sliders: genera meshes que matchean el body type que elegiste",
+  "taglineEn": "Body and armor editor with sliders: generates meshes matching the body type you picked",
+  "url": "https://www.nexusmods.com/skyrimspecialedition/mods/201",
+  "category": "modding-utilities",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/ousnius/BodySlide-and-Outfit-Studio",
+  "license": "GPL-3.0",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["body", "armor", "meshes", "sliders", "presets"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["sseedit", "mod-organizer-2"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "ousnius & Caliente",
+    "url": "https://github.com/ousnius/BodySlide-and-Outfit-Studio"
+  }
+}

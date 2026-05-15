@@ -1,0 +1,39 @@
+{
+  "id": "honey-hunter-world-vs-hoyowiki",
+  "toolIds": ["honey-hunter-world", "hoyowiki"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-05-14",
+  "verdictEs": "Honey Hunter World si necesitas datos datamined exhaustivos, leaks de personajes futuros y cifras técnicas que no aparecen en fuentes oficiales. HoYoWiki si prefieres datos verificados oficialmente sin riesgo de errores datamining ni spoilers de contenido no anunciado.",
+  "verdictEn": "Honey Hunter World if you need exhaustive datamined data, leaks of upcoming characters, and technical figures that don't appear in official sources. HoYoWiki if you prefer officially verified data without risk of dataming errors or spoilers from unannounced content.",
+  "useCases": [
+    {
+      "labelEs": "Investigar talents, multipliers y scaling exacto de un personaje",
+      "labelEn": "Investigate exact talents, multipliers, and scaling for a character",
+      "winner": "honey-hunter-world",
+      "reasonEs": "HHW publica todas las cifras numéricas extraídas del código: multipliers por nivel, ICDs, frames de animación. HoYoWiki muestra valores curados pero menos exhaustivos.",
+      "reasonEn": "HHW publishes every numeric figure pulled from the code: per-level multipliers, ICDs, animation frames. HoYoWiki shows curated values but less exhaustive."
+    },
+    {
+      "labelEs": "Consultar info oficial sin spoilers de contenido futuro",
+      "labelEn": "Look up official info without spoilers from upcoming content",
+      "winner": "hoyowiki",
+      "reasonEs": "HoYoWiki solo publica contenido ya lanzado. HHW datamine personajes y armas de versiones beta, lo cual son spoilers para quienes quieren mantenerse en spoiler-free.",
+      "reasonEn": "HoYoWiki only publishes already-released content. HHW datamines characters and weapons from beta versions, which are spoilers for those who want to stay spoiler-free."
+    },
+    {
+      "labelEs": "Ver una versión \"oficialmente correcta\" de stats de personaje",
+      "labelEn": "See an \"officially correct\" version of character stats",
+      "winner": "hoyowiki",
+      "reasonEs": "Como producto oficial de HoYoverse, HoYoWiki cita datos validados por el estudio. HHW puede tener errores de datamining ocasionales que se corrigen después.",
+      "reasonEn": "As HoYoverse's official product, HoYoWiki cites studio-validated data. HHW can have occasional dataming errors that get corrected later."
+    },
+    {
+      "labelEs": "Planificar pulls para un futuro personaje filtrado",
+      "labelEn": "Plan pulls for a future leaked character",
+      "winner": "honey-hunter-world",
+      "reasonEs": "HHW publica kits, talents y constellations de personajes filtrados meses antes del release. HoYoWiki nunca publica contenido futuro.",
+      "reasonEn": "HHW publishes kits, talents, and constellations of leaked characters months before release. HoYoWiki never publishes future content."
+    }
+  ]
+}

@@ -252,6 +252,7 @@ export function ResourceGrid({
                         fill
                         sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                         className="object-cover transition-transform duration-300 group-hover:scale-[1.03]"
+                        unoptimized={thumbnail.includes("ytimg.com")}
                       />
                       <div
                         aria-hidden
@@ -281,6 +282,7 @@ export function ResourceGrid({
                         fill
                         sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                         className="object-cover transition-transform duration-300 group-hover:scale-[1.03]"
+                        unoptimized={thumbnail.includes("ytimg.com")}
                       />
                     </a>
                   ))}

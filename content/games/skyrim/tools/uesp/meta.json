@@ -1,0 +1,28 @@
+{
+  "id": "uesp",
+  "name": "UESP — Unofficial Elder Scrolls Pages",
+  "shortName": "UESP",
+  "taglineEs": "La wiki extraoficial más exhaustiva de Skyrim — quests, NPCs, ítems, lore, mecánicas, todo",
+  "taglineEn": "The most exhaustive unofficial Skyrim wiki — quests, NPCs, items, lore, mechanics, everything",
+  "url": "https://en.uesp.net/wiki/Skyrim:Skyrim",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "reference", "lore", "database", "quests"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-12",
+  "logo": "/images/tools/skyrim/uesp-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nexus-mods-skyrim"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "UESP Community",
+    "url": "https://en.uesp.net"
+  }
+}
