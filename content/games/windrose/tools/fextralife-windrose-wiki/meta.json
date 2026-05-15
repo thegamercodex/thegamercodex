@@ -1,0 +1,32 @@
+{
+  "id": "fextralife-windrose-wiki",
+  "name": "Fextralife Windrose Wiki",
+  "shortName": "Fextralife Wiki",
+  "taglineEs": "Wiki estilo souls-like de Fextralife: boss strategies, weapon scaling y guías combat-first",
+  "taglineEn": "Souls-like style wiki by Fextralife: boss strategies, weapon scaling, and combat-first guides",
+  "url": "https://windrose.wiki.fextralife.com",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "reference", "boss-guides", "souls-like", "weapon-scaling"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-15",
+  "logo": "/images/tools/windrose/fextralife-windrose-wiki-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["windrose-wiki", "windrose-tools"],
+  "alternatives": ["windrose-wiki"],
+  "createdBy": {
+    "name": "Fextralife",
+    "url": "https://fextralife.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": []
+  }
+}

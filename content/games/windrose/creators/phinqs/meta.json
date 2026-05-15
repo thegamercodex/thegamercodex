@@ -1,0 +1,36 @@
+{
+  "id": "phinqs",
+  "name": "PHINQS",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@PHINQS",
+      "url": "https://www.youtube.com/@PHINQS",
+      "channelId": "UCqccVtwBjO1YkZh7FCq3IJw",
+      "primary": true
+    }
+  ],
+  "specialties": ["base-building", "defensive-builds", "blueprints"],
+  "games": ["windrose"],
+  "contentTypes": ["showcase", "videos", "tutorials"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Especialista en base building defensivo, con foco en outposts modulares y walls perimetrales optimizadas. The Ultimate Outpost es su build flagship — double-thick perimeter, multi-layer defense, espacio de farming integrado. Recomendable para players que ya pasaron el early-game y quieren elevar su base al nivel de fortaleza.",
+  "noteEn": "Specialist in defensive base building, focused on modular outposts and optimized perimeter walls. The Ultimate Outpost is his flagship build — double-thick perimeter, multi-layer defense, integrated farming space. Recommended for players past early-game who want to elevate their base to fortress level.",
+  "highlightsEs": [
+    "The Ultimate Outpost: build flagship con perimeter walls double-thick",
+    "Análisis de defensive layouts con worst-case scenarios",
+    "Tutoriales paso-a-paso reproducibles",
+    "Blueprints exportables y consejos de placement"
+  ],
+  "highlightsEn": [
+    "The Ultimate Outpost: flagship build with double-thick perimeter walls",
+    "Defensive layout analysis with worst-case scenarios",
+    "Reproducible step-by-step tutorials",
+    "Exportable blueprints and placement tips"
+  ],
+  "avatar": "/images/creators/phinqs-avatar.jpg",
+  "banner": "/images/creators/phinqs-banner.jpg"
+}

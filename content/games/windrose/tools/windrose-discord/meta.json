@@ -1,0 +1,28 @@
+{
+  "id": "windrose-discord",
+  "name": "Windrose Official Discord",
+  "shortName": "Windrose Discord",
+  "taglineEs": "Server oficial de Kraken Express con 149k+ miembros: news, patch notes en vivo, soporte de devs y channels específicos por idioma",
+  "taglineEn": "Kraken Express's official server with 149k+ members: news, live patch notes, dev support, and language-specific channels",
+  "url": "https://discord.com/invite/windrose",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows", "macos", "linux", "android", "ios"],
+  "languages": ["en", "es"],
+  "tags": ["official", "community", "discord", "patch-notes", "support"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-15",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nexus-mods-windrose"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Kraken Express",
+    "url": "https://playwindrose.com"
+  }
+}

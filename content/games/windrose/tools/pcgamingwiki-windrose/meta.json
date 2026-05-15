@@ -1,0 +1,32 @@
+{
+  "id": "pcgamingwiki-windrose",
+  "name": "PCGamingWiki — Windrose",
+  "shortName": "PCGamingWiki",
+  "taglineEs": "Database técnica con fixes, configuraciones avanzadas, compatibilidad de hardware y workarounds documentados",
+  "taglineEn": "Technical database with fixes, advanced configurations, hardware compatibility, and documented workarounds",
+  "url": "https://www.pcgamingwiki.com/wiki/Windrose",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["technical-fixes", "performance", "configuration", "compatibility"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-15",
+  "logo": "/images/tools/windrose/pcgamingwiki-windrose-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["windrose-wiki"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "PCGamingWiki community",
+    "url": "https://www.pcgamingwiki.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "category": "crafting-and-progression",
+  "resources": [
+    {
+      "id": "gamers-heroes-windrose-ultimate-farming-2026",
+      "type": "video",
+      "title": "The ULTIMATE Farming Guide For Windrose",
+      "creator": "Gamers Heroes",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=hgYKFeWC9FM",
+      "youtubeId": "hgYKFeWC9FM",
+      "language": "en",
+      "duration": "5:26",
+      "publishedDate": "2026-04-14",
+      "thumbnail": "https://i.ytimg.com/vi/hgYKFeWC9FM/maxresdefault.jpg",
+      "noteEs": "Guía de farming concisa: cómo unlock seedbeds, qué crops priorizar (Flax + Corn) y cómo setup el ciclo de cosecha. Esencial antes de invertir tiempo en grinding manual.",
+      "noteEn": "Concise farming guide: how to unlock seedbeds, which crops to prioritize (Flax + Corn), and how to set up the harvest cycle. Essential before investing time in manual grinding."
+    },
+    {
+      "id": "curtis-completes-windrose-ultimate-starter-base-2026",
+      "type": "video",
+      "title": "Windrose: Ultimate Starter Base Tutorial",
+      "creator": "Curtis Completes",
+      "creatorId": "curtis-completes",
+      "url": "https://www.youtube.com/watch?v=FexT0L0zVzk",
+      "youtubeId": "FexT0L0zVzk",
+      "language": "en",
+      "duration": "55:52",
+      "publishedDate": "2026-04-29",
+      "thumbnail": "https://i.ytimg.com/vi/FexT0L0zVzk/maxresdefault.jpg",
+      "noteEs": "Tutorial completo de 55 minutos para una starter base que cubre crafting, storage, farming y expansion. Curtis Completes lleva paso a paso desde el primer tile hasta la base funcional.",
+      "noteEn": "55-minute full tutorial for a starter base covering crafting, storage, farming, and expansion. Curtis Completes guides step by step from the first tile to the functional base."
+    },
+    {
+      "id": "chiselchip-windrose-perfect-starter-house-2026",
+      "type": "video",
+      "title": "Building the PERFECT Starter House in Windrose!",
+      "creator": "Chiselchip",
+      "creatorId": "chiselchip",
+      "url": "https://www.youtube.com/watch?v=JT0r7G7XYAE",
+      "youtubeId": "JT0r7G7XYAE",
+      "language": "en",
+      "duration": "54:44",
+      "publishedDate": "2026-04-14",
+      "thumbnail": "https://i.ytimg.com/vi/JT0r7G7XYAE/maxresdefault.jpg",
+      "noteEs": "Build flagship de Chiselchip: el Hut by the Beach community-acclaimed. Tutorial de 54 minutos enfocado en estética accesible para beginners — recursos early-game, sin grind.",
+      "noteEn": "Chiselchip's flagship build: the community-acclaimed Hut by the Beach. 54-minute tutorial focused on accessible aesthetics for beginners — early-game resources, no grind."
+    },
+    {
+      "id": "joe-hammer-windrose-functional-starter-home-2026",
+      "type": "video",
+      "title": "FUNCTIONAL Starter Home - Windrose Base Build Guide",
+      "creator": "Joe Hammer Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=HvOLfYTVOKI",
+      "youtubeId": "HvOLfYTVOKI",
+      "language": "en",
+      "duration": "12:25",
+      "publishedDate": "2026-04-17",
+      "thumbnail": "https://i.ytimg.com/vi/HvOLfYTVOKI/maxresdefault.jpg",
+      "noteEs": "Alternativa más corta (12 min) para players que prefieren un starter home funcional sin tantos detalles aesthetic. Foco en placement óptimo de stations y storage.",
+      "noteEn": "Shorter alternative (12 min) for players who prefer a functional starter home without as many aesthetic details. Focus on optimal placement of stations and storage."
+    },
+    {
+      "id": "sverkerbonk-windrose-perfect-starter-base-2026",
+      "type": "video",
+      "title": "Windrose | HOW TO: Build the PERFECT Starter Base (Tutorial/Walkthrough)",
+      "creator": "SverkerBonk",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=7fNqBjlCIKE",
+      "youtubeId": "7fNqBjlCIKE",
+      "language": "en",
+      "duration": "24:39",
+      "publishedDate": "2026-04-21",
+      "thumbnail": "https://i.ytimg.com/vi/7fNqBjlCIKE/maxresdefault.jpg",
+      "noteEs": "Tutorial de starter base con énfasis en la lógica de progression: qué stations necesitas primero, cómo escalar gradualmente y cuándo invertir en upgrades.",
+      "noteEn": "Starter base tutorial emphasizing progression logic: which stations you need first, how to scale gradually, and when to invest in upgrades."
+    }
+  ]
+}

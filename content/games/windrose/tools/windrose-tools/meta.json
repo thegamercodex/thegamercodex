@@ -1,0 +1,28 @@
+{
+  "id": "windrose-tools",
+  "name": "Windrose.tools",
+  "shortName": "Windrose.tools",
+  "taglineEs": "Community database all-in-one con interactive map seed-aware, talent planner, item lookup y discovery tracker",
+  "taglineEn": "All-in-one community database with seed-aware interactive map, talent planner, item lookup, and discovery tracker",
+  "url": "https://windrose.tools",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-planning", "interactive-map", "talents", "items", "discoveries", "community"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-15",
+  "logo": "/images/tools/windrose/windrose-tools-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["windrose-wiki", "calculators-games", "windrose-gaming-tools"],
+  "alternatives": ["windrose-gaming-tools", "windrose-db"],
+  "createdBy": {
+    "name": "Windrose.tools community",
+    "url": "https://windrose.tools"
+  }
+}

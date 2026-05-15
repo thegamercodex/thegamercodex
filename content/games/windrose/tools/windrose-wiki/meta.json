@@ -1,0 +1,28 @@
+{
+  "id": "windrose-wiki",
+  "name": "Windrose Wiki",
+  "shortName": "Windrose Wiki",
+  "taglineEs": "Wiki community-editable con items, weapons, armor, buildings, quests y NPCs filtrable y route-friendly",
+  "taglineEn": "Community-editable wiki with filterable, route-friendly coverage of items, weapons, armor, buildings, quests, and NPCs",
+  "url": "https://windrose.wiki",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "reference", "items", "quests", "npcs", "community"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-15",
+  "logo": "/images/tools/windrose/windrose-wiki-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["windrose-tools", "fextralife-windrose-wiki"],
+  "alternatives": ["fextralife-windrose-wiki"],
+  "createdBy": {
+    "name": "Windrose Wiki community",
+    "url": "https://windrose.wiki"
+  }
+}

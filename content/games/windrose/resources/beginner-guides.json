@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "nooblets-windrose-beginner-guide-2026",
+      "type": "video",
+      "title": "WINDROSE Beginner Guide & Tips!",
+      "creator": "NOOBLETS",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=XnpQ1kWueQ4",
+      "youtubeId": "XnpQ1kWueQ4",
+      "language": "en",
+      "duration": "43:00",
+      "publishedDate": "2026-04-25",
+      "thumbnail": "https://i.ytimg.com/vi/XnpQ1kWueQ4/maxresdefault.jpg",
+      "noteEs": "Guía deep-dive de 43 minutos cubriendo combat, crafting, exploration y progression. Ideal para players que prefieren un solo video largo en lugar de fragmentar el aprendizaje.",
+      "noteEn": "43-minute deep-dive guide covering combat, crafting, exploration, and progression. Ideal for players who prefer a single long video over fragmented learning."
+    },
+    {
+      "id": "zikorik-windrose-complete-beginner-guide-2026",
+      "type": "video",
+      "title": "Windrose Guide for Complete Beginners! Survival & Combat mechanics explained",
+      "creator": "Zikorik",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=qgqRov3FkH4",
+      "youtubeId": "qgqRov3FkH4",
+      "language": "en",
+      "duration": "21:19",
+      "publishedDate": "2026-04-16",
+      "thumbnail": "https://i.ytimg.com/vi/qgqRov3FkH4/maxresdefault.jpg",
+      "noteEs": "Guía estructurada que explica las mecánicas de supervivencia y el sistema soulslike de combate sin asumir background previo. Bien organizada para audiencia 100% nueva al juego.",
+      "noteEn": "Structured guide explaining survival mechanics and the soulslike combat system without assuming prior background. Well-organized for audience completely new to the game."
+    },
+    {
+      "id": "mattygorm-windrose-15-tips-2026",
+      "type": "video",
+      "title": "WINDROSE - 15+ BEGINNER TIPS YOU NEED TO KNOW!",
+      "creator": "MattyGorm",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=7xwXJennugY",
+      "youtubeId": "7xwXJennugY",
+      "language": "en",
+      "duration": "21:44",
+      "publishedDate": "2026-04-14",
+      "thumbnail": "https://i.ytimg.com/vi/7xwXJennugY/maxresdefault.jpg",
+      "noteEs": "Compilación de 15+ tips concretos en 21 minutos, publicado el día del lanzamiento de Early Access. Formato lista, fácil de digerir y de revisitar.",
+      "noteEn": "Compilation of 15+ concrete tips in 21 minutes, published on Early Access launch day. List format, easy to digest and revisit."
+    },
+    {
+      "id": "mobalytics-windrose-7-beginner-tips-2026",
+      "type": "video",
+      "title": "7 Beginner Tips you NEED to know for Windrose",
+      "creator": "Mobalytics",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=FvF8cfYQQLU",
+      "youtubeId": "FvF8cfYQQLU",
+      "language": "en",
+      "duration": "8:28",
+      "publishedDate": "2026-04-14",
+      "thumbnail": "https://i.ytimg.com/vi/FvF8cfYQQLU/maxresdefault.jpg",
+      "noteEs": "Versión corta y bien producida de tips de beginner. Mobalytics publica en formato concise — útil cuando solo tienes 10 minutos antes de jugar.",
+      "noteEn": "Short, well-produced version of beginner tips. Mobalytics publishes in concise format — useful when you only have 10 minutes before playing."
+    },
+    {
+      "id": "gemzen-windrose-best-way-to-start-2026",
+      "type": "video",
+      "title": "Best Way to Start in Windrose - Beginner's Guide",
+      "creator": "Gemzen",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Q1MCBF-SWxg",
+      "youtubeId": "Q1MCBF-SWxg",
+      "language": "en",
+      "duration": "1:11:20",
+      "publishedDate": "2026-04-27",
+      "thumbnail": "https://i.ytimg.com/vi/Q1MCBF-SWxg/maxresdefault.jpg",
+      "noteEs": "Guía maestra de 1 hora y 11 minutos que cubre la totalidad del onboarding: tutorial, primera isla, primer boss, build inicial. La opción para players que quieren acompañamiento total el primer día.",
+      "noteEn": "Master guide of 1 hour 11 minutes covering full onboarding: tutorial, first island, first boss, initial build. The option for players who want total guidance on day one."
+    }
+  ]
+}

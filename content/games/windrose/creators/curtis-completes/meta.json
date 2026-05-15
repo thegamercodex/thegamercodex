@@ -1,0 +1,36 @@
+{
+  "id": "curtis-completes",
+  "name": "Curtis Completes",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@CurtisCompletes",
+      "url": "https://www.youtube.com/@CurtisCompletes",
+      "channelId": "UCk0f3EHEals0u3PF6kfNixg",
+      "primary": true
+    }
+  ],
+  "specialties": ["decorative-builds", "interior-design", "aesthetic-bases"],
+  "games": ["windrose"],
+  "contentTypes": ["showcase", "tutorials", "videos"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Creator orientado a builds decorativos y interior design. Su Luxury Bath House mostró que Windrose tiene potencial para builds aesthetic sin necesidad de focalizar todo en defensa. Útil para players que ya tienen su base funcional y quieren elevar el aspecto visual con detalles como decorations, lighting y room layouts.",
+  "noteEn": "Creator oriented to decorative builds and interior design. His Luxury Bath House showed that Windrose has potential for aesthetic builds without focusing everything on defense. Useful for players who already have their functional base and want to elevate the visual aspect with details like decorations, lighting, and room layouts.",
+  "highlightsEs": [
+    "Luxury Bath House: showcase de interior design fino",
+    "Foco en detalles que típicamente se pasan por alto (decoraciones, lighting)",
+    "Layouts de room balanceados entre función y estética",
+    "Buena curva editorial: tutoriales que van de simple a sofisticado"
+  ],
+  "highlightsEn": [
+    "Luxury Bath House: fine interior design showcase",
+    "Focus on details typically overlooked (decorations, lighting)",
+    "Room layouts balanced between function and aesthetic",
+    "Good editorial arc: tutorials from simple to sophisticated"
+  ],
+  "avatar": "/images/creators/curtis-completes-avatar.jpg",
+  "banner": "/images/creators/curtis-completes-banner.jpg"
+}

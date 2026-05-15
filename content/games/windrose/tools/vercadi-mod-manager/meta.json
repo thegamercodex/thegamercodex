@@ -1,0 +1,29 @@
+{
+  "id": "vercadi-mod-manager",
+  "name": "Vercadi Mod Manager",
+  "shortName": "Vercadi Mod Manager",
+  "taglineEs": "Mod manager open source en GitHub: drag-and-drop de .zip/.7z, auto-detect del game path, backup automático y tracking de installs",
+  "taglineEn": "Open-source mod manager on GitHub: drag-and-drop .zip/.7z, auto-detect game path, automatic backup, and install tracking",
+  "url": "https://github.com/Vercadi/windrose-mod-manager",
+  "category": "mod-managers",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Vercadi/windrose-mod-manager",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["mod-manager", "open-source", "client", "local-server"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-15",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["simple-mod-loader", "windrose-mod-manager", "nexus-mods-windrose"],
+  "alternatives": ["windrose-mod-manager"],
+  "createdBy": {
+    "name": "Vercadi",
+    "url": "https://github.com/Vercadi"
+  }
+}

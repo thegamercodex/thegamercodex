@@ -1,0 +1,28 @@
+{
+  "id": "simple-mod-loader",
+  "name": "Simple Mod Loader And Console Enabler",
+  "shortName": "Simple Mod Loader",
+  "taglineEs": "Loader foundational que habilita carga de PAK mods y la consola in-game — prerequisito de casi todo el ecosistema modding",
+  "taglineEn": "Foundational loader that enables PAK mod loading and the in-game console — prerequisite for nearly the entire modding ecosystem",
+  "url": "https://www.nexusmods.com/windrose/mods/2",
+  "category": "mod-managers",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["mod-loader", "console", "modding-essential", "pak-mods"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-15",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["windrose-mod-manager", "vercadi-mod-manager", "nexus-mods-windrose"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Simple Mod Loader author",
+    "url": "https://www.nexusmods.com/windrose/mods/2"
+  }
+}

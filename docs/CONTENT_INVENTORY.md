@@ -5,7 +5,7 @@
 
 ## Resumen
 
-12 juegos · 193 tools · 60 creators · 62 categorías · 310 resources items · 26 comparisons
+13 juegos · 206 tools · 65 creators · 67 categorías · 335 resources items · 30 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -20,6 +20,7 @@
 | `path-of-exile-2` | Path of Exile 2 | 20 | 5 | 5 | 25 | 8 |
 | `skyrim` | The Elder Scrolls V: Skyrim | 19 | 5 | 5 | 25 | 5 |
 | `valorant` | Valorant | 15 | 5 | 5 | 25 | 0 |
+| `windrose` | Windrose | 13 | 5 | 5 | 25 | 4 |
 | `world-of-warcraft` | World of Warcraft | 15 | 5 | 6 | 30 | 0 |
 
 ## Por juego
@@ -189,6 +190,21 @@
 - `ranked-improvement` — 5 items
 
 **Comparisons (0)**: _(none)_
+
+### Windrose (`windrose`)
+
+**Tools (13)**: Calculators.games — Windrose (`calculators-games`), Fextralife Windrose Wiki (`fextralife-windrose-wiki`), Nexus Mods — Windrose (`nexus-mods-windrose`), PCGamingWiki — Windrose (`pcgamingwiki-windrose`), Simple Mod Loader And Console Enabler (`simple-mod-loader`), Vercadi Mod Manager (`vercadi-mod-manager`), Windrose DB (`windrose-db`), Windrose Official Discord (`windrose-discord`), Windrose Gaming Tools (`windrose-gaming-tools`), Windrose Mod Manager (CertiFried) (`windrose-mod-manager`), Windrose.tools (`windrose-tools`), Windrose Wiki (`windrose-wiki`), WSE Project — Windrose Save Editor and ItemDB (`wse-save-editor`)
+
+**Creators (5)**: Captain Falcore (`captain-falcore`), Chiselchip (`chiselchip`), Curtis Completes (`curtis-completes`), Deltia's Gaming (`deltias-gaming`), PHINQS (`phinqs`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `combat-and-builds` — 5 items
+- `crafting-and-progression` — 5 items
+- `mods-and-customization` — 5 items
+- `naval-and-ships` — 5 items
+
+**Comparisons (4)**: `windrose-mod-manager-vs-vercadi-mod-manager` (short), `windrose-tools-vs-calculators-games` (short), `windrose-tools-vs-windrose-gaming-tools` (short), `windrose-wiki-vs-fextralife-windrose-wiki` (short)
 
 ### World of Warcraft (`world-of-warcraft`)
 

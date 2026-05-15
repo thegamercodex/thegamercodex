@@ -1,0 +1,28 @@
+{
+  "id": "wse-save-editor",
+  "name": "WSE Project — Windrose Save Editor and ItemDB",
+  "shortName": "WSE Save Editor",
+  "taglineEs": "Save editor con item database integrada: editas inventory, stats, talents y resources directo sobre el archivo de save",
+  "taglineEn": "Save editor with integrated item database: edit inventory, stats, talents, and resources directly on the save file",
+  "url": "https://www.nexusmods.com/windrose/mods/153",
+  "category": "modding-tools",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["save-editor", "item-database", "cheats", "respec"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-15",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["simple-mod-loader"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "WSE Project author",
+    "url": "https://www.nexusmods.com/windrose/mods/153"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "chiselchip",
+  "name": "Chiselchip",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Chiselchip",
+      "url": "https://www.youtube.com/@Chiselchip",
+      "channelId": "UClqhl8T2mpaQeLmHj0-RwuQ",
+      "primary": true
+    }
+  ],
+  "specialties": ["beginner-builds", "starter-bases", "aesthetic-builds"],
+  "games": ["windrose"],
+  "contentTypes": ["tutorials", "videos", "showcase"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Builder con foco en accesibilidad y estética. Hut by the Beach es su build flagship — descripto por la community como 'the perfect starter house in Windrose'. Recursos accesibles, layout funcional, charm visual. Es el primer creator a recomendarle a alguien que recién termina el tutorial y quiere armar su primera base que se vea bien.",
+  "noteEn": "Builder focused on accessibility and aesthetics. Hut by the Beach is his flagship build — described by the community as 'the perfect starter house in Windrose'. Accessible resources, functional layout, visual charm. The first creator to recommend to someone who just finished the tutorial and wants to build their first base that looks good.",
+  "highlightsEs": [
+    "Hut by the Beach: build community-acclaimed para principiantes",
+    "Recursos accesibles en early-game (sin grind extenso)",
+    "Tutorials con paciencia: explica el por qué de cada decisión",
+    "Balance funcionalidad/estética sin sacrificar ninguna"
+  ],
+  "highlightsEn": [
+    "Hut by the Beach: community-acclaimed beginner-friendly build",
+    "Accessible resources in early-game (no extensive grind)",
+    "Patient tutorials: explains the why behind every decision",
+    "Functionality/aesthetic balance without sacrificing either"
+  ],
+  "avatar": "/images/creators/chiselchip-avatar.jpg",
+  "banner": "/images/creators/chiselchip-banner.jpg"
+}

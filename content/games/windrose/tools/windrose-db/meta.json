@@ -1,0 +1,28 @@
+{
+  "id": "windrose-db",
+  "name": "Windrose DB",
+  "shortName": "Windrose DB",
+  "taglineEs": "Talent tree builder focalizado: planeas builds con allocation visual de las 4 ramas y exportas por link",
+  "taglineEn": "Focused talent tree builder: plan builds with visual allocation across the 4 branches and export via link",
+  "url": "https://windrose-db.com",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["talent-tree", "build-planning", "shareable-builds"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-15",
+  "logo": "/images/tools/windrose/windrose-db-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["windrose-tools", "calculators-games"],
+  "alternatives": ["windrose-tools"],
+  "createdBy": {
+    "name": "Windrose DB community",
+    "url": "https://windrose-db.com"
+  }
+}
