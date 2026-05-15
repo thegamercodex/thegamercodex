@@ -5,7 +5,7 @@
 
 ## Resumen
 
-13 juegos · 206 tools · 65 creators · 67 categorías · 335 resources items · 30 comparisons
+13 juegos · 206 tools · 65 creators · 67 categorías · 335 resources items · 35 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -15,7 +15,7 @@
 | `dota-2` | Dota 2 | 13 | 5 | 5 | 25 | 0 |
 | `genshin-impact` | Genshin Impact | 24 | 5 | 6 | 30 | 6 |
 | `league-of-legends` | League of Legends | 15 | 5 | 5 | 25 | 0 |
-| `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 0 |
+| `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 |
 | `path-of-exile` | Path of Exile | 17 | 5 | 5 | 25 | 7 |
 | `path-of-exile-2` | Path of Exile 2 | 20 | 5 | 5 | 25 | 8 |
 | `skyrim` | The Elder Scrolls V: Skyrim | 19 | 5 | 5 | 25 | 5 |
@@ -129,7 +129,7 @@
 - `expedition-guides` — 5 items
 - `exploration-discovery` — 5 items
 
-**Comparisons (0)**: _(none)_
+**Comparisons (5)**: `assistant-nms-vs-nms-fandom-wiki` (short), `nms-coordinate-exchange-vs-nms-galactic-atlas` (short), `nms-fandom-wiki-vs-nmscd` (flagship), `nms-save-editor-vs-nomnom-save-editor` (short), `reddit-nomanssky-vs-nms-discord` (short)
 
 ### Path of Exile (`path-of-exile`)
 

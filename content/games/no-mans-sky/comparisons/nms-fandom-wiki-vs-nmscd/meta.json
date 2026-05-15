@@ -1,0 +1,53 @@
+{
+  "id": "nms-fandom-wiki-vs-nmscd",
+  "toolIds": ["nms-fandom-wiki", "nmscd"],
+  "category": "reference",
+  "depth": "flagship",
+  "lastVerified": "2026-05-15",
+  "verdictEs": "NMS Fandom Wiki si buscas profundidad enciclopédica: lore, historia de patches, descripción de fauna, contexto de mecánicas que cambiaron a lo largo de los años. NMSCD si vienes a usar herramientas específicas creadas por modders y datamining: glyph converters, generators, planificadores que la wiki no integra.",
+  "verdictEn": "NMS Fandom Wiki for encyclopedic depth: lore, patch history, fauna descriptions, context of mechanics that changed over the years. NMSCD for specialized tools built by modders and datamining: glyph converters, generators, planners the wiki doesn't integrate.",
+  "useCases": [
+    {
+      "labelEs": "Entender qué era Atlas Rises o NEXT y cómo cambió el juego",
+      "labelEn": "Understand what Atlas Rises or NEXT was and how it changed the game",
+      "winner": "nms-fandom-wiki",
+      "reasonEs": "La wiki documenta el historial completo de patches mayores con contexto editorial: qué se agregó, qué se rompió, cómo evolucionó cada mecánica. NMSCD no tiene esta capa narrativa — es ops, no historia.",
+      "reasonEn": "The wiki documents the complete history of major patches with editorial context: what was added, what broke, how each mechanic evolved. NMSCD doesn't have this narrative layer — it's ops, not history."
+    },
+    {
+      "labelEs": "Convertir entre coordenadas galácticas y portal glyphs",
+      "labelEn": "Convert between galactic coordinates and portal glyphs",
+      "winner": "nmscd",
+      "reasonEs": "NMSCD agrega un glyph converter dedicado que te toma coords y devuelve los 12 glyphs (o viceversa). La wiki explica qué son los glyphs pero no los convierte.",
+      "reasonEn": "NMSCD includes a dedicated glyph converter that takes coords and returns the 12 glyphs (or vice versa). The wiki explains what glyphs are but doesn't convert them."
+    },
+    {
+      "labelEs": "Buscar la descripción biológica completa de una creature exótica",
+      "labelEn": "Look up the complete biological description of an exotic creature",
+      "winner": "nms-fandom-wiki",
+      "reasonEs": "La wiki tiene pages dedicadas por species con anatomy, behavior, habitat, classification — el formato fauna enciclopédico. NMSCD no cubre fauna específica de manera estructurada.",
+      "reasonEn": "The wiki has dedicated per-species pages with anatomy, behavior, habitat, classification — the encyclopedic fauna format. NMSCD doesn't cover species in a structured way."
+    },
+    {
+      "labelEs": "Generar una page de wiki estilizada para tu base con coords y screenshots",
+      "labelEn": "Generate a styled wiki page for your base with coords and screenshots",
+      "winner": "nmscd",
+      "reasonEs": "NMSCD incluye wiki page generators que producen markdown listo para pegar en Fandom. Ahorra horas de formato manual cuando documentás una base community-shared.",
+      "reasonEn": "NMSCD includes wiki page generators that produce ready-to-paste markdown for Fandom. Saves hours of manual formatting when you document a community-shared base."
+    },
+    {
+      "labelEs": "Investigar el lore de los Atlas, Travellers y la Sentinels",
+      "labelEn": "Research the lore of Atlas, Travellers and Sentinels",
+      "winner": "nms-fandom-wiki",
+      "reasonEs": "La wiki tiene pages dedicadas con interpretaciones community, citas de in-game text y theory threads. Es el lugar canónico para lore deep-dive. NMSCD no cubre lore.",
+      "reasonEn": "The wiki has dedicated pages with community interpretations, in-game text quotes, and theory threads. It's the canonical place for lore deep-dive. NMSCD doesn't cover lore."
+    },
+    {
+      "labelEs": "Planificar el layout de una base antes de construir in-game",
+      "labelEn": "Plan a base layout before building in-game",
+      "winner": "nmscd",
+      "reasonEs": "NMSCD agrega base layout planners que te permiten diseñar antes de invertir resources. La wiki no tiene tools interactivas, solo screenshots de bases populares como referencia.",
+      "reasonEn": "NMSCD includes base layout planners that let you design before investing resources. The wiki has no interactive tools, only screenshots of popular bases as reference."
+    }
+  ]
+}

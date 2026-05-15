@@ -1,0 +1,46 @@
+{
+  "id": "assistant-nms-vs-nms-fandom-wiki",
+  "toolIds": ["assistant-nms", "nms-fandom-wiki"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-05-15",
+  "verdictEs": "Assistant NMS si necesitas lookup operativo rápido durante una sesión — recipes, refining, cooking, expedition trackers — con app cross-platform que vive en tu segundo monitor o teléfono. NMS Fandom Wiki si quieres contexto enciclopédico, lore, historia de patches o investigar una mecánica en profundidad.",
+  "verdictEn": "Assistant NMS for fast operational lookup during a session — recipes, refining, cooking, expedition trackers — with cross-platform app that lives on your second monitor or phone. NMS Fandom Wiki for encyclopedic context, lore, patch history, or deep-diving a mechanic.",
+  "useCases": [
+    {
+      "labelEs": "Mid-sesión: necesitas saber qué refina un material",
+      "labelEn": "Mid-session: need to know what a material refines into",
+      "winner": "assistant-nms",
+      "reasonEs": "Assistant tiene refining recipes en una sola pantalla, searchable, sin ads ni navegación entre pages. La wiki tiene la info pero requiere abrir browser, buscar, scroll — un overhead que mata el flow del juego.",
+      "reasonEn": "Assistant has refining recipes on a single screen, searchable, no ads or page navigation. The wiki has the info but requires opening browser, searching, scrolling — overhead that kills game flow."
+    },
+    {
+      "labelEs": "Trackear progreso de la expedition activa",
+      "labelEn": "Track progress on the active expedition",
+      "winner": "assistant-nms",
+      "reasonEs": "Assistant integra live community events y expeditions con trackers de milestones. La wiki documenta expeditions pasadas como historial pero no es operativa para la actual.",
+      "reasonEn": "Assistant integrates live community events and expeditions with milestone trackers. The wiki documents past expeditions as history but isn't operational for the current one."
+    },
+    {
+      "labelEs": "Entender qué hacía Synthesis update y por qué cambió crafting",
+      "labelEn": "Understand what Synthesis update did and why it changed crafting",
+      "winner": "nms-fandom-wiki",
+      "reasonEs": "La wiki tiene pages dedicadas por update con análisis editorial: qué se agregó, qué se rompió, reacción community. Assistant es presente-focused; no documenta historia.",
+      "reasonEn": "The wiki has dedicated per-update pages with editorial analysis: what was added, what broke, community reaction. Assistant is present-focused; it doesn't document history."
+    },
+    {
+      "labelEs": "Cocinar un recipe complejo: necesitas los ingredientes ordenados",
+      "labelEn": "Cook a complex recipe: need ingredients ordered step by step",
+      "winner": "assistant-nms",
+      "reasonEs": "Assistant tiene cooking recipes con flow estructurado paso a paso. La wiki lista ingredientes pero el flow está en prosa, menos rápido para seguir mientras crafteas.",
+      "reasonEn": "Assistant has cooking recipes with structured step-by-step flow. The wiki lists ingredients but the flow is in prose, less fast to follow while crafting."
+    },
+    {
+      "labelEs": "Investigar el lore de Atlas y theory de simulation",
+      "labelEn": "Research Atlas lore and simulation theory",
+      "winner": "nms-fandom-wiki",
+      "reasonEs": "La wiki tiene secciones dedicadas a lore con interpretaciones community y citas de in-game text. Assistant no toca lore — su foco es 100% operativo.",
+      "reasonEn": "The wiki has dedicated lore sections with community interpretations and in-game text quotes. Assistant doesn't touch lore — its focus is 100% operational."
+    }
+  ]
+}

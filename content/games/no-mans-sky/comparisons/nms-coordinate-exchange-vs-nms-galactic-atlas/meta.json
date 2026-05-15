@@ -1,0 +1,46 @@
+{
+  "id": "nms-coordinate-exchange-vs-nms-galactic-atlas",
+  "toolIds": ["nms-coordinate-exchange", "nms-galactic-atlas"],
+  "category": "discovery-coordinates",
+  "depth": "short",
+  "lastVerified": "2026-05-15",
+  "verdictEs": "NMS Coordinate Exchange (NMSCE) si buscas algo específico — exotic ship S-class, multi-tool con stats target, base community shareable. NMS Galactic Atlas si quieres contexto visual del universo, ver qué expedition está activa o navegar discoveries sin un objetivo concreto.",
+  "verdictEn": "NMS Coordinate Exchange (NMSCE) for directed searches — S-class exotic ship, multi-tool with target stats, shareable community base. NMS Galactic Atlas for visual context of the universe, seeing which expedition is active, or browsing discoveries without a specific goal.",
+  "useCases": [
+    {
+      "labelEs": "Encontrar las coords exactas de un exotic ship S-class",
+      "labelEn": "Find exact coords for an S-class exotic ship",
+      "winner": "nms-coordinate-exchange",
+      "reasonEs": "NMSCE tiene filtros específicos por ship class, exotic vs hauler, S-class only. Galactic Atlas no expone filtros granulares — fue diseñado como showcase visual, no como search engine.",
+      "reasonEn": "NMSCE has specific filters by ship class, exotic vs hauler, S-class only. Galactic Atlas doesn't expose granular filters — it was designed as visual showcase, not as search engine."
+    },
+    {
+      "labelEs": "Ver qué expedition está activa este mes",
+      "labelEn": "See which expedition is active this month",
+      "winner": "nms-galactic-atlas",
+      "reasonEs": "Galactic Atlas integra el live state de expeditions — Hello Games lo updates oficialmente. NMSCE es community-driven y no cubre expeditions oficiales del developer.",
+      "reasonEn": "Galactic Atlas integrates the live state of expeditions — Hello Games updates it officially. NMSCE is community-driven and doesn't cover the developer's official expeditions."
+    },
+    {
+      "labelEs": "Buscar una mega-base community-built para visitar",
+      "labelEn": "Search for a community-built mega-base to visit",
+      "winner": "nms-coordinate-exchange",
+      "reasonEs": "NMSCE tiene una sección dedicada a bases con coords portal, screenshots y descripciones. Galactic Atlas no permite browsing de bases — solo planets y missions.",
+      "reasonEn": "NMSCE has a dedicated section for bases with portal coords, screenshots, and descriptions. Galactic Atlas doesn't allow base browsing — only planets and missions."
+    },
+    {
+      "labelEs": "Visualizar la escala del universo y la distribución de galaxies",
+      "labelEn": "Visualize the universe scale and galaxy distribution",
+      "winner": "nms-galactic-atlas",
+      "reasonEs": "Galactic Atlas es un visual showcase de todas las 256 galaxies y los discoveries reportados oficialmente. NMSCE es text-based y no proyecta visualización espacial.",
+      "reasonEn": "Galactic Atlas is a visual showcase of all 256 galaxies and officially reported discoveries. NMSCE is text-based and doesn't render spatial visualization."
+    },
+    {
+      "labelEs": "Verificar que una coord sigue válida tras un patch que regeneró el universo",
+      "labelEn": "Verify a coord is still valid after a universe-regenerating patch",
+      "winner": "nms-coordinate-exchange",
+      "reasonEs": "NMSCE tiene comments y reports de community sobre entries — players reportan si las coords todavía funcionan post-patch. Galactic Atlas no tiene esta capa social.",
+      "reasonEn": "NMSCE has community comments and reports on entries — players report whether coords still work post-patch. Galactic Atlas doesn't have this social layer."
+    }
+  ]
+}
