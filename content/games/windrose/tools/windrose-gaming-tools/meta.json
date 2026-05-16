@@ -1,0 +1,28 @@
+{
+  "id": "windrose-gaming-tools",
+  "name": "Windrose Gaming Tools",
+  "shortName": "Windrose Gaming Tools",
+  "taglineEs": "Mapa interactivo live-sync con tu save, character builder y database de items, ships y biomas",
+  "taglineEn": "Live-sync interactive map with your save file, character builder, and database of items, ships, and biomes",
+  "url": "https://windrose.gaming.tools",
+  "category": "maps",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["interactive-map", "live-sync", "character-builder", "database", "biomes"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-15",
+  "logo": "/images/tools/windrose/windrose-gaming-tools-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["windrose-tools", "windrose-wiki"],
+  "alternatives": ["windrose-tools"],
+  "createdBy": {
+    "name": "Windrose Gaming Tools community",
+    "url": "https://windrose.gaming.tools"
+  }
+}

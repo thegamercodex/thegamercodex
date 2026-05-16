@@ -1,0 +1,80 @@
+{
+  "category": "mods-and-customization",
+  "resources": [
+    {
+      "id": "nobs-windrose-best-mods-2026",
+      "type": "video",
+      "title": "The BEST Windrose Mods (& How To Install Them)",
+      "creator": "NoBS Game Guides",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=kQUeNkyGsbI",
+      "youtubeId": "kQUeNkyGsbI",
+      "language": "en",
+      "duration": "9:32",
+      "publishedDate": "2026-05-10",
+      "thumbnail": "https://i.ytimg.com/vi/kQUeNkyGsbI/maxresdefault.jpg",
+      "noteEs": "Top mods recomendados con tutorial de instalación incluido. Lista curada actualizada a mayo 2026 con QoL essentials: MoreStacks, Fast Craft, Faster Cooldowns, Extended Bonfire Radius.",
+      "noteEn": "Top recommended mods with install tutorial included. Curated list updated to May 2026 with QoL essentials: MoreStacks, Fast Craft, Faster Cooldowns, Extended Bonfire Radius."
+    },
+    {
+      "id": "modwithmoose-windrose-install-mods-2026",
+      "type": "video",
+      "title": "How to Install Mods in Windrose | Easy Guide & Mod Tutorial",
+      "creator": "ModWithMoose",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=X7UCcKU2Zh4",
+      "youtubeId": "X7UCcKU2Zh4",
+      "language": "en",
+      "duration": "8:42",
+      "publishedDate": "2026-04-27",
+      "thumbnail": "https://i.ytimg.com/vi/X7UCcKU2Zh4/maxresdefault.jpg",
+      "noteEs": "Tutorial paso-a-paso para instalar mods manualmente en cliente: crear carpeta ~mods, extraer .pak, lanzar el juego. Foco en debugging cuando algo no carga correctamente.",
+      "noteEn": "Step-by-step tutorial to install mods manually on client: create the ~mods folder, extract .pak, launch the game. Focus on debugging when something doesn't load correctly."
+    },
+    {
+      "id": "tipseerch-windrose-install-mods-singleplayer-2026",
+      "type": "video",
+      "title": "HOW to INSTALL MODS in WINDROSE ✅SINGLEPLAYER✅",
+      "creator": "TipSeerch",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=2_nT4QcSpjk",
+      "youtubeId": "2_nT4QcSpjk",
+      "language": "en",
+      "duration": "1:13",
+      "publishedDate": "2026-04-19",
+      "thumbnail": "https://i.ytimg.com/vi/2_nT4QcSpjk/maxresdefault.jpg",
+      "noteEs": "Versión ultra-condensada: instalar mods en singleplayer en menos de 90 segundos. Útil cuando solo necesitas el flujo sin teoría — el TL;DR de mod install.",
+      "noteEn": "Ultra-condensed version: install mods in singleplayer in under 90 seconds. Useful when you just need the flow without theory — the TL;DR of mod install."
+    },
+    {
+      "id": "bisecthosting-windrose-server-mods-2026",
+      "type": "video",
+      "title": "How to Install Mods on a Windrose Server!",
+      "creator": "BisectHosting",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=P9ZSeHFEZvM",
+      "youtubeId": "P9ZSeHFEZvM",
+      "language": "en",
+      "duration": "2:46",
+      "publishedDate": "2026-04-27",
+      "thumbnail": "https://i.ytimg.com/vi/P9ZSeHFEZvM/maxresdefault.jpg",
+      "noteEs": "Tutorial específico de instalación en servidor dedicado (no cliente). Cubre el upload del .pak vía SFTP/FTP al ~mods/ del server. Esencial para admins de dedicated servers.",
+      "noteEn": "Specific tutorial for installation on a dedicated server (not client). Covers .pak upload via SFTP/FTP to the server's ~mods/. Essential for dedicated server admins."
+    },
+    {
+      "id": "troublechute-windrose-free-server-migrate-2026",
+      "type": "video",
+      "title": "FREE Windrose Server + Migrate Singleplayer World GUIDE",
+      "creator": "TroubleChute",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=uu85gr4mVv0",
+      "youtubeId": "uu85gr4mVv0",
+      "language": "en",
+      "duration": "13:18",
+      "publishedDate": "2026-04-23",
+      "thumbnail": "https://i.ytimg.com/vi/uu85gr4mVv0/maxresdefault.jpg",
+      "noteEs": "Guía técnica para montar un dedicated server gratis usando el Windrose Dedicated Server de Steam + migrar tu mundo de singleplayer. Ideal para evitar gastar en hosting comercial.",
+      "noteEn": "Technical guide to set up a free dedicated server using Windrose Dedicated Server from Steam + migrate your singleplayer world. Ideal to avoid commercial hosting costs."
+    }
+  ]
+}

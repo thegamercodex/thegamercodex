@@ -1,0 +1,46 @@
+{
+  "id": "windrose-tools-vs-windrose-gaming-tools",
+  "toolIds": ["windrose-tools", "windrose-gaming-tools"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-05-15",
+  "verdictEs": "Windrose.tools si no quieres instalar nada y prefieres save uploads manuales puntuales. Windrose Gaming Tools si juegas varias horas por sesión y quieres que el mapa refleje tu exploración automáticamente vía companion app, especialmente útil para co-op con visibilidad sincronizada.",
+  "verdictEn": "Windrose.tools if you don't want to install anything and prefer occasional manual save uploads. Windrose Gaming Tools if you play several hours per session and want the map to reflect your exploration automatically via companion app, especially useful for co-op with synced visibility.",
+  "useCases": [
+    {
+      "labelEs": "Sesión casual de 30 minutos: lookup puntual sin setup",
+      "labelEn": "Casual 30-minute session: occasional lookup with no setup",
+      "winner": "windrose-tools",
+      "reasonEs": "Cero instalación, abre la URL, sube el save si necesitas el mapa. Windrose Gaming Tools requiere descargar e instalar la companion app — overhead innecesario para uso esporádico.",
+      "reasonEn": "Zero install, open the URL, upload the save if you need the map. Windrose Gaming Tools requires downloading and installing the companion app — unnecessary overhead for occasional use."
+    },
+    {
+      "labelEs": "Sesión larga de exploración con tracking en tiempo real",
+      "labelEn": "Long exploration session with real-time tracking",
+      "winner": "windrose-gaming-tools",
+      "reasonEs": "La companion app empuja cambios del save automáticamente cada minute o cada in-game save. No tienes que recordar reuploading manualmente cada vez que descubres algo nuevo.",
+      "reasonEn": "The companion app pushes save changes automatically every minute or every in-game save. You don't have to remember manual re-upload every time you discover something new."
+    },
+    {
+      "labelEs": "Coordinar exploración con tu crew de co-op",
+      "labelEn": "Coordinate exploration with your co-op crew",
+      "winner": "windrose-gaming-tools",
+      "reasonEs": "Con la companion app, dos crew members pueden ver el mismo mapa actualizado a la vez. Útil para split exploration: uno mina copper, otro busca faction camp, ambos ven el progreso del otro.",
+      "reasonEn": "With the companion app, two crew members can see the same updated map simultaneously. Useful for split exploration: one mines copper, the other finds faction camp, both see each other's progress."
+    },
+    {
+      "labelEs": "Jugadores en Mac o Linux",
+      "labelEn": "Mac or Linux players",
+      "winner": "windrose-tools",
+      "reasonEs": "Windrose.tools funciona en cualquier browser, OS-independent. La companion app de Gaming Tools es Windows-only — Mac/Linux quedan sin el feature de live-sync.",
+      "reasonEn": "Windrose.tools works in any browser, OS-independent. Gaming Tools' companion app is Windows-only — Mac/Linux miss out on the live-sync feature."
+    },
+    {
+      "labelEs": "Sharing rápido de builds con strangers en foros/Discord",
+      "labelEn": "Quick build sharing with strangers on forums/Discord",
+      "winner": "windrose-tools",
+      "reasonEs": "Windrose.tools tiene más adopción community y los links se reconocen al instante. Gaming Tools también soporta sharing pero el ecosystem todavía es más chico, hay menos signal de confianza.",
+      "reasonEn": "Windrose.tools has more community adoption and links are recognized instantly. Gaming Tools also supports sharing but the ecosystem is still smaller — less trust signal."
+    }
+  ]
+}

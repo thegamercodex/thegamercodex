@@ -1,0 +1,46 @@
+{
+  "id": "nms-save-editor-vs-nomnom-save-editor",
+  "toolIds": ["nms-save-editor", "nomnom-save-editor"],
+  "category": "save-tools",
+  "depth": "short",
+  "lastVerified": "2026-05-15",
+  "verdictEs": "NomNom si quieres un editor moderno con multi-save handling, auto-backups y release cadence rápido tras cada patch. NMS Save Editor de goatfungus si prefieres la opción veterana minimal y testeada desde 2018, especialmente para un solo save sin necesidad de UI pulida.",
+  "verdictEn": "NomNom for a modern editor with multi-save handling, auto-backups and fast release cadence after each patch. Goatfungus' NMS Save Editor for the minimal, battle-tested veteran option since 2018, especially for a single save with no need for polished UI.",
+  "useCases": [
+    {
+      "labelEs": "Gestionar varios characters/saves del mismo profile",
+      "labelEn": "Manage multiple characters/saves from the same profile",
+      "winner": "nomnom-save-editor",
+      "reasonEs": "NomNom maneja explícitamente multi-save: ves todos tus saves en una sidebar, switch entre ellos, edit individual. NMS Save Editor edita un save por vez y forces a reload manual cuando quieres tocar otro.",
+      "reasonEn": "NomNom explicitly handles multi-save: you see all your saves in a sidebar, switch between them, edit individually. NMS Save Editor edits one save at a time and forces manual reload when you want to touch another."
+    },
+    {
+      "labelEs": "Editar un save justo después de un patch reciente de NMS",
+      "labelEn": "Edit a save right after a recent NMS patch",
+      "winner": "nomnom-save-editor",
+      "reasonEs": "NomNom historicamente tiene release cadence más rápido tras patches mayores. NMS Save Editor también actualiza pero el lag suele ser de días.",
+      "reasonEn": "NomNom historically has faster release cadence after major patches. NMS Save Editor also updates but lag is usually days."
+    },
+    {
+      "labelEs": "Workflow simple sobre un solo save, sin features complejas",
+      "labelEn": "Simple workflow on a single save, without complex features",
+      "winner": "nms-save-editor",
+      "reasonEs": "Para un save único, goatfungus es directo: abrir, editar, guardar. UI minimal, foot print bajo. NomNom es polished pero la UX adds tabs/menus que para single-save son overhead.",
+      "reasonEn": "For a single save, goatfungus is direct: open, edit, save. Minimal UI, low footprint. NomNom is polished but its UX adds tabs/menus that are overhead for single-save."
+    },
+    {
+      "labelEs": "Necesitas cross-platform (Mac/Linux)",
+      "labelEn": "You need cross-platform (Mac/Linux)",
+      "winner": "nomnom-save-editor",
+      "reasonEs": "NomNom soporta cross-platform nativamente. NMS Save Editor históricamente fue Windows-first; lograr correrlo en Mac/Linux requiere workarounds (Wine).",
+      "reasonEn": "NomNom supports cross-platform natively. NMS Save Editor was historically Windows-first; running it on Mac/Linux requires workarounds (Wine)."
+    },
+    {
+      "labelEs": "Quieres auto-backup del save antes de cada edit",
+      "labelEn": "Want auto-backup of save before each edit",
+      "winner": "nomnom-save-editor",
+      "reasonEs": "NomNom backuper automáticamente antes de aplicar cambios. NMS Save Editor depende de que tú hagas backup manual — fácil olvidarse y arruinar un save de 300 horas.",
+      "reasonEn": "NomNom auto-backs up before applying changes. NMS Save Editor depends on you doing manual backup — easy to forget and ruin a 300-hour save."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "nexus-mods-windrose",
+  "name": "Nexus Mods — Windrose",
+  "shortName": "Nexus Mods",
+  "taglineEs": "Hub principal de mods para Windrose con categorías, comments, endorsements y soporte de premium download manager",
+  "taglineEn": "Main mod hub for Windrose with categories, comments, endorsements, and premium download manager support",
+  "url": "https://www.nexusmods.com/windrose",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["mod-hub", "community", "downloads", "endorsements"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-15",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["simple-mod-loader", "windrose-mod-manager", "vercadi-mod-manager"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Nexus Mods",
+    "url": "https://www.nexusmods.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": []
+  }
+}

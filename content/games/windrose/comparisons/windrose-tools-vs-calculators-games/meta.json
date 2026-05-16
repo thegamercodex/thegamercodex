@@ -1,0 +1,46 @@
+{
+  "id": "windrose-tools-vs-calculators-games",
+  "toolIds": ["windrose-tools", "calculators-games"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-05-15",
+  "verdictEs": "Windrose.tools si quieres una única herramienta para 80% de los lookups de Windrose — mapa, talents, items, recipes en una sola pestaña. Calculators.games si necesitas matemática rigurosa: TTK contra bosses específicos, comparativa transparente de armor sets, validación numérica de builds antes de respec.",
+  "verdictEn": "Windrose.tools if you want a single tool for 80% of Windrose lookups — map, talents, items, recipes in one tab. Calculators.games if you need rigorous math: TTK against specific bosses, transparent armor set comparison, numerical build validation before respec.",
+  "useCases": [
+    {
+      "labelEs": "Onboarding al juego: solo necesitas un sitio para arrancar",
+      "labelEn": "Game onboarding: just need one site to get started",
+      "winner": "windrose-tools",
+      "reasonEs": "Cubre map, talents, items y discoveries en una UI integrada. Calculators.games asume que ya tienes contexto del juego — su UX no está pensada para beginners.",
+      "reasonEn": "Covers map, talents, items, and discoveries in one integrated UI. Calculators.games assumes you already have game context — its UX isn't designed for beginners."
+    },
+    {
+      "labelEs": "Validar el TTK exacto de un build antes de comprometer respec",
+      "labelEn": "Validate exact TTK of a build before committing to respec",
+      "winner": "calculators-games",
+      "reasonEs": "Calculators.games muestra todos los modifiers aplicados (base damage, weapon scaling, talents, armor mitigation, set bonuses) y deja tweakear cada variable. Windrose.tools planea pero no calcula damage real.",
+      "reasonEn": "Calculators.games shows every applied modifier (base damage, weapon scaling, talents, armor mitigation, set bonuses) and lets you tweak each variable. Windrose.tools plans but doesn't calculate real damage."
+    },
+    {
+      "labelEs": "Compartir un build con tu crew de co-op via link",
+      "labelEn": "Share a build with your co-op crew via link",
+      "winner": "windrose-tools",
+      "reasonEs": "Windrose.tools exporta builds a URL compartible — paste el link y el receiver ve el build cargado. Calculators.games no tiene sharing fácil; requiere screenshots o transcripción manual del setup.",
+      "reasonEn": "Windrose.tools exports builds to a shareable URL — paste the link and the recipient sees the loaded build. Calculators.games has no easy sharing; requires screenshots or manual setup transcription."
+    },
+    {
+      "labelEs": "Comparar dos armor sets contra el mismo boss",
+      "labelEn": "Compare two armor sets against the same boss",
+      "winner": "calculators-games",
+      "reasonEs": "Calculators.games permite abrir dos pestañas con builds distintos y contrastar TTK/DPS side-by-side. Windrose.tools no expone los numbers detrás del build para hacer esta comparación.",
+      "reasonEn": "Calculators.games lets you open two tabs with different builds and contrast TTK/DPS side-by-side. Windrose.tools doesn't expose the numbers behind the build to make this comparison."
+    },
+    {
+      "labelEs": "Encontrar la ubicación de un recurso específico en tu mapa",
+      "labelEn": "Find the location of a specific resource on your map",
+      "winner": "windrose-tools",
+      "reasonEs": "Windrose.tools tiene mapa seed-aware: subes tu save, ve dónde están las copper mines, faction camps y boss spawns reales de tu run. Calculators.games no tiene mapa.",
+      "reasonEn": "Windrose.tools has a seed-aware map: upload your save, see where the copper mines, faction camps, and boss spawns actually are in your run. Calculators.games has no map."
+    }
+  ]
+}

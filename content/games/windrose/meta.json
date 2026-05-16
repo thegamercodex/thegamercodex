@@ -1,0 +1,127 @@
+{
+  "id": "windrose",
+  "name": "Windrose",
+  "shortName": "Windrose",
+  "developer": "Kraken Express",
+  "releaseYear": 2026,
+  "officialUrl": "https://playwindrose.com",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/3041230/Windrose/",
+      "appId": "3041230",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": false,
+    "purchaseTypes": ["early-access"],
+    "payToWin": false,
+    "noteEs": "Early Access pago lanzado el 14 de abril de 2026 (~$18-20 USD). Sin microtransacciones ni cosméticos pagos: compras el juego y todo el contenido futuro de la Early Access está incluido. Kraken Express no ha anunciado un modelo distinto para el lanzamiento 1.0.",
+    "noteEn": "Paid Early Access launched April 14, 2026 (~$18-20 USD). No microtransactions or paid cosmetics: you buy the game and all future Early Access content is included. Kraken Express hasn't announced a different model for the 1.0 launch."
+  },
+  "platforms": ["windows"],
+  "genres": ["survival", "action-rpg", "co-op", "open-world", "soulslike-combat"],
+  "theme": {
+    "primary": "#2d5266",
+    "secondary": "#0f1820",
+    "accent": "#d4a14e",
+    "background": "#080d12",
+    "text": "#e8dcc4"
+  },
+  "logo": "/images/games/windrose-logo.webp",
+  "heroImage": "/images/games/windrose-hero.webp",
+  "toolCategories": [
+    {
+      "id": "build-planning",
+      "nameEs": "Planificación de Builds",
+      "nameEn": "Build Planning",
+      "descriptionEs": "Planificadores de talents, stats y armor sets para diseñar tu capitán antes de subir niveles",
+      "descriptionEn": "Talent, stat, and armor set planners to design your captain before leveling up",
+      "icon": "🧮"
+    },
+    {
+      "id": "maps",
+      "nameEs": "Mapas e Exploración",
+      "nameEn": "Maps & Exploration",
+      "descriptionEs": "Mapas interactivos seed-aware para encontrar POIs, recursos y rutas de exploración",
+      "descriptionEn": "Seed-aware interactive maps to find POIs, resources, and exploration routes",
+      "icon": "🗺️"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis y bases de datos con items, builds, mecánicas, quests y fixes técnicos",
+      "descriptionEn": "Wikis and databases with items, builds, mechanics, quests, and technical fixes",
+      "icon": "📚"
+    },
+    {
+      "id": "mod-managers",
+      "nameEs": "Gestores de Mods",
+      "nameEn": "Mod Managers",
+      "descriptionEs": "Loaders y mod managers para instalar y administrar mods en cliente y servidor",
+      "descriptionEn": "Loaders and mod managers to install and administer mods on client and server",
+      "icon": "📦"
+    },
+    {
+      "id": "modding-tools",
+      "nameEs": "Herramientas de Modding",
+      "nameEn": "Modding Tools",
+      "descriptionEs": "Editores de save, item databases y tools auxiliares para modders",
+      "descriptionEn": "Save editors, item databases, and auxiliary tools for modders",
+      "icon": "🔧"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial, hubs de mods y centros community-driven donde se discute el juego",
+      "descriptionEn": "Official Discord, mod hubs, and community-driven spaces where the game is discussed",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Videos y guías para arrancar: primeros pasos, controles, supervivencia básica y mecánicas core",
+      "descriptionEn": "Videos and guides to get started: first steps, controls, basic survival, and core mechanics",
+      "icon": "🎯"
+    },
+    {
+      "id": "combat-and-builds",
+      "nameEs": "Combate y Builds",
+      "nameEn": "Combat & Builds",
+      "descriptionEs": "Análisis de las 4 ramas de talents (Fencer, Crusher, Marksman, Toughguy), allocations de stats y builds optimizados",
+      "descriptionEn": "Analysis of the 4 talent branches (Fencer, Crusher, Marksman, Toughguy), stat allocations, and optimized builds",
+      "icon": "⚔️"
+    },
+    {
+      "id": "naval-and-ships",
+      "nameEs": "Combate Naval y Barcos",
+      "nameEn": "Naval Combat & Ships",
+      "descriptionEs": "Guías de naval combat, comparativas entre las 3 ships, boarding y estrategias de exploración marítima",
+      "descriptionEn": "Naval combat guides, comparisons of the 3 ships, boarding, and maritime exploration strategies",
+      "icon": "⛵"
+    },
+    {
+      "id": "crafting-and-progression",
+      "nameEs": "Crafteo y Progresión",
+      "nameEn": "Crafting & Progression",
+      "descriptionEs": "Recetas, farmeo de recursos, building base, granjas y curva de progresión por etapas del juego",
+      "descriptionEn": "Recipes, resource farming, base building, farms, and progression curves by game stage",
+      "icon": "🔨"
+    },
+    {
+      "id": "mods-and-customization",
+      "nameEs": "Mods y Personalización",
+      "nameEn": "Mods & Customization",
+      "descriptionEs": "Tutoriales de instalación de mods, listas curadas de mods esenciales y guías de servidores dedicados",
+      "descriptionEn": "Mod install tutorials, curated lists of essential mods, and dedicated server guides",
+      "icon": "🛠️"
+    }
+  ]
+}

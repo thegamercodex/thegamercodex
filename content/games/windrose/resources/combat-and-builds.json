@@ -1,0 +1,80 @@
+{
+  "category": "combat-and-builds",
+  "resources": [
+    {
+      "id": "joe-hammer-windrose-only-build-guide-2026",
+      "type": "video",
+      "title": "The ONLY Build Guide You Need - Windrose",
+      "creator": "Joe Hammer Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=yEFiyGw5MC8",
+      "youtubeId": "yEFiyGw5MC8",
+      "language": "en",
+      "duration": "11:56",
+      "publishedDate": "2026-04-27",
+      "thumbnail": "https://i.ytimg.com/vi/yEFiyGw5MC8/maxresdefault.jpg",
+      "noteEs": "Resumen ejecutivo de talent allocation y stat priority. Cubre stat points, talents, food buffs y gear abilities en 12 minutos densos.",
+      "noteEn": "Executive summary of talent allocation and stat priority. Covers stat points, talents, food buffs, and gear abilities in 12 dense minutes."
+    },
+    {
+      "id": "nobs-windrose-overpowered-early-build-2026",
+      "type": "video",
+      "title": "The Most Overpowered Early Build in Windrose Right Now!",
+      "creator": "NoBS Game Guides",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=HbBMHGMPVnA",
+      "youtubeId": "HbBMHGMPVnA",
+      "language": "en",
+      "duration": "4:08",
+      "publishedDate": "2026-04-19",
+      "thumbnail": "https://i.ytimg.com/vi/HbBMHGMPVnA/maxresdefault.jpg",
+      "noteEs": "Build flagship early-game presentado en 4 minutos: Precision con Rapier of a Thousand Cuts + pistol secondary. Útil cuando solo necesitas una recomendación directa.",
+      "noteEn": "Flagship early-game build presented in 4 minutes: Precision with Rapier of a Thousand Cuts + pistol secondary. Useful when you just need a direct recommendation."
+    },
+    {
+      "id": "yo-mama-windrose-tested-every-build-2026",
+      "type": "video",
+      "title": "I Tested Every Windrose Build - This One is INSANE",
+      "creator": "Yo Mama So Sweaty",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ewcUkGxSFPo",
+      "youtubeId": "ewcUkGxSFPo",
+      "language": "en",
+      "duration": "5:15",
+      "publishedDate": "2026-05-01",
+      "thumbnail": "https://i.ytimg.com/vi/ewcUkGxSFPo/maxresdefault.jpg",
+      "noteEs": "Comparativa de builds populares con conclusión clara: el creador probó todos los principales y recomienda uno. Buen counterpoint a build tutorials que asumen sin probar.",
+      "noteEn": "Comparison of popular builds with a clear conclusion: the creator tested all the major ones and recommends one. Good counterpoint to build tutorials that assume without testing."
+    },
+    {
+      "id": "wolf-windrose-combat-mistakes-2026",
+      "type": "video",
+      "title": "Windrose Combat Guide: Stop Making These Easy Mistakes!",
+      "creator": "WOLF",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=n_m1EDym1HE",
+      "youtubeId": "n_m1EDym1HE",
+      "language": "en",
+      "duration": "16:07",
+      "publishedDate": "2026-04-27",
+      "thumbnail": "https://i.ytimg.com/vi/n_m1EDym1HE/maxresdefault.jpg",
+      "noteEs": "Foco en mistakes comunes que detienen progresión: stamina mismanagement, dodge timing, posture breaking. Útil para players intermedios que aprendieron lo básico pero siguen muriendo.",
+      "noteEn": "Focused on common mistakes that stall progression: stamina mismanagement, dodge timing, posture breaking. Useful for intermediate players who learned the basics but keep dying."
+    },
+    {
+      "id": "captain-falcore-windrose-next-big-hit-2026",
+      "type": "video",
+      "title": "Windrose Might Be the Next Big Hit… Here's Why",
+      "creator": "Captain Falcore",
+      "creatorId": "captain-falcore",
+      "url": "https://www.youtube.com/watch?v=F84wzEtDdAw",
+      "youtubeId": "F84wzEtDdAw",
+      "language": "en",
+      "duration": "8:15",
+      "publishedDate": "2026-04-13",
+      "thumbnail": "https://i.ytimg.com/vi/F84wzEtDdAw/maxresdefault.jpg",
+      "noteEs": "Preview pre-lanzamiento del veterano pirata Captain Falcore con insights sobre el modelo combat, comparativas con Sea of Thieves y por qué el approach soulslike funciona en este género.",
+      "noteEn": "Pre-launch preview from pirate-gaming veteran Captain Falcore with insights on the combat model, comparisons to Sea of Thieves, and why the soulslike approach works in this genre."
+    }
+  ]
+}

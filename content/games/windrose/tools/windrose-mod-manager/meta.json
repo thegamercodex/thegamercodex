@@ -1,0 +1,28 @@
+{
+  "id": "windrose-mod-manager",
+  "name": "Windrose Mod Manager (CertiFried)",
+  "shortName": "Windrose Mod Manager",
+  "taglineEs": "Mod manager con soporte client + dedicated server (SFTP/FTP), drag-and-drop de PAK files y backup automático",
+  "taglineEn": "Mod manager with client + dedicated server support (SFTP/FTP), drag-and-drop PAK file install, and automatic backup",
+  "url": "https://www.nexusmods.com/windrose/mods/148",
+  "category": "mod-managers",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["mod-manager", "dedicated-server", "sftp", "backup"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-15",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["simple-mod-loader", "vercadi-mod-manager", "nexus-mods-windrose"],
+  "alternatives": ["vercadi-mod-manager"],
+  "createdBy": {
+    "name": "CertiFried",
+    "url": "https://www.nexusmods.com/windrose/users/"
+  }
+}

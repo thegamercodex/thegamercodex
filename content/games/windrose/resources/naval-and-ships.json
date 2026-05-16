@@ -1,0 +1,80 @@
+{
+  "category": "naval-and-ships",
+  "resources": [
+    {
+      "id": "kodeations-windrose-dominate-ship-battles-2026",
+      "type": "video",
+      "title": "Windrose - How to DOMINATE Ship Battles!",
+      "creator": "Kodeations",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=knlzeMle8TQ",
+      "youtubeId": "knlzeMle8TQ",
+      "language": "en",
+      "duration": "10:40",
+      "publishedDate": "2026-04-17",
+      "thumbnail": "https://i.ytimg.com/vi/knlzeMle8TQ/maxresdefault.jpg",
+      "noteEs": "Guía de combate naval con desglose de cannon positioning, critical hit spots y boarding mechanics. Bien narrada con visuales claros para entender posicionamiento.",
+      "noteEn": "Naval combat guide with breakdown of cannon positioning, critical hit spots, and boarding mechanics. Well-narrated with clear visuals to understand positioning."
+    },
+    {
+      "id": "dean-nutz-windrose-win-every-ship-battle-2026",
+      "type": "video",
+      "title": "How to Win EVERY Ship Battle in Windrose – Full Naval Combat Guide 2026",
+      "creator": "Dean Nutz",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=T45EEUDljJo",
+      "youtubeId": "T45EEUDljJo",
+      "language": "en",
+      "duration": "12:14",
+      "publishedDate": "2026-04-22",
+      "thumbnail": "https://i.ytimg.com/vi/T45EEUDljJo/maxresdefault.jpg",
+      "noteEs": "Cobertura completa de los 3 ships disponibles (Ketch, Brigantine, Galleon) y cuándo usar cada uno. Incluye tips de naval combat por tipo de barco y matchups específicos.",
+      "noteEn": "Full coverage of the 3 available ships (Ketch, Brigantine, Galleon) and when to use each. Includes naval combat tips per ship type and specific matchups."
+    },
+    {
+      "id": "arcade-ranker-windrose-master-the-seas-2026",
+      "type": "video",
+      "title": "MASTER THE SEAS! How To Board And Sink Ships In Windrose",
+      "creator": "Arcade Ranker",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=20Jgks8TZw0",
+      "youtubeId": "20Jgks8TZw0",
+      "language": "en",
+      "duration": "5:19",
+      "publishedDate": "2026-05-08",
+      "thumbnail": "https://i.ytimg.com/vi/20Jgks8TZw0/maxresdefault.jpg",
+      "noteEs": "Foco específico en la mecánica de boarding: cómo deshabilitar un barco enemigo, abordar y derrotar a la tripulación. En 5 minutos cubre el flujo completo de abordaje.",
+      "noteEn": "Specific focus on boarding mechanics: how to disable an enemy ship, board it, and defeat the crew. In 5 minutes covers the complete boarding flow."
+    },
+    {
+      "id": "myspaceguide-windrose-ship-battles-2026",
+      "type": "video",
+      "title": "How to Win Ship Battles in Windrose (Naval Combat guide)",
+      "creator": "MySpaceGuide",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Ennei-0DdVE",
+      "youtubeId": "Ennei-0DdVE",
+      "language": "en",
+      "duration": "1:30",
+      "publishedDate": "2026-04-17",
+      "thumbnail": "https://i.ytimg.com/vi/Ennei-0DdVE/maxresdefault.jpg",
+      "noteEs": "Tip super condensado en 90 segundos: cómo posicionar el Ketch y usar chain shots para deshabilitar mastiles. Ideal cuando solo necesitas un truco rápido sin tutorial extenso.",
+      "noteEn": "Super condensed 90-second tip: how to position the Ketch and use chain shots to disable masts. Ideal when you just need a quick trick without an extended tutorial."
+    },
+    {
+      "id": "captain-falcore-windrose-ultimate-sea-fort-2026",
+      "type": "video",
+      "title": "Building the Ultimate Sea Fort | Windrose",
+      "creator": "Captain Falcore",
+      "creatorId": "captain-falcore",
+      "url": "https://www.youtube.com/watch?v=jLBs0MBP3cs",
+      "youtubeId": "jLBs0MBP3cs",
+      "language": "en",
+      "duration": "9:33",
+      "publishedDate": "2026-04-21",
+      "thumbnail": "https://i.ytimg.com/vi/jLBs0MBP3cs/maxresdefault.jpg",
+      "noteEs": "Showcase build de fort naval construido en medio del océano. Demuestra placement creativo y aprovechamiento de mecánicas de building para crear una base con personalidad pirata.",
+      "noteEn": "Showcase build of a naval fort built in the middle of the ocean. Demonstrates creative placement and exploitation of building mechanics to create a base with pirate personality."
+    }
+  ]
+}

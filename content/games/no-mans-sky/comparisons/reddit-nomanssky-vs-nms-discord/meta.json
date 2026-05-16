@@ -1,0 +1,46 @@
+{
+  "id": "reddit-nomanssky-vs-nms-discord",
+  "toolIds": ["reddit-nomanssky", "nms-discord"],
+  "category": "community",
+  "depth": "short",
+  "lastVerified": "2026-05-15",
+  "verdictEs": "r/NoMansSkyTheGame si quieres discusión async archivable, base/screenshot showcases curados y reacciones a patches con threads largos. Discord oficial si necesitas respuesta en tiempo real, coordinarte para multiplayer o canales específicos por idioma con presencia oficial de Hello Games.",
+  "verdictEn": "r/NoMansSkyTheGame for archivable async discussion, curated base/screenshot showcases, and patch reactions with long threads. Official Discord for real-time answers, multiplayer matchmaking, or language-specific channels with official Hello Games presence.",
+  "useCases": [
+    {
+      "labelEs": "Encontrar un screenshot espectacular que viste hace 3 meses",
+      "labelEn": "Find a spectacular screenshot you saw 3 months ago",
+      "winner": "reddit-nomanssky",
+      "reasonEs": "Reddit es archivable y searchable — los top posts persisten y aparecen en Google. Discord pierde mensajes en el scroll; encontrar algo de hace 3 meses es prácticamente imposible.",
+      "reasonEn": "Reddit is archivable and searchable — top posts persist and surface on Google. Discord loses messages in the scroll; finding something from 3 months ago is practically impossible."
+    },
+    {
+      "labelEs": "Coordinarse para una expedition co-op en los próximos 10 minutos",
+      "labelEn": "Coordinate a co-op expedition session in the next 10 minutes",
+      "winner": "nms-discord",
+      "reasonEs": "Discord tiene canales LFG (looking for group) por region (EU/NA/SA) con activity en tiempo real. Reddit es async — postear ahí esperando partners en 10 minutos no funciona.",
+      "reasonEn": "Discord has LFG (looking for group) channels by region (EU/NA/SA) with real-time activity. Reddit is async — posting there hoping for partners in 10 minutes doesn't work."
+    },
+    {
+      "labelEs": "Preguntar algo técnico al staff oficial de Hello Games",
+      "labelEn": "Ask the official Hello Games staff a technical question",
+      "winner": "nms-discord",
+      "reasonEs": "Discord es operado por Hello Games con staff activo en support channels. Reddit tiene AMAs ocasionales pero la comunicación directa con dev es vía Discord.",
+      "reasonEn": "Discord is operated by Hello Games with active staff in support channels. Reddit has occasional AMAs but direct dev communication happens on Discord."
+    },
+    {
+      "labelEs": "Leer análisis editoriales largos de cada major patch",
+      "labelEn": "Read long editorial analyses of each major patch",
+      "winner": "reddit-nomanssky",
+      "reasonEs": "Reddit format favorece posts largos con comments threading. Los reaction megathreads de cada update son los mejores análisis colaborativos que la community produce.",
+      "reasonEn": "Reddit's format favors long posts with comment threading. The reaction megathreads of each update are the best collaborative analyses the community produces."
+    },
+    {
+      "labelEs": "Ver base showcases curados con votación community",
+      "labelEn": "See community-voted curated base showcases",
+      "winner": "reddit-nomanssky",
+      "reasonEs": "El upvote system de Reddit produce curation natural — los best builds suben al top. Discord no tiene este filtro; las bases que se postean se mezclan con el chatter general.",
+      "reasonEn": "Reddit's upvote system produces natural curation — the best builds rise to the top. Discord has no such filter; posted bases get mixed with general chatter."
+    }
+  ]
+}

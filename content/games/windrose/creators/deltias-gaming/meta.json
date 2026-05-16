@@ -1,0 +1,36 @@
+{
+  "id": "deltias-gaming",
+  "name": "Deltia's Gaming",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@DeltiasGaming",
+      "url": "https://www.youtube.com/@DeltiasGaming",
+      "channelId": "UCvPs3pT83N6EmNLlLrbwwMQ",
+      "primary": true
+    }
+  ],
+  "specialties": ["combat-guides", "build-guides", "boss-fights", "tier-lists"],
+  "games": ["windrose"],
+  "contentTypes": ["guides", "videos", "articles"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Especialista en guides de combate y builds optimizados, con backbone de cobertura cross-juego (ESO, Diablo 4, varios ARPGs). Para Windrose produjo desde día uno content específico de combat mechanics, boss strategies y stat allocation. Su sitio web complementa los videos con artículos largos, útil cuando preferís texto sobre video.",
+  "noteEn": "Specialist in combat guides and optimized builds, with a cross-game coverage backbone (ESO, Diablo 4, several ARPGs). For Windrose he produced specific content from day one on combat mechanics, boss strategies, and stat allocation. His website complements the videos with long-form articles, useful when you prefer text over video.",
+  "highlightsEs": [
+    "Combat Guide de Windrose con detalle de stamina, parry y dodge",
+    "Boss strategies por boss (Thomas Richards, Israel Hands, High Priestess)",
+    "Companion site deltiasgaming.com con guides escritos",
+    "Tier lists de weapons y armor sets actualizados con patches"
+  ],
+  "highlightsEn": [
+    "Windrose Combat Guide with stamina, parry, and dodge detail",
+    "Boss strategies per boss (Thomas Richards, Israel Hands, High Priestess)",
+    "Companion site deltiasgaming.com with written guides",
+    "Weapon and armor set tier lists updated with patches"
+  ],
+  "avatar": "/images/creators/deltias-gaming-avatar.jpg",
+  "banner": "/images/creators/deltias-gaming-banner.jpg"
+}

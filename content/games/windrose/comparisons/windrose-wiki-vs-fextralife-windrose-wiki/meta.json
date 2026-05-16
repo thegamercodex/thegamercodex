@@ -1,0 +1,46 @@
+{
+  "id": "windrose-wiki-vs-fextralife-windrose-wiki",
+  "toolIds": ["windrose-wiki", "fextralife-windrose-wiki"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-05-15",
+  "verdictEs": "Windrose Wiki si necesitas lookup factual rápido de items, NPCs y recipes con filtros prácticos. Fextralife si vienes de souls-likes y quieres boss strategies detalladas, scaling tables de weapons y build archetypes documentados al estilo de sus wikis de Elden Ring y Dark Souls.",
+  "verdictEn": "Windrose Wiki if you need fast factual lookup of items, NPCs, and recipes with practical filters. Fextralife if you come from souls-likes and want detailed boss strategies, weapon scaling tables, and documented build archetypes in the style of their Elden Ring and Dark Souls wikis.",
+  "useCases": [
+    {
+      "labelEs": "Lookup factual: qué hace este item, de dónde sale",
+      "labelEn": "Factual lookup: what this item does, where it comes from",
+      "winner": "windrose-wiki",
+      "reasonEs": "Windrose Wiki está optimizada para lookup textual rápido con filtros (type, source, level). Fextralife es más prosa y menos tabular — más lenta para queries directos.",
+      "reasonEn": "Windrose Wiki is optimized for fast textual lookup with filters (type, source, level). Fextralife is more prose and less tabular — slower for direct queries."
+    },
+    {
+      "labelEs": "Preparar un fight contra Thomas Richards o Israel Hands",
+      "labelEn": "Prepare for a fight against Thomas Richards or Israel Hands",
+      "winner": "fextralife-windrose-wiki",
+      "reasonEs": "Fextralife tiene pages dedicadas por boss con strategy, weak points, drops y moveset breakdown — el formato que afinó por una década de wikis souls-like. Windrose Wiki cubre bosses pero con menos profundidad táctica.",
+      "reasonEn": "Fextralife has dedicated per-boss pages with strategy, weak points, drops, and moveset breakdown — the format honed over a decade of souls-like wikis. Windrose Wiki covers bosses but with less tactical depth."
+    },
+    {
+      "labelEs": "Comparar scaling de dos rapiers para elegir weapon",
+      "labelEn": "Compare scaling of two rapiers to pick a weapon",
+      "winner": "fextralife-windrose-wiki",
+      "reasonEs": "Las weapon pages de Fextralife incluyen scaling tables específicas por stat (Precision/Agility/Strength) — directo para optimization decisions. Windrose Wiki muestra stats base pero el scaling no está siempre exposed.",
+      "reasonEn": "Fextralife weapon pages include scaling tables per stat (Precision/Agility/Strength) — direct for optimization decisions. Windrose Wiki shows base stats but scaling isn't always exposed."
+    },
+    {
+      "labelEs": "Encontrar la receta exacta de un item craftable",
+      "labelEn": "Find the exact recipe for a craftable item",
+      "winner": "windrose-wiki",
+      "reasonEs": "Recipe chains de Windrose Wiki son cross-linked: clic en un material te lleva a su page con sources, permite backtrackear desde objetivo final a base materials. Fextralife tiene la info pero menos estructurada.",
+      "reasonEn": "Windrose Wiki recipe chains are cross-linked: clicking a material takes you to its page with sources, lets you backtrack from final goal to base materials. Fextralife has the info but less structured."
+    },
+    {
+      "labelEs": "Contribuir info que falta o está outdated",
+      "labelEn": "Contribute missing or outdated info",
+      "winner": "windrose-wiki",
+      "reasonEs": "Windrose Wiki es community-editable con barrier de entrada bajo: cuenta gratuita y clic en Edit. Fextralife también acepta contribs pero su flow editorial es más controlado y menos transparente.",
+      "reasonEn": "Windrose Wiki is community-editable with a low barrier to entry: free account and click Edit. Fextralife also accepts contributions but its editorial flow is more controlled and less transparent."
+    }
+  ]
+}

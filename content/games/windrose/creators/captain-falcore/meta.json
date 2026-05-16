@@ -1,0 +1,36 @@
+{
+  "id": "captain-falcore",
+  "name": "Captain Falcore",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@CaptainFalcore",
+      "url": "https://www.youtube.com/@CaptainFalcore",
+      "channelId": "UCbC7fK_u7HN88xZK2R8KOmQ",
+      "primary": true
+    }
+  ],
+  "specialties": ["pirate-gaming", "base-building", "naval-combat", "co-op"],
+  "games": ["windrose"],
+  "contentTypes": ["videos", "guides", "showcase"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Veterano del género pirata: trayectoria larga cubriendo Sea of Thieves antes de saltar a Windrose en su Early Access. Mezcla guides, gameplay y showcase builds — su Ultimate Sea Fort es uno de los builds más vistos de la comunidad temprana de Windrose. Útil para players que valoran perspectiva multi-juego del nicho pirata.",
+  "noteEn": "Veteran of the pirate genre: long track record covering Sea of Thieves before jumping to Windrose in its Early Access. Mixes guides, gameplay, and showcase builds — his Ultimate Sea Fort is one of the most-viewed builds in Windrose's early community. Useful for players who value multi-game perspective in the pirate niche.",
+  "highlightsEs": [
+    "Veterano del nicho pirate-gaming (track record en Sea of Thieves)",
+    "Ultimate Sea Fort: showcase build community-famous en Windrose",
+    "Mix de guides explicativos y showcase visual",
+    "Production value alto: editing, audio, pacing"
+  ],
+  "highlightsEn": [
+    "Veteran of the pirate-gaming niche (Sea of Thieves track record)",
+    "Ultimate Sea Fort: community-famous showcase build in Windrose",
+    "Mix of explanatory guides and visual showcase",
+    "High production value: editing, audio, pacing"
+  ],
+  "avatar": "/images/creators/captain-falcore-avatar.jpg",
+  "banner": "/images/creators/captain-falcore-banner.jpg"
+}

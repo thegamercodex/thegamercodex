@@ -1,0 +1,32 @@
+{
+  "id": "calculators-games",
+  "name": "Calculators.games — Windrose",
+  "shortName": "Calculators.games",
+  "taglineEs": "Calculadora de daño y planner de stats que enfoca la matemática profunda: TTK, DPS y comparativa de armor sets",
+  "taglineEn": "Damage calculator and stat planner that focuses on deep math: TTK, DPS, and armor set comparison",
+  "url": "https://calculators.games/windrose",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["damage-calculator", "dps", "ttk", "build-planning", "armor-sets"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-15",
+  "logo": "/images/tools/windrose/calculators-games-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["windrose-tools", "windrose-db"],
+  "alternatives": ["windrose-tools"],
+  "createdBy": {
+    "name": "Calculators.games",
+    "url": "https://calculators.games"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": []
+  }
+}

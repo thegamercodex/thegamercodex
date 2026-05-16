@@ -1,0 +1,53 @@
+{
+  "id": "wowhead-vs-warcraft-wiki",
+  "toolIds": ["wowhead", "warcraft-wiki"],
+  "category": "wiki",
+  "depth": "flagship",
+  "lastVerified": "2026-05-15",
+  "verdictEs": "WoWHead si necesitas lookup operativo durante el juego — items, quests, mechanics, guides de patch, news. Warcraft Wiki si te interesa el universo: lore, historia narrativa, contexto de mecánicas que cambiaron a lo largo de 20 años, y una experiencia sin ads invasivos.",
+  "verdictEn": "WoWHead for operational lookup during play — items, quests, mechanics, patch guides, news. Warcraft Wiki for the universe: lore, narrative history, context of mechanics that changed over 20 years, and a no-invasive-ads experience.",
+  "useCases": [
+    {
+      "labelEs": "Buscar qué dropea un item específico de raid",
+      "labelEn": "Look up what drops a specific raid item",
+      "winner": "wowhead",
+      "reasonEs": "WoWHead tiene la base de datos canónica de drops, con boss source, drop rate aproximado y filtros por raid difficulty. Warcraft Wiki cubre items pero sin la profundidad de drop tables que WoWHead consolidó en 20 años.",
+      "reasonEn": "WoWHead has the canonical drops database with boss source, approximate drop rate, and filters by raid difficulty. Warcraft Wiki covers items but without the drop-table depth WoWHead consolidated over 20 years."
+    },
+    {
+      "labelEs": "Entender la lore detrás de un personaje como Sylvanas o Anduin",
+      "labelEn": "Understand the lore behind a character like Sylvanas or Anduin",
+      "winner": "warcraft-wiki",
+      "reasonEs": "Warcraft Wiki tiene pages de personajes con biografía cronológica, citas, apariciones por expansion y referencias cruzadas. WoWHead toca lore como secondary; el foco principal es operativo.",
+      "reasonEn": "Warcraft Wiki has character pages with chronological biography, quotes, appearances by expansion, and cross-references. WoWHead touches on lore as secondary; the main focus is operational."
+    },
+    {
+      "labelEs": "Leer el guide más reciente de un boss en current tier",
+      "labelEn": "Read the most recent guide for a current-tier boss",
+      "winner": "wowhead",
+      "reasonEs": "WoWHead actualiza guides con cada patch en horas — incluye videos, comments community y datamining temprano. Warcraft Wiki documenta bosses pero no es un current-tier guide hub.",
+      "reasonEn": "WoWHead updates guides within hours of each patch — includes videos, community comments, and early datamining. Warcraft Wiki documents bosses but isn't a current-tier guide hub."
+    },
+    {
+      "labelEs": "Investigar cómo cambió el sistema de talents desde Vanilla hasta Dragonflight",
+      "labelEn": "Research how the talent system evolved from Vanilla to Dragonflight",
+      "winner": "warcraft-wiki",
+      "reasonEs": "Warcraft Wiki documenta sistemas con historial completo: talent trees clásicos, MoP, WoD, Legion, BfA, SL, DF, TWW. Cada iteration con context narrativo. WoWHead muestra el estado actual; no es archivo histórico.",
+      "reasonEn": "Warcraft Wiki documents systems with complete history: classic talent trees, MoP, WoD, Legion, BfA, SL, DF, TWW. Each iteration with narrative context. WoWHead shows the current state; it isn't a historical archive."
+    },
+    {
+      "labelEs": "Browse rápido durante mid-pull para confirmar un mechanic",
+      "labelEn": "Quick browse mid-pull to confirm a mechanic",
+      "winner": "wowhead",
+      "reasonEs": "WoWHead carga rápido y tiene boss strategy en formato condensado, ideal para Alt-Tab durante combate. La wiki es más prosa narrativa — buena para learning, no para reference urgente.",
+      "reasonEn": "WoWHead loads fast and has boss strategy in condensed format, ideal for Alt-Tab during combat. The wiki is more narrative prose — good for learning, not for urgent reference."
+    },
+    {
+      "labelEs": "Buscar info sin ads invasivos ni pop-ups",
+      "labelEn": "Look up info without invasive ads or pop-ups",
+      "winner": "warcraft-wiki",
+      "reasonEs": "Warcraft Wiki (wiki.gg desde 2023) tiene política explícita anti-Fandom: cero ads pesados, cero pop-ups. WoWHead tiene ads deneres (especialmente desde su compra por Tencent vía Fanbyte) que sin adblocker degradan la experiencia.",
+      "reasonEn": "Warcraft Wiki (wiki.gg since 2023) has an explicit anti-Fandom policy: zero heavy ads, zero pop-ups. WoWHead has dense ads (especially since its Tencent-via-Fanbyte acquisition) that degrade the experience without an adblocker."
+    }
+  ]
+}

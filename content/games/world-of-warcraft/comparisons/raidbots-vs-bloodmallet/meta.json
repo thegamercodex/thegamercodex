@@ -1,0 +1,46 @@
+{
+  "id": "raidbots-vs-bloodmallet",
+  "toolIds": ["raidbots", "bloodmallet"],
+  "category": "gear-optimizer",
+  "depth": "short",
+  "lastVerified": "2026-05-15",
+  "verdictEs": "Raidbots si necesitas simular tu character específico — top gear, stat weights con tu gear actual, Droptimizer contra un raid. Bloodmallet si solo quieres respuesta rápida tipo 'qué trinket del Vault elijo' sin tocar tu profile — charts pre-computados por spec.",
+  "verdictEn": "Raidbots if you need to simulate your specific character — top gear, stat weights with your current gear, Droptimizer against a raid. Bloodmallet if you just want a quick 'which Vault trinket do I pick' answer without touching your profile — pre-computed per-spec charts.",
+  "useCases": [
+    {
+      "labelEs": "Decidir qué pieza del Vault de esta semana es mejor",
+      "labelEn": "Decide which Vault piece this week is best",
+      "winner": "bloodmallet",
+      "reasonEs": "Bloodmallet tiene charts pre-computados de trinkets ranked por spec. Abres el page, ves el ranking, eliges — 30 segundos. Raidbots requiere subir tu profile y correr sim — overkill cuando solo necesitas un quick check.",
+      "reasonEn": "Bloodmallet has pre-computed trinket charts ranked per spec. Open the page, see the ranking, pick — 30 seconds. Raidbots requires uploading your profile and running a sim — overkill when you just need a quick check."
+    },
+    {
+      "labelEs": "Calcular stat weights con tu gear y talents actuales",
+      "labelEn": "Calculate stat weights with your current gear and talents",
+      "winner": "raidbots",
+      "reasonEs": "Raidbots simula tu character específico con tu setup actual. Stat weights resulting reflejan diminishing returns en tu gear level específico — different than el generic stat weight de Bloodmallet.",
+      "reasonEn": "Raidbots simulates your specific character with your current setup. Resulting stat weights reflect diminishing returns at your specific gear level — different than Bloodmallet's generic stat weight."
+    },
+    {
+      "labelEs": "Droptimizer: comparar todos los upgrades posibles de un raid",
+      "labelEn": "Droptimizer: compare all possible upgrades from a raid",
+      "winner": "raidbots",
+      "reasonEs": "Raidbots Droptimizer simula tu char vs cada item dropeable del raid y te ranking exactamente qué te bueffa más. Bloodmallet no tiene este tool — sus charts son aggregate, no character-specific.",
+      "reasonEn": "Raidbots Droptimizer simulates your char against each dropable item from the raid and ranks exactly what buffs you most. Bloodmallet doesn't have this tool — its charts are aggregate, not character-specific."
+    },
+    {
+      "labelEs": "Comparar tier set bonuses entre dos specs",
+      "labelEn": "Compare tier set bonuses between two specs",
+      "winner": "bloodmallet",
+      "reasonEs": "Bloodmallet tiene charts por spec con tier sets ranked desde 2-set, 4-set, embellishments y combinations. Useful para players multi-spec que evalúan switch. Raidbots simula uno por vez — más lento para comparación cross-spec.",
+      "reasonEn": "Bloodmallet has per-spec charts with tier sets ranked from 2-set, 4-set, embellishments, and combinations. Useful for multi-spec players evaluating switches. Raidbots simulates one at a time — slower for cross-spec comparison."
+    },
+    {
+      "labelEs": "Setup inicial de season sin profile listo en SimC",
+      "labelEn": "Initial season setup without a ready SimC profile",
+      "winner": "bloodmallet",
+      "reasonEs": "Bloodmallet no requiere upload — abres el web y ves rankings inmediatamente. Raidbots requiere export SimC string desde el game y paste. Para player que recién arranca season, Bloodmallet es lower friction.",
+      "reasonEn": "Bloodmallet requires no upload — open the web and see rankings immediately. Raidbots requires SimC string export from the game and paste. For a player just starting the season, Bloodmallet is lower friction."
+    }
+  ]
+}
