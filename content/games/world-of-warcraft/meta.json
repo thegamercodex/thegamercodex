@@ -146,5 +146,14 @@
       "descriptionEn": "MDI, AWC, Race to World First: analysis, predictions, recaps, and interviews.",
       "icon": "📺"
     }
+  ],
+  "newsFeeds": [
+    {
+      "type": "youtube-channel",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbLj9QP9FAaHs_647QckGtg",
+      "nameEs": "World of Warcraft (YouTube oficial)",
+      "nameEn": "World of Warcraft (Official YouTube)",
+      "priority": 100
+    }
   ]
 }
