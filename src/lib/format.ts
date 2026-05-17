@@ -3,7 +3,10 @@ import type { Locale } from "@/types";
 // `new Date("2026-05-07")` parses as UTC midnight, which renders as the previous
 // calendar day for any viewer west of UTC. Appending "T00:00:00" forces local-time
 // interpretation so the displayed date matches the stored YYYY-MM-DD literally.
+// If the input already includes a time component (e.g. full ISO from RSS feeds),
+// parse it directly to preserve the exact instant.
 export function parseDateOnly(isoDate: string): Date {
+  if (isoDate.includes("T")) return new Date(isoDate);
   return new Date(`${isoDate}T00:00:00`);
 }
 

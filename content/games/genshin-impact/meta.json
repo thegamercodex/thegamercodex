@@ -170,5 +170,14 @@
         "descriptionEn": "Lore analysis and game story theories",
         "icon": "📖"
       }
+    ],
+    "newsFeeds": [
+      {
+        "type": "hoyoverse",
+        "url": "https://sg-public-api-static.hoyoverse.com/content_v2_user/app/a1b1f9d3315447cc/getContentList?iAppId=32&iChanId=395&iPageSize=20&iPage=1&sLangKey=en-us",
+        "nameEs": "HoYoverse News",
+        "nameEn": "HoYoverse News",
+        "priority": 100
+      }
     ]
   }

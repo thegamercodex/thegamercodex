@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs";
 import path from "node:path";
+import { Suspense } from "react";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import type { Metadata } from "next";
@@ -10,6 +11,7 @@ import { GameTabNav } from "@/components/GameTabNav";
 import { ToolsExplorer } from "@/components/ToolsExplorer";
 import { CreatorCard } from "@/components/CreatorCard";
 import { MarkdownContent } from "@/components/MarkdownContent";
+import { NewsPreview } from "@/components/NewsPreview";
 import { ShareButtons } from "@/components/ShareButtons";
 import { absoluteUrl } from "@/lib/site";
 import {
@@ -22,6 +24,7 @@ import {
 import { ComparisonCard } from "@/components/ComparisonCard";
 import { categoryName } from "@/lib/categories";
 import { jsonLdScript, videoGameJsonLd } from "@/lib/jsonld";
+import { hasNewsSources } from "@/lib/news";
 import type { Locale } from "@/types";
 
 interface PageParams {
@@ -112,12 +115,16 @@ export default async function GamePage({ params }: PageParams) {
       existsSync(path.join(process.cwd(), "public", tool.logo));
   }
 
+  const showNews = hasNewsSources(game);
+  const tNews = await getTranslations("news");
+
   const tabs = [
     tools.length > 0 && { id: "tools", label: t("toolsHeading") },
     resolvedComparisons.length > 0 && {
       id: "comparisons",
       label: t("comparisonsHeading"),
     },
+    showNews && { id: "news", label: tNews("title") },
     creators.length > 0 && { id: "creators", label: t("creatorsHeading") },
     game.resourceCategories.length > 0 && {
       id: "resources",
@@ -203,6 +210,33 @@ export default async function GamePage({ params }: PageParams) {
                 ))}
               </div>
             </div>
+          </section>
+        )}
+
+        {showNews && (
+          <section
+            id="news"
+            className="scroll-mt-32 border-b border-border py-12"
+          >
+            <div className="mb-6 flex items-baseline justify-between">
+              <h2 className="text-2xl font-semibold tracking-tight">
+                {tNews("sectionHeading")}
+              </h2>
+            </div>
+            <Suspense
+              fallback={
+                <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+                  {Array.from({ length: 3 }).map((_, i) => (
+                    <div
+                      key={i}
+                      className="h-48 animate-pulse rounded-lg border border-border bg-muted/40"
+                    />
+                  ))}
+                </div>
+              }
+            >
+              <NewsPreview game={game} locale={loc} limit={3} />
+            </Suspense>
           </section>
         )}
 

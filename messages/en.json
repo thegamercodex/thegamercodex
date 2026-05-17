@@ -262,5 +262,13 @@
     "stream": "Stream",
     "podcast": "Podcast",
     "infographic": "Infographic"
+  },
+  "news": {
+    "title": "News",
+    "sectionHeading": "Latest news",
+    "pageTitle": "{game} news",
+    "pageSubtitle": "Patch notes, announcements and updates aggregated from official sources. Refreshed automatically every few hours.",
+    "viewAll": "View all news",
+    "empty": "No news available for this game yet."
   }
 }
