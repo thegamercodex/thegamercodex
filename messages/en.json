@@ -155,7 +155,8 @@
     "platforms": "Platforms",
     "officialSite": "Official site",
     "resourceCount": "{count, plural, one {# resource} other {# resources}}",
-    "backToHub": "Back to {game}"
+    "backToHub": "Back to {game}",
+    "similarGames": "If you like {game}, try these too"
   },
   "tool": {
     "goToTool": "Go to tool",

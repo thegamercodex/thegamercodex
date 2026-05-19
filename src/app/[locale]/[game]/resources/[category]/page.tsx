@@ -8,16 +8,19 @@ import { Link } from "@/i18n/navigation";
 import { ContinueExploring } from "@/components/ContinueExploring";
 import { MobileGameBackBar } from "@/components/MobileGameBackBar";
 import { ResourceGrid } from "@/components/ResourceGrid";
+import { SimilarGames } from "@/components/SimilarGames";
 import {
   getAllResources,
   getCreatorIds,
   getGame,
   getGameIds,
+  getGames,
   getResources,
   getTools,
 } from "@/lib/content";
 import { categoriesById, categoryName, categoryDescription } from "@/lib/categories";
 import { collectionPageJsonLd, jsonLdScript } from "@/lib/jsonld";
+import { getSimilarGames } from "@/lib/similar-games";
 import type { Locale, ResourceCategory } from "@/types";
 
 interface PageParams {
@@ -86,10 +89,12 @@ export default async function ResourcesCategoryPage({ params }: PageParams) {
   const tGame = await getTranslations("game");
   const creatorIdsInCodex = await getCreatorIds(gameId);
 
-  const [allCollections, tools] = await Promise.all([
+  const [allCollections, tools, allGames] = await Promise.all([
     getAllResources(gameId),
     getTools(gameId),
+    getGames(),
   ]);
+  const similarGames = getSimilarGames(game, allGames);
   const resourceCounts: Record<string, number> = {};
   for (const c of allCollections) {
     resourceCounts[c.category] = c.resources.length;
@@ -194,6 +199,8 @@ export default async function ResourcesCategoryPage({ params }: PageParams) {
         toolLogos={featuredToolLogos}
         locale={loc}
       />
+
+      <SimilarGames current={game} similar={similarGames} locale={loc} />
       <MobileGameBackBar
         gameId={game.id}
         gameName={game.name}

@@ -13,18 +13,21 @@ import { CreatorCard } from "@/components/CreatorCard";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { NewsPreview } from "@/components/NewsPreview";
 import { ShareButtons } from "@/components/ShareButtons";
+import { SimilarGames } from "@/components/SimilarGames";
 import { absoluteUrl } from "@/lib/site";
 import {
   getAllResources,
   getComparisons,
   getCreators,
   getGame,
+  getGames,
   getTools,
 } from "@/lib/content";
 import { ComparisonCard } from "@/components/ComparisonCard";
 import { categoryName } from "@/lib/categories";
 import { jsonLdScript, videoGameJsonLd } from "@/lib/jsonld";
 import { hasNewsSources } from "@/lib/news";
+import { getSimilarGames } from "@/lib/similar-games";
 import type { Locale } from "@/types";
 
 interface PageParams {
@@ -77,19 +80,22 @@ export default async function GamePage({ params }: PageParams) {
   setRequestLocale(locale);
   const loc = locale as Locale;
 
-  let game, tools, creators, resourceCollections, comparisons;
+  let game, tools, creators, resourceCollections, comparisons, allGames;
   try {
-    [game, tools, creators, resourceCollections, comparisons] =
+    [game, tools, creators, resourceCollections, comparisons, allGames] =
       await Promise.all([
         getGame(gameId),
         getTools(gameId),
         getCreators(gameId),
         getAllResources(gameId),
         getComparisons(gameId),
+        getGames(),
       ]);
   } catch {
     notFound();
   }
+
+  const similarGames = getSimilarGames(game, allGames);
 
   const t = await getTranslations("game");
   const tCommon = await getTranslations("common");
@@ -322,7 +328,9 @@ export default async function GamePage({ params }: PageParams) {
           </section>
         )}
 
-        <div className="pb-12">
+        <SimilarGames current={game} similar={similarGames} locale={loc} />
+
+        <div className="pb-12 pt-12">
           <Link
             href="/"
             className="text-sm text-muted-foreground transition-colors hover:text-foreground"

@@ -30,6 +30,31 @@ Migración: si aplica, cómo migrar contenido existente al nuevo schema.
 
 ## Historial de cambios
 
+### 2026-05-19 - Agregado `similarGames?: string[]` opcional a Game
+
+**Cambio**: nuevo campo opcional `similarGames` en `Game.meta.json` (array de `gameId`). Sirve de override manual para la recomendación de "juegos similares" que aparece al final del game hub y de la resource category page.
+
+**Razón**: la recomendación se deriva automáticamente por intersección de `genres[]` (ver `src/lib/similar-games.ts`), filtrando géneros muy comunes (`online`, `free-to-play`) como ruido. El auto cubre el 80% de los casos (clusters MOBA, FPS, ARPG, etc.). Pero hay outliers — ej: WoW es el único MMORPG del codex y queda con matches débiles. `similarGames` permite curar a mano cuando el auto falla, sin acoplar el componente al algoritmo. Si está seteado y no vacío, gana sobre el auto; si está vacío o ausente, se usa el auto.
+
+**Archivos afectados**:
+- `src/types/index.ts` — agregado a `GameMeta`.
+- `CLAUDE.md → "Schema de Datos / Meta del Juego"` — pendiente de mención.
+- `meta.json` de games: opcional, no requiere setear nada para que la feature funcione (default = auto-derive).
+
+**Migración**: no requerida. El campo es opcional.
+
+### 2026-05-19 - Normalizada nomenclatura de género `soulslike`
+
+**Cambio**: unificadas las variantes `souls-like-elements` (PoE 2) y `soulslike-combat` (Windrose) bajo el valor canónico `soulslike` en `genres[]`.
+
+**Razón**: el algoritmo de similar games (ver entrada de arriba) calcula intersección de genres. Dos variantes textuales del mismo concepto no intersectan, perdiendo señal de afinidad. PoE 2 y Windrose tienen estilo soulslike en común y ahora matchean correctamente.
+
+**Archivos afectados**:
+- `content/games/path-of-exile-2/meta.json`
+- `content/games/windrose/meta.json`
+
+**Migración**: si en el futuro un game nuevo trae una variante adicional (`souls-like`, `soulslike-game`, etc.), normalizar a `soulslike` antes de comitear.
+
 ### 2026-05-03 - Agregados `app-store` y `google-play` al union StorePlatform
 
 **Cambio**: agregadas `"app-store"` y `"google-play"` como variantes válidas del campo `platform` dentro de `Store`. El union pasa de 10 a 12 plataformas.

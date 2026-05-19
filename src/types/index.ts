@@ -129,6 +129,7 @@ export interface GameMeta {
   toolCategories: ToolCategory[];
   resourceCategories: ResourceCategory[];
   newsFeeds?: NewsFeed[];
+  similarGames?: string[];
 }
 
 export interface Game extends GameMeta {
