@@ -27,7 +27,8 @@
     "title": "Page not found",
     "description": "The URL you're looking for doesn't exist or moved. Head back home to explore the curated games, or check the changelog if you were following a recent update.",
     "home": "Back to home",
-    "changelog": "View the changelog"
+    "changelog": "View the changelog",
+    "exploreGames": "Maybe you were looking for one of these games"
   },
   "changelog": {
     "pageTitle": "Changelog",

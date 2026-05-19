@@ -27,7 +27,8 @@
     "title": "Página no encontrada",
     "description": "La URL que buscas no existe o cambió de lugar. Puedes volver al inicio para explorar los juegos curados, o revisar el changelog si seguías un cambio reciente.",
     "home": "Volver al inicio",
-    "changelog": "Ver el changelog"
+    "changelog": "Ver el changelog",
+    "exploreGames": "Tal vez buscabas uno de estos juegos"
   },
   "changelog": {
     "pageTitle": "Changelog",
