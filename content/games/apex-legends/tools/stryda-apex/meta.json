@@ -1,0 +1,32 @@
+{
+  "id": "stryda-apex",
+  "name": "Stryda.gg — Apex Legends",
+  "shortName": "Stryda",
+  "taglineEs": "Tracker con sistema de challenges diarios y semanales: gamifica el improvement convirtiendo cada session en goals concretos",
+  "taglineEn": "Tracker with daily and weekly challenge system: gamifies improvement by turning each session into concrete goals",
+  "url": "https://stryda.gg",
+  "category": "stats-trackers",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows"],
+  "languages": ["en"],
+  "tags": ["challenges", "gamification", "stats-tracker", "skill-improvement"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-17",
+  "logo": "/images/tools/apex-legends/stryda-apex-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["apex-tracker-gg", "blitz-apex"],
+  "alternatives": ["apex-tracker-gg", "blitz-apex"],
+  "createdBy": {
+    "name": "Stryda",
+    "url": "https://stryda.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": []
+  }
+}

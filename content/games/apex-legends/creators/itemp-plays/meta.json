@@ -1,0 +1,36 @@
+{
+  "id": "itemp-plays",
+  "name": "iTemp Plays",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@iTemp",
+      "url": "https://www.youtube.com/@iTemp",
+      "channelId": "UC3YbHF_fTjrUHTpHOLhUb9g",
+      "primary": true
+    }
+  ],
+  "specialties": ["champion-gameplay", "ranked-grind", "guides", "high-skill"],
+  "games": ["apex-legends"],
+  "contentTypes": ["videos", "guides", "gameplay"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Champion-level player con content que mezcla high-skill gameplay y guides educationals. Su feed es valuable para players que aprenden mejor por observación — ves cómo un Predator player aborda situations, qué decisiones toma, qué rotations elige. Cuando publica guides, tienen densidad analítica alta.",
+  "noteEn": "Champion-level player with content mixing high-skill gameplay and educational guides. His feed is valuable for players who learn better by observation — you see how a Predator player approaches situations, what decisions they make, which rotations they pick. When he publishes guides, they have high analytical density.",
+  "highlightsEs": [
+    "Predator rank consistente cada season",
+    "Champion gameplay con commentary educational",
+    "Guides de positioning y rotations en current meta",
+    "Compatibility cross-skill: beginners aprenden por observación, advanced refinan detalles"
+  ],
+  "highlightsEn": [
+    "Consistent Predator rank every season",
+    "Champion gameplay with educational commentary",
+    "Positioning and rotation guides in current meta",
+    "Cross-skill compatibility: beginners learn by observation, advanced refine details"
+  ],
+  "avatar": "/images/creators/itemp-plays-avatar.jpg",
+  "banner": "/images/creators/itemp-plays-banner.jpg"
+}

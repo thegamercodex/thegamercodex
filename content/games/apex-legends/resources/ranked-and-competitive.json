@@ -1,0 +1,80 @@
+{
+  "category": "ranked-and-competitive",
+  "resources": [
+    {
+      "id": "timprovision-ranked-tips-platinum",
+      "type": "video",
+      "title": "Apex Legends Ranked Tips & Tricks! Break Out Of Platinum!",
+      "creator": "TimProVision",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=743Rta1ruD0",
+      "youtubeId": "743Rta1ruD0",
+      "language": "en",
+      "duration": "16:12",
+      "publishedDate": "2026-03-27",
+      "thumbnail": "https://i.ytimg.com/vi/743Rta1ruD0/maxresdefault.jpg",
+      "noteEs": "Foco específico en breaking out of Platinum — el rank donde many players se atascan. TimProVision identifica common Platinum mistakes (over-aggression, bad zone reads) y propone framework para subir a Diamond.",
+      "noteEn": "Specific focus on breaking out of Platinum — the rank where many players get stuck. TimProVision identifies common Platinum mistakes (over-aggression, bad zone reads) and proposes a framework to climb to Diamond."
+    },
+    {
+      "id": "imperialhal-algs-year-3-championship",
+      "type": "video",
+      "title": "TSM win the ALGS Year 3 Championship! ImperialHal POV | Apex Legends",
+      "creator": "Apex Legends Global Series",
+      "creatorId": "imperialhal",
+      "url": "https://www.youtube.com/watch?v=WgrC6PrvZeM",
+      "youtubeId": "WgrC6PrvZeM",
+      "language": "en",
+      "duration": "10:05",
+      "publishedDate": "2023-09-11",
+      "thumbnail": "https://i.ytimg.com/vi/WgrC6PrvZeM/maxresdefault.jpg",
+      "noteEs": "POV de ImperialHal del momento que TSM gana ALGS Year 3 Championship. Educational viewing — observas cómo callea final zones, comunicación con teammates, decision-making bajo presión máxima en el escenario competitive más alto.",
+      "noteEn": "ImperialHal POV of the moment TSM wins ALGS Year 3 Championship. Educational viewing — observe how he calls final zones, communicates with teammates, decision-making under maximum pressure at the highest competitive stage."
+    },
+    {
+      "id": "dazs-solo-climb-masters-alter",
+      "type": "video",
+      "title": "Apex Legends Solo Climb to Masters – Alter Gameplay + Ranked Tips",
+      "creator": "Dazs",
+      "creatorId": "dazs",
+      "url": "https://www.youtube.com/watch?v=W9pDm3lVnS4",
+      "youtubeId": "W9pDm3lVnS4",
+      "language": "en",
+      "duration": "3:20:50",
+      "publishedDate": "2025-04-13",
+      "thumbnail": "https://i.ytimg.com/vi/W9pDm3lVnS4/maxresdefault.jpg",
+      "noteEs": "Stream de Dazs climbing solo queue a Masters jugando Alter. 3+ horas de gameplay con commentary educational integrado. Para players que aprenden mejor por observación sostenida que tutoriales cortos.",
+      "noteEn": "Dazs's stream climbing solo queue to Masters playing Alter. 3+ hours of gameplay with integrated educational commentary. For players who learn better through sustained observation than short tutorials."
+    },
+    {
+      "id": "immadness-best-legends-s29-tier-list",
+      "type": "video",
+      "title": "RANKING the BEST LEGENDS in Apex Legends Season 29 (Tier List)",
+      "creator": "ImMadness",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Z420hiPRCdU",
+      "youtubeId": "Z420hiPRCdU",
+      "language": "en",
+      "duration": "26:21",
+      "publishedDate": "2026-05-08",
+      "thumbnail": "https://i.ytimg.com/vi/Z420hiPRCdU/maxresdefault.jpg",
+      "noteEs": "Tier list completo de legends para ranked Season 29. Cubre cada legend con justification ranking — útil pre-ranked session para entender quién es priority pick en el current meta.",
+      "noteEn": "Full legend tier list for ranked Season 29. Covers each legend with ranking justification — useful pre-ranked session to understand who's priority pick in the current meta."
+    },
+    {
+      "id": "nocturnowl-solo-queue-predator-grind",
+      "type": "video",
+      "title": "SOLO QUEUE RANKED | Apex Legends Season 28 PREDATOR Grind 🔴 LIVE",
+      "creator": "NocturnOwl",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=VXOhsUjLfes",
+      "youtubeId": "VXOhsUjLfes",
+      "language": "en",
+      "duration": "7:46:48",
+      "publishedDate": "2026-02-26",
+      "thumbnail": "https://i.ytimg.com/vi/VXOhsUjLfes/maxresdefault.jpg",
+      "noteEs": "Stream archivado de NocturnOwl haciendo Predator grind solo queue (8 horas). Para players que quieren observar cómo un Predator-level player aborda solo queue real, with all the inconsistencies del random teammates.",
+      "noteEn": "NocturnOwl's archived stream of Predator grind in solo queue (8 hours). For players who want to observe how a Predator-level player approaches real solo queue, with all the inconsistencies of random teammates."
+    }
+  ]
+}

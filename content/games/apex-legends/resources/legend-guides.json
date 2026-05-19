@@ -1,0 +1,80 @@
+{
+  "category": "legend-guides",
+  "resources": [
+    {
+      "id": "faide-mastering-movement",
+      "type": "video",
+      "title": "Faide's Guide to Mastering Movement (Movement Guide)",
+      "creator": "Faide",
+      "creatorId": "faide",
+      "url": "https://www.youtube.com/watch?v=E31eDiDLyCU",
+      "youtubeId": "E31eDiDLyCU",
+      "language": "en",
+      "duration": "45:10",
+      "publishedDate": "2021-07-13",
+      "thumbnail": "https://i.ytimg.com/vi/E31eDiDLyCU/maxresdefault.jpg",
+      "noteEs": "El movement guide canónico de Faide. Aunque es de 2021, los fundamentals de movement (tap strafe, super glide, wall jump) siguen siendo core mechanics que define la skill ceiling del juego. Especialmente útil para Wraith mains.",
+      "noteEn": "Faide's canonical movement guide. Although from 2021, the movement fundamentals (tap strafe, super glide, wall jump) remain core mechanics defining the game's skill ceiling. Especially useful for Wraith mains."
+    },
+    {
+      "id": "jodesy-wraith-master-s28",
+      "type": "video",
+      "title": "How to Play & Master Wraith in Apex Legends! Full Kit Guide | Season 28",
+      "creator": "Jodesy",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=KF6EsUZp3C4",
+      "youtubeId": "KF6EsUZp3C4",
+      "language": "en",
+      "duration": "13:38",
+      "publishedDate": "2025-09-21",
+      "thumbnail": "https://i.ytimg.com/vi/KF6EsUZp3C4/maxresdefault.jpg",
+      "noteEs": "Guía completa del kit de Wraith en Season 28: passive (voices), tactical (into the void), ultimate (dimensional rift) y perks. Cubre portal placement avanzado y synergies con teammates.",
+      "noteEn": "Full Wraith kit guide for Season 28: passive (voices), tactical (into the void), ultimate (dimensional rift) and perks. Covers advanced portal placement and synergies with teammates."
+    },
+    {
+      "id": "dazs-support-tier-list",
+      "type": "video",
+      "title": "Which Support Legend Complements YOUR Squad? (Not Just Meta Picks)",
+      "creator": "Dazs",
+      "creatorId": "dazs",
+      "url": "https://www.youtube.com/watch?v=e3BrdkQ7izg",
+      "youtubeId": "e3BrdkQ7izg",
+      "language": "en",
+      "duration": "9:09",
+      "publishedDate": "2025-10-01",
+      "thumbnail": "https://i.ytimg.com/vi/e3BrdkQ7izg/maxresdefault.jpg",
+      "noteEs": "Análisis class-specific de Support legends (Lifeline, Newcastle, Conduit, Mirage, Loba, Gibraltar). En lugar de meta tier list genérico, Dazs ayuda a elegir support según el playstyle de tu squad.",
+      "noteEn": "Class-specific analysis of Support legends (Lifeline, Newcastle, Conduit, Mirage, Loba, Gibraltar). Instead of a generic meta tier list, Dazs helps pick support based on your squad's playstyle."
+    },
+    {
+      "id": "sinatraa-humble-king-tries-apex",
+      "type": "video",
+      "title": "HUMBLE KING TRIES APEX LEGENDS",
+      "creator": "Sinatraa",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=I4ZSwFnA-po",
+      "youtubeId": "I4ZSwFnA-po",
+      "language": "en",
+      "duration": "31:22",
+      "publishedDate": "2026-04-29",
+      "thumbnail": "https://i.ytimg.com/vi/I4ZSwFnA-po/maxresdefault.jpg",
+      "noteEs": "Sinatraa (ex-Valorant pro de Sentinels) prueba Apex desde la perspectiva de un pro de otro FPS. Insights interesantes sobre qué traduce y qué no entre Valorant y Apex — movement, gunplay, legend abilities.",
+      "noteEn": "Sinatraa (ex-Sentinels Valorant pro) tries Apex from the perspective of another FPS pro. Interesting insights on what translates and what doesn't between Valorant and Apex — movement, gunplay, legend abilities."
+    },
+    {
+      "id": "apex-shorts-faide-settings-2026-may",
+      "type": "video",
+      "title": "Faide Apex Settings 2026 UPDATED 🚀 Full Setup, DPI & Config!",
+      "creator": "Apex Shorts Clips",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ZVbbjt19HD8",
+      "youtubeId": "ZVbbjt19HD8",
+      "language": "en",
+      "duration": "8:03",
+      "publishedDate": "2026-05-03",
+      "thumbnail": "https://i.ytimg.com/vi/ZVbbjt19HD8/maxresdefault.jpg",
+      "noteEs": "Breakdown de los settings actuales de Faide (Wraith main reference). Cubre DPI, sensibilidad, FOV, keybinds y stretched resolution. Útil si quieres replicar config de un Wraith competitive.",
+      "noteEn": "Breakdown of Faide's current settings (Wraith main reference). Covers DPI, sensitivity, FOV, keybinds, and stretched resolution. Useful if you want to replicate a competitive Wraith config."
+    }
+  ]
+}

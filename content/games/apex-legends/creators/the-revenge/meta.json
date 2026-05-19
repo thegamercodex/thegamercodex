@@ -1,0 +1,36 @@
+{
+  "id": "the-revenge",
+  "name": "TheRevenge",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@TheRevenge",
+      "url": "https://www.youtube.com/@TheRevenge",
+      "channelId": "UCajJVzTh4yF1pjALpTqcobg",
+      "primary": true
+    }
+  ],
+  "specialties": ["gameplay", "spanish-coverage", "tutorials", "ranked"],
+  "games": ["apex-legends"],
+  "contentTypes": ["videos", "tutorials", "gameplay"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Uno de los creators principales de Apex Legends en español, con cobertura de gameplay ranked, tutoriales y guías de legends accesibles. Audiencia primaria es la comunidad hispanohablante (España + Latam). Estilo didáctico, útil para players que prefieren content en su idioma nativo en vez de traducir conceptos de creators EN.",
+  "noteEn": "One of the main Apex Legends creators in Spanish, with ranked gameplay coverage, tutorials, and accessible legend guides. Primary audience is the Spanish-speaking community (Spain + Latam). Didactic style, useful for players who prefer content in their native language instead of translating concepts from EN creators.",
+  "highlightsEs": [
+    "Cobertura sostenida de Apex en español desde Season 1",
+    "Gameplay ranked con commentary en castellano accesible",
+    "Tutoriales por legend orientados a audiencia hispanohablante",
+    "Bridge entre meta global EN y community ES"
+  ],
+  "highlightsEn": [
+    "Sustained Apex coverage in Spanish since Season 1",
+    "Ranked gameplay with accessible Castilian commentary",
+    "Per-legend tutorials oriented to Spanish-speaking audience",
+    "Bridge between global EN meta and ES community"
+  ],
+  "avatar": "/images/creators/the-revenge-avatar.jpg",
+  "banner": "/images/creators/the-revenge-banner.jpg"
+}

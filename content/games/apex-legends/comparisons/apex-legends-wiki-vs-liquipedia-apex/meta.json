@@ -1,0 +1,46 @@
+{
+  "id": "apex-legends-wiki-vs-liquipedia-apex",
+  "toolIds": ["apex-legends-wiki", "liquipedia-apex"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-05-17",
+  "verdictEs": "Wiki.gg si quieres saber 'qué hace este legend' o 'cómo funciona esta mecánica' — cobertura enciclopédica del juego. Liquipedia si te interesa el competitive scene: tournaments ALGS, pro players, rosters de teams, prize pools y formato de leagues.",
+  "verdictEn": "Wiki.gg if you want to know 'what does this legend do' or 'how does this mechanic work' — encyclopedic game coverage. Liquipedia if you're interested in the competitive scene: ALGS tournaments, pro players, team rosters, prize pools, and league formats.",
+  "useCases": [
+    {
+      "labelEs": "Lookup edge cases de ability mechanics",
+      "labelEn": "Edge-case ability mechanics lookup",
+      "winner": "apex-legends-wiki",
+      "reasonEs": "Wiki.gg tiene pages dedicadas a cada ability con notas de interaction, patch history y community testing. Liquipedia tiene pages de legends pero foco competitive — menos detalle en edge cases.",
+      "reasonEn": "Wiki.gg has dedicated per-ability pages with interaction notes, patch history, and community testing. Liquipedia has legend pages but with competitive focus — less edge-case detail."
+    },
+    {
+      "labelEs": "Verificar historial career de un pro player",
+      "labelEn": "Verify a pro player's career history",
+      "winner": "liquipedia-apex",
+      "reasonEs": "Liquipedia tiene player pages con career timeline cross-team, earnings, tournament results. Wiki.gg no cubre player profiles competitive.",
+      "reasonEn": "Liquipedia has player pages with cross-team career timeline, earnings, tournament results. Wiki.gg doesn't cover competitive player profiles."
+    },
+    {
+      "labelEs": "Stats de weapons con damage tables",
+      "labelEn": "Weapon stats with damage tables",
+      "winner": "apex-legends-wiki",
+      "reasonEs": "Wiki.gg tiene weapon stat tables comparativas (damage por body part, mag size, reload time). Liquipedia cubre weapons pero más superficial sin tables comprehensive.",
+      "reasonEn": "Wiki.gg has comparative weapon stat tables (damage per body part, mag size, reload time). Liquipedia covers weapons but more superficially without comprehensive tables."
+    },
+    {
+      "labelEs": "ALGS tournament history y prize pools",
+      "labelEn": "ALGS tournament history and prize pools",
+      "winner": "liquipedia-apex",
+      "reasonEs": "Liquipedia es THE archive de ALGS — bracket de cada season, prize pool distribution, results detallados. Wiki.gg no cubre esports.",
+      "reasonEn": "Liquipedia is THE ALGS archive — per-season bracket, prize pool distribution, detailed results. Wiki.gg doesn't cover esports."
+    },
+    {
+      "labelEs": "Lore deep-dive de legends y faction backstory",
+      "labelEn": "Legend and faction lore deep-dive",
+      "winner": "apex-legends-wiki",
+      "reasonEs": "Wiki.gg tiene secciones de lore con character backstories, faction timelines, Apex Games narrative. Liquipedia ignora completamente lore.",
+      "reasonEn": "Wiki.gg has lore sections with character backstories, faction timelines, Apex Games narrative. Liquipedia ignores lore entirely."
+    }
+  ]
+}

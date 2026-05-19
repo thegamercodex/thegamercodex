@@ -1,0 +1,80 @@
+{
+  "category": "weapon-and-aim",
+  "resources": [
+    {
+      "id": "mgclutch-weapon-tier-list-s29",
+      "type": "video",
+      "title": "The TRUE season 29 Apex Weapon Tier List - From a #1 Predator",
+      "creator": "MgClutch",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=iEecXILPn7c",
+      "youtubeId": "iEecXILPn7c",
+      "language": "en",
+      "duration": "10:15",
+      "publishedDate": "2026-05-13",
+      "thumbnail": "https://i.ytimg.com/vi/iEecXILPn7c/maxresdefault.jpg",
+      "noteEs": "Weapon tier list de Season 29 desde la perspective de un #1 Predator. Ranking actualizado tras los balance changes del meta Overclocked.",
+      "noteEn": "Season 29 weapon tier list from a #1 Predator's perspective. Updated ranking after the Overclocked meta balance changes."
+    },
+    {
+      "id": "keon-ultimate-weapons-tier-list",
+      "type": "video",
+      "title": "The Ultimate Apex Legends Weapons Tier List",
+      "creator": "Keon",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=RtULM_LWs3I",
+      "youtubeId": "RtULM_LWs3I",
+      "language": "en",
+      "duration": "11:06",
+      "publishedDate": "2026-02-22",
+      "thumbnail": "https://i.ytimg.com/vi/RtULM_LWs3I/maxresdefault.jpg",
+      "noteEs": "Alternative weapon tier list con criterios distintos al de MgClutch. Útil para cross-verify: si dos tier lists independientes coinciden en S-tier, el ranking probablemente es solid.",
+      "noteEn": "Alternative weapon tier list with criteria different from MgClutch's. Useful for cross-verification: if two independent tier lists agree on S-tier, the ranking is probably solid."
+    },
+    {
+      "id": "verhulst-20-firing-range-drills",
+      "type": "video",
+      "title": "20 FIRING RANGE DRILLS TO AIM LIKE A PRO | Apex Legends Season 17",
+      "creator": "Verhulst",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=6LmWg92wEJg",
+      "youtubeId": "6LmWg92wEJg",
+      "language": "en",
+      "duration": "22:14",
+      "publishedDate": "2023-05-30",
+      "thumbnail": "https://i.ytimg.com/vi/6LmWg92wEJg/maxresdefault.jpg",
+      "noteEs": "20 drills de firing range estructurados de TSM Verhulst (pro player). Aunque es de Season 17, los drills son evergreen — recoil control, tracking, target switching son mechanics que no cambian con patches.",
+      "noteEn": "20 structured firing range drills from TSM Verhulst (pro player). Although from Season 17, the drills are evergreen — recoil control, tracking, target switching are mechanics that don't change with patches."
+    },
+    {
+      "id": "esidi-aim-training-drills",
+      "type": "video",
+      "title": "Aim Training + Drills for PERFECT Accuracy in Apex Legends",
+      "creator": "Esidi",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ANQUCDq0-sk",
+      "youtubeId": "ANQUCDq0-sk",
+      "language": "en",
+      "duration": "14:33",
+      "publishedDate": "2024-05-27",
+      "thumbnail": "https://i.ytimg.com/vi/ANQUCDq0-sk/maxresdefault.jpg",
+      "noteEs": "Complemento al drill set de Verhulst, con foco específico en accuracy y mouse control. Esidi cubre exercise progression — empezás simple y escalás dificultad gradual.",
+      "noteEn": "Complement to Verhulst's drill set, focused specifically on accuracy and mouse control. Esidi covers exercise progression — start simple and gradually scale difficulty."
+    },
+    {
+      "id": "apex-shorts-faide-settings-2026-jan",
+      "type": "video",
+      "title": "Faide Apex Settings 2026 Revealed! Exact Gear, Keybinds & Video Settings",
+      "creator": "Apex Shorts Clips",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=LydWd5Ewhq4",
+      "youtubeId": "LydWd5Ewhq4",
+      "language": "en",
+      "duration": "8:04",
+      "publishedDate": "2026-01-18",
+      "thumbnail": "https://i.ytimg.com/vi/LydWd5Ewhq4/maxresdefault.jpg",
+      "noteEs": "Settings detalle de Faide con gear list completo: mouse, keyboard, monitor, mousepad. Crítico para players que quieren replicar setup pro y entender por qué cada pieza importa.",
+      "noteEn": "Faide settings detail with full gear list: mouse, keyboard, monitor, mousepad. Critical for players wanting to replicate a pro setup and understand why each piece matters."
+    }
+  ]
+}

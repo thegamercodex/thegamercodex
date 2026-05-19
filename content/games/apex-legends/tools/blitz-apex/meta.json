@@ -1,0 +1,32 @@
+{
+  "id": "blitz-apex",
+  "name": "Blitz.gg — Apex Legends",
+  "shortName": "Blitz.gg",
+  "taglineEs": "Tracker con overlay in-game integrado: stats live durante match, post-match breakdowns y comparativas de teammate y enemigo",
+  "taglineEn": "Tracker with integrated in-game overlay: live in-match stats, post-match breakdowns, and teammate/enemy comparisons",
+  "url": "https://blitz.gg/apex",
+  "category": "stats-trackers",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows"],
+  "languages": ["en"],
+  "tags": ["overlay", "stats-tracker", "real-time", "desktop-app"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-17",
+  "logo": "/images/tools/apex-legends/blitz-apex-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["apex-tracker-gg", "stryda-apex"],
+  "alternatives": ["apex-tracker-gg", "stryda-apex"],
+  "createdBy": {
+    "name": "Blitz Esports",
+    "url": "https://blitz.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": []
+  }
+}

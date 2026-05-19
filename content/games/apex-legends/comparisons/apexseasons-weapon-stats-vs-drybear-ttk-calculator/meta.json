@@ -1,0 +1,46 @@
+{
+  "id": "apexseasons-weapon-stats-vs-drybear-ttk-calculator",
+  "toolIds": ["apexseasons-weapon-stats", "drybear-ttk-calculator"],
+  "category": "weapon-stats",
+  "depth": "short",
+  "lastVerified": "2026-05-17",
+  "verdictEs": "ApexSeasons si quieres UX moderna con filtros visuales y comparativas head-to-head rápidas. Drybear's Sheet si necesitas la math raw expuesta directamente — formulas visibles, customizable para casos edge, históricamente authoritative en la community.",
+  "verdictEn": "ApexSeasons if you want modern UX with visual filters and fast head-to-head comparisons. Drybear's Sheet if you need raw math exposed directly — visible formulas, customizable for edge cases, historically authoritative in the community.",
+  "useCases": [
+    {
+      "labelEs": "Quick TTK lookup contra purple armor",
+      "labelEn": "Quick TTK lookup against purple armor",
+      "winner": "apexseasons-weapon-stats",
+      "reasonEs": "ApexSeasons tiene web UI con filter por armor tier que da respuesta en segundos. Drybear es Google Sheets con navegación entre tabs — más lento para queries quick.",
+      "reasonEn": "ApexSeasons has web UI with armor tier filter giving answers in seconds. Drybear is Google Sheets with tab navigation — slower for quick queries."
+    },
+    {
+      "labelEs": "Verificar claims de balance discussion en Reddit",
+      "labelEn": "Verify balance discussion claims on Reddit",
+      "winner": "drybear-ttk-calculator",
+      "reasonEs": "Drybear's Sheet es históricamente la authoritative source citada en posts de Reddit y video guides. 'Source: Drybear TTK Calc' es shorthand community-recognized.",
+      "reasonEn": "Drybear's Sheet is historically the authoritative source cited in Reddit posts and video guides. 'Source: Drybear TTK Calc' is community-recognized shorthand."
+    },
+    {
+      "labelEs": "Comparar 2-3 weapons head-to-head visual",
+      "labelEn": "Compare 2-3 weapons head-to-head visually",
+      "winner": "apexseasons-weapon-stats",
+      "reasonEs": "ApexSeasons tiene comparison view side-by-side. Drybear requires Make a Copy y customize manualmente, friction mayor.",
+      "reasonEn": "ApexSeasons has a side-by-side comparison view. Drybear requires Make a Copy and manual customization — higher friction."
+    },
+    {
+      "labelEs": "Customizar math con modifiers no-default",
+      "labelEn": "Customize math with non-default modifiers",
+      "winner": "drybear-ttk-calculator",
+      "reasonEs": "El Sheet expone formulas directamente — puedes Make a Copy y editar values, attachments, modifiers manualmente. ApexSeasons tiene filtros pero no permite custom math.",
+      "reasonEn": "The Sheet exposes formulas directly — you can Make a Copy and edit values, attachments, modifiers manually. ApexSeasons has filters but doesn't allow custom math."
+    },
+    {
+      "labelEs": "Update post-patch reflejado rápido",
+      "labelEn": "Fast post-patch update reflection",
+      "winner": "apexseasons-weapon-stats",
+      "reasonEs": "ApexSeasons tiene editorial team con update cadence consistente (1-3 days post-patch). Drybear depende de un solo maintainer (Christopher Mykles), lag puede ser 1-2 semanas.",
+      "reasonEn": "ApexSeasons has an editorial team with consistent update cadence (1-3 days post-patch). Drybear depends on a single maintainer (Christopher Mykles), lag can be 1-2 weeks."
+    }
+  ]
+}

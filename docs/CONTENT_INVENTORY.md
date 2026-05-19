@@ -1,14 +1,15 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-15
+> Última generación: 2026-05-17
 
 ## Resumen
 
-13 juegos · 206 tools · 65 creators · 67 categorías · 335 resources items · 40 comparisons
+14 juegos · 219 tools · 70 creators · 72 categorías · 360 resources items · 45 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
+| `apex-legends` | Apex Legends | 13 | 5 | 5 | 25 | 5 |
 | `counter-strike-2` | Counter-Strike 2 | 15 | 5 | 5 | 25 | 0 |
 | `cyberpunk-2077` | Cyberpunk 2077 | 15 | 5 | 5 | 25 | 0 |
 | `destiny-2` | Destiny 2 | 12 | 5 | 5 | 25 | 0 |
@@ -24,6 +25,21 @@
 | `world-of-warcraft` | World of Warcraft | 15 | 5 | 6 | 30 | 5 |
 
 ## Por juego
+
+### Apex Legends (`apex-legends`)
+
+**Tools (13)**: Apex Legends Discord (oficial) (`apex-discord`), Apex Legends Status (`apex-legends-status`), Apex Legends Wiki (`apex-legends-wiki`), r/apexlegends (`apex-subreddit`), Tracker.gg — Apex Legends (`apex-tracker-gg`), ApexSeasons — Weapon Stats (`apexseasons-weapon-stats`), Blitz.gg — Apex Legends (`blitz-apex`), r/CompetitiveApex (`competitive-apex-subreddit`), Drybear's Apex Legends TTK Calculator (`drybear-ttk-calculator`), Liquipedia — Apex Legends (`liquipedia-apex`), ProSettings.com — Apex Legends (`prosettings-apex`), Sens Converter — Apex Legends (`sens-converter-apex`), Stryda.gg — Apex Legends (`stryda-apex`)
+
+**Creators (5)**: Dazs (`dazs`), Faide (`faide`), ImperialHal (`imperialhal`), iTemp Plays (`itemp-plays`), TheRevenge (`the-revenge`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `legend-guides` — 5 items
+- `map-and-positioning` — 5 items
+- `ranked-and-competitive` — 5 items
+- `weapon-and-aim` — 5 items
+
+**Comparisons (5)**: `apex-legends-wiki-vs-liquipedia-apex` (short), `apex-tracker-gg-vs-apex-legends-status` (flagship), `apexseasons-weapon-stats-vs-drybear-ttk-calculator` (short), `blitz-apex-vs-stryda-apex` (short), `prosettings-apex-vs-sens-converter-apex` (short)
 
 ### Counter-Strike 2 (`counter-strike-2`)
 

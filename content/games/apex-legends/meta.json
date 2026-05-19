@@ -1,0 +1,139 @@
+{
+  "id": "apex-legends",
+  "name": "Apex Legends",
+  "shortName": "Apex",
+  "developer": "Respawn Entertainment",
+  "releaseYear": 2019,
+  "officialUrl": "https://www.ea.com/games/apex-legends",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/1172470/Apex_Legends/",
+      "appId": "1172470",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "origin",
+      "url": "https://www.ea.com/games/apex-legends",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10001011",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/apex-legends",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "nintendo",
+      "url": "https://www.nintendo.com/store/products/apex-legends-switch/",
+      "model": "free-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "free-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["cosmetic", "legend-unlock", "battle-pass"],
+    "payToWin": false,
+    "noteEs": "Free-to-play con tienda de cosméticos (skins de armas y legends), Battle Pass por temporada (~$10 USD), y desbloqueo de legends pagable con currency premium o gradual con currency in-game. Sin packs que vendan poder — todos los legends son balance-equivalent al unlock.",
+    "noteEn": "Free-to-play with cosmetic shop (weapon and legend skins), per-season Battle Pass (~$10 USD), and legend unlocks payable with premium currency or earned gradually with in-game currency. No packs sell power — all legends are balance-equivalent at unlock."
+  },
+  "platforms": ["windows", "playstation", "xbox", "switch"],
+  "genres": ["battle-royale", "hero-shooter", "fps", "free-to-play"],
+  "theme": {
+    "primary": "#b9202a",
+    "secondary": "#15171a",
+    "accent": "#e64a1e",
+    "background": "#0a0c0e",
+    "text": "#e8e8e8"
+  },
+  "logo": "/images/games/apex-legends-logo.png",
+  "heroImage": "/images/games/apex-legends-hero.webp",
+  "toolCategories": [
+    {
+      "id": "stats-trackers",
+      "nameEs": "Trackers de Estadísticas",
+      "nameEn": "Stats Trackers",
+      "descriptionEs": "Trackers personales y dashboards de meta: KD, win rate, kills por minuto, leaderboards y overlays in-game",
+      "descriptionEn": "Personal trackers and meta dashboards: KD, win rate, kills per minute, leaderboards and in-game overlays",
+      "icon": "📊"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis y bases de datos con legends, armas, mapas, mecánicas y cobertura de esports",
+      "descriptionEn": "Wikis and databases with legends, weapons, maps, mechanics, and esports coverage",
+      "icon": "📚"
+    },
+    {
+      "id": "pro-settings",
+      "nameEs": "Configuración Pro",
+      "nameEn": "Pro Settings",
+      "descriptionEs": "Bases de datos de settings de pros: sensibilidad, DPI, crosshair, keybinds, gear y conversores entre juegos",
+      "descriptionEn": "Pro player settings databases: sensitivity, DPI, crosshair, keybinds, gear, and cross-game converters",
+      "icon": "🎯"
+    },
+    {
+      "id": "weapon-stats",
+      "nameEs": "Estadísticas de Armas",
+      "nameEn": "Weapon Stats",
+      "descriptionEs": "Calculadoras de daño, DPS, TTK y comparativas de armas con modifiers de armor y abilities",
+      "descriptionEn": "Damage, DPS, TTK calculators and weapon comparisons with armor and ability modifiers",
+      "icon": "🔫"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial, subreddits casual y competitivo, y hubs donde se discute meta y patches",
+      "descriptionEn": "Official Discord, casual and competitive subreddits, and hubs where meta and patches are discussed",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Onboarding al battle royale: primeros legends, mecánicas core, rotaciones básicas y survival",
+      "descriptionEn": "Battle royale onboarding: first legends, core mechanics, basic rotations, and survival",
+      "icon": "🎯"
+    },
+    {
+      "id": "legend-guides",
+      "nameEs": "Guías de Legends",
+      "nameEn": "Legend Guides",
+      "descriptionEs": "Análisis por legend: kit, abilities, perks (Season 22+), sinergias en team comps y matchups",
+      "descriptionEn": "Per-legend analysis: kit, abilities, perks (Season 22+), team comp synergies, and matchups",
+      "icon": "⚡"
+    },
+    {
+      "id": "weapon-and-aim",
+      "nameEs": "Armas y Aim",
+      "nameEn": "Weapons & Aim",
+      "descriptionEs": "Loadouts óptimos, ranking de armas por meta, drills de aim training y control de recoil",
+      "descriptionEn": "Optimal loadouts, meta weapon rankings, aim training drills, and recoil control",
+      "icon": "🔫"
+    },
+    {
+      "id": "map-and-positioning",
+      "nameEs": "Mapas y Posicionamiento",
+      "nameEn": "Maps & Positioning",
+      "descriptionEs": "Estrategias por POI, rotaciones, control de high ground y reads de zone para los mapas de current rotation",
+      "descriptionEn": "POI strategies, rotations, high-ground control, and zone reads for current map rotation",
+      "icon": "🗺️"
+    },
+    {
+      "id": "ranked-and-competitive",
+      "nameEs": "Ranked y Competitivo",
+      "nameEn": "Ranked & Competitive",
+      "descriptionEs": "Climbing strategies, análisis de meta competitivo, coverage de ALGS y guías de pro play",
+      "descriptionEn": "Climbing strategies, competitive meta analysis, ALGS coverage, and pro play guides",
+      "icon": "🏆"
+    }
+  ]
+}

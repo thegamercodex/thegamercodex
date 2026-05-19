@@ -1,0 +1,28 @@
+{
+  "id": "apexseasons-weapon-stats",
+  "name": "ApexSeasons — Weapon Stats",
+  "shortName": "ApexSeasons",
+  "taglineEs": "Comparador de DPS, TTK y mag-dump damage por weapon de Apex con data versionada por temporada y filtros por attachment",
+  "taglineEn": "Apex weapon DPS, TTK, and mag-dump damage comparator with season-versioned data and per-attachment filters",
+  "url": "https://apexseasons.online/tools/weapon-stats/",
+  "category": "weapon-stats",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["weapon-stats", "dps", "ttk", "comparison", "season-versioned"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-17",
+  "logo": "/images/tools/apex-legends/apexseasons-weapon-stats-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["drybear-ttk-calculator"],
+  "alternatives": ["drybear-ttk-calculator"],
+  "createdBy": {
+    "name": "ApexSeasons",
+    "url": "https://apexseasons.online"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "liquipedia-apex",
+  "name": "Liquipedia — Apex Legends",
+  "shortName": "Liquipedia",
+  "taglineEs": "Wiki especializada en esports de Apex: torneos ALGS, equipos, jugadores pro, historial de resultados y prize pools",
+  "taglineEn": "Apex esports-specialized wiki: ALGS tournaments, teams, pro players, results history, and prize pools",
+  "url": "https://liquipedia.net/apexlegends/Main_Page",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["esports", "tournaments", "algs", "players", "teams"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-17",
+  "logo": "/images/tools/apex-legends/liquipedia-apex-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["apex-legends-wiki", "competitive-apex-subreddit"],
+  "alternatives": ["apex-legends-wiki"],
+  "createdBy": {
+    "name": "Liquipedia",
+    "url": "https://liquipedia.net"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": []
+  }
+}

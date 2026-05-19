@@ -1,0 +1,53 @@
+{
+  "id": "apex-tracker-gg-vs-apex-legends-status",
+  "toolIds": ["apex-tracker-gg", "apex-legends-status"],
+  "category": "stats-trackers",
+  "depth": "flagship",
+  "lastVerified": "2026-05-17",
+  "verdictEs": "Tracker.gg si quieres profundidad de stats personales con overlay in-game y leaderboards históricos. Apex Legends Status si necesitas meta global (pick rates, win rates, interactive map) sin instalación. Son complementarios — el flow estándar es usar ambos.",
+  "verdictEn": "Tracker.gg if you want deep personal stats with in-game overlay and historical leaderboards. Apex Legends Status if you need global meta (pick rates, win rates, interactive map) with no install. Complementary — the standard flow is to use both.",
+  "useCases": [
+    {
+      "labelEs": "Trackear tu KD y rank progress personal",
+      "labelEn": "Track your personal KD and rank progress",
+      "winner": "apex-tracker-gg",
+      "reasonEs": "Tracker.gg está diseñado para player profiles individuales con historial profundo. ALS tiene player profiles pero la profundidad de leaderboards y session breakdowns es menor.",
+      "reasonEn": "Tracker.gg is built for individual player profiles with deep history. ALS has player profiles but leaderboard and session breakdown depth is shallower."
+    },
+    {
+      "labelEs": "Saber qué legend pickea el top 1% esta semana",
+      "labelEn": "Know what legend the top 1% picks this week",
+      "winner": "apex-legends-status",
+      "reasonEs": "ALS es el dashboard de meta data del juego: pick rates por rank, win rates por legend y composición. Tracker.gg no expone este nivel de meta aggregation.",
+      "reasonEn": "ALS is the game's meta data dashboard: per-rank pick rates, win rates by legend and composition. Tracker.gg doesn't expose this level of meta aggregation."
+    },
+    {
+      "labelEs": "Plan tu drop spot con loot tier por POI",
+      "labelEn": "Plan your drop spot with per-POI loot tier",
+      "winner": "apex-legends-status",
+      "reasonEs": "ALS tiene interactive map con loot tier color-coded por POI para cada mapa active. Tracker.gg no tiene mapa interactivo de Apex.",
+      "reasonEn": "ALS has an interactive map with color-coded loot tier per POI for each active map. Tracker.gg has no Apex interactive map."
+    },
+    {
+      "labelEs": "Overlay in-game con teammate y enemy stats live",
+      "labelEn": "In-game overlay with live teammate and enemy stats",
+      "winner": "apex-tracker-gg",
+      "reasonEs": "Tracker.gg vía la Overwolf app provee overlay live durante match — ves rank y stats de cada player en tu lobby. ALS no tiene overlay capability.",
+      "reasonEn": "Tracker.gg via the Overwolf app provides live in-match overlay — you see rank and stats of each player in your lobby. ALS has no overlay capability."
+    },
+    {
+      "labelEs": "Comparar 2-3 player profiles side-by-side",
+      "labelEn": "Compare 2-3 player profiles side-by-side",
+      "winner": "apex-tracker-gg",
+      "reasonEs": "Tracker.gg tiene feature Compare nativa que pone hasta 4 profiles side-by-side. ALS player profile es individual, sin comparison view.",
+      "reasonEn": "Tracker.gg has a native Compare feature placing up to 4 profiles side-by-side. ALS player profile is individual, no comparison view."
+    },
+    {
+      "labelEs": "Server status y diagnostics de latency",
+      "labelEn": "Server status and latency diagnostics",
+      "winner": "apex-legends-status",
+      "reasonEs": "ALS tiene Server Status tab con latencias por region en tiempo real. Útil cuando el game se siente raro y necesitas diagnosticar si es tu connection o los servers. Tracker.gg no expone esto.",
+      "reasonEn": "ALS has a Server Status tab with real-time per-region latencies. Useful when the game feels off and you need to diagnose whether it's your connection or the servers. Tracker.gg doesn't expose this."
+    }
+  ]
+}

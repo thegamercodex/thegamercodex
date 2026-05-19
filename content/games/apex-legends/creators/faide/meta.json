@@ -1,0 +1,36 @@
+{
+  "id": "faide",
+  "name": "Faide",
+  "country": "GB",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Faide",
+      "url": "https://www.youtube.com/@Faide",
+      "channelId": "UCrDFC0z7qUlI1KQZ26eL2xw",
+      "primary": true
+    }
+  ],
+  "specialties": ["movement", "highlights", "wraith-main", "competitive-clips"],
+  "games": ["apex-legends"],
+  "contentTypes": ["videos", "highlights", "movement-guides"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "El movement king de Apex. Wraith main reconocido globalmente por su style de gameplay agresivo basado en movement avanzado: tap strafes, super glides, zipline kicks. Sus videos definen el techo de movement skill en el game. Si quieres ver qué es posible mecánicamente en Apex, su feed es referencia obligatoria.",
+  "noteEn": "Apex's movement king. Globally recognized Wraith main for his aggressive gameplay style built on advanced movement: tap strafes, super glides, zipline kicks. His videos define the movement skill ceiling in the game. If you want to see what's mechanically possible in Apex, his feed is mandatory reference.",
+  "highlightsEs": [
+    "Wraith main reconocido como el movement-skill ceiling de Apex",
+    "Compilations de tap strafes, super glides y wall jumps virales en la community",
+    "ALGS appearances con teams Tier 1 (EU)",
+    "Tutorials de movement avanzados accesibles para intermediate players"
+  ],
+  "highlightsEn": [
+    "Wraith main recognized as the movement-skill ceiling of Apex",
+    "Tap strafe, super glide, and wall jump compilations viral in the community",
+    "ALGS appearances with Tier 1 EU teams",
+    "Advanced movement tutorials accessible to intermediate players"
+  ],
+  "avatar": "/images/creators/faide-avatar.jpg",
+  "banner": "/images/creators/faide-banner.jpg"
+}
