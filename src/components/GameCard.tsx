@@ -45,7 +45,7 @@ export function GameCard({ game, locale }: GameCardProps) {
       className="group relative flex flex-col overflow-hidden rounded-xl border border-border bg-muted/40 transition-all duration-200 hover:-translate-y-0.5 hover:border-accent/60 hover:shadow-[0_0_0_1px_var(--color-accent)]"
     >
       <div
-        className="relative aspect-[16/9] overflow-hidden"
+        className="relative aspect-[21/9] overflow-hidden"
         style={{ background: theme.secondary }}
       >
         {game.heroImage ? (
