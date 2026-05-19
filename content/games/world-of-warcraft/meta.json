@@ -149,10 +149,10 @@
   ],
   "newsFeeds": [
     {
-      "type": "youtube-channel",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbLj9QP9FAaHs_647QckGtg",
-      "nameEs": "World of Warcraft (YouTube oficial)",
-      "nameEn": "World of Warcraft (Official YouTube)",
+      "type": "rss",
+      "url": "https://www.wowhead.com/news/rss/all",
+      "nameEs": "Wowhead",
+      "nameEn": "Wowhead",
       "priority": 100
     }
   ]

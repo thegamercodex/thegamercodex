@@ -151,7 +151,7 @@ thegamercodex/
 
 ### Meta del Juego (`content/games/[game]/meta.json`)
 
-Campos principales: `id`, `name`, `shortName`, `developer`, `releaseYear`, `officialUrl`, `stores[]`, `priceTracker`, `platforms[]`, `genres[]`, `theme`, `monetization`, `logo`, `heroImage`, `toolCategories[]`, `resourceCategories[]`, `newsFeeds[]?`.
+Campos principales: `id`, `name`, `shortName`, `developer`, `releaseYear`, `officialUrl`, `stores[]`, `priceTracker`, `platforms[]`, `genres[]`, `theme`, `monetization`, `logo`, `heroImage`, `toolCategories[]`, `resourceCategories[]`, `newsFeeds[]?`, `similarGames[]?`.
 
 **`newsFeeds[]`** (opcional): fuentes adicionales para la página de noticias del juego (`/[locale]/[game]/news`). Cada entry: `{ type, url, nameEs, nameEn, priority? }`. Tipos soportados:
 - `steam-rss` — Steam news feed (raro de declarar manualmente porque se auto-deriva de `stores[].appId` cuando hay store con `platform: "steam"`).
@@ -159,6 +159,8 @@ Campos principales: `id`, `name`, `shortName`, `developer`, `releaseYear`, `offi
 - `rss` — cualquier RSS/Atom genérico (Blizzard News, GGG forum, dev blog).
 
 Si el juego solo tiene Steam RSS auto-derivada, **omitir `newsFeeds[]` completamente**. Solo declarar el array cuando hay fuentes extra. Games sin `stores[]` con Steam y sin `newsFeeds[]` no exponen la ruta `/news`.
+
+**`similarGames[]`** (opcional): override manual de la recomendación "Si te gusta este juego, prueba también" que aparece al final del game hub y de las resource category pages. Array de `gameId` de otros juegos del codex. Cuando se omite o está vacío, se deriva automáticamente por intersección de `genres[]` filtrando géneros muy comunes (`online`, `free-to-play`) — ver `src/lib/similar-games.ts`. Setearlo solo cuando el auto produce matches débiles (ej: WoW como único MMORPG del codex).
 
 Campos traducibles usan sufijo `Es`/`En` (ej: `taglineEs`, `taglineEn`, `nameEs`, `nameEn`, `descriptionEs`, `descriptionEn`, `noteEs`, `noteEn`).
 

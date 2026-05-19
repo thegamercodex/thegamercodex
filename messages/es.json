@@ -27,7 +27,8 @@
     "title": "Página no encontrada",
     "description": "La URL que buscas no existe o cambió de lugar. Puedes volver al inicio para explorar los juegos curados, o revisar el changelog si seguías un cambio reciente.",
     "home": "Volver al inicio",
-    "changelog": "Ver el changelog"
+    "changelog": "Ver el changelog",
+    "exploreGames": "Tal vez buscabas uno de estos juegos"
   },
   "changelog": {
     "pageTitle": "Changelog",
@@ -154,7 +155,9 @@
     "released": "Lanzamiento",
     "platforms": "Plataformas",
     "officialSite": "Sitio oficial",
-    "resourceCount": "{count, plural, one {# recurso} other {# recursos}}"
+    "resourceCount": "{count, plural, one {# recurso} other {# recursos}}",
+    "backToHub": "Volver a {game}",
+    "similarGames": "Si te gusta {game}, prueba también"
   },
   "tool": {
     "goToTool": "Ir a la herramienta",
@@ -182,7 +185,8 @@
     "closeScreenshot": "Cerrar",
     "previousScreenshot": "Captura anterior",
     "nextScreenshot": "Siguiente captura",
-    "comparisonsHeading": "Comparativas"
+    "comparisonsHeading": "Comparativas",
+    "moreInCategory": "Más herramientas de {category}"
   },
   "type": {
     "software": "Software",
@@ -253,7 +257,9 @@
     "byCreator": "Por {creator}",
     "openLink": "Abrir enlace",
     "watchVideo": "Ver video",
-    "count": "{count, plural, =0 {sin recursos} one {# recurso} other {# recursos}}"
+    "count": "{count, plural, =0 {sin recursos} one {# recurso} other {# recursos}}",
+    "moreCategories": "Otras categorías de {game}",
+    "featuredTools": "Herramientas destacadas de {game}"
   },
   "resourceType": {
     "video": "Video",

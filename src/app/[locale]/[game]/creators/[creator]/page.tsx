@@ -9,6 +9,7 @@ import { ChevronRight } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { CreatorVideos } from "@/components/CreatorVideos";
 import { CreatorVideosSkeleton } from "@/components/CreatorVideosSkeleton";
+import { MobileGameBackBar } from "@/components/MobileGameBackBar";
 import { PlatformLink } from "@/components/PlatformLink";
 import { ShareButtons } from "@/components/ShareButtons";
 import { absoluteUrl } from "@/lib/site";
@@ -102,13 +103,14 @@ export default async function CreatorPage({ params }: PageParams) {
   const publicExists = (p: string) =>
     existsSync(path.join(process.cwd(), "public", p));
   const hasAvatar = Boolean(creator.avatar) && publicExists(creator.avatar);
+  const hasGameLogo = Boolean(game.logo) && publicExists(game.logo);
 
   const shareUrl = absoluteUrl(`/${loc}/${gameId}/creators/${creatorId}`);
   const shareTitle = `${creator.name} — ${game.name}`;
   const shareDescription = note ? note.slice(0, 160) : undefined;
 
   return (
-    <div className="mx-auto w-full max-w-6xl px-6 py-10">
+    <div className="mx-auto w-full max-w-6xl px-6 pb-20 pt-10 lg:pb-10">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -319,6 +321,12 @@ export default async function CreatorPage({ params }: PageParams) {
           </div>
         </aside>
       </div>
+      <MobileGameBackBar
+        gameId={game.id}
+        gameName={game.name}
+        gameLogo={game.logo}
+        hasLogo={hasGameLogo}
+      />
     </div>
   );
 }
