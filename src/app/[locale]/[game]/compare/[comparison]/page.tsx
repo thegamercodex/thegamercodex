@@ -1,3 +1,5 @@
+import { existsSync } from "node:fs";
+import path from "node:path";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import type { Metadata } from "next";
@@ -12,6 +14,7 @@ import {
 } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { MarkdownContent } from "@/components/MarkdownContent";
+import { MobileGameBackBar } from "@/components/MobileGameBackBar";
 import {
   getComparison,
   getComparisonIds,
@@ -243,6 +246,9 @@ export default async function ComparisonPage({ params }: PageParams) {
   const related = relatedAll.filter((c) => c.id !== comparison.id).slice(0, 4);
 
   const tools: [Tool, Tool] = [toolA, toolB];
+  const hasGameLogo =
+    Boolean(game.logo) &&
+    existsSync(path.join(process.cwd(), "public", game.logo));
 
   return (
     <main className="mx-auto w-full max-w-4xl flex-1 px-6 pb-24">
@@ -499,6 +505,13 @@ export default async function ComparisonPage({ params }: PageParams) {
             comparisonJsonLd(comparison, tools, game, loc),
           ),
         }}
+      />
+
+      <MobileGameBackBar
+        gameId={game.id}
+        gameName={game.name}
+        gameLogo={game.logo}
+        hasLogo={hasGameLogo}
       />
     </main>
   );

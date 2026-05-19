@@ -1,14 +1,20 @@
+import { existsSync } from "node:fs";
+import path from "node:path";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import type { Metadata } from "next";
 import { ChevronRight } from "lucide-react";
 import { Link } from "@/i18n/navigation";
+import { ContinueExploring } from "@/components/ContinueExploring";
+import { MobileGameBackBar } from "@/components/MobileGameBackBar";
 import { ResourceGrid } from "@/components/ResourceGrid";
 import {
+  getAllResources,
   getCreatorIds,
   getGame,
   getGameIds,
   getResources,
+  getTools,
 } from "@/lib/content";
 import { categoriesById, categoryName, categoryDescription } from "@/lib/categories";
 import { collectionPageJsonLd, jsonLdScript } from "@/lib/jsonld";
@@ -80,12 +86,37 @@ export default async function ResourcesCategoryPage({ params }: PageParams) {
   const tGame = await getTranslations("game");
   const creatorIdsInCodex = await getCreatorIds(gameId);
 
+  const [allCollections, tools] = await Promise.all([
+    getAllResources(gameId),
+    getTools(gameId),
+  ]);
+  const resourceCounts: Record<string, number> = {};
+  for (const c of allCollections) {
+    resourceCounts[c.category] = c.resources.length;
+  }
+  const otherCategories = game.resourceCategories.filter(
+    (c) => c.id !== categoryId && (resourceCounts[c.id] ?? 0) > 0,
+  );
+  const featuredTools = tools
+    .filter((tool) => tool.essential)
+    .slice(0, 3);
+  const toolCategoryMap = categoriesById(game.toolCategories);
+  const featuredToolLogos: Record<string, boolean> = {};
+  for (const tool of featuredTools) {
+    featuredToolLogos[tool.id] =
+      Boolean(tool.logo) &&
+      existsSync(path.join(process.cwd(), "public", tool.logo));
+  }
+  const hasGameLogo =
+    Boolean(game.logo) &&
+    existsSync(path.join(process.cwd(), "public", game.logo));
+
   const resources = collection.resources;
   const heading = categoryName(cat, loc);
   const description = categoryDescription(cat, loc);
 
   return (
-    <div className="mx-auto w-full max-w-6xl px-6 py-10">
+    <div className="mx-auto w-full max-w-6xl px-6 pb-20 pt-10 lg:pb-10">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -152,6 +183,23 @@ export default async function ResourcesCategoryPage({ params }: PageParams) {
           {t("noResources")}
         </p>
       )}
+
+      <ContinueExploring
+        gameId={game.id}
+        gameName={game.name}
+        otherCategories={otherCategories}
+        resourceCounts={resourceCounts}
+        featuredTools={featuredTools}
+        toolCategoryMap={toolCategoryMap}
+        toolLogos={featuredToolLogos}
+        locale={loc}
+      />
+      <MobileGameBackBar
+        gameId={game.id}
+        gameName={game.name}
+        gameLogo={game.logo}
+        hasLogo={hasGameLogo}
+      />
     </div>
   );
 }

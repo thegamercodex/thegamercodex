@@ -16,6 +16,8 @@ import {
 import { Link } from "@/i18n/navigation";
 import { BrokenLinkButton } from "@/components/BrokenLinkButton";
 import { MarkdownContent } from "@/components/MarkdownContent";
+import { MobileGameBackBar } from "@/components/MobileGameBackBar";
+import { MoreToolsInCategory } from "@/components/MoreToolsInCategory";
 import { ScreenshotGallery } from "@/components/ScreenshotGallery";
 import { ShareButtons } from "@/components/ShareButtons";
 import { absoluteUrl } from "@/lib/site";
@@ -137,6 +139,15 @@ export default async function ToolPage({ params }: PageParams) {
     .map((id) => toolMap.get(id))
     .filter((tt): tt is Tool => Boolean(tt));
 
+  const siblingTools = sameGameTools
+    .filter((tt) => tt.category === tool.category && tt.id !== tool.id)
+    .sort((a, b) => Number(b.essential) - Number(a.essential))
+    .slice(0, 6);
+  const siblingLogos: Record<string, boolean> = {};
+  for (const tt of siblingTools) {
+    siblingLogos[tt.id] = Boolean(tt.logo) && publicExists(tt.logo);
+  }
+
   const hasMultiGame =
     tool.multiGame?.available &&
     (tool.multiGame.otherGames?.length ?? 0) > 0;
@@ -198,8 +209,11 @@ export default async function ToolPage({ params }: PageParams) {
   const shareUrl = absoluteUrl(`/${loc}/${game.id}/tools/${tool.id}`);
   const shareTitle = `${tool.name} — ${game.name}`;
 
+  const hasGameLogo =
+    Boolean(game.logo) && publicExists(game.logo);
+
   return (
-    <div className="mx-auto w-full max-w-6xl px-6 py-6 sm:py-10">
+    <div className="mx-auto w-full max-w-6xl px-6 pb-20 pt-6 sm:pt-10 lg:pb-10">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -407,6 +421,16 @@ export default async function ToolPage({ params }: PageParams) {
             </section>
           )}
 
+          {category && (
+            <MoreToolsInCategory
+              gameId={game.id}
+              tools={siblingTools}
+              category={category}
+              locale={loc}
+              toolLogos={siblingLogos}
+            />
+          )}
+
           {hasMultiGame && (
             <section className="mt-12 border-t border-border pt-10">
               <div className="mb-5 flex items-center gap-2">
@@ -495,59 +519,6 @@ export default async function ToolPage({ params }: PageParams) {
               locale={loc}
             />
           </div>
-
-          <dl className="mt-6 divide-y divide-border rounded-xl border border-border bg-muted/30 text-sm">
-            <SidebarRow label={t("type")} value={tType(tool.type)} />
-            {tool.license && (
-              <SidebarRow label={t("license")} value={tool.license} />
-            )}
-            <SidebarRow
-              label={t("platforms")}
-              value={tool.platforms.map(humanize).join(", ")}
-            />
-            <SidebarRow
-              label={t("languages")}
-              value={tool.languages.join(" / ").toUpperCase()}
-            />
-            <SidebarRow
-              label={t("difficulty")}
-              value={tDifficulty(tool.difficulty)}
-            />
-            <SidebarRow
-              label={t("lastVerified")}
-              value={parseDateOnly(tool.lastVerified).toLocaleDateString(loc, {
-                year: "numeric",
-                month: "long",
-                day: "numeric",
-              })}
-            />
-          </dl>
-
-          <div className="mt-6">
-            <ShareButtons
-              url={shareUrl}
-              title={shareTitle}
-              description={tagline}
-            />
-          </div>
-
-          {tool.tags.length > 0 && (
-            <div className="mt-6">
-              <p className="mb-2 text-[10px] font-semibold uppercase tracking-[0.25em] text-muted-foreground">
-                {t("tags")}
-              </p>
-              <div className="flex flex-wrap gap-1.5">
-                {tool.tags.map((tag) => (
-                  <span
-                    key={tag}
-                    className="rounded-md border border-border bg-muted/40 px-2 py-0.5 text-[11px] text-muted-foreground"
-                  >
-                    {tag}
-                  </span>
-                ))}
-              </div>
-            </div>
-          )}
 
           {toolComparisons.length > 0 && (
             <div className="mt-6">
@@ -650,8 +621,67 @@ export default async function ToolPage({ params }: PageParams) {
               </ul>
             </div>
           )}
+
+          <dl className="mt-6 divide-y divide-border rounded-xl border border-border bg-muted/30 text-sm">
+            <SidebarRow label={t("type")} value={tType(tool.type)} />
+            {tool.license && (
+              <SidebarRow label={t("license")} value={tool.license} />
+            )}
+            <SidebarRow
+              label={t("platforms")}
+              value={tool.platforms.map(humanize).join(", ")}
+            />
+            <SidebarRow
+              label={t("languages")}
+              value={tool.languages.join(" / ").toUpperCase()}
+            />
+            <SidebarRow
+              label={t("difficulty")}
+              value={tDifficulty(tool.difficulty)}
+            />
+            <SidebarRow
+              label={t("lastVerified")}
+              value={parseDateOnly(tool.lastVerified).toLocaleDateString(loc, {
+                year: "numeric",
+                month: "long",
+                day: "numeric",
+              })}
+            />
+          </dl>
+
+          {tool.tags.length > 0 && (
+            <div className="mt-6">
+              <p className="mb-2 text-[10px] font-semibold uppercase tracking-[0.25em] text-muted-foreground">
+                {t("tags")}
+              </p>
+              <div className="flex flex-wrap gap-1.5">
+                {tool.tags.map((tag) => (
+                  <span
+                    key={tag}
+                    className="rounded-md border border-border bg-muted/40 px-2 py-0.5 text-[11px] text-muted-foreground"
+                  >
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <div className="mt-6">
+            <ShareButtons
+              url={shareUrl}
+              title={shareTitle}
+              description={tagline}
+            />
+          </div>
         </aside>
       </div>
+      <MobileGameBackBar
+        gameId={game.id}
+        gameName={game.name}
+        gameLogo={game.logo}
+        hasLogo={hasGameLogo}
+      />
     </div>
   );
 }
