@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "dazs-apex-2026-fundamentals",
+      "type": "video",
+      "title": "Apex Legends in 2026: The Fundamentals New & Returning Players Miss",
+      "creator": "Dazs",
+      "creatorId": "dazs",
+      "url": "https://www.youtube.com/watch?v=uwl-QV76xS4",
+      "youtubeId": "uwl-QV76xS4",
+      "language": "en",
+      "duration": "17:55",
+      "publishedDate": "2026-01-03",
+      "thumbnail": "https://i.ytimg.com/vi/uwl-QV76xS4/maxresdefault.jpg",
+      "noteEs": "Re-entry friendly: para returning players o newcomers en 2026. Dazs cubre los fundamentals que los players miss más frecuentemente — positioning, pingstack, cooldown timing. Buen baseline antes de invertir tiempo serio.",
+      "noteEn": "Re-entry friendly: for returning players or newcomers in 2026. Dazs covers the fundamentals players miss most frequently — positioning, ping stack, cooldown timing. Good baseline before investing serious time."
+    },
+    {
+      "id": "alphagamer-apex-beginner-2026",
+      "type": "video",
+      "title": "Apex Legends Beginner Guide 2026 | Fast Tips to Win More Fights & Rank Up Faster",
+      "creator": "TheOnlyAlphaGamer",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=WYYuBqV9KuQ",
+      "youtubeId": "WYYuBqV9KuQ",
+      "language": "en",
+      "duration": "6:09",
+      "publishedDate": "2026-01-17",
+      "thumbnail": "https://i.ytimg.com/vi/WYYuBqV9KuQ/maxresdefault.jpg",
+      "noteEs": "Versión condensada de 6 minutos con tips accionables. Útil cuando solo tienes 10 minutos antes de jugar y quieres un refresh rápido de fundamentals.",
+      "noteEn": "Condensed 6-minute version with actionable tips. Useful when you only have 10 minutes before playing and want a quick fundamentals refresh."
+    },
+    {
+      "id": "timprovision-apex-1hour-tips",
+      "type": "video",
+      "title": "1 Hour of Tips & Tricks to MASTER Apex Legends!",
+      "creator": "TimProVision",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=rO7GDg2CYk8",
+      "youtubeId": "rO7GDg2CYk8",
+      "language": "en",
+      "duration": "1:00:00",
+      "publishedDate": "2026-03-20",
+      "thumbnail": "https://i.ytimg.com/vi/rO7GDg2CYk8/maxresdefault.jpg",
+      "noteEs": "Compilation de 1 hora exacta con tips y tricks de TimProVision. Para players que prefieren absorber knowledge en sessions largas en lugar de short-form bites.",
+      "noteEn": "Exact 1-hour compilation of tips and tricks by TimProVision. For players who prefer absorbing knowledge in long sessions instead of short-form bites."
+    },
+    {
+      "id": "sonyx-apex-complete-beginner-s23",
+      "type": "video",
+      "title": "COMPLETE BEGINNER'S GUIDE for Apex Legends | Season 23+",
+      "creator": "Sonyx",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=DUqmni8Blmc",
+      "youtubeId": "DUqmni8Blmc",
+      "language": "en",
+      "duration": "2:26:32",
+      "publishedDate": "2025-01-25",
+      "thumbnail": "https://i.ytimg.com/vi/DUqmni8Blmc/maxresdefault.jpg",
+      "noteEs": "Guía maestra de 2.5 horas para players literalmente nuevos. Cubre cada legend basics, cada arma, mapas activos, ranked system y monetization. La inversión time-wise vale la pena para players serios sobre learning.",
+      "noteEn": "2.5-hour master guide for literally new players. Covers each legend's basics, every weapon, active maps, ranked system, and monetization. The time investment is worth it for players serious about learning."
+    },
+    {
+      "id": "makina-apex-eres-nuevo-es",
+      "type": "video",
+      "title": "¿ERES NUEVO EN APEX LEGENDS? MIRA ESTE VIDEO (GUÍA APEX) | Makina",
+      "creator": "Makina",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=VrB_nCaJ5Mw",
+      "youtubeId": "VrB_nCaJ5Mw",
+      "language": "es",
+      "duration": "17:40",
+      "publishedDate": "2020-11-26",
+      "thumbnail": "https://i.ytimg.com/vi/VrB_nCaJ5Mw/maxresdefault.jpg",
+      "noteEs": "Guía en español de Makina para players hispanohablantes nuevos. Aunque es de 2020, los fundamentals que cubre (legend kit basics, controles, ping system) siguen vigentes. Útil para audience que prefiere learning en su idioma nativo.",
+      "noteEn": "Spanish guide by Makina for new Spanish-speaking players. Although from 2020, the fundamentals covered (legend kit basics, controls, ping system) remain valid. Useful for audience preferring learning in their native language."
+    }
+  ]
+}

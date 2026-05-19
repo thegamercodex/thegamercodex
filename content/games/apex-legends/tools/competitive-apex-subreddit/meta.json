@@ -1,0 +1,28 @@
+{
+  "id": "competitive-apex-subreddit",
+  "name": "r/CompetitiveApex",
+  "shortName": "r/CompetitiveApex",
+  "taglineEs": "Subreddit competitive-focused con análisis de ALGS, discusión de pro play, meta debates y deep-dives de high-level theorycrafting",
+  "taglineEn": "Competitive-focused subreddit with ALGS analysis, pro play discussion, meta debates, and high-level theorycrafting deep-dives",
+  "url": "https://www.reddit.com/r/CompetitiveApex/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows", "macos", "linux", "android", "ios"],
+  "languages": ["en"],
+  "tags": ["competitive", "esports", "algs", "pro-play", "meta-discussion"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-17",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["apex-subreddit", "liquipedia-apex"],
+  "alternatives": ["apex-subreddit"],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/CompetitiveApex/"
+  }
+}

@@ -151,7 +151,14 @@ thegamercodex/
 
 ### Meta del Juego (`content/games/[game]/meta.json`)
 
-Campos principales: `id`, `name`, `shortName`, `developer`, `releaseYear`, `officialUrl`, `stores[]`, `priceTracker`, `platforms[]`, `genres[]`, `theme`, `monetization`, `logo`, `heroImage`, `toolCategories[]`, `resourceCategories[]`.
+Campos principales: `id`, `name`, `shortName`, `developer`, `releaseYear`, `officialUrl`, `stores[]`, `priceTracker`, `platforms[]`, `genres[]`, `theme`, `monetization`, `logo`, `heroImage`, `toolCategories[]`, `resourceCategories[]`, `newsFeeds[]?`.
+
+**`newsFeeds[]`** (opcional): fuentes adicionales para la página de noticias del juego (`/[locale]/[game]/news`). Cada entry: `{ type, url, nameEs, nameEn, priority? }`. Tipos soportados:
+- `steam-rss` — Steam news feed (raro de declarar manualmente porque se auto-deriva de `stores[].appId` cuando hay store con `platform: "steam"`).
+- `youtube-channel` — URL con `channel_id=...` del canal del dev/publisher para anuncios oficiales.
+- `rss` — cualquier RSS/Atom genérico (Blizzard News, GGG forum, dev blog).
+
+Si el juego solo tiene Steam RSS auto-derivada, **omitir `newsFeeds[]` completamente**. Solo declarar el array cuando hay fuentes extra. Games sin `stores[]` con Steam y sin `newsFeeds[]` no exponen la ruta `/news`.
 
 Campos traducibles usan sufijo `Es`/`En` (ej: `taglineEs`, `taglineEn`, `nameEs`, `nameEn`, `descriptionEs`, `descriptionEn`, `noteEs`, `noteEn`).
 

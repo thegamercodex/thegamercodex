@@ -1,0 +1,28 @@
+{
+  "id": "apex-subreddit",
+  "name": "r/apexlegends",
+  "shortName": "r/apexlegends",
+  "taglineEs": "El subreddit principal de Apex con 4M+ subscribers: discusión casual, screenshots, clips, patch reactions y Q&A con community",
+  "taglineEn": "The main Apex subreddit with 4M+ subscribers: casual discussion, screenshots, clips, patch reactions, and community Q&A",
+  "url": "https://www.reddit.com/r/apexlegends/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows", "macos", "linux", "android", "ios"],
+  "languages": ["en"],
+  "tags": ["community", "reddit", "casual", "clips", "discussion"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-17",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["apex-discord", "competitive-apex-subreddit"],
+  "alternatives": ["apex-discord"],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/apexlegends/"
+  }
+}

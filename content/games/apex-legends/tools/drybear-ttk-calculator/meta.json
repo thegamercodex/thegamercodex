@@ -1,0 +1,28 @@
+{
+  "id": "drybear-ttk-calculator",
+  "name": "Drybear's Apex Legends TTK Calculator",
+  "shortName": "Drybear TTK",
+  "taglineEs": "Google Sheets TTK calculator legendario de Drybear, activo desde 2019 y referenciado por la community por años como standard de weapon math",
+  "taglineEn": "Drybear's legendary Google Sheets TTK calculator, active since 2019 and referenced as the community's weapon math standard for years",
+  "url": "https://docs.google.com/spreadsheets/d/1iNF-aa9eR6giunmHe4Ed_fpf0QnRHx_knxfruvjdMAE/edit",
+  "category": "weapon-stats",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["ttk-calculator", "spreadsheet", "legacy", "weapon-math"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-17",
+  "logo": "/images/tools/common/google-sheets-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["apexseasons-weapon-stats"],
+  "alternatives": ["apexseasons-weapon-stats"],
+  "createdBy": {
+    "name": "Drybear (Christopher Mykles)",
+    "url": "https://www.youtube.com/@drybear"
+  }
+}

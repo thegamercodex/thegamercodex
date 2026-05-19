@@ -1,0 +1,32 @@
+{
+  "id": "prosettings-apex",
+  "name": "ProSettings.com — Apex Legends",
+  "shortName": "ProSettings",
+  "taglineEs": "Base de datos de configs de pros: sensibilidad, DPI, crosshair, keybinds, gear y video settings de cada player de ALGS",
+  "taglineEn": "Pro player config database: sensitivity, DPI, crosshair, keybinds, gear, and video settings for every ALGS player",
+  "url": "https://www.prosettings.com/apex-legends-pro-settings/",
+  "category": "pro-settings",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["pro-settings", "sensitivity", "gear", "config", "keybinds"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-17",
+  "logo": "/images/tools/apex-legends/prosettings-apex-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["sens-converter-apex"],
+  "alternatives": ["sens-converter-apex"],
+  "createdBy": {
+    "name": "ProSettings.com",
+    "url": "https://www.prosettings.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": []
+  }
+}

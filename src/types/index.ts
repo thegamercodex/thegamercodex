@@ -97,6 +97,20 @@ export interface LocalizedCategory {
 export type ToolCategory = LocalizedCategory;
 export type ResourceCategory = LocalizedCategory;
 
+export type NewsFeedSource =
+  | "steam-rss"
+  | "youtube-channel"
+  | "rss"
+  | "hoyoverse";
+
+export interface NewsFeed {
+  type: NewsFeedSource;
+  url: string;
+  nameEs: string;
+  nameEn: string;
+  priority?: number;
+}
+
 export interface GameMeta {
   id: string;
   name: string;
@@ -114,6 +128,7 @@ export interface GameMeta {
   heroImage: string;
   toolCategories: ToolCategory[];
   resourceCategories: ResourceCategory[];
+  newsFeeds?: NewsFeed[];
 }
 
 export interface Game extends GameMeta {

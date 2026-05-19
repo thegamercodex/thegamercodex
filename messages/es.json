@@ -262,5 +262,13 @@
     "stream": "Stream",
     "podcast": "Podcast",
     "infographic": "Infografía"
+  },
+  "news": {
+    "title": "Noticias",
+    "sectionHeading": "Últimas noticias",
+    "pageTitle": "Noticias de {game}",
+    "pageSubtitle": "Patch notes, anuncios y actualizaciones agregadas desde fuentes oficiales. Se actualiza automáticamente cada pocas horas.",
+    "viewAll": "Ver todas las noticias",
+    "empty": "Aún no hay noticias disponibles para este juego."
   }
 }

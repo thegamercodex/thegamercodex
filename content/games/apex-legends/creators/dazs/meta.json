@@ -1,0 +1,36 @@
+{
+  "id": "dazs",
+  "name": "Dazs",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Dazs",
+      "url": "https://www.youtube.com/@Dazs",
+      "channelId": "UCV0TqI88362SywA3pj7GAbA",
+      "primary": true
+    }
+  ],
+  "specialties": ["aim-training", "tutorials", "coaching", "fps-mechanics"],
+  "games": ["apex-legends"],
+  "contentTypes": ["tutorials", "coaching", "videos"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Coach educational con foco en aim theory y FPS mechanics aplicado a Apex. Su content cubre desde beginner tutorials accesibles hasta análisis avanzado de aim training, sensitivity y mechanics que se transfieren entre FPS. Useful para players que quieren framework analytical, no solo entertainment.",
+  "noteEn": "Educational coach focused on aim theory and FPS mechanics applied to Apex. His content covers from accessible beginner tutorials to advanced analysis of aim training, sensitivity, and mechanics that transfer across FPS. Useful for players who want analytical framework, not just entertainment.",
+  "highlightsEs": [
+    "FPS aim theory aplicado a Apex con detalle técnico",
+    "Tutorials de sensitivity y mouse settings accesibles",
+    "Coaching style positivo y didáctico (community-acclaimed)",
+    "Content que se transfiere a otros FPS competitivos (CS2, Valorant)"
+  ],
+  "highlightsEn": [
+    "FPS aim theory applied to Apex with technical depth",
+    "Accessible sensitivity and mouse settings tutorials",
+    "Positive, didactic coaching style (community-acclaimed)",
+    "Content transferable to other competitive FPS (CS2, Valorant)"
+  ],
+  "avatar": "/images/creators/dazs-avatar.jpg",
+  "banner": "/images/creators/dazs-banner.jpg"
+}

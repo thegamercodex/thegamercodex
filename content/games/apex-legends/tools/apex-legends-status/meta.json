@@ -1,0 +1,28 @@
+{
+  "id": "apex-legends-status",
+  "name": "Apex Legends Status",
+  "shortName": "Apex Legends Status",
+  "taglineEs": "Dashboard de meta sin instalación: pick rates por legend, win rates, mapa interactivo y server status — todo gratis y sin login",
+  "taglineEn": "Install-free meta dashboard: per-legend pick rates, win rates, interactive map, and server status — all free and no login",
+  "url": "https://apexlegendsstatus.com",
+  "category": "stats-trackers",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["meta", "pick-rates", "interactive-map", "server-status", "stats"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-17",
+  "logo": "/images/tools/apex-legends/apex-legends-status-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["apex-tracker-gg", "apex-legends-wiki"],
+  "alternatives": ["apex-tracker-gg"],
+  "createdBy": {
+    "name": "Hugo Derave",
+    "url": "https://apexlegendsstatus.com"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "prosettings-apex-vs-sens-converter-apex",
+  "toolIds": ["prosettings-apex", "sens-converter-apex"],
+  "category": "pro-settings",
+  "depth": "short",
+  "lastVerified": "2026-05-17",
+  "verdictEs": "ProSettings.com si quieres DB grande de configs detallados con gear list completo de cada pro. SensConverter.app si necesitas convertir sensibilidad entre juegos (Apex ↔ Valorant/CS2) o filtrar pros por role/region. Complementarios — los pros usan ambos en su workflow de copying configs.",
+  "verdictEn": "ProSettings.com if you want a large DB of detailed configs with full gear list per pro. SensConverter.app if you need to convert sensitivity between games (Apex ↔ Valorant/CS2) or filter pros by role/region. Complementary — pros use both in their config-copying workflow.",
+  "useCases": [
+    {
+      "labelEs": "Copiar config completo de un pro específico",
+      "labelEn": "Copy a specific pro's full config",
+      "winner": "prosettings-apex",
+      "reasonEs": "ProSettings tiene DB de 100+ pros con detalle granular: in-game sens, DPI, ADS multiplier por scope, keybinds, video settings, gear completo. SensConverter cubre 50+ pros con menos detalle gear-wise.",
+      "reasonEn": "ProSettings has a 100+ pro DB with granular detail: in-game sens, DPI, per-scope ADS multiplier, keybinds, video settings, full gear. SensConverter covers 50+ pros with less gear-wise detail."
+    },
+    {
+      "labelEs": "Convertir sens desde Valorant/CS2 a Apex",
+      "labelEn": "Convert sens from Valorant/CS2 to Apex",
+      "winner": "sens-converter-apex",
+      "reasonEs": "SensConverter es la herramienta dedicated a esto. Input source game settings, output Apex equivalent manteniendo cm/360 consistency. ProSettings no tiene esta calc.",
+      "reasonEn": "SensConverter is the dedicated tool for this. Input source game settings, output Apex equivalent maintaining cm/360 consistency. ProSettings has no such calc."
+    },
+    {
+      "labelEs": "Filtrar pros por role (IGL, entry, support)",
+      "labelEn": "Filter pros by role (IGL, entry, support)",
+      "winner": "sens-converter-apex",
+      "reasonEs": "SensConverter agrupa pros por role y region con filtros granulares. ProSettings es más list-based sin filter por role.",
+      "reasonEn": "SensConverter groups pros by role and region with granular filters. ProSettings is more list-based with no role filter."
+    },
+    {
+      "labelEs": "Investigar gear (mouse, keyboard, monitor) antes de comprar",
+      "labelEn": "Research gear (mouse, keyboard, monitor) before buying",
+      "winner": "prosettings-apex",
+      "reasonEs": "ProSettings tiene gear list extensiva por pro: mouse model, mousepad, monitor specs, keyboard, headset. SensConverter cubre algo de gear pero menos detalle.",
+      "reasonEn": "ProSettings has an extensive per-pro gear list: mouse model, mousepad, monitor specs, keyboard, headset. SensConverter covers some gear but with less detail."
+    },
+    {
+      "labelEs": "Calcular eDPI rápido sin lookup individual",
+      "labelEn": "Calculate eDPI quickly without individual lookup",
+      "winner": "sens-converter-apex",
+      "reasonEs": "SensConverter tiene calc de eDPI standalone. ProSettings expone eDPI in profile pages pero requires navegación.",
+      "reasonEn": "SensConverter has a standalone eDPI calc. ProSettings exposes eDPI in profile pages but requires navigation."
+    }
+  ]
+}

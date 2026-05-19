@@ -1,0 +1,28 @@
+{
+  "id": "apex-discord",
+  "name": "Apex Legends Discord (oficial)",
+  "shortName": "Apex Discord",
+  "taglineEs": "Discord oficial endorsed por EA con 800k+ miembros, LFG por región, channels por legend y por current meta",
+  "taglineEn": "Official EA-endorsed Discord with 800k+ members, LFG by region, channels per legend, and current meta discussion",
+  "url": "https://discord.com/invite/apexlegends",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows", "macos", "linux", "android", "ios"],
+  "languages": ["en", "es"],
+  "tags": ["discord", "community", "lfg", "official", "patch-discussion"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-17",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["apex-subreddit", "competitive-apex-subreddit"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "EA / Respawn (community-run)",
+    "url": "https://discord.com/invite/apexlegends"
+  }
+}

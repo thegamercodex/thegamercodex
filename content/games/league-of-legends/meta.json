@@ -162,5 +162,14 @@
       "descriptionEn": "Resources for climbing elo: macro game, mindset, climbing strategies, and match reviews.",
       "icon": "📈"
     }
+  ],
+  "newsFeeds": [
+    {
+      "type": "rss",
+      "url": "https://data.rito.news/lol/en-us/news.rss",
+      "nameEs": "Noticias de League of Legends",
+      "nameEn": "League of Legends News",
+      "priority": 100
+    }
   ]
 }

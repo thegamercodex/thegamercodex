@@ -1,0 +1,32 @@
+{
+  "id": "apex-tracker-gg",
+  "name": "Tracker.gg — Apex Legends",
+  "shortName": "Tracker.gg",
+  "taglineEs": "El stats tracker más usado de Apex con leaderboards globales, overlay in-game vía Overwolf y comparativas por sesión",
+  "taglineEn": "The most-used Apex stats tracker with global leaderboards, in-game Overwolf overlay, and session-by-session comparisons",
+  "url": "https://apex.tracker.gg",
+  "category": "stats-trackers",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows"],
+  "languages": ["en"],
+  "tags": ["stats-tracker", "leaderboards", "overlay", "session-tracking"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-17",
+  "logo": "/images/tools/apex-legends/apex-tracker-gg-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["apex-legends-status", "blitz-apex", "stryda-apex"],
+  "alternatives": ["blitz-apex", "stryda-apex"],
+  "createdBy": {
+    "name": "Tracker Network",
+    "url": "https://tracker.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": []
+  }
+}

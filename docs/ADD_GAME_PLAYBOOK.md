@@ -121,6 +121,33 @@ Adaptá los ids al género del juego.
 
 Body: análisis libre del juego (qué es, por qué importa, contexto del ecosistema). Sin estructura forzada.
 
+### `newsFeeds[]` (opcional — solo si el juego NO tiene Steam appId)
+
+La página `/[locale]/[game]/news` se auto-deriva del Steam appId cuando el juego tiene `stores[].platform === "steam"` con `appId`. **Si el juego está en Steam, no hagas nada — la página ya funciona**.
+
+Si el juego NO está en Steam (Battle.net, Riot Client, Epic exclusive, mobile-only, etc.), agregá `newsFeeds[]` al `meta.json` con al menos una fuente. Patrones conocidos:
+
+```json
+"newsFeeds": [
+  {
+    "type": "youtube-channel",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=<UC...>",
+    "nameEs": "<Game> (YouTube oficial)",
+    "nameEn": "<Game> (Official YouTube)",
+    "priority": 100
+  }
+]
+```
+
+Tipos soportados (`NewsFeedSource` en `src/types/index.ts`):
+
+- **`youtube-channel`** — canal oficial del developer/publisher. URL formato `https://www.youtube.com/feeds/videos.xml?channel_id=<UC...>`. Buen fallback universal — todo dev tiene YouTube. Ejemplo: WoW usa `@Warcraft` (`UCbLj9QP9FAaHs_647QckGtg`).
+- **`rss`** — feed RSS/Atom genérico de un blog oficial o servicio third-party. Ejemplo: LoL y Valorant usan `https://data.rito.news/{lol|val}/en-us/news.rss` (scraper community-built de news.leagueoflegends.com y playvalorant.com — Riot no publica RSS oficial).
+- **`hoyoverse`** — endpoint específico para HoYoverse games (Genshin, Star Rail, ZZZ, Honkai 3rd). URL formato `https://sg-public-api-static.hoyoverse.com/content_v2_user/app/a1b1f9d3315447cc/getContentList?iAppId=<X>&iChanId=395&iPageSize=20&iPage=1&sLangKey=en-us`. El `iAppId` varía por game (Genshin = 32; revisar Network tab en el sitio oficial del game para otros). Si el juego nuevo necesita esto, también agregar entry a `HOYO_GAME_SITES` en `src/lib/news.ts` con el patrón del article URL.
+- **`steam-rss`** — solo manual si querés sumar feed de Steam de OTRO appId al juego (raro). El feed del propio `stores[].appId` se auto-deriva.
+
+Si no encontrás fuente oficial razonable, **omitir `newsFeeds[]`** — la ruta `/news` simplemente no se expone para ese juego.
+
 ---
 
 ## Phase 1C — Crear tools (meta.json + es.md + en.md por tool)
@@ -333,16 +360,99 @@ Archivos en `content/games/<game-id>/resources/<category>.json`, formato:
 
 ---
 
-## Phase 4 — Cierre
+## Phase 4 — Comparisons (target: 4-5 pares)
+
+Las comparativas head-to-head entre tools del mismo cluster son un eje editorial del codex. Cada comparison tiene su propia ruta SEO (`/[game]/compare/<a-vs-b>`), aparece en la game page con preview cards, y sirve para resolver "cuál uso, X o Y" — pregunta de alto volumen que justifica ranking orgánico.
+
+### 4A — Identificar pares naturales
+
+Recorrer las `toolCategories` del juego y buscar pares **dentro de la misma categoría** donde haya diferenciación editorial clara. Criterios para incluir un par:
+
+- **Mismo cluster**, tools que la community efectivamente compara (no forzar pares random).
+- **Editorial distinction explícita**: el quickTake/positioning de cada tool deja claro cuándo gana cada una. Si la diferencia es "X tiene más features", probablemente no es un par interesante — es solo "el incumbent vs nada".
+- **Audiencia overlap**: ambas tools sirven a la misma persona resolviendo el mismo problema, no a audiencias disjuntas.
+
+**Skip pairs cuando**:
+- Una categoría tiene 1 sola tool (no hay con quién comparar).
+- Las tools no compiten realmente — ej: una platform (Nexus Mods, Steam Workshop) vs una tool específica que vive ahí.
+- El par sería "incumbent dominante vs proyecto abandonado".
+
+**Target**: 4-5 pares. Mezcla típica: 1-2 flagships (`depth: "flagship"`, prosa de ~1500 palabras, comparativa profunda) + 3-4 shorts (`depth: "short"`, ~700 palabras). Si el ecosystem honestamente no da para 4, cerrar con menos (3 sólidas > 5 con relleno).
+
+### 4B — Estructura de archivos
+
+Por cada par, en `content/games/<game-id>/comparisons/<id>/`:
+
+```
+meta.json    ← ComparisonMeta type completo
+es.md        ← frontmatter (title, description) + body markdown libre
+en.md        ← idem
+```
+
+### 4C — Schema (ver `src/types/index.ts → ComparisonMeta`)
+
+```json
+{
+  "id": "tool-a-vs-tool-b",
+  "toolIds": ["tool-a", "tool-b"],
+  "category": "<matches one tool's category>",
+  "depth": "short",
+  "lastVerified": "YYYY-MM-DD",
+  "verdictEs": "Tool A si querés X. Tool B si querés Y.",
+  "verdictEn": "Tool A if you want X. Tool B if you want Y.",
+  "useCases": [
+    {
+      "labelEs": "Caso de uso concreto",
+      "labelEn": "Concrete use case",
+      "winner": "tool-a",
+      "reasonEs": "Por qué tool-a gana acá.",
+      "reasonEn": "Why tool-a wins here."
+    }
+  ]
+}
+```
+
+- `useCases`: 5 entries con balance de winners (no todos a favor de una sola tool — mostrar que cada una tiene su nicho).
+- `category`: usar el id de la categoría de las tools comparadas. Si compiten en categorías distintas, repensar si el par es válido.
+- `lastVerified`: la fecha de hoy del sistema.
+
+### 4D — Body markdown
+
+Frontmatter mínimo:
+```
+---
+title: <Tool A> vs <Tool B> — qué <X> usar
+description: 1-2 frases que resumen el ángulo editorial.
+---
+```
+
+Body libre con secciones H2. Estructura típica para shorts:
+1. Intro de un párrafo posicionando las dos tools.
+2. 2-3 secciones H2 cubriendo dimensiones de diferenciación (UX, scope, target audience, etc.).
+3. Sección "Cuándo gana cada una" con tabla de casos.
+4. Recomendación combinada o trade-off final.
+
+Para flagships, extender con secciones de patches/historia/cobertura y más use cases concretos. Mirar `content/games/path-of-exile/comparisons/awakened-poe-trade-vs-poe-trade-official/{es,en}.md` como referencia flagship, y cualquier short de Skyrim/NMS/WoW como ejemplo.
+
+### 4E — Spanish neutro lint
+
+Después de escribir todos los .md y meta.json, correr el grep de `docs/RULES.md → "Español neutro"` sobre `content/games/<game-id>/comparisons/` y limpiar matches. Las comparisons son texto editorial extenso — es donde el voseo se cuela más.
+
+---
+
+## Phase 5 — Cierre
 
 1. **Build**: `PATH="/Users/gersoncarcamo/.nvm/versions/node/v22.22.2/bin:$PATH" npx next build` debe pasar sin errores. Si falla, fixear y reportar.
-2. **`docs/SCHEMA_EVOLUTION.md`** — agregar entrada **solo si modificaste un type o schema**. No deberías; la mayoría de juegos cabe en el schema actual.
-3. **NO commit ni push.** El usuario revisa primero.
-4. **Reporte final** (en chat, no en archivo): tabla concisa con:
+2. **Inventory**: `npm run inventory` para regenerar `docs/CONTENT_INVENTORY.md` con los nuevos counts.
+3. **`docs/SCHEMA_EVOLUTION.md`** — agregar entrada **solo si modificaste un type o schema**. No deberías; la mayoría de juegos cabe en el schema actual.
+4. **NO commit ni push.** El usuario revisa primero.
+5. **Reporte final** (en chat, no en archivo): tabla concisa con:
    - Tools agregadas (cuántas / cuáles / si quedó alguna por debajo del target y por qué)
    - Logos de tools: cuántos OK / cuántos SKIP (sin logo descargable; queda fallback a inicial)
    - Creators agregados (5 / cuáles / channelIds verificados / avatares descargados ok)
    - Resources agregados por categoría (5 cada una)
+   - Comparisons agregadas (cuántas, qué pares, depth de cada una)
+   - News page activa (auto-derive de Steam o `newsFeeds[]` agregado)
    - Cualquier cosa que **no** se pudo cerrar y por qué
 
 ---

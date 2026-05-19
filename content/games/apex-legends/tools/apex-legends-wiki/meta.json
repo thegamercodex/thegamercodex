@@ -1,0 +1,28 @@
+{
+  "id": "apex-legends-wiki",
+  "name": "Apex Legends Wiki",
+  "shortName": "Apex Wiki",
+  "taglineEs": "Wiki community-editable en wiki.gg con cobertura completa de legends, armas, mapas, mecánicas y patch history",
+  "taglineEn": "Community-editable wiki on wiki.gg with full coverage of legends, weapons, maps, mechanics, and patch history",
+  "url": "https://apexlegends.wiki.gg",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "reference", "legends", "weapons", "lore"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-17",
+  "logo": "/images/tools/apex-legends/apex-legends-wiki-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["liquipedia-apex"],
+  "alternatives": ["liquipedia-apex"],
+  "createdBy": {
+    "name": "Apex Legends Wiki community",
+    "url": "https://apexlegends.wiki.gg"
+  }
+}

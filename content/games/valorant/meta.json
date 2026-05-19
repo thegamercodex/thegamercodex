@@ -140,5 +140,14 @@
       "descriptionEn": "General coaching, common mistakes, mindset, and climbing the ranks",
       "icon": "📈"
     }
+  ],
+  "newsFeeds": [
+    {
+      "type": "rss",
+      "url": "https://data.rito.news/val/en-us/news.rss",
+      "nameEs": "Noticias de VALORANT",
+      "nameEn": "VALORANT News",
+      "priority": 100
+    }
   ]
 }

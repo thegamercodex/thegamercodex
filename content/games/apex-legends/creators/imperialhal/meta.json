@@ -1,0 +1,42 @@
+{
+  "id": "imperialhal",
+  "name": "ImperialHal",
+  "realName": "Phillip Dosen",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@ImperialHal",
+      "url": "https://www.youtube.com/@ImperialHal",
+      "channelId": "UCHy81YieUZT8S8ZNJxEf6MA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "tsm_imperialhal",
+      "url": "https://www.twitch.tv/tsm_imperialhal"
+    }
+  ],
+  "specialties": ["competitive", "algs", "igl", "pro-play"],
+  "games": ["apex-legends"],
+  "contentTypes": ["streams", "videos", "competitive-analysis"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Pro player de TSM, considerado uno de los IGLs (in-game leaders) más influyentes en la historia competitive de Apex. Múltiples campeonatos ALGS, gameplay con team-coordination que define el meta competitivo. Sus streams en Twitch son view obligatoria para players serios sobre competitive — entendés how a top IGL piensa during high-pressure scrims y matches.",
+  "noteEn": "TSM pro player, considered one of the most influential IGLs (in-game leaders) in Apex's competitive history. Multiple ALGS championships, team-coordinated gameplay defining the competitive meta. His Twitch streams are mandatory viewing for players serious about competitive — you see how a top IGL thinks during high-pressure scrims and matches.",
+  "highlightsEs": [
+    "Multiple ALGS championships con TSM",
+    "IGL referent: cómo callea rotations, engagements y zone reads",
+    "Streams en Twitch con tone competitivo serio",
+    "Highlight clips de YouTube son condensed best plays"
+  ],
+  "highlightsEn": [
+    "Multiple ALGS championships with TSM",
+    "IGL reference: how he calls rotations, engagements, and zone reads",
+    "Twitch streams with serious competitive tone",
+    "YouTube highlight clips condense his best plays"
+  ],
+  "avatar": "/images/creators/imperialhal-avatar.jpg",
+  "banner": "/images/creators/imperialhal-banner.jpg"
+}

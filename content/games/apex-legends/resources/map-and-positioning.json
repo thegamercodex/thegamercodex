@@ -1,0 +1,80 @@
+{
+  "category": "map-and-positioning",
+  "resources": [
+    {
+      "id": "district-most-indepth-positioning",
+      "type": "video",
+      "title": "The Most IN-DEPTH Positioning Guide for Apex Legends",
+      "creator": "District",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=I1pvALUlOk0",
+      "youtubeId": "I1pvALUlOk0",
+      "language": "en",
+      "duration": "27:31",
+      "publishedDate": "2026-04-27",
+      "thumbnail": "https://i.ytimg.com/vi/I1pvALUlOk0/maxresdefault.jpg",
+      "noteEs": "Guía profunda de positioning de District (creator educational). Cubre peeking angles, close vs wide swinging, cómo forzar situations a tu favor. Para players que aim ya tienen decent pero pierden fights por position.",
+      "noteEn": "District's deep positioning guide (educational creator). Covers peeking angles, close vs wide swinging, how to force situations in your favor. For players with decent aim who lose fights due to position."
+    },
+    {
+      "id": "tsm-apex-tested-stormpoint-drops",
+      "type": "video",
+      "title": "We Tested And Ranked Every Drop Spot on StormPoint (Only Wins)",
+      "creator": "TSM APEX LEGENDS",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=uZe_7dzM58I",
+      "youtubeId": "uZe_7dzM58I",
+      "language": "en",
+      "duration": "1:37:12",
+      "publishedDate": "2024-02-24",
+      "thumbnail": "https://i.ytimg.com/vi/uZe_7dzM58I/maxresdefault.jpg",
+      "noteEs": "TSM testea cada POI de Storm Point ranking por win probability. Análisis empírico extenso, datos sobre el comportamiento real de cada drop spot. 97 minutos de drop strategy condensada.",
+      "noteEn": "TSM tests every Storm Point POI ranking by win probability. Extensive empirical analysis, data on actual behavior of each drop spot. 97 minutes of condensed drop strategy."
+    },
+    {
+      "id": "thethak-stormpoint-drops-s22",
+      "type": "video",
+      "title": "Best Drop Spots on Storm Point in Apex Legends (Season 22 Edition)",
+      "creator": "thethak",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=uj4zNPQoU2Y",
+      "youtubeId": "uj4zNPQoU2Y",
+      "language": "en",
+      "duration": "7:23",
+      "publishedDate": "2024-09-10",
+      "thumbnail": "https://i.ytimg.com/vi/uj4zNPQoU2Y/maxresdefault.jpg",
+      "noteEs": "Versión condensada de drop spot guide en 7 minutos. Cubre top 5 POIs de Storm Point con justification de cada uno. Para players que prefieren info digerible sin tutorial extenso.",
+      "noteEn": "Condensed drop spot guide in 7 minutes. Covers Storm Point's top 5 POIs with justification for each. For players who prefer digestible info without an extended tutorial."
+    },
+    {
+      "id": "gameleap-8-tips-rotations",
+      "type": "video",
+      "title": "WINNING is EASY! - 8 Tips for PERFECT Rotations (ALWAYS PLACE TOP 3)",
+      "creator": "GameLeap Apex Legends Guides",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=G59Tp047A3g",
+      "youtubeId": "G59Tp047A3g",
+      "language": "en",
+      "duration": "13:21",
+      "publishedDate": "2023-06-04",
+      "thumbnail": "https://i.ytimg.com/vi/G59Tp047A3g/maxresdefault.jpg",
+      "noteEs": "8 tips concretos para mejorar rotations. GameLeap presenta info de forma estructurada y didáctica. Aunque es de 2023, los principios de rotation (zone reads, gravity, third-party prevention) son evergreen.",
+      "noteEn": "8 concrete tips to improve rotations. GameLeap presents info in structured and didactic format. Although from 2023, rotation principles (zone reads, gravity, third-party prevention) are evergreen."
+    },
+    {
+      "id": "gameleap-stop-throwing-endgame",
+      "type": "video",
+      "title": "STOP THROWING IN ENDGAME! - Tips for Rotations, Positioning",
+      "creator": "GameLeap Apex Legends Guides",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Jh-_GxOYROw",
+      "youtubeId": "Jh-_GxOYROw",
+      "language": "en",
+      "duration": "8:06",
+      "publishedDate": "2023-09-13",
+      "thumbnail": "https://i.ytimg.com/vi/Jh-_GxOYROw/maxresdefault.jpg",
+      "noteEs": "Foco específico en endgame positioning — final 3 zones es donde muchos players throwen. GameLeap analiza common mistakes (no high ground, over-commit fights, ignore ring damage) y cómo evitarlos.",
+      "noteEn": "Specific focus on endgame positioning — final 3 zones is where many players throw. GameLeap analyzes common mistakes (no high ground, over-committing fights, ignoring ring damage) and how to avoid them."
+    }
+  ]
+}

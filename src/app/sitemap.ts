@@ -7,6 +7,7 @@ import {
   getAllResources,
 } from "@/lib/content";
 import { getMostRecentChangelogDate } from "@/lib/changelog";
+import { hasNewsSources } from "@/lib/news";
 import { siteUrl } from "@/lib/site";
 import { routing } from "@/i18n/routing";
 
@@ -100,6 +101,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         buildEntry(`/${game.id}/resources/${cat.id}`, {
           changeFrequency: "weekly",
           priority: 0.6,
+        }),
+      );
+    }
+
+    if (hasNewsSources(game)) {
+      entries.push(
+        buildEntry(`/${game.id}/news`, {
+          changeFrequency: "daily",
+          priority: 0.7,
         }),
       );
     }

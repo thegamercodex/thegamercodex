@@ -1,0 +1,32 @@
+{
+  "id": "sens-converter-apex",
+  "name": "Sens Converter — Apex Legends",
+  "shortName": "SensConverter",
+  "taglineEs": "Conversor de sensibilidad entre juegos (CS2, Valorant, Apex, Overwatch) más DB de pros con filtros por role y region",
+  "taglineEn": "Sensitivity converter between games (CS2, Valorant, Apex, Overwatch) plus a pro DB with filters by role and region",
+  "url": "https://sensconverter.app/apex-pro-settings/",
+  "category": "pro-settings",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["sensitivity-converter", "edpi", "pro-settings", "cross-game"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-17",
+  "logo": "/images/tools/apex-legends/sens-converter-apex-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["prosettings-apex"],
+  "alternatives": ["prosettings-apex"],
+  "createdBy": {
+    "name": "Sens Converter",
+    "url": "https://sensconverter.app"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": []
+  }
+}

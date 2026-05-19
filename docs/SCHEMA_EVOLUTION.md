@@ -211,3 +211,24 @@ La subcarpeta por juego mantiene la misma flat-structure simple dentro de cada j
 **Migración**: para entries nuevos, agregar `events` con los items que ese día se shipean a main. Para entries existentes, ya migrados — el campo es opcional, así que entries futuros sin `events` siguen renderizando igual que antes (solo el body markdown).
 
 **Cadencia (no cambia)**: una entry por día con cambios significativos. Si en un día se hacen varios cambios, todos van como items en el `events` array de la misma entry — no se crean entries separados con la misma fecha.
+
+
+### 2026-05-16 - GameMeta: campo opcional `newsFeeds[]` + auto-derivación de Steam RSS
+
+**Cambio**: agregado tipo `NewsFeed` y campo opcional `newsFeeds?: NewsFeed[]` en `GameMeta` (`src/types/index.ts`). Soporta tres tipos de source: `steam-rss` (URL del feed RSS de Steam), `youtube-channel` (URL con `channel_id=...` de un canal oficial del dev) y `rss` (cualquier feed RSS/Atom genérico).
+
+**Auto-derivación**: si un game tiene `stores[].platform === "steam"` con `appId`, el Steam RSS feed se deriva automáticamente — **no hay que duplicarlo en `newsFeeds[]`**. El campo `newsFeeds[]` es exclusivamente para fuentes adicionales: Blizzard News, blogs oficiales de devs, etc.
+
+**Razón**: páginas de noticias por juego (`/[locale]/[game]/news`) con auto-update vía RSS, sin requerir mantenimiento manual ni API keys. Steam RSS cubre patch notes oficiales para la mayoría de juegos del codex; `newsFeeds[]` extiende cobertura cuando hay fuentes oficiales mejores (WoW → Blizzard News, PoE → GGG forum, etc.).
+
+**Archivos afectados**:
+- `src/types/index.ts` — nuevos tipos `NewsFeed`, `NewsFeedSource`; `GameMeta.newsFeeds?` opcional.
+- `src/lib/news.ts` — nuevo: `getGameNews()`, `hasNewsSources()`, parseo Steam/YouTube/RSS genérico con ISR 6h y fail-soft.
+- `src/components/NewsItemCard.tsx`, `NewsFeedList.tsx`, `NewsPreview.tsx` — nuevos componentes server.
+- `src/app/[locale]/[game]/news/page.tsx` — nueva ruta con `generateStaticParams` solo para games con sources.
+- `src/app/[locale]/[game]/page.tsx` — sección `#news` condicional + tab en `GameTabNav`.
+- `src/app/sitemap.ts` — entries `/[game]/news` para games con `hasNewsSources()`.
+- `messages/{es,en}.json` — nueva sección `news.*`.
+
+**Migración**: campo opcional, no rompe games existentes. Games con `stores[]` que incluyen Steam con appId ganan página `/news` automáticamente sin tocar `meta.json`. Games sin Steam ni `newsFeeds[]` no exponen la ruta (`hasNewsSources` retorna false, `generateStaticParams` filtra, sitemap omite).
+
