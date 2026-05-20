@@ -283,3 +283,18 @@ Si el entry es muy corto y no querés escribir bilingüe, podés poner el body e
 - No usar emojis ni decoraciones en mensajes de commit, PRs, ni código.
 - En `git add`, listar archivos específicos. **NO usar `git add .` ni `git add -A`** — pueden incluir secrets o binarios sin querer.
 - Cuando termines un cambio al schema, recordar al usuario actualizar `docs/SCHEMA_EVOLUTION.md` si se olvidó.
+
+## Indexing post-merge a main
+
+El sitemap.xml es dinámico y Google descubre URLs nuevas por su cuenta en días-semanas. Pero cuando se mergea a main un **game nuevo**, vale la pena hacer submit manual del game hub en Google Search Console para acelerar indexing del batch entero (~20+ URLs: hub + tools + comparisons).
+
+**Después de mergear un game nuevo a `main` y confirmar deploy en producción**, en el reporte de cierre de Claude incluir dos links clickeables:
+
+1. **Game hub URL**: `https://thegamercodex.com/en/<game-id>` (locale `en` que es el default; el switcher lleva a `/es`).
+2. **GSC inspect link prellenado**: `https://search.google.com/search-console/inspect?resource_id=sc-domain%3Athegamercodex.com&id=<url-encoded-game-hub-url>` — abre Search Console directo en la pantalla de URL Inspection con el hub cargado; un click más para "Request indexing".
+
+Google crawlea internamente desde el hub a tools/comparisons/resources, así que con 1 submit cubrís el batch entero. No es necesario submitir cada URL individual.
+
+**Yandex** (mantiene tráfico significativo según analytics): submit equivalente en `https://webmaster.yandex.com/sites/`. Opcional pero baja el lag de discovery en ese referrer.
+
+Esto solo aplica a games nuevos enteros — no a tools/creators/resources sueltos agregados a games existentes. Para esos, dejar que el sitemap haga su trabajo.

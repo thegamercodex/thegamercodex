@@ -1,0 +1,49 @@
+{
+  "id": "mtq-capture",
+  "name": "MTQ Capture",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2013,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@MTQcapture",
+      "url": "https://www.youtube.com/@MTQcapture",
+      "channelId": "UC5BtIO_vMNvds5sgE-JI6KA",
+      "primary": true
+    },
+    {
+      "type": "twitter",
+      "handle": "@MTQcapture",
+      "url": "https://twitter.com/MTQcapture"
+    }
+  ],
+  "specialties": [
+    "raid-guides",
+    "ultimate-guides",
+    "visual-walkthroughs",
+    "fight-mechanics"
+  ],
+  "games": ["final-fantasy-xiv"],
+  "contentTypes": ["videos", "guides"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "MTQ Capture es el referente absoluto de fight guides visuales en FFXIV. Cada Savage tier y cada Ultimate trial recibe un video walkthrough con timestamps por mecánica, callouts overlay, y top-down view editado para que veas exactamente dónde pararte. Si vas a progear Savage o Ultimate, su video es la primera vista que miras antes de pisar la instance. Sin comentary excesiva — el visual lo dice todo.",
+  "noteEn": "MTQ Capture is the absolute reference for visual fight guides in FFXIV. Every Savage tier and Ultimate trial gets a walkthrough video with per-mechanic timestamps, callout overlays, and edited top-down views so you see exactly where to stand. If you're progging Savage or Ultimate, his video is the first thing you watch before stepping into the instance. No excessive commentary — the visuals say it all.",
+  "highlightsEs": [
+    "Walkthroughs visuales de cada Savage y Ultimate desde Stormblood",
+    "Timestamps precisos por mecánica para skip al punto exacto",
+    "Top-down overlay editado que muestra positioning exacto",
+    "Estilo minimalista sin comentary innecesaria",
+    "Referencia universal en static prog y world race"
+  ],
+  "highlightsEn": [
+    "Visual walkthroughs of every Savage and Ultimate since Stormblood",
+    "Precise per-mechanic timestamps to skip to the exact point",
+    "Edited top-down overlays showing exact positioning",
+    "Minimalist style without unnecessary commentary",
+    "Universal reference in static prog and world race"
+  ],
+  "avatar": "/images/creators/mtq-capture-avatar.jpg",
+  "banner": "/images/creators/mtq-capture-banner.jpg"
+}

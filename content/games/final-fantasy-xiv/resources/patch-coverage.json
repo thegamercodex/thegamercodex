@@ -1,0 +1,80 @@
+{
+  "category": "patch-coverage",
+  "resources": [
+    {
+      "id": "zepla-evercold-checklist-2026",
+      "type": "video",
+      "title": "My Checklist of Things To Do Before Evercold",
+      "creator": "Zepla HQ",
+      "creatorId": "zepla",
+      "url": "https://www.youtube.com/watch?v=A6lhJg7TUK4",
+      "youtubeId": "A6lhJg7TUK4",
+      "language": "en",
+      "duration": "9:54",
+      "publishedDate": "2026-05-17",
+      "thumbnail": "https://i.ytimg.com/vi/A6lhJg7TUK4/maxresdefault.jpg",
+      "noteEs": "Pre-patch checklist de Zepla para Evercold (8.0): qué cleanear, qué stockpilear y qué prep editorial conviene hacer antes del expansion launch.",
+      "noteEn": "Zepla's pre-patch checklist for Evercold (8.0): what to clean up, what to stockpile, and what prep is worth doing before expansion launch."
+    },
+    {
+      "id": "mrhappy-evercold-item-level-2026",
+      "type": "video",
+      "title": "FFXIV Evercold's New Item Level Feature Needs Some Explaining",
+      "creator": "Mr Happy",
+      "creatorId": "mrhappy",
+      "url": "https://www.youtube.com/watch?v=AUfwhhDvQoQ",
+      "youtubeId": "AUfwhhDvQoQ",
+      "language": "en",
+      "duration": "14:57",
+      "publishedDate": "2026-05-13",
+      "thumbnail": "https://i.ytimg.com/vi/AUfwhhDvQoQ/maxresdefault.jpg",
+      "noteEs": "Análisis del nuevo item level system anunciado en Evercold: cómo cambia gear progression y qué implica para raid logistics. Mr Happy desambigua el reveal con context histórico.",
+      "noteEn": "Analysis of the new item level system announced in Evercold: how it changes gear progression and what it means for raid logistics. Mr Happy disambiguates the reveal with historical context."
+    },
+    {
+      "id": "mrhappy-most-botted-achievement-2026",
+      "type": "video",
+      "title": "One of FFXIV's Most BOTTED Achievements",
+      "creator": "Mr Happy",
+      "creatorId": "mrhappy",
+      "url": "https://www.youtube.com/watch?v=sChwb3_oM84",
+      "youtubeId": "sChwb3_oM84",
+      "language": "en",
+      "duration": "13:09",
+      "publishedDate": "2026-05-16",
+      "thumbnail": "https://i.ytimg.com/vi/sChwb3_oM84/maxresdefault.jpg",
+      "noteEs": "Cobertura del current state de botting en FFXIV y cómo afecta achievements competitivos. Mr Happy contextualiza la respuesta de SE y el debate community.",
+      "noteEn": "Coverage of the current state of botting in FFXIV and how it affects competitive achievements. Mr Happy contextualizes SE's response and the community debate."
+    },
+    {
+      "id": "zepla-msq-twist-2026",
+      "type": "video",
+      "title": "A Twist in the MSQ Formula",
+      "creator": "Zepla HQ",
+      "creatorId": "zepla",
+      "url": "https://www.youtube.com/watch?v=33kn-kTmZcY",
+      "youtubeId": "33kn-kTmZcY",
+      "language": "en",
+      "duration": "10:52",
+      "publishedDate": "2026-05-03",
+      "thumbnail": "https://i.ytimg.com/vi/33kn-kTmZcY/maxresdefault.jpg",
+      "noteEs": "Reflexión de Zepla sobre cambios estructurales en la MSQ formula anunciados para Evercold. Útil para entender la dirección narrativa que Yoshi-P presentó en FanFest.",
+      "noteEn": "Zepla's reflection on structural changes to the MSQ formula announced for Evercold. Useful for understanding the narrative direction Yoshi-P presented at FanFest."
+    },
+    {
+      "id": "zepla-yoshi-p-fanfest-2026",
+      "type": "video",
+      "title": "Yoshi-P Just Blew Everyone Away",
+      "creator": "Zepla HQ",
+      "creatorId": "zepla",
+      "url": "https://www.youtube.com/watch?v=-1QCb0X1QLE",
+      "youtubeId": "-1QCb0X1QLE",
+      "language": "en",
+      "duration": "15:17",
+      "publishedDate": "2026-04-25",
+      "thumbnail": "https://i.ytimg.com/vi/-1QCb0X1QLE/maxresdefault.jpg",
+      "noteEs": "Reacción y análisis de la keynote de Yoshi-P en FanFest 2026: anuncios principales de Evercold, cambios de dirección y respuesta de la comunidad.",
+      "noteEn": "Reaction and analysis of Yoshi-P's FanFest 2026 keynote: Evercold's main announcements, direction shifts, and community response."
+    }
+  ]
+}

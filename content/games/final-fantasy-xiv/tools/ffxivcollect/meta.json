@@ -1,0 +1,30 @@
+{
+  "id": "ffxivcollect",
+  "name": "FFXIV Collect",
+  "shortName": "FFXIVCollect",
+  "taglineEs": "Tracker de collection: mounts, minions, orchestrions, achievements, bardings y armoires con tu progreso personal cruzado con datos del Lodestone",
+  "taglineEn": "Collection tracker: mounts, minions, orchestrions, achievements, bardings, and armoires showing your personal progress cross-referenced with Lodestone",
+  "url": "https://ffxivcollect.com",
+  "category": "collection-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/joshua-walsh/ffxiv-collect",
+  "license": "MIT",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["collection", "achievements", "mounts", "minions", "completion", "open-source"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/ffxivcollect-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["eorzea-collection", "lodestone"],
+  "alternatives": ["eorzea-collection"],
+  "createdBy": {
+    "name": "Joshua Walsh",
+    "url": "https://github.com/joshua-walsh"
+  }
+}

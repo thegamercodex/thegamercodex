@@ -1,0 +1,30 @@
+{
+  "id": "garland-tools",
+  "name": "Garland Tools",
+  "shortName": "Garland",
+  "taglineEs": "Base de datos exhaustiva de FFXIV: items, recetas, NPCs, peces, nodos de gathering, mobs y drops — todo cross-referenciado con filtros granulares",
+  "taglineEn": "Exhaustive FFXIV database: items, recipes, NPCs, fish, gathering nodes, mobs, and drops — all cross-referenced with granular filters",
+  "url": "https://garlandtools.org",
+  "category": "database",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/ufx/GarlandTools",
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en", "fr", "de", "ja"],
+  "tags": ["database", "items", "recipes", "gathering", "fish", "open-source"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/garland-tools-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["teamcraft", "gamerescape"],
+  "alternatives": ["teamcraft"],
+  "createdBy": {
+    "name": "ufx",
+    "url": "https://github.com/ufx"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "universalis",
+  "name": "Universalis",
+  "shortName": "Universalis",
+  "taglineEs": "Tracker crowdsourced del market board cross-world: ves precios, historial de ventas y stock por servidor sin tener que viajar a cada datacenter",
+  "taglineEn": "Crowdsourced cross-world market board tracker: see prices, sales history, and stock per server without traveling to each datacenter",
+  "url": "https://universalis.app",
+  "category": "market-board",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Universalis-FFXIV/Universalis",
+  "license": "AGPL-3.0",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["market-board", "prices", "cross-world", "gil", "crowdsourced", "open-source"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/universalis-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mogboard", "teamcraft"],
+  "alternatives": ["mogboard"],
+  "createdBy": {
+    "name": "Universalis contributors",
+    "url": "https://github.com/Universalis-FFXIV/Universalis"
+  }
+}

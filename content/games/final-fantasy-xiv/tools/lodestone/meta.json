@@ -1,0 +1,29 @@
+{
+  "id": "lodestone",
+  "name": "The Lodestone",
+  "shortName": "Lodestone",
+  "taglineEs": "Portal oficial de Square Enix: búsqueda de personajes, perfil con achievements y gear visible, news y patch notes con autoría oficial",
+  "taglineEn": "Square Enix's official portal: character search, profile with visible achievements and gear, plus official news and patch notes",
+  "url": "https://na.finalfantasyxiv.com/lodestone/",
+  "category": "database",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en", "ja", "fr", "de"],
+  "tags": ["official", "character-search", "news", "achievements", "free-company"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/lodestone-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["gamerescape", "garland-tools"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Square Enix",
+    "url": "https://www.square-enix.com"
+  }
+}

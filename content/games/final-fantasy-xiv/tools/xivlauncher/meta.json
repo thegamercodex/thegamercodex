@@ -1,0 +1,30 @@
+{
+  "id": "xivlauncher",
+  "name": "XIVLauncher",
+  "shortName": "XL",
+  "taglineEs": "Launcher alternativo open-source con login auto, fix de instabilidades y acceso al ecosistema de plugins Dalamud — el estándar de facto fuera del launcher oficial",
+  "taglineEn": "Open-source alternative launcher with auto-login, stability fixes, and access to the Dalamud plugin ecosystem — the de facto standard outside the official launcher",
+  "url": "https://goatcorp.github.io/",
+  "category": "addons",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/goatcorp/FFXIVQuickLauncher",
+  "license": "GPL-3.0",
+  "platforms": ["windows", "macos", "linux"],
+  "languages": ["en", "fr", "de", "ja"],
+  "tags": ["launcher", "dalamud", "plugins", "qol", "auto-login", "open-source"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/xivlauncher-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["advanced-combat-tracker"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "goatcorp",
+    "url": "https://github.com/goatcorp"
+  }
+}

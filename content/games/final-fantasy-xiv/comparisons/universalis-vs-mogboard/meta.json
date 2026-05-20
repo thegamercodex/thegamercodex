@@ -1,0 +1,50 @@
+{
+  "id": "universalis-vs-mogboard",
+  "toolIds": ["universalis", "mogboard"],
+  "category": "market-board",
+  "depth": "short",
+  "lastVerified": "2026-05-19",
+  "titleEs": "Universalis vs Mogboard — qué market tracker usar",
+  "titleEn": "Universalis vs Mogboard — which market tracker to use",
+  "descriptionEs": "Ambos rastrean precios cross-world del market board crowdsourceando data de plugins Dalamud. Universalis es el dominante; Mogboard sigue activo como alternativa con menos pool.",
+  "descriptionEn": "Both track cross-world market board prices by crowdsourcing data from Dalamud plugins. Universalis is dominant; Mogboard remains active as an alternative with a smaller pool.",
+  "verdictEs": "Universalis para uso diario: data más fresca, API robusta e integración default con Teamcraft. Mogboard como backup cuando Universalis tiene downtime o si preferís su UI clásica.",
+  "verdictEn": "Universalis for daily use: fresher data, robust API, and default Teamcraft integration. Mogboard as backup when Universalis is down or if you prefer its classic UI.",
+  "useCases": [
+    {
+      "labelEs": "Data fresca en servers populares (NA/EU)",
+      "labelEn": "Fresh data on popular servers (NA/EU)",
+      "winner": "universalis",
+      "reasonEs": "Universalis tiene pool de uploaders más grande, lo que se traduce en data actualizada a minutos en servers grandes.",
+      "reasonEn": "Universalis has a bigger uploader pool, which means data fresh within minutes on large servers."
+    },
+    {
+      "labelEs": "Integración con Teamcraft y otros tools",
+      "labelEn": "Integration with Teamcraft and other tools",
+      "winner": "universalis",
+      "reasonEs": "Teamcraft y la mayoría de herramientas third-party consultan la API de Universalis por default. Mogboard no tiene esa adopción.",
+      "reasonEn": "Teamcraft and most third-party tools query the Universalis API by default. Mogboard doesn't have that adoption."
+    },
+    {
+      "labelEs": "Backup cuando una de las dos está caída",
+      "labelEn": "Backup when one of them is down",
+      "winner": "mogboard",
+      "reasonEs": "Cuando Universalis tiene downtime (raro pero ocurre), Mogboard suele estar arriba con data similar.",
+      "reasonEn": "When Universalis has downtime (rare but happens), Mogboard tends to be up with similar data."
+    },
+    {
+      "labelEs": "UI clásica menos saturada",
+      "labelEn": "Less cluttered classic UI",
+      "winner": "mogboard",
+      "reasonEs": "Mogboard tiene UI más sobria que algunos usuarios prefieren para queries simples sin overload de info.",
+      "reasonEn": "Mogboard has a more sober UI that some users prefer for simple queries without info overload."
+    },
+    {
+      "labelEs": "Cadencia de updates y features nuevos",
+      "labelEn": "Cadence of updates and new features",
+      "winner": "universalis",
+      "reasonEs": "Universalis tiene team más amplio y roadmap activo. Mogboard recibe maintenance pero menos features nuevos.",
+      "reasonEn": "Universalis has a broader team and an active roadmap. Mogboard gets maintenance but fewer new features."
+    }
+  ]
+}

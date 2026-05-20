@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-17
+> Última generación: 2026-05-19
 
 ## Resumen
 
-14 juegos · 219 tools · 70 creators · 72 categorías · 360 resources items · 45 comparisons
+15 juegos · 234 tools · 75 creators · 77 categorías · 385 resources items · 50 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -14,6 +14,7 @@
 | `cyberpunk-2077` | Cyberpunk 2077 | 15 | 5 | 5 | 25 | 0 |
 | `destiny-2` | Destiny 2 | 12 | 5 | 5 | 25 | 0 |
 | `dota-2` | Dota 2 | 13 | 5 | 5 | 25 | 0 |
+| `final-fantasy-xiv` | Final Fantasy XIV | 15 | 5 | 5 | 25 | 5 |
 | `genshin-impact` | Genshin Impact | 24 | 5 | 6 | 30 | 6 |
 | `league-of-legends` | League of Legends | 15 | 5 | 5 | 25 | 0 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 |
@@ -100,6 +101,21 @@
 - `ranked-improvement` — 5 items
 
 **Comparisons (0)**: _(none)_
+
+### Final Fantasy XIV (`final-fantasy-xiv`)
+
+**Tools (15)**: Advanced Combat Tracker (`advanced-combat-tracker`), Akhmorning (`akhmorning`), Eorzea Collection (`eorzea-collection`), Etro (`etro`), Final Fantasy Logs (`fflogs`), FFXIV Collect (`ffxivcollect`), Gamer Escape's FFXIV Wiki (`gamerescape`), Garland Tools (`garland-tools`), The Lodestone (`lodestone`), Mogboard (`mogboard`), FFXIV Teamcraft (`teamcraft`), The Balance (`the-balance`), Universalis (`universalis`), XIVAnalysis (`xivanalysis`), XIVLauncher (`xivlauncher`)
+
+**Creators (5)**: Hector Hectorson (`hector-hectorson`), Larryzaur (`larryzaur`), Mr Happy (`mrhappy`), MTQ Capture (`mtq-capture`), Zepla HQ (`zepla`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `crafting-economy` — 5 items
+- `job-guides` — 5 items
+- `patch-coverage` — 5 items
+- `raid-guides` — 5 items
+
+**Comparisons (5)**: `eorzea-collection-vs-ffxivcollect` (short), `fflogs-vs-xivanalysis` (flagship), `garland-tools-vs-gamerescape` (short), `the-balance-vs-akhmorning` (short), `universalis-vs-mogboard` (short)
 
 ### Genshin Impact (`genshin-impact`)
 

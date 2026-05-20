@@ -1,0 +1,54 @@
+{
+  "id": "larryzaur",
+  "name": "Larryzaur",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2015,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@larryzaur",
+      "url": "https://www.youtube.com/@larryzaur",
+      "channelId": "UCQjKMGUEzBmEHltb1OIMLUg",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "larryzaur",
+      "url": "https://www.twitch.tv/larryzaur"
+    },
+    {
+      "type": "twitter",
+      "handle": "@larryzaur",
+      "url": "https://twitter.com/larryzaur"
+    }
+  ],
+  "specialties": [
+    "job-guides",
+    "patch-coverage",
+    "comedy",
+    "msq-reaction"
+  ],
+  "games": ["final-fantasy-xiv"],
+  "contentTypes": ["videos", "live-streams", "comedy"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Larryzaur combina job guides serias con humor y reacciones cómicas que lo hacen distintivo en el space. Sus job overviews de patches recientes son rápidas, bien editadas y memorable — el contraste con la severity de The Balance los hace accesibles a casual y mid-core players. También cubre patch updates, datamined content y newcomer guides con personalidad. Variety streaming en Twitch complementa.",
+  "noteEn": "Larryzaur combines serious job guides with humor and comedic reactions that make him distinctive in the space. His job overviews for recent patches are quick, well-edited, and memorable — the contrast with The Balance's seriousness makes them accessible to casual and mid-core players. Also covers patch updates, datamined content, and newcomer guides with personality. Variety streaming on Twitch complements.",
+  "highlightsEs": [
+    "Job overviews entretenidos y bien editados para cada patch",
+    "Contraste entre serious theorycraft y humor lo hace distintivo",
+    "Newcomer guides accesibles para players nuevos",
+    "Patch update recaps con personalidad",
+    "Twitch streams regular con variety content y community engagement"
+  ],
+  "highlightsEn": [
+    "Entertaining and well-edited job overviews for every patch",
+    "Contrast between serious theorycraft and humor makes him distinctive",
+    "Accessible newcomer guides for new players",
+    "Patch update recaps with personality",
+    "Regular Twitch streams with variety content and community engagement"
+  ],
+  "avatar": "/images/creators/larryzaur-avatar.jpg",
+  "banner": "/images/creators/larryzaur-banner.jpg"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "mogboard",
+  "name": "Mogboard",
+  "shortName": "Mogboard",
+  "taglineEs": "Frontend alternativo del market board cross-world basado en XIVAPI: precios, ventas e items con UI clásica y experiencia más liviana que Universalis",
+  "taglineEn": "Alternative cross-world market board frontend powered by XIVAPI: prices, sales, and items with a classic UI and lighter UX than Universalis",
+  "url": "https://mogboard.com",
+  "category": "market-board",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/xivapi/mogboard",
+  "license": "AGPL-3.0",
+  "platforms": ["web"],
+  "languages": ["en", "fr", "de", "ja"],
+  "tags": ["market-board", "prices", "cross-world", "xivapi", "open-source"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/mogboard-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["universalis"],
+  "alternatives": ["universalis"],
+  "createdBy": {
+    "name": "Vekien (XIVAPI)",
+    "url": "https://xivapi.com"
+  }
+}

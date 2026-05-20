@@ -1,0 +1,50 @@
+{
+  "id": "fflogs-vs-xivanalysis",
+  "toolIds": ["fflogs", "xivanalysis"],
+  "category": "parsers",
+  "depth": "flagship",
+  "lastVerified": "2026-05-19",
+  "titleEs": "FFLogs vs XIVAnalysis — cuál parser usar y para qué",
+  "titleEn": "FFLogs vs XIVAnalysis — which parser to use and for what",
+  "descriptionEs": "FFLogs es el repositorio público de logs con rankings cross-server; XIVAnalysis es el analizador automático que toma esos logs y te dice qué hiciste mal. Comparativa por casos de uso.",
+  "descriptionEn": "FFLogs is the public log repository with cross-server rankings; XIVAnalysis is the auto-analyzer that takes those logs and tells you what you did wrong. Use-case comparison.",
+  "verdictEs": "FFLogs para rankings, scout de aplicantes y comparativa cross-server. XIVAnalysis para feedback accionable en lenguaje plano sobre tu propio log. Los dos se usan juntos en la práctica: FFLogs aloja, XIVAnalysis interpreta.",
+  "verdictEn": "FFLogs for rankings, applicant scouting, and cross-server comparison. XIVAnalysis for actionable plain-language feedback on your own log. The two are used together in practice: FFLogs hosts, XIVAnalysis interprets.",
+  "useCases": [
+    {
+      "labelEs": "Ranking percentil de tu parse vs el mundo",
+      "labelEn": "Percentile rank of your parse vs the world",
+      "winner": "fflogs",
+      "reasonEs": "FFLogs es el archivo cross-server con rankings actualizados al día por job y boss. XIVAnalysis no hace rankings, solo análisis individual.",
+      "reasonEn": "FFLogs is the cross-server archive with up-to-date rankings per job and boss. XIVAnalysis doesn't do rankings, only individual analysis."
+    },
+    {
+      "labelEs": "Detectar errores de rotación en tu pull",
+      "labelEn": "Detect rotation errors in your pull",
+      "winner": "xivanalysis",
+      "reasonEs": "XIVAnalysis identifica automáticamente oGCDs sin usar, buff windows perdidos y violations comunes de la rotación canónica del job, con suggestions priorizadas.",
+      "reasonEn": "XIVAnalysis automatically detects unused oGCDs, missed buff windows, and common violations of the job's canonical rotation, with prioritized suggestions."
+    },
+    {
+      "labelEs": "Scout de aplicantes para tu static",
+      "labelEn": "Scouting applicants for your static",
+      "winner": "fflogs",
+      "reasonEs": "FFLogs muestra el historial público de parses del aplicante por job, achievements y consistency. XIVAnalysis solo analiza logs individuales, no perfiles.",
+      "reasonEn": "FFLogs shows the applicant's public parse history per job, achievements, and consistency. XIVAnalysis only analyzes individual logs, not profiles."
+    },
+    {
+      "labelEs": "Improving sin tener que ser theorycrafter",
+      "labelEn": "Improving without becoming a theorycrafter",
+      "winner": "xivanalysis",
+      "reasonEs": "XIVAnalysis te dice en lenguaje humano qué hiciste mal con severity sortado. FFLogs raw requiere que vos interpretes timelines, casts y buffs manualmente.",
+      "reasonEn": "XIVAnalysis tells you in plain English what you did wrong, sorted by severity. Raw FFLogs requires you to interpret timelines, casts, and buffs manually."
+    },
+    {
+      "labelEs": "Análisis de buff alignment cross-party",
+      "labelEn": "Cross-party buff alignment analysis",
+      "winner": "fflogs",
+      "reasonEs": "FFLogs muestra la timeline completa con buffs de party visibles en el cast sequence. XIVAnalysis se enfoca por player y no muestra alignment cruzado a la misma profundidad.",
+      "reasonEn": "FFLogs shows the full timeline with party buffs visible in the cast sequence. XIVAnalysis focuses per player and doesn't show cross-party alignment at the same depth."
+    }
+  ]
+}

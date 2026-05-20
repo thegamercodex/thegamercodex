@@ -444,9 +444,10 @@ Después de escribir todos los .md y meta.json, correr el grep de `docs/RULES.md
 
 1. **Build**: `PATH="/Users/gersoncarcamo/.nvm/versions/node/v22.22.2/bin:$PATH" npx next build` debe pasar sin errores. Si falla, fixear y reportar.
 2. **Inventory**: `npm run inventory` para regenerar `docs/CONTENT_INVENTORY.md` con los nuevos counts.
-3. **`docs/SCHEMA_EVOLUTION.md`** — agregar entrada **solo si modificaste un type o schema**. No deberías; la mayoría de juegos cabe en el schema actual.
-4. **NO commit ni push.** El usuario revisa primero.
-5. **Reporte final** (en chat, no en archivo): tabla concisa con:
+3. **Lint español neutro**: correr el grep de `docs/RULES.md → "Español neutro"` sobre `content/games/<game-id>/`. Cualquier match bloquea el cierre — fixear con perl `-CSD` (BSD sed no respeta `\b` con caracteres acentuados).
+4. **`docs/SCHEMA_EVOLUTION.md`** — agregar entrada **solo si modificaste un type o schema**. No deberías; la mayoría de juegos cabe en el schema actual.
+5. **NO commit ni push.** El usuario revisa primero.
+6. **Reporte final** (en chat, no en archivo): tabla concisa con:
    - Tools agregadas (cuántas / cuáles / si quedó alguna por debajo del target y por qué)
    - Logos de tools: cuántos OK / cuántos SKIP (sin logo descargable; queda fallback a inicial)
    - Creators agregados (5 / cuáles / channelIds verificados / avatares descargados ok)
@@ -454,6 +455,15 @@ Después de escribir todos los .md y meta.json, correr el grep de `docs/RULES.md
    - Comparisons agregadas (cuántas, qué pares, depth de cada una)
    - News page activa (auto-derive de Steam o `newsFeeds[]` agregado)
    - Cualquier cosa que **no** se pudo cerrar y por qué
+
+## Post-merge a main (sólo cuando el usuario confirma el merge)
+
+Después de mergear a `main` y verificar deploy en thegamercodex.com, agregar al mensaje de cierre **dos links clickeables** para acelerar indexing de Google (per `docs/RULES.md → "Indexing post-merge a main"`):
+
+1. **Game hub URL**: `https://thegamercodex.com/en/<game-id>`
+2. **GSC inspect prellenado**: `https://search.google.com/search-console/inspect?resource_id=sc-domain%3Athegamercodex.com&id=https%3A%2F%2Fthegamercodex.com%2Fen%2F<game-id>` (URL-encodear el hub URL en el parámetro `id`)
+
+El usuario abre el GSC link, hace login si hace falta, y clickea "Request indexing". Con un submit del hub Google crawlea recursivamente tools/comparisons/resources del game. No submitir cada URL individual.
 
 ---
 

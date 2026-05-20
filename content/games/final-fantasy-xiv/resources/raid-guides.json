@@ -1,0 +1,80 @@
+{
+  "category": "raid-guides",
+  "resources": [
+    {
+      "id": "hector-m12s-phase-2-2026",
+      "type": "video",
+      "title": "M12S Phase 2 Guide - AAC Heavyweight M4 Savage (Lindwurm)",
+      "creator": "Hector Hectorson",
+      "creatorId": "hector-hectorson",
+      "url": "https://www.youtube.com/watch?v=Ey--4oQS6KI",
+      "youtubeId": "Ey--4oQS6KI",
+      "language": "en",
+      "duration": "34:20",
+      "publishedDate": "2026-02-01",
+      "thumbnail": "https://i.ytimg.com/vi/Ey--4oQS6KI/maxresdefault.jpg",
+      "noteEs": "Guide profundo de la phase 2 de M12S (Lindwurm) — el final fight del Arcadion Heavyweight Savage tier. Hector explica cada mecánica con context y discusión de strats alternativas.",
+      "noteEn": "Deep guide for M12S Phase 2 (Lindwurm) — the final fight of the Arcadion Heavyweight Savage tier. Hector explains each mechanic with context and discussion of alternative strats."
+    },
+    {
+      "id": "hector-m9s-guide-2026",
+      "type": "video",
+      "title": "M9S Guide - AAC Heavyweight M1 Savage (Vamp Fatale)",
+      "creator": "Hector Hectorson",
+      "creatorId": "hector-hectorson",
+      "url": "https://www.youtube.com/watch?v=cR3wuG8VQ0o",
+      "youtubeId": "cR3wuG8VQ0o",
+      "language": "en",
+      "duration": "14:37",
+      "publishedDate": "2026-01-07",
+      "thumbnail": "https://i.ytimg.com/vi/cR3wuG8VQ0o/maxresdefault.jpg",
+      "noteEs": "Walkthrough completo del primer boss del Arcadion Heavyweight tier. Mecánicas, posicionamientos y strats actuales por party comp.",
+      "noteEn": "Full walkthrough of the Arcadion Heavyweight tier's first boss. Mechanics, positioning, and current strats by party comp."
+    },
+    {
+      "id": "hector-unmaking-extreme-2026",
+      "type": "video",
+      "title": "The Unmaking Extreme Guide",
+      "creator": "Hector Hectorson",
+      "creatorId": "hector-hectorson",
+      "url": "https://www.youtube.com/watch?v=cA_WHJyXzyE",
+      "youtubeId": "cA_WHJyXzyE",
+      "language": "en",
+      "duration": "17:36",
+      "publishedDate": "2026-04-29",
+      "thumbnail": "https://i.ytimg.com/vi/cA_WHJyXzyE/maxresdefault.jpg",
+      "noteEs": "Guide del Extreme trial pre-Evercold. Mecánicas, party setup y tips de prog para players que recién entran a Extreme content.",
+      "noteEn": "Pre-Evercold Extreme trial guide. Mechanics, party setup, and prog tips for players just entering Extreme content."
+    },
+    {
+      "id": "mtq-arcadion-m8n-2025",
+      "type": "video",
+      "title": "The Arcadion - M8N Raid Guide (FFXIV Dawntrail)",
+      "creator": "MTQcapture",
+      "creatorId": "mtq-capture",
+      "url": "https://www.youtube.com/watch?v=uTKtC0e5I7k",
+      "youtubeId": "uTKtC0e5I7k",
+      "language": "en",
+      "duration": "5:02",
+      "publishedDate": "2025-03-26",
+      "thumbnail": "https://i.ytimg.com/vi/uTKtC0e5I7k/maxresdefault.jpg",
+      "noteEs": "Walkthrough visual minimalista de M8N (Normal). MTQ usa top-down overlays para mostrar positioning exacto sin commentary verbal — perfecto para revisión rápida pre-raid.",
+      "noteEn": "Minimalist visual walkthrough of M8N (Normal). MTQ uses top-down overlays to show exact positioning without verbal commentary — perfect for quick pre-raid review."
+    },
+    {
+      "id": "mtq-arcadion-m7n-2025",
+      "type": "video",
+      "title": "The Arcadion - M7N Raid Guide (FFXIV Dawntrail)",
+      "creator": "MTQcapture",
+      "creatorId": "mtq-capture",
+      "url": "https://www.youtube.com/watch?v=QdHhenEiQ9A",
+      "youtubeId": "QdHhenEiQ9A",
+      "language": "en",
+      "duration": "3:39",
+      "publishedDate": "2025-03-26",
+      "thumbnail": "https://i.ytimg.com/vi/QdHhenEiQ9A/maxresdefault.jpg",
+      "noteEs": "M7N Normal walkthrough en formato visual ultra-corto. Ideal para verificar mecánicas rápido antes de entrar al boss.",
+      "noteEn": "M7N Normal walkthrough in ultra-short visual format. Ideal for quickly checking mechanics before entering the boss."
+    }
+  ]
+}

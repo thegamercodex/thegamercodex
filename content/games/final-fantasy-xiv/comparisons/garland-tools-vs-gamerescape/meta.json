@@ -1,0 +1,50 @@
+{
+  "id": "garland-tools-vs-gamerescape",
+  "toolIds": ["garland-tools", "gamerescape"],
+  "category": "database",
+  "depth": "short",
+  "lastVerified": "2026-05-19",
+  "titleEs": "Garland Tools vs Gamerescape — database técnico o wiki narrativo",
+  "titleEn": "Garland Tools vs Gamerescape — technical database or narrative wiki",
+  "descriptionEs": "Garland Tools es una database con filtros granulares para items, recipes y gathering. Gamerescape es un wiki con walkthroughs, lore y context narrativo. Resuelven preguntas distintas.",
+  "descriptionEn": "Garland Tools is a database with granular filters for items, recipes, and gathering. Gamerescape is a wiki with walkthroughs, lore, and narrative context. They answer different questions.",
+  "verdictEs": "Garland Tools para queries técnicas (¿dónde está este mat?, ¿qué dropea este mob?). Gamerescape para preguntas narrativas (¿cómo se hace esta quest?, ¿qué es la historia de este NPC?). Cero solapamiento real.",
+  "verdictEn": "Garland Tools for technical queries (where is this mat?, what does this mob drop?). Gamerescape for narrative questions (how do I do this quest?, what's this NPC's story?). Almost zero real overlap.",
+  "useCases": [
+    {
+      "labelEs": "Encontrar gathering nodes con coords y timing",
+      "labelEn": "Find gathering nodes with coords and timing",
+      "winner": "garland-tools",
+      "reasonEs": "Garland tiene filtros por job, zone y window de spawn. Gamerescape menciona nodos pero sin filtros queryables.",
+      "reasonEn": "Garland has filters by job, zone, and spawn window. Gamerescape mentions nodes but without queryable filters."
+    },
+    {
+      "labelEs": "Walkthrough paso-a-paso de una quest stuck",
+      "labelEn": "Step-by-step walkthrough of a stuck quest",
+      "winner": "gamerescape",
+      "reasonEs": "Gamerescape tiene páginas dedicadas por quest con prerequisites, rewards y pasos detallados. Garland es database, no walkthrough.",
+      "reasonEn": "Gamerescape has dedicated per-quest pages with prerequisites, rewards, and detailed steps. Garland is a database, not a walkthrough."
+    },
+    {
+      "labelEs": "Recipe trees recursivos para crafting endgame",
+      "labelEn": "Recursive recipe trees for endgame crafting",
+      "winner": "garland-tools",
+      "reasonEs": "Garland expande recipes a todos los mats raíz con cantidades. Gamerescape lista ingredients de la receta pero sin expansión recursiva navegable.",
+      "reasonEn": "Garland expands recipes to all root mats with quantities. Gamerescape lists the recipe's ingredients but without navigable recursive expansion."
+    },
+    {
+      "labelEs": "Lore deep dive sobre primal, beast tribe o región",
+      "labelEn": "Lore deep dive on a primal, beast tribe, or region",
+      "winner": "gamerescape",
+      "reasonEs": "Gamerescape tiene páginas extensas con historia, apariciones cross-expansion y context narrativo. Garland no tiene lore content.",
+      "reasonEn": "Gamerescape has extensive pages with history, cross-expansion appearances, and narrative context. Garland has no lore content."
+    },
+    {
+      "labelEs": "Buscar fish específico con bait y weather",
+      "labelEn": "Find a specific fish with bait and weather",
+      "winner": "garland-tools",
+      "reasonEs": "Garland tiene logs de fishing con filtros por zone, bait, weather y time-of-day. Gamerescape documenta fish pero sin filtros queryables.",
+      "reasonEn": "Garland has fishing logs with filters by zone, bait, weather, and time-of-day. Gamerescape documents fish but without queryable filters."
+    }
+  ]
+}

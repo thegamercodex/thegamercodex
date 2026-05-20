@@ -1,0 +1,153 @@
+{
+  "id": "final-fantasy-xiv",
+  "name": "Final Fantasy XIV",
+  "shortName": "FFXIV",
+  "developer": "Square Enix",
+  "releaseYear": 2013,
+  "officialUrl": "https://www.finalfantasyxiv.com",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/",
+      "appId": "39210",
+      "model": "subscription"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10000158",
+      "model": "subscription"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/store/final-fantasy-xiv-online/9PCC0XGGFCMS",
+      "model": "subscription"
+    }
+  ],
+  "monetization": {
+    "model": "subscription",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["subscription", "expansions", "cosmetics", "mounts", "minions", "services"],
+    "payToWin": false,
+    "noteEs": "Modelo de suscripción mensual ($12.99-$14.99 USD según plan) que da acceso completo al juego. El juego base + expansiones (excepto la más reciente) se compran como Complete Edition (~$60 USD). Cada expansión nueva se vende aparte por ~$40 USD. El Mog Station vende mounts, minions, glamour gear y servicios (cambio de servidor, fantasia, retainer extra) puramente cosméticos. Sin ventaja de poder comprable: el gear se obtiene jugando contenido. La Free Trial es ilimitada en tiempo y permite jugar hasta el final de Stormblood sin pagar nada.",
+    "noteEn": "Monthly subscription model ($12.99-$14.99 USD depending on plan) for full game access. The base game + expansions (excluding the most recent) are sold as the Complete Edition (~$60 USD). Each new expansion is sold separately for ~$40 USD. The Mog Station sells mounts, minions, glamour gear, and services (server transfer, fantasia, extra retainer) — all purely cosmetic. No buyable power: gear comes from playing content. The Free Trial is unlimited in time and lets you play through the end of Stormblood for free."
+  },
+  "platforms": ["windows", "macos", "playstation", "xbox"],
+  "genres": ["mmorpg", "fantasy", "raid-pve"],
+  "theme": {
+    "primary": "#2c4a7a",
+    "secondary": "#1a2a44",
+    "accent": "#d4ad5b",
+    "background": "#080f1c",
+    "text": "#ecdcb0"
+  },
+  "logo": "/images/games/final-fantasy-xiv-logo.png",
+  "heroImage": "/images/games/final-fantasy-xiv-hero.webp",
+  "toolCategories": [
+    {
+      "id": "parsers",
+      "nameEs": "Parsers y análisis de combate",
+      "nameEn": "Combat parsers & analysis",
+      "descriptionEs": "Logs de combate, métricas de DPS/HPS y análisis frame por frame de raids y dungeons.",
+      "descriptionEn": "Combat logs, DPS/HPS metrics, and frame-by-frame analysis of raids and dungeons.",
+      "icon": "📊"
+    },
+    {
+      "id": "gear-planning",
+      "nameEs": "Planificación de gear y BiS",
+      "nameEn": "Gear planning & BiS",
+      "descriptionEs": "Builders de Best-in-Slot con melding óptimo, materia y comparativas de stats por job y tier.",
+      "descriptionEn": "Best-in-Slot builders with optimal melding, materia, and stat comparisons per job and tier.",
+      "icon": "🛡️"
+    },
+    {
+      "id": "database",
+      "nameEs": "Databases y referencia",
+      "nameEn": "Databases & reference",
+      "descriptionEs": "Wikis, bases de datos de items, NPCs, recetas y enciclopedias del lore de Eorzea.",
+      "descriptionEn": "Wikis, databases of items, NPCs, recipes, and encyclopedias of Eorzea's lore.",
+      "icon": "📚"
+    },
+    {
+      "id": "crafting-gathering",
+      "nameEs": "Crafting y gathering",
+      "nameEn": "Crafting & gathering",
+      "descriptionEs": "Optimizadores de rotación para Disciples of the Hand y Land, listas de mats y nodos.",
+      "descriptionEn": "Rotation optimizers for Disciples of the Hand and Land, materials lists, and gathering nodes.",
+      "icon": "🔨"
+    },
+    {
+      "id": "market-board",
+      "nameEs": "Market board y economía",
+      "nameEn": "Market board & economy",
+      "descriptionEs": "Trackers de precios crowdsourced del market board cross-world, análisis de flips y profit.",
+      "descriptionEn": "Crowdsourced market board price trackers cross-world, flip analysis, and profit optimization.",
+      "icon": "💰"
+    },
+    {
+      "id": "addons",
+      "nameEs": "Launchers y plugins",
+      "nameEn": "Launchers & plugins",
+      "descriptionEs": "Launchers alternativos con ecosistema de plugins (Dalamud) para QoL, UI mods y overlays.",
+      "descriptionEn": "Alternative launchers with plugin ecosystem (Dalamud) for QoL, UI mods, and overlays.",
+      "icon": "🧩"
+    },
+    {
+      "id": "guides",
+      "nameEs": "Guías y theorycraft",
+      "nameEn": "Guides & theorycraft",
+      "descriptionEs": "Theorycraft profundo por job, guías de raid y dungeon, comunidades de coaching y discusión.",
+      "descriptionEn": "Deep job theorycraft, raid and dungeon guides, coaching and discussion communities.",
+      "icon": "📖"
+    },
+    {
+      "id": "collection-tracking",
+      "nameEs": "Glamour y collection",
+      "nameEn": "Glamour & collection",
+      "descriptionEs": "Catálogos de glamour, mounts, minions, achievements y tracking de progreso de colección.",
+      "descriptionEn": "Glamour catalogs, mounts, minions, achievements, and collection progress tracking.",
+      "icon": "✨"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para principiantes",
+      "nameEn": "Beginner guides",
+      "descriptionEs": "Recursos para nuevos jugadores: Free Trial, primer job, MSQ tips y onboarding general.",
+      "descriptionEn": "Resources for new players: Free Trial, first job, MSQ tips, and general onboarding.",
+      "icon": "🎓"
+    },
+    {
+      "id": "job-guides",
+      "nameEs": "Guías de job",
+      "nameEn": "Job guides",
+      "descriptionEs": "Rotaciones, openers y theorycraft por job en formato video o artículo del patch actual.",
+      "descriptionEn": "Rotations, openers, and theorycraft per job in video or article format for the current patch.",
+      "icon": "⚔️"
+    },
+    {
+      "id": "raid-guides",
+      "nameEs": "Guías de raid y savage",
+      "nameEn": "Raid & savage guides",
+      "descriptionEs": "Walkthroughs de Savage y Ultimate: mecánicas, strats por rol y timing de buffs.",
+      "descriptionEn": "Savage and Ultimate walkthroughs: mechanics, role-specific strats, and buff timing.",
+      "icon": "🐉"
+    },
+    {
+      "id": "crafting-economy",
+      "nameEs": "Crafting y economía",
+      "nameEn": "Crafting & economy",
+      "descriptionEs": "Rotaciones de crafting endgame, guías de gathering, market flips y goldmaking por patch.",
+      "descriptionEn": "Endgame crafting rotations, gathering guides, market flips, and patch-by-patch goldmaking.",
+      "icon": "🪙"
+    },
+    {
+      "id": "patch-coverage",
+      "nameEs": "Cobertura de patches",
+      "nameEn": "Patch coverage",
+      "descriptionEs": "Análisis de patch notes, Live Letter recaps, datamined content y previews de expansiones.",
+      "descriptionEn": "Patch notes analysis, Live Letter recaps, datamined content, and expansion previews.",
+      "icon": "📋"
+    }
+  ]
+}

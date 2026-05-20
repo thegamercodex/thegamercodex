@@ -1,0 +1,29 @@
+{
+  "id": "akhmorning",
+  "name": "Akhmorning",
+  "shortName": "Akhmorning",
+  "taglineEs": "Referencia de theorycraft profundo: fórmulas, stat tiers, breakpoints de speed y damage formulas job por job derivados con math, no con hand-waving",
+  "taglineEn": "Deep theorycraft reference: formulas, stat tiers, speed breakpoints, and per-job damage formulas derived with math, not hand-waving",
+  "url": "https://www.akhmorning.com",
+  "category": "guides",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["theorycraft", "math", "formulas", "stat-tiers", "job-mechanics"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/akhmorning-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["the-balance", "fflogs"],
+  "alternatives": ["the-balance"],
+  "createdBy": {
+    "name": "Akhmorning contributors",
+    "url": "https://www.akhmorning.com"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fflogs",
+  "name": "Final Fantasy Logs",
+  "shortName": "FFLogs",
+  "taglineEs": "El parser dominante de FFXIV: subir tu log de combate, ver rankings cross-world por job y boss, y comparar parses pull a pull contra los mejores del mundo",
+  "taglineEn": "The dominant FFXIV parser: upload your combat log, see cross-world rankings by job and boss, and compare parses pull-by-pull against the world's best",
+  "url": "https://www.fflogs.com",
+  "category": "parsers",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["parser", "raid-logs", "rankings", "savage", "ultimate", "premium-available"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/fflogs-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["xivanalysis", "advanced-combat-tracker"],
+  "alternatives": ["xivanalysis"],
+  "createdBy": {
+    "name": "Kihra (Warcraft Logs LLC)",
+    "url": "https://www.warcraftlogs.com/help/about"
+  }
+}

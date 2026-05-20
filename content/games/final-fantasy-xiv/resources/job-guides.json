@@ -1,0 +1,80 @@
+{
+  "category": "job-guides",
+  "resources": [
+    {
+      "id": "cole-evyx-scholar-evolved-2026",
+      "type": "video",
+      "title": "Scholar EVOLVED Breakdown",
+      "creator": "Cole Evyx",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=O4hF8xL5z-0",
+      "youtubeId": "O4hF8xL5z-0",
+      "language": "en",
+      "duration": "18:56",
+      "publishedDate": "2026-05-08",
+      "thumbnail": "https://i.ytimg.com/vi/O4hF8xL5z-0/maxresdefault.jpg",
+      "noteEs": "Breakdown completo de los cambios de Scholar en Evercold: nuevas abilities, ajustes a fairy y healing flow. Esencial para SCH mains preparándose para el patch.",
+      "noteEn": "Full breakdown of Scholar's Evercold changes: new abilities, fairy adjustments, and healing flow. Essential for SCH mains gearing up for the patch."
+    },
+    {
+      "id": "cole-evyx-white-mage-evolved-2026",
+      "type": "video",
+      "title": "White Mage Evolved BACKWARDS",
+      "creator": "Cole Evyx",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=v4gWRmAJdaQ",
+      "youtubeId": "v4gWRmAJdaQ",
+      "language": "en",
+      "duration": "9:58",
+      "publishedDate": "2026-04-29",
+      "thumbnail": "https://i.ytimg.com/vi/v4gWRmAJdaQ/maxresdefault.jpg",
+      "noteEs": "Crítica honest a la dirección de White Mage en Evercold. Cole identifica por qué algunos cambios son regresivos vs lo que la comunidad pedía. Útil para WHM mains que sienten que algo no encaja.",
+      "noteEn": "Honest critique of White Mage's direction in Evercold. Cole identifies why some changes feel regressive vs what the community was asking for. Useful for WHM mains who feel something is off."
+    },
+    {
+      "id": "cole-evyx-paladin-evolved-abilities-2026",
+      "type": "video",
+      "title": "Paladin EVOLVED Abilities [FFXIV Evercold]",
+      "creator": "Cole Evyx",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=lcmfoESuN6g",
+      "youtubeId": "lcmfoESuN6g",
+      "language": "en",
+      "duration": "4:32",
+      "publishedDate": "2026-04-25",
+      "thumbnail": "https://i.ytimg.com/vi/lcmfoESuN6g/maxresdefault.jpg",
+      "noteEs": "Resumen rápido de los new abilities de Paladin en Evercold. Formato corto y directo para tanks que necesitan el TL;DR del kit nuevo antes del patch.",
+      "noteEn": "Quick rundown of Paladin's new Evercold abilities. Short, direct format for tanks who need the TL;DR of the new kit before the patch."
+    },
+    {
+      "id": "larryzaur-red-mage-paradox-dawntrail",
+      "type": "video",
+      "title": "The Red Mage Paradox | FFXIV Dawntrail",
+      "creator": "Larryzaur",
+      "creatorId": "larryzaur",
+      "url": "https://www.youtube.com/watch?v=NanKSWdAmhs",
+      "youtubeId": "NanKSWdAmhs",
+      "language": "en",
+      "duration": "9:32",
+      "publishedDate": "2024-09-03",
+      "thumbnail": "https://i.ytimg.com/vi/NanKSWdAmhs/maxresdefault.jpg",
+      "noteEs": "Análisis del estado de Red Mage en Dawntrail: design philosophy, comparación vs caster mains y por qué RDM siente lo que siente. Útil para entender el debate de identidad del job.",
+      "noteEn": "Analysis of Red Mage's state in Dawntrail: design philosophy, comparison vs caster mains, and why RDM feels the way it does. Useful for understanding the job's identity debate."
+    },
+    {
+      "id": "larryzaur-level-100-black-mage-dawntrail",
+      "type": "video",
+      "title": "Level 100 Black Mage | FFXIV",
+      "creator": "Larryzaur",
+      "creatorId": "larryzaur",
+      "url": "https://www.youtube.com/watch?v=bege88ZDYlI",
+      "youtubeId": "bege88ZDYlI",
+      "language": "en",
+      "duration": "20:01",
+      "publishedDate": "2024-07-29",
+      "thumbnail": "https://i.ytimg.com/vi/bege88ZDYlI/maxresdefault.jpg",
+      "noteEs": "Guide completa de Black Mage a level 100 en Dawntrail: rotación, opener, burst windows y ejemplos en play. Punto de referencia común para BLM mains.",
+      "noteEn": "Complete level 100 Black Mage guide in Dawntrail: rotation, opener, burst windows, and gameplay examples. Common reference point for BLM mains."
+    }
+  ]
+}

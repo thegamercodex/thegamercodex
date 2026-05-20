@@ -1,0 +1,30 @@
+{
+  "id": "xivanalysis",
+  "name": "XIVAnalysis",
+  "shortName": "XIVAnalysis",
+  "taglineEs": "Analizador automático de logs de FFLogs que sugiere fixes concretos de rotación, alineación de buffs y cooldowns olvidados job por job",
+  "taglineEn": "Automated FFLogs analyzer that suggests concrete fixes for rotation, buff alignment, and missed cooldowns on a per-job basis",
+  "url": "https://xivanalysis.com",
+  "category": "parsers",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/xivanalysis/xivanalysis",
+  "license": "AGPL-3.0",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["log-analysis", "rotation-feedback", "savage", "ultimate", "open-source"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/xivanalysis-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["fflogs", "advanced-combat-tracker"],
+  "alternatives": ["fflogs"],
+  "createdBy": {
+    "name": "XIVAnalysis contributors",
+    "url": "https://github.com/xivanalysis/xivanalysis"
+  }
+}
