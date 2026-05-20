@@ -1,0 +1,50 @@
+{
+  "id": "eorzea-collection-vs-ffxivcollect",
+  "toolIds": ["eorzea-collection", "ffxivcollect"],
+  "category": "collection-tracking",
+  "depth": "short",
+  "lastVerified": "2026-05-19",
+  "titleEs": "Eorzea Collection vs FFXIV Collect — inspiración o tracking",
+  "titleEn": "Eorzea Collection vs FFXIV Collect — inspiration or tracking",
+  "descriptionEs": "Eorzea Collection es el catálogo visual de glamour builds creados por la comunidad. FFXIV Collect es el tracker de tu collection personal. Diferentes problemas, mismo space.",
+  "descriptionEn": "Eorzea Collection is the visual catalog of community-created glamour builds. FFXIV Collect is the personal collection tracker. Different problems, same space.",
+  "verdictEs": "Eorzea Collection para inspiración de glamour y discovery de combinaciones. FFXIV Collect para accounting de qué mounts/minions/achievements tienes y qué te falta. Complementarios.",
+  "verdictEn": "Eorzea Collection for glamour inspiration and discovering combinations. FFXIV Collect for accounting of which mounts/minions/achievements you have and what's missing. Complementary.",
+  "useCases": [
+    {
+      "labelEs": "Browse glamour builds con screenshots",
+      "labelEn": "Browse glamour builds with screenshots",
+      "winner": "eorzea-collection",
+      "reasonEs": "Eorzea Collection es un catalogue visual con miles de builds curados por users. FFXIV Collect no muestra builds, solo trackea collection.",
+      "reasonEn": "Eorzea Collection is a visual catalog with thousands of user-curated builds. FFXIV Collect doesn't show builds, only tracks collection."
+    },
+    {
+      "labelEs": "Tracking de completion personal de mounts/minions",
+      "labelEn": "Personal mount/minion completion tracking",
+      "winner": "ffxivcollect",
+      "reasonEs": "FFXIV Collect cruza tu Lodestone con el master list y te dice porcentaje y items faltantes. Eorzea Collection no integra con tu char.",
+      "reasonEn": "FFXIV Collect crosses your Lodestone with the master list and tells you percentage and missing items. Eorzea Collection doesn't integrate with your char."
+    },
+    {
+      "labelEs": "Comparar tu progreso con amigos",
+      "labelEn": "Compare your progress with friends",
+      "winner": "ffxivcollect",
+      "reasonEs": "FFXIV Collect permite linkear chars y ver collection side-by-side. Eorzea Collection no tiene esa funcionalidad.",
+      "reasonEn": "FFXIV Collect lets you link chars and see collection side-by-side. Eorzea Collection has no such functionality."
+    },
+    {
+      "labelEs": "Encontrar inspiración para tu próximo glamour",
+      "labelEn": "Find inspiration for your next glamour",
+      "winner": "eorzea-collection",
+      "reasonEs": "Eorzea Collection es donde la fashion community publica builds curated. FFXIV Collect es accounting tool, no discovery.",
+      "reasonEn": "Eorzea Collection is where the fashion community publishes curated builds. FFXIV Collect is an accounting tool, not discovery."
+    },
+    {
+      "labelEs": "Listar achievements pending con source de cada uno",
+      "labelEn": "List pending achievements with their source",
+      "winner": "ffxivcollect",
+      "reasonEs": "FFXIV Collect filtra por 'not owned' y muestra cómo obtener cada item. Eorzea Collection no maneja achievements.",
+      "reasonEn": "FFXIV Collect filters by 'not owned' and shows how to get each item. Eorzea Collection doesn't handle achievements."
+    }
+  ]
+}

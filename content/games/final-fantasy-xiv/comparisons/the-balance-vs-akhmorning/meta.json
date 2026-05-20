@@ -1,0 +1,50 @@
+{
+  "id": "the-balance-vs-akhmorning",
+  "toolIds": ["the-balance", "akhmorning"],
+  "category": "guides",
+  "depth": "short",
+  "lastVerified": "2026-05-19",
+  "titleEs": "The Balance vs Akhmorning — guides aplicadas o teorycraft puro",
+  "titleEn": "The Balance vs Akhmorning — applied guides or pure theorycraft",
+  "descriptionEs": "The Balance es la comunidad activa donde el theorycraft se vuelve opener canónico; Akhmorning es el archivo académico con math y fórmulas. Complementarios, distintos.",
+  "descriptionEn": "The Balance is the active community where theorycraft becomes canonical openers; Akhmorning is the academic archive with math and formulas. Complementary, different.",
+  "verdictEs": "The Balance para opener actualizado al patch y Q&A con job leads. Akhmorning para entender el math detrás de las recommendations. Los serious usan ambos en flow combinado.",
+  "verdictEn": "The Balance for patch-current opener and Q&A with job leads. Akhmorning for understanding the math behind the recommendations. The serious use both in a combined flow.",
+  "useCases": [
+    {
+      "labelEs": "Opener canónico al día del patch",
+      "labelEn": "Patch-current canonical opener",
+      "winner": "the-balance",
+      "reasonEs": "Los job leads de The Balance updatean openers en horas/días post-patch. Akhmorning tarda más en reflejar reworks.",
+      "reasonEn": "The Balance job leads update openers in hours/days post-patch. Akhmorning takes longer to reflect reworks."
+    },
+    {
+      "labelEs": "Entender por qué una rotación funciona",
+      "labelEn": "Understanding why a rotation works",
+      "winner": "akhmorning",
+      "reasonEs": "Akhmorning explica el math: por qué cierta secuencia de buffs/cooldowns maximiza DPS. The Balance se enfoca en el qué, no el por qué profundo.",
+      "reasonEn": "Akhmorning explains the math: why a certain sequence of buffs/cooldowns maximizes DPS. The Balance focuses on the what, not the deep why."
+    },
+    {
+      "labelEs": "Q&A directo con expertos",
+      "labelEn": "Direct Q&A with experts",
+      "winner": "the-balance",
+      "reasonEs": "El Discord de The Balance tiene channels per job donde leads y veterans responden preguntas. Akhmorning es read-only.",
+      "reasonEn": "The Balance's Discord has per-job channels where leads and veterans answer questions. Akhmorning is read-only."
+    },
+    {
+      "labelEs": "Stat tiers y breakpoints exactos",
+      "labelEn": "Exact stat tiers and breakpoints",
+      "winner": "akhmorning",
+      "reasonEs": "Akhmorning tiene tablas precisas de SkS/SpS breakpoints y formulas de damage. The Balance suele referenciar Akhmorning para detalles math.",
+      "reasonEn": "Akhmorning has precise SkS/SpS breakpoint tables and damage formulas. The Balance often references Akhmorning for math details."
+    },
+    {
+      "labelEs": "Meta call para patch nuevo",
+      "labelEn": "Meta call for a new patch",
+      "winner": "the-balance",
+      "reasonEs": "Cuando sale balance change, The Balance arma consensus en horas mediante discusión community. Akhmorning publica análisis pero sin la activity de discusión.",
+      "reasonEn": "When a balance change drops, The Balance builds consensus in hours through community discussion. Akhmorning publishes analysis but without the discussion activity."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "zepla",
+  "name": "Zepla HQ",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2018,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@ZeplaHQ",
+      "url": "https://www.youtube.com/@ZeplaHQ",
+      "channelId": "UCJwM0fiKe2rq7z2p8HPTyMA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "zeplahq",
+      "url": "https://www.twitch.tv/zeplahq"
+    },
+    {
+      "type": "twitter",
+      "handle": "@zeplahq",
+      "url": "https://twitter.com/zeplahq"
+    }
+  ],
+  "specialties": [
+    "lore",
+    "story-analysis",
+    "msq-commentary",
+    "community"
+  ],
+  "games": ["final-fantasy-xiv"],
+  "contentTypes": ["videos", "live-streams", "lore-deep-dives"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Zepla HQ es la voz dominante de lore y story analysis de FFXIV. Sus deep dives sobre Shadowbringers, Endwalker y arcs narrativos completos han definido cómo la community occidental discute la story del juego. Tono cálido, accesible, con humor — atrae mucho audience nuevo al juego porque hace que el lore (que es vasto y intimidante) se sienta digestible. Sus FFXIV Newcomer guides y MSQ reaction series son entry point estándar para amigos que recién empiezan.",
+  "noteEn": "Zepla HQ is the dominant voice of FFXIV lore and story analysis. Her deep dives on Shadowbringers, Endwalker, and complete narrative arcs have defined how the Western community discusses the game's story. Warm tone, accessible, with humor — pulls a lot of new audience to the game because she makes the lore (vast and intimidating) feel digestible. Her FFXIV Newcomer guides and MSQ reaction series are standard entry points for friends just starting.",
+  "highlightsEs": [
+    "Deep dives de lore más vistos de FFXIV en occidente",
+    "Análisis completo de los arcs de Shadowbringers y Endwalker",
+    "FFXIV Newcomer guides referenciadas como entry point estándar",
+    "Tono accesible que hace el lore digestible para audience nuevo",
+    "Comunidad activa via Twitch streams regulares"
+  ],
+  "highlightsEn": [
+    "Most-watched FFXIV lore deep dives in the West",
+    "Complete analysis of the Shadowbringers and Endwalker arcs",
+    "FFXIV Newcomer guides referenced as standard entry point",
+    "Accessible tone that makes lore digestible for new audiences",
+    "Active community via regular Twitch streams"
+  ],
+  "avatar": "/images/creators/zepla-avatar.jpg",
+  "banner": "/images/creators/zepla-banner.jpg"
+}

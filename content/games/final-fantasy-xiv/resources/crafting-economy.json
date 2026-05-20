@@ -1,0 +1,80 @@
+{
+  "category": "crafting-economy",
+  "resources": [
+    {
+      "id": "bizzleberry-dawntrail-crafting-gathering-90-100",
+      "type": "video",
+      "title": "FF14: Dawntrail Gathering & Crafting Guide - 90 to 100 FAST AND EASY",
+      "creator": "Bizzleberry",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=N4voeHMJv7M",
+      "youtubeId": "N4voeHMJv7M",
+      "language": "en",
+      "duration": "32:36",
+      "publishedDate": "2024-07-03",
+      "thumbnail": "https://i.ytimg.com/vi/N4voeHMJv7M/maxresdefault.jpg",
+      "noteEs": "Path completo de leveling de DoH/DoL de 90 a 100 en Dawntrail. Cubre quests, leves, custom delivery e ishgardian collectables. Punto de partida estándar para nuevos crafters/gatherers en endgame.",
+      "noteEn": "Full DoH/DoL leveling path from 90 to 100 in Dawntrail. Covers quests, leves, custom delivery, and Ishgardian collectables. Standard starting point for new endgame crafters/gatherers."
+    },
+    {
+      "id": "ashe10-expert-recipe-cosmic-exploration",
+      "type": "video",
+      "title": "Final Fantasy XIV - Expert Recipe Guide - Cosmic Exploration Edition",
+      "creator": "Ashe10",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=aaFtFRNF2ec",
+      "youtubeId": "aaFtFRNF2ec",
+      "language": "en",
+      "duration": "32:35",
+      "publishedDate": "2025-05-09",
+      "thumbnail": "https://i.ytimg.com/vi/aaFtFRNF2ec/maxresdefault.jpg",
+      "noteEs": "Guide profunda de expert recipes en el context de Cosmic Exploration. Ashe10 explica condition management, macros, y theorycraft de quality vs progress para los recipes más exigentes.",
+      "noteEn": "Deep expert recipe guide in the Cosmic Exploration context. Ashe10 explains condition management, macros, and the quality vs progress theorycraft for the most demanding recipes."
+    },
+    {
+      "id": "cole-evyx-cosmic-exploration-zero-to-hero",
+      "type": "video",
+      "title": "Cosmic Exploration Guide! ZERO TO HERO!",
+      "creator": "Cole Evyx",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=PBzEOGjR-OQ",
+      "youtubeId": "PBzEOGjR-OQ",
+      "language": "en",
+      "duration": "12:49",
+      "publishedDate": "2025-04-22",
+      "thumbnail": "https://i.ytimg.com/vi/PBzEOGjR-OQ/maxresdefault.jpg",
+      "noteEs": "Onboarding completo de Cosmic Exploration (el side-content de crafting/gathering relanzado en 7.21). Cómo unlockear, mecánicas básicas y dónde empezar tu Stellar Tools relic.",
+      "noteEn": "Complete onboarding for Cosmic Exploration (the crafting/gathering side-content relaunched in 7.21). How to unlock, basic mechanics, and where to start your Stellar Tools relic."
+    },
+    {
+      "id": "kijani-cosmic-stellar-tool-guide",
+      "type": "video",
+      "title": "Cosmic Exploration Cosmic Tools - Stellar Tool Guide: Crafting Macros and Overview | Patch 7.31",
+      "creator": "Kijani's Groove",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=DyoKAsupyK0",
+      "youtubeId": "DyoKAsupyK0",
+      "language": "en",
+      "duration": "4:25",
+      "publishedDate": "2025-09-13",
+      "thumbnail": "https://i.ytimg.com/vi/DyoKAsupyK0/maxresdefault.jpg",
+      "noteEs": "Guide rápida de Stellar Tools del relic de crafters: requirements, macros recomendadas y best missions para grindear.",
+      "noteEn": "Quick Stellar Tools relic guide for crafters: requirements, recommended macros, and best missions to grind."
+    },
+    {
+      "id": "ponzi-cosmic-exploration-everything-you-need",
+      "type": "video",
+      "title": "Everything You Need to Know About Cosmic Exploration in FFXIV",
+      "creator": "Ponzi, The Nasty Namazu",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=h6rayP07Ego",
+      "youtubeId": "h6rayP07Ego",
+      "language": "en",
+      "duration": "4:34",
+      "publishedDate": "2025-04-28",
+      "thumbnail": "https://i.ytimg.com/vi/h6rayP07Ego/maxresdefault.jpg",
+      "noteEs": "Overview rápido de Cosmic Exploration: qué es, cómo funciona y por qué es valioso para crafters serios. Buen complemento al deep dive de Cole Evyx.",
+      "noteEn": "Quick overview of Cosmic Exploration: what it is, how it works, and why it's valuable for serious crafters. Good complement to Cole Evyx's deep dive."
+    }
+  ]
+}

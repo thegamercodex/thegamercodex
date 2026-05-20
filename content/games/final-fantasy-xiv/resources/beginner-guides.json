@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "linkstergames-beginner-guide-2026",
+      "type": "video",
+      "title": "Final Fantasy XIV Beginner's Guide (2026) - Tips and Tricks for New Players",
+      "creator": "LinksterGames",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=P8Q3ieXy4kQ",
+      "youtubeId": "P8Q3ieXy4kQ",
+      "language": "en",
+      "duration": "35:07",
+      "publishedDate": "2026-01-31",
+      "thumbnail": "https://i.ytimg.com/vi/P8Q3ieXy4kQ/maxresdefault.jpg",
+      "noteEs": "Guía comprehensiva para quien arranca FFXIV en 2026. Cubre Free Trial, MSQ flow, primer job, mecánicas básicas de combate y los errores típicos de newbies. Buen primer recurso antes del onboarding del juego.",
+      "noteEn": "Comprehensive guide for anyone starting FFXIV in 2026. Covers Free Trial, MSQ flow, first job, basic combat mechanics, and typical newbie mistakes. A good first resource before the in-game onboarding."
+    },
+    {
+      "id": "caetsu-barriers-to-getting-into-ffxiv-2026",
+      "type": "video",
+      "title": "The Barriers to Getting into FFXIV!",
+      "creator": "Caetsu Chaiji Ch.",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=UykMDQHvKw8",
+      "youtubeId": "UykMDQHvKw8",
+      "language": "en",
+      "duration": "20:58",
+      "publishedDate": "2026-05-17",
+      "thumbnail": "https://i.ytimg.com/vi/UykMDQHvKw8/maxresdefault.jpg",
+      "noteEs": "Análisis honesto de los obstáculos que enfrentan los new players de FFXIV: duración del MSQ, learning curve de combat, y expectativas vs realidad. Útil para amigos que dudan si invertir.",
+      "noteEn": "Honest analysis of the obstacles new FFXIV players face: MSQ length, combat learning curve, and expectations vs reality. Useful for friends on the fence about investing the time."
+    },
+    {
+      "id": "zepla-returning-to-ffxiv-2026",
+      "type": "video",
+      "title": "So I Returned To FFXIV...",
+      "creator": "Zepla HQ",
+      "creatorId": "zepla",
+      "url": "https://www.youtube.com/watch?v=sKwDdSfCq-g",
+      "youtubeId": "sKwDdSfCq-g",
+      "language": "en",
+      "duration": "9:04",
+      "publishedDate": "2026-05-10",
+      "thumbnail": "https://i.ytimg.com/vi/sKwDdSfCq-g/maxresdefault.jpg",
+      "noteEs": "Perspectiva de Zepla volviendo a FFXIV tras un break. Útil para returners: qué hizo, qué le sorprendió post-Dawntrail, cómo retomó la MSQ y endgame.",
+      "noteEn": "Zepla's perspective returning to FFXIV after a break. Useful for returners: what she did, what surprised her post-Dawntrail, how she resumed MSQ and endgame."
+    },
+    {
+      "id": "cole-evyx-why-ffxiv-is-back-2026",
+      "type": "video",
+      "title": "Why FFXIV is BACK!",
+      "creator": "Cole Evyx",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=oc_62I2xCZc",
+      "youtubeId": "oc_62I2xCZc",
+      "language": "en",
+      "duration": "9:49",
+      "publishedDate": "2026-05-03",
+      "thumbnail": "https://i.ytimg.com/vi/oc_62I2xCZc/maxresdefault.jpg",
+      "noteEs": "Análisis del momentum positivo de FFXIV en 2026 tras el pre-FanFest. Bueno para entender qué generó el comeback narrative y por qué hay buena ventana para empezar/volver.",
+      "noteEn": "Analysis of FFXIV's positive momentum in 2026 after pre-FanFest. Good for understanding what triggered the comeback narrative and why there's a good window to start/return."
+    },
+    {
+      "id": "larryzaur-dawntrail-not-too-hard",
+      "type": "video",
+      "title": "Dawntrail is NOT too hard | FFXIV",
+      "creator": "Larryzaur",
+      "creatorId": "larryzaur",
+      "url": "https://www.youtube.com/watch?v=NR83nNurgxo",
+      "youtubeId": "NR83nNurgxo",
+      "language": "en",
+      "duration": "16:17",
+      "publishedDate": "2024-07-24",
+      "thumbnail": "https://i.ytimg.com/vi/NR83nNurgxo/maxresdefault.jpg",
+      "noteEs": "Respuesta directa al discourse de que Dawntrail tenía contenido muy difícil. Larryzaur explica los new mechanics y pone en context la dificultad. Evergreen para new players intimidados por Savage commentary.",
+      "noteEn": "Direct response to the discourse that Dawntrail had overly hard content. Larryzaur explains the new mechanics and contextualizes the difficulty. Evergreen for new players intimidated by Savage commentary."
+    }
+  ]
+}

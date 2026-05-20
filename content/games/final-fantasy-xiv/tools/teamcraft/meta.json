@@ -1,0 +1,30 @@
+{
+  "id": "teamcraft",
+  "name": "FFXIV Teamcraft",
+  "shortName": "Teamcraft",
+  "taglineEs": "Suite todo-en-uno para crafters y gatherers: simulador de rotación HQ, listas de mats, alarms de nodos, inventory sync y companion app desktop",
+  "taglineEn": "All-in-one toolkit for crafters and gatherers: HQ rotation simulator, mats lists, gathering node alarms, inventory sync, and desktop companion app",
+  "url": "https://ffxivteamcraft.com",
+  "category": "crafting-gathering",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/ffxiv-teamcraft/ffxiv-teamcraft",
+  "license": "MIT",
+  "platforms": ["web", "windows", "macos"],
+  "languages": ["en", "fr", "de", "ja", "zh", "ko"],
+  "tags": ["crafting", "gathering", "rotation-simulator", "hq-rotation", "mats-list", "open-source"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/teamcraft-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["garland-tools", "universalis"],
+  "alternatives": ["garland-tools"],
+  "createdBy": {
+    "name": "Supamiu and Teamcraft contributors",
+    "url": "https://github.com/ffxiv-teamcraft/ffxiv-teamcraft"
+  }
+}

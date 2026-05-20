@@ -1,0 +1,29 @@
+{
+  "id": "gamerescape",
+  "name": "Gamer Escape's FFXIV Wiki",
+  "shortName": "Gamerescape",
+  "taglineEs": "El wiki más completo en inglés sobre FFXIV: lore, NPCs, quests, items, dungeons y trials documentados por la comunidad desde 2010",
+  "taglineEn": "The most complete English-language FFXIV wiki: lore, NPCs, quests, items, dungeons, and trials documented by the community since 2010",
+  "url": "https://ffxiv.gamerescape.com",
+  "category": "database",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "lore", "items", "quests", "npcs", "community-edited"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/gamerescape-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["garland-tools", "lodestone"],
+  "alternatives": ["garland-tools"],
+  "createdBy": {
+    "name": "Gamer Escape",
+    "url": "https://gamerescape.com"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "eorzea-collection",
+  "name": "Eorzea Collection",
+  "shortName": "EC",
+  "taglineEs": "Catálogo visual de glamour creado por la comunidad: ves builds completos con screenshots in-game, filtros por job/raza/gender, y la lista de items necesarios",
+  "taglineEn": "Community-built visual glamour catalog: see complete builds with in-game screenshots, filters by job/race/gender, and the list of items needed",
+  "url": "https://ffxiv.eorzeacollection.com",
+  "category": "collection-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["glamour", "fashion", "screenshots", "gear-database", "community-builds"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/eorzea-collection-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["ffxivcollect", "lodestone"],
+  "alternatives": ["ffxivcollect"],
+  "createdBy": {
+    "name": "Eorzea Collection team",
+    "url": "https://ffxiv.eorzeacollection.com"
+  }
+}

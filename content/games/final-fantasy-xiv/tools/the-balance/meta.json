@@ -1,0 +1,29 @@
+{
+  "id": "the-balance",
+  "name": "The Balance",
+  "shortName": "The Balance",
+  "taglineEs": "Discord oficioso de theorycraft de FFXIV con guides mantenidas por job leads de la comunidad: openers, rotaciones, sims y meta calls del patch",
+  "taglineEn": "FFXIV's unofficial theorycraft Discord with guides maintained by community job leads: openers, rotations, sims, and patch meta calls",
+  "url": "https://www.thebalanceffxiv.com",
+  "category": "guides",
+  "type": "discord",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["discord", "web"],
+  "languages": ["en"],
+  "tags": ["discord", "job-guides", "theorycraft", "openers", "rotations", "community"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/the-balance-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["akhmorning", "fflogs", "etro"],
+  "alternatives": ["akhmorning"],
+  "createdBy": {
+    "name": "The Balance community",
+    "url": "https://www.thebalanceffxiv.com"
+  }
+}

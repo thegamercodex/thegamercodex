@@ -1,0 +1,55 @@
+{
+  "id": "mrhappy",
+  "name": "Mr Happy",
+  "realName": "Andrew Cooke",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2009,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@MrHappy1227",
+      "url": "https://www.youtube.com/@MrHappy1227",
+      "channelId": "UCALEd8FzfaUt-HBBZctO9cg",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "mrhappy1227",
+      "url": "https://www.twitch.tv/mrhappy1227"
+    },
+    {
+      "type": "twitter",
+      "handle": "@MrHappy1227",
+      "url": "https://twitter.com/MrHappy1227"
+    }
+  ],
+  "specialties": [
+    "raid-guides",
+    "job-guides",
+    "news",
+    "patch-coverage"
+  ],
+  "games": ["final-fantasy-xiv"],
+  "contentTypes": ["videos", "live-streams", "guides"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Mr Happy es el creator de FFXIV más longevo en YouTube, cubriendo el juego desde A Realm Reborn en 2013 sin pausa. Sus videos cubren todo el espectro: job guides para principiantes, raid walkthroughs detallados de Savage y Ultimate, recaps de Live Letters y análisis de patch notes. Su tono es calmado y didáctico, lejos del hype-bait. Para muchos jugadores fue el primer creator que vieron al unlockear Free Trial — y siguen volviendo cada patch.",
+  "noteEn": "Mr Happy is the longest-running FFXIV YouTube creator, covering the game since A Realm Reborn in 2013 without pause. His videos cover the full spectrum: job guides for beginners, detailed Savage and Ultimate raid walkthroughs, Live Letter recaps, and patch notes analysis. His tone is calm and educational, far from hype-bait. For many players he was the first creator they watched after unlocking the Free Trial — and they keep coming back each patch.",
+  "highlightsEs": [
+    "Cubriendo FFXIV continuamente desde A Realm Reborn (2013)",
+    "Job guides comprehensivas para los 21+ jobs del juego",
+    "Walkthroughs de cada Savage tier y Ultimate fight",
+    "Recaps editoriales de Live Letters y análisis de patch notes",
+    "Tono didáctico sin hype: referencia confiable para nuevos jugadores"
+  ],
+  "highlightsEn": [
+    "Continuously covering FFXIV since A Realm Reborn (2013)",
+    "Comprehensive job guides for all 21+ jobs in the game",
+    "Walkthroughs for every Savage tier and Ultimate fight",
+    "Editorial recaps of Live Letters and patch notes analysis",
+    "Educational tone without hype: a reliable reference for new players"
+  ],
+  "avatar": "/images/creators/mrhappy-avatar.jpg",
+  "banner": "/images/creators/mrhappy-banner.jpg"
+}

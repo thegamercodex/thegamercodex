@@ -1,0 +1,29 @@
+{
+  "id": "advanced-combat-tracker",
+  "name": "Advanced Combat Tracker",
+  "shortName": "ACT",
+  "taglineEs": "Parser desktop con overlays en tiempo real: DPS/HPS, mecánicas y triggers de sonido durante el combate, además de exportar logs a FFLogs",
+  "taglineEn": "Desktop parser with real-time overlays: live DPS/HPS, mechanic triggers, sound cues during fights, plus log export to FFLogs",
+  "url": "https://advancedcombattracker.com",
+  "category": "parsers",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["dps-meter", "overlay", "real-time", "plugin-ecosystem", "log-export"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/advanced-combat-tracker-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["fflogs", "xivanalysis", "xivlauncher"],
+  "alternatives": ["xivlauncher"],
+  "createdBy": {
+    "name": "EQAditu",
+    "url": "https://advancedcombattracker.com"
+  }
+}

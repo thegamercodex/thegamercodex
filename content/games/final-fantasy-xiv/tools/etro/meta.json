@@ -1,0 +1,29 @@
+{
+  "id": "etro",
+  "name": "Etro",
+  "shortName": "Etro",
+  "taglineEs": "BiS planner dominante de FFXIV: armás tu build pieza por pieza, calculás melding óptimo de materia y compartís el link con tu party",
+  "taglineEn": "The dominant FFXIV BiS planner: build your gear piece by piece, calculate optimal materia melding, and share the link with your party",
+  "url": "https://etro.gg",
+  "category": "gear-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["bis-builder", "melding", "materia", "savage", "ultimate", "stat-tiers"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-19",
+  "logo": "/images/tools/final-fantasy-xiv/etro-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["fflogs", "the-balance", "universalis"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Eltharyon",
+    "url": "https://etro.gg"
+  }
+}

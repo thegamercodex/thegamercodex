@@ -1,0 +1,49 @@
+{
+  "id": "hector-hectorson",
+  "name": "Hector Hectorson",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2015,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@HectorHectorson",
+      "url": "https://www.youtube.com/@HectorHectorson",
+      "channelId": "UChnCHKoRNSo_lW97pcDa08w",
+      "primary": true
+    },
+    {
+      "type": "twitter",
+      "handle": "@HectorHectorson",
+      "url": "https://twitter.com/HectorHectorson"
+    }
+  ],
+  "specialties": [
+    "raid-guides",
+    "extreme-guides",
+    "savage-prog",
+    "fight-mechanics"
+  ],
+  "games": ["final-fantasy-xiv"],
+  "contentTypes": ["videos", "guides"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Hector Hectorson es la alternativa más popular a MTQ Capture para fight guides. Su estilo combina explicación verbal detallada con visual overlays — donde MTQ es minimalista, Hector da context, explica el por qué de los strats y discute alternatives. Para players que aprenden mejor con comentary, Hector es la preferencia. Cubre todo Extreme, Savage y Ultimate consistentemente patch tras patch.",
+  "noteEn": "Hector Hectorson is the most popular alternative to MTQ Capture for fight guides. His style combines detailed verbal explanation with visual overlays — where MTQ is minimalist, Hector gives context, explains the why of strats, and discusses alternatives. For players who learn better with commentary, Hector is the preference. Covers all Extreme, Savage, and Ultimate content consistently patch after patch.",
+  "highlightsEs": [
+    "Guides extensivas de Extreme, Savage y Ultimate con commentary",
+    "Explica el porqué de cada strat, no solo el qué",
+    "Discusión de alternative strats cuando existen",
+    "Alternative principal a MTQ Capture para fight guides",
+    "Cadencia constante: cubre cada patch sin atraso"
+  ],
+  "highlightsEn": [
+    "Extensive Extreme, Savage, and Ultimate guides with commentary",
+    "Explains the why of each strat, not just the what",
+    "Discusses alternative strats when they exist",
+    "Main alternative to MTQ Capture for fight guides",
+    "Consistent cadence: covers every patch without lag"
+  ],
+  "avatar": "/images/creators/hector-hectorson-avatar.jpg",
+  "banner": "/images/creators/hector-hectorson-banner.jpg"
+}
