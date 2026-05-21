@@ -1,0 +1,29 @@
+{
+  "id": "diablo4codex",
+  "name": "Diablo 4 Codex",
+  "shortName": "D4 Codex",
+  "taglineEs": "Tracker comprensivo de seasonal progress: aspects unlocked, codex de power, dungeons, achievements y stats personales con sync via account login",
+  "taglineEn": "Comprehensive seasonal progress tracker: aspects unlocked, codex of power, dungeons, achievements, and personal stats with account-login sync",
+  "url": "https://diablo4codex.com",
+  "category": "event-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["progress-tracker", "aspects", "codex-of-power", "seasonal", "achievements"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-20",
+  "logo": "/images/tools/diablo-4/diablo4codex-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["diablo4-life", "helltides"],
+  "alternatives": ["diablo4-life"],
+  "createdBy": {
+    "name": "Diablo 4 Codex team",
+    "url": "https://diablo4codex.com"
+  }
+}

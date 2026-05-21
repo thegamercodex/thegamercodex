@@ -1,0 +1,50 @@
+{
+  "id": "maxroll-d4-vs-mobalytics-d4",
+  "toolIds": ["maxroll-d4", "mobalytics-d4"],
+  "category": "build-planning",
+  "depth": "flagship",
+  "lastVerified": "2026-05-20",
+  "titleEs": "Maxroll D4 vs Mobalytics D4 — el duelo de los hubs editoriales",
+  "titleEn": "Maxroll D4 vs Mobalytics D4 — the editorial hubs showdown",
+  "descriptionEs": "Los dos hubs editoriales dominantes de Diablo IV. Maxroll prioriza depth con prose larga y planner interactivo; Mobalytics prioriza speed con tier lists visuales y cards compactas.",
+  "descriptionEn": "The two dominant Diablo IV editorial hubs. Maxroll prioritizes depth with long prose and an interactive planner; Mobalytics prioritizes speed with visual tier lists and compact cards.",
+  "verdictEs": "Maxroll si quieres entender el por qué de cada decision y leer build guides largas con justification. Mobalytics si solo quieres quick scan del meta state y comparar builds visualmente. Muchos players usan ambos — Mobalytics para scan, Maxroll para deep dive del build elegido.",
+  "verdictEn": "Maxroll if you want to understand the why behind each decision and read long build guides with justification. Mobalytics if you just want a quick scan of meta state and visual build comparison. Many players use both — Mobalytics to scan, Maxroll to deep-dive the chosen build.",
+  "useCases": [
+    {
+      "labelEs": "Deep dive de build con justification per slot",
+      "labelEn": "Deep build dive with per-slot justification",
+      "winner": "maxroll-d4",
+      "reasonEs": "Maxroll guides son prose long-form con explicación de cada skill, paragon node y aspect choice. Mobalytics cards son más compactas, sacrifican depth por scanability.",
+      "reasonEn": "Maxroll guides are long-form prose explaining each skill, paragon node, and aspect choice. Mobalytics cards are more compact, sacrificing depth for scanability."
+    },
+    {
+      "labelEs": "Quick meta check en 5 minutos",
+      "labelEn": "Quick meta check in 5 minutes",
+      "winner": "mobalytics-d4",
+      "reasonEs": "Mobalytics presenta tier lists con visual badges (S/A/B) y build cards compactas. Maxroll requiere abrir guides extensas para el mismo info — más slow.",
+      "reasonEn": "Mobalytics presents tier lists with visual badges (S/A/B) and compact build cards. Maxroll requires opening extensive guides for the same info — slower."
+    },
+    {
+      "labelEs": "Patch reaction rapid post balance change",
+      "labelEn": "Fast patch reaction post-balance change",
+      "winner": "maxroll-d4",
+      "reasonEs": "Maxroll updatea tier lists y guides dentro de 24-48h post-patch con análisis editorial. Mobalytics suele tardar 1-2 días más.",
+      "reasonEn": "Maxroll updates tier lists and guides within 24-48h post-patch with editorial analysis. Mobalytics tends to take 1-2 days longer."
+    },
+    {
+      "labelEs": "Mobile-friendly browsing",
+      "labelEn": "Mobile-friendly browsing",
+      "winner": "mobalytics-d4",
+      "reasonEs": "UI visual de Mobalytics se traduce mejor a mobile. Maxroll's prose larga es harder de digerir en pantalla chica.",
+      "reasonEn": "Mobalytics' visual UI translates better to mobile. Maxroll's long prose is harder to digest on a small screen."
+    },
+    {
+      "labelEs": "Interactive build planner integrado",
+      "labelEn": "Integrated interactive build planner",
+      "winner": "maxroll-d4",
+      "reasonEs": "Maxroll embed planner interactive en cada guide para clonar y modificar builds. Mobalytics no tiene planner equivalente — es presentation tool, no planning tool.",
+      "reasonEn": "Maxroll embeds an interactive planner in each guide to clone and modify builds. Mobalytics has no equivalent planner — it's a presentation tool, not a planning tool."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "category": "patch-coverage",
+  "resources": [
+    {
+      "id": "rob2628-new-patch-warlock-nerfed-sorc-buffed",
+      "type": "video",
+      "title": "NEW PATCH LIVE Warlock NERFED SORC BUFFED NEW EVENT & HOTFIXES LIVE",
+      "creator": "Rob2628",
+      "creatorId": "rob2628",
+      "url": "https://www.youtube.com/watch?v=MIavk9hddyA",
+      "youtubeId": "MIavk9hddyA",
+      "language": "en",
+      "duration": "11:18",
+      "publishedDate": "2026-05-19",
+      "thumbnail": "https://i.ytimg.com/vi/MIavk9hddyA/maxresdefault.jpg",
+      "noteEs": "Reaction y breakdown del patch de mediados de mayo 2026: Warlock nerfs, Sorc buffs, hotfixes y new event. Rob2628 con su tono rápido cubre lo essential en 11 minutos.",
+      "noteEn": "Reaction and breakdown of the mid-May 2026 patch: Warlock nerfs, Sorc buffs, hotfixes, and new event. Rob2628 in his fast-paced tone covers the essentials in 11 minutes."
+    },
+    {
+      "id": "rhykker-next-d4-class-leaked-2026",
+      "type": "video",
+      "title": "Did the Next Diablo 4 Class Just Leak?",
+      "creator": "Rhykker",
+      "creatorId": "rhykker",
+      "url": "https://www.youtube.com/watch?v=mfBJRgENCO4",
+      "youtubeId": "mfBJRgENCO4",
+      "language": "en",
+      "duration": "31:34",
+      "publishedDate": "2026-05-16",
+      "thumbnail": "https://i.ytimg.com/vi/mfBJRgENCO4/maxresdefault.jpg",
+      "noteEs": "Datamined leaks de la próxima clase post-Spiritborn. Rhykker contextualiza la información, validates sourcing y discute implications para meta futuro.",
+      "noteEn": "Datamined leaks of the next class post-Spiritborn. Rhykker contextualizes the information, validates sourcing, and discusses implications for future meta."
+    },
+    {
+      "id": "rhykker-d4-changed-how-we-see-lilith",
+      "type": "video",
+      "title": "Diablo 4 Just Changed How We See Lilith",
+      "creator": "Rhykker",
+      "creatorId": "rhykker",
+      "url": "https://www.youtube.com/watch?v=Og-tmJvpjVI",
+      "youtubeId": "Og-tmJvpjVI",
+      "language": "en",
+      "duration": "21:16",
+      "publishedDate": "2026-04-18",
+      "thumbnail": "https://i.ytimg.com/vi/Og-tmJvpjVI/maxresdefault.jpg",
+      "noteEs": "Análisis editorial de cómo Lord of Hatred recontextualiza el character de Lilith. Cobertura de cambios narrativos importantes que afectan lore D4 a largo plazo.",
+      "noteEn": "Editorial analysis of how Lord of Hatred recontextualizes Lilith's character. Coverage of important narrative changes that affect D4 lore long-term."
+    },
+    {
+      "id": "wudijo-mythic-charms-bait-or-chase",
+      "type": "video",
+      "title": "Diablo 4 - MYTHIC CHARMS found?! Bait or Chase?",
+      "creator": "wudijo",
+      "creatorId": "wudijo",
+      "url": "https://www.youtube.com/watch?v=kJYLa9ii6r4",
+      "youtubeId": "kJYLa9ii6r4",
+      "language": "en",
+      "duration": "10:26",
+      "publishedDate": "2026-05-17",
+      "thumbnail": "https://i.ytimg.com/vi/kJYLa9ii6r4/maxresdefault.jpg",
+      "noteEs": "Mythic Charms found en patch reciente — análisis técnico: ¿valen el grind o son bait? Wudijo da el take theorycraft-grounded sobre su power level real.",
+      "noteEn": "Mythic Charms found in recent patch — technical analysis: are they worth the grind or bait? Wudijo gives the theorycraft-grounded take on their real power level."
+    },
+    {
+      "id": "macrobioboi-all-new-necromancer-uniques-loh",
+      "type": "video",
+      "title": "ALL NEW NECROMANCER UNIQUES! Full Meta Analysis and Breakdown Diablo 4 Expansion LOH",
+      "creator": "MacroBioBoi",
+      "creatorId": "macrobioboi",
+      "url": "https://www.youtube.com/watch?v=EviNBosxMsg",
+      "youtubeId": "EviNBosxMsg",
+      "language": "en",
+      "duration": "33:59",
+      "publishedDate": "2026-04-23",
+      "thumbnail": "https://i.ytimg.com/vi/EviNBosxMsg/maxresdefault.jpg",
+      "noteEs": "Coverage exhaustivo de los nuevos uniques de Necromancer en Lord of Hatred. MacroBioBoi analiza cada item, posible build interactions y rank meta-implications. Class-specific patch analysis.",
+      "noteEn": "Exhaustive coverage of the new Necromancer uniques in Lord of Hatred. MacroBioBoi analyzes each item, possible build interactions, and rank meta-implications. Class-specific patch analysis."
+    }
+  ]
+}

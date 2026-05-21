@@ -1,0 +1,50 @@
+{
+  "id": "wowhead-d4-vs-fextralife-d4",
+  "toolIds": ["wowhead-d4", "fextralife-d4"],
+  "category": "database",
+  "depth": "short",
+  "lastVerified": "2026-05-20",
+  "titleEs": "Wowhead D4 vs Fextralife D4 — database técnica o wiki narrativa",
+  "titleEn": "Wowhead D4 vs Fextralife D4 — technical database or narrative wiki",
+  "descriptionEs": "Ambos cubren database para D4 pero con enfoques opuestos. Wowhead es technical lookup con stats raw; Fextralife es wiki narrative con walkthroughs y lore.",
+  "descriptionEn": "Both cover D4 database but with opposite approaches. Wowhead is technical lookup with raw stats; Fextralife is narrative wiki with walkthroughs and lore.",
+  "verdictEs": "Wowhead para queries técnicas (¿qué stats tiene este aspect?, ¿dónde dropea?). Fextralife para walkthroughs y context narrativo (¿cómo hago esta quest?, ¿lore de este boss?). Complementarios.",
+  "verdictEn": "Wowhead for technical queries (what stats does this aspect have?, where does it drop?). Fextralife for walkthroughs and narrative context (how do I do this quest?, lore of this boss?). Complementary.",
+  "useCases": [
+    {
+      "labelEs": "Lookup técnico de aspect/item con stats",
+      "labelEn": "Technical aspect/item lookup with stats",
+      "winner": "wowhead-d4",
+      "reasonEs": "Wowhead tiene tooltips detallados, sources, drop rates conocidas. Fextralife describe pero menos granular en data.",
+      "reasonEn": "Wowhead has detailed tooltips, sources, known drop rates. Fextralife describes but is less granular in data."
+    },
+    {
+      "labelEs": "Quest walkthrough stuck",
+      "labelEn": "Stuck quest walkthrough",
+      "winner": "fextralife-d4",
+      "reasonEs": "Fextralife tiene pages dedicadas por quest con prerequisites + steps detallados. Wowhead no tiene quest walkthroughs — solo metadata.",
+      "reasonEn": "Fextralife has dedicated per-quest pages with prerequisites + detailed steps. Wowhead has no quest walkthroughs — only metadata."
+    },
+    {
+      "labelEs": "Datamining content del PTR",
+      "labelEn": "PTR datamining content",
+      "winner": "wowhead-d4",
+      "reasonEs": "Wowhead publica leaks del PTR via datamining. Fextralife solo cubre content released.",
+      "reasonEn": "Wowhead publishes PTR leaks via datamining. Fextralife only covers released content."
+    },
+    {
+      "labelEs": "Lore deep-dive de un boss o región",
+      "labelEn": "Lore deep-dive on a boss or region",
+      "winner": "fextralife-d4",
+      "reasonEs": "Fextralife tiene narrative pages con cross-references entre lore characters. Wowhead se enfoca en gameplay data, no narrative depth.",
+      "reasonEn": "Fextralife has narrative pages with cross-references between lore characters. Wowhead focuses on gameplay data, not narrative depth."
+    },
+    {
+      "labelEs": "Interactive map para hunt collectibles",
+      "labelEn": "Interactive map for collectible hunting",
+      "winner": "wowhead-d4",
+      "reasonEs": "Wowhead tiene map interactive con filters de Lilith statues, altars, dungeons. Fextralife describe locations pero sin map filterable.",
+      "reasonEn": "Wowhead has an interactive map with filters for Lilith statues, altars, dungeons. Fextralife describes locations but without filterable map."
+    }
+  ]
+}

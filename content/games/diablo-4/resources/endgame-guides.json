@@ -1,0 +1,80 @@
+{
+  "category": "endgame-guides",
+  "resources": [
+    {
+      "id": "rob2628-best-farm-meta-harvest-farming-2",
+      "type": "video",
+      "title": "BEST FARM META & CRAZY LOOT EXPLOSIONS - HARVEST FARMING 2.0",
+      "creator": "Rob2628",
+      "creatorId": "rob2628",
+      "url": "https://www.youtube.com/watch?v=z9Xpy6tf7So",
+      "youtubeId": "z9Xpy6tf7So",
+      "language": "en",
+      "duration": "10:25",
+      "publishedDate": "2026-05-19",
+      "thumbnail": "https://i.ytimg.com/vi/z9Xpy6tf7So/maxresdefault.jpg",
+      "noteEs": "Meta de farm actualizado para Lord of Hatred: Harvest farming optimized para loot explosions. Rob2628 cubre run efficiency y best zones para gear/aspect farm.",
+      "noteEn": "Updated farm meta for Lord of Hatred: Harvest farming optimized for loot explosions. Rob2628 covers run efficiency and best zones for gear/aspect farm."
+    },
+    {
+      "id": "rob2628-ez-farm-banished-lords-talisman",
+      "type": "video",
+      "title": "How to EZ Farm Banished Lord's Talisman Endurant Faith",
+      "creator": "Rob2628",
+      "creatorId": "rob2628",
+      "url": "https://www.youtube.com/watch?v=qeu0Jw-ECmg",
+      "youtubeId": "qeu0Jw-ECmg",
+      "language": "en",
+      "duration": "10:48",
+      "publishedDate": "2026-05-19",
+      "thumbnail": "https://i.ytimg.com/vi/qeu0Jw-ECmg/maxresdefault.jpg",
+      "noteEs": "Guide específica para farmear Banished Lord's Talisman con Endurant Faith. Methodology paso-a-paso, drop rate context y best route para grind eficiente.",
+      "noteEn": "Specific guide for farming Banished Lord's Talisman with Endurant Faith. Step-by-step methodology, drop rate context, and best route for efficient grind."
+    },
+    {
+      "id": "macrobioboi-immortal-resolve-stacking-glynns-anvil",
+      "type": "video",
+      "title": "Become IMMORTAL With a Single Aspect in Diablo 4! Resolve Stacking Explained: Glynn's Anvil",
+      "creator": "MacroBioBoi",
+      "creatorId": "macrobioboi",
+      "url": "https://www.youtube.com/watch?v=SmO4TwIjYtU",
+      "youtubeId": "SmO4TwIjYtU",
+      "language": "en",
+      "duration": "12:51",
+      "publishedDate": "2026-05-15",
+      "thumbnail": "https://i.ytimg.com/vi/SmO4TwIjYtU/maxresdefault.jpg",
+      "noteEs": "Mechanic deep-dive: Glynn's Anvil aspect y Resolve stacking para reach effective immortality. Útil para hardcore players y push content donde survivability define ceiling.",
+      "noteEn": "Mechanic deep-dive: Glynn's Anvil aspect and Resolve stacking to reach effective immortality. Useful for hardcore players and push content where survivability defines the ceiling."
+    },
+    {
+      "id": "wudijo-hardcore-t12-mephisto-down-warlock",
+      "type": "video",
+      "title": "Diablo 4 - HARDCORE T12 MEPHISTO DOWN (Warlock PoV)",
+      "creator": "wudijo",
+      "creatorId": "wudijo",
+      "url": "https://www.youtube.com/watch?v=2ts7d9trH9w",
+      "youtubeId": "2ts7d9trH9w",
+      "language": "en",
+      "duration": "10:32",
+      "publishedDate": "2026-05-18",
+      "thumbnail": "https://i.ytimg.com/vi/2ts7d9trH9w/maxresdefault.jpg",
+      "noteEs": "Torment 12 Mephisto kill en Hardcore mode, Warlock PoV. Demonstration de execution clean — útil para players preparing T12 boss attempts en HC con visualización de patterns.",
+      "noteEn": "Torment 12 Mephisto kill on Hardcore mode, Warlock PoV. Clean execution demonstration — useful for players preparing T12 boss attempts on HC with pattern visualization."
+    },
+    {
+      "id": "wudijo-fix-your-damage-2026",
+      "type": "video",
+      "title": "Diablo 4 - FIX YOUR DAMAGE! Here's how it works.",
+      "creator": "wudijo",
+      "creatorId": "wudijo",
+      "url": "https://www.youtube.com/watch?v=vDwILKOeeT8",
+      "youtubeId": "vDwILKOeeT8",
+      "language": "en",
+      "duration": "13:06",
+      "publishedDate": "2026-05-20",
+      "thumbnail": "https://i.ytimg.com/vi/vDwILKOeeT8/maxresdefault.jpg",
+      "noteEs": "Damage calculation system de D4 explicado a fondo: multiplicative vs additive buckets, snapshot mechanics, common errors. Esencial para entender por qué tu build no scalea como esperas.",
+      "noteEn": "D4 damage calculation system explained in depth: multiplicative vs additive buckets, snapshot mechanics, common errors. Essential for understanding why your build isn't scaling as expected."
+    }
+  ]
+}

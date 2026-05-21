@@ -1,0 +1,29 @@
+{
+  "id": "diablo4-life",
+  "name": "Diablo4.life",
+  "shortName": "Diablo4.life",
+  "taglineEs": "Hub community-driven con utilities mixed: timers de events (Helltide, world boss, Legion), build guides curados y trackers de progreso — todo en una sola página densa",
+  "taglineEn": "Community-driven hub with mixed utilities: event timers (Helltide, world boss, Legion), curated build guides, and progress trackers — all on a single dense page",
+  "url": "https://diablo4.life",
+  "category": "event-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["event-tracking", "timers", "world-boss", "legion", "build-guides", "all-in-one"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-20",
+  "logo": "/images/tools/diablo-4/diablo4-life-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["helltides", "diablo4codex"],
+  "alternatives": ["helltides"],
+  "createdBy": {
+    "name": "Diablo4.life team",
+    "url": "https://diablo4.life"
+  }
+}

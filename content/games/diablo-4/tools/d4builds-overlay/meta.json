@@ -1,0 +1,29 @@
+{
+  "id": "d4builds-overlay",
+  "name": "D4Builds Overlay",
+  "shortName": "D4Builds OW",
+  "taglineEs": "Desktop companion oficial de D4Builds.gg via Overwolf: accedes a builds, planner y tier lists con overlay in-game sin alt-tabbing",
+  "taglineEn": "Official D4Builds.gg desktop companion via Overwolf: access builds, planner, and tier lists with in-game overlay without alt-tabbing",
+  "url": "https://www.overwolf.com/app/d4builds-d4builds",
+  "category": "overlays-companions",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["overlay", "in-game", "overwolf", "builds-companion"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/diablo-4/d4builds-overlay-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["d4builds", "mobalytics-d4-overlay", "diablo4-companion"],
+  "alternatives": ["mobalytics-d4-overlay"],
+  "createdBy": {
+    "name": "D4Builds.gg team",
+    "url": "https://d4builds.gg"
+  }
+}

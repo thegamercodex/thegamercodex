@@ -1,0 +1,50 @@
+{
+  "id": "d4paragon-vs-d4-planner",
+  "toolIds": ["d4paragon", "d4-planner"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-05-21",
+  "titleEs": "D4Paragon vs D4 Planner — specialist vs all-purpose",
+  "titleEn": "D4Paragon vs D4 Planner — specialist vs all-purpose",
+  "descriptionEs": "Dos planners para D4 con scope distinto: D4Paragon solo paragon system; D4 Planner es full build planner (skills + paragon + gear).",
+  "descriptionEn": "Two D4 planners with different scope: D4Paragon paragon-only; D4 Planner is a full build planner (skills + paragon + gear).",
+  "verdictEs": "D4 Planner para crear full build desde scratch. D4Paragon para optimization granular del paragon system cuando ya tienes skills y gear definidos. Complementarios en workflow serious.",
+  "verdictEn": "D4 Planner to create a full build from scratch. D4Paragon for granular paragon system optimization when you already have skills and gear defined. Complementary in serious workflow.",
+  "useCases": [
+    {
+      "labelEs": "Full build planning desde scratch",
+      "labelEn": "Full build planning from scratch",
+      "winner": "d4-planner",
+      "reasonEs": "D4 Planner cubre skills + paragon + gear + aspects en una sola tool. D4Paragon solo cubre paragon system.",
+      "reasonEn": "D4 Planner covers skills + paragon + gear + aspects in a single tool. D4Paragon only covers the paragon system."
+    },
+    {
+      "labelEs": "Paragon optimization granular",
+      "labelEn": "Granular paragon optimization",
+      "winner": "d4paragon",
+      "reasonEs": "D4Paragon es focused only en paragon: UI más detallada para board rotations, glyph placement, rare nodes. D4 Planner es general purpose.",
+      "reasonEn": "D4Paragon focused only on paragon: more detailed UI for board rotations, glyph placement, rare nodes. D4 Planner is general purpose."
+    },
+    {
+      "labelEs": "Side-by-side comparison de builds completos",
+      "labelEn": "Side-by-side full build comparison",
+      "winner": "d4-planner",
+      "reasonEs": "D4 Planner permite comparar dos full builds. D4Paragon solo compara paragon configurations.",
+      "reasonEn": "D4 Planner allows comparing two full builds. D4Paragon only compares paragon configurations."
+    },
+    {
+      "labelEs": "Pre-respec gold-saving mockup",
+      "labelEn": "Pre-respec gold-saving mockup",
+      "winner": "d4paragon",
+      "reasonEs": "Respec paragon es expensive. D4Paragon te permite mockear changes específicos al board sin abrir un planner full.",
+      "reasonEn": "Paragon respec is expensive. D4Paragon lets you mock specific board changes without opening a full planner."
+    },
+    {
+      "labelEs": "Curva de aprendizaje accesible",
+      "labelEn": "Accessible learning curve",
+      "winner": "d4-planner",
+      "reasonEs": "D4 Planner tiene UI general que players use across múltiples build planners. D4Paragon focus en paragon requires understanding del system específico.",
+      "reasonEn": "D4 Planner has a general UI players use across multiple build planners. D4Paragon's paragon focus requires understanding the specific system."
+    }
+  ]
+}

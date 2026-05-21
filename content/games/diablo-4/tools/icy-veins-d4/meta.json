@@ -1,0 +1,35 @@
+{
+  "id": "icy-veins-d4",
+  "name": "Icy Veins D4",
+  "shortName": "Icy Veins",
+  "taglineEs": "Guías escritas de clase y endgame en formato long-form: pure prose con stat priority, rotaciones, gear y paragon explicados sin dependencia de video",
+  "taglineEn": "Long-form written class and endgame guides: pure prose with stat priority, rotations, gear, and paragon explained without video dependency",
+  "url": "https://www.icy-veins.com/d4/",
+  "category": "guides-tier-lists",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["guides", "class-guides", "long-form", "stat-priority", "no-video"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-20",
+  "logo": "/images/tools/diablo-4/icy-veins-d4-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mobalytics-d4", "maxroll-d4"],
+  "alternatives": ["maxroll-d4"],
+  "createdBy": {
+    "name": "Icy Veins team",
+    "url": "https://www.icy-veins.com/about"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "world-of-warcraft", "url": "https://www.icy-veins.com/wow/" }
+    ]
+  }
+}

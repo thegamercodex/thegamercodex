@@ -1,0 +1,29 @@
+{
+  "id": "traderie-d4",
+  "name": "Traderie Diablo IV",
+  "shortName": "Traderie",
+  "taglineEs": "Marketplace alternative para trading P2P en D4 con auction features y multi-game presence (Pokemon, MMOs, otros ARPGs)",
+  "taglineEn": "Alternative P2P trading marketplace for D4 with auction features and multi-game presence (Pokemon, MMOs, other ARPGs)",
+  "url": "https://traderie.com/diablo4",
+  "category": "trading",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["trading", "marketplace", "auctions", "multi-game-platform"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/diablo-4/traderie-d4-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["diablo-trade"],
+  "alternatives": ["diablo-trade"],
+  "createdBy": {
+    "name": "Traderie",
+    "url": "https://traderie.com"
+  }
+}

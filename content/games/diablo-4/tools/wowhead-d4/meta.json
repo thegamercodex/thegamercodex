@@ -1,0 +1,35 @@
+{
+  "id": "wowhead-d4",
+  "name": "Wowhead D4",
+  "shortName": "Wowhead",
+  "taglineEs": "Database más completa de Diablo IV: items, aspects, uniques, mythics, skills, paragon nodes, achievements y mapa interactivo, con news y datamined content del PTR",
+  "taglineEn": "Diablo IV's most complete database: items, aspects, uniques, mythics, skills, paragon nodes, achievements, and an interactive map, plus news and PTR datamined content",
+  "url": "https://www.wowhead.com/diablo-4",
+  "category": "database",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["database", "news", "datamined", "ptr", "items", "interactive-map"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-20",
+  "logo": "/images/tools/diablo-4/wowhead-d4-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["fextralife-d4", "maxroll-d4"],
+  "alternatives": ["fextralife-d4"],
+  "createdBy": {
+    "name": "Wowhead",
+    "url": "https://www.wowhead.com/about"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "world-of-warcraft", "url": "https://www.wowhead.com" }
+    ]
+  }
+}

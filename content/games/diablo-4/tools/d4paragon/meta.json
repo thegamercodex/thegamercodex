@@ -1,0 +1,29 @@
+{
+  "id": "d4paragon",
+  "name": "D4Paragon",
+  "shortName": "D4Paragon",
+  "taglineEs": "Paragon optimization tool dedicado: planeas boards, glyph placement y rotaciones específicas para optimizar power vs respec costs antes de gastar gold in-game",
+  "taglineEn": "Dedicated paragon optimization tool: plan boards, glyph placement, and specific rotations to optimize power vs respec costs before spending in-game gold",
+  "url": "https://d4-paragon.com",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["paragon", "optimization", "glyphs", "board-rotation", "endgame"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/diablo-4/d4paragon-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["d4-planner", "maxroll-d4", "bytemind-calculator"],
+  "alternatives": ["d4-planner"],
+  "createdBy": {
+    "name": "D4Paragon team",
+    "url": "https://d4-paragon.com"
+  }
+}

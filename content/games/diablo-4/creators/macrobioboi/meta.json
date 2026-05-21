@@ -1,0 +1,54 @@
+{
+  "id": "macrobioboi",
+  "name": "MacroBioBoi",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2006,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@MacroBioBoi",
+      "url": "https://www.youtube.com/@MacroBioBoi",
+      "channelId": "UCcGVtNmgZsQ5wXETTGyMQGQ",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "macrobioboi",
+      "url": "https://www.twitch.tv/macrobioboi"
+    },
+    {
+      "type": "twitter",
+      "handle": "@MacroBioBoi",
+      "url": "https://twitter.com/MacroBioBoi"
+    }
+  ],
+  "specialties": [
+    "necromancer-builds",
+    "warlock-builds",
+    "speedfarming",
+    "build-guides"
+  ],
+  "games": ["diablo-4"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "MacroBioBoi es el specialist de Necromancer y Warlock en D4 — su content cubre extensively esas dos clases con builds detallados, speed farming variants y patch reactions específicos. Tambén postea D2R content como crossover. Si juegas Necromancer en D4, su channel es de los más completos para la clase. Asociado con Maxroll team — sus guides aparecen integrated.",
+  "noteEn": "MacroBioBoi is the Necromancer and Warlock specialist in D4 — his content covers those two classes extensively with detailed builds, speed-farming variants, and class-specific patch reactions. Also posts D2R content as crossover. If you play Necromancer in D4, his channel is among the most complete for the class. Associated with the Maxroll team — his guides appear integrated.",
+  "highlightsEs": [
+    "Specialist de Necromancer y Warlock con cobertura profunda por build",
+    "Maxroll team affiliate — guides aparecen integrated en maxroll.gg",
+    "Crossover content con D2R complementa D4 audience",
+    "Cadencia alta de uploads durante season activa",
+    "Foco en speed farming variants no solo single-target push"
+  ],
+  "highlightsEn": [
+    "Necromancer and Warlock specialist with deep per-build coverage",
+    "Maxroll team affiliate — guides appear integrated on maxroll.gg",
+    "D2R crossover content complements the D4 audience",
+    "High upload cadence during active season",
+    "Focus on speed-farming variants, not only single-target push"
+  ],
+  "avatar": "/images/creators/macrobioboi-avatar.jpg",
+  "banner": "/images/creators/macrobioboi-banner.jpg"
+}

@@ -18,7 +18,6 @@ import { BrokenLinkButton } from "@/components/BrokenLinkButton";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { MobileGameBackBar } from "@/components/MobileGameBackBar";
 import { MoreToolsInCategory } from "@/components/MoreToolsInCategory";
-import { OutboundToolLink } from "@/components/OutboundToolLink";
 import { ScreenshotGallery } from "@/components/ScreenshotGallery";
 import { ShareButtons } from "@/components/ShareButtons";
 import { absoluteUrl } from "@/lib/site";
@@ -330,28 +329,26 @@ export default async function ToolPage({ params }: PageParams) {
         </div>
 
         <div className="flex flex-wrap gap-3 lg:hidden">
-          <OutboundToolLink
+          <a
             href={tool.url}
-            toolId={tool.id}
-            gameId={game.id}
-            kind="cta"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex flex-1 items-center justify-center gap-1.5 rounded-md px-4 py-2.5 text-sm font-semibold text-background transition-transform duration-150 hover:-translate-y-0.5"
             style={{ background: accentVar }}
           >
             {t("goToTool")}
             <ArrowUpRight className="h-4 w-4" />
-          </OutboundToolLink>
+          </a>
           {tool.github && (
-            <OutboundToolLink
+            <a
               href={tool.github}
-              toolId={tool.id}
-              gameId={game.id}
-              kind="github"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 rounded-md border border-border bg-muted/40 px-4 py-2.5 text-sm font-semibold transition-colors hover:bg-muted"
             >
               <Code2 className="h-4 w-4" />
               {t("viewSource")}
-            </OutboundToolLink>
+            </a>
           )}
         </div>
       </header>
@@ -493,28 +490,26 @@ export default async function ToolPage({ params }: PageParams) {
 
         <aside className="lg:sticky lg:top-20 lg:self-start">
           <div className="hidden flex-col gap-3 lg:flex">
-            <OutboundToolLink
+            <a
               href={tool.url}
-              toolId={tool.id}
-              gameId={game.id}
-              kind="cta"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-1.5 rounded-md px-4 py-3 text-sm font-semibold text-background shadow-lg transition-transform duration-150 hover:-translate-y-0.5"
               style={{ background: accentVar }}
             >
               {t("goToTool")}
               <ArrowUpRight className="h-4 w-4" />
-            </OutboundToolLink>
+            </a>
             {tool.github && (
-              <OutboundToolLink
+              <a
                 href={tool.github}
-                toolId={tool.id}
-                gameId={game.id}
-                kind="github"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-1.5 rounded-md border border-border bg-muted/40 px-4 py-2.5 text-sm font-medium transition-colors hover:bg-muted"
               >
                 <Code2 className="h-4 w-4" />
                 {t("viewSource")}
-              </OutboundToolLink>
+              </a>
             )}
             <BrokenLinkButton
               gameId={game.id}

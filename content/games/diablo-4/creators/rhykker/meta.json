@@ -1,0 +1,54 @@
+{
+  "id": "rhykker",
+  "name": "Rhykker",
+  "country": "CA",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2007,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Rhykker",
+      "url": "https://www.youtube.com/@Rhykker",
+      "channelId": "UCRl31PWkfF0a3j3hiDRaCGA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "rhykker",
+      "url": "https://www.twitch.tv/rhykker"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Rhykker",
+      "url": "https://twitter.com/Rhykker"
+    }
+  ],
+  "specialties": [
+    "news",
+    "tier-lists",
+    "patch-reactions",
+    "broad-appeal"
+  ],
+  "games": ["diablo-4"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Rhykker es el creator de Diablo con audiencia más amplia — channel grande con cobertura de news, patch reactions, tier lists agregadas y eventos. Su tono es accesible y mainstream, lo que hace su content ideal para newcomers que quieren panorama general sin meterse en theorycraft profundo. Cubre la franchise Diablo entera (D2R, D3, D4, expansiones).",
+  "noteEn": "Rhykker is the Diablo creator with the broadest audience — large channel with coverage of news, patch reactions, aggregated tier lists, and events. His tone is accessible and mainstream, making his content ideal for newcomers wanting a general picture without diving into deep theorycraft. Covers the entire Diablo franchise (D2R, D3, D4, expansions).",
+  "highlightsEs": [
+    "Channel con mayor audiencia del Diablo space",
+    "Cobertura news + patch reactions con cadencia rápida",
+    "Tier lists agregadas presentadas de forma accesible",
+    "Cobre franchise entera incluyendo D2R y expansiones D4",
+    "Tono mainstream, ideal para newcomers"
+  ],
+  "highlightsEn": [
+    "Largest-audience channel in the Diablo space",
+    "Fast-cadence news + patch reactions coverage",
+    "Aggregated tier lists presented accessibly",
+    "Covers the entire franchise including D2R and D4 expansions",
+    "Mainstream tone, ideal for newcomers"
+  ],
+  "avatar": "/images/creators/rhykker-avatar.jpg",
+  "banner": "/images/creators/rhykker-banner.jpg"
+}

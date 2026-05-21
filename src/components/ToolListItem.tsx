@@ -30,7 +30,7 @@ export function ToolListItem({
   return (
     <Link
       href={`/${gameId}/tools/${tool.id}`}
-      className={`group grid grid-cols-[auto_1fr_auto] items-center gap-4 rounded-lg border px-4 py-3 transition-all duration-200 hover:-translate-y-0.5 hover:border-[var(--game-accent,var(--color-accent))]/60 hover:bg-muted/70 ${
+      className={`group grid grid-cols-[auto_1fr] items-center gap-4 rounded-lg border px-4 py-3 transition-all duration-200 hover:-translate-y-0.5 hover:border-[var(--game-accent,var(--color-accent))]/60 hover:bg-muted/70 sm:grid-cols-[auto_1fr_auto] ${
         tool.official
           ? "border-sky-500/20 bg-sky-500/[0.03]"
           : "border-border bg-muted/40"
@@ -70,17 +70,17 @@ export function ToolListItem({
               aria-label={t("official")}
             />
           )}
+        </div>
+        <div className="mt-0.5 flex items-center gap-2 sm:block">
           {category && (
-            <>
-              <span aria-hidden className="text-foreground-subtle">
-                ·
-              </span>
-              <span className="truncate text-xs text-foreground-muted">
-                {category.icon && <span className="mr-1">{category.icon}</span>}
-                {categoryName(category, locale)}
-              </span>
-            </>
+            <p className="min-w-0 truncate text-xs text-foreground-muted">
+              {category.icon && <span className="mr-1">{category.icon}</span>}
+              {categoryName(category, locale)}
+            </p>
           )}
+          <span className="ml-auto shrink-0 rounded-md border border-border bg-background/60 px-1.5 py-0.5 text-[11px] font-medium text-foreground-muted sm:hidden">
+            {tDifficulty(tool.difficulty)}
+          </span>
         </div>
         {tagline && (
           <p className="mt-0.5 truncate text-xs text-foreground-muted">
@@ -89,7 +89,7 @@ export function ToolListItem({
         )}
       </div>
 
-      <div className="flex shrink-0 items-center gap-1.5 text-[11px]">
+      <div className="hidden shrink-0 items-center gap-1.5 text-[11px] sm:flex">
         {tool.free && (
           <span className="rounded-md border border-emerald-500/30 bg-emerald-500/10 px-1.5 py-0.5 font-medium text-emerald-400">
             {t("free")}

@@ -1,0 +1,54 @@
+{
+  "id": "rob2628",
+  "name": "Rob2628",
+  "country": "DE",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2015,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Rob2628",
+      "url": "https://www.youtube.com/@Rob2628",
+      "channelId": "UCSl8TBqqflby-ymdEQVfRNQ",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "rob2628",
+      "url": "https://www.twitch.tv/rob2628"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Rob2628",
+      "url": "https://twitter.com/Rob2628"
+    }
+  ],
+  "specialties": [
+    "builds",
+    "speedfarming",
+    "theorycraft",
+    "patch-reactions"
+  ],
+  "games": ["diablo-4"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Rob2628 es el creator de D4 más prolífico en YouTube — postea múltiples videos por día cubriendo builds, theorycraft, speedfarming y patch reactions. Su content tiene tono enérgico y se enfoca en optimization endgame. Cuando sale balance change, Rob suele tener video analizando dentro de las primeras 24 horas. Para players que farmean activamente Pit y Helltides, su channel es referencia constante.",
+  "noteEn": "Rob2628 is the most prolific D4 creator on YouTube — posts multiple videos a day covering builds, theorycraft, speedfarming, and patch reactions. His content has an energetic tone and focuses on endgame optimization. When a balance change drops, Rob usually has an analysis video out within the first 24 hours. For players actively farming Pit and Helltides, his channel is a constant reference.",
+  "highlightsEs": [
+    "Cadencia diaria de uploads durante season activa",
+    "Builds optimizados para Pit pushing y speed farming",
+    "Patch reactions y meta calls dentro de 24h del balance change",
+    "Live streaming activo en Twitch complementa YouTube",
+    "Foco en endgame: poco contenido de leveling/newcomer"
+  ],
+  "highlightsEn": [
+    "Daily upload cadence during active season",
+    "Builds optimized for Pit pushing and speed farming",
+    "Patch reactions and meta calls within 24h of balance changes",
+    "Active Twitch livestreaming complements YouTube",
+    "Endgame focus: little leveling/newcomer content"
+  ],
+  "avatar": "/images/creators/rob2628-avatar.jpg",
+  "banner": "/images/creators/rob2628-banner.jpg"
+}

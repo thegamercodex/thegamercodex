@@ -1,0 +1,29 @@
+{
+  "id": "mobalytics-d4-overlay",
+  "name": "Mobalytics D4 Overlay",
+  "shortName": "Mobalytics OW",
+  "taglineEs": "Desktop companion oficial de Mobalytics via Overwolf: builds, tier lists y guides accesibles con overlay in-game",
+  "taglineEn": "Official Mobalytics desktop companion via Overwolf: builds, tier lists, and guides accessible with in-game overlay",
+  "url": "https://mobalytics.gg/lol/glp/diablo-4-download",
+  "category": "overlays-companions",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["overlay", "in-game", "overwolf", "builds-companion", "tier-lists"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/common/mobalytics-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mobalytics-d4", "d4builds-overlay", "diablo4-companion"],
+  "alternatives": ["d4builds-overlay"],
+  "createdBy": {
+    "name": "Mobalytics",
+    "url": "https://mobalytics.gg"
+  }
+}

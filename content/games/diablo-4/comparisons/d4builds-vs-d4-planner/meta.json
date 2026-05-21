@@ -1,0 +1,50 @@
+{
+  "id": "d4builds-vs-d4-planner",
+  "toolIds": ["d4builds", "d4-planner"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-05-20",
+  "titleEs": "D4builds.gg vs D4 Planner — sharing community o planning individual",
+  "titleEn": "D4builds.gg vs D4 Planner — community sharing or individual planning",
+  "descriptionEs": "Ambos son build planners. D4builds.gg es plataforma de community sharing con voting; D4 Planner es herramienta de planning individual con UI más técnica.",
+  "descriptionEn": "Both are build planners. D4builds.gg is a community-sharing platform with voting; D4 Planner is an individual planning tool with more technical UI.",
+  "verdictEs": "D4builds.gg para discover builds existentes y validar ideas ante community. D4 Planner para planning iterativo en tu own time sin necesidad de publish. Complementarios.",
+  "verdictEn": "D4builds.gg to discover existing builds and validate ideas with the community. D4 Planner for iterative planning on your own time without needing to publish. Complementary.",
+  "useCases": [
+    {
+      "labelEs": "Discover builds populares filterable por clase",
+      "labelEn": "Discover popular builds filterable by class",
+      "winner": "d4builds",
+      "reasonEs": "D4builds.gg tiene voting comunitario y filters por season/class/popularity. D4 Planner no tiene catálogo browseable.",
+      "reasonEn": "D4builds.gg has community voting and filters by season/class/popularity. D4 Planner has no browseable catalog."
+    },
+    {
+      "labelEs": "Side-by-side comparison entre dos builds",
+      "labelEn": "Side-by-side comparison between two builds",
+      "winner": "d4-planner",
+      "reasonEs": "D4 Planner permite abrir dos builds simultáneamente para comparar stat diff. D4builds.gg requiere abrir builds en tabs separados.",
+      "reasonEn": "D4 Planner allows opening two builds simultaneously to compare stat diffs. D4builds.gg requires opening builds in separate tabs."
+    },
+    {
+      "labelEs": "Fork & customize un build existente",
+      "labelEn": "Fork & customize an existing build",
+      "winner": "d4builds",
+      "reasonEs": "D4builds.gg tiene función Fork built-in — copias un build, modificas, publish opcional. D4 Planner requiere recrear desde scratch.",
+      "reasonEn": "D4builds.gg has built-in Fork — copy a build, modify, optionally publish. D4 Planner requires recreating from scratch."
+    },
+    {
+      "labelEs": "Planning privado sin presión de publish",
+      "labelEn": "Private planning without publish pressure",
+      "winner": "d4-planner",
+      "reasonEs": "D4 Planner es para tu workflow personal sin community visibility. D4builds.gg, aunque permite draft, está culturalmente oriented a publish.",
+      "reasonEn": "D4 Planner is for your personal workflow without community visibility. D4builds.gg, although it allows drafts, is culturally oriented to publish."
+    },
+    {
+      "labelEs": "Validation comunitaria de tu build idea",
+      "labelEn": "Community validation of your build idea",
+      "winner": "d4builds",
+      "reasonEs": "D4builds.gg te da feedback via votes y comments. D4 Planner es self-contained sin community engagement.",
+      "reasonEn": "D4builds.gg gives feedback via votes and comments. D4 Planner is self-contained without community engagement."
+    }
+  ]
+}
