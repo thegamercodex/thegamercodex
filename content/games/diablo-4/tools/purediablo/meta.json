@@ -1,0 +1,29 @@
+{
+  "id": "purediablo",
+  "name": "PureDiablo",
+  "shortName": "PureDiablo",
+  "taglineEs": "Site veterano de la franchise Diablo (desde D2): wiki community-driven, guides, news, mapa interactivo y desktop companion para D4",
+  "taglineEn": "Veteran Diablo franchise site (since D2): community-driven wiki, guides, news, interactive map, and D4 desktop companion",
+  "url": "https://www.purediablo.com/diablo4/",
+  "category": "database",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["community-driven", "wiki", "news", "veteran-site", "map", "desktop-companion"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/diablo-4/purediablo-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["wowhead-d4", "fextralife-d4"],
+  "alternatives": ["fextralife-d4"],
+  "createdBy": {
+    "name": "PureDiablo team",
+    "url": "https://www.purediablo.com"
+  }
+}

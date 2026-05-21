@@ -12,6 +12,12 @@
       "model": "buy-to-play"
     },
     {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/2344520/Diablo_IV/",
+      "appId": "2344520",
+      "model": "buy-to-play"
+    },
+    {
       "platform": "playstation",
       "url": "https://store.playstation.com/en-us/concept/10004986",
       "model": "buy-to-play"
@@ -39,7 +45,7 @@
     "background": "#050202",
     "text": "#e0d2bc"
   },
-  "logo": "/images/games/diablo-4-logo.png",
+  "logo": "/images/games/diablo-4-logo.webp",
   "heroImage": "/images/games/diablo-4-hero.webp",
   "toolCategories": [
     {
@@ -81,6 +87,22 @@
       "descriptionEs": "Hubs comunitarios: discord oficial, subreddit y plataformas de speedrun.",
       "descriptionEn": "Community hubs: official Discord, subreddit, and speedrun platforms.",
       "icon": "💬"
+    },
+    {
+      "id": "trading",
+      "nameEs": "Trading",
+      "nameEn": "Trading",
+      "descriptionEs": "Marketplaces y plataformas de intercambio de items entre jugadores.",
+      "descriptionEn": "Marketplaces and player-to-player item trading platforms.",
+      "icon": "💱"
+    },
+    {
+      "id": "overlays-companions",
+      "nameEs": "Overlays y companions",
+      "nameEn": "Overlays & companions",
+      "descriptionEs": "Apps in-game y desktop companions: loot filters, overlays de stats e info en pantalla.",
+      "descriptionEn": "In-game apps and desktop companions: loot filters, stats overlays, on-screen info.",
+      "icon": "🖥️"
     }
   ],
   "resourceCategories": [
@@ -123,15 +145,6 @@
       "descriptionEs": "Patch notes analysis, balance changes, hotfixes y datamined content.",
       "descriptionEn": "Patch notes analysis, balance changes, hotfixes, and datamined content.",
       "icon": "📋"
-    }
-  ],
-  "newsFeeds": [
-    {
-      "type": "rss",
-      "url": "https://www.wowhead.com/diablo-4/news/rss/all",
-      "nameEs": "Wowhead D4",
-      "nameEn": "Wowhead D4",
-      "priority": 100
     }
   ]
 }

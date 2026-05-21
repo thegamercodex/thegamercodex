@@ -1,0 +1,29 @@
+{
+  "id": "diablo-trade",
+  "name": "Diablo.Trade",
+  "shortName": "Diablo.Trade",
+  "taglineEs": "Marketplace dominante de trading P2P en D4: lista, busca y negocia items con UI moderna y volume de listings consistente — el primary para flips",
+  "taglineEn": "Dominant P2P trading marketplace for D4: list, search, and negotiate items with modern UI and consistent listing volume — the primary for flips",
+  "url": "https://diablo.trade/",
+  "category": "trading",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["trading", "marketplace", "p2p", "items", "auction", "mainstream"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/diablo-4/diablo-trade-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["traderie-d4"],
+  "alternatives": ["traderie-d4"],
+  "createdBy": {
+    "name": "Diablo.Trade team",
+    "url": "https://diablo.trade"
+  }
+}

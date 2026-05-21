@@ -1,0 +1,50 @@
+{
+  "id": "d4builds-overlay-vs-mobalytics-d4-overlay",
+  "toolIds": ["d4builds-overlay", "mobalytics-d4-overlay"],
+  "category": "overlays-companions",
+  "depth": "short",
+  "lastVerified": "2026-05-21",
+  "titleEs": "D4Builds Overlay vs Mobalytics Overlay — duelo de overlays in-game",
+  "titleEn": "D4Builds Overlay vs Mobalytics Overlay — in-game overlay showdown",
+  "descriptionEs": "Ambos overlays in-game vía Overwolf platform. Diferencia central: cuál hub editorial trae a tu overlay. La decisión depende de cuál hub usas más.",
+  "descriptionEn": "Both in-game overlays via Overwolf platform. Central difference: which editorial hub brings to your overlay. Choice depends on which hub you use more.",
+  "verdictEs": "Si Mobalytics es tu hub primary (visual cards, tier lists), Mobalytics Overlay. Si D4Builds (community sharing, Rob2628 curated), D4Builds Overlay. Functionally similar — el content del hub es lo que decide.",
+  "verdictEn": "If Mobalytics is your primary hub (visual cards, tier lists), Mobalytics Overlay. If D4Builds (community sharing, Rob2628 curated), D4Builds Overlay. Functionally similar — the hub content is what decides.",
+  "useCases": [
+    {
+      "labelEs": "Acceso a community builds shared",
+      "labelEn": "Access to shared community builds",
+      "winner": "d4builds-overlay",
+      "reasonEs": "D4Builds Overlay accede al ecosystem D4Builds.gg con community builds voted-up. Mobalytics Overlay shows mostly Mobalytics-curated content.",
+      "reasonEn": "D4Builds Overlay accesses D4Builds.gg ecosystem with community voted-up builds. Mobalytics Overlay shows mostly Mobalytics-curated content."
+    },
+    {
+      "labelEs": "Visual tier lists con badges",
+      "labelEn": "Visual tier lists with badges",
+      "winner": "mobalytics-d4-overlay",
+      "reasonEs": "Mobalytics' brand strength son tier lists visual con S/A/B/C badges. Overlay refleja eso. D4Builds tiene tier list pero menos visual-first.",
+      "reasonEn": "Mobalytics' brand strength is visual tier lists with S/A/B/C badges. Overlay reflects that. D4Builds has tier lists but less visual-first."
+    },
+    {
+      "labelEs": "Build planner accessible in-overlay",
+      "labelEn": "In-overlay accessible build planner",
+      "winner": "d4builds-overlay",
+      "reasonEs": "D4Builds Overlay incluye el planner integrado. Mobalytics tiene planner pero el overlay simplifica el access.",
+      "reasonEn": "D4Builds Overlay includes the integrated planner. Mobalytics has a planner but the overlay simplifies access."
+    },
+    {
+      "labelEs": "Multi-game continuity (LoL + D4)",
+      "labelEn": "Multi-game continuity (LoL + D4)",
+      "winner": "mobalytics-d4-overlay",
+      "reasonEs": "Mobalytics es multi-game. Si usas Mobalytics for LoL plus D4, single Overwolf account + overlay covers both.",
+      "reasonEn": "Mobalytics is multi-game. If you use Mobalytics for LoL plus D4, single Overwolf account + overlay covers both."
+    },
+    {
+      "labelEs": "Speed de updates post-patch",
+      "labelEn": "Speed of post-patch updates",
+      "winner": "d4builds-overlay",
+      "reasonEs": "D4Builds.gg updatea community-driven que reacciona rápido. Mobalytics' editorial update toma 1-2 días más vs D4Builds.gg's organic flow.",
+      "reasonEn": "D4Builds.gg updates community-driven that reacts fast. Mobalytics' editorial update takes 1-2 days more vs D4Builds.gg's organic flow."
+    }
+  ]
+}

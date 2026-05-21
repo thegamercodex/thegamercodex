@@ -1,0 +1,50 @@
+{
+  "id": "diablo4-dad-vs-diablo4codex",
+  "toolIds": ["diablo4-dad", "diablo4codex"],
+  "category": "event-tracking",
+  "depth": "short",
+  "lastVerified": "2026-05-21",
+  "titleEs": "Diablo 4 Dad vs Diablo4codex — los dos collection trackers",
+  "titleEn": "Diablo 4 Dad vs Diablo4codex — the two collection trackers",
+  "descriptionEs": "Ambos trackean progresión en D4 pero con scopes distintos. Codex foco en seasonal progress + Codex of Power; Dad foco en world collection (altars, statues, glyphs, mounts).",
+  "descriptionEn": "Both track D4 progression but with different scopes. Codex focuses on seasonal progress + Codex of Power; Dad focuses on world collection (altars, statues, glyphs, mounts).",
+  "verdictEs": "Diablo4codex para seasonal grind y Codex of Power. Diablo 4 Dad para world completion comprehensive (altars, statues, glyphs, mounts). Para ultra-completionists, ambos en sequence cubren todo.",
+  "verdictEn": "Diablo4codex for seasonal grind and Codex of Power. Diablo 4 Dad for comprehensive world completion (altars, statues, glyphs, mounts). For ultra-completionists, both in sequence cover everything.",
+  "useCases": [
+    {
+      "labelEs": "Codex of Power aspects unlocked tracking",
+      "labelEn": "Codex of Power aspects unlocked tracking",
+      "winner": "diablo4codex",
+      "reasonEs": "Diablo4codex es Codex of Power-first. Dad cubre otras collection metrics pero Codex específicamente es el strength de Diablo4codex.",
+      "reasonEn": "Diablo4codex is Codex of Power-first. Dad covers other collection metrics but Codex specifically is Diablo4codex's strength."
+    },
+    {
+      "labelEs": "Altars of Lilith y Renown progress",
+      "labelEn": "Altars of Lilith and Renown progress",
+      "winner": "diablo4-dad",
+      "reasonEs": "Dad cubre altars + Renown statues + per-region progress detail. Codex no granulariza Renown progress en mismo nivel.",
+      "reasonEn": "Dad covers altars + Renown statues + per-region progress detail. Codex doesn't granularize Renown progress at the same level."
+    },
+    {
+      "labelEs": "Paragon glyphs collection",
+      "labelEn": "Paragon glyphs collection",
+      "winner": "diablo4-dad",
+      "reasonEs": "Dad trackea paragon glyphs collected vs total disponibles. Codex no incluye paragon glyphs como tracking metric.",
+      "reasonEn": "Dad tracks paragon glyphs collected vs total available. Codex doesn't include paragon glyphs as a tracking metric."
+    },
+    {
+      "labelEs": "Seasonal Journey objectives",
+      "labelEn": "Seasonal Journey objectives",
+      "winner": "diablo4codex",
+      "reasonEs": "Codex es seasonal-focused y trackea Journey objectives explicitly. Dad cubre menos seasonal mechanics.",
+      "reasonEn": "Codex is seasonal-focused and tracks Journey objectives explicitly. Dad covers less of seasonal mechanics."
+    },
+    {
+      "labelEs": "Mounts y minor collectibles",
+      "labelEn": "Mounts and minor collectibles",
+      "winner": "diablo4-dad",
+      "reasonEs": "Dad incluye mount completion plus minor collectibles (emotes, etc.) que Codex no trackea como granularity prioritaria.",
+      "reasonEn": "Dad includes mount completion plus minor collectibles (emotes, etc.) that Codex doesn't track as priority granularity."
+    }
+  ]
+}

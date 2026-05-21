@@ -17,10 +17,10 @@
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-05-20",
-  "logo": "/images/tools/diablo-4/diablo4-subreddit-logo.png",
+  "logo": "/images/tools/common/reddit-logo.png",
   "screenshots": [],
   "videos": [],
-  "relatedTools": ["diablo4-discord", "diablorun"],
+  "relatedTools": ["diablo4-discord"],
   "alternatives": ["diablo4-discord"],
   "createdBy": {
     "name": "Reddit community",

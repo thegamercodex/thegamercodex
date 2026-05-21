@@ -1,0 +1,29 @@
+{
+  "id": "lexi-d4",
+  "name": "Lexi.gg D4",
+  "shortName": "Lexi.gg",
+  "taglineEs": "Tier list aggregator único que compara rankings entre D4Builds, Maxroll y Mobalytics en una sola vista — más builds curados y wiki, todo mobile-friendly",
+  "taglineEn": "Unique tier list aggregator comparing D4Builds, Maxroll, and Mobalytics rankings in one view — plus curated builds and wiki, all mobile-friendly",
+  "url": "https://lexi.gg/diablo-4",
+  "category": "guides-tier-lists",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["tier-list-aggregator", "builds", "wiki", "mobile-friendly", "cross-site-comparison"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/diablo-4/lexi-d4-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["maxroll-d4", "mobalytics-d4", "d4builds"],
+  "alternatives": ["mobalytics-d4"],
+  "createdBy": {
+    "name": "Lexi.gg team",
+    "url": "https://lexi.gg/diablo-4"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "diablo-trade-vs-traderie-d4",
+  "toolIds": ["diablo-trade", "traderie-d4"],
+  "category": "trading",
+  "depth": "short",
+  "lastVerified": "2026-05-21",
+  "titleEs": "Diablo.Trade vs Traderie — los dos marketplaces de D4",
+  "titleEn": "Diablo.Trade vs Traderie — D4's two marketplaces",
+  "descriptionEs": "Los dos marketplaces P2P principales de D4. Diablo.Trade es D4-only con higher volume; Traderie es multi-game con auctions feature.",
+  "descriptionEn": "D4's two main P2P marketplaces. Diablo.Trade is D4-only with higher volume; Traderie is multi-game with auction features.",
+  "verdictEs": "Diablo.Trade para day-to-day trading volume y D4-specific UX. Traderie como alternative para auctions de high-value items y cross-game collectors. Serious flippers monitor ambos.",
+  "verdictEn": "Diablo.Trade for day-to-day trading volume and D4-specific UX. Traderie as an alternative for high-value item auctions and cross-game collectors. Serious flippers monitor both.",
+  "useCases": [
+    {
+      "labelEs": "Listing volume y buyer pool D4 específico",
+      "labelEn": "D4-specific listing volume and buyer pool",
+      "winner": "diablo-trade",
+      "reasonEs": "Diablo.Trade es D4-only foco, lo que atrae más D4 traders. Traderie split between multiple games, smaller D4 community.",
+      "reasonEn": "Diablo.Trade is D4-only focused, attracting more D4 traders. Traderie split between multiple games, smaller D4 community."
+    },
+    {
+      "labelEs": "Auction format para high-value items",
+      "labelEn": "Auction format for high-value items",
+      "winner": "traderie-d4",
+      "reasonEs": "Traderie tiene auction feature built-in, mejor para items raros donde el real price emerges via bidding. Diablo.Trade es fixed-price only.",
+      "reasonEn": "Traderie has built-in auction feature, better for rare items where real price emerges via bidding. Diablo.Trade is fixed-price only."
+    },
+    {
+      "labelEs": "UI optimizada para D4 filtering",
+      "labelEn": "D4-optimized filtering UI",
+      "winner": "diablo-trade",
+      "reasonEs": "Diablo.Trade filters incluyen affixes, ilvl, aspects — D4-specific granularity. Traderie tiene filters más generics across games.",
+      "reasonEn": "Diablo.Trade filters include affixes, ilvl, aspects — D4-specific granularity. Traderie has more generic cross-game filters."
+    },
+    {
+      "labelEs": "Multi-game traders activos",
+      "labelEn": "Active multi-game traders",
+      "winner": "traderie-d4",
+      "reasonEs": "Traderie cubre Pokemon, Adopt Me, MMOs. Si tradeás en varios games, single Traderie account vs separate Diablo.Trade.",
+      "reasonEn": "Traderie covers Pokemon, Adopt Me, MMOs. If you trade across games, single Traderie account vs separate Diablo.Trade."
+    },
+    {
+      "labelEs": "Backup si una platform tiene downtime",
+      "labelEn": "Backup if one platform has downtime",
+      "winner": "diablo-trade",
+      "reasonEs": "Diablo.Trade es la primary, infrequente downtime. Traderie ocasionalmente cae más por scope cross-game. Para D4 reliability, Diablo.Trade gana.",
+      "reasonEn": "Diablo.Trade is primary, infrequent downtime. Traderie occasionally goes down more due to cross-game scope. For D4 reliability, Diablo.Trade wins."
+    }
+  ]
+}

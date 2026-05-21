@@ -1,0 +1,29 @@
+{
+  "id": "mapgenie-d4",
+  "name": "MapGenie Diablo IV",
+  "shortName": "MapGenie",
+  "taglineEs": "Mapa interactivo más completo de Sanctuary: dungeons, waypoints, quests, Lilith statues, collectibles y POIs con filtros granulares y progress tracking",
+  "taglineEn": "The most complete Sanctuary interactive map: dungeons, waypoints, quests, Lilith statues, collectibles, and POIs with granular filters and progress tracking",
+  "url": "https://mapgenie.io/diablo-4/maps/sanctuary",
+  "category": "event-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web", "ios", "android"],
+  "languages": ["en"],
+  "tags": ["interactive-map", "collectibles", "lilith-statues", "progress-tracker", "mobile-app"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/diablo-4/mapgenie-d4-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["helltides", "wowhead-d4", "th-gl-d4"],
+  "alternatives": ["th-gl-d4"],
+  "createdBy": {
+    "name": "MapGenie",
+    "url": "https://mapgenie.io"
+  }
+}

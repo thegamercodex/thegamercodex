@@ -1,0 +1,29 @@
+{
+  "id": "diablo4-dad",
+  "name": "Diablo 4 Dad",
+  "shortName": "D4 Dad",
+  "taglineEs": "Collection tracker comprensivo para completionists: mounts, achievements, altars, dungeons, mounts, statues con sync via account y filters por pending",
+  "taglineEn": "Comprehensive collection tracker for completionists: mounts, achievements, altars, dungeons, statues with account sync and filters by pending",
+  "url": "https://diablo4.dad/",
+  "category": "event-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["collection-tracker", "completion", "achievements", "altars", "statues"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/diablo-4/diablo4-dad-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["diablo4codex", "diablo4-life"],
+  "alternatives": ["diablo4codex"],
+  "createdBy": {
+    "name": "Diablo 4 Dad",
+    "url": "https://diablo4.dad"
+  }
+}

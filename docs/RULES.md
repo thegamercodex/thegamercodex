@@ -84,9 +84,11 @@ Sin matches = limpio. Cualquier match es un bug y bloquea el commit.
 **Reglas**:
 
 - Las **tool images viven en una subcarpeta por juego** dentro de `public/images/tools/`. La carpeta corresponde al juego donde el tool tiene su entry en `content/games/<game>/tools/<tool>/`. Esto evita que el directorio raíz se llene con cientos de archivos sueltos cuando el codex crezca a 200+ tools.
-- **Logos compartidos en `public/images/tools/common/`** para tools cuya identidad visual es la plataforma que las hostea (GitHub, Nexus Mods, etc.) en lugar de una marca propia. **Antes de bajar un logo per-tool, chequear si la URL del tool corresponde a un vendor con logo ya en `common/`** — si sí, referenciar ese path en `meta.json` y saltar la descarga. Mapeo actual (crece a medida que se agregan logos):
+- **Logos compartidos en `public/images/tools/common/`** para tools cuya identidad visual es la plataforma que las hostea (GitHub, Nexus Mods, etc.) en lugar de una marca propia, o para brands con presencia repetida cross-game. **Antes de bajar un logo per-tool, chequear si la URL del tool corresponde a un vendor con logo ya en `common/`** — si sí, referenciar ese path en `meta.json` y saltar la descarga. Mapeo actual (crece a medida que se agregan logos):
   - `github.com/*` → `"logo": "/images/tools/common/github-logo.png"`
   - `nexusmods.com/*` (y `www.nexusmods.com/*`) → `"logo": "/images/tools/common/nexusmods-logo.svg"`
+  - `mobalytics.gg/*` → `"logo": "/images/tools/common/mobalytics-logo.png"` (presente en LoL, Valorant, PoE 2, D4 — 5 entries)
+  - `discord.com/invite/*` (Discord oficial servers) → `"logo": "/images/tools/common/discord-logo.png"` (presente en 6+ entries)
 - El criterio para mover un logo a `common/` es que **se repita en 3+ tools**. Marcas con presencia única se mantienen como logo per-tool.
 - Tool ids son únicos globalmente (entre creators y entre tools), pero al colocarse bajo un game subfolder de assets el riesgo de colisión queda absorbido por el path completo. Si una tool aparece en múltiples juegos vía `multiGame`, los otros games referencian el path de su game primario (no se duplican los archivos).
 - Otros tipos de asset (game hero/logo, creator avatar/banner) **no usan subcarpetas** — viven flat en `games/` y `creators/` respectivamente. La regla de subcarpeta es solo para tools por el volumen alto.

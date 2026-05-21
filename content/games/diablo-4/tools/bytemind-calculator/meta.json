@@ -1,0 +1,29 @@
+{
+  "id": "bytemind-calculator",
+  "name": "Bytemind D4 Damage & Defense Calculator",
+  "shortName": "Bytemind Calc",
+  "taglineEs": "Calculator comprensivo de damage y defense: inputás stats, gear y aspects, te devuelve damage scaling exact y survivability projections — favorita de theorycrafters",
+  "taglineEn": "Comprehensive damage and defense calculator: input stats, gear, and aspects, receive exact damage scaling and survivability projections — favorite of theorycrafters",
+  "url": "https://bytemind-de.github.io/apps/d4/",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["calculator", "damage", "defense", "stat-projection", "theorycraft"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/diablo-4/bytemind-calculator-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["d4-planner", "d4paragon"],
+  "alternatives": ["d4-planner"],
+  "createdBy": {
+    "name": "Florian (bytemind-de)",
+    "url": "https://github.com/bytemind-de"
+  }
+}

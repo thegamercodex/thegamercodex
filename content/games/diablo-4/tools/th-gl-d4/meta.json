@@ -1,0 +1,30 @@
+{
+  "id": "th-gl-d4",
+  "name": "TH.GL Diablo IV Map",
+  "shortName": "TH.GL",
+  "taglineEs": "Mapa interactivo de Sanctuary con feature distintivo de drawing + sharing colaborativo: dibujás routes encima del mapa y compartís con tu grupo",
+  "taglineEn": "Sanctuary interactive map with a distinctive collaborative drawing + sharing feature: draw routes over the map and share with your group",
+  "url": "https://diablo4.th.gl/",
+  "category": "event-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/lmachens/th.gl",
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["interactive-map", "drawing", "collaborative", "overlay-available", "open-source"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/diablo-4/th-gl-d4-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mapgenie-d4", "helltides"],
+  "alternatives": ["mapgenie-d4"],
+  "createdBy": {
+    "name": "Leon Machens",
+    "url": "https://github.com/lmachens"
+  }
+}
