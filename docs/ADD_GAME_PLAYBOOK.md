@@ -460,10 +460,12 @@ Después de escribir todos los .md y meta.json, correr el grep de `docs/RULES.md
 
 Después de mergear a `main` y verificar deploy en thegamercodex.com, agregar al mensaje de cierre **dos links clickeables** para acelerar indexing de Google (per `docs/RULES.md → "Indexing post-merge a main"`):
 
-1. **Game hub URL**: `https://thegamercodex.com/en/<game-id>`
-2. **GSC inspect prellenado**: `https://search.google.com/search-console/inspect?resource_id=sc-domain%3Athegamercodex.com&id=https%3A%2F%2Fthegamercodex.com%2Fen%2F<game-id>` (URL-encodear el hub URL en el parámetro `id`)
+1. **Game hub URL** (a copiar): `https://thegamercodex.com/en/<game-id>`
+2. **GSC dashboard**: `https://search.google.com/search-console?resource_id=sc-domain%3Athegamercodex.com`
 
-El usuario abre el GSC link, hace login si hace falta, y clickea "Request indexing". Con un submit del hub Google crawlea recursivamente tools/comparisons/resources del game. No submitir cada URL individual.
+El usuario abre el GSC link (login si hace falta), pega el hub URL en el input "Inspeccionar cualquier URL" que aparece arriba del dashboard, Enter, "Request indexing". Con ese submit del hub Google crawlea recursivamente tools/comparisons/resources del game.
+
+**No usar** el deep link a `/inspect` con `id` prellenado (`.../search-console/inspect?resource_id=...&id=...`) — Google strippea los query params en el redirect de auth y devuelve 404. Probado en el lanzamiento de FFXIV (2026-05-20).
 
 ---
 
