@@ -1,0 +1,29 @@
+{
+  "id": "helltides",
+  "name": "Helltides.com",
+  "shortName": "Helltides",
+  "taglineEs": "Timer simple y dedicado para Helltide events: te dice cuándo está activo, en qué zona, y cuánto falta para el próximo — info crítica para optimizar farm de cinders y aspects",
+  "taglineEn": "Simple, dedicated Helltide event timer: tells you when it's active, in which zone, and how long until the next — critical info for optimizing cinder and aspect farms",
+  "url": "https://www.helltides.com",
+  "category": "event-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["timer", "helltide", "farm-optimization", "cinders", "single-purpose"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-20",
+  "logo": "/images/tools/diablo-4/helltides-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["diablo4-life", "diablo4codex"],
+  "alternatives": ["diablo4-life"],
+  "createdBy": {
+    "name": "Helltides.com team",
+    "url": "https://www.helltides.com"
+  }
+}

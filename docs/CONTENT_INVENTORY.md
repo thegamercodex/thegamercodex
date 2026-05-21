@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-19
+> Última generación: 2026-05-20
 
 ## Resumen
 
-15 juegos · 234 tools · 75 creators · 77 categorías · 385 resources items · 50 comparisons
+16 juegos · 247 tools · 79 creators · 82 categorías · 410 resources items · 55 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -13,6 +13,7 @@
 | `counter-strike-2` | Counter-Strike 2 | 15 | 5 | 5 | 25 | 0 |
 | `cyberpunk-2077` | Cyberpunk 2077 | 15 | 5 | 5 | 25 | 0 |
 | `destiny-2` | Destiny 2 | 12 | 5 | 5 | 25 | 0 |
+| `diablo-4` | Diablo IV | 13 | 4 | 5 | 25 | 5 |
 | `dota-2` | Dota 2 | 13 | 5 | 5 | 25 | 0 |
 | `final-fantasy-xiv` | Final Fantasy XIV | 15 | 5 | 5 | 25 | 5 |
 | `genshin-impact` | Genshin Impact | 24 | 5 | 6 | 30 | 6 |
@@ -86,6 +87,21 @@
 - `season-overviews` — 5 items
 
 **Comparisons (0)**: _(none)_
+
+### Diablo IV (`diablo-4`)
+
+**Tools (13)**: D4 Planner (`d4-planner`), D4builds.gg (`d4builds`), Diablo IV Discord (oficial) (`diablo4-discord`), Diablo4.life (`diablo4-life`), r/diablo4 (`diablo4-subreddit`), Diablo 4 Codex (`diablo4codex`), DiabloRun (`diablorun`), Fextralife D4 Wiki (`fextralife-d4`), Helltides.com (`helltides`), Icy Veins D4 (`icy-veins-d4`), Maxroll D4 (`maxroll-d4`), Mobalytics D4 (`mobalytics-d4`), Wowhead D4 (`wowhead-d4`)
+
+**Creators (4)**: MacroBioBoi (`macrobioboi`), Rhykker (`rhykker`), Rob2628 (`rob2628`), Wudijo (`wudijo`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `class-guides` — 5 items
+- `endgame-guides` — 5 items
+- `patch-coverage` — 5 items
+- `season-coverage` — 5 items
+
+**Comparisons (5)**: `d4builds-vs-d4-planner` (short), `helltides-vs-diablo4-life` (short), `maxroll-d4-vs-mobalytics-d4` (flagship), `mobalytics-d4-vs-icy-veins-d4` (short), `wowhead-d4-vs-fextralife-d4` (short)
 
 ### Dota 2 (`dota-2`)
 

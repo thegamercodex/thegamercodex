@@ -1,0 +1,29 @@
+{
+  "id": "d4-planner",
+  "name": "D4 Planner",
+  "shortName": "D4 Planner",
+  "taglineEs": "Build planner alternativo enfocado en visualización del skill tree y paragon board, con sharing link y comparativa side-by-side entre builds",
+  "taglineEn": "Alternative build planner focused on skill tree and paragon board visualization, with shareable links and side-by-side build comparison",
+  "url": "https://d4planner.io",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["planner", "skill-tree", "paragon", "share-link", "side-by-side"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-20",
+  "logo": "/images/tools/diablo-4/d4-planner-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["d4builds", "maxroll-d4"],
+  "alternatives": ["d4builds"],
+  "createdBy": {
+    "name": "D4 Planner team",
+    "url": "https://d4planner.io"
+  }
+}

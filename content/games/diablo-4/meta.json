@@ -1,0 +1,137 @@
+{
+  "id": "diablo-4",
+  "name": "Diablo IV",
+  "shortName": "D4",
+  "developer": "Blizzard Entertainment",
+  "releaseYear": 2023,
+  "officialUrl": "https://diablo4.blizzard.com",
+  "stores": [
+    {
+      "platform": "battlenet",
+      "url": "https://us.shop.battle.net/en-us/family/diablo-iv",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10004986",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/store/diablo-iv/9pn3cthd0nzh",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["expansion", "battle-pass", "cosmetics", "platinum-currency"],
+    "payToWin": false,
+    "noteEs": "Compra única (~$70 USD) más expansión Vessel of Hatred (2024, ~$40 USD). Tiene battle pass por temporada (~$10 USD) con rewards cosméticos y boost de XP, además de tienda de cosméticos (armaduras, mounts, emotes) con Platinum currency premium. Sin ventaja de poder comprable: el gear viene del gameplay. Las próximas expansiones se anuncian con cadencia anual.",
+    "noteEn": "One-time purchase (~$70 USD) plus the Vessel of Hatred expansion (2024, ~$40 USD). Has a per-season battle pass (~$10 USD) with cosmetic rewards and XP boosts, plus a cosmetics shop (armor, mounts, emotes) using premium Platinum currency. No buyable power: gear comes from gameplay. Future expansions are announced on an annual cadence."
+  },
+  "platforms": ["windows", "playstation", "xbox"],
+  "genres": ["arpg", "fantasy", "dark-fantasy", "online"],
+  "theme": {
+    "primary": "#5a1010",
+    "secondary": "#0e0606",
+    "accent": "#c19b4a",
+    "background": "#050202",
+    "text": "#e0d2bc"
+  },
+  "logo": "/images/games/diablo-4-logo.png",
+  "heroImage": "/images/games/diablo-4-hero.webp",
+  "toolCategories": [
+    {
+      "id": "build-planning",
+      "nameEs": "Planificación de Builds",
+      "nameEn": "Build Planning",
+      "descriptionEs": "Builders de skill tree, paragon y gear para diseñar y compartir tu personaje pieza por pieza.",
+      "descriptionEn": "Skill tree, paragon, and gear builders to design and share your character piece by piece.",
+      "icon": "🧮"
+    },
+    {
+      "id": "guides-tier-lists",
+      "nameEs": "Guías y tier lists",
+      "nameEn": "Guides & tier lists",
+      "descriptionEs": "Guías de clase, builds meta y tier lists actualizados al patch y temporada actual.",
+      "descriptionEn": "Class guides, meta builds, and tier lists kept current with the patch and season.",
+      "icon": "📖"
+    },
+    {
+      "id": "database",
+      "nameEs": "Databases y wikis",
+      "nameEn": "Databases & wikis",
+      "descriptionEs": "Bases de datos de items, aspects, uniques, skills, paragon nodes y lore.",
+      "descriptionEn": "Databases for items, aspects, uniques, skills, paragon nodes, and lore.",
+      "icon": "📚"
+    },
+    {
+      "id": "event-tracking",
+      "nameEs": "Tracking de eventos",
+      "nameEn": "Event tracking",
+      "descriptionEs": "Timers de Helltide, eventos seasonal, world bosses y rotación de world tier.",
+      "descriptionEn": "Helltide timers, seasonal events, world bosses, and world tier rotation.",
+      "icon": "⏰"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Hubs comunitarios: discord oficial, subreddit y plataformas de speedrun.",
+      "descriptionEn": "Community hubs: official Discord, subreddit, and speedrun platforms.",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para principiantes",
+      "nameEn": "Beginner guides",
+      "descriptionEs": "Recursos de entrada: campaña, primer endgame, mecánicas básicas y elección de clase.",
+      "descriptionEn": "Entry resources: campaign, first endgame, basic mechanics, and class choice.",
+      "icon": "🎓"
+    },
+    {
+      "id": "class-guides",
+      "nameEs": "Guías de clase",
+      "nameEn": "Class guides",
+      "descriptionEs": "Builds y rotaciones por clase: Barbarian, Sorcerer, Druid, Rogue, Necromancer, Spiritborn.",
+      "descriptionEn": "Builds and rotations per class: Barbarian, Sorcerer, Druid, Rogue, Necromancer, Spiritborn.",
+      "icon": "⚔️"
+    },
+    {
+      "id": "season-coverage",
+      "nameEs": "Cobertura de temporada",
+      "nameEn": "Season coverage",
+      "descriptionEs": "Mecánicas seasonal, theme nuevo y guías de aprovechamiento del battle pass.",
+      "descriptionEn": "Seasonal mechanics, new theme, and battle pass utilization guides.",
+      "icon": "🗓️"
+    },
+    {
+      "id": "endgame-guides",
+      "nameEs": "Guías de endgame",
+      "nameEn": "Endgame guides",
+      "descriptionEs": "Tormented bosses, Pit, Infernal Hordes, Helltides farming y paragon optimization.",
+      "descriptionEn": "Tormented bosses, Pit, Infernal Hordes, Helltide farming, and paragon optimization.",
+      "icon": "🔥"
+    },
+    {
+      "id": "patch-coverage",
+      "nameEs": "Cobertura de patches",
+      "nameEn": "Patch coverage",
+      "descriptionEs": "Patch notes analysis, balance changes, hotfixes y datamined content.",
+      "descriptionEn": "Patch notes analysis, balance changes, hotfixes, and datamined content.",
+      "icon": "📋"
+    }
+  ],
+  "newsFeeds": [
+    {
+      "type": "rss",
+      "url": "https://www.wowhead.com/diablo-4/news/rss/all",
+      "nameEs": "Wowhead D4",
+      "nameEn": "Wowhead D4",
+      "priority": 100
+    }
+  ]
+}

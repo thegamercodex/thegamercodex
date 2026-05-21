@@ -1,0 +1,29 @@
+{
+  "id": "fextralife-d4",
+  "name": "Fextralife D4 Wiki",
+  "shortName": "Fextralife",
+  "taglineEs": "Wiki community-edited con cobertura amplia: builds, classes, locations, lore, quests y mecánicas con walkthroughs detallados — alternativa narrativa a la database pura de Wowhead",
+  "taglineEn": "Community-edited wiki with broad coverage: builds, classes, locations, lore, quests, and mechanics with detailed walkthroughs — narrative alternative to Wowhead's pure database",
+  "url": "https://diablo4.wiki.fextralife.com",
+  "category": "database",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "community-edited", "lore", "quests", "walkthroughs", "narrative"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-20",
+  "logo": "/images/tools/diablo-4/fextralife-d4-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["wowhead-d4"],
+  "alternatives": ["wowhead-d4"],
+  "createdBy": {
+    "name": "Fextralife",
+    "url": "https://fextralife.com"
+  }
+}

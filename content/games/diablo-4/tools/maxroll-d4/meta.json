@@ -1,0 +1,36 @@
+{
+  "id": "maxroll-d4",
+  "name": "Maxroll D4",
+  "shortName": "Maxroll",
+  "taglineEs": "Hub flagship de Diablo IV: builds detallados, planner interactivo, guides por clase, tier lists y rankings de la temporada actual — todo curado por equipo editorial profesional",
+  "taglineEn": "Diablo IV's flagship hub: detailed builds, interactive planner, per-class guides, tier lists, and current-season rankings — all curated by a professional editorial team",
+  "url": "https://maxroll.gg/d4",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["builds", "planner", "guides", "tier-lists", "season-current", "professional-editorial"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-20",
+  "logo": "/images/tools/diablo-4/maxroll-d4-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mobalytics-d4", "d4builds", "d4-planner"],
+  "alternatives": ["mobalytics-d4"],
+  "createdBy": {
+    "name": "Maxroll Team",
+    "url": "https://maxroll.gg/about"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "path-of-exile", "url": "https://maxroll.gg/poe" },
+      { "gameId": "path-of-exile-2", "url": "https://maxroll.gg/poe2" }
+    ]
+  }
+}

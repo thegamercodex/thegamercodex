@@ -1,0 +1,36 @@
+{
+  "id": "mobalytics-d4",
+  "name": "Mobalytics D4",
+  "shortName": "Mobalytics",
+  "taglineEs": "Hub multi-juego con foco en D4: tier lists rápidas, builds populares y guías de clase con UI moderna orientada a casual y mid-core players",
+  "taglineEn": "Multi-game hub focused on D4: quick tier lists, popular builds, and class guides with a modern UI aimed at casual and mid-core players",
+  "url": "https://mobalytics.gg/diablo-4",
+  "category": "guides-tier-lists",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["tier-lists", "builds", "class-guides", "modern-ui", "season-current"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-20",
+  "logo": "/images/tools/diablo-4/mobalytics-d4-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["maxroll-d4", "icy-veins-d4", "d4builds"],
+  "alternatives": ["maxroll-d4"],
+  "createdBy": {
+    "name": "Mobalytics",
+    "url": "https://mobalytics.gg/about"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "league-of-legends", "url": "https://mobalytics.gg/lol" },
+      { "gameId": "path-of-exile-2", "url": "https://mobalytics.gg/poe-2" }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "mobalytics-d4-vs-icy-veins-d4",
+  "toolIds": ["mobalytics-d4", "icy-veins-d4"],
+  "category": "guides-tier-lists",
+  "depth": "short",
+  "lastVerified": "2026-05-20",
+  "titleEs": "Mobalytics D4 vs Icy Veins D4 — visual moderno o prosa enciclopedia",
+  "titleEn": "Mobalytics D4 vs Icy Veins D4 — modern visual or encyclopedia prose",
+  "descriptionEs": "Ambos cubren guides y tier lists pero con formatos opuestos. Mobalytics es visual cards modernas; Icy Veins es long-form prose enciclopedia.",
+  "descriptionEn": "Both cover guides and tier lists but with opposite formats. Mobalytics is modern visual cards; Icy Veins is encyclopedia-style long-form prose.",
+  "verdictEs": "Mobalytics si quieres visual moderna y quick scan. Icy Veins si preferís lectura prose long-form sin video distractions. Ambos competitive pero a audiencias diferentes.",
+  "verdictEn": "Mobalytics if you want modern visual and quick scan. Icy Veins if you prefer long-form prose reading without video distractions. Both competitive but to different audiences.",
+  "useCases": [
+    {
+      "labelEs": "Visual scan rápido de tier list",
+      "labelEn": "Quick visual tier list scan",
+      "winner": "mobalytics-d4",
+      "reasonEs": "Mobalytics presenta tier lists con badges S/A/B/C en grid visible at-a-glance. Icy Veins tiene tier lists pero embedded en prose, requiere reading.",
+      "reasonEn": "Mobalytics presents tier lists with S/A/B/C badges in at-a-glance grid. Icy Veins has tier lists but embedded in prose, requires reading."
+    },
+    {
+      "labelEs": "Lectura long-form sin video",
+      "labelEn": "Long-form reading without video",
+      "winner": "icy-veins-d4",
+      "reasonEs": "Icy Veins prose deep es pure text, ideal para learners que prefieren leer sobre ver. Mobalytics simplifica a cards que pierden context narrativo.",
+      "reasonEn": "Icy Veins deep prose is pure text, ideal for learners who prefer reading over watching. Mobalytics simplifies to cards that lose narrative context."
+    },
+    {
+      "labelEs": "Familiarity para WoW players migrating",
+      "labelEn": "Familiarity for migrating WoW players",
+      "winner": "icy-veins-d4",
+      "reasonEs": "Icy Veins es la referencia default para WoW players. Migrating a D4 mantiene formato familiar. Mobalytics tiene mejor brand en MOBAs (LoL).",
+      "reasonEn": "Icy Veins is the default reference for WoW players. Migrating to D4 keeps the familiar format. Mobalytics has better brand in MOBAs (LoL)."
+    },
+    {
+      "labelEs": "Mobile-friendly browsing",
+      "labelEn": "Mobile-friendly browsing",
+      "winner": "mobalytics-d4",
+      "reasonEs": "Mobalytics UI visual moderna funciona bien en mobile. Icy Veins long pages de prose son rough en pantalla chica.",
+      "reasonEn": "Mobalytics' modern visual UI works well on mobile. Icy Veins' long prose pages are rough on small screens."
+    },
+    {
+      "labelEs": "Patch update reactions con cadencia",
+      "labelEn": "Patch update reactions with cadence",
+      "winner": "mobalytics-d4",
+      "reasonEs": "Mobalytics post-patch update suele estar listo en 24-48h. Icy Veins tarda 3-5 días en revisar full prose content.",
+      "reasonEn": "Mobalytics post-patch update tends to be ready in 24-48h. Icy Veins takes 3-5 days to revise full prose content."
+    }
+  ]
+}

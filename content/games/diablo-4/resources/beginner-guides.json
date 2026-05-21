@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "rhykker-loh-season-13-ultimate-beginner-guide",
+      "type": "video",
+      "title": "Diablo 4 Lord of Hatred Season 13 Ultimate Beginner Guide",
+      "creator": "Rhykker",
+      "creatorId": "rhykker",
+      "url": "https://www.youtube.com/watch?v=QQ0OLpNF7Fc",
+      "youtubeId": "QQ0OLpNF7Fc",
+      "language": "en",
+      "duration": "45:34",
+      "publishedDate": "2026-05-01",
+      "thumbnail": "https://i.ytimg.com/vi/QQ0OLpNF7Fc/maxresdefault.jpg",
+      "noteEs": "Beginner guide comprehensivo de Rhykker para Season 13 (Lord of Hatred). 45 minutos cubriendo character creation, mecánicas básicas, leveling path, primer endgame y meta read. Ideal como first watch para players nuevos al season o returners.",
+      "noteEn": "Rhykker's comprehensive beginner guide for Season 13 (Lord of Hatred). 45 minutes covering character creation, basic mechanics, leveling path, first endgame, and meta read. Ideal first-watch for players new to the season or returners."
+    },
+    {
+      "id": "macrobioboi-3-things-save-d4-expansion-2026",
+      "type": "video",
+      "title": "These 3 Things Save Diablo 4's Expansion! All New Press Review Access Revealed",
+      "creator": "MacroBioBoi",
+      "creatorId": "macrobioboi",
+      "url": "https://www.youtube.com/watch?v=8xQK86pWomg",
+      "youtubeId": "8xQK86pWomg",
+      "language": "en",
+      "duration": "25:58",
+      "publishedDate": "2026-04-22",
+      "thumbnail": "https://i.ytimg.com/vi/8xQK86pWomg/maxresdefault.jpg",
+      "noteEs": "Resumen editorial sobre los cambios clave de Lord of Hatred. Para players returning o evaluando si vale meterse al expansion, este video da el panorama high-level sin spoilers narrativos.",
+      "noteEn": "Editorial summary of Lord of Hatred's key changes. For returning players or those evaluating whether to commit to the expansion, this video gives the high-level picture without narrative spoilers."
+    },
+    {
+      "id": "macrobioboi-leveling-1-70-fast-loh",
+      "type": "video",
+      "title": "Fastest Strategy to Max Level in Diablo 4 LOH | 1-70 in 3 Hours or Post-Campaign | My 3 Tips!",
+      "creator": "MacroBioBoi",
+      "creatorId": "macrobioboi",
+      "url": "https://www.youtube.com/watch?v=Z-wbAXMOA20",
+      "youtubeId": "Z-wbAXMOA20",
+      "language": "en",
+      "duration": "18:00",
+      "publishedDate": "2026-04-29",
+      "thumbnail": "https://i.ytimg.com/vi/Z-wbAXMOA20/maxresdefault.jpg",
+      "noteEs": "Estrategia de leveling optimal 1-70 en ~3 horas. Cubre dungeon resets, Helltide farming y XP bonus methods. Esencial pre-endgame para player que quiere reach paragon as fast as possible.",
+      "noteEn": "Optimal leveling strategy 1-70 in ~3 hours. Covers dungeon resets, Helltide farming, and XP bonus methods. Essential pre-endgame for the player who wants to reach paragon as fast as possible."
+    },
+    {
+      "id": "rhykker-loh-story-good-but-one-problem",
+      "type": "video",
+      "title": "Diablo 4 Lord of Hatred's Story Is Great, But I Have One Problem",
+      "creator": "Rhykker",
+      "creatorId": "rhykker",
+      "url": "https://www.youtube.com/watch?v=splFxZah0z0",
+      "youtubeId": "splFxZah0z0",
+      "language": "en",
+      "duration": "43:46",
+      "publishedDate": "2026-05-05",
+      "thumbnail": "https://i.ytimg.com/vi/splFxZah0z0/maxresdefault.jpg",
+      "noteEs": "Análisis de la historia de Lord of Hatred. Para players considerando hacer la campaña, da una review sin spoilers fuertes pero con context editorial honesto sobre fortalezas y limitations.",
+      "noteEn": "Analysis of the Lord of Hatred story. For players considering doing the campaign, gives a review without heavy spoilers but with honest editorial context about strengths and limitations."
+    },
+    {
+      "id": "rhykker-d4-is-back-poe2-not-waiting",
+      "type": "video",
+      "title": "Diablo 4 Is Back, But PoE2 Is Not Waiting",
+      "creator": "Rhykker",
+      "creatorId": "rhykker",
+      "url": "https://www.youtube.com/watch?v=aqraRkdAE5s",
+      "youtubeId": "aqraRkdAE5s",
+      "language": "en",
+      "duration": "32:27",
+      "publishedDate": "2026-05-09",
+      "thumbnail": "https://i.ytimg.com/vi/aqraRkdAE5s/maxresdefault.jpg",
+      "noteEs": "Estado del ARPG genre en 2026: D4 LoH vs PoE 2. Útil para players evaluando dónde invertir tiempo y money entre los dos titles dominantes del space.",
+      "noteEn": "State of the ARPG genre in 2026: D4 LoH vs PoE 2. Useful for players evaluating where to invest time and money between the two dominant titles in the space."
+    }
+  ]
+}

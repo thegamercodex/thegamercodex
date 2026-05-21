@@ -1,0 +1,50 @@
+{
+  "id": "helltides-vs-diablo4-life",
+  "toolIds": ["helltides", "diablo4-life"],
+  "category": "event-tracking",
+  "depth": "short",
+  "lastVerified": "2026-05-20",
+  "titleEs": "Helltides.com vs Diablo4.life — single-purpose timer o multi-tool hub",
+  "titleEn": "Helltides.com vs Diablo4.life — single-purpose timer or multi-tool hub",
+  "descriptionEs": "Helltides.com es laser-focused en timing de Helltides. Diablo4.life es hub multi-purpose con Helltide + world boss + Legion + builds + tools.",
+  "descriptionEn": "Helltides.com is laser-focused on Helltide timing. Diablo4.life is a multi-purpose hub with Helltide + world boss + Legion + builds + tools.",
+  "verdictEs": "Helltides.com si solo quieres timer rápido para optimizar farm de cinders. Diablo4.life si quieres un hub centralizado para múltiples events + utilities + builds light.",
+  "verdictEn": "Helltides.com if you just want a quick timer to optimize cinder farming. Diablo4.life if you want a centralized hub for multiple events + utilities + light builds.",
+  "useCases": [
+    {
+      "labelEs": "Helltide timer urgente",
+      "labelEn": "Urgent Helltide timer",
+      "winner": "helltides",
+      "reasonEs": "Single-page tool con timer al toque. Diablo4.life requiere scrolear su dense home page para encontrar Helltide info entre otros events.",
+      "reasonEn": "Single-page tool with at-a-glance timer. Diablo4.life requires scrolling its dense home page to find Helltide info among other events."
+    },
+    {
+      "labelEs": "World boss + Legion + Tree of Whispers timers en uno",
+      "labelEn": "World boss + Legion + Tree of Whispers timers in one",
+      "winner": "diablo4-life",
+      "reasonEs": "Diablo4.life consolida múltiples events. Helltides.com cubre solo Helltides — para otros events otro tool.",
+      "reasonEn": "Diablo4.life consolidates multiple events. Helltides.com only covers Helltides — for other events you need another tool."
+    },
+    {
+      "labelEs": "Quick mobile check pre-session",
+      "labelEn": "Quick mobile pre-session check",
+      "winner": "helltides",
+      "reasonEs": "Helltides.com loads fast en mobile sin elementos extra. Diablo4.life es page densa que carga más slow.",
+      "reasonEn": "Helltides.com loads fast on mobile without extra elements. Diablo4.life is a dense page that loads slower."
+    },
+    {
+      "labelEs": "Build discovery casual entre sessions",
+      "labelEn": "Casual build discovery between sessions",
+      "winner": "diablo4-life",
+      "reasonEs": "Diablo4.life agrega curated builds y class spotlight como sub-feature. Helltides.com no tiene builds — solo timer.",
+      "reasonEn": "Diablo4.life aggregates curated builds and class spotlight as a sub-feature. Helltides.com has no builds — only timer."
+    },
+    {
+      "labelEs": "Bookmark único para D4 utilities",
+      "labelEn": "Single bookmark for D4 utilities",
+      "winner": "diablo4-life",
+      "reasonEs": "Diablo4.life consolida en un bookmark lo que Helltides.com + otros multiple tools harían separados.",
+      "reasonEn": "Diablo4.life consolidates in one bookmark what Helltides.com + other multiple tools would do separately."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "diablo4-discord",
+  "name": "Diablo IV Discord (oficial)",
+  "shortName": "Discord D4",
+  "taglineEs": "Discord oficial de Blizzard para Diablo IV: anuncios first-party, Q&A con community managers, channels por clase y rol, y soporte de bugs antes que llegue al forum",
+  "taglineEn": "Blizzard's official Diablo IV Discord: first-party announcements, Q&A with community managers, per-class and per-role channels, and bug support before issues reach the forum",
+  "url": "https://discord.com/invite/diablo",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["discord"],
+  "languages": ["en"],
+  "tags": ["official", "discord", "blizzard", "community-managers", "announcements"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-20",
+  "logo": "/images/tools/diablo-4/diablo4-discord-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["diablo4-subreddit"],
+  "alternatives": ["diablo4-subreddit"],
+  "createdBy": {
+    "name": "Blizzard Entertainment",
+    "url": "https://www.blizzard.com"
+  }
+}

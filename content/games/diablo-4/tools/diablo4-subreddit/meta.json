@@ -1,0 +1,29 @@
+{
+  "id": "diablo4-subreddit",
+  "name": "r/diablo4",
+  "shortName": "r/diablo4",
+  "taglineEs": "Subreddit principal de Diablo IV: discusión de season, patch reactions, meta debates, screenshots de loot raro y community drama — el pulso diario de la base de jugadores",
+  "taglineEn": "Main Diablo IV subreddit: season discussion, patch reactions, meta debates, rare loot screenshots, and community drama — the daily pulse of the player base",
+  "url": "https://www.reddit.com/r/diablo4/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["reddit", "community", "discussion", "patch-reactions", "meta-debates"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-20",
+  "logo": "/images/tools/diablo-4/diablo4-subreddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["diablo4-discord", "diablorun"],
+  "alternatives": ["diablo4-discord"],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/diablo4/about"
+  }
+}

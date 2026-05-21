@@ -1,0 +1,54 @@
+{
+  "id": "wudijo",
+  "name": "Wudijo",
+  "country": "DE",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2019,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@wudijo",
+      "url": "https://www.youtube.com/@wudijo",
+      "channelId": "UC78d2aaqdrt02RfmtRLmlAw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "wudijo",
+      "url": "https://www.twitch.tv/wudijo"
+    },
+    {
+      "type": "twitter",
+      "handle": "@wudijo",
+      "url": "https://twitter.com/wudijo"
+    }
+  ],
+  "specialties": [
+    "builds",
+    "deep-dive-analysis",
+    "hardcore",
+    "lord-of-hatred-content"
+  ],
+  "games": ["diablo-4"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Wudijo es uno de los creators más respetados del scene Diablo — cubrió D3 a alto nivel y se trasladó a D4 al launch. Su content combina builds prácticos con deep dives explicativos sobre mechanics, damage formulas y hardcore play. Tono calmado y didáctico, opuesto al hype de algunos creators. Excellent para players que quieren entender el porqué, no solo el qué.",
+  "noteEn": "Wudijo is one of the most respected creators in the Diablo scene — covered D3 at a high level and migrated to D4 at launch. His content combines practical builds with deep dives explaining mechanics, damage formulas, and hardcore play. Calm, educational tone, opposite to the hype of some creators. Excellent for players who want to understand the why, not just the what.",
+  "highlightsEs": [
+    "Reputación cross-game como autoridad en ARPGs Diablo",
+    "Deep dives sobre damage formulas y mechanics explicadas técnicamente",
+    "Hardcore content específico (Lord of Hatred season hardcore play)",
+    "Tono didáctico sin hype",
+    "Activo en Twitch con sessions extensas"
+  ],
+  "highlightsEn": [
+    "Cross-game reputation as a Diablo ARPG authority",
+    "Deep dives on damage formulas and mechanics explained technically",
+    "Specific hardcore content (Lord of Hatred hardcore season play)",
+    "Educational tone without hype",
+    "Active on Twitch with extended sessions"
+  ],
+  "avatar": "/images/creators/wudijo-avatar.jpg",
+  "banner": "/images/creators/wudijo-banner.jpg"
+}

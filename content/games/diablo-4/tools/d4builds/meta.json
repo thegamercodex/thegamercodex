@@ -1,0 +1,29 @@
+{
+  "id": "d4builds",
+  "name": "D4builds.gg",
+  "shortName": "D4builds",
+  "taglineEs": "Community build sharing puro: cualquier jugador publica su build con skill tree, paragon y gear; el voto comunitario rankea las mejores por clase y season",
+  "taglineEn": "Pure community build sharing: any player publishes a build with skill tree, paragon, and gear; community voting ranks the best per class and season",
+  "url": "https://d4builds.gg",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["builds", "community-voted", "skill-tree", "paragon", "gear-planning"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-20",
+  "logo": "/images/tools/diablo-4/d4builds-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["maxroll-d4", "d4-planner", "mobalytics-d4"],
+  "alternatives": ["d4-planner"],
+  "createdBy": {
+    "name": "D4builds.gg team",
+    "url": "https://d4builds.gg"
+  }
+}

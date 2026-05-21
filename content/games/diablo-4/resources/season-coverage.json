@@ -1,0 +1,80 @@
+{
+  "category": "season-coverage",
+  "resources": [
+    {
+      "id": "wudijo-huge-tier-list-updates-season-13",
+      "type": "video",
+      "title": "Diablo 4 - HUGE TIER LIST UPDATES (Season 13)",
+      "creator": "wudijo",
+      "creatorId": "wudijo",
+      "url": "https://www.youtube.com/watch?v=CwRFSHhmLaI",
+      "youtubeId": "CwRFSHhmLaI",
+      "language": "en",
+      "duration": "11:21",
+      "publishedDate": "2026-05-18",
+      "thumbnail": "https://i.ytimg.com/vi/CwRFSHhmLaI/maxresdefault.jpg",
+      "noteEs": "Update de tier list cross-class para Season 13 post los últimos balance changes. Wudijo señala movimientos significativos entre tiers y razones técnicas detrás de cada cambio.",
+      "noteEn": "Cross-class tier list update for Season 13 after the latest balance changes. Wudijo points out significant tier movements and technical reasons behind each shift."
+    },
+    {
+      "id": "rhykker-top-10-builds-loh-season-13",
+      "type": "video",
+      "title": "Top 10 Best Builds for Diablo 4 Lord of Hatred Season 13 (All Classes)",
+      "creator": "Rhykker",
+      "creatorId": "rhykker",
+      "url": "https://www.youtube.com/watch?v=Y1mdjCEnRFQ",
+      "youtubeId": "Y1mdjCEnRFQ",
+      "language": "en",
+      "duration": "17:01",
+      "publishedDate": "2026-05-12",
+      "thumbnail": "https://i.ytimg.com/vi/Y1mdjCEnRFQ/maxresdefault.jpg",
+      "noteEs": "Top 10 builds del season aggregando todas las clases. Útil para players evaluating qué clase jugar fresh char o para reroll. Rhykker presenta con su tono accesible characteristic.",
+      "noteEn": "Top 10 builds of the season aggregating all classes. Useful for players evaluating which class to play for a fresh char or reroll. Rhykker presents in his characteristic accessible tone."
+    },
+    {
+      "id": "rhykker-loh-trying-fix-endgame-2026",
+      "type": "video",
+      "title": "Diablo 4 Lord of Hatred Is Trying to Fix the Endgame",
+      "creator": "Rhykker",
+      "creatorId": "rhykker",
+      "url": "https://www.youtube.com/watch?v=5Yu2EagdRZY",
+      "youtubeId": "5Yu2EagdRZY",
+      "language": "en",
+      "duration": "47:16",
+      "publishedDate": "2026-04-24",
+      "thumbnail": "https://i.ytimg.com/vi/5Yu2EagdRZY/maxresdefault.jpg",
+      "noteEs": "Análisis editorial de los endgame changes en Lord of Hatred: ¿realmente fixean problemas históricos de endgame D4? Long-form 47 min con assessment honesto.",
+      "noteEn": "Editorial analysis of endgame changes in Lord of Hatred: do they really fix historical D4 endgame issues? 47-minute long-form with an honest assessment."
+    },
+    {
+      "id": "rhykker-loh-changes-almost-everything-2026",
+      "type": "video",
+      "title": "Diablo 4 Lord of Hatred Changes (Almost) Everything",
+      "creator": "Rhykker",
+      "creatorId": "rhykker",
+      "url": "https://www.youtube.com/watch?v=4sYZZe4SXAU",
+      "youtubeId": "4sYZZe4SXAU",
+      "language": "en",
+      "duration": "16:34",
+      "publishedDate": "2026-04-23",
+      "thumbnail": "https://i.ytimg.com/vi/4sYZZe4SXAU/maxresdefault.jpg",
+      "noteEs": "Resumen de los major changes que trajó Lord of Hatred al juego: sistemas reworked, nuevos mecánicos, qué se quedó igual. Buen overview para entender el alcance del expansion.",
+      "noteEn": "Summary of the major changes Lord of Hatred brought to the game: reworked systems, new mechanics, what stayed the same. Good overview to understand the expansion's scope."
+    },
+    {
+      "id": "rhykker-loh-not-ready-victory-2026",
+      "type": "video",
+      "title": "Diablo 4 Lord of Hatred Looks Great, But I'm Not Ready to Declare Victory",
+      "creator": "Rhykker",
+      "creatorId": "rhykker",
+      "url": "https://www.youtube.com/watch?v=IALRIRd3ZWU",
+      "youtubeId": "IALRIRd3ZWU",
+      "language": "en",
+      "duration": "20:25",
+      "publishedDate": "2026-04-25",
+      "thumbnail": "https://i.ytimg.com/vi/IALRIRd3ZWU/maxresdefault.jpg",
+      "noteEs": "Take cauto de Rhykker tras los reveals: el expansion looks great pero hay reservations que vale la pena discutir antes de hype absoluto. Balanced editorial perspective.",
+      "noteEn": "Rhykker's cautious take after the reveals: the expansion looks great but has reservations worth discussing before absolute hype. Balanced editorial perspective."
+    }
+  ]
+}
