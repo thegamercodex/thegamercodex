@@ -33,17 +33,17 @@ Para Helltides exclusively, Helltides.com es más rápido y limpio. Para múltip
 
 **Pre-session check**: antes de logear, abres Helltides.com. "¿Activo? Logeo. ¿15 min left? Espero next."
 
-**Farm rotation planning**: si tienes 2-3 horas de gaming, planificás cuándo hacer Helltide vs cuándo dungeons.
+**Farm rotation planning**: si tienes 2-3 horas de gaming, planificas cuándo hacer Helltide vs cuándo dungeons.
 
 **Avoid wasting commute time**: viajar a una zone toma minutos. Si Helltide tiene 5 min restantes, no vale la pena.
 
-**Coordinar con friends**: shareás el current status con tu group para sync up.
+**Coordinar con friends**: Compartes el current status con tu group para sync up.
 
 **Mobile check rápido**: del celular puedes checkear desde el bus si vale la pena prender la PS5.
 
 ## Para quién NO es esta herramienta
 
-- **Casuales sin endgame**: si no farmeás Helltides, no aporta.
+- **Casuales sin endgame**: si no farmeas Helltides, no aporta.
 - **Quien busca builds**: no es content tool, es timer.
 - **Quien quiere lots of info**: si quieres event tracking comprehensive (Helltide + world boss + Tree of Whispers timings), Diablo4.life mejor.
 - **Eternal-only players**: Helltides están más relevantes en seasonal context. En eternal son utility menor.
@@ -56,7 +56,7 @@ Para Helltides exclusively, Helltides.com es más rápido y limpio. Para múltip
 
 3. Bookmark para acceso rápido.
 
-4. Refrescá tab si quieres latest update (la página actualiza time automatic via JS pero refresh es seguro).
+4. Refresca tab si quieres latest update (la página actualiza time automatic via JS pero refresh es seguro).
 
 5. Para mobile: la página es responsive — funciona en cualquier device.
 
@@ -76,10 +76,10 @@ Para Helltides exclusively, Helltides.com es más rápido y limpio. Para múltip
 
 1. [helltides.com](https://www.helltides.com).
 
-2. Refrescá una vez. Es todo lo que hay que hacer.
+2. Refresca una vez. Es todo lo que hay que hacer.
 
-3. Bookmark, considerá darle PWA install si tu browser lo permite (algunos soportan).
+3. Bookmark, considera darle PWA install si tu browser lo permite (algunos soportan).
 
 4. Si juegas regular, abrirás esto antes de cada session.
 
-5. Combiná con Diablo4.life si quieres más events tracking en un solo lugar.
+5. Combina con Diablo4.life si quieres más events tracking en un solo lugar.

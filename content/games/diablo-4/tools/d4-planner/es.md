@@ -9,8 +9,8 @@ quickTake: "El planner técnico para serios. Si quieres mockear paragon glyph pl
 D4 Planner (d4planner.io) es una herramienta de planning web para D4. Diferente a Maxroll's planner que vive embedded en sus guides, D4 Planner es standalone — su único job es ser un editor visual completísimo del skill tree, paragon board, gear slots y aspects.
 
 Funciones:
-- **Skill tree visual**: arrastrás y eliges skills exactamente como en el juego.
-- **Paragon board interactivo**: rotás boards, colocás glyphs, ves stat totals.
+- **Skill tree visual**: arrastras y eliges skills exactamente como en el juego.
+- **Paragon board interactivo**: rotas boards, colocas glyphs, ves stat totals.
 - **Gear input**: stats y aspects per slot.
 - **Share via link**: cualquier build se shareea con URL permanente.
 - **Side-by-side comparison**: dos builds open at once para diff exacto.
@@ -28,17 +28,17 @@ También resuelve el problema de "respec cost": en D4 cambiar paragon allocation
 - **D4 Planner**: planning puro, individual, sin community.
 - **D4builds.gg**: community sharing + voting, planner como medio para sharing.
 
-D4 Planner es la herramienta de planning. D4builds es la plataforma de discovery. Usás Planner para crear, D4builds para compartir.
+D4 Planner es la herramienta de planning. D4builds es la plataforma de discovery. Usas Planner para crear, D4builds para compartir.
 
 ## Para qué la usa la gente
 
-**Paragon optimization**: con respec costs altos, planeás el board completo en Planner antes de spend gold.
+**Paragon optimization**: con respec costs altos, planeas el board completo en Planner antes de spend gold.
 
 **Side-by-side comparativa**: estás eligiendo entre 2 builds de Necromancer. Los abres side-by-side y ves diferencias en skills, paragon, gear.
 
-**Sharing tu build con un mentor**: copias el link, le mandás a un experienced player que te critica el planning sin necesidad de Discord image dumping.
+**Sharing tu build con un mentor**: Copias el link, le envías a un experienced player que te critica el planning sin necesidad de Discord image dumping.
 
-**Mockeo experimental**: quieres probar "y si meto X glyph en lugar de Y" sin gastar gold. Planner te da el feedback de stat changes instant.
+**Mockeo experimental**: Quieres probar "y si meto X glyph en lugar de Y" sin gastar gold. Planner te da el feedback de stat changes instant.
 
 **Content creator preparation**: guide writers usan Planner para visualizar builds antes de screenshot para articles.
 
@@ -53,21 +53,21 @@ D4 Planner es la herramienta de planning. D4builds es la plataforma de discovery
 
 1. [d4planner.io](https://d4planner.io). No login required para create.
 
-2. **New Build** → seleccionás clase.
+2. **New Build** → seleccionas clase.
 
 3. **Skill Tree** tab: clickeas skills para activar. Ve el total invertido.
 
-4. **Paragon Board** tab: empieza con starter board. Clickeás "Add Board" para agregar otra. Rotación es drag.
+4. **Paragon Board** tab: empieza con starter board. Haces click "Add Board" para agregar otra. Rotación es drag.
 
 5. **Gear & Aspects** tab: input items con stats y rolls.
 
 6. **Save & Share**: te da un permalink. Manda a tu mentor o pegate en tu Discord.
 
-7. Para **compare**: abre dos builds en tabs distintas o usa el feature de comparación.
+7. Para **compare**: Abre dos builds en tabs distintas o usa el feature de comparación.
 
 ## Limitaciones honestas
 
-**No vendor opinion**: el planner no te dice si tu build es bueno. Solo te muestra las stats resultantes. Necesitás cross-referencia con Maxroll/Mobalytics o experiencia propia.
+**No vendor opinion**: el planner no te dice si tu build es bueno. Solo te muestra las stats resultantes. Necesitas cross-referencia con Maxroll/Mobalytics o experiencia propia.
 
 **Learning curve para paragon**: el paragon board tiene 5+ tableros con rotation, glyphs, rare nodes. Para newcomers es overwhelming. Maxroll guides explican esto mejor.
 
@@ -87,8 +87,8 @@ D4 Planner es la herramienta de planning. D4builds es la plataforma de discovery
 
 4. Save y share el link con vos mismo o un compañero.
 
-5. Para mockear cambios: clonas el build, modificas, comparás stats.
+5. Para mockear cambios: clonas el build, modificas, comparas stats.
 
-6. Una vez cómodo, planificá paragon completo antes de spend gold en respec.
+6. Una vez cómodo, planifica paragon completo antes de spend gold en respec.
 
-7. Para depth + opinion editorial complementaria, combiná con Maxroll/Mobalytics.
+7. Para depth + opinion editorial complementaria, combina con Maxroll/Mobalytics.

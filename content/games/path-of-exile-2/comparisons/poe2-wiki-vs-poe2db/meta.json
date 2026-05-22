@@ -4,14 +4,14 @@
   "category": "reference",
   "depth": "flagship",
   "lastVerified": "2026-05-13",
-  "verdictEs": "PoE 2 Wiki cuando querés entender algo: artículos legibles, mecánicas explicadas, contexto y lore. PoE 2 DB cuando querés datos exactos: tiers de mods, drop tables, stats de monstruos y todo lo datamined del cliente.",
+  "verdictEs": "PoE 2 Wiki cuando quieres entender algo: artículos legibles, mecánicas explicadas, contexto y lore. PoE 2 DB cuando quieres datos exactos: tiers de mods, drop tables, stats de monstruos y todo lo datamined del cliente.",
   "verdictEn": "PoE 2 Wiki when you want to understand something: readable articles, explained mechanics, context, and lore. PoE 2 DB when you want exact data: mod tiers, drop tables, monster stats, and everything datamined from the client.",
   "useCases": [
     {
       "labelEs": "Aprender mecánicas nuevas de PoE 2 (uncut gems, Sekhema trials, atlas)",
       "labelEn": "Learn PoE 2's new mechanics (uncut gems, Sekhema trials, atlas)",
       "winner": "poe2-wiki",
-      "reasonEs": "La wiki publica artículos editoriales que explican las mecánicas paso a paso, con contexto y ejemplos. PoE 2 DB asume que ya entendés qué hace cada cosa.",
+      "reasonEs": "La wiki publica artículos editoriales que explican las mecánicas paso a paso, con contexto y ejemplos. PoE 2 DB asume que ya entiendes qué hace cada cosa.",
       "reasonEn": "The wiki publishes editorial articles that explain mechanics step by step, with context and examples. PoE 2 DB assumes you already know what each thing does."
     },
     {

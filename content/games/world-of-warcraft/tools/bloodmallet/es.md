@@ -101,10 +101,10 @@ Las dos se complementan. Un raider serio probablemente abre Bloodmallet semanal 
 
 2. Bookmarkea la página de tu spec — vas a re-revisarla muchas veces.
 
-3. La primera vez, scrollá los charts disponibles para entender qué cubre Bloodmallet (trinkets, talents, tier, embellishments, etc.).
+3. La primera vez, scrollea los charts disponibles para entender qué cubre Bloodmallet (trinkets, talents, tier, embellishments, etc.).
 
 4. Cuando tengas decisiones específicas (qué trinket bidear, qué talent build), busca el chart relevante y lee el ranking.
 
 5. Si encuentras bugs o gaps, el repo en GitHub ([Bloodmallet/bloodmallet.github.io](https://github.com/Bloodmallet/bloodmallet.github.io)) acepta PRs y reports.
 
-6. Combiná con Raidbots cuando necesites precisión específica a tu char y con Icy Veins / Method para entender el reasoning detrás de los números.
+6. Combina con Raidbots cuando necesites precisión específica a tu char y con Icy Veins / Method para entender el reasoning detrás de los números.

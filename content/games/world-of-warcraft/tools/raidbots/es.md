@@ -38,7 +38,7 @@ Esto convierte gear decisions de "creo que esto es mejor" a "objetivamente esto 
 
 **Stat weights pre-gemming**: antes de gastar gold en gemmas y enchants, sim tus stat weights. Si Crit es 2.4 y Haste es 1.8, sabes priorizar Crit. Útil después de cambios grandes de gear.
 
-**Talent comparisons**: tienes dudas entre talent A y talent B para un boss específico. Raidbots las simula lado a lado y devuelve diferencia de DPS estimada.
+**Talent comparisons**: Tienes dudas entre talent A y talent B para un boss específico. Raidbots las simula lado a lado y devuelve diferencia de DPS estimada.
 
 **Droptimizer pre-raid**: antes del raid, sim tu char con cada item del raid actual. Sabes cuáles loot tickets priorizar y te ayuda a decidir si pasas un drop a otro raider.
 

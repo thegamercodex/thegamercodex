@@ -42,7 +42,7 @@ Si tu bottleneck es paragon optimization specifically, D4Paragon es más eficien
 
 1. [d4-paragon.com](https://d4-paragon.com).
 
-2. New planning → selectá class.
+2. New planning → selecciona class.
 
 3. Mockear board placement, glyph slots, rare nodes activations.
 
@@ -66,11 +66,11 @@ Si tu bottleneck es paragon optimization specifically, D4Paragon es más eficien
 
 1. [d4-paragon.com](https://d4-paragon.com).
 
-2. Importá tu current paragon (o empieza from scratch).
+2. Importa tu current paragon (o empieza from scratch).
 
 3. Mock changes — clic en glyphs o nodes para experimentar.
 
-4. Compará stats output entre variants.
+4. Compara stats output entre variants.
 
 5. Implementa in-game con confidence.
 

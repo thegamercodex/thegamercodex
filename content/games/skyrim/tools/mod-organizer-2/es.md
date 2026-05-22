@@ -44,7 +44,7 @@ Frente a **Wabbajack**: Wabbajack instala modlists curadas usando MO2 por debajo
 
 Si vas a instalar 1-5 mods muy específicos, MO2 es overkill. Para esos casos, Vortex o instalación manual son más simples.
 
-Si nunca tocaste un mod manager antes y los conceptos de "load order", "plugin priority", "VFS" te abruman: empieza con Vortex y migrá a MO2 cuando tu modlist crezca.
+Si nunca tocaste un mod manager antes y los conceptos de "load order", "plugin priority", "VFS" te abruman: empieza con Vortex y migra a MO2 cuando tu modlist crezca.
 
 Si tu disco principal está saturado, MO2 ocupa espacio: cada mod descargado vive en `Downloads/` y cada mod activo vive en `mods/` — ambos pueden moverse a otro drive, pero por defecto se acumulan en la instalación.
 

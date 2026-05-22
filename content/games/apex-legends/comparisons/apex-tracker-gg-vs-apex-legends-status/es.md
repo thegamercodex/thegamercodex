@@ -13,7 +13,7 @@ ALS responde "¿qué está pasando en el juego?". Pick rates por legend al top t
 
 ## Setup y onboarding
 
-Tracker.gg requires opcionalmente Overwolf para el overlay in-game. Sin Overwolf, la versión web funciona perfecta — solo perdés el overlay live. Free tier tiene ads visibles; Premium ($5/mes) los quita.
+Tracker.gg requires opcionalmente Overwolf para el overlay in-game. Sin Overwolf, la versión web funciona perfecta — solo pierdes el overlay live. Free tier tiene ads visibles; Premium ($5/mes) los quita.
 
 ALS no requiere nada — pure web, sin login, sin app. Solo abres la URL y la data está ahí. Ads presentes pero menos intrusive que Tracker.gg.
 

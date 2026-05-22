@@ -28,7 +28,7 @@ Frente a Sidekick: Sidekick es minimalista, open source, y multi-OS. POE Overlay
 
 **Price check rápido durante mapping**: hover sobre rare/unique, hotkey, sigues jugando. Decisiones de loot en segundos en vez de minutos.
 
-**Verificación antes de listar**: subes el item a tu stash tab listada y antes de poner precio comparas con la sugerencia del overlay. Evita underpricing.
+**Verificación antes de listar**: Subes el item a tu stash tab listada y antes de poner precio comparas con la sugerencia del overlay. Evita underpricing.
 
 **Browseo de servicios sin salir del juego**: cuando necesitas un boss carry o un trial run, lanzas el browser integrado y contactas un seller sin romper la sesión.
 

@@ -35,7 +35,7 @@ Frente a **Nexus Mods**: Nexus aloja mods y assets; Valheimians es específicame
 
 ## Para qué la usa la gente
 
-**Buscar inspiración de builds**. Categorías como "Castle", "Viking Longhouse", "Tavern", "Harbor" tienen cientos de builds. Filtrá por bioma para ver Plains-themed vs Mountain vs Mistlands.
+**Buscar inspiración de builds**. Categorías como "Castle", "Viking Longhouse", "Tavern", "Harbor" tienen cientos de builds. Filtra por bioma para ver Plains-themed vs Mountain vs Mistlands.
 
 **Descargar blueprints listos**. Si un build te gusta y el creator subió el `.blueprint`, lo bajas, lo importas a PlanBuild, lo construyes en tu mundo. Especialmente útil para starter bases o builds icónicos que no quieres diseñar desde cero.
 
@@ -87,7 +87,7 @@ Para subir tus propios builds, "Submit your build" en el menú. Subes screenshot
 2. Browsing inicial: navega "Builds → Most Downloaded" para ver los hits de la comunidad.
 3. Si tienes PlanBuild instalado, descarga uno simple (tipo "Starter House") y testealo en tu juego.
 4. Una vez familiarizado, registrate (free).
-5. Marcá favoritos, sigue a tus creators favoritos.
+5. Marca favoritos, sigue a tus creators favoritos.
 6. Cuando construyas algo notable, considera subirlo. El proceso de submit es directo: screenshots + descripción + tags.
 
 Para ver el sitio sin login, todas las builds son visibles públicamente; descargas y comments requieren cuenta.

@@ -1,7 +1,7 @@
 ---
 title: "D4builds.gg"
 description: "Plataforma de community build sharing donde cualquier jugador publica sus builds con skill tree, paragon y gear. Voto comunitario rankea los más usados por clase y season."
-quickTake: "El YouTube de las builds: sin filtro editorial, todo el mundo postea. Encontrás builds que Maxroll nunca cubriría — experimentales, off-meta, hardcore-only. Calidad variable pero diversidad imbatible."
+quickTake: "El YouTube de las builds: sin filtro editorial, todo el mundo postea. Encuentras builds que Maxroll nunca cubriría — experimentales, off-meta, hardcore-only. Calidad variable pero diversidad imbatible."
 ---
 
 ## Qué es
@@ -14,7 +14,7 @@ Características:
 - **Build editor visual**: skill tree, paragon board, gear slots, aspects.
 - **Vote system**: thumbs up/down de la comunidad.
 - **Filter & search**: por clase, season, vote count, recency.
-- **Fork builds**: tomás un build existente, lo modificas y publicás tu variant.
+- **Fork builds**: tomas un build existente, lo modificas y publicas tu variant.
 - **Comments**: discusión per build entre community.
 
 Free, sin login para read. Login required para postear/votar.
@@ -36,11 +36,11 @@ Para discover builds existentes, D4builds.gg. Para planificar tu propia build de
 
 ## Para qué la usa la gente
 
-**Discovery off-meta**: quieres intentar un Druid melee. D4builds.gg te muestra los 3 builds más voted en esa categoría.
+**Discovery off-meta**: Quieres intentar un Druid melee. D4builds.gg te muestra los 3 builds más voted en esa categoría.
 
-**Fork & customize**: copias un build top, lo ajustás a tu gear actual o preferencia.
+**Fork & customize**: Copias un build top, lo ajustas a tu gear actual o preferencia.
 
-**Validar ideas raras**: tienes una idea de build no canónica. Lo posteás, ves si la comunidad la upvotea.
+**Validar ideas raras**: Tienes una idea de build no canónica. Lo publicas, ves si la comunidad la upvotea.
 
 **Comparar variants**: hay 10 builds de Necromancer Blood. ¿Cuál sigo? El que tiene más votes y comments positivos.
 
@@ -49,7 +49,7 @@ Para discover builds existentes, D4builds.gg. Para planificar tu propia build de
 ## Para quién NO es esta herramienta
 
 - **Quien busca curated top-tier exclusivo**: hay mucho ruido. Para "el build óptimo objetivo" ir a Maxroll.
-- **Newcomers absolutos**: sin context, no sabes diferenciar builds buenos vs experimentales fallidos. Mejor arrancar en Maxroll y volver acá cuando entendés meta.
+- **Newcomers absolutos**: sin context, no sabes diferenciar builds buenos vs experimentales fallidos. Mejor arrancar en Maxroll y volver acá cuando entiendes meta.
 - **Quien evita comentarios drama**: comments pueden volverse toxic en discusiones meta entre community fanbases.
 - **Spanish-speakers**: la UI y mayoría de builds están en inglés. Hay algunos hispanic users pero comunidad mayoritariamente EN.
 
@@ -91,6 +91,6 @@ Para discover builds existentes, D4builds.gg. Para planificar tu propia build de
 
 4. Comparalos con tier lists de Maxroll/Mobalytics. ¿El top de D4builds está en S tier de Maxroll? Probablemente sí.
 
-5. Para custom: fork un build existente, ajusta a tu gear, publica si te animás.
+5. Para custom: fork un build existente, ajusta a tu gear, publica si te animas.
 
-6. Use D4builds para diversity + discovery; complementá con Maxroll para depth + justification.
+6. Use D4builds para diversity + discovery; complementa con Maxroll para depth + justification.

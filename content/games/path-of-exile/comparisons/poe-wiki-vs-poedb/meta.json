@@ -4,14 +4,14 @@
   "category": "reference",
   "depth": "flagship",
   "lastVerified": "2026-05-13",
-  "verdictEs": "PoE Wiki cuando querés entender algo: artículos legibles, lore, mecánicas explicadas paso a paso. PoEDB cuando querés datos exactos: tiers de mods, drop tables, stats de monstruos, todo datamined direct del cliente.",
+  "verdictEs": "PoE Wiki cuando quieres entender algo: artículos legibles, lore, mecánicas explicadas paso a paso. PoEDB cuando quieres datos exactos: tiers de mods, drop tables, stats de monstruos, todo datamined direct del cliente.",
   "verdictEn": "PoE Wiki when you want to understand something: readable articles, lore, mechanics explained step by step. PoEDB when you want exact data: mod tiers, drop tables, monster stats — everything datamined straight from the client.",
   "useCases": [
     {
       "labelEs": "Aprender cómo funciona una mecánica nueva (shock, ailments, charges)",
       "labelEn": "Learn how a new mechanic works (shock, ailments, charges)",
       "winner": "poe-wiki",
-      "reasonEs": "La wiki tiene explicaciones humanas con ejemplos, fórmulas y contexto. PoEDB asume que ya sabés qué hace cada cosa.",
+      "reasonEs": "La wiki tiene explicaciones humanas con ejemplos, fórmulas y contexto. PoEDB asume que ya sabes qué hace cada cosa.",
       "reasonEn": "The wiki has human-written explanations with examples, formulas, and context. PoEDB assumes you already know what each thing does."
     },
     {

@@ -84,7 +84,7 @@ Si solo quieres Helltide info, Helltides.com es más rápido. Si quieres ese + O
 
 3. Si te gusta el formato, bookmark.
 
-4. Use Diablo4.life como punto de entrada cuando arrancás session, después abres depth tools (Maxroll, Wowhead) según necesidad.
+4. Use Diablo4.life como punto de entrada cuando arrancas session, después abres depth tools (Maxroll, Wowhead) según necesidad.
 
 5. Para Helltide-only urgent checks, Helltides.com sigue siendo más rápido.
 

@@ -23,7 +23,7 @@ Si vas a editar tu save justo después de un patch, NomNom es la opción segura.
 
 ## Backup behavior
 
-NomNom backuper automáticamente antes de aplicar cambios. Si rompés tu save por error, el backup vive en la misma carpeta — restore es un clic.
+NomNom backuper automáticamente antes de aplicar cambios. Si rompes tu save por error, el backup vive en la misma carpeta — restore es un clic.
 
 Goatfungus depende de ti: hay que recordar copiar el archivo manualmente antes de tocar. Fácil olvidarse y arruinar 300 horas de progreso.
 
@@ -58,4 +58,4 @@ Trade-off: NomNom tiene más curva de aprendizaje inicial. Goatfungus es "abre y
 
 Para la mayoría de players nuevos al save editing en 2026, **NomNom es el default**. La cross-platform support, multi-save handling y auto-backup son ventajas concretas para el caso común.
 
-Si llevás años con goatfungus y tu workflow ya está establecido, no hay razón para cambiar — el editor sigue activo y testeado. Pero si arrancas de cero, NomNom te ahorra varios pain points.
+Si llevas años con goatfungus y tu workflow ya está establecido, no hay razón para cambiar — el editor sigue activo y testeado. Pero si arrancas de cero, NomNom te ahorra varios pain points.

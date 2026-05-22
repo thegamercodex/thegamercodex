@@ -70,4 +70,4 @@ Si te molesta la curva de aprendizaje de "qué scenario usar", Aim Lab es más l
 
 ## Cómo empezar
 
-Si nunca aim-trainaste, mejor empieza con Aim Lab. Si ya tienes base, compra KovaaK's en Steam, descarga la routine "Voltaic Bronze" desde el comunidad menu, y practicalo 30 min/día durante 3 semanas. Después de eso, evalúa si tu aim mejoró in-game. Si sí, sube de routine; si no, ajustá la rutina o reduce frecuencia.
+Si nunca aim-trainaste, mejor empieza con Aim Lab. Si ya tienes base, compra KovaaK's en Steam, descarga la routine "Voltaic Bronze" desde el comunidad menu, y practicalo 30 min/día durante 3 semanas. Después de eso, evalúa si tu aim mejoró in-game. Si sí, sube de routine; si no, ajusta la rutina o reduce frecuencia.

@@ -70,6 +70,6 @@ Vas a `hideoutshowcase.com/hideouts/search?...&game_version=2` (link directo a P
 
 Cuando encuentres uno que te guste, click, lees comentarios para detectar bugs reportados, descargas el archivo si está disponible.
 
-Para subir tu propio hideout: registrate (gratis), toma buenos screenshots in-game (prefiere horario de día con iluminación normal), exportá tu archivo, subilo con tags relevantes.
+Para subir tu propio hideout: registrate (gratis), toma buenos screenshots in-game (prefiere horario de día con iluminación normal), exporta tu archivo, subilo con tags relevantes.
 
 No te apures a subir el primer intento — los hideouts mejor recibidos suelen ser los que pasan por varias iteraciones antes de publicar.

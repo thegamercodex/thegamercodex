@@ -7,7 +7,7 @@ A primera vista parecen competidores: ambos cubren FFXIV con info exhaustiva. En
 
 ## Garland Tools: database con filtros
 
-Garland es una database pura. La utilidad es **querying**: tipeás un item, NPC, fish o gathering node y obtenés data exhaustiva con filtros granulares. Soporta:
+Garland es una database pura. La utilidad es **querying**: Escribes un item, NPC, fish o gathering node y obtienes data exhaustiva con filtros granulares. Soporta:
 
 - Items con todas sus sources (drop, vendor, recipe, gathering).
 - Recipe trees recursivos que se expanden hasta los raw materials.
@@ -45,7 +45,7 @@ Las preguntas que cada uno responde mejor son casi disjoint:
 - "¿Cómo unlock el job Dancer?" → quest prerequisites detallados.
 - "¿Qué orchestrion roll dropea de este dungeon?" → music tracklist con source.
 
-Si confundís cuál es cuál y vas al wrong tool, perdés tiempo.
+Si confundes cuál es cuál y vas al wrong tool, pierdes tiempo.
 
 ## El terreno compartido (chico)
 

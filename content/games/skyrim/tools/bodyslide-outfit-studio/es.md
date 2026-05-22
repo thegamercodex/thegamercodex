@@ -51,7 +51,7 @@ Si juegas con female character pero no instalaste body replacement y te conforma
 
 Si modeas Skyrim solo a nivel gameplay (combat overhauls, quest mods) sin tocar cosmetics, BodySlide no aporta.
 
-Si te abruma el concepto de meshes, .nif files, sliders y weights, postergá BodySlide hasta tener una modlist más confortable.
+Si te abruma el concepto de meshes, .nif files, sliders y weights, posterga BodySlide hasta tener una modlist más confortable.
 
 ## Cómo se usa en la práctica
 

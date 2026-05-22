@@ -4,7 +4,7 @@
   "category": "crafting",
   "depth": "short",
   "lastVerified": "2026-05-13",
-  "verdictEs": "Craft of Exile si valorás un modelo maduro de probabilidades y costos con años de iteración (fork de la versión de PoE 1). Path of Crafting si querés una experiencia PoE 2-native con mod pools en tiempo real y UI rediseñada desde cero para las mecánicas nuevas.",
+  "verdictEs": "Craft of Exile si valoras un modelo maduro de probabilidades y costos con años de iteración (fork de la versión de PoE 1). Path of Crafting si quieres una experiencia PoE 2-native con mod pools en tiempo real y UI rediseñada desde cero para las mecánicas nuevas.",
   "verdictEn": "Craft of Exile if you value a mature probability and cost model with years of iteration (forked from the PoE 1 version). Path of Crafting if you want a PoE 2-native experience with real-time mod pools and a UI redesigned from scratch around the new mechanics.",
   "useCases": [
     {
@@ -15,7 +15,7 @@
       "reasonEn": "The interface is familiar and the probability model is inherited from years of PoE 1 iteration."
     },
     {
-      "labelEs": "Querés ver mod pools actualizados en tiempo real con cambios del juego",
+      "labelEs": "Quieres ver mod pools actualizados en tiempo real con cambios del juego",
       "labelEn": "Want to see mod pools updated in real time with game changes",
       "winner": "path-of-crafting",
       "reasonEs": "Path of Crafting fue construido PoE 2-native con énfasis en mantener los pools sincronizados con la versión actual del cliente.",

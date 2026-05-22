@@ -32,16 +32,16 @@ Si juegas casualmente y no quieres running app de background, instálala no — 
 ## Cómo se usa en la práctica
 
 1. Descarga Blitz desde [blitz.gg](https://blitz.gg) — Windows-only installer.
-2. Instala y arrancá la app. Login con email o Steam/Google.
+2. Instala y arranca la app. Login con email o Steam/Google.
 3. En settings, link tu Apex account (Origin/Steam) para auto-detect.
-4. Lanzá Apex normalmente — Blitz detecta automáticamente y activa overlay.
+4. Lanza Apex normalmente — Blitz detecta automáticamente y activa overlay.
 5. Post-match: la app abre browser tab automáticamente con summary detallado.
 
 ## Limitaciones honestas
 
 - **Windows-only**: sin builds Mac/Linux. Si juegas Apex via Steam Play / Proton, no funciona.
 - **Background resource usage**: la app consume ~200MB RAM constantes. Players con setups modestos lo notan.
-- **Privacy concerns**: lee stats de player names en tu lobby, lo cual algunos players consideran invasive. Servidores de Riot/EA no toleran tools que escraping in-game data, aunque Blitz está históricamente OK con TOS.
+- **Privacy concerns**: Lee stats de player names en tu lobby, lo cual algunos players consideran invasive. Servidores de Riot/EA no toleran tools que escraping in-game data, aunque Blitz está históricamente OK con TOS.
 - **Free tier con upsells**: nag screens periódicos pidiendo upgrade al Premium ($8/mes).
 - **App update cadence depende del team de Blitz**: cuando Apex patchea, overlay puede romperse temporalmente.
 

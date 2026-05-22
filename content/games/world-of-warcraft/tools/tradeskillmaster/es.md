@@ -109,7 +109,7 @@ Para players que tratan al AH como negocio (gold ≥1M/semana es threshold típi
 2. Si decides adoptar TSM:
    - Crea cuenta en [tradeskillmaster.com](https://tradeskillmaster.com).
    - Descarga Desktop App + Addon.
-   - Logueá, configurá realms, deja que escane primer scan.
+   - Logueá, configura realms, deja que escane primer scan.
 
 3. Para learning curve: lee guías oficiales en el site, mira videos de YouTube sobre TSM4 setup (Studen Albatroz, JMTC, ProtCowSham son creators conocidos en goldmaking).
 

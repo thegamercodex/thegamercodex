@@ -34,7 +34,7 @@ MapGenie domina cuando el goal es exploration completionist; Helltides.com domin
 
 ## Para quién NO es esta herramienta
 
-- **Casuales sin completion goal**: si no farmeás altars o achievements, MapGenie no aporta.
+- **Casuales sin completion goal**: si no farmeas altars o achievements, MapGenie no aporta.
 - **Quien evita login**: free tier funciona sin login pero progress tracking persistente requiere account.
 - **Mobile-only sin desktop**: la app funciona pero la web es más cómoda para detail.
 - **Players que prefieren in-game maps puros**: si te molestan tools external, no es para vos.
@@ -45,9 +45,9 @@ MapGenie domina cuando el goal es exploration completionist; Helltides.com domin
 
 2. Login optional pero recommended para tracking persistente.
 
-3. Filtros sidebar: marcá qué tipos de POIs quieres ver (Lilith statues, altars, dungeons, etc.).
+3. Filtros sidebar: marca qué tipos de POIs quieres ver (Lilith statues, altars, dungeons, etc.).
 
-4. Click en POIs para detail. Marcalos como "Found" cuando los conseguís in-game.
+4. Click en POIs para detail. Marcalos como "Found" cuando los consigues in-game.
 
 5. Para mobile: instala app oficial, sincroniza con tu account web.
 
@@ -71,10 +71,10 @@ MapGenie domina cuando el goal es exploration completionist; Helltides.com domin
 
 2. Filtros: empieza con Altar of Lilith filter activo only — te muestra todas las statues.
 
-3. Mientras juegas in-game, cuando colectás una, clickeá "Found" en la web (o app).
+3. Mientras juegas in-game, cuando recolectas una, haz click "Found" en la web (o app).
 
 4. Eventualmente expandes filtros a Renown, side quests, etc.
 
 5. Para mobile: instala app de iOS/Android para acceso on-the-go.
 
-6. Si te molestan ads, considerá Premium tier para experience clean.
+6. Si te molestan ads, considera Premium tier para experience clean.

@@ -39,4 +39,4 @@ Icy Veins: UI austera. Cero interactive features. Ads moderate. Updates más slo
 
 Para casual scan: Mobalytics. Para learning depth via reading: Icy Veins. Ninguno es objectively superior — la elección depende de tu preferencia de format consumption.
 
-Si juegas casual y mobile, Mobalytics solo. Si venís de WoW reading culture y quieres depth text-based, Icy Veins solo. Para serious endgame, ambos son alternative al stack core Maxroll + Wowhead.
+Si juegas casual y mobile, Mobalytics solo. Si vienes de WoW reading culture y quieres depth text-based, Icy Veins solo. Para serious endgame, ambos son alternative al stack core Maxroll + Wowhead.

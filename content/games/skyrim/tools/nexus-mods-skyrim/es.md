@@ -55,7 +55,7 @@ Si solo bajaste 1-2 mods sueltos y no planeas modear más, Nexus es overhead.
 ## Cómo se usa en la práctica
 
 1. Crea cuenta gratis en `nexusmods.com`. Required para downloads.
-2. Navegá a `nexusmods.com/skyrimspecialedition`.
+2. Navega a `nexusmods.com/skyrimspecialedition`.
 3. Hot Files: scroll por lo trending. Tags y categorías filtran la búsqueda.
 4. Click en un mod → lee description, file requirements (qué dependencias necesita), comments para verificar.
 5. Si tienes Vortex o MO2 corriendo, "Mod Manager Download" abre directo. Si no, "Manual Download" baja el ZIP a tu disco.

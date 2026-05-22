@@ -77,12 +77,12 @@ Para un Mythic raider serio, los tres se usan en paralelo: Icy Veins como founda
 
 ## Cómo empezar
 
-1. Visitá [method.gg](https://www.method.gg) y revisa las guías del current raid. Empieza por el boss que tu guild esté trabajando.
+1. Visita [method.gg](https://www.method.gg) y revisa las guías del current raid. Empieza por el boss que tu guild esté trabajando.
 
-2. Si vas a usar Method como fuente principal, complementá con Icy Veins para fundamentals y Archon para data-driven meta.
+2. Si vas a usar Method como fuente principal, complementa con Icy Veins para fundamentals y Archon para data-driven meta.
 
 3. Suscribite al canal de YouTube de Method si te interesa el content video y RWF coverage.
 
 4. Para aprovechar todo el ecosystem, el Discord oficial de Method tiene canales de discussion por clase con players activos del high tier — útil si quieres feedback más allá de guías escritas.
 
-5. Como con cualquier source de hardcore content: contrastar con tu propia experiencia y tus logs. Las strats de top guilds asumen comp y gear que tu raid puede no tener — adaptá, no copies ciegamente.
+5. Como con cualquier source de hardcore content: contrastar con tu propia experiencia y tus logs. Las strats de top guilds asumen comp y gear que tu raid puede no tener — adapta, no copies ciegamente.

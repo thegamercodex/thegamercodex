@@ -66,4 +66,4 @@ Si estás aprendiendo el juego, persiguiendo un título es prematuro — entend�
 
 ## Cómo empezar
 
-Entra a `destinyrecipes.com`, login con Bungie. Mira los seals con % alto de completion (típicamente 80%+) — esos son tus targets más realistas. Click en uno, identificá el triumph faltante, planifica tu sesión alrededor de eso. En menos de 30 minutos puede caer un título que nunca habías entendido cómo chase.
+Entra a `destinyrecipes.com`, login con Bungie. Mira los seals con % alto de completion (típicamente 80%+) — esos son tus targets más realistas. Click en uno, identifica el triumph faltante, planifica tu sesión alrededor de eso. En menos de 30 minutos puede caer un título que nunca habías entendido cómo chase.

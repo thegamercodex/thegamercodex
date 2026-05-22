@@ -24,7 +24,7 @@ Frente a Path of Building (foco en damage scaling), Craft of Exile es la otra ca
 
 ## Para qué la usa la gente
 
-**Modelar costo esperado de un craft**: tienes un objetivo concreto (rare ring con +life, +crit, +tres resistencias) y quieres saber si vas a gastar 50 Exalted o 500. Craft of Exile simula y te da el rango.
+**Modelar costo esperado de un craft**: Tienes un objetivo concreto (rare ring con +life, +crit, +tres resistencias) y quieres saber si vas a gastar 50 Exalted o 500. Craft of Exile simula y te da el rango.
 
 **Comparar métodos alternativos**: ¿conviene craftear con Essences o ir slam puro? ¿Vale la pena chrome de items específicos antes de slammear? CoE te muestra el costo de cada estrategia para el mismo objetivo.
 
@@ -46,7 +46,7 @@ Si la matemática de probabilidad te incomoda, CoE puede ser frustrante. Las sim
 
 1. Vas a `craftofexile.com/?game=poe2` (o cambias toggle en home si llegas a la versión PoE 1).
 2. Construyes el item base: eliges category (weapon, armor, accessory), base type específico, item level. CoE muestra el mod pool aplicable.
-3. Definís tus mods objetivo: marcas cuáles quieres y a qué tier mínimo. CoE bloquea otros mods o los deja libres según tu setup.
+3. Defines tus mods objetivo: marcas cuáles quieres y a qué tier mínimo. CoE bloquea otros mods o los deja libres según tu setup.
 4. Eliges método de crafting: alch+slam, essence-spam, fossil (si aplica en PoE 2), graveyard, etc. El sitio recalcula odds.
 5. Read out: chance per attempt, expected cost en currency, distribution con mass simulation.
 

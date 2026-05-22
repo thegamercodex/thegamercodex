@@ -28,11 +28,11 @@ Frente a **Synthesis (auto-patcher)**: Synthesis es un framework de patches auto
 
 ## Para qué la usa la gente
 
-**Crear compatibility patches**: cuando dos mods chocan, abres ambos en SSEEdit, comparas los records en conflicto, y armas un tercer plugin que toma los valores que quieres. Salvás como .esp.
+**Crear compatibility patches**: cuando dos mods chocan, abres ambos en SSEEdit, comparas los records en conflicto, y armas un tercer plugin que toma los valores que quieres. Guardas como .esp.
 
 **Limpiar dirty edits**: corre "Apply Filter for Cleaning" → "Quick Clean" sobre el master plugin sucio. SSEEdit remueve ITM (identical to master) e ITPO (deleted records) records.
 
-**Inspeccionar un mod desconocido**: quieres saber qué hace ese mod misterioso que el autor describe vagamente. Abres el .esp en SSEEdit y lees directamente sus records.
+**Inspeccionar un mod desconocido**: Quieres saber qué hace ese mod misterioso que el autor describe vagamente. Abres el .esp en SSEEdit y lees directamente sus records.
 
 **Verificar leveled lists**: cuando agregas mods que añaden ítems al loot, los mods modifican leveled lists. SSEEdit te muestra si los ítems están entrando como esperas.
 
@@ -52,9 +52,9 @@ Si te abruma el modelo de records de Bethesda (FormIDs, masters, override priori
 2. Extrae el ZIP. NO instales en Program Files.
 3. Lanza `SSEEdit.exe`. Te pregunta qué plugins cargar — marca todos los que quieres analizar (o "Select All").
 4. Espera. SSEEdit carga todos los plugins en memoria; con modlists grandes puede tomar 2-5 minutos.
-5. Una vez cargado, navegá por el tree del left pane. Cada plugin tiene sus records agrupados por tipo (NPC_, ARMO, WEAP, QUST, etc.).
+5. Una vez cargado, navega por el tree del left pane. Cada plugin tiene sus records agrupados por tipo (NPC_, ARMO, WEAP, QUST, etc.).
 6. Records en **rojo** son conflicts; click derecho → "Apply Filter for Conflicts" → mostrar solo los conflictivos.
-7. Para crear patch: selecciona los records conflictivos, click derecho → "Copy as override into..." → selecciona "<new file>" → nombrá tu patch.esp.
+7. Para crear patch: selecciona los records conflictivos, click derecho → "Copy as override into..." → selecciona "<new file>" → nombra tu patch.esp.
 8. En el patch nuevo, edita los valores de cada record para lo que quieres (ej: tomar el nombre del Mod A pero las stats del Mod B).
 9. Guarda. SSEEdit te pregunta confirmación antes de escribir cambios.
 

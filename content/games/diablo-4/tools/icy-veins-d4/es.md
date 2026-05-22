@@ -31,9 +31,9 @@ Maxroll gana en presentation polish y planner. Icy Veins gana en estilo consiste
 
 ## Para qué la usa la gente
 
-**Class deep-dive**: quieres entender Necromancer completo antes de empezar. Icy Veins te da una página de ~5000 palabras con todo lo que necesitas saber.
+**Class deep-dive**: Quieres entender Necromancer completo antes de empezar. Icy Veins te da una página de ~5000 palabras con todo lo que necesitas saber.
 
-**Cross-game continuity**: si venís de WoW y conoces Icy Veins, mantenés workflow familiar al pasar a D4.
+**Cross-game continuity**: si vienes de WoW y conoces Icy Veins, mantienes workflow familiar al pasar a D4.
 
 **Build justification**: la prose explica por qué cada choice más allá del "es S tier". Útil para learners.
 
@@ -78,11 +78,11 @@ Maxroll gana en presentation polish y planner. Icy Veins gana en estilo consiste
 
 1. [icy-veins.com/d4/](https://www.icy-veins.com/d4/).
 
-2. Class menu → elige tu clase. Andá al **Overview** primero.
+2. Class menu → elige tu clase. Anda al **Overview** primero.
 
-3. Leé sectiones principales: Skills, Stats, Rotation, Itemization.
+3. Lee sectiones principales: Skills, Stats, Rotation, Itemization.
 
-4. Luego navegá a **Build Guides** específicos para tu spec elegida.
+4. Luego navega a **Build Guides** específicos para tu spec elegida.
 
 5. Para WoW players migrating, la familiarity del format ayuda — usa Icy Veins como base, cross-checkea con Maxroll si quieres diversification.
 

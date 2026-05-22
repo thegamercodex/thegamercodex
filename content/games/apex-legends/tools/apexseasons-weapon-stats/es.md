@@ -20,9 +20,9 @@ Las weapon descriptions in-game son minimal. Sabes que el R-99 dispara rápido p
 
 ## Para qué la usa la gente
 
-- **Decidir entre 2 weapons en loadout**: "¿llevo R-99 o Volt en mainhand?" - compará TTK contra armor común en current meta.
+- **Decidir entre 2 weapons en loadout**: "¿llevo R-99 o Volt en mainhand?" - compara TTK contra armor común en current meta.
 - **Validar weapon tier lists**: muchos tier lists son opinión. ApexSeasons da data hard para verificar claims.
-- **Plan loadouts contra specific squads**: si sabes que el enemy squad corre purple armor, optimizá tu loadout contra ese tier.
+- **Plan loadouts contra specific squads**: si sabes que el enemy squad corre purple armor, optimiza tu loadout contra ese tier.
 - **Analizar nerfs/buffs post-patch**: comparar TTK pre y post-balance para entender real impact.
 - **Theorycrafting community**: posts en Reddit de balance discussions citan ApexSeasons frecuentemente.
 

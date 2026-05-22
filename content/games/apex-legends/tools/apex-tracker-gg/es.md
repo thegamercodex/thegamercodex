@@ -21,7 +21,7 @@ Apex no expone in-game stats persistentes. Tu screen post-match te muestra cuán
 ## Para qué la usa la gente
 
 - **Verificar tu rank progress y projection**: ver tus matches recientes, cuánto te falta para el next tier, qué legends rinden mejor en tu hands.
-- **Comparar con friends/team mates**: side-by-side analysis cuando armás trios.
+- **Comparar con friends/team mates**: side-by-side analysis cuando armas trios.
 - **Detectar smurfs en lobbies**: subir el name del enemigo a tracker.gg te dice si es brand new account con stats sospechosamente altos.
 - **Leaderboard hunting**: ver el top 100 global por damage, kills, wins, etc.
 - **Overlay during play**: con la app de Overwolf, ver stats de teammates y enemies live al inicio de cada match.
@@ -33,7 +33,7 @@ Si no quieres instalar Overwolf y solo quieres data sobre el meta del juego (no 
 ## Cómo se usa en la práctica
 
 1. Entra a [apex.tracker.gg](https://apex.tracker.gg).
-2. Search bar: ingresá tu IGN exacto + plataforma (Origin/Steam/PS/Xbox/Switch). Tu account debe ser pública en EA Account settings.
+2. Search bar: ingresa tu IGN exacto + plataforma (Origin/Steam/PS/Xbox/Switch). Tu account debe ser pública en EA Account settings.
 3. Una vez cargado tu profile, navega las tabs: Overview (stats core), Legends (per-legend breakdown), Weapons (gun stats), Sessions (por session).
 4. Para overlay: descarga la Overwolf app desde el banner del sitio, instálala, login. La overlay aparece automáticamente al lanzar Apex.
 5. Para comparar profiles: clic en "Compare" en cualquier profile y agrega hasta 4 names para comparar.
@@ -42,7 +42,7 @@ Si no quieres instalar Overwolf y solo quieres data sobre el meta del juego (no 
 
 - **Ads sin Premium**: free tier tiene ads visibles, especialmente en mobile. Premium ($5/mes) los quita.
 - **Dependencia de Cloudflare**: tracker.gg ha tenido outages cuando Cloudflare cae. Sin failover propio.
-- **Account privacy gating**: si tu EA account está private, no aparecés. Default es public pero a veces players los privatizan.
+- **Account privacy gating**: si tu EA account está private, no apareces. Default es public pero a veces players los privatizan.
 - **Lag con stats post-patch**: cuando Respawn patchea, tracker tarda unos días en reflejar legends/weapons new o rebalanceadas en sus dashboards.
 - **No tiene API pública gratuita** para queries programáticas. Si quieres data programmatic, las options son apexlegendsstatus o mozambiquehe.re.
 

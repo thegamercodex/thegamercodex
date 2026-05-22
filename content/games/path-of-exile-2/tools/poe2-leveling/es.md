@@ -26,7 +26,7 @@ Frente a herramientas interactivas tipo overlay o trackers con import de Path of
 
 **Leer en español la campaña de PoE 2**: el caso de uso más fuerte. Cubre acto por acto en castellano sin recurrir a traductor automático.
 
-**Repaso rápido entre actos**: abres la página del acto siguiente, miras 1-2 minutos, vuelves al juego con idea clara de prioridades.
+**Repaso rápido entre actos**: Abres la página del acto siguiente, miras 1-2 minutos, vuelves al juego con idea clara de prioridades.
 
 **Primer personaje en una league**: para gente que recién empieza una temporada y quiere acordarse del orden de quests sin armar un setup complejo.
 
@@ -57,7 +57,7 @@ No hay login, save de progreso ni sincronización entre dispositivos. Es lectura
 
 **Calidad de traducción variable**. Las versiones no inglesas pueden tener pasajes con redacción mejorable o términos técnicos del juego no localizados. La traducción al español es funcional pero no impecable.
 
-**Cobertura puede ir detrás de patches**. Después de un patch de PoE 2 que cambie zonas o quests, el sitio puede demorar en actualizar. Verifica `lastVerified` o contrastá con Maxroll si notas inconsistencias.
+**Cobertura puede ir detrás de patches**. Después de un patch de PoE 2 que cambie zonas o quests, el sitio puede demorar en actualizar. Verifica `lastVerified` o contrasta con Maxroll si notas inconsistencias.
 
 **Sin información de autoría más allá del contacto**. El sitio no tiene página "About" detallada — solo un contacto vía LinkedIn. Para algunos usuarios eso reduce la confianza editorial.
 

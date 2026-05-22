@@ -31,11 +31,11 @@ Frente a coaches usando otras tools (Coachaware, etc.), Insights tiene mejor onb
 
 ## Para qué la usa la gente
 
-**Coaching individual**: subes VOD, share link con coach, coach revisa con annotations, tú ves después.
+**Coaching individual**: Subes VOD, share link con coach, coach revisa con annotations, tú ves después.
 
 **Team VOD review**: post-scrim, team se reúne en Insights, coach lleva la review, todos ven mismo timestamp y annotations.
 
-**Self-review estructurado**: subes VOD propio, marcas clutches que perdiste, ananá patrones de error. Más estructurado que "vi mi VOD".
+**Self-review estructurado**: Subes VOD propio, marcas clutches que perdiste, anotas patrones de error. Más estructurado que "vi mi VOD".
 
 **Pre-match scouting**: si tienes VODs del rival (público o intercambiados), Insights permite analizarlos con notes específicas para tu team.
 

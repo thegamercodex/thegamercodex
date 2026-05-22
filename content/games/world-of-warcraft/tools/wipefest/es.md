@@ -37,7 +37,7 @@ Una guild Mythic sería tonta de usar solo una. WoWAnalyzer corrige el 95% del D
 
 **Identificar roles que necesitan refuerzo**: dispel coverage baja, interrumpts perdidos, off-heals tarde — Wipefest los lista por jugador. Un raid leader puede ver si el problema es coordinación de raid o de un jugador específico.
 
-**Validar strategy changes**: pruebas una nueva strat para una mecánica (ej: cambiar quién dispel a Comatose Curse). Comparas dos pulls en Wipefest y ves objetivamente si la coverage mejoró.
+**Validar strategy changes**: Pruebas una nueva strat para una mecánica (ej: cambiar quién dispel a Comatose Curse). Comparas dos pulls en Wipefest y ves objetivamente si la coverage mejoró.
 
 **Pre-raid prep**: leer la página del boss en Wipefest antes del raid identifica mecánicas críticas y eventos que la raid debería trackear.
 

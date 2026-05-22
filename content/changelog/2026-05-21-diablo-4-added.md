@@ -46,7 +46,7 @@ events:
     action: added
     name: "Helltides.com vs Diablo4.life"
     gameId: diablo-4
-    noteEs: "Event-tracking: single-purpose Helltide timer hyper-focused vs multi-tool hub consolidando Helltide + world boss + Legion + builds. Single bookmark vs single page — depende de si querés breadth o focus."
+    noteEs: "Event-tracking: single-purpose Helltide timer hyper-focused vs multi-tool hub consolidando Helltide + world boss + Legion + builds. Single bookmark vs single page — depende de si quieres breadth o focus."
     noteEn: "Event-tracking: hyper-focused single-purpose Helltide timer vs multi-tool hub consolidating Helltide + world boss + Legion + builds. Single bookmark vs single page — depends on whether you want breadth or focus."
   - type: comparison
     action: added
@@ -64,6 +64,6 @@ events:
     action: added
     name: "D4Builds Overlay vs Mobalytics Overlay"
     gameId: diablo-4
-    noteEs: "Overlays-companions: mismo functional purpose (in-game overlay via Overwolf), diferentes content sources. La elección depende del hub que ya usás."
+    noteEs: "Overlays-companions: mismo functional purpose (in-game overlay via Overwolf), diferentes content sources. La elección depende del hub que ya usas."
     noteEn: "Overlays-companions: same functional purpose (in-game overlay via Overwolf), different content sources. Choice depends on which hub you already use."
 ---

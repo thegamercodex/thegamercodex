@@ -64,7 +64,7 @@ Si juegas en Game Pass / Microsoft Store: el formato de archivos puede diferir d
 
 **Riesgo de saves contaminados**. Algunos mods escriben datos al save que vanilla NMS puede rechazar. Haz backup antes.
 
-**Calidad muy variable**. Como cualquier crowdsourced repo, hay mods excelentes y mods abandonados. Filtrá por endorsements y por updates recientes.
+**Calidad muy variable**. Como cualquier crowdsourced repo, hay mods excelentes y mods abandonados. Filtra por endorsements y por updates recientes.
 
 **Premium tier upselling**. Nexus pushea su tier paid bastante. La versión gratis es funcional pero te encuentras throttled en downloads simultáneos.
 
@@ -74,7 +74,7 @@ Vas a nexusmods.com y creas cuenta. Verificas email.
 
 Buscas algún mod popular y simple para empezar (ejemplo: un sky color tweak o un FOV adjust). Bajas el .pak.
 
-Confirmá la ruta de instalación: `<Steam>/steamapps/common/No Man's Sky/GAMEDATA/PCBANKS/MODS/`. Borrá `DISABLEMODS.TXT` de PCBANKS.
+Confirma la ruta de instalación: `<Steam>/steamapps/common/No Man's Sky/GAMEDATA/PCBANKS/MODS/`. Borrá `DISABLEMODS.TXT` de PCBANKS.
 
 Lanzas NMS y verificas que el mod aplicó. Si todo OK, puedes agregar más.
 

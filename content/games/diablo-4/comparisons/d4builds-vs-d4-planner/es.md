@@ -9,7 +9,7 @@ A primera vista parecen alternatives — ambos te dejan construir un build de D4
 
 D4builds.gg es una plataforma de community sharing. Cualquier user publica un build con full skill tree, paragon, gear, aspects. Otros votan. Builds populares suben en ranking. Tiene filtros por clase, season, popularity y un sistema de Fork (copias un build existente y modificas).
 
-El valor está en la diversity y validation. Por cada clase tienes decenas de builds disponibles, algunos top tier, otros experimentales. Si vos posteás una build idea, la community vota y comenta — feedback inmediato sobre si funciona.
+El valor está en la diversity y validation. Por cada clase tienes decenas de builds disponibles, algunos top tier, otros experimentales. Si vos publicas una build idea, la community vota y comenta — feedback inmediato sobre si funciona.
 
 ## D4 Planner: individual workflow
 
@@ -19,15 +19,15 @@ El valor está en precision y comparativa. Para mockear paragon allocation antes
 
 ## Cómo decide el use case
 
-**Buscás discover builds?** D4builds.gg. Browseás, encuentras top voted, evaluás. D4 Planner no tiene catálogo.
+**Buscas discover builds?** D4builds.gg. Browseás, encuentras top voted, evalúas. D4 Planner no tiene catálogo.
 
-**Querés modificar un build existente?** D4builds.gg con Fork. Copia + modifica.
+**Quieres modificar un build existente?** D4builds.gg con Fork. Copia + modifica.
 
-**Querés comparar dos builds side-by-side?** D4 Planner. Función built-in.
+**Quieres comparar dos builds side-by-side?** D4 Planner. Función built-in.
 
-**Querés planning iterativo privado?** D4 Planner. Sin presión community.
+**Quieres planning iterativo privado?** D4 Planner. Sin presión community.
 
-**Querés que la community vote tu idea?** D4builds.gg. Sharing es core.
+**Quieres que la community vote tu idea?** D4builds.gg. Sharing es core.
 
 ## El stack natural
 
@@ -36,7 +36,7 @@ Muchos players usan los dos en sequence:
 1. **D4builds.gg**: discover top builds o tu inspiration.
 2. **Import a D4 Planner**: para edits privados antes de publish (o nunca publish).
 3. **Side-by-side** entre tu variant y el canónico.
-4. **Si lo perfeccionás**, opcional postear back a D4builds.gg para community feedback.
+4. **Si lo perfeccionas**, opcional postear back a D4builds.gg para community feedback.
 
 ## Limitaciones
 
@@ -48,4 +48,4 @@ Muchos players usan los dos en sequence:
 
 No competidores reales — herramientas que cubren puntos distintos del flow. **D4builds.gg** es el portal a la community + discovery. **D4 Planner** es el editor personal con precisión. Si solo quieres uno: D4builds.gg para discover, D4 Planner para crear. Pero idealmente los dos.
 
-Si juegas casual, D4builds.gg cubre la mayoría — Maxroll's planner + D4builds discovery suplen lo que D4 Planner añade. Si crafteás builds custom seriamente, D4 Planner se vuelve indispensable.
+Si juegas casual, D4builds.gg cubre la mayoría — Maxroll's planner + D4builds discovery suplen lo que D4 Planner añade. Si crafteas builds custom seriamente, D4 Planner se vuelve indispensable.

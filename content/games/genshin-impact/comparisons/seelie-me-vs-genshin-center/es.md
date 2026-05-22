@@ -54,7 +54,7 @@ Seelie es web-first también, con app móvil oficial. UI más densa porque cubre
 ## Cuál usar
 
 - **Solo quieres saber qué farmear hoy** → Genshin Center. Menos setup, respuesta directa.
-- **Querés gestionar la progresión completa de varios personajes** → Seelie.me. Multi-personaje con agregados.
+- **Quieres gestionar la progresión completa de varios personajes** → Seelie.me. Multi-personaje con agregados.
 - **Necesitas sync con tu inventario in-game** → Seelie.me. Companion app única en su tipo.
 - **Trackear achievements** → Seelie.me.
 - **Sesión casual sin investment en setup** → Genshin Center.

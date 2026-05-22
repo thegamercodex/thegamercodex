@@ -31,11 +31,11 @@ Si no quieres modear el juego y solo quieres jugar vanilla, no la instales — n
 
 ## Cómo se usa en la práctica
 
-1. suscríbete a Nexus Mods (free), entrá a [nexusmods.com/windrose/mods/2](https://www.nexusmods.com/windrose/mods/2).
+1. suscríbete a Nexus Mods (free), entra a [nexusmods.com/windrose/mods/2](https://www.nexusmods.com/windrose/mods/2).
 2. Descarga manual el archivo .zip.
 3. Extrae el contenido al directorio raíz del juego (típicamente `C:\Program Files (x86)\Steam\steamapps\common\Windrose`).
 4. Si tu install no tiene carpeta `~mods/`, creala (con el tilde — NO `mods` solo).
-5. Reinicia Steam para que detecte los archivos nuevos. Lanzá el juego.
+5. Reinicia Steam para que detecte los archivos nuevos. Lanza el juego.
 6. Para console: tecla `~` (tilde) durante el game. Si no se abre, verifica que Simple Mod Loader esté instalado correcto.
 
 ## Limitaciones honestas

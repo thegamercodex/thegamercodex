@@ -22,7 +22,7 @@ WeakAuras es uno de los addons más importantes en WoW — sistema de display cu
 
 - **Import codes con version tracking**: cuando el author actualiza, tú recibes notification.
 - **Browse por spec/encounter** con filtros que CurseForge no replica para WeakAuras.
-- **URL sharing limpio**: pegás un link y el receiver importa directo con un click.
+- **URL sharing limpio**: pegas un link y el receiver importa directo con un click.
 - **Community comments y ratings** por aura específico, no por package.
 
 Para players que viven en WeakAuras (raiders mythic, M+ pushers), Wago se volvió obvious choice.

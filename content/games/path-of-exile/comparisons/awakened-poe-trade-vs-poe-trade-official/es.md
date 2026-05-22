@@ -70,4 +70,4 @@ La respuesta práctica de la mayoría de jugadores activos es **usar ambas**: AP
 
 Si solo vas a elegir uno, **APT** para jugadores activos en SC trade league y **sitio oficial** para quienes valoran zero-install o tradean menos seguido pero más estratégicamente. La decisión real es cuándo dejar de usar uno solo y agregar el segundo. Para la mayoría de jugadores que pasan más de 10 horas semanales en PoE, ese momento llega rápido y el setup combinado se vuelve estándar.
 
-Si recién empiezas y quieres un solo punto de entrada, arrancá por el **sitio oficial** — aprendes cómo funciona el sistema de trade desde la fuente, sin abstracciones — y suma APT cuando empieces a sentir que el alt-tab te está costando tiempo real.
+Si recién empiezas y quieres un solo punto de entrada, arranca por el **sitio oficial** — aprendes cómo funciona el sistema de trade desde la fuente, sin abstracciones — y suma APT cuando empieces a sentir que el alt-tab te está costando tiempo real.

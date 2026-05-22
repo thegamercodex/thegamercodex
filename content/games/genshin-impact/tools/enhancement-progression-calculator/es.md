@@ -28,11 +28,11 @@ Recomendación: usa Enhancement Calculator cuando quieres precisión absoluta so
 
 ## Para qué la usa la gente
 
-**Planificar farms para banner próximo**: quieres a Furina al 90 con todos los talents al 9 antes de que cierre su banner. La calc te dice cuántos boss runs (resin) y cuánto mora necesitas. Decides si te alcanza el tiempo.
+**Planificar farms para banner próximo**: Quieres a Furina al 90 con todos los talents al 9 antes de que cierre su banner. La calc te dice cuántos boss runs (resin) y cuánto mora necesitas. Decides si te alcanza el tiempo.
 
 **Decidir si subir a 80 o 90**: la diferencia 80→90 es enorme en costo (mora, hero's wit, ascension materials). La calc te muestra ese delta para decidir conscientemente.
 
-**Comparar costos de varios candidates a 90**: tienes 3 personajes que quieres subir pero no llegas a todos. La calc te muestra el costo de cada uno y priorizas según resin/materials disponibles.
+**Comparar costos de varios candidates a 90**: Tienes 3 personajes que quieres subir pero no llegas a todos. La calc te muestra el costo de cada uno y priorizas según resin/materials disponibles.
 
 **Calcular total de talent upgrades para un team**: tu team de 4 personajes con todos los talents al 9 cuesta X libros de talent y Y materials de boss semanal. Vital para no quedarse sin progreso a mitad de Spiral Abyss season.
 

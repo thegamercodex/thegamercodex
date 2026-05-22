@@ -26,7 +26,7 @@ Frente a editar el archivo `.filter` a mano: FilterBlade es 100x más rápido y 
 
 **Bajar el filtro de NeverSink listo para usar**: la página principal te deja descargar las strictness presetdas (Soft, Regular, Semi-Strict, Strict, Very Strict, Uber-Strict, Uber-Plus-Strict) en un click.
 
-**Customizar visibilidad de items específicos**: editas reglas item-por-item. Quiero que el Tabula Rasa siempre sea louder, que las gemas de quality 20 tengan beam, que los currencies pequeños desaparezcan after level 80.
+**Customizar visibilidad de items específicos**: Editas reglas item-por-item. Quiero que el Tabula Rasa siempre sea louder, que las gemas de quality 20 tengan beam, que los currencies pequeños desaparezcan after level 80.
 
 **Probar previews antes de aplicar**: FilterBlade tiene preview visual que muestra cómo se vería un item con tu filtro. Útil para ajustar colores antes de meter el filtro en el juego.
 

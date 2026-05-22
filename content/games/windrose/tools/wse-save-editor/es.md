@@ -34,15 +34,15 @@ Si juegas multiplayer competitivo o en servers PvP donde el host detecta cheatin
 
 1. **Backup el save primero** — siempre. Copy `%LOCALAPPDATA%\Windrose\Saved\SaveGames\` antes de tocar nada.
 2. Descarga [WSE Project desde Nexus](https://www.nexusmods.com/windrose/mods/153). Suscripción gratuita requerida.
-3. Cerrá el juego antes de editar — el editor no soporta hot-reload.
+3. Cierra el juego antes de editar — el editor no soporta hot-reload.
 4. Abre la app, carga tu save desde el dialog de "Open".
-5. Navegá las tabs (Inventory, Stats, Talents, Discoveries) para editar lo que necesites.
+5. Navega las tabs (Inventory, Stats, Talents, Discoveries) para editar lo que necesites.
 6. Save y abre el juego para verificar los cambios.
 
 ## Limitaciones honestas
 
 - **Save format puede cambiar con patches**: cuando Windrose patcha, el editor puede no abrir saves nuevos hasta que el author libera update.
-- **Sin undo dentro del editor**: si commiteás un cambio errado al save, no hay deshacer — por eso backup primero.
+- **Sin undo dentro del editor**: si commiteas un cambio errado al save, no hay deshacer — por eso backup primero.
 - **Item database puede tener gaps**: items muy recientes pueden no estar en la DB todavía.
 - **Closed source**: hay que confiar en el author. El tool toca un save file binario, riesgo no-trivial.
 - **No es FOSS**: sin fork option si el author abandona.

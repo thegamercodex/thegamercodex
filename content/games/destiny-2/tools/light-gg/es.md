@@ -28,7 +28,7 @@ Frente a la wiki o destinypedia, light.gg es más rápido y mejor diseñado para
 
 **Appraise un drop**: pegas el item en la página correspondiente, ves cómo se compara contra el god roll comunitario. Verde = mantener, rojo = shard.
 
-**Buscar god rolls antes de farmearlos**: filtras por activity (Trials, Iron Banner, raid X) y ves qué armas worth chasing tienen rolls que se complementan con tu build.
+**Buscar god rolls antes de farmearlos**: Filtras por activity (Trials, Iron Banner, raid X) y ves qué armas worth chasing tienen rolls que se complementan con tu build.
 
 **Comparar arquetipos**: la página de cada arma muestra archetype averages. Útil para decidir entre dos hand cannons aggressive frame con perks similares.
 

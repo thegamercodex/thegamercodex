@@ -4,7 +4,7 @@
   "category": "economy",
   "depth": "short",
   "lastVerified": "2026-05-13",
-  "verdictEs": "poe.ninja si querés el estándar consolidado de la comunidad — la misma plataforma que cubre PoE 1 con la confianza de años de uso. PoE 2 Scout si preferís una tool nativa de PoE 2, open source y con foco específico en las dinámicas de mercado del juego nuevo.",
+  "verdictEs": "poe.ninja si quieres el estándar consolidado de la comunidad — la misma plataforma que cubre PoE 1 con la confianza de años de uso. PoE 2 Scout si prefieres una tool nativa de PoE 2, open source y con foco específico en las dinámicas de mercado del juego nuevo.",
   "verdictEn": "poe.ninja if you want the consolidated community standard — the same platform that covers PoE 1 with years of trusted use. PoE 2 Scout if you prefer a PoE 2-native tool, open source and focused specifically on the new game's market dynamics.",
   "useCases": [
     {
@@ -22,7 +22,7 @@
       "reasonEn": "poe.ninja's build browser scans the PoE 2 ladder same as in PoE 1. PoE 2 Scout doesn't target build meta-data."
     },
     {
-      "labelEs": "Querés código auditable open source para datos de mercado",
+      "labelEs": "Quieres código auditable open source para datos de mercado",
       "labelEn": "You want auditable open-source code for market data",
       "winner": "poe2-scout",
       "reasonEs": "PoE 2 Scout es MIT en GitHub. poe.ninja no expone su código; ambas son confiables pero la diferencia importa para algunos usuarios.",

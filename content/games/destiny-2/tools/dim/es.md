@@ -24,7 +24,7 @@ Frente a la app Companion oficial de Bungie, DIM gana en velocidad, capacidad de
 
 ## Para qué la usa la gente
 
-**Armar loadouts por actividad**: guardas "Loadout PvE Solar Warlock", "Loadout Trials Hunter", "Loadout Raid DPS" y los equipas con un click antes de la actividad. DIM transfiere todo el gear y mods automáticamente.
+**Armar loadouts por actividad**: Guardas "Loadout PvE Solar Warlock", "Loadout Trials Hunter", "Loadout Raid DPS" y los equipas con un click antes de la actividad. DIM transfiere todo el gear y mods automáticamente.
 
 **Limpiar el vault sin pánico**: con búsquedas tipo `is:dupe is:weapon -is:masterwork` ves duplicados sin masterwork de un solo vistazo y los desensamblas en bulk. Lo mismo con armaduras viejas que ya no usas.
 
@@ -60,4 +60,4 @@ Si no tienes cuenta Bungie.net o no quieres autenticarla con OAuth, DIM no funci
 
 ## Cómo empezar
 
-Entra a `destinyitemmanager.com`, autorizá con tu cuenta Bungie.net (Steam / PlayStation / Xbox), y ya estás dentro. La primera vez explora los tres personajes, prueba mover un item al vault, y anda al panel de Loadouts. En menos de 10 minutos ya estás moviendo gear más rápido que dentro del juego.
+Entra a `destinyitemmanager.com`, autoriza con tu cuenta Bungie.net (Steam / PlayStation / Xbox), y ya estás dentro. La primera vez explora los tres personajes, prueba mover un item al vault, y anda al panel de Loadouts. En menos de 10 minutos ya estás moviendo gear más rápido que dentro del juego.

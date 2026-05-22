@@ -66,4 +66,4 @@ Si tu interés primario es lore, builds o weapon meta, este sitio no aporta — 
 
 ## Cómo empezar
 
-Entra a `d2checklist.com`, login con Bungie OAuth. Apenas carga, mira los 3 characters lado-a-lado y identificá qué milestone te falta en cada uno. Prueba el filtro "incomplete" para ver solo qué te falta. En 5 minutos ya tienes visibility sobre semanas que antes hacías a ciegas.
+Entra a `d2checklist.com`, login con Bungie OAuth. Apenas carga, mira los 3 characters lado-a-lado y identifica qué milestone te falta en cada uno. Prueba el filtro "incomplete" para ver solo qué te falta. En 5 minutos ya tienes visibility sobre semanas que antes hacías a ciegas.

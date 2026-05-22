@@ -26,7 +26,7 @@ No hay alternativa community comparable. Subreddits y Discords ocasionalmente co
 
 **Inspiración para hideouts propios**: scrolleas los más votados, identificas un estilo (medieval, sci-fi, garden, dungeon), decides un look para el tuyo.
 
-**Importar diseños completos**: descargas el archivo `.hideout`, lo importas, ajustas detalles. Ahorra horas vs construir desde cero.
+**Importar diseños completos**: Descargas el archivo `.hideout`, lo importas, ajustas detalles. Ahorra horas vs construir desde cero.
 
 **Estudiar técnicas de decoración avanzada**: cómo otros usan iluminación dramática, agrupamiento de decoraciones para crear escenas, escala de objetos pequeños vs grandes.
 
@@ -74,6 +74,6 @@ Vas a `hideoutshowcase.com` (o link directo PoE 1 con filtro). Browseas los más
 
 Cuando encuentres uno que te guste, click en él, lees comentarios para detectar bugs reportados o tips del autor, descargas el archivo si está disponible.
 
-Para subir el tuyo: registrate gratis, toma screenshots in-game con buena iluminación (prefiere horario "Day" para que se vean los detalles), exportá tu archivo desde el juego, subilo con tags relevantes y descripción honesta.
+Para subir el tuyo: registrate gratis, toma screenshots in-game con buena iluminación (prefiere horario "Day" para que se vean los detalles), exporta tu archivo desde el juego, subilo con tags relevantes y descripción honesta.
 
 Tip: los hideouts mejor recibidos suelen ser los que pasan por 2-3 iteraciones antes de publicar. No te apures con el primer intento.

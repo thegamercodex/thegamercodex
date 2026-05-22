@@ -75,13 +75,13 @@ Si quieres importar runas automáticamente al cliente, instalas la desktop app �
 
 **Cobertura competitiva no es su fuerte**: U.GG tiene Probuilds pero la base es más chica que la de Probuilds.net o Probuild.gg, que son sitios dedicados exclusivamente a esa función.
 
-**Premium tier es opcional pero ofrecido frecuentemente**: el sitio empuja la suscripción con popups y banners. Si solo quieres consultar builds, ignorá los upsells — la versión gratis cubre el 95% de los casos de uso.
+**Premium tier es opcional pero ofrecido frecuentemente**: el sitio empuja la suscripción con popups y banners. Si solo quieres consultar builds, ignora los upsells — la versión gratis cubre el 95% de los casos de uso.
 
 ## Cómo empezar
 
 No requiere registro ni instalación. Vas a `u.gg`, buscas un champion, eliges rol, listo. Para sacarle máximo provecho:
 
-1. Bookmarkeá la URL del champion + rol que más juegues — las builds se actualizan automáticamente cada patch.
+1. Bookmarkea la URL del champion + rol que más juegues — las builds se actualizan automáticamente cada patch.
 
 2. Si te interesa el meta general de tu rol, marca la tier list correspondiente como recurso de inicio de sesión.
 
@@ -89,4 +89,4 @@ No requiere registro ni instalación. Vas a `u.gg`, buscas un champion, eliges r
 
 4. Considera la desktop app solo si te interesa el auto-import de runas — para todo lo demás, la web es suficiente.
 
-5. Si quieres entender por qué una build funciona (no solo qué construir), complementá con Lolalytics que muestra mejor el "porqué" estadístico.
+5. Si quieres entender por qué una build funciona (no solo qué construir), complementa con Lolalytics que muestra mejor el "porqué" estadístico.

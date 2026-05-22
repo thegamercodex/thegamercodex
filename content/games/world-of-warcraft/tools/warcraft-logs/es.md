@@ -25,14 +25,14 @@ Para guilds en progresión, los logs son el debrief obligatorio post-raid. Para 
 Las tres viven en el cluster `raid-logs` pero hacen cosas distintas:
 
 - **Warcraft Logs** es **el motor**: la base de datos crudo + parser + rankings. Sin él, los otros dos no existen — ambos consumen logs subidos a Warcraft Logs.
-- **WoWAnalyzer** es **análisis automatizado por spec**: lee tu log y te dice "usaste este cooldown 12 segundos tarde", "este buff tuvo 78% uptime y deberías estar en 92%", con sugerencias accionables.
+- **WoWAnalyzer** es **análisis automatizado por spec**: Lee tu log y te dice "usaste este cooldown 12 segundos tarde", "este buff tuvo 78% uptime y deberías estar en 92%", con sugerencias accionables.
 - **Wipefest** es **análisis de mecánicas y wipes**: por qué murió la raid, qué mecánica falló, qué jugador no salió a tiempo de un AoE.
 
 Para review individual: WoWAnalyzer. Para review de raid leadership / mecánicas: Wipefest. Para data crudo y leaderboards: Warcraft Logs. La mayoría de guilds Mythic los usan los tres.
 
 ## Para qué la usa la gente
 
-**Review post-raid de tu propia performance**: abres tu log, ves tu percentil por boss, comparas con el top de tu spec, identificas dónde perdiste DPS o uptime.
+**Review post-raid de tu propia performance**: Abres tu log, ves tu percentil por boss, comparas con el top de tu spec, identificas dónde perdiste DPS o uptime.
 
 **Review de la guild para raid leaders**: timeline completo de la pelea, deaths con causa, daño taken, cooldown coverage, identificación de gaps en mitigation.
 
@@ -83,8 +83,8 @@ Para review individual: WoWAnalyzer. Para review de raid leadership / mecánicas
 
 2. Instala el companion (Warcraft Logs Uploader desktop o el addon **WCL Uploader**). El desktop client es más estable; el addon más conveniente si raideas regularmente.
 
-3. Activá Advanced Combat Logging in-game (`/console combatLogVersion 2` la primera vez).
+3. Activa Advanced Combat Logging in-game (`/console combatLogVersion 2` la primera vez).
 
-4. Después de tu primer raid, sube el log. Compará tu primer reporte con los rankings públicos de tu spec.
+4. Después de tu primer raid, sube el log. Compara tu primer reporte con los rankings públicos de tu spec.
 
-5. Si tu guild raidea Mythic en serio, considera el plan Premium — o coordiná que algún oficial lo tenga para compartir analysis profundos al resto.
+5. Si tu guild raidea Mythic en serio, considera el plan Premium — o coordina que algún oficial lo tenga para compartir analysis profundos al resto.

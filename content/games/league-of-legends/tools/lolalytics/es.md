@@ -47,7 +47,7 @@ Lolalytics es excelente para análisis profundo, pero no es lo que necesitas si:
 - **Quieres una guía de build rápida sin friccionar con stats** → U.GG es más limpio y directo, te dice qué construir sin hacerte digerir la justificación estadística.
 - **Quieres match history personal y scouting** → OP.GG es más cómodo, Lolalytics no se centra en perfiles de summoner.
 - **Quieres coaching o framework de mejora** → Mobalytics tiene el GPI, Lolalytics no entra en ese terreno.
-- **Eres beginner** → la densidad de información puede abrumar. Empieza con U.GG/OP.GG y migrá a Lolalytics cuando ya tengas vocabulario para leer los breakdowns.
+- **Eres beginner** → la densidad de información puede abrumar. Empieza con U.GG/OP.GG y migra a Lolalytics cuando ya tengas vocabulario para leer los breakdowns.
 
 ## Cómo se usa en la práctica
 
@@ -63,7 +63,7 @@ Lolalytics es excelente para análisis profundo, pero no es lo que necesitas si:
 
 6. Filtros densos a la derecha permiten cortar la data por casi cualquier dimensión.
 
-Para uso recurrente: bookmarkeá las URLs de tu main y de los matchups más frecuentes — los filtros se preservan en la URL.
+Para uso recurrente: bookmarkea las URLs de tu main y de los matchups más frecuentes — los filtros se preservan en la URL.
 
 ## Limitaciones honestas
 
@@ -81,11 +81,11 @@ Para uso recurrente: bookmarkeá las URLs de tu main y de los matchups más frec
 
 1. Vas a `lolalytics.com`. Sin login, sin instalación.
 
-2. Busca tu champion main y el rol que juegas. Configurá el filtro de rango (prueba con tu rango real para data más representativa).
+2. Busca tu champion main y el rol que juegas. Configura el filtro de rango (prueba con tu rango real para data más representativa).
 
 3. Pasa 5 minutos explorando las pestañas: Build, Matchups, Runes, Skills, Stats. Cada una tiene su propio nivel de profundidad.
 
-4. Para cada uno de tus 3 matchups más frecuentes (los oponentes que ves más seguido), abre la vista detallada y notá el breakdown por timing — eso te da intuición sobre cuándo pelear y cuándo evitar.
+4. Para cada uno de tus 3 matchups más frecuentes (los oponentes que ves más seguido), abre la vista detallada y nota el breakdown por timing — eso te da intuición sobre cuándo pelear y cuándo evitar.
 
 5. Cuando salga un patch nuevo, vuelve a la sección Patch Notes Analysis para ver qué cambió en tu pick y en sus matchups principales antes de jugar la primera ranked del patch.
 

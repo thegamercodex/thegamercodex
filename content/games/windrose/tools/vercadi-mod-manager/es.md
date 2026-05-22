@@ -33,7 +33,7 @@ Si gestionas dedicated server remoto vía SFTP/FTP, Vercadi no soporta — neces
 
 ## Cómo se usa en la práctica
 
-1. Entrá al [repo de GitHub](https://github.com/Vercadi/windrose-mod-manager), descarga la última release del tab "Releases".
+1. Entra al [repo de GitHub](https://github.com/Vercadi/windrose-mod-manager), descarga la última release del tab "Releases".
 2. Instala la .exe, arranca la app. Auto-detecta el path de Windrose.
 3. Arrastra el .zip/.7z del mod al app — extract y install automático en el target seleccionado (client o local server).
 4. Para uninstall: tab "Installed Mods", clic en uninstall, el manager restora los archivos.

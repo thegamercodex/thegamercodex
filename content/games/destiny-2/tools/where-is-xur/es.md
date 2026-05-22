@@ -62,4 +62,4 @@ Si te interesan vendors completos (Banshee, Saint-14, Spider, Eva, etc.), Brayte
 
 ## Cómo empezar
 
-Bookmarkeá `whereisxur.com`. El próximo viernes 10am PT, abres y miras. En 30 segundos sabes si vale la pena el trip a D2. Eso es todo el flujo — la simplicidad es la propuesta de valor.
+Bookmarkea `whereisxur.com`. El próximo viernes 10am PT, abres y miras. En 30 segundos sabes si vale la pena el trip a D2. Eso es todo el flujo — la simplicidad es la propuesta de valor.

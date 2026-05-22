@@ -37,7 +37,7 @@ Wowhead resuelve "qué es este item / aspect / skill". Fextralife resuelve "cóm
 
 **Database items**: ¿qué legendaries existen para Necromancer? Wowhead lista todos filterables por clase.
 
-**Datamined content**: pre-patch, Wowhead publica leaks del PTR datamine. Te enterás de nuevos uniques antes que sean revealed oficial.
+**Datamined content**: pre-patch, Wowhead publica leaks del PTR datamine. Te enteras de nuevos uniques antes que sean revealed oficial.
 
 **Interactive map**: hunting Lilith statues, altars o specific NPCs. La map te muestra coords exactos.
 
@@ -47,7 +47,7 @@ Wowhead resuelve "qué es este item / aspect / skill". Fextralife resuelve "cóm
 
 - **Quien busca builds**: Wowhead lista items, no opina sobre meta. Para builds, Maxroll/Mobalytics.
 - **Quien quiere narrative/lore**: para lore deep dives, Fextralife.
-- **Quien evita datamining spoilers**: Wowhead publica leaks que pueden spoilear seasonal mechanics. Si preferís sorpresas, evitar.
+- **Quien evita datamining spoilers**: Wowhead publica leaks que pueden spoilear seasonal mechanics. Si prefieres sorpresas, evitar.
 - **Mobile users**: la database tiene mucha info por screen — mobile experience es OK pero no óptima.
 
 ## Cómo se usa en la práctica
@@ -56,7 +56,7 @@ Wowhead resuelve "qué es este item / aspect / skill". Fextralife resuelve "cóm
 
 2. **Database** menu: items, aspects, uniques, skills.
 
-3. Search bar: tipeás nombre exact o partial.
+3. Search bar: escribes nombre exact o partial.
 
 4. Cada entry tiene tabs: Overview, Source, Used in, Comments.
 
@@ -86,7 +86,7 @@ Wowhead resuelve "qué es este item / aspect / skill". Fextralife resuelve "cóm
 
 3. Para tu clase: filtra items y aspects relevantes.
 
-4. Probá search: "Whirlwind" o "Andariel" para ver result depth.
+4. Prueba search: "Whirlwind" o "Andariel" para ver result depth.
 
 5. Bookmarkea el sitio + suscribite a newsletter si quieres patch news directos.
 

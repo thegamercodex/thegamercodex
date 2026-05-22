@@ -88,7 +88,7 @@ Si quieres automatizarlo con Vortex (mod manager de Nexus), descargas Vortex, lo
 
 1. Solo arranca con Nexus si **ya buscaste el mod en Thunderstore** y no estaba.
 2. Anda a `nexusmods.com/valheim` y crea cuenta gratis si no tienes.
-3. Encontrá el mod que quieres (search por nombre).
+3. Encuentra el mod que quieres (search por nombre).
 4. Manual Download → descarga el .zip.
 5. Lee las instrucciones de instalación del mod cuidadosamente (cada uno puede tener pasos distintos).
 6. Mueve los archivos correspondientes a `BepInEx/plugins/<mod-name>/`.

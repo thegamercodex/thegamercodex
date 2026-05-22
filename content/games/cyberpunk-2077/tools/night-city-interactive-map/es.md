@@ -31,7 +31,7 @@ Frente a **Fextralife wiki**: Fextralife lista locations en texto; Night City lo
 
 ## Para qué la usa la gente
 
-**100% completion runs**: filtras por tipo (ej: "iconic weapons" o "tarot cards"), ves cuáles ya completaste, ves cuáles te faltan, planificas el path eficiente para hacerlos.
+**100% completion runs**: Filtras por tipo (ej: "iconic weapons" o "tarot cards"), ves cuáles ya completaste, ves cuáles te faltan, planificas el path eficiente para hacerlos.
 
 **Encontrar iconic weapons antes**: armas únicas que el juego no destaca específicamente. El mapa te dice exactamente la calle donde está, te llevas eso del primer playthrough.
 
@@ -75,9 +75,9 @@ Para play sessions concurrentes: tener el mapa abierto en segundo monitor o tel�
 ## Cómo empezar
 
 1. Abre `nightcity.io` en cualquier browser.
-2. Si tienes Phantom Liberty, activá el toggle de Dogtown — sin él, el mapa base es suficiente.
-3. Decidí qué buscas: para cazar iconic weapons, filtra solo esa categoría. Para 100% completion run, activá todo.
-4. Mientras juegas, deja el mapa abierto en otro device o monitor. Cuando estés cerca de un POI, navega al area y completá. Marca como done después.
-5. Itera: progresá story principal en sessions normales, periodicamente abres el mapa para "what's near?" cuando vayas a un district nuevo.
+2. Si tienes Phantom Liberty, activa el toggle de Dogtown — sin él, el mapa base es suficiente.
+3. Decidí qué buscas: para cazar iconic weapons, filtra solo esa categoría. Para 100% completion run, activa todo.
+4. Mientras juegas, deja el mapa abierto en otro device o monitor. Cuando estés cerca de un POI, navega al area y completa. Marca como done después.
+5. Itera: progresa story principal en sessions normales, periodicamente abres el mapa para "what's near?" cuando vayas a un district nuevo.
 
 Tip: para evitar spoilers, **no actives el filtro de "main jobs"** hasta haber terminado la story. Los side jobs y NCPD hustles son safe; los main jobs te van a mostrar locations spoilery.

@@ -66,7 +66,7 @@ Si buscas info sobre el patch más reciente publicado ayer, el wiki suele tener 
 
 **No tiene buscador interno excelente**. La búsqueda de Fandom es básica; muchas veces conviene googlear "site:nomanssky.fandom.com X" para encontrar lo que buscas.
 
-**Editable por cualquiera**. La crowd-sourced naturaleza significa que info dudosa puede colarse. Para datos críticos (recetas, economía), cruzá con Assistant o el juego mismo.
+**Editable por cualquiera**. La crowd-sourced naturaleza significa que info dudosa puede colarse. Para datos críticos (recetas, economía), cruza con Assistant o el juego mismo.
 
 ## Cómo empezar
 

@@ -66,4 +66,4 @@ Si juegas casual y no sigues el escenario competitivo, Liquipedia no aporta nada
 
 ## Cómo empezar
 
-Entra a `liquipedia.net/valorant`. Busca tu team o player favorito. Notá cómo la información está estructurada — tablas, secciones, links. Para uso recurrente, bookmark de la home y de los teams principales que sigas. Liquipedia se vuelve útil cuando necesitas contexto que no encuentras en otro lado.
+Entra a `liquipedia.net/valorant`. Busca tu team o player favorito. Nota cómo la información está estructurada — tablas, secciones, links. Para uso recurrente, bookmark de la home y de los teams principales que sigas. Liquipedia se vuelve útil cuando necesitas contexto que no encuentras en otro lado.

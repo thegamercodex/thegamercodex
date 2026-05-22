@@ -1,6 +1,6 @@
 ---
 title: "Diablo 4 Companion"
-description: "Loot filter open-source para D4: definís affixes deseados, la app destaca on-screen los items que matchean — automatiza evaluación de drops que manualmente requiere mouse-over por item."
+description: "Loot filter open-source para D4: defines affixes deseados, la app destaca on-screen los items que matchean — automatiza evaluación de drops que manualmente requiere mouse-over por item."
 quickTake: "El loot filter que D4 nunca tuvo. Defines qué affixes quieres en tu build, juegas normal, y items con esos affixes se destacan visualmente. Ahorra horas evaluando drops en Helltides y dungeons. Open source en GitHub."
 ---
 
@@ -9,17 +9,17 @@ quickTake: "El loot filter que D4 nunca tuvo. Defines qué affixes quieres en tu
 Diablo 4 Companion (github.com/josdemmers/Diablo4Companion) es una aplicación desktop open-source desarrollada por **josdemmers** que actúa como loot filter visual para D4. La app corre en background mientras juegas y, mediante OCR + image recognition, identifica items con affixes que matchean tus criteria definidos y los highlights visualmente.
 
 Funcionalidades:
-- **Filter por affix**: definís listas de affixes "wanted" per class/build.
+- **Filter por affix**: defines listas de affixes "wanted" per class/build.
 - **Visual highlighting**: items matching tus filters se destacan on-screen.
-- **Build presets**: importás filters de comunidad (presets de top builds).
-- **Multi-build**: switchás entre filter presets según character actual.
+- **Build presets**: Importas filters de comunidad (presets de top builds).
+- **Multi-build**: Cambias entre filter presets según character actual.
 - **Open source**: código auditable, contributors community.
 
 ## Qué problema resuelve
 
 D4 in-game tiene loot filter básico (rarity-based) pero no por affix. Para players que farmean ancestrals/mythics con affixes specific para sus builds, evaluating cada drop manualmente (open inventory, hover, read 4 affixes, compare with current gear) toma 5-10 segundos per item. En una hora de Helltide farm dropean 50+ items, fácil 1+ hora perdida solo en evaluation.
 
-Diablo 4 Companion automatiza eso. Solo los items que matchean tus criteria destacan. El resto los ignorás visually.
+Diablo 4 Companion automatiza eso. Solo los items que matchean tus criteria destacan. El resto los ignoras visually.
 
 ## Diferenciación vs D4Builds Overlay / Mobalytics Overlay
 
@@ -32,7 +32,7 @@ Los overlays show info. Companion filters loot. Complementarios, no competidores
 
 **Helltide farming**: 50-100 drops per hour. Companion identifies los 5-10 que matchean.
 
-**Targeted gear hunting**: buscas specific affix para build optimization. Companion alerts cuando dropea.
+**Targeted gear hunting**: Buscas specific affix para build optimization. Companion alerts cuando dropea.
 
 **Multi-character economy**: con varios chars activos, switchear filter preset según char.
 
@@ -49,15 +49,15 @@ Los overlays show info. Companion filters loot. Complementarios, no competidores
 
 ## Cómo se usa en la práctica
 
-1. Descargá la app desde GitHub releases o source build.
+1. Descarga la app desde GitHub releases o source build.
 
-2. Configurá filters per character: affixes wanted, weights, threshold.
+2. Configura filters per character: affixes wanted, weights, threshold.
 
 3. Lanza D4 con la Companion running en background.
 
 4. Items matching destacan visually on-screen.
 
-5. Para community presets, browseá releases del repo o community channels.
+5. Para community presets, navega releases del repo o community channels.
 
 ## Limitaciones honestas
 
@@ -75,14 +75,14 @@ Los overlays show info. Companion filters loot. Complementarios, no competidores
 
 ## Cómo empezar
 
-1. Descargá desde [github.com/josdemmers/Diablo4Companion releases](https://github.com/josdemmers/Diablo4Companion/releases).
+1. Descarga desde [github.com/josdemmers/Diablo4Companion releases](https://github.com/josdemmers/Diablo4Companion/releases).
 
 2. Lee setup guide del README — incluye configuración de game UI scaling.
 
-3. Para tu primer build: importá un preset community del Discord o crea simple filter (ej: "+max life", "+all stats", "+armor"`).
+3. Para tu primer build: importa un preset community del Discord o crea simple filter (ej: "+max life", "+all stats", "+armor"`).
 
 4. Run D4 + Companion. Verifica que items wanted highlightea correctamente.
 
-5. Ajustá threshold según tus standards.
+5. Ajusta threshold según tus standards.
 
-6. Compartí presets con tu group si servís a community.
+6. Compartí presets con tu group si sirves a community.

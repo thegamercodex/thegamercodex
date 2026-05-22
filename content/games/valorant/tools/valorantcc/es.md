@@ -60,7 +60,7 @@ Si juegas en consola, los crosshairs son más limitados (Valorant Console permit
 
 **No reemplaza experimentación propia**. Lo que le funciona a TenZ no necesariamente te va a funcionar a tú. ValorantCC da starting points, no soluciones definitivas.
 
-**Sin features adicionales**. Single-purpose por diseño. Si esperas features tipo "compará dos crosshairs side-by-side", no las tiene.
+**Sin features adicionales**. Single-purpose por diseño. Si esperas features tipo "compara dos crosshairs side-by-side", no las tiene.
 
 **Solo en inglés**. Sin localización (aunque dado que es solo browse + copy, el lenguaje barrera es mínima).
 

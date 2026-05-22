@@ -82,8 +82,8 @@ Para learning, la doc oficial en `jerekuusela.github.io/BetterContinents-Docs/in
 2. Instala Better Continents en una modlist limpia (no la mezcles con tu modlist QoL principal mientras experimentas).
 3. Descarga un ejemplo de heightmap + biome mask de la docu (vienen samples para arrancar).
 4. Lanza Valheim, crea un mundo con esos samples como input.
-5. Explorá in-game para ver cómo el image map se tradujo a terreno.
+5. Explora in-game para ver cómo el image map se tradujo a terreno.
 6. Modificá la imagen en GIMP/Krita, regenera el mundo, comparálos.
-7. Cuando manejes el flow, diseñá tu propio mapa desde cero.
+7. Cuando manejes el flow, diseña tu propio mapa desde cero.
 
 Para inspiración, hay servers públicos que publicaron sus `.BetterContinents` (busca en subreddits de Valheim "Better Continents map share").

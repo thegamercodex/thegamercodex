@@ -15,8 +15,8 @@ Overlay del ecosystem Mobalytics. Visual tier lists con S/A/B/C badges, Mobalyti
 
 ## Cuándo cada uno
 
-- **D4Builds Overlay**: si ya usas D4Builds.gg como primary hub. Si valorás community-driven discovery y voted-up build diversity.
-- **Mobalytics Overlay**: si ya usas Mobalytics. Si valorás visual tier lists y modern UI cards.
+- **D4Builds Overlay**: si ya usas D4Builds.gg como primary hub. Si valoras community-driven discovery y voted-up build diversity.
+- **Mobalytics Overlay**: si ya usas Mobalytics. Si valoras visual tier lists y modern UI cards.
 
 ## Tradeoff común
 

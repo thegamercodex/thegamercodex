@@ -21,7 +21,7 @@ La metáfora más clara: **FFLogs es el archivo médico; XIVAnalysis es el docto
 
 **Análisis de buff alignment a nivel party**. FFLogs muestra la timeline completa con buffs de los 8 players visibles simultáneamente. Si quieres ver si tu Embolden estuvo alineado con el Trick Attack del NIN, FFLogs te lo muestra side-by-side. XIVAnalysis se enfoca por player; el alignment cross-party está menos desarrollado.
 
-**Investigación de fight strats**. Querés ver cómo killearon M12S los top groups del world race. Vas a FFLogs, filtrás top 10 logs, ves su cast sequence completa y deducís strats. Esa función es FFLogs-exclusiva.
+**Investigación de fight strats**. Quieres ver cómo killearon M12S los top groups del world race. Vas a FFLogs, filtras top 10 logs, ves su cast sequence completa y deduces strats. Esa función es FFLogs-exclusiva.
 
 ## Cuándo domina XIVAnalysis
 
@@ -29,16 +29,16 @@ La metáfora más clara: **FFLogs es el archivo médico; XIVAnalysis es el docto
 
 **Aprendizaje sin ser theorycrafter**. Para players que recién entran a Savage, leer un FFLogs raw es overwhelming. XIVAnalysis traduce eso a "haz X, no hagas Y", priorizado por severity. Acelera el learning curve dramáticamente.
 
-**Coaching asíncrono**. Mentor te manda link de XIVAnalysis, te dice "mira suggestions 2 y 4". Más rápido que "abre FFLogs, ve a damage done tab, filtrá por X, compáralo con Y" que requeriría un mentor experto.
+**Coaching asíncrono**. Mentor te manda link de XIVAnalysis, te dice "mira suggestions 2 y 4". Más rápido que "abre FFLogs, ve a damage done tab, filtra por X, compáralo con Y" que requeriría un mentor experto.
 
-**Validación rápida de nueva rotación**. Probás una variante del opener. XIVAnalysis te dice si rompiste las reglas básicas. FFLogs te muestra el resultado en DPS, pero no si fue por la rotación o por circunstancia.
+**Validación rápida de nueva rotación**. Pruebas una variante del opener. XIVAnalysis te dice si rompiste las reglas básicas. FFLogs te muestra el resultado en DPS, pero no si fue por la rotación o por circunstancia.
 
 ## El flujo combinado real
 
 Un raider serio usa ambos en secuencia:
 
 1. **Pull en Savage** → ACT captura el log → se sube a FFLogs.
-2. **FFLogs**: revisás el percentil para ubicarte. ¿p30? Hay mucho que mejorar. ¿p85? Mostly fine, hay tweaks finos.
+2. **FFLogs**: Revisas el percentil para ubicarte. ¿p30? Hay mucho que mejorar. ¿p85? Mostly fine, hay tweaks finos.
 3. **XIVAnalysis**: pegas el link de FFLogs, ves las suggestions priorizadas. Implementás las 2-3 más impactantes para el próximo pull.
 4. **Vuelta al pull** → next log → repetir.
 

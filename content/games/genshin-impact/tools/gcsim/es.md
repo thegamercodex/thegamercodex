@@ -58,6 +58,6 @@ El flujo típico de un usuario serio:
 
 ## Cómo empezar
 
-Si quieres probar sin compromiso: entra a gcsim.app, cargá una de las simulaciones de ejemplo (samples) que ya están en la database, y corré. Vas a ver la interfaz, los resultados, el frame-by-frame.
+Si quieres probar sin compromiso: entra a gcsim.app, carga una de las simulaciones de ejemplo (samples) que ya están en la database, y corré. Vas a ver la interfaz, los resultados, el frame-by-frame.
 
-Si quieres ir en serio: lee la guía "Building a Sim from Scratch" en docs.gcsim.app, sumate al Discord para resolver dudas, y arrancá replicando una rotación documentada de un team comp que ya juegues. Recién después intenta escribir una desde cero.
+Si quieres ir en serio: lee la guía "Building a Sim from Scratch" en docs.gcsim.app, súmate al Discord para resolver dudas, y arranca replicando una rotación documentada de un team comp que ya juegues. Recién después intenta escribir una desde cero.

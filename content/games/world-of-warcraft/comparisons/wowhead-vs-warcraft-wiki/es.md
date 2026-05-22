@@ -40,7 +40,7 @@ WoWHead **no reemplaza** a Warcraft Wiki cuando:
 
 Warcraft Wiki **no reemplaza** a WoWHead cuando:
 - Necesitas drop rate de un trinket de current raid.
-- Buscás cómo completar un weekly quest específico.
+- Buscas cómo completar un weekly quest específico.
 - Quieres talent build current-tier con percentages community.
 - Necesitas patch notes con interpretation rápida.
 

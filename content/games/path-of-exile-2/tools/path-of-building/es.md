@@ -26,7 +26,7 @@ A cambio, los planners web ganan en accesibilidad: no requieren instalación, co
 
 **Importar tu personaje y diagnosticar gaps**: pegas el link de tu perfil de PoE 2 y PoB 2 trae items, gemas, passive tree y atlas. En 30 segundos ves dónde estás bajo en resistencias, accuracy o crit, y qué nodos del árbol están desperdiciados.
 
-**Comparar items antes de comprarlos**: editas un slot con el item potencial y ves al instante el delta de DPS, vida, ES. Decides si esos 80 Exalted del trade valen la pena antes de hacer la oferta.
+**Comparar items antes de comprarlos**: Editas un slot con el item potencial y ves al instante el delta de DPS, vida, ES. Decides si esos 80 Exalted del trade valen la pena antes de hacer la oferta.
 
 **Diseñar builds desde cero**: empiezas con personaje vacío, eliges clase y ascendencia, planificas passive tree y atlas. PoB 2 te dice exactamente qué resultado vas a tener antes de levelear.
 
@@ -56,7 +56,7 @@ Si juegas casual (un par de horas a la semana, sin ambición de pinnacle bossing
 
 **La interfaz es funcional pero fea**. No es Modrinth ni un dashboard moderno: es una herramienta hecha por jugadores para jugadores. Espera tablas densas y abreviaturas. Una vez te acostumbras es eficiente; el primer uso es chocante.
 
-**Algunas mecánicas exóticas (Sekhema buffs específicos, ciertos efectos legacy) pueden no estar perfectamente modeladas**. Para builds nicho, cruzá el cálculo con tests in-game.
+**Algunas mecánicas exóticas (Sekhema buffs específicos, ciertos efectos legacy) pueden no estar perfectamente modeladas**. Para builds nicho, cruza el cálculo con tests in-game.
 
 ## Cómo empezar
 

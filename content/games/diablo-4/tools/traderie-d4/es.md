@@ -25,7 +25,7 @@ Para volume y D4-optimized UX: Diablo.Trade. Para auctions o cross-game traders:
 
 **Auctions**: si tu listing es high-value específico, auctions surface real market price.
 
-**Cross-game collectors**: si tradeás en multiple games, single account en Traderie cubre todo.
+**Cross-game collectors**: si tradeas en multiple games, single account en Traderie cubre todo.
 
 **Backup cuando Diablo.Trade is down**: alternative source.
 
@@ -63,7 +63,7 @@ Para volume y D4-optimized UX: Diablo.Trade. Para auctions o cross-game traders:
 
 1. [traderie.com/diablo4](https://traderie.com/diablo4).
 
-2. Compará volume con Diablo.Trade para tu specific search.
+2. Compara volume con Diablo.Trade para tu specific search.
 
 3. Si Traderie has lo que necesitas, proceed; si no, Diablo.Trade primero.
 

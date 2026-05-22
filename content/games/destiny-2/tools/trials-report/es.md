@@ -64,4 +64,4 @@ Si te molesta el "stalking" de oponentes, puedes ocultar tu Bungie profile (Tria
 
 ## Cómo empezar
 
-Entra a `trials.report`, vinculá tu Bungie ID. El primer fin de semana de Trials después, el sitio te muestra automáticamente cada matchup. Prueba lookup manual del fireteam enemigo después de un round duro y observa si la info hace sense con cómo jugaron. En 2-3 weekends ya integras el flujo a tu rutina de Trials.
+Entra a `trials.report`, vincula tu Bungie ID. El primer fin de semana de Trials después, el sitio te muestra automáticamente cada matchup. Prueba lookup manual del fireteam enemigo después de un round duro y observa si la info hace sense con cómo jugaron. En 2-3 weekends ya integras el flujo a tu rutina de Trials.

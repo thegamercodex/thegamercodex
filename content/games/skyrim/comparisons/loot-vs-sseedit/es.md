@@ -45,7 +45,7 @@ Cada herramienta es un eslabón distinto. Saltarse LOOT te deja con orden manual
 ## ¿Y si solo tengo una?
 
 - **LOOT solo**: funciona para modlists muy chicas (10-20 mods sin conflicts complicados). Te previene crashes obvios pero no te ayuda cuando dos mods hacen lo mismo de manera incompatible.
-- **SSEEdit solo**: puedes ordenar plugins manualmente leyendo dependencies, pero es propenso a errores y lento. Para todo lo demás SSEEdit sí cubre.
+- **SSEEdit solo**: Puedes ordenar plugins manualmente leyendo dependencies, pero es propenso a errores y lento. Para todo lo demás SSEEdit sí cubre.
 
 En la práctica los modders serios tienen **ambos en su carpeta de tools** y los corren en distinto momento del workflow.
 

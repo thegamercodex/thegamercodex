@@ -70,4 +70,4 @@ Si tu team prefiere coordinar verbal y no escribe strats, Valoplant agrega proce
 
 ## Cómo empezar
 
-Si juegas casual: probablemente no necesites Valoplant. Mejor mira lineups en Mobalytics o YouTube. Si juegas en team competitivo: entra a `valoplant.gg`, dibujá un strat para el mapa que más juegas, comparte con tu team. Si lo usan, sigan; si no, no fuercen el flujo. Algunos teams adoptan, otros prefieren coordinar oral.
+Si juegas casual: probablemente no necesites Valoplant. Mejor mira lineups en Mobalytics o YouTube. Si juegas en team competitivo: entra a `valoplant.gg`, dibuja un strat para el mapa que más juegas, comparte con tu team. Si lo usan, sigan; si no, no fuercen el flujo. Algunos teams adoptan, otros prefieren coordinar oral.

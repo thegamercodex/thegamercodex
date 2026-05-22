@@ -53,7 +53,7 @@ Leaguepedia es excelente para histórico y data confirmada, pero no es lo que ne
 
 1. Vas a `lol.fandom.com/wiki/League_of_Legends_Esports_Wiki`. Sin login para lectura.
 
-2. Search bar arriba: ingresá nombre de jugador, equipo, torneo, o evento.
+2. Search bar arriba: ingresa nombre de jugador, equipo, torneo, o evento.
 
 3. Páginas de equipo estructuradas en: roster actual, historia de rosters (con fechas exactas de cada cambio), achievements (torneos ganados), staff, sponsorships.
 
@@ -63,7 +63,7 @@ Leaguepedia es excelente para histórico y data confirmada, pero no es lo que ne
 
 6. Para investigaciones complejas, Leaguepedia tiene "data queries" que permiten cross-reference info (ej: "todos los jugadores que han ganado Worlds y MSI en el mismo año").
 
-Para uso recurrente: bookmarkeá las páginas de tus teams favoritos y de los torneos que sigues — se actualizan en tiempo casi-real durante eventos.
+Para uso recurrente: bookmarkea las páginas de tus teams favoritos y de los torneos que sigues — se actualizan en tiempo casi-real durante eventos.
 
 ## Limitaciones honestas
 
@@ -81,12 +81,12 @@ Para uso recurrente: bookmarkeá las páginas de tus teams favoritos y de los to
 
 1. Vas a `lol.fandom.com/wiki/League_of_Legends_Esports_Wiki`. Sin registro para lectura.
 
-2. **Activá un ad-blocker antes de navegar** — la experiencia sin él es notablemente peor. uBlock Origin es la opción estándar.
+2. **Activa un ad-blocker antes de navegar** — la experiencia sin él es notablemente peor. uBlock Origin es la opción estándar.
 
 3. Busca un equipo o jugador que te interese. Explora la sección "History" del roster — es la sección más distintiva, muestra cada cambio de line con fechas exactas.
 
-4. Para tracking de torneos en curso (MSI, Worlds, ligas regionales), bookmarkeá la página del torneo y vuelve durante el evento — los editores actualizan en tiempo casi-real.
+4. Para tracking de torneos en curso (MSI, Worlds, ligas regionales), bookmarkea la página del torneo y vuelve durante el evento — los editores actualizan en tiempo casi-real.
 
-5. Si quieres stats analíticas profundas (no solo resultados), complementá con Gol.gg u Oracle's Elixir.
+5. Si quieres stats analíticas profundas (no solo resultados), complementa con Gol.gg u Oracle's Elixir.
 
 6. Para datos del juego mismo (champions, items, mecánicas, lore), no busques acá — anda a `wiki.leagueoflegends.com`. Leaguepedia es exclusivamente esports.

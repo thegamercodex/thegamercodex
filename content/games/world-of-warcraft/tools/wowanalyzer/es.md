@@ -71,7 +71,7 @@ Las dos se complementan: WoWAnalyzer para review individual post-raid, Wipefest 
 
 **Cobertura desigual por spec**: depende de los maintainers comunitarios. Algunas specs tienen módulos exhaustivos actualizados con cada hotfix; otras llevan meses sin update. Antes de basarte 100% en el feedback, vale la pena chequear cuándo se actualizó el módulo de tu spec en GitHub.
 
-**No reemplaza guías de spec**: si recién empiezas con una spec, WoWAnalyzer te dice "te falta uptime en X" pero no te enseña la rotación desde cero. Combiná con guías de Icy Veins / Method / Archon.
+**No reemplaza guías de spec**: si recién empiezas con una spec, WoWAnalyzer te dice "te falta uptime en X" pero no te enseña la rotación desde cero. Combina con guías de Icy Veins / Method / Archon.
 
 **Falsos positivos en encounters únicos**: ciertos bosses tienen mecánicas que rompen el patrón rotacional óptimo (movement obligatorio, transitions). El análisis a veces marca como "error" lo que era ejecución correcta dado el contexto. Hay que leer con criterio.
 

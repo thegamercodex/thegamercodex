@@ -39,7 +39,7 @@ Para crafters, gatherers y achievement hunters es la herramienta de consulta dia
 Garland Tools y Teamcraft cubren mucho del mismo terreno pero con enfoques distintos:
 
 - **Garland Tools**: database puro. Vas, quieres info, la encuentras. No te ayuda a planificar rotaciones de crafting.
-- **Teamcraft**: planner y workflow. Simulás rotaciones, listas de mats, inventory sync.
+- **Teamcraft**: planner y workflow. Simulas rotaciones, listas de mats, inventory sync.
 
 Para queries puntuales rápidas, Garland Tools es más directo. Para flujo de crafting completo (creo X items, optimizo rotación, calculo profit), Teamcraft. Muchos usan ambos.
 
@@ -47,30 +47,30 @@ Para queries puntuales rápidas, Garland Tools es más directo. Para flujo de cr
 
 **Búsqueda de items**: "¿qué dropea el Forgotten Knight NPC?" Lookup directo.
 
-**Recipe trees recursivos**: planificás craftear gear pre-Savage. Garland expande la receta a todos los mats raíz (mineral X, fish Y, etc.) y te dice cuántos necesitas.
+**Recipe trees recursivos**: planificas craftear gear pre-Savage. Garland expande la receta a todos los mats raíz (mineral X, fish Y, etc.) y te dice cuántos necesitas.
 
-**Fishing logs**: cazás un fish específico para Achievement. Garland te muestra el spot, bait, weather y hora de día requeridas.
+**Fishing logs**: Cazas un fish específico para Achievement. Garland te muestra el spot, bait, weather y hora de día requeridas.
 
 **Gathering nodes**: te falta una mat específica. Garland te muestra los nodos con coords + timing.
 
-**Cross-reference**: quieres saber "este item se obtiene de qué fuentes". Garland te lista vendor, drop, gathering, recipe, todo en una vista.
+**Cross-reference**: Quieres saber "este item se obtiene de qué fuentes". Garland te lista vendor, drop, gathering, recipe, todo en una vista.
 
 ## Para quién NO es esta herramienta
 
 - **Combat focus puro**: no relevante para análisis de raid o BiS. Para eso es FFLogs/Etro.
-- **UI-sensitive users**: Garland tiene UI densa, cero ornamento, mucha info por pantalla. Si preferís UIs limpias y modernas, Teamcraft o Gamerescape se ven mejor.
+- **UI-sensitive users**: Garland tiene UI densa, cero ornamento, mucha info por pantalla. Si prefieres UIs limpias y modernas, Teamcraft o Gamerescape se ven mejor.
 - **Glamour exclusive**: si solo te interesa glamour, Eorzea Collection tiene mejor catálogo visual.
 - **Mobile users**: la UI es desktop-first. Mobile funciona pero es tediosa.
 
 ## Cómo se usa en la práctica
 
-1. Andá a [garlandtools.org](https://garlandtools.org).
+1. Anda a [garlandtools.org](https://garlandtools.org).
 
-2. La barra de búsqueda top: tipeás el item, NPC, mob, fish o achievement que quieres. Auto-complete sugiere.
+2. La barra de búsqueda top: escribes el item, NPC, mob, fish o achievement que quieres. Auto-complete sugiere.
 
 3. Cada entry tiene tabs: **Overview**, **Source** (cómo obtenerlo), **Used in** (recipes que lo usan), **Notes**.
 
-4. Para recipe trees: clickeás un crafted item → tab **Recipe**. Garland expande recursivamente todos los mats.
+4. Para recipe trees: haces click un crafted item → tab **Recipe**. Garland expande recursivamente todos los mats.
 
 5. Para fish: filtros por zone, bait, weather, time-of-day. Cada fish tiene su record de catch chain.
 
@@ -92,16 +92,16 @@ Para queries puntuales rápidas, Garland Tools es más directo. Para flujo de cr
 
 ## Cómo empezar
 
-1. Andá a [garlandtools.org](https://garlandtools.org).
+1. Anda a [garlandtools.org](https://garlandtools.org).
 
-2. Buscá algo familiar (ej: tu job's starter weapon). Explorá las tabs (Overview, Source, Used in).
+2. Busca algo familiar (ej: tu job's starter weapon). Explora las tabs (Overview, Source, Used in).
 
-3. Probá una query típica de gathering: "Allagan Tomestone of X" → ves dónde se cambia.
+3. Prueba una query típica de gathering: "Allagan Tomestone of X" → ves dónde se cambia.
 
-4. Para crafting: busca un endgame item crafted (ej: weapon de tu job en patch X.0). Mirá el recipe tree y los mats recursivos.
+4. Para crafting: busca un endgame item crafted (ej: weapon de tu job en patch X.0). Mira el recipe tree y los mats recursivos.
 
 5. Para fish: filtros por zone + weather → ves todos los fish gettable en esa combinación.
 
-6. Compará con Teamcraft para queries similares — Teamcraft te muestra lo mismo con planning workflow. Cuál preferir depende de tu caso de uso.
+6. Compara con Teamcraft para queries similares — Teamcraft te muestra lo mismo con planning workflow. Cuál preferir depende de tu caso de uso.
 
 7. Si encuentras un dato outdated o bug, puedes reportar al GitHub de ufx — el maintainer responde aunque puede tardar.

@@ -53,7 +53,7 @@ Porofessor brilla en su nicho específico, pero no es la opción correcta si:
 
 1. **Web app (sin instalación)**: vas a `porofessor.gg`, ingresas un Riot ID, y obtienes perfil de summoner. Pestaña Live Game muestra info en tiempo real si el jugador está en partida ahora.
 
-2. **Desktop app (Activity Tracker)**: descargas el instalador desde el sitio. Una vez instalado, corre en background y detecta automáticamente cuando abres champ select.
+2. **Desktop app (Activity Tracker)**: Descargas el instalador desde el sitio. Una vez instalado, corre en background y detecta automáticamente cuando abres champ select.
 
 3. Apenas se abre el lobby, la app dispara una ventana con scout de los 9 jugadores: nombre, rank, win rate reciente, champion mastery del pick, tilt indicator (basado en racha de derrotas recientes).
 
@@ -81,8 +81,8 @@ Para uso recurrente: mantén la desktop app corriendo en startup. Cero fricción
 
 2. **Para web**: vas a `porofessor.gg`, sin login, ingresas un Riot ID. Listo.
 
-3. **Para desktop**: descargas el Activity Tracker desde el sitio, instalas, y permites que corra en background. La primera vez que entres a champ select, la app dispara automáticamente.
+3. **Para desktop**: Descargas el Activity Tracker desde el sitio, instalas, y permites que corra en background. La primera vez que entres a champ select, la app dispara automáticamente.
 
-4. Configurá la app para que arranque con Windows si vas a usarla en cada sesión — cero fricción operativa.
+4. Configura la app para que arranque con Windows si vas a usarla en cada sesión — cero fricción operativa.
 
-5. Usa el primer minuto de cada champ select para revisar el scout. Identificá quién es one-trick (priority de protección o ban según sea teammate/oponente), quién es autofill (no esperar carry suyo), y quién está en tilt (cuidado con flame, considerar dodge si es tu teammate y la composición no es viable).
+5. Usa el primer minuto de cada champ select para revisar el scout. Identifica quién es one-trick (priority de protección o ban según sea teammate/oponente), quién es autofill (no esperar carry suyo), y quién está en tilt (cuidado con flame, considerar dodge si es tu teammate y la composición no es viable).

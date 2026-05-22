@@ -30,7 +30,7 @@ A cambio, el oficial es más conservador en features: no muestra simulaciones de
 
 **Compartir builds con amigos o en comunidad**: el planner genera URL que codifica todo el setup. Pegas el link en Discord, Reddit o donde sea, y la persona ve exactamente tu build.
 
-**Comparar dos arquetipos hipotéticos**: abres el planner en dos pestañas, armas un Netrunner puro en una y un Solo-Tech híbrido en la otra. Comparas side-by-side qué cyberware capacity, qué perks accesibles, etc.
+**Comparar dos arquetipos hipotéticos**: Abres el planner en dos pestañas, armas un Netrunner puro en una y un Solo-Tech híbrido en la otra. Comparas side-by-side qué cyberware capacity, qué perks accesibles, etc.
 
 ## Para quién NO es esta herramienta
 

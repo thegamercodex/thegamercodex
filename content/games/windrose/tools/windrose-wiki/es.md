@@ -47,4 +47,4 @@ Si quieres ver el mapa con tu seed o planear talents visualmente, esta no es la 
 
 ## Cómo empezar
 
-Abre [windrose.wiki](https://windrose.wiki) y bookmark la home. La búsqueda funciona bien por nombre — si no sabes el nombre exacto en inglés, los filtros laterales te dejan navegar por type. Si te encuentras con info desactualizada o falta info, considerá editar — el modelo wiki funciona solo con aportes community.
+Abre [windrose.wiki](https://windrose.wiki) y bookmark la home. La búsqueda funciona bien por nombre — si no sabes el nombre exacto en inglés, los filtros laterales te dejan navegar por type. Si te encuentras con info desactualizada o falta info, considera editar — el modelo wiki funciona solo con aportes community.

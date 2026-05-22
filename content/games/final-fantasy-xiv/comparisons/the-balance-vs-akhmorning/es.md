@@ -29,11 +29,11 @@ Un raider serio los usa juntos así:
 2. **Akhmorning** te explica el math detrás cuando quieres validar o ajustar.
 3. Vuelves a **The Balance** para Q&A si hay un edge case.
 
-The Balance prescribe; Akhmorning explica. Si solo usas uno, perdés capacidad.
+The Balance prescribe; Akhmorning explica. Si solo usas uno, pierdes capacidad.
 
 ## Limitaciones de cada uno
 
-**The Balance** es predominantly inglés. Las guides son consensus de los job leads — si pensás distinto de la community, vas a debate sin garantía de cambio del meta canónico. Tono puede ser elitista, especialmente con casual questions. Discord-centric, lo cual hace search histórico frustrante.
+**The Balance** es predominantly inglés. Las guides son consensus de los job leads — si piensas distinto de la community, vas a debate sin garantía de cambio del meta canónico. Tono puede ser elitista, especialmente con casual questions. Discord-centric, lo cual hace search histórico frustrante.
 
 **Akhmorning** depende de contributors anónimos, lo cual es vulnerable a bus factor. Updates post-major-patches pueden tardar weeks. UI minimalista al punto de austera. No hay community engagement directo — preguntas viven en Discord ajeno.
 

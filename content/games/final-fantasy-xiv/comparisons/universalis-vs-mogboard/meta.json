@@ -8,7 +8,7 @@
   "titleEn": "Universalis vs Mogboard — which market tracker to use",
   "descriptionEs": "Ambos rastrean precios cross-world del market board crowdsourceando data de plugins Dalamud. Universalis es el dominante; Mogboard sigue activo como alternativa con menos pool.",
   "descriptionEn": "Both track cross-world market board prices by crowdsourcing data from Dalamud plugins. Universalis is dominant; Mogboard remains active as an alternative with a smaller pool.",
-  "verdictEs": "Universalis para uso diario: data más fresca, API robusta e integración default con Teamcraft. Mogboard como backup cuando Universalis tiene downtime o si preferís su UI clásica.",
+  "verdictEs": "Universalis para uso diario: data más fresca, API robusta e integración default con Teamcraft. Mogboard como backup cuando Universalis tiene downtime o si prefieres su UI clásica.",
   "verdictEn": "Universalis for daily use: fresher data, robust API, and default Teamcraft integration. Mogboard as backup when Universalis is down or if you prefer its classic UI.",
   "useCases": [
     {

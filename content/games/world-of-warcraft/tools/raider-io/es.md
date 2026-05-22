@@ -95,4 +95,4 @@ Para PUG players, esto se volvió infraestructura. Para guilds, es referencia pa
 
 4. Para una key, abre LFG y revisa los scores de applicants antes de invitar — el filtro standard suele ser "score igual o mayor al nivel de la key que estás haciendo".
 
-5. Si quieres trackear progreso, bookmarkeá tu perfil de raider.io: revisalo semanal para ver cómo subió tu score por dungeon.
+5. Si quieres trackear progreso, bookmarkea tu perfil de raider.io: revisalo semanal para ver cómo subió tu score por dungeon.

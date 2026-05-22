@@ -46,9 +46,9 @@ Para inglés serio, Gamerescape es la opción. El wiki community oficial (`final
 
 **Lore deep-dive**: estás scrolleando entre MSQ y quieres más context sobre un personaje secundario, una primal o una región. Gamerescape tiene páginas dedicadas.
 
-**Identificar music tracks**: escuchás música in-game que te gusta. Lo buscas por dungeon/raid y encuentras el nombre del orchestrion roll y cómo conseguirlo.
+**Identificar music tracks**: Escuchas música in-game que te gusta. Lo buscas por dungeon/raid y encuentras el nombre del orchestrion roll y cómo conseguirlo.
 
-**Verificar quest chains históricos**: quieres saber qué quests llevan a tal beast tribe questline o cómo unlock cierto job. Gamerescape lista los prerequisites.
+**Verificar quest chains históricos**: Quieres saber qué quests llevan a tal beast tribe questline o cómo unlock cierto job. Gamerescape lista los prerequisites.
 
 **Cross-checking con Garland Tools**: cuando Garland te da data pero quieres context, Gamerescape complementa con la narrativa.
 
@@ -61,9 +61,9 @@ Para inglés serio, Gamerescape es la opción. El wiki community oficial (`final
 
 ## Cómo se usa en la práctica
 
-1. Andá a [ffxiv.gamerescape.com](https://ffxiv.gamerescape.com).
+1. Anda a [ffxiv.gamerescape.com](https://ffxiv.gamerescape.com).
 
-2. La barra de búsqueda top: tipeás el nombre de quest, NPC, dungeon, item.
+2. La barra de búsqueda top: escribes el nombre de quest, NPC, dungeon, item.
 
 3. Para quests: la página típica incluye sección "Walkthrough" paso a paso, "Rewards" detallados, prerequisites.
 
@@ -89,14 +89,14 @@ Para inglés serio, Gamerescape es la opción. El wiki community oficial (`final
 
 ## Cómo empezar
 
-1. Andá a [ffxiv.gamerescape.com](https://ffxiv.gamerescape.com). No necesitas login para leer.
+1. Anda a [ffxiv.gamerescape.com](https://ffxiv.gamerescape.com). No necesitas login para leer.
 
-2. Buscá un quest stuck o un NPC que te intriga. Probá la profundidad típica.
+2. Busca un quest stuck o un NPC que te intriga. Prueba la profundidad típica.
 
 3. Para dungeons: tipo "The Aetherfont" → ves walkthrough, mechanics overview, music tracks, drops.
 
 4. Para lore deep-dive: tipo "Hydaelyn" o "Zodiark" → páginas extensas sobre los Mother/Father Crystals.
 
-5. Usá como complemento a Garland Tools: Garland te da el "qué" técnico, Gamerescape el "por qué" narrativo.
+5. Usa como complemento a Garland Tools: Garland te da el "qué" técnico, Gamerescape el "por qué" narrativo.
 
 6. Si encuentras algo desactualizado o falta, puedes contribuir editando (login requerido) — pero la mayoría de usuarios solo leen.

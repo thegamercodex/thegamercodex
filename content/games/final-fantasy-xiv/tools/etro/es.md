@@ -15,7 +15,7 @@ El flujo: eliges tu job y nivel, asignas cada slot de gear (head, chest, hands, 
 - **Damage / sustain estimates** según el job.
 - **GCD speed tier** y los breakpoints alcanzables.
 
-Compartís el build con un permalink fijo. El party member abre el link y ve exactamente el mismo build, lo puede copiar o modificar.
+Compartes el build con un permalink fijo. El party member abre el link y ve exactamente el mismo build, lo puede copiar o modificar.
 
 Es gratis. No requiere login para ver builds, sí para crear y guardar los tuyos.
 
@@ -45,11 +45,11 @@ Ariyala's sigue existiendo y algunos lo prefieren por familiaridad. Pero todo lo
 
 ## Para qué la usa la gente
 
-**Construir tu BiS pre-Savage**: 2 semanas antes de un tier nuevo, abres Etro, copias el BiS oficial del The Balance, y planificás tu farm path (qué Tomestone weapons, qué piezas Savage, qué crafted gear pre-raid).
+**Construir tu BiS pre-Savage**: 2 semanas antes de un tier nuevo, abres Etro, copias el BiS oficial del The Balance, y planificas tu farm path (qué Tomestone weapons, qué piezas Savage, qué crafted gear pre-raid).
 
-**Comparar gear drops**: caés un accesorio Savage. ¿Es upgrade vs tu craft equivalente? Lo metés en Etro y compará stats.
+**Comparar gear drops**: caes un accesorio Savage. ¿Es upgrade vs tu craft equivalente? Lo metes en Etro y compara stats.
 
-**Validar tu melding antes de gastar materia**: Etro te dice el melding óptimo. Lo aplicás en game y evitás overcap.
+**Validar tu melding antes de gastar materia**: Etro te dice el melding óptimo. Lo aplicas en game y evitas overcap.
 
 **Planificar food/potion para Ultimate**: Ultimate requiere optimización extrema. Etro te ayuda a elegir food (Crit vs DH vs Det depending on the comp).
 
@@ -64,7 +64,7 @@ Ariyala's sigue existiendo y algunos lo prefieren por familiaridad. Pero todo lo
 
 ## Cómo se usa en la práctica
 
-1. Andá a etro.gg, opcionalmente creá cuenta.
+1. Anda a etro.gg, opcionalmente crea cuenta.
 
 2. **New Gearset** → elige job y nivel.
 
@@ -72,11 +72,11 @@ Ariyala's sigue existiendo y algunos lo prefieren por familiaridad. Pero todo lo
 
 4. Para cada pieza, Etro te muestra opciones según ilvl filter (ej: solo gear Savage actual, o mezcla con crafted).
 
-5. Elegí food y tincture. Etro recalcula stats.
+5. Elige food y tincture. Etro recalcula stats.
 
-6. En **Materia**, clickeás **Solve Materia** — Etro calcula el melding óptimo automáticamente.
+6. En **Materia**, haces click **Solve Materia** — Etro calcula el melding óptimo automáticamente.
 
-7. Guardás el set (requiere login). Compartís el link. Cualquiera lo puede abrir y clonar para ajustar.
+7. Guardas el set (requiere login). Compartes el link. Cualquiera lo puede abrir y clonar para ajustar.
 
 ## Limitaciones honestas
 
@@ -92,16 +92,16 @@ Ariyala's sigue existiendo y algunos lo prefieren por familiaridad. Pero todo lo
 
 ## Cómo empezar
 
-1. Andá a [etro.gg](https://etro.gg). Creá cuenta (sin login puedes ver builds pero no guardar).
+1. Anda a [etro.gg](https://etro.gg). Crea cuenta (sin login puedes ver builds pero no guardar).
 
 2. **New Gearset**, elige tu job (ej: Black Mage 100).
 
-3. En **Equipment**, llenás cada slot con piezas a tu alcance. Para BiS oficial, **import** un link de Etro que te pase tu job lead (el BiS de The Balance).
+3. En **Equipment**, llenas cada slot con piezas a tu alcance. Para BiS oficial, **import** un link de Etro que te pase tu job lead (el BiS de The Balance).
 
 4. En **Food and Tincture**, elige lo más alto de tu tier.
 
 5. En **Materia**, deja que el solver auto-melde.
 
-6. Verificá los stats vs tu target (típicamente Crit > DH > Det > SpS para casters, varía por job).
+6. Verifica los stats vs tu target (típicamente Crit > DH > Det > SpS para casters, varía por job).
 
-7. Guardá el set. Compartí el link con tu static o ajusta según tus drops actuales.
+7. Guarda el set. Compartí el link con tu static o ajusta según tus drops actuales.

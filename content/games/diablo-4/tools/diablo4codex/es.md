@@ -8,7 +8,7 @@ quickTake: "El accounting tool para completionists. Te dice qué aspects te falt
 
 Diablo 4 Codex (diablo4codex.com) es un tracker comunitario de progresión seasonal de D4. La idea central es que D4 tiene un Codex of Power — al clearear dungeons específicos, "unlock" un aspect que después puedes imprintear en items.
 
-Pero hacer tracking manual de qué aspects te faltan en codex (~hay 50+ por temporada) es tedioso. Diablo 4 Codex centraliza esto: linkeás tu char (battle tag o login), te muestra completion %.
+Pero hacer tracking manual de qué aspects te faltan en codex (~hay 50+ por temporada) es tedioso. Diablo 4 Codex centraliza esto: enlazas tu char (battle tag o login), te muestra completion %.
 
 Cubre:
 - **Codex of Power tracking**: qué aspects unlocked vs pending.
@@ -34,15 +34,15 @@ Codex es accounting personal. Life es community hub utilities.
 
 ## Para qué la usa la gente
 
-**Codex hunting**: quieres completar codex of power. Codex te lista qué aspects faltan + qué dungeon dar cada uno.
+**Codex hunting**: Quieres completar codex of power. Codex te lista qué aspects faltan + qué dungeon dar cada uno.
 
 **Achievement progress**: pre-end of season, ves qué achievements quedan para platinum o titles.
 
 **Seasonal journey**: trackea progreso de los seasonal objectives (que dan rewards específicos).
 
-**Comparativa con friends**: linkeás amigos y comparás completion stats.
+**Comparativa con friends**: Enlazas amigos y comparas completion stats.
 
-**Pre-season prep**: checkeás eternal char stats antes de empezar fresh, para ver lo que tienes.
+**Pre-season prep**: Chequeas eternal char stats antes de empezar fresh, para ver lo que tienes.
 
 ## Para quién NO es esta herramienta
 
@@ -87,7 +87,7 @@ Codex es accounting personal. Life es community hub utilities.
 
 3. **Add Character** y espera sync inicial.
 
-4. Browseá tu dashboard. Filtros por "pending" en cada tab te muestra lo que falta.
+4. Navega tu dashboard. Filtros por "pending" en cada tab te muestra lo que falta.
 
 5. Para codex of power específicamente: el filter "Locked" te lista aspects y dungeons.
 

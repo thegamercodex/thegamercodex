@@ -1,7 +1,7 @@
 ---
 title: "Diablo IV Discord (oficial)"
 description: "Discord oficial de Blizzard para Diablo IV: anuncios first-party, Q&A con community managers, channels por clase y rol, y soporte de bugs antes que llegue al forum."
-quickTake: "El canal directo a Blizzard. Anuncios oficiales aterrizan acá primero, community managers responden Q&A, y los channels per-class facilitan discusión específica. Si quieres signal Blizzard antes que noise community, vivís en este Discord."
+quickTake: "El canal directo a Blizzard. Anuncios oficiales aterrizan acá primero, community managers responden Q&A, y los channels per-class facilitan discusión específica. Si quieres signal Blizzard antes que noise community, vives en este Discord."
 ---
 
 ## Qué es
@@ -35,13 +35,13 @@ Discord = sala de chat con dev team accesible. Reddit = forum archivo + voto com
 
 **News first-party**: anuncios mainstream announcements aterrizan acá. Channels announcements son pinned.
 
-**Q&A con CMs**: si tu pregunta es policy-related (refunds, account issues, bugs), CM channels son donde la atendés.
+**Q&A con CMs**: si tu pregunta es policy-related (refunds, account issues, bugs), CM channels son donde la atiendes.
 
 **Per-class chat**: discusión específica de Sorcerer build en el #sorcerer channel.
 
 **LFG real-time**: para content que requiere group (world bosses, Tormented), LFG channels coordinate.
 
-**Bug confirmation**: si experimentás algo raro, postear en bug channel ve si otros lo replicate.
+**Bug confirmation**: si experimentas algo raro, postear en bug channel ve si otros lo replicate.
 
 ## Para quién NO es esta herramienta
 
@@ -56,7 +56,7 @@ Discord = sala de chat con dev team accesible. Reddit = forum archivo + voto com
 
 2. Pasás verification (rules, react to message).
 
-3. Browseá channels — ordered top-to-bottom por structure team-decided.
+3. Navega channels — ordered top-to-bottom por structure team-decided.
 
 4. Para announcements: read-only channel pinned al top.
 
@@ -64,7 +64,7 @@ Discord = sala de chat con dev team accesible. Reddit = forum archivo + voto com
 
 6. Para LFG: channel específico per content type.
 
-7. Para discusión per class: navegá al class channel correspondiente.
+7. Para discusión per class: navega al class channel correspondiente.
 
 ## Limitaciones honestas
 
@@ -84,7 +84,7 @@ Discord = sala de chat con dev team accesible. Reddit = forum archivo + voto com
 
 2. Verification process (read rules, react).
 
-3. Configurá notifications conservadoramente — solo announcements para empezar.
+3. Configura notifications conservadoramente — solo announcements para empezar.
 
 4. Sub a channels que te interesan: tu class + general + announcements.
 

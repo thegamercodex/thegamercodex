@@ -36,7 +36,7 @@ Si solo juegas casual y no sigues esports, no agrega valor — usa wiki.gg en su
 2. Main page tiene featured tournaments, recent results, top earners.
 3. Side nav: "Tournaments" para calendar + history, "Teams" para roster de orgs activos, "Players" para career profiles.
 4. Cada tournament tiene page propia con bracket, results, prize pool breakdown.
-5. Players individuales: search por handle, llegás a su career page con timeline.
+5. Players individuales: search por handle, llegas a su career page con timeline.
 
 ## Limitaciones honestas
 

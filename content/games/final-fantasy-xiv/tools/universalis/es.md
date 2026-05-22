@@ -20,7 +20,7 @@ Es free, sin login para queries. Login solo si quieres contribuir al uploader o 
 
 ## Qué problema resuelve
 
-Square Enix no tiene API oficial de market board. Para saber el precio de un item en otro servidor, oficialmente tendrías que World Visit, gastando 15 minutos por servidor + travel. Eso es prohibitivo cuando comparás 6-8 servidores de tu datacenter.
+Square Enix no tiene API oficial de market board. Para saber el precio de un item en otro servidor, oficialmente tendrías que World Visit, gastando 15 minutos por servidor + travel. Eso es prohibitivo cuando comparas 6-8 servidores de tu datacenter.
 
 Universalis resuelve esto agregando data de la comunidad:
 
@@ -43,32 +43,32 @@ Universalis es el dominante. Mogboard se mantiene activo y algunos lo prefieren 
 
 **Pre-sale lookup**: vas a vender 50 stacks de un mat. Universalis te dice el precio current y la velocity (¿se vende rápido o stuck en queue?).
 
-**Flip-hunting**: buscas arbitrage entre servidores del DC. Universalis te muestra "Bahamut tiene 50 a 1000 gil, Diabolos a 1500". Compras low, viajás, vendés high.
+**Flip-hunting**: Buscas arbitrage entre servidores del DC. Universalis te muestra "Bahamut tiene 50 a 1000 gil, Diabolos a 1500". Compras low, viajas, vendes high.
 
-**Crafting profit calc**: vas a craftear 20 items para market. Calculás cost of mats vs precio final via Universalis.
+**Crafting profit calc**: vas a craftear 20 items para market. Calculas cost of mats vs precio final via Universalis.
 
-**Verificación pre-purchase**: vas a comprar gear/glamour de un retainer. Chequeás Universalis para no overpagar.
+**Verificación pre-purchase**: vas a comprar gear/glamour de un retainer. Chequeas Universalis para no overpagar.
 
 **Histórico de tendencias**: estás considerando craftear consumables para Savage tier. Universalis te dice cómo se movieron los precios en tiers anteriores.
 
 ## Para quién NO es esta herramienta
 
-- **Casual sin market interest**: si solo juegas MSQ y no compras/vendés en marketboard, Universalis no aporta.
+- **Casual sin market interest**: si solo juegas MSQ y no compras/vendes en marketboard, Universalis no aporta.
 - **Servers pequeños sin uploaders**: data en JP small servers o algún DC nuevo puede ser pobre. Universalis depende de comunidad uploaders.
-- **Quien no usa Dalamud / XIVLauncher**: puedes leer Universalis aunque no contribuyas, pero la data se mantiene fresca gracias a uploaders. Considerá contribuir si te beneficiás.
-- **Anti-data sharing players**: si tienes concerns sobre que un plugin trackee tu retainer activity (aunque sea anonimizado), no usés el uploader.
+- **Quien no usa Dalamud / XIVLauncher**: Puedes leer Universalis aunque no contribuyas, pero la data se mantiene fresca gracias a uploaders. Considera contribuir si te beneficias.
+- **Anti-data sharing players**: si tienes concerns sobre que un plugin trackee tu retainer activity (aunque sea anonimizado), no uses el uploader.
 
 ## Cómo se usa en la práctica
 
-1. Andá a [universalis.app](https://universalis.app).
+1. Anda a [universalis.app](https://universalis.app).
 
-2. Buscá un item por nombre. Auto-complete sugiere.
+2. Busca un item por nombre. Auto-complete sugiere.
 
 3. La página de item te muestra: precios current por server, sales history, charts de 7d/30d.
 
 4. Filtros: Quality (NQ vs HQ), Server específico, etc.
 
-5. Para flipping cross-DC: navegás entre servidores del DC, comparás precios.
+5. Para flipping cross-DC: navegas entre servidores del DC, comparas precios.
 
 6. Para contribuir data: instala Dalamud Marketboard Uploader plugin via XIVLauncher. Tu data se sube automáticamente cada vez que abres el market board.
 
@@ -90,16 +90,16 @@ Universalis es el dominante. Mogboard se mantiene activo y algunos lo prefieren 
 
 ## Cómo empezar
 
-1. Andá a [universalis.app](https://universalis.app).
+1. Anda a [universalis.app](https://universalis.app).
 
-2. Tipeá un item conocido (ej: "Tomestone Materia X"). Mirá precios cross-DC.
+2. Tipeá un item conocido (ej: "Tomestone Materia X"). Mira precios cross-DC.
 
-3. Compará con lo que esperabas — si la diferencia es grande, hay margin de flip.
+3. Compara con lo que esperabas — si la diferencia es grande, hay margin de flip.
 
-4. Para contribuir: instala Dalamud Marketboard Uploader via XIVLauncher (Settings → Plugins → buscar uploader). Una vez activo, cada vez que abrás el market board, contribuís data al pool.
+4. Para contribuir: instala Dalamud Marketboard Uploader via XIVLauncher (Settings → Plugins → buscar uploader). Una vez activo, cada vez que abres el market board, contribuyes data al pool.
 
 5. Para integrations: si usas Teamcraft, su market data viene de Universalis API. No requiere setup extra.
 
-6. Si servís un audience específico (Discord de FC, posting de flips), considerá set up alerts via API/bot. Hay tutoriales en universalis.app docs.
+6. Si sirves un audience específico (Discord de FC, posting de flips), considera set up alerts via API/bot. Hay tutoriales en universalis.app docs.
 
 7. La integración con XIVLauncher + Dalamud + Teamcraft + Universalis es el "stack moderno" de FFXIV optimization. Si vas a optimizar economía, todos van juntos.

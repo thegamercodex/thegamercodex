@@ -42,7 +42,7 @@ Leetify es excelente para análisis individual estructurado pero no es:
 - **Análisis de utility lineups** → para eso, scope.gg tiene el demo viewer 2D específico.
 - **Stats de matchmaking simple** → si solo quieres KDA + win rate, CS Stats es más liviano y free.
 - **Coaching profesional** → ningún parser AI reemplaza un coach humano que entiende narrativa de macro round-a-round y dinámicas de equipo. Es complemento, no reemplazo.
-- **Free indefinidamente** → la tier free se siente intencionalmente limitada. Si vas a usar Leetify seriamente, presupuestá la suscripción.
+- **Free indefinidamente** → la tier free se siente intencionalmente limitada. Si vas a usar Leetify seriamente, presupuesta la suscripción.
 
 ## Cómo se usa en la práctica
 

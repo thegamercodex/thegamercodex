@@ -57,7 +57,7 @@ scope.gg es excelente para utility y visualización 2D pero no es:
 
 **Cobertura de mapas limitada al pool activo**: scope.gg trackea bien los maps del competitive pool actual. Maps fuera del pool (legacy, workshop) pueden tener visualización imperfecta o no estar soportados.
 
-**Tier free razonable pero limitada**: puedes usar la mayoría de features pero el historial está capeado y comparativas avanzadas requieren pago.
+**Tier free razonable pero limitada**: Puedes usar la mayoría de features pero el historial está capeado y comparativas avanzadas requieren pago.
 
 **No es coaching, es viewer + métricas**: scope.gg te muestra qué pasó pero no te dice cómo arreglarlo. La interpretación queda en el usuario o en un coach. Para feedback verbal accionable, Leetify tiene scoring más opinado.
 

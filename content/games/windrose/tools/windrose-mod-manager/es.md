@@ -6,7 +6,7 @@ quickTake: "Si gestionas un dedicated server o cambias mods con frecuencia, este
 
 ## Qué es
 
-Windrose Mod Manager (CertiFried's, entry #148 en Nexus) es una aplicación Windows community-built que automatiza la instalación, actualización y gestión de mods PAK para Windrose. Soporta cuatro destinos distintos: el cliente del juego, el archivo de servidor local (si juegas multi local), el Windrose Dedicated Server standalone de Steam, y servidores remotos vía SFTP/FTP — útil si hosteás con g-portal, low.ms u otro provider.
+Windrose Mod Manager (CertiFried's, entry #148 en Nexus) es una aplicación Windows community-built que automatiza la instalación, actualización y gestión de mods PAK para Windrose. Soporta cuatro destinos distintos: el cliente del juego, el archivo de servidor local (si juegas multi local), el Windrose Dedicated Server standalone de Steam, y servidores remotos vía SFTP/FTP — útil si hosteas con g-portal, low.ms u otro provider.
 
 ## Qué problema resuelve
 

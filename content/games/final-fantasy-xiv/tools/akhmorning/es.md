@@ -23,7 +23,7 @@ Es text-heavy, denso, sin animaciones. UI estilo "academic paper".
 Para players que no se conforman con "Crit > DH > Det", sino que quieren entender por qué:
 
 - **Verificación independiente**: The Balance recomienda X build. ¿Por qué? Akhmorning te da el math que sustenta esa recomendación.
-- **Edge cases**: parties con compositions raras donde el meta default no aplica. Necesitás recalcular stat priority manualmente.
+- **Edge cases**: parties con compositions raras donde el meta default no aplica. Necesitas recalcular stat priority manualmente.
 - **Custom builds**: experimentación con builds non-standard requiere entender stat formulas.
 - **Theorycraft propio**: si quieres contribuir al community theorycraft, Akhmorning es el material de referencia para empezar.
 
@@ -39,7 +39,7 @@ Los tres son complementarios. The Balance recomienda; Akhmorning explica el porq
 
 ## Para qué la usa la gente
 
-**Entender stat tiers**: estás considerando un meld de Crit vs DH. Akhmorning te da el formula exacta y vos calculás cuál es mejor para tu setup.
+**Entender stat tiers**: estás considerando un meld de Crit vs DH. Akhmorning te da el formula exacta y vos calculas cuál es mejor para tu setup.
 
 **Verificar Balance recommendations**: el lead dice "Crit > DH para BLM en patch X.Y". ¿Por qué? Akhmorning te muestra el math.
 
@@ -51,7 +51,7 @@ Los tres son complementarios. The Balance recomienda; Akhmorning explica el porq
 
 ## Para quién NO es esta herramienta
 
-- **Casual players**: si solo quieres "que rotación uso para BLM", andate a The Balance. Akhmorning es para understand why.
+- **Casual players**: si solo quieres "que rotación uso para BLM", vete a The Balance. Akhmorning es para understand why.
 - **Quien quiere quick answers**: las pages son densas. No es buena para Q&A rápido.
 - **Visual learners**: el content es 100% text + tablas + formulas. Sin videos ni gifs.
 - **Quien busca tutorial step-by-step**: Akhmorning asume conocimiento básico de FFXIV combat math. No es para principiantes.
@@ -59,17 +59,17 @@ Los tres son complementarios. The Balance recomienda; Akhmorning explica el porq
 
 ## Cómo se usa en la práctica
 
-1. Andá a [www.akhmorning.com](https://www.akhmorning.com).
+1. Anda a [www.akhmorning.com](https://www.akhmorning.com).
 
 2. Top menu: General (stat formulas, damage formulas) o Jobs (deep dive per job).
 
 3. Páginas típicas tienen: explanation prose + formula breakdown + tables con valores específicos.
 
-4. Para stat tiers: encuentras tabla de "Crit % → DPS multiplier" o similar. Buscás tu valor current.
+4. Para stat tiers: encuentras tabla de "Crit % → DPS multiplier" o similar. Buscas tu valor current.
 
-5. Para job-specific: vas a página de tu job (ej: BLM). Encontrás analysis de rotation, damage windows, opening sequences.
+5. Para job-specific: vas a página de tu job (ej: BLM). Encuentras analysis de rotation, damage windows, opening sequences.
 
-6. Cross-referenciás con The Balance: Akhmorning te da el math, Balance te da el practical translation.
+6. Cross-referencias con The Balance: Akhmorning te da el math, Balance te da el practical translation.
 
 ## Limitaciones honestas
 
@@ -87,11 +87,11 @@ Los tres son complementarios. The Balance recomienda; Akhmorning explica el porq
 
 ## Cómo empezar
 
-1. Andá a [akhmorning.com](https://www.akhmorning.com). No requires login.
+1. Anda a [akhmorning.com](https://www.akhmorning.com). No requires login.
 
 2. Si sos nuevo, lee la **General → Damage Formulas** page. Esa es la base. Familiarizate con el lenguaje.
 
-3. Para tu job específico, ve a Jobs → tu job. Leé la página de top a bottom.
+3. Para tu job específico, ve a Jobs → tu job. Lee la página de top a bottom.
 
 4. Cruzás con The Balance: si Balance dice "usa rotación X", buscas en Akhmorning el math de why X > Y.
 
@@ -99,4 +99,4 @@ Los tres son complementarios. The Balance recomienda; Akhmorning explica el porq
 
 6. Si encuentras bugs o info outdated, reportar es harder porque no hay Discord oficial. Algunos contributors están en el Discord de The Balance.
 
-7. Para deeper involvement, considerá contribuir directamente. El sitio acepta theorycraft serios; reach out via el Discord de The Balance suele ser el canal.
+7. Para deeper involvement, considera contribuir directamente. El sitio acepta theorycraft serios; reach out via el Discord de The Balance suele ser el canal.

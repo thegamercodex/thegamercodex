@@ -2,7 +2,7 @@
   "id": "diablo4-companion",
   "name": "Diablo 4 Companion",
   "shortName": "D4 Companion",
-  "taglineEs": "Loot filter open-source para D4: definís affixes deseados y la app destaca in-screen los items que matchean — ahorra horas evaluando drops manualmente",
+  "taglineEs": "Loot filter open-source para D4: defines affixes deseados y la app destaca in-screen los items que matchean — ahorra horas evaluando drops manualmente",
   "taglineEn": "Open-source D4 loot filter: define desired affixes and the app highlights matching items on-screen — saves hours evaluating drops manually",
   "url": "https://github.com/josdemmers/Diablo4Companion",
   "category": "overlays-companions",

@@ -83,7 +83,7 @@ Steam Market es excelente como default pero no es:
 
 2. Habilitar **Steam Guard Mobile Authenticator** — es required para vender en el market y agrega capa de seguridad para tu cuenta.
 
-3. Para primera compra: anda al market, encuentra una skin barata (~$1-5 USD), confirmá compra. Vas a ver el flujo completo: pago, recepción inmediata, cooldown.
+3. Para primera compra: anda al market, encuentra una skin barata (~$1-5 USD), confirma compra. Vas a ver el flujo completo: pago, recepción inmediata, cooldown.
 
 4. Para primera venta: en tu inventario CS2, vende un skin barato que tengas. Vas a ver: cálculo de fee preview, publicación de listing, espera, transacción cuando alguien compra.
 

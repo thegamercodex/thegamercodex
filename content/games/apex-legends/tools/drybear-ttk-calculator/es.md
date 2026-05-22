@@ -35,7 +35,7 @@ Si no estás cómodo navegando Google Sheets — multiple tabs, formulas visible
 1. Abre el [Google Sheet de Drybear](https://docs.google.com/spreadsheets/d/1iNF-aa9eR6giunmHe4Ed_fpf0QnRHx_knxfruvjdMAE/edit).
 2. Multiple tabs en la parte inferior: cada weapon class tiene su tab (Assault Rifles, SMGs, LMGs, Shotguns, Snipers, Pistols).
 3. Cada weapon row tiene columns calculadas: damage por shot, against each armor tier, TTK calculado, mag dump damage.
-4. Para personalizar: clic en File → Make a copy → editá tu copy con custom values.
+4. Para personalizar: clic en File → Make a copy → edita tu copy con custom values.
 5. Drybear update notes están en una tab dedicada — lee esa para entender última fecha de update.
 
 ## Limitaciones honestas
@@ -48,4 +48,4 @@ Si no estás cómodo navegando Google Sheets — multiple tabs, formulas visible
 
 ## Cómo empezar
 
-Abre el [Sheet](https://docs.google.com/spreadsheets/d/1iNF-aa9eR6giunmHe4Ed_fpf0QnRHx_knxfruvjdMAE/edit), bookmark si pensás revisarlo seguido. La primera vez, navega las tabs para entender la organización (cada weapon class en su tab). Para queries puntuales, ApexSeasons probablemente sea más rápido — usa Drybear cuando quieres profundidad o validación de un specific claim.
+Abre el [Sheet](https://docs.google.com/spreadsheets/d/1iNF-aa9eR6giunmHe4Ed_fpf0QnRHx_knxfruvjdMAE/edit), bookmark si piensas revisarlo seguido. La primera vez, navega las tabs para entender la organización (cada weapon class en su tab). Para queries puntuales, ApexSeasons probablemente sea más rápido — usa Drybear cuando quieres profundidad o validación de un specific claim.
