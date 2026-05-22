@@ -43,12 +43,23 @@ Este archivo es **lectura obligatoria** antes de hacer cambios. Las reglas está
 - **Evitar marcadores de España**: `vale` como "ok" → `bien`/`ok` (pero `vale la pena` es idiom universal y se queda); `tío`/`tía` → no usar; `ordenador` → `computadora`; `móvil` (sustantivo = teléfono) → `celular` (`móvil` como adjetivo está bien: `fluidez móvil`).
 - **Anglicismos del codex** quedan en inglés (`tools`, `creators`, `mods`, `loot`, `stash`, `endgame`, `expedition`, `multiplayer`, `streams`, etc.) — son la jerga del público gaming.
 
-**Pre-commit lint** — antes de commitear cualquier `.md` o `.json` con texto en español, correr:
+**Pre-commit lint** — el script canónico vive en `scripts/fix-spanish-neutro.mjs` con el map exhaustivo de voseo + rioplatense:
+
+```bash
+node scripts/fix-spanish-neutro.mjs --check   # falla con file:line si encuentra voseo
+node scripts/fix-spanish-neutro.mjs --fix     # auto-corrige y re-stages staged files
+```
+
+Sin staged files corre sobre todo `content/`. Con staged files, solo sobre esos.
+
+El proyecto tiene un PreToolUse hook en `.claude/settings.local.json` que corre el script en `--fix` automáticamente antes de cada `git commit` de Claude — los archivos staged quedan limpios y re-staged sin intervención. Para commits manuales fuera de Claude, correr `--check` antes de stagear.
+
+Fallback rápido (no exhaustivo, solo los voseo básicos del map original):
 ```bash
 grep -rEn '\b(tenés|podés|querés|sabés|necesitás|usás|jugás|buscás|comprás|seguís|encontrás|guardás|abrís|bajás|instalás|verificás|elegís|aprendés|recibís|hacés|leés|escribís|esperás|aterrizás|escaneás|minás|refinás|mejorás|despegás|viajás|repetís|construís|ensamblás|cazás|hackeás|completás|recordás|arrancás|volvés|decompilás|modificás|recompilás|mirás|scrolleás|cliqueás|extraés)\b' content/ messages/es.json
 grep -rEn '\b(leé|mirá|hacé|poné|fijate|andá|buscá|intentá|configurá|verificá|guardá|cargá|abrí|cerrá|tocá|usá|esperá|elegí|empezá|seguí|conseguí|comprá|jugá|instalá|bajá|escribí|dejá|tené|extraé|decompilá|recompilá|scrolleá)\b' content/ messages/es.json
 ```
-Sin matches = limpio. Cualquier match es un bug y bloquea el commit.
+Sin matches = limpio. Cualquier match es un bug y bloquea el commit. Cuando aparezca un voseo nuevo no cubierto por el map, agregarlo a `INDICATIVE` o `IMPERATIVE` en el script.
 
 ## Un juego = una carpeta
 
