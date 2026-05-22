@@ -1,0 +1,46 @@
+{
+  "id": "r2modman-vs-thunderstore-mod-manager",
+  "toolIds": ["r2modman", "thunderstore-mod-manager"],
+  "category": "mod-managers",
+  "depth": "short",
+  "lastVerified": "2026-05-21",
+  "verdictEs": "r2modman si quieres un manager standalone, open-source, sin tracking ni Overwolf — la elección de la comunidad veterana. Thunderstore Mod Manager si valoras un onboarding más amigable, overlay in-game para tweaks rápidos, y no te molesta instalar el ecosistema Overwolf.",
+  "verdictEn": "r2modman if you want a standalone, open-source manager with no tracking and no Overwolf — the veteran community pick. Thunderstore Mod Manager if you value a friendlier onboarding, an in-game overlay for quick tweaks, and don't mind installing the Overwolf ecosystem.",
+  "useCases": [
+    {
+      "labelEs": "Primer mod jamás — necesito el onboarding más guiado posible",
+      "labelEn": "First mod ever — I need the most guided onboarding possible",
+      "winner": "thunderstore-mod-manager",
+      "reasonEs": "TMM detecta installs automático, descarga BepInEx sin que el usuario vea el filesystem, y tiene installer guiado paso a paso. r2modman es directo pero menos hand-holding.",
+      "reasonEn": "TMM auto-detects installs, downloads BepInEx without showing the user the filesystem, and ships a guided step-by-step installer. r2modman is direct but less hand-holding."
+    },
+    {
+      "labelEs": "Activar o desactivar un mod sin alt-tab mientras juego",
+      "labelEn": "Toggle a mod without alt-tabbing mid-game",
+      "winner": "thunderstore-mod-manager",
+      "reasonEs": "TMM tiene overlay in-game con Ctrl+Shift+M que abre el manager encima del juego. r2modman te obliga a alt-tab al desktop.",
+      "reasonEn": "TMM has an in-game overlay via Ctrl+Shift+M that opens the manager over the game. r2modman forces an alt-tab to the desktop."
+    },
+    {
+      "labelEs": "Evitar Overwolf, ads, telemetría y bloat",
+      "labelEn": "Avoid Overwolf, ads, telemetry, and bloat",
+      "winner": "r2modman",
+      "reasonEs": "r2modman es OSS standalone, sin cuenta, sin overlay, sin ads. TMM requiere instalar Overwolf (~150MB) que corre en background con ads opcionales y cuenta.",
+      "reasonEn": "r2modman is standalone OSS, no account, no overlay, no ads. TMM requires installing Overwolf (~150MB) that runs in the background with optional ads and an account."
+    },
+    {
+      "labelEs": "Modear desde Linux o macOS",
+      "labelEn": "Modding from Linux or macOS",
+      "winner": "r2modman",
+      "reasonEs": "r2modman soporta Windows, Linux y macOS. TMM solo corre en Windows porque Overwolf no tiene clients para los otros OS.",
+      "reasonEn": "r2modman supports Windows, Linux, and macOS. TMM is Windows-only because Overwolf has no clients for the others."
+    },
+    {
+      "labelEs": "Recibir notificaciones de updates de mods sin abrir el manager",
+      "labelEn": "Receiving mod update notifications without opening the manager",
+      "winner": "thunderstore-mod-manager",
+      "reasonEs": "TMM, vía Overwolf, puede notificar updates incluso si el manager no está abierto. r2modman solo notifica cuando lo abres.",
+      "reasonEn": "TMM, through Overwolf, can notify of updates even if the manager isn't open. r2modman only notifies when you open it."
+    }
+  ]
+}

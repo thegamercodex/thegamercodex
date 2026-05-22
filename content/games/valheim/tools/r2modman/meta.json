@@ -1,0 +1,36 @@
+{
+  "id": "r2modman",
+  "name": "r2modman",
+  "shortName": "r2modman",
+  "taglineEs": "Mod manager open-source con profiles — el estándar de la comunidad de Valheim para instalar y aislar modlists",
+  "taglineEn": "Open-source mod manager with profiles — the Valheim community standard for installing and isolating modlists",
+  "url": "https://thunderstore.io/c/valheim/p/ebkr/r2modman/",
+  "category": "mod-managers",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/ebkr/r2modmanPlus",
+  "license": "MIT",
+  "platforms": ["windows", "linux", "macos"],
+  "languages": ["en"],
+  "tags": ["mod-manager", "thunderstore", "profiles", "modding"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/valheim/r2modman-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bepinex-valheim", "thunderstore-valheim"],
+  "alternatives": ["gale-mod-manager", "thunderstore-mod-manager"],
+  "createdBy": {
+    "name": "ebkr",
+    "url": "https://github.com/ebkr/r2modmanPlus"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "no-mans-sky", "url": "https://thunderstore.io/c/nomanssky/" }
+    ]
+  }
+}

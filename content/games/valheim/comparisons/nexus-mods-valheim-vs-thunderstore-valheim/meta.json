@@ -1,0 +1,46 @@
+{
+  "id": "nexus-mods-valheim-vs-thunderstore-valheim",
+  "toolIds": ["nexus-mods-valheim", "thunderstore-valheim"],
+  "category": "mod-hubs",
+  "depth": "short",
+  "lastVerified": "2026-05-21",
+  "verdictEs": "Thunderstore es la primary platform de Valheim hoy — 10,000+ paquetes con dependency resolution automática y soporte nativo en los managers. Nexus es secondary, útil para texture packs y mods históricos que no migraron al ecosistema principal.",
+  "verdictEn": "Thunderstore is Valheim's primary platform today — 10,000+ packages with automatic dependency resolution and native manager support. Nexus is secondary, useful for texture packs and historical mods that didn't migrate to the main ecosystem.",
+  "useCases": [
+    {
+      "labelEs": "Instalar una modlist de QoL + gameplay nueva",
+      "labelEn": "Installing a fresh QoL + gameplay modlist",
+      "winner": "thunderstore-valheim",
+      "reasonEs": "Casi todos los mods nuevos publican en Thunderstore primero. r2modman/Gale/TMM consumen Thunderstore directamente — un click instala el mod y sus dependencies.",
+      "reasonEn": "Almost all new mods publish to Thunderstore first. r2modman/Gale/TMM consume Thunderstore directly — one click installs the mod and its dependencies."
+    },
+    {
+      "labelEs": "Conseguir texture packs HD y skins visuales",
+      "labelEn": "Getting HD texture packs and visual skins",
+      "winner": "nexus-mods-valheim",
+      "reasonEs": "Históricamente Nexus aloja la mayoría de texture packs grandes y mods de modelo 3D. Thunderstore tiene algunos pero el catálogo visual de Valheim vive más en Nexus.",
+      "reasonEn": "Historically Nexus hosts most large texture packs and 3D model mods. Thunderstore has some but Valheim's visual catalog lives more on Nexus."
+    },
+    {
+      "labelEs": "Descargas rápidas sin pagar Premium",
+      "labelEn": "Fast downloads without paying Premium",
+      "winner": "thunderstore-valheim",
+      "reasonEs": "Thunderstore es free tier ilimitado sin rate limits ni paywalls. Nexus free tier limita speed y obliga a esperar entre downloads.",
+      "reasonEn": "Thunderstore is unlimited free tier with no rate limits or paywalls. Nexus free tier caps speed and forces waits between downloads."
+    },
+    {
+      "labelEs": "Encontrar mods abandonados de 2021-2022 que no migraron",
+      "labelEn": "Finding 2021-2022 abandoned mods that didn't migrate",
+      "winner": "nexus-mods-valheim",
+      "reasonEs": "Nexus conserva mods que sus autores nunca subieron a Thunderstore. Para arqueología de modlists viejas, Nexus es la referencia.",
+      "reasonEn": "Nexus keeps mods their authors never uploaded to Thunderstore. For archeology of old modlists, Nexus is the reference."
+    },
+    {
+      "labelEs": "Integración con mod manager (r2modman/Gale/TMM)",
+      "labelEn": "Mod manager integration (r2modman/Gale/TMM)",
+      "winner": "thunderstore-valheim",
+      "reasonEs": "Los tres managers principales hablan Thunderstore nativo. Nexus requiere Vortex como manager separado, con onboarding distinto.",
+      "reasonEn": "The three main managers speak Thunderstore natively. Nexus requires Vortex as a separate manager with a different onboarding."
+    }
+  ]
+}

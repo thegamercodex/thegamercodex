@@ -1,0 +1,148 @@
+{
+  "id": "valheim",
+  "name": "Valheim",
+  "shortName": "Valheim",
+  "developer": "Iron Gate AB",
+  "releaseYear": 2021,
+  "officialUrl": "https://www.valheimgame.com",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/892970/Valheim/",
+      "appId": "892970",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/store/valheim/9pp53dz9nl1c",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": false,
+    "purchaseTypes": [],
+    "payToWin": false,
+    "noteEs": "Compra única (~$20 USD en Steam, similar en Xbox). Sin microtransacciones, sin battle pass, sin DLC pago. Todos los biomas y actualizaciones agregados desde el lanzamiento en Early Access (Hearth & Home, Mistlands, Ashlands) llegaron gratis para quienes ya tienen el juego. Iron Gate confirmó que ese modelo se mantiene hasta la 1.0 y más allá.",
+    "noteEn": "One-time purchase (~$20 USD on Steam, similar on Xbox). No microtransactions, no battle pass, no paid DLC. Every biome and update shipped since Early Access launch (Hearth & Home, Mistlands, Ashlands) arrived free for existing owners. Iron Gate confirmed that model continues through 1.0 and beyond."
+  },
+  "platforms": ["windows", "linux", "xbox"],
+  "genres": ["survival", "open-world", "sandbox", "viking", "multiplayer", "exploration"],
+  "theme": {
+    "primary": "#8b6d3a",
+    "secondary": "#1a1612",
+    "accent": "#d4a857",
+    "background": "#0c0a08",
+    "text": "#e8dcc4"
+  },
+  "logo": "/images/games/valheim-logo.png",
+  "heroImage": "/images/games/valheim-hero.webp",
+  "toolCategories": [
+    {
+      "id": "mod-managers",
+      "nameEs": "Gestores de Mods",
+      "nameEn": "Mod Managers",
+      "descriptionEs": "Aplicaciones que descargan, instalan y mantienen tu lista de mods sin tocar la carpeta del juego",
+      "descriptionEn": "Applications that download, install, and maintain your mod list without touching the game folder",
+      "icon": "📦"
+    },
+    {
+      "id": "modding-frameworks",
+      "nameEs": "Frameworks de Modding",
+      "nameEn": "Modding Frameworks",
+      "descriptionEs": "Base técnica que cargan y exponen APIs para que el resto de mods de Valheim puedan correr",
+      "descriptionEn": "Technical foundation that loads and exposes APIs so the rest of Valheim mods can run",
+      "icon": "🧩"
+    },
+    {
+      "id": "modding-utilities",
+      "nameEs": "Utilidades de Modding",
+      "nameEn": "Modding Utilities",
+      "descriptionEs": "Mega-mods y utilidades que tocan generación de mundo, balance y QoL más allá de un fix puntual",
+      "descriptionEn": "Mega-mods and utilities that touch world generation, balance, and QoL beyond a single fix",
+      "icon": "🛠️"
+    },
+    {
+      "id": "building",
+      "nameEs": "Construcción",
+      "nameEn": "Building",
+      "descriptionEs": "Herramientas para planificar, copiar, compartir y descargar construcciones complejas",
+      "descriptionEn": "Tools to plan, copy, share, and download complex builds",
+      "icon": "🏗️"
+    },
+    {
+      "id": "world-tools",
+      "nameEs": "Mapas y Mundo",
+      "nameEn": "Maps & World",
+      "descriptionEs": "Previsualizadores de seed, mapas interactivos y planificadores de exploración",
+      "descriptionEn": "Seed previewers, interactive maps, and exploration planners",
+      "icon": "🗺️"
+    },
+    {
+      "id": "mod-hubs",
+      "nameEs": "Hubs de Mods",
+      "nameEn": "Mod Hubs",
+      "descriptionEs": "Repositorios donde la comunidad publica y descubre los mods de Valheim",
+      "descriptionEn": "Repositories where the community publishes and discovers Valheim mods",
+      "icon": "🌐"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis, bases de datos y sitios oficiales con la información canónica del juego",
+      "descriptionEn": "Wikis, databases, and official sites with the game's canonical information",
+      "icon": "📚"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Servidores donde la comunidad de Valheim coordina runs, comparte builds y resuelve dudas",
+      "descriptionEn": "Servers where the Valheim community coordinates runs, shares builds, and answers questions",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para arrancar Valheim sin perderte ni morir de frío en el Black Forest",
+      "descriptionEn": "Essential resources to start Valheim without getting lost or freezing in the Black Forest",
+      "icon": "🌱"
+    },
+    {
+      "id": "progression-and-bosses",
+      "nameEs": "Progresión y Bosses",
+      "nameEn": "Progression & Bosses",
+      "descriptionEs": "Orden de progresión por biomas y estrategias para los siete bosses: Eikthyr, Elder, Bonemass, Moder, Yagluth, Queen, Fader",
+      "descriptionEn": "Biome progression order and strategies for the seven bosses: Eikthyr, Elder, Bonemass, Moder, Yagluth, Queen, Fader",
+      "icon": "⚔️"
+    },
+    {
+      "id": "building-and-bases",
+      "nameEs": "Construcción y Bases",
+      "nameEn": "Building & Bases",
+      "descriptionEs": "Tutoriales de construcción, bases icónicas y técnicas avanzadas para estructuras grandes y estables",
+      "descriptionEn": "Building tutorials, iconic bases, and advanced techniques for large, stable structures",
+      "icon": "🏠"
+    },
+    {
+      "id": "mod-recommendations",
+      "nameEs": "Mods Recomendados",
+      "nameEn": "Mod Recommendations",
+      "descriptionEs": "Listas curadas y reviews de los mods más impactantes: QoL, gameplay, build, dificultad",
+      "descriptionEn": "Curated lists and reviews of the most impactful mods: QoL, gameplay, building, difficulty",
+      "icon": "⭐"
+    },
+    {
+      "id": "biome-and-exploration",
+      "nameEs": "Biomas y Exploración",
+      "nameEn": "Biomes & Exploration",
+      "descriptionEs": "Deep dives por bioma (Mistlands, Ashlands, Mountain), seeds destacadas y rutas de exploración",
+      "descriptionEn": "Per-biome deep dives (Mistlands, Ashlands, Mountain), notable seeds, and exploration routes",
+      "icon": "🧭"
+    }
+  ]
+}

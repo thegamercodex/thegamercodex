@@ -1,0 +1,37 @@
+{
+  "id": "nickrawcliffe",
+  "name": "NickRawcliffe",
+  "country": "gb",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2018,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@NickRawcliffe",
+      "url": "https://www.youtube.com/@NickRawcliffe",
+      "channelId": "UCFF8kSEb7dGO49WawJeo_kQ",
+      "primary": true
+    }
+  ],
+  "specialties": ["speedruns", "hardcore-runs", "no-resets", "survival-challenges"],
+  "games": ["valheim"],
+  "contentTypes": ["live-streams", "speedrun-series", "challenge-runs"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "NickRawcliffe es la voz inglesa para Valheim hardcore — speedruns con regla 'no resets' (si morís, pierdes runs), boss progression aggressive, y muchos lives. Su serie 'Valheim No Resets Speedrun' es referencia para runners que quieren ver execution en tiempo real, no editorial. Cubre también DayZ y otros survivals — Valheim ocupa la mayoría de uploads pero comparte canal.",
+  "noteEn": "NickRawcliffe is the English voice for hardcore Valheim — speedruns with a 'no resets' rule (die and you lose runs), aggressive boss progression, and lots of live streams. His 'Valheim No Resets Speedrun' series is a reference for runners wanting to see execution live, not edited. He also covers DayZ and other survival games — Valheim takes most uploads but shares the channel.",
+  "highlightsEs": [
+    "Speedruns 'No Resets' — la regla más exigente del Valheim challenge community",
+    "Live streams largos donde se ve execution real, sin cortes editoriales",
+    "Boss kills documentados con context (gear, food, sequence)",
+    "Pivote a DayZ ocasional, pero Valheim es el core"
+  ],
+  "highlightsEn": [
+    "'No Resets' speedruns — the strictest rule in the Valheim challenge community",
+    "Long live streams showing real execution, no editorial cuts",
+    "Boss kills documented with context (gear, food, sequence)",
+    "Occasional DayZ pivots, but Valheim is the core"
+  ],
+  "avatar": "/images/creators/nickrawcliffe-avatar.jpg",
+  "banner": "/images/creators/nickrawcliffe-banner.jpg"
+}

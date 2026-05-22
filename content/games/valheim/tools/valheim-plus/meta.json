@@ -1,0 +1,30 @@
+{
+  "id": "valheim-plus",
+  "name": "Valheim Plus (Grantapher fork)",
+  "shortName": "V+",
+  "taglineEs": "Mega-mod de QoL todo-en-uno con cientos de toggles — fork comunitario mantenido tras el abandono del proyecto original",
+  "taglineEn": "All-in-one QoL mega-mod with hundreds of toggles — community fork maintained after the original project was abandoned",
+  "url": "https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary/",
+  "category": "modding-utilities",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Grantapher/ValheimPlus",
+  "license": "GPL-3.0",
+  "platforms": ["windows", "linux", "macos"],
+  "languages": ["en"],
+  "tags": ["qol", "mega-mod", "configurable", "server-side"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/valheim/valheim-plus-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bepinex-valheim", "r2modman"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Grantapher (community fork)",
+    "url": "https://github.com/Grantapher/ValheimPlus"
+  }
+}

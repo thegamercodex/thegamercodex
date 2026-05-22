@@ -1,0 +1,36 @@
+{
+  "id": "nexus-mods-valheim",
+  "name": "Nexus Mods (Valheim)",
+  "shortName": "Nexus",
+  "taglineEs": "Repositorio alternativo a Thunderstore — alberga mods de Valheim que no llegaron al ecosistema principal, sobre todo texture packs y assets visuales",
+  "taglineEn": "Alternative repository to Thunderstore — hosts Valheim mods that never made it to the main ecosystem, especially texture packs and visual assets",
+  "url": "https://www.nexusmods.com/valheim",
+  "category": "mod-hubs",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["mod-hub", "alternative", "textures", "assets"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["thunderstore-valheim"],
+  "alternatives": ["thunderstore-valheim"],
+  "createdBy": {
+    "name": "Nexus Mods (Black Tree Gaming Ltd)",
+    "url": "https://www.nexusmods.com/about"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "skyrim", "url": "https://www.nexusmods.com/skyrimspecialedition" },
+      { "gameId": "cyberpunk-2077", "url": "https://www.nexusmods.com/cyberpunk2077" },
+      { "gameId": "no-mans-sky", "url": "https://www.nexusmods.com/nomanssky" }
+    ]
+  }
+}

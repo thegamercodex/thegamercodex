@@ -1,0 +1,80 @@
+{
+  "category": "building-and-bases",
+  "resources": [
+    {
+      "id": "smittysurvival-tavern-each-biome-2026",
+      "type": "video",
+      "title": "I Built The PERFECT Tavern For Each Valheim Biome",
+      "creator": "SmittySurvival",
+      "creatorId": "smittysurvival",
+      "url": "https://www.youtube.com/watch?v=qjF8eh2HT5g",
+      "youtubeId": "qjF8eh2HT5g",
+      "language": "en",
+      "duration": "20:58",
+      "publishedDate": "2026-02-06",
+      "thumbnail": "https://i.ytimg.com/vi/qjF8eh2HT5g/maxresdefault.jpg",
+      "noteEs": "SmittySurvival diseña una taberna específica para cada bioma con materiales locales y estética acorde — wooden Meadows, dark Black Forest, stone Mountain. Cinematic editing y un showcase aprovechable como template.",
+      "noteEn": "SmittySurvival designs a tavern specific to each biome with local materials and matching aesthetics — wooden Meadows, dark Black Forest, stone Mountain. Cinematic editing and a showcase usable as a template."
+    },
+    {
+      "id": "smittysurvival-classic-viking-village-2025",
+      "type": "video",
+      "title": "I Spent 40 Hours Building a CLASSIC Viking Village!",
+      "creator": "SmittySurvival",
+      "creatorId": "smittysurvival",
+      "url": "https://www.youtube.com/watch?v=41am8y6mZcU",
+      "youtubeId": "41am8y6mZcU",
+      "language": "en",
+      "duration": "18:19",
+      "publishedDate": "2025-02-02",
+      "thumbnail": "https://i.ytimg.com/vi/41am8y6mZcU/maxresdefault.jpg",
+      "noteEs": "Proyecto de 40 horas: aldea vikinga completa con longhouse, harbor, granja y palisade. Time-lapse del proceso con explicación de design decisions — útil para entender cómo planificar un megabase desde cero.",
+      "noteEn": "A 40-hour project: a complete Viking village with longhouse, harbor, farm, and palisade. Time-lapse of the process with design-decision commentary — useful for understanding how to plan a megabase from scratch."
+    },
+    {
+      "id": "smittysurvival-beautiful-walls-2024",
+      "type": "video",
+      "title": "3 EASY Methods to Make BEAUTIFUL Walls in Valheim",
+      "creator": "SmittySurvival",
+      "creatorId": "smittysurvival",
+      "url": "https://www.youtube.com/watch?v=mdhCp4Q6Lqc",
+      "youtubeId": "mdhCp4Q6Lqc",
+      "language": "en",
+      "duration": "7:15",
+      "publishedDate": "2024-11-07",
+      "thumbnail": "https://i.ytimg.com/vi/mdhCp4Q6Lqc/maxresdefault.jpg",
+      "noteEs": "Tutorial corto y enfocado: 3 técnicas de paredes (timber accent, stone facing, mixed materials) que cambian instantly el look de cualquier estructura. Para builders que quieren elevar su estética sin proyecto megabase.",
+      "noteEn": "Short, focused tutorial: 3 wall techniques (timber accent, stone facing, mixed materials) that instantly elevate any structure's look. For builders who want to lift their aesthetic without a megabase project."
+    },
+    {
+      "id": "versaugh-builder-hardcore-castle-2026",
+      "type": "video",
+      "title": "Valheim Builder VS Hardcore Survival | Living in a Castle",
+      "creator": "Versaugh",
+      "creatorId": "versaugh",
+      "url": "https://www.youtube.com/watch?v=ywmQJNPNurs",
+      "youtubeId": "ywmQJNPNurs",
+      "language": "en",
+      "duration": "29:28",
+      "publishedDate": "2026-05-21",
+      "thumbnail": "https://i.ytimg.com/vi/ywmQJNPNurs/maxresdefault.jpg",
+      "noteEs": "Episodio de la serie 'Builder VS Hardcore Survival' donde Versaugh termina y habita un castillo construido enteramente en una run permadeath. Combina build showcase con survival tension — referencia para quien quiere ambos lados del juego.",
+      "noteEn": "Episode of the 'Builder VS Hardcore Survival' series where Versaugh finishes and inhabits a castle built entirely on a permadeath run. Combines build showcase with survival tension — a reference for those wanting both sides of the game."
+    },
+    {
+      "id": "alessio-50-building-tips-valheim",
+      "type": "video",
+      "title": "50+ BUILDING Tips in Valheim 2026 (Valheim Tips & Tricks)",
+      "creator": "Alessio",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=KfPkdYuLTFY",
+      "youtubeId": "KfPkdYuLTFY",
+      "language": "en",
+      "duration": "8:41",
+      "publishedDate": "2023-04-06",
+      "thumbnail": "https://i.ytimg.com/vi/KfPkdYuLTFY/maxresdefault.jpg",
+      "noteEs": "Tip dump clásico: 50+ trucos cortos de construcción (snapping, hidden uses de pieces, optimización de estructura). Cada tip se explica en ~10 segundos. Referencia que la comunidad linkea constantemente cuando alguien pregunta cómo lograr X efecto.",
+      "noteEn": "Classic tip dump: 50+ short building tricks (snapping, hidden uses for pieces, structure optimization). Each tip explained in ~10 seconds. The community-link reference whenever someone asks how to achieve X effect."
+    }
+  ]
+}

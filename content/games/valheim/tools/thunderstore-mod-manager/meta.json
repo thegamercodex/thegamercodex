@@ -1,0 +1,35 @@
+{
+  "id": "thunderstore-mod-manager",
+  "name": "Thunderstore Mod Manager",
+  "shortName": "TMM",
+  "taglineEs": "Mod manager oficial de Thunderstore en Overwolf — onboarding más amigable a costa de instalar el ecosistema Overwolf",
+  "taglineEn": "Thunderstore's official Overwolf-based mod manager — friendlier onboarding at the cost of installing the Overwolf ecosystem",
+  "url": "https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager",
+  "category": "mod-managers",
+  "type": "software",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "license": "Proprietary (Overwolf)",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["mod-manager", "thunderstore", "overwolf", "modding"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/valheim/thunderstore-mod-manager-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bepinex-valheim", "thunderstore-valheim"],
+  "alternatives": ["r2modman", "gale-mod-manager"],
+  "createdBy": {
+    "name": "Thunderstore Team",
+    "url": "https://thunderstore.io"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "no-mans-sky", "url": "https://thunderstore.io/c/nomanssky/" }
+    ]
+  }
+}

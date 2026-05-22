@@ -1,0 +1,30 @@
+{
+  "id": "bepinex-valheim",
+  "name": "BepInExPack Valheim",
+  "shortName": "BepInEx",
+  "taglineEs": "Framework de carga de plugins para Unity adaptado a Valheim — la base obligatoria sobre la que corren todos los demás mods",
+  "taglineEn": "Plugin loader framework for Unity adapted to Valheim — the mandatory base every other mod runs on top of",
+  "url": "https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/",
+  "category": "modding-frameworks",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/BepInEx/BepInEx",
+  "license": "LGPL-2.1",
+  "platforms": ["windows", "linux", "macos"],
+  "languages": ["en"],
+  "tags": ["modding-framework", "plugin-loader", "essential", "unity"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/valheim/bepinex-valheim-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["jotunn", "r2modman", "valheim-plus"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "BepInEx Team & denikson (Valheim pack)",
+    "url": "https://github.com/BepInEx/BepInEx"
+  }
+}

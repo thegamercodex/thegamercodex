@@ -1,0 +1,28 @@
+{
+  "id": "valheim-official-site",
+  "name": "Valheim Official Site",
+  "shortName": "valheimgame.com",
+  "taglineEs": "Sitio oficial de Iron Gate para Valheim — anuncios, devblogs, roadmap, ports a consola y compra del juego",
+  "taglineEn": "Iron Gate's official Valheim site — announcements, devblogs, roadmap, console ports, and game purchase",
+  "url": "https://www.valheimgame.com/",
+  "category": "reference",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["official", "news", "devblog", "roadmap"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/valheim/valheim-official-site-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["valheim-fandom-wiki", "valheim-discord"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Iron Gate AB",
+    "url": "https://irongate.se/"
+  }
+}

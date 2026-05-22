@@ -1,0 +1,46 @@
+{
+  "id": "r2modman-vs-gale-mod-manager",
+  "toolIds": ["r2modman", "gale-mod-manager"],
+  "category": "mod-managers",
+  "depth": "flagship",
+  "lastVerified": "2026-05-21",
+  "verdictEs": "r2modman si valoras la madurez y la base de usuarios más grande del ecosistema Thunderstore — todos los troubleshooting guides asumen r2modman y resuelve casos extremos mejor. Gale si tu PC es modesta o te molesta el lag de Electron — arranca más rápido y consume menos RAM, con la promesa de un workflow más ágil.",
+  "verdictEn": "r2modman if you value the maturity and largest user base of the Thunderstore ecosystem — every troubleshooting guide assumes r2modman, and it handles edge cases better. Gale if your PC is modest or Electron lag bothers you — boots faster and uses less RAM, with the promise of a nimbler workflow.",
+  "useCases": [
+    {
+      "labelEs": "Arrancar a modear Valheim por primera vez",
+      "labelEn": "Starting to mod Valheim for the first time",
+      "winner": "r2modman",
+      "reasonEs": "r2modman tiene la documentación más completa y la mayoría de los tutoriales de YouTube y guías de la comunidad lo asumen. Si tropiezas con un error, hay 5 años de issues resueltos en GitHub y Reddit. Gale es más joven y los walkthroughs son más escasos.",
+      "reasonEn": "r2modman has the most complete docs and most YouTube tutorials and community guides assume it. If you hit an error, there are 5 years of resolved GitHub and Reddit issues. Gale is younger and walkthroughs are scarcer."
+    },
+    {
+      "labelEs": "Manejar una PC modesta sin lag al abrir el manager",
+      "labelEn": "Running on a modest PC without manager lag",
+      "winner": "gale-mod-manager",
+      "reasonEs": "Gale corre sobre Tauri (binario nativo) en lugar de Electron. Arranca en menos de un segundo, consume ~50MB de RAM, y la búsqueda en catálogos de 500+ mods es fluida. r2modman ronda los 200MB de RAM y toma ~10s para profiles grandes.",
+      "reasonEn": "Gale runs on Tauri (native binary) instead of Electron. Boots in under a second, uses ~50MB of RAM, and search on 500+ mod catalogs is fluid. r2modman sits around 200MB RAM and takes ~10s for large profiles."
+    },
+    {
+      "labelEs": "Resolver conflictos raros de dependencias entre mods",
+      "labelEn": "Resolving rare mod dependency conflicts",
+      "winner": "r2modman",
+      "reasonEs": "Cuando un mod tiene metadata rota o conflictos versionales viejos, r2modman acumuló heurísticas de resolución por años. Gale es nuevo y a veces requiere rollback manual a una versión específica de un mod.",
+      "reasonEn": "When a mod has broken metadata or old version conflicts, r2modman has accumulated resolution heuristics over years. Gale is newer and sometimes requires a manual rollback to a specific mod version."
+    },
+    {
+      "labelEs": "Cambiar entre Valheim, Lethal Company y otros juegos de Thunderstore",
+      "labelEn": "Switching between Valheim, Lethal Company, and other Thunderstore games",
+      "winner": "gale-mod-manager",
+      "reasonEs": "El picker de juegos en Gale es más rápido y la UI mantiene context cleanly entre cambios. r2modman también soporta multi-juego pero cada switch implica un re-render más lento.",
+      "reasonEn": "Gale's game picker is faster and the UI keeps context cleanly between switches. r2modman supports multi-game too but each switch implies a slower re-render."
+    },
+    {
+      "labelEs": "Compartir un profile con amigos en un server co-op",
+      "labelEn": "Sharing a profile with friends on a co-op server",
+      "winner": "r2modman",
+      "reasonEs": "Tanto r2modman como Gale soportan export/import de profiles, pero el formato de r2modman es el de facto y se lee desde Gale. Compartir desde r2modman garantiza que cualquiera del grupo (incluyendo el que sigue en r2modman) pueda importarlo sin extra steps.",
+      "reasonEn": "Both r2modman and Gale support profile export/import, but r2modman's format is the de facto and Gale reads it. Sharing from r2modman ensures anyone in the group (including the holdout on r2modman) can import without extra steps."
+    }
+  ]
+}

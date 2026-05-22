@@ -1,0 +1,30 @@
+{
+  "id": "jotunn",
+  "name": "Jotunn — The Valheim Library",
+  "shortName": "Jotunn",
+  "taglineEs": "Librería de abstracción sobre BepInEx que expone APIs estables para que los mods agreguen items, prefabs y RPCs sin tocar reflection",
+  "taglineEn": "Abstraction library on top of BepInEx that exposes stable APIs so mods can add items, prefabs, and RPCs without touching reflection",
+  "url": "https://valheim-modding.github.io/Jotunn/",
+  "category": "modding-frameworks",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Valheim-Modding/Jotunn",
+  "license": "GPL-3.0",
+  "platforms": ["windows", "linux", "macos"],
+  "languages": ["en"],
+  "tags": ["modding-library", "api", "developer", "essential"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/valheim/jotunn-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bepinex-valheim"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Valheim Modding Team",
+    "url": "https://github.com/Valheim-Modding"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "smittysurvival",
+  "name": "SmittySurvival",
+  "country": "us",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2020,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@SmittySurvival",
+      "url": "https://www.youtube.com/@SmittySurvival",
+      "channelId": "UCHUCVTOT1KcLKEbSPbi5quw",
+      "primary": true
+    }
+  ],
+  "specialties": ["building", "biome-themed-bases", "showcase", "design-tutorials"],
+  "games": ["valheim"],
+  "contentTypes": ["build-tutorials", "showcase", "long-form-builds"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "SmittySurvival es un builder dedicado a Valheim que publica showcases largos enfocados en construcciones temáticas por bioma — tavernas para Meadows, fuertes para Black Forest, longhouses vikingas, castillos sobre la montaña. Su signature es cinematic editing y ambient lighting de Valheim aprovechado al máximo. Cadencia baja (uploads mensuales de proyectos grandes) pero cada video acumula horas de trabajo en una base completa que termina lista para clonar con Blueprint Rune.",
+  "noteEn": "SmittySurvival is a Valheim-dedicated builder publishing long showcases focused on biome-themed builds — Meadows taverns, Black Forest fortresses, Viking longhouses, mountain castles. His signature is cinematic editing and Valheim's ambient lighting used to its full potential. Low cadence (monthly uploads of large projects) but every video bundles hours of work into a complete base ready to clone with Blueprint Rune.",
+  "highlightsEs": [
+    "Showcases largos: tavernas, castillos y outposts por bioma con detalle obsesivo",
+    "Cinematic editing aprovechando lighting de Valheim — atmosphere antes que speed",
+    "Base templates aplicables a tu propio mundo, especialmente builds Meadows/Plains accesibles para early-mid game",
+    "Cadencia baja pero cada video es referencia para inspirarse en design"
+  ],
+  "highlightsEn": [
+    "Long showcases: taverns, castles, outposts per biome with obsessive detail",
+    "Cinematic editing leveraging Valheim's lighting — atmosphere over speed",
+    "Base templates applicable to your own world, especially accessible Meadows/Plains builds for early-mid game",
+    "Low cadence but every video is a design reference"
+  ],
+  "avatar": "/images/creators/smittysurvival-avatar.jpg",
+  "banner": "/images/creators/smittysurvival-banner.jpg"
+}

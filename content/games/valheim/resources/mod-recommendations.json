@@ -1,0 +1,80 @@
+{
+  "category": "mod-recommendations",
+  "resources": [
+    {
+      "id": "anabriella-top-10-mods-2026",
+      "type": "video",
+      "title": "TOP 10 Valheim mods you NEED (never be bored again) 2026",
+      "creator": "Anabriella",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=fvI4TPaYwS8",
+      "youtubeId": "fvI4TPaYwS8",
+      "language": "en",
+      "duration": "9:27",
+      "publishedDate": "2025-11-15",
+      "thumbnail": "https://i.ytimg.com/vi/fvI4TPaYwS8/maxresdefault.jpg",
+      "noteEs": "Top 10 mods curados para 2026 — mezcla QoL (ExtraSlots, Smart Containers) con gameplay (Epic Loot, Therzie's). Bueno como punto de entrada al modding con picks vigentes post-Call to Arms.",
+      "noteEn": "Top 10 curated mods for 2026 — mixes QoL (ExtraSlots, Smart Containers) with gameplay (Epic Loot, Therzie's). A good entry point to modding with picks current post-Call to Arms."
+    },
+    {
+      "id": "snazzygames-25-mods-die-without-2025",
+      "type": "video",
+      "title": "Valheim...as it SHOULD Have Been | 25 Mods I'd Die Without",
+      "creator": "SnazzyGames",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=yy7StCc8lGs",
+      "youtubeId": "yy7StCc8lGs",
+      "language": "en",
+      "duration": "14:12",
+      "publishedDate": "2025-11-15",
+      "thumbnail": "https://i.ytimg.com/vi/yy7StCc8lGs/maxresdefault.jpg",
+      "noteEs": "Lista más larga (25) y opinionada — SnazzyGames argumenta por qué cada mod debería ser parte de tu setup base. Útil para construir una modlist sólida más allá del 'top 10' obvio.",
+      "noteEn": "Longer (25) and more opinionated list — SnazzyGames argues why each mod should be part of your base setup. Useful for building a solid modlist beyond the obvious top 10."
+    },
+    {
+      "id": "emmatpotato-best-qol-mods-2025",
+      "type": "video",
+      "title": "Valheim's Best Quality-of-life Mods You Need",
+      "creator": "EmmaTpotato",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ncWK0zzWb7I",
+      "youtubeId": "ncWK0zzWb7I",
+      "language": "en",
+      "duration": "4:29",
+      "publishedDate": "2025-05-25",
+      "thumbnail": "https://i.ytimg.com/vi/ncWK0zzWb7I/maxresdefault.jpg",
+      "noteEs": "Curaduría enfocada solo en QoL (no gameplay-altering). Mods seguros que no rompen balance — quitan friction sin cambiar la experiencia. Para puristas que quieren mejoras sin transformar el juego.",
+      "noteEn": "Curation focused only on QoL (no gameplay-altering). Safe mods that don't break balance — they remove friction without changing the experience. For purists wanting improvements without transforming the game."
+    },
+    {
+      "id": "justblaza-top-mods-valheim-2024",
+      "type": "video",
+      "title": "Top mods For Valheim of 2024",
+      "creator": "JustBlaza",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=PaX8pdaNIOk",
+      "youtubeId": "PaX8pdaNIOk",
+      "language": "en",
+      "duration": "11:40",
+      "publishedDate": "2024-08-12",
+      "thumbnail": "https://i.ytimg.com/vi/PaX8pdaNIOk/maxresdefault.jpg",
+      "noteEs": "Cobertura de 2024 con énfasis post-Ashlands. JustBlaza muestra los mods que aún funcionan tras Ashlands y cuáles se rompieron. Buena referencia histórica de qué mods sobrevivieron major patches.",
+      "noteEn": "2024 coverage with post-Ashlands emphasis. JustBlaza shows mods still working after Ashlands and which ones broke. Good historical reference for which mods survived major patches."
+    },
+    {
+      "id": "nyam-lord-10-mods-esenciales-r2modman-2025",
+      "type": "video",
+      "title": "VALHEIM - Instala 10 MODS Esenciales con R2modman",
+      "creator": "Nyam Lord",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=TYofYKXC7iQ",
+      "youtubeId": "TYofYKXC7iQ",
+      "language": "es",
+      "duration": "10:14",
+      "publishedDate": "2025-07-11",
+      "thumbnail": "https://i.ytimg.com/vi/TYofYKXC7iQ/maxresdefault.jpg",
+      "noteEs": "Tutorial en español de cómo instalar r2modman y los 10 mods más esenciales paso a paso. Único recurso del codex en español para esta categoría — útil para hispanohablantes que arrancan modeo.",
+      "noteEn": "Spanish-language tutorial on how to install r2modman and the 10 most essential mods step by step. The only Spanish-language resource in this category — useful for Spanish-speakers starting to mod."
+    }
+  ]
+}

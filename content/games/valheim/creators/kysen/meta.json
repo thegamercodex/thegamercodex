@@ -1,0 +1,37 @@
+{
+  "id": "kysen",
+  "name": "Kysen",
+  "country": "us",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2017,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Kysen",
+      "url": "https://www.youtube.com/@Kysen",
+      "channelId": "UCQTZ-bd59_QABX7b_4VG59w",
+      "primary": true
+    }
+  ],
+  "specialties": ["beginner-guides", "server-gameplay", "boss-progression", "co-op"],
+  "games": ["valheim"],
+  "contentTypes": ["beginner-tutorials", "live-streams", "progression-guides"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Kysen es la opción canónica de Valheim para guías de progresión y beginner-friendly content. Su serie 'Day 1 in Valheim: What You NEED To Do First' es de los videos más vistos del juego en general. Hostea servers públicos (KysenHeim) donde la comunidad puede unirse a runs y bosses fights. Tono pedagógico — explica mecánicas claramente sin asumir conocimiento previo, ideal para quien arranca o vuelve después de meses.",
+  "noteEn": "Kysen is Valheim's canonical pick for progression guides and beginner-friendly content. His 'Day 1 in Valheim: What You NEED To Do First' is among the most-watched videos for the game overall. He runs public servers (KysenHeim) where the community joins runs and boss fights. Pedagogical tone — explains mechanics clearly without assuming prior knowledge, ideal for someone starting or returning after months.",
+  "highlightsEs": [
+    "Guías para principiantes muy bien estructuradas — 'Day 1', 'How to defeat Eikthyr', boss-by-boss",
+    "Hostea servers públicos para la comunidad (KysenHeim) — puedes unirte a boss fights",
+    "Cadencia alta de videos cortos (5-15 min) con un take cada uno",
+    "Tono accesible sin perder profundidad técnica"
+  ],
+  "highlightsEn": [
+    "Very well-structured beginner guides — 'Day 1', 'How to defeat Eikthyr', boss-by-boss",
+    "Runs public community servers (KysenHeim) — you can join boss fights",
+    "High cadence of short videos (5-15 min) with one takeaway each",
+    "Accessible tone without losing technical depth"
+  ],
+  "avatar": "/images/creators/kysen-avatar.jpg",
+  "banner": "/images/creators/kysen-banner.jpg"
+}

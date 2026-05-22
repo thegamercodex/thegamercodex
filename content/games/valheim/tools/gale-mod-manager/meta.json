@@ -1,0 +1,36 @@
+{
+  "id": "gale-mod-manager",
+  "name": "Gale Mod Manager",
+  "shortName": "Gale",
+  "taglineEs": "Mod manager moderno construido con Svelte y Tauri — apunta a ser el reemplazo más rápido y limpio de r2modman",
+  "taglineEn": "Modern mod manager built on Svelte and Tauri — aims to be the faster, cleaner replacement for r2modman",
+  "url": "https://thunderstore.io/c/valheim/p/Kesomannen/GaleModManager/",
+  "category": "mod-managers",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Kesomannen/gale",
+  "license": "GPL-3.0",
+  "platforms": ["windows", "linux", "macos"],
+  "languages": ["en"],
+  "tags": ["mod-manager", "thunderstore", "profiles", "tauri"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/valheim/gale-mod-manager-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bepinex-valheim", "thunderstore-valheim"],
+  "alternatives": ["r2modman", "thunderstore-mod-manager"],
+  "createdBy": {
+    "name": "Kesomannen",
+    "url": "https://github.com/Kesomannen/gale"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "no-mans-sky", "url": "https://thunderstore.io/c/nomanssky/" }
+    ]
+  }
+}

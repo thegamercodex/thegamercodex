@@ -1,0 +1,80 @@
+{
+  "category": "biome-and-exploration",
+  "resources": [
+    {
+      "id": "chiselchip-entering-ashlands-2024",
+      "type": "video",
+      "title": "Valheim: Entering the Ashlands Biome [Beginner's Guide]",
+      "creator": "Chiselchip",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=9rZxc_WGMBk",
+      "youtubeId": "9rZxc_WGMBk",
+      "language": "en",
+      "duration": "18:10",
+      "publishedDate": "2024-04-22",
+      "thumbnail": "https://i.ytimg.com/vi/9rZxc_WGMBk/maxresdefault.jpg",
+      "noteEs": "Guía completa de entrada a Ashlands: preparación del Drakkar, gear necesario, primeras horas evitando cinder rain. El video más recomendado para quien recién termina Mistlands y va a cruzar al volcánico.",
+      "noteEn": "Full Ashlands entry guide: Drakkar prep, required gear, first hours dodging cinder rain. The most recommended video for someone fresh out of Mistlands heading to the volcanic biome."
+    },
+    {
+      "id": "snazzygames-ashlands-ultimate-biome-2024",
+      "type": "video",
+      "title": "Valheim Ashlands! Ultimate Biome Guide",
+      "creator": "SnazzyGames",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=t6lIXjk-b9Q",
+      "youtubeId": "t6lIXjk-b9Q",
+      "language": "en",
+      "duration": "18:03",
+      "publishedDate": "2024-04-23",
+      "thumbnail": "https://i.ytimg.com/vi/t6lIXjk-b9Q/maxresdefault.jpg",
+      "noteEs": "Cobertura completa de Ashlands — mobs (Charred, Morgen, Bonemaw Serpent), recursos (Flametal, Charred Skull), armaduras nuevas, mecánicas de cinders. Para entender el bioma completo antes de explorar a ciegas.",
+      "noteEn": "Complete Ashlands coverage — mobs (Charred, Morgen, Bonemaw Serpent), resources (Flametal, Charred Skull), new armor, cinder mechanics. To understand the full biome before exploring blind."
+    },
+    {
+      "id": "jadepg-mistlands-tips-wish-knew-2022",
+      "type": "video",
+      "title": "VALHEIM MISTLANDS - Tips I Wish I Knew Earlier - Full Guide To Help You Survive!",
+      "creator": "Jade PG",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=EoRS569dWik",
+      "youtubeId": "EoRS569dWik",
+      "language": "en",
+      "duration": "19:00",
+      "publishedDate": "2022-12-06",
+      "thumbnail": "https://i.ytimg.com/vi/EoRS569dWik/maxresdefault.jpg",
+      "noteEs": "Guía clásica de Mistlands publicada days tras el patch original. Las mecánicas core (Wisplight, Infested Mines, Seekers) no cambiaron — sigue siendo referencia honesta para entender el bioma más confuso del juego.",
+      "noteEn": "Classic Mistlands guide published days after the original patch. Core mechanics (Wisplight, Infested Mines, Seekers) haven't changed — still an honest reference for the game's most confusing biome."
+    },
+    {
+      "id": "waffles-mistlands-survival-guide-2024",
+      "type": "video",
+      "title": "Mistlands Survival Guide | Valheim",
+      "creator": "Waffles",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=GIiom1LDSYo",
+      "youtubeId": "GIiom1LDSYo",
+      "language": "en",
+      "duration": "43:37",
+      "publishedDate": "2024-03-17",
+      "thumbnail": "https://i.ytimg.com/vi/GIiom1LDSYo/maxresdefault.jpg",
+      "noteEs": "Deep dive de 43 minutos cubriendo Mistlands completo — Wisplight, Yggdrasil shoots, magic system, dvergr settlements, Queen boss. Para quien quiere la guía más exhaustiva del bioma pre-Ashlands.",
+      "noteEn": "43-minute deep dive covering the full Mistlands — Wisplight, Yggdrasil shoots, magic system, dvergr settlements, Queen boss. For someone wanting the most exhaustive guide for the pre-Ashlands biome."
+    },
+    {
+      "id": "quicksand-riggs-swamp-tips-2023",
+      "type": "video",
+      "title": "10 Tips For Conquering The Swamps - Valheim",
+      "creator": "Quicksand Riggs",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=gdJGqZqiEuw",
+      "youtubeId": "gdJGqZqiEuw",
+      "language": "en",
+      "duration": "10:09",
+      "publishedDate": "2023-01-20",
+      "thumbnail": "https://i.ytimg.com/vi/gdJGqZqiEuw/maxresdefault.jpg",
+      "noteEs": "10 tips concretos para sobrevivir el Swamp — leech awareness, poison resist meads, crypt strategy, iron acumulation. El bioma donde más players abandonan; este video reduce el death count.",
+      "noteEn": "10 concrete tips for surviving the Swamp — leech awareness, poison resist meads, crypt strategy, iron accumulation. The biome where most players quit; this video drops the death count."
+    }
+  ]
+}

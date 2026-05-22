@@ -1,0 +1,28 @@
+{
+  "id": "valheim-map-world",
+  "name": "Valheim World Generator",
+  "shortName": "valheim-map.world",
+  "taglineEs": "Seed viewer canónico de Valheim — pegas tu seed y ves el mapa completo con bosses, traders, crypts y bioma sin generar el mundo in-game",
+  "taglineEn": "Valheim's canonical seed viewer — paste your seed and see the full map with bosses, traders, crypts, and biomes without generating the world in-game",
+  "url": "https://valheim-map.world/",
+  "category": "world-tools",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["seed-viewer", "map-preview", "exploration", "essential"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/valheim/valheim-map-world-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["valheim-fandom-wiki"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "wd40bomber7",
+    "url": "https://valheim-map.world/about.html"
+  }
+}
