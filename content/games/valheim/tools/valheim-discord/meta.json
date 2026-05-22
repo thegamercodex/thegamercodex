@@ -1,0 +1,28 @@
+{
+  "id": "valheim-discord",
+  "name": "Valheim Official Discord",
+  "shortName": "Valheim Discord",
+  "taglineEs": "Servidor oficial de Discord de Iron Gate — hub principal de la comunidad con ~160,000 miembros, devs ocasionalmente activos, canales de bug reports y guides",
+  "taglineEn": "Iron Gate's official Discord — the community's main hub with ~160,000 members, occasional dev activity, bug-report and guide channels",
+  "url": "https://discord.com/invite/valheim",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows", "macos", "linux", "android", "ios"],
+  "languages": ["en"],
+  "tags": ["discord", "official", "community", "support"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["valheim-official-site"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Iron Gate AB",
+    "url": "https://irongate.se/"
+  }
+}

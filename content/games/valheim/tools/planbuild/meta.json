@@ -1,0 +1,30 @@
+{
+  "id": "planbuild",
+  "name": "PlanBuild",
+  "shortName": "PlanBuild",
+  "taglineEs": "Mod de construcción que agrega Plan Hammer y Blueprint Rune — planificas bases enteras antes de juntar madera, copiás estructuras y las compartes",
+  "taglineEn": "Building mod that adds the Plan Hammer and Blueprint Rune — plan whole bases before gathering wood, copy structures, and share them",
+  "url": "https://valheim.thunderstore.io/package/MathiasDecrock/PlanBuild/",
+  "category": "building",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/sirskunkalot/PlanBuild",
+  "license": "MIT",
+  "platforms": ["windows", "linux"],
+  "languages": ["en"],
+  "tags": ["building", "blueprint", "copy-paste", "terraform"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/valheim/planbuild-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["jotunn", "valheimians"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "sirskunkalot (maintainer) & MathiasDecrock",
+    "url": "https://github.com/sirskunkalot/PlanBuild"
+  }
+}

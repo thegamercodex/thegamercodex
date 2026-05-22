@@ -1,0 +1,37 @@
+{
+  "id": "blitz",
+  "name": "Blitz (Blitzkriegsler)",
+  "country": "us",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2014,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Blitzkriegsler",
+      "url": "https://www.youtube.com/c/Blitzkriegsler",
+      "channelId": "UCK3eoeo-HGHH11Pevo1MzfQ",
+      "primary": true
+    }
+  ],
+  "specialties": ["building-tips", "early-game-guides", "survival-mechanics", "variety"],
+  "games": ["valheim"],
+  "contentTypes": ["short-tutorials", "building-tips", "patch-coverage"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Blitz (Blitzkriegsler) acumuló su reputation en Valheim con tutoriales cortos enfocados en tips de construcción y mecánicas concretas — '50+ Building Tips in Valheim', 'How to Build a Starter House', construction snapping tricks. En 2026 mezcla Valheim con otros survival games (Subnautica 2, Hotel Architect) pero su canal sigue siendo referencia para los building tip videos que la comunidad linkea cuando alguien pregunta cómo lograr X estructura.",
+  "noteEn": "Blitz (Blitzkriegsler) built his reputation on Valheim with short tutorials focused on building tips and concrete mechanics — '50+ Building Tips in Valheim', 'How to Build a Starter House', construction snapping tricks. In 2026 he mixes Valheim with other survival games (Subnautica 2, Hotel Architect) but his channel remains a reference for the building tip videos the community links when someone asks how to achieve X structure.",
+  "highlightsEs": [
+    "'50+ Building Tips in Valheim' — uno de los videos más linkeados de tip dumps",
+    "Tutorials de starter houses, snapping tricks, roof construction",
+    "Variedad creciente: mezcla Valheim con otros survivals en 2026",
+    "Pace rápido y conciso — uploads no inflados, cada tip se explica en 30 segundos"
+  ],
+  "highlightsEn": [
+    "'50+ Building Tips in Valheim' — one of the most-linked tip dumps for the game",
+    "Tutorials on starter houses, snapping tricks, roof construction",
+    "Growing variety: mixes Valheim with other survival games in 2026",
+    "Fast, concise pace — uploads aren't bloated, each tip explained in ~30 seconds"
+  ],
+  "avatar": "/images/creators/blitz-avatar.jpg",
+  "banner": "/images/creators/blitz-banner.jpg"
+}

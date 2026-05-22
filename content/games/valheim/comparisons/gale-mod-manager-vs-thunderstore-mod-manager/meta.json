@@ -1,0 +1,46 @@
+{
+  "id": "gale-mod-manager-vs-thunderstore-mod-manager",
+  "toolIds": ["gale-mod-manager", "thunderstore-mod-manager"],
+  "category": "mod-managers",
+  "depth": "short",
+  "lastVerified": "2026-05-21",
+  "verdictEs": "Gale si quieres un manager lightweight, moderno y sin Overwolf — Tauri lo hace arrancar instantáneo. TMM si valoras overlay in-game y notificaciones background, y no te molesta el ecosistema Overwolf.",
+  "verdictEn": "Gale if you want a lightweight, modern manager without Overwolf — Tauri makes it boot instantly. TMM if you value an in-game overlay and background notifications, and don't mind the Overwolf ecosystem.",
+  "useCases": [
+    {
+      "labelEs": "Mínimo overhead de sistema — un solo binario chico",
+      "labelEn": "Minimum system overhead — one small binary",
+      "winner": "gale-mod-manager",
+      "reasonEs": "Gale es Tauri (~15MB installer, ~50MB RAM). TMM requiere Overwolf (~150MB) corriendo permanente en background más el cliente TMM en sí mismo.",
+      "reasonEn": "Gale is Tauri (~15MB installer, ~50MB RAM). TMM requires Overwolf (~150MB) running permanently in the background plus the TMM client itself."
+    },
+    {
+      "labelEs": "Toggle de mods sin alt-tab mientras juego",
+      "labelEn": "Toggle mods without alt-tab while playing",
+      "winner": "thunderstore-mod-manager",
+      "reasonEs": "Solo TMM tiene overlay in-game (Ctrl+Shift+M). Gale es standalone — para tweaks hay que alt-tab al desktop.",
+      "reasonEn": "Only TMM has an in-game overlay (Ctrl+Shift+M). Gale is standalone — tweaks require an alt-tab to the desktop."
+    },
+    {
+      "labelEs": "Soporte cross-platform (Linux, macOS)",
+      "labelEn": "Cross-platform support (Linux, macOS)",
+      "winner": "gale-mod-manager",
+      "reasonEs": "Gale corre en Windows, Linux y macOS. TMM es Windows-only por dependencia de Overwolf.",
+      "reasonEn": "Gale runs on Windows, Linux, and macOS. TMM is Windows-only via Overwolf dependency."
+    },
+    {
+      "labelEs": "Workflow OSS auditable",
+      "labelEn": "Auditable OSS workflow",
+      "winner": "gale-mod-manager",
+      "reasonEs": "Gale es GPL-3.0, código en GitHub. TMM es closed-source dentro de Overwolf.",
+      "reasonEn": "Gale is GPL-3.0, code on GitHub. TMM is closed-source inside Overwolf."
+    },
+    {
+      "labelEs": "Notificaciones de updates sin abrir el manager",
+      "labelEn": "Update notifications without opening the manager",
+      "winner": "thunderstore-mod-manager",
+      "reasonEs": "TMM, vía Overwolf, notifica updates aún con el cliente cerrado. Gale solo notifica cuando lo abres.",
+      "reasonEn": "TMM, via Overwolf, notifies of updates even with the client closed. Gale only notifies when you open it."
+    }
+  ]
+}

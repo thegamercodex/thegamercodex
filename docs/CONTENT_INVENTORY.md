@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-21
+> Última generación: 2026-05-22
 
 ## Resumen
 
-16 juegos · 258 tools · 79 creators · 82 categorías · 410 resources items · 59 comparisons
+17 juegos · 273 tools · 84 creators · 87 categorías · 435 resources items · 63 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -22,6 +22,7 @@
 | `path-of-exile` | Path of Exile | 17 | 5 | 5 | 25 | 7 |
 | `path-of-exile-2` | Path of Exile 2 | 20 | 5 | 5 | 25 | 8 |
 | `skyrim` | The Elder Scrolls V: Skyrim | 19 | 5 | 5 | 25 | 5 |
+| `valheim` | Valheim | 15 | 5 | 5 | 25 | 4 |
 | `valorant` | Valorant | 15 | 5 | 5 | 25 | 0 |
 | `windrose` | Windrose | 13 | 5 | 5 | 25 | 4 |
 | `world-of-warcraft` | World of Warcraft | 15 | 5 | 6 | 30 | 5 |
@@ -223,6 +224,21 @@
 - `modding-guides` — 5 items
 
 **Comparisons (5)**: `loot-vs-sseedit` (short), `mod-organizer-2-vs-vortex-mod-manager` (flagship), `nukes-and-dragons-vs-skyrim-builds` (short), `synthesis-vs-sseedit` (flagship), `wabbajack-vs-mod-organizer-2` (short)
+
+### Valheim (`valheim`)
+
+**Tools (15)**: BepInExPack Valheim (`bepinex-valheim`), Better Continents (`better-continents`), Gale Mod Manager (`gale-mod-manager`), Jotunn — The Valheim Library (`jotunn`), Nexus Mods (Valheim) (`nexus-mods-valheim`), PlanBuild (`planbuild`), r2modman (`r2modman`), Thunderstore Mod Manager (`thunderstore-mod-manager`), Thunderstore (Valheim) (`thunderstore-valheim`), Valheim Official Discord (`valheim-discord`), Valheim Wiki (Fandom) (`valheim-fandom-wiki`), Valheim World Generator (`valheim-map-world`), Valheim Official Site (`valheim-official-site`), Valheim Plus (Grantapher fork) (`valheim-plus`), Valheimians (`valheimians`)
+
+**Creators (5)**: Blitz (Blitzkriegsler) (`blitz`), Kysen (`kysen`), NickRawcliffe (`nickrawcliffe`), SmittySurvival (`smittysurvival`), Versaugh (`versaugh`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `biome-and-exploration` — 5 items
+- `building-and-bases` — 5 items
+- `mod-recommendations` — 5 items
+- `progression-and-bosses` — 5 items
+
+**Comparisons (4)**: `gale-mod-manager-vs-thunderstore-mod-manager` (short), `nexus-mods-valheim-vs-thunderstore-valheim` (short), `r2modman-vs-gale-mod-manager` (flagship), `r2modman-vs-thunderstore-mod-manager` (short)
 
 ### Valorant (`valorant`)
 

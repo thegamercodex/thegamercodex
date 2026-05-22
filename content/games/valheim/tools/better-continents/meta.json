@@ -1,0 +1,30 @@
+{
+  "id": "better-continents",
+  "name": "Better Continents",
+  "shortName": "Better Continents",
+  "taglineEs": "Mod que reemplaza la generación de terreno de Valheim — heightmaps custom, layers de bioma controlables, mundos diseñados a mano",
+  "taglineEn": "Mod that replaces Valheim's terrain generation — custom heightmaps, controllable biome layers, hand-designed worlds",
+  "url": "https://valheim.thunderstore.io/package/JereKuusela/BetterContinents/",
+  "category": "modding-utilities",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/JereKuusela/BetterContinents",
+  "license": "MIT",
+  "platforms": ["windows", "linux"],
+  "languages": ["en"],
+  "tags": ["world-generation", "terrain", "heightmap", "advanced"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/valheim/better-continents-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bepinex-valheim", "valheim-map-world"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "JereKuusela (maintainer) & billw2012 (original)",
+    "url": "https://github.com/JereKuusela/BetterContinents"
+  }
+}

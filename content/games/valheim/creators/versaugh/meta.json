@@ -1,0 +1,37 @@
+{
+  "id": "versaugh",
+  "name": "Versaugh",
+  "country": "us",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2010,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Versaugh",
+      "url": "https://www.youtube.com/@Versaugh",
+      "channelId": "UCQ6XLB2-DSeiVTZQZz-14Dw",
+      "primary": true
+    }
+  ],
+  "specialties": ["hardcore-survival", "building", "long-runs", "narrative-playthroughs"],
+  "games": ["valheim"],
+  "contentTypes": ["series", "vlogs", "build-tutorials"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Versaugh combina building con runs de hardcore survival continuos. Su serie principal 'Valheim Builder VS Hardcore Survival' lleva 400+ días in-game y mezcla cinematic builds (castillos, harbors, taverns) con muerte permanente — si muere, vuelve a empezar. Edición narrativa lenta y atmosférica, charlas honestas a cámara mientras construye. Para quien busca un creator que entienda ambos lados del juego: el estético y el peligroso.",
+  "noteEn": "Versaugh blends building with continuous hardcore-survival runs. His main series 'Valheim Builder VS Hardcore Survival' is 400+ in-game days deep and mixes cinematic builds (castles, harbors, taverns) with permadeath — die and you restart. Slow, atmospheric narrative edits with honest to-camera talks while he builds. For viewers wanting a creator who understands both sides of the game: the aesthetic and the dangerous.",
+  "highlightsEs": [
+    "Serie 'Builder VS Hardcore Survival' — playthrough largo con permadeath y builds increíbles",
+    "Combinación poco común: builders puros editan estético, survivalistas editan rápido. Versaugh hace los dos.",
+    "Cadencia alta — uploads casi diarios mientras la serie está activa",
+    "Voice-over reflexivo: él explica decisions de diseño y de survival en tiempo real"
+  ],
+  "highlightsEn": [
+    "'Builder VS Hardcore Survival' series — long playthrough with permadeath and beautiful builds",
+    "Uncommon combo: pure builders edit aesthetic, survivalists edit fast. Versaugh does both.",
+    "High cadence — near-daily uploads while the series is active",
+    "Reflective voice-over: he explains design and survival decisions in real time"
+  ],
+  "avatar": "/images/creators/versaugh-avatar.jpg",
+  "banner": "/images/creators/versaugh-banner.jpg"
+}

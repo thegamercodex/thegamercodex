@@ -1,0 +1,80 @@
+{
+  "category": "progression-and-bosses",
+  "resources": [
+    {
+      "id": "jp-valheim-progression-guide-early-mid-2025",
+      "type": "video",
+      "title": "Valheim Progression Guide – Early & Mid Game",
+      "creator": "JP Valheim",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=9oo5Mn6P9yM",
+      "youtubeId": "9oo5Mn6P9yM",
+      "language": "en",
+      "duration": "19:24",
+      "publishedDate": "2025-11-27",
+      "thumbnail": "https://i.ytimg.com/vi/9oo5Mn6P9yM/maxresdefault.jpg",
+      "noteEs": "JP Valheim ordena la progresión recomendada bioma por bioma desde Meadows hasta Mountain, explicando qué gear, qué food y qué buffs traer a cada boss. Referencia para evitar saltar etapas y morir en un swamp con stone gear.",
+      "noteEn": "JP Valheim lays out the recommended biome-by-biome progression from Meadows to Mountain, explaining what gear, food, and buffs to bring to each boss. A reference to avoid skipping stages and dying in a swamp with stone gear."
+    },
+    {
+      "id": "emmatpotato-ultimate-boss-guide-2024",
+      "type": "video",
+      "title": "The Ultimate BOSS GUIDE — Best Secrets, Patterns, & Weaknesses!",
+      "creator": "EmmaTpotato",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=lAQ0MBBpMqk",
+      "youtubeId": "lAQ0MBBpMqk",
+      "language": "en",
+      "duration": "7:39",
+      "publishedDate": "2024-09-08",
+      "thumbnail": "https://i.ytimg.com/vi/lAQ0MBBpMqk/maxresdefault.jpg",
+      "noteEs": "Resumen denso (7 min) cubriendo los patterns y weaknesses de cada boss. Útil como reference rápida antes de un fight cuando ya jugaste y solo necesitas repasar mecánicas.",
+      "noteEn": "Dense summary (7 min) covering every boss's patterns and weaknesses. Useful as a quick reference before a fight when you've already played and just need a mechanics refresh."
+    },
+    {
+      "id": "firespark81-ashlands-boss-guide-2024",
+      "type": "video",
+      "title": "Ultimate Guide To Ashlands Boss In Valheim",
+      "creator": "FireSpark81",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=09bIr_Ep_no",
+      "youtubeId": "09bIr_Ep_no",
+      "language": "en",
+      "duration": "11:49",
+      "publishedDate": "2024-05-26",
+      "thumbnail": "https://i.ytimg.com/vi/09bIr_Ep_no/maxresdefault.jpg",
+      "noteEs": "FireSpark81 cubre el Fader boss en Ashlands con estrategia para solo y co-op, incluyendo preparación de altar, gear necesario, y cómo manejar las fases del fight con ground spikes y ranged attacks.",
+      "noteEn": "FireSpark81 covers the Ashlands Fader boss with solo and co-op strategy, including altar preparation, required gear, and how to handle fight phases with ground spikes and ranged attacks."
+    },
+    {
+      "id": "gunny-fader-combat-guide-2025",
+      "type": "video",
+      "title": "Valheim Boss Battle Fader Combat Guide",
+      "creator": "Gunny The Gunmage",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=K0jYsRbB2u4",
+      "youtubeId": "K0jYsRbB2u4",
+      "language": "en",
+      "duration": "22:34",
+      "publishedDate": "2025-03-11",
+      "thumbnail": "https://i.ytimg.com/vi/K0jYsRbB2u4/maxresdefault.jpg",
+      "noteEs": "Guía profunda (22 min) del Fader (Ashlands) con análisis frame por frame de los ataques, mejores armas (Nidhogg, Thundering Axes), y posicionamiento óptimo. Para quien va a soloar el boss más duro del juego.",
+      "noteEn": "Deep guide (22 min) of Fader (Ashlands) with frame-by-frame attack analysis, best weapons (Nidhogg, Thundering Axes), and optimal positioning. For someone going to solo the game's toughest boss."
+    },
+    {
+      "id": "nickrawcliffe-yagluth-no-resets-2026",
+      "type": "video",
+      "title": "YAGLUTH DOWN!!! - Valheim No Resets Speedrun (Part 3) + DayZ",
+      "creator": "NickRawcliffe",
+      "creatorId": "nickrawcliffe",
+      "url": "https://www.youtube.com/watch?v=hS93YaeTZ1E",
+      "youtubeId": "hS93YaeTZ1E",
+      "language": "en",
+      "duration": "6:22:23",
+      "publishedDate": "2026-05-13",
+      "thumbnail": "https://i.ytimg.com/vi/hS93YaeTZ1E/maxresdefault.jpg",
+      "noteEs": "Live stream extendido (6h+) donde NickRawcliffe mata Yagluth bajo regla 'no resets'. Para quien quiere ver execution real de un boss difícil sin cortes editoriales, con context de speedrun.",
+      "noteEn": "Extended live stream (6h+) where NickRawcliffe kills Yagluth under 'no resets' rules. For someone wanting to see real execution of a tough boss without editorial cuts, with speedrun context."
+    }
+  ]
+}

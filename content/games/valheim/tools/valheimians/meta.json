@@ -1,0 +1,28 @@
+{
+  "id": "valheimians",
+  "name": "Valheimians",
+  "shortName": "Valheimians",
+  "taglineEs": "Hub comunitario para compartir y descubrir builds, mods y textures de Valheim — el repositorio de blueprints más grande del juego",
+  "taglineEn": "Community hub to share and discover Valheim builds, mods, and textures — the game's largest blueprint repository",
+  "url": "https://www.valheimians.com/",
+  "category": "building",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["builds", "blueprints", "community", "showcase"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/valheim/valheimians-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["planbuild", "thunderstore-valheim"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Cyprezz LLC",
+    "url": "https://www.valheimians.com/about/"
+  }
+}

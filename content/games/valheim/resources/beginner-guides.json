@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "kysen-day-1-valheim-2026",
+      "type": "video",
+      "title": "Day 1 in Valheim: What You NEED To Do First",
+      "creator": "Kysen",
+      "creatorId": "kysen",
+      "url": "https://www.youtube.com/watch?v=QNHT0Gq5Tos",
+      "youtubeId": "QNHT0Gq5Tos",
+      "language": "en",
+      "duration": "7:02",
+      "publishedDate": "2026-05-21",
+      "thumbnail": "https://i.ytimg.com/vi/QNHT0Gq5Tos/maxresdefault.jpg",
+      "noteEs": "Kysen condensa en 7 minutos lo crítico del primer día: priorizar el club, dormir antes de la noche, no luchar contra trolls en stone gear. Tono pedagógico claro, ideal como primer video que ves antes de empezar.",
+      "noteEn": "Kysen condenses the critical first-day moves into 7 minutes: prioritize the club, sleep before night, don't fight trolls in stone gear. Clear pedagogical tone, ideal as the first video you watch before starting."
+    },
+    {
+      "id": "enjoyjonboy-ultimate-beginner-guide-2025",
+      "type": "video",
+      "title": "Your Ultimate Beginner's Guide to Valheim – 20 Essential Tips to Survive in 2025",
+      "creator": "ENJOYJONBOY",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=JfF8n098Eag",
+      "youtubeId": "JfF8n098Eag",
+      "language": "en",
+      "duration": "9:02",
+      "publishedDate": "2025-01-07",
+      "thumbnail": "https://i.ytimg.com/vi/JfF8n098Eag/maxresdefault.jpg",
+      "noteEs": "20 tips concretos para sobrevivir las primeras horas: stamina management, comida, mecánicas escondidas. Pace rápido, sin relleno. Apunta a quien ya jugó algo de survival pero arranca Valheim por primera vez.",
+      "noteEn": "20 concrete tips for surviving the first hours: stamina management, food, hidden mechanics. Fast pace, no fluff. Targets someone who's played survival games before but is new to Valheim."
+    },
+    {
+      "id": "anabriella-watch-before-starting-2026",
+      "type": "video",
+      "title": "Watch Before Starting VALHEIM in 2026 - Beginner Tips",
+      "creator": "Anabriella",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=9SBZZAbzd_Y",
+      "youtubeId": "9SBZZAbzd_Y",
+      "language": "en",
+      "duration": "5:26",
+      "publishedDate": "2024-10-12",
+      "thumbnail": "https://i.ytimg.com/vi/9SBZZAbzd_Y/maxresdefault.jpg",
+      "noteEs": "Repaso ágil de lo que aprenderías por las malas en las primeras horas. Útil como complemento del video de Kysen, con énfasis en errores comunes que cuestan tiempo o muerte temprana.",
+      "noteEn": "Snappy review of what you'd learn the hard way in the first hours. Useful as a complement to Kysen's video, with emphasis on common mistakes that cost time or early death."
+    },
+    {
+      "id": "xaines-world-starter-guide-2024",
+      "type": "video",
+      "title": "Valheim Starter Guide - The Basics for Beginner's - Building, Combat, Crafting, Skills, Raids Tips",
+      "creator": "Xaine's World",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=kfPwVjwtMFM",
+      "youtubeId": "kfPwVjwtMFM",
+      "language": "en",
+      "duration": "16:41",
+      "publishedDate": "2024-05-15",
+      "thumbnail": "https://i.ytimg.com/vi/kfPwVjwtMFM/maxresdefault.jpg",
+      "noteEs": "Guía más amplia (16 min) que cubre building básico, combate, crafting, skills y mecánicas de raid. Para quien quiere una vista panorámica de todos los sistemas antes de comprometerse a un mundo.",
+      "noteEn": "Broader guide (16 min) covering basic building, combat, crafting, skills, and raid mechanics. For someone wanting a panoramic view of every system before committing to a world."
+    },
+    {
+      "id": "jp-valheim-beginners-guide-first-day",
+      "type": "video",
+      "title": "A Valheim Beginners Guide - How to Get Started Your First Day of Valheim",
+      "creator": "JP Valheim",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=4vZVfU6EKDM",
+      "youtubeId": "4vZVfU6EKDM",
+      "language": "en",
+      "duration": "19:09",
+      "publishedDate": "2023-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/4vZVfU6EKDM/maxresdefault.jpg",
+      "noteEs": "Walkthrough del primer día completo (19 min) — JP Valheim camina paso a paso desde el spawn hasta dormir seguro la primera noche. Más detallado que los videos de tips, ideal para quien quiere acompañamiento total.",
+      "noteEn": "Full first-day walkthrough (19 min) — JP Valheim walks step-by-step from spawn to safely sleeping through the first night. More detailed than tip lists, ideal for someone who wants full hand-holding."
+    }
+  ]
+}

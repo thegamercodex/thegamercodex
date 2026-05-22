@@ -1,0 +1,29 @@
+{
+  "id": "valheim-fandom-wiki",
+  "name": "Valheim Wiki (Fandom)",
+  "shortName": "Valheim Wiki",
+  "taglineEs": "Wiki community endorsada por Iron Gate — la base de datos canónica de items, recipes, bosses, biomas y mecánicas de Valheim",
+  "taglineEn": "Iron Gate-endorsed community wiki — Valheim's canonical database of items, recipes, bosses, biomes, and mechanics",
+  "url": "https://valheim.fandom.com/",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": "CC-BY-SA",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "database", "reference", "items", "recipes"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-21",
+  "logo": "/images/tools/valheim/valheim-fandom-wiki-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["valheim-official-site"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Valheim Wiki community",
+    "url": "https://valheim.fandom.com/wiki/Special:ListUsers"
+  }
+}
