@@ -34,7 +34,7 @@ No competidores estrictos — diferentes scopes. Many serious completionists use
 
 ## Para qué la usa la gente
 
-**Renown 100% per region**: necesitas specific statues + altars. Diablo 4 Dad lista lo que falta.
+**Renown 100% per region**: Necesitas specific statues + altars. Diablo 4 Dad lista lo que falta.
 
 **Glyph collection tracking**: paragon glyphs son grindeable y D4 in-game no exposes "qué te falta" claramente.
 
@@ -42,7 +42,7 @@ No competidores estrictos — diferentes scopes. Many serious completionists use
 
 **Achievement hunting hidden**: para platinum trophies, hidden achievements requieren guides. Dad lista visible + some hidden.
 
-**Comparativa con amigos**: linkeá chars, vé side-by-side stats.
+**Comparativa con amigos**: enlaza chars, vé side-by-side stats.
 
 ## Para quién NO es esta herramienta
 

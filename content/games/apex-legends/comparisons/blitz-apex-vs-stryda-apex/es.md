@@ -23,7 +23,7 @@ Para players con setups modestos, Stryda es lighter. Para players que quieren ov
 
 El overlay live de Blitz es feature killer si lo usas. Durante match, ves rank y stats de cada player al spawn, kill counter, accuracy live. Es coaching real-time — cambia decisions tipo "¿pusheo a este enemy?" basadas en data inmediata.
 
-Stryda no tiene equivalent. Las challenges son async — chequeás progress entre matches, no durante.
+Stryda no tiene equivalent. Las challenges son async — chequeas progress entre matches, no durante.
 
 ## El gamification diff
 

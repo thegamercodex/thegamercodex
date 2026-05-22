@@ -26,7 +26,7 @@ La regla práctica: Tracker.gg para análisis profundo de tu carrera, Blitz para
 
 ## Para qué la usa la gente
 
-**Ver win rate por agente**: identificas qué agentes te funcionan y cuáles abandonar. Útil cuando estás eligiendo main.
+**Ver win rate por agente**: Identificas qué agentes te funcionan y cuáles abandonar. Útil cuando estás eligiendo main.
 
 **Comparar contra tu rango**: percentiles te muestran si tu K/D está sobre o bajo el promedio del rango. Vara honesta.
 

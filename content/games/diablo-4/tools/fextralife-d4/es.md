@@ -35,11 +35,11 @@ Pregunta a Wowhead "qué stats tiene este aspect". Pregunta a Fextralife "cómo 
 
 **Quest stuck**: estás en una side quest de Hawezar y no sabes a dónde ir. Fextralife te da steps.
 
-**Lore deep-dive**: quieres entender Mephisto antes del DLC. Fextralife tiene página dedicada con context.
+**Lore deep-dive**: Quieres entender Mephisto antes del DLC. Fextralife tiene página dedicada con context.
 
 **Dungeon walkthroughs**: nuevo dungeon en patch, no sabes mechanics. Fextralife describe boss + mob layout.
 
-**Location hunting**: buscas un specific NPC o vendor. Fextralife te da location.
+**Location hunting**: Buscas un specific NPC o vendor. Fextralife te da location.
 
 **Achievement guides**: muchos achievements requieren steps específicos. Fextralife los lista.
 
@@ -86,7 +86,7 @@ Pregunta a Wowhead "qué stats tiene este aspect". Pregunta a Fextralife "cómo 
 
 3. Compara depth narrativo con Wowhead — Fextralife va más a "story", Wowhead a "data".
 
-4. Para classes: navegá las páginas de clase pero espera overview, no min-max guide.
+4. Para classes: navega las páginas de clase pero espera overview, no min-max guide.
 
 5. Use Fextralife como complemento a Wowhead + Maxroll, no replacement.
 

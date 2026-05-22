@@ -29,7 +29,7 @@ Bloodmallet no replica Droptimizer. Los charts son aggregate; no puedes decir "q
 
 ## Tier sets y embellishments
 
-Bloodmallet brilla en charts comparativos de tier set bonuses y embellishments. Mostra rankings clean: 2-set vs 4-set vs no-set con diferentes weapon embellishments. Esto es valuable cuando estás en early-tier y evaluás si vale la pena perder un BiS slot por tier set.
+Bloodmallet brilla en charts comparativos de tier set bonuses y embellishments. Mostra rankings clean: 2-set vs 4-set vs no-set con diferentes weapon embellishments. Esto es valuable cuando estás en early-tier y evalúas si vale la pena perder un BiS slot por tier set.
 
 Raidbots puede simular lo mismo pero requires setup por cada combination — más slow para comparar 5+ permutations.
 

@@ -11,7 +11,7 @@ PlanBuild es un mod open-source (MIT) creado por **MathiasDecrock** y mantenido 
 - **Plan Hammer**: una versión "ghost" del martillo. Construyes estructuras enteras sin gastar materiales — todas las piezas quedan en estado plan (translúcidas, sin colisión funcional). Cuando estás satisfecho, juntas los materiales y un sistema te deja construir las piezas planeadas una por una, o usas un totem custom que las construye automáticamente.
 - **Blueprint Rune**: una vara que captura una estructura existente en un blueprint object. Lo guardas, lo compartes, lo pegas en otro mundo. Funciona como copy/paste de cualquier construcción.
 
-Adicionalmente tiene **modos de terraform** (raise/lower/level/paint terrain) y **immersion items** (estructuras decorativas extra). El paquete completo cubre el ciclo de "diseñá → construí → replica → comparte" que vanilla no soporta.
+Adicionalmente tiene **modos de terraform** (raise/lower/level/paint terrain) y **immersion items** (estructuras decorativas extra). El paquete completo cubre el ciclo de "diseña → construí → replica → comparte" que vanilla no soporta.
 
 ## Qué problema resuelve
 
@@ -88,9 +88,9 @@ Si tu enfoque es **survival hardcore**: para algunos puristas, planificar sin ga
 1. Instala vía r2modman/Gale/TMM en una modlist con BepInEx + Jotunn.
 2. Lanza Valheim, entra a un mundo.
 3. Craftea el Plan Hammer (necesitas unlock de hammer vanilla primero).
-4. Experimentá: planifica una cabaña simple. Prueba borrar piezas, mover, ajustar.
+4. Experimenta: planifica una cabaña simple. Prueba borrar piezas, mover, ajustar.
 5. Una vez cómodo con Plan Hammer, craftea el Blueprint Rune.
-6. Capturá una construcción existente (cualquier estructura que ya tengas).
+6. Captura una construcción existente (cualquier estructura que ya tengas).
 7. Pasteala en otra parte del mundo para ver cómo funciona.
 8. Cuando manejes el flujo, descarga blueprints de la comunidad en Valheimians.com.
 

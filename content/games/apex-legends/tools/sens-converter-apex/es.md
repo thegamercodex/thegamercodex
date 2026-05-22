@@ -1,7 +1,7 @@
 ---
 title: "Sens Converter — Apex Legends"
 description: "Web app que combina conversor de sensibilidad cross-game (Apex ↔ CS2/Valorant/Overwatch/PUBG) con DB filtrable de 50+ pros de Apex incluyendo eDPI, ADS multiplier, role y region."
-quickTake: "Lo principal es el conversor — si saltás de Valorant a Apex, mantener consistency mecánica entre los dos games es huge. Como bonus, la DB de pros es complementaria a ProSettings, sometimes con info más fresca."
+quickTake: "Lo principal es el conversor — si saltas de Valorant a Apex, mantener consistency mecánica entre los dos games es huge. Como bonus, la DB de pros es complementaria a ProSettings, sometimes con info más fresca."
 ---
 
 ## Qué es
@@ -10,7 +10,7 @@ SensConverter.app es una herramienta cross-game especializada en sensitivity mat
 
 ## Qué problema resuelve
 
-Players que juegan multiple FPS sufren de sensitivity confusion: tu sens de Valorant es diferente de tu sens de Apex porque los games usan formulas internas distintas. La forma profesional de mantener consistency es calcular cm por 360° (cuántos centímetros de mousepad para una rotación completa) y replicar ese valor across games. SensConverter hace esa math automáticamente — tú solo indicás cuáles son tus settings actuales y a qué game quieres convertir.
+Players que juegan multiple FPS sufren de sensitivity confusion: tu sens de Valorant es diferente de tu sens de Apex porque los games usan formulas internas distintas. La forma profesional de mantener consistency es calcular cm por 360° (cuántos centímetros de mousepad para una rotación completa) y replicar ese valor across games. SensConverter hace esa math automáticamente — tú solo indicas cuáles son tus settings actuales y a qué game quieres convertir.
 
 ## Diferenciación
 
@@ -28,7 +28,7 @@ Players que juegan multiple FPS sufren de sensitivity confusion: tu sens de Valo
 
 ## Para quién NO es esta herramienta
 
-Si solo juegas Apex y nunca tocás otros FPS, el converter no aporta — buscas solo configs. Si quieres gear list completa de pros, ProSettings tiene más detalle.
+Si solo juegas Apex y nunca tocas otros FPS, el converter no aporta — buscas solo configs. Si quieres gear list completa de pros, ProSettings tiene más detalle.
 
 ## Cómo se usa en la práctica
 
@@ -46,4 +46,4 @@ Si solo juegas Apex y nunca tocás otros FPS, el converter no aporta — buscas 
 
 ## Cómo empezar
 
-Abre [sensconverter.app/apex-pro-settings](https://sensconverter.app/apex-pro-settings/). Si venís de otro FPS, primero usa el converter para portar tu sens current a Apex — eso te da un baseline familiar. Después, compáralo con el average eDPI del role que juegas para ver si estás en el rango pro normal.
+Abre [sensconverter.app/apex-pro-settings](https://sensconverter.app/apex-pro-settings/). Si vienes de otro FPS, primero usa el converter para portar tu sens current a Apex — eso te da un baseline familiar. Después, compáralo con el average eDPI del role que juegas para ver si estás en el rango pro normal.

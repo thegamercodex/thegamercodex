@@ -32,11 +32,11 @@ Recomendación: Seelie cuando quieres un dashboard único con todo, Genshin Cent
 
 **Tracking de achievements escondidos**: la lista de achievements está organizada por categoría con marca de "completado / pendiente". Útil para saber qué achievements te faltan sin abrir 5 pestañas in-game.
 
-**Planning multi-personaje**: quieres subir a Furina y a Neuvillette al 90 simultáneamente. Seelie te suma materials requeridos para los dos y te muestra el total agregado. Decides si hay materials suficientes o no.
+**Planning multi-personaje**: Quieres subir a Furina y a Neuvillette al 90 simultáneamente. Seelie te suma materials requeridos para los dos y te muestra el total agregado. Decides si hay materials suficientes o no.
 
-**Tracking de resin spending**: marcas cuánto resin gastaste cada día. Útil para no olvidarte de gastarlo (resin tiene cap de 200 y desperdiciar es perder primogems).
+**Tracking de resin spending**: Marcas cuánto resin gastaste cada día. Útil para no olvidarte de gastarlo (resin tiene cap de 200 y desperdiciar es perder primogems).
 
-**Notas de tareas in-game**: quieres recordar "completar quest mundial X cuando vuelva al juego". Seelie tiene módulo de notes para no perdé tasks pendientes.
+**Notas de tareas in-game**: Quieres recordar "completar quest mundial X cuando vuelva al juego". Seelie tiene módulo de notes para no perdé tasks pendientes.
 
 ## Para quién NO es esta herramienta
 

@@ -50,7 +50,7 @@ Si solo juegas casual y no te interesa la economía meta o las patches semanales
 
 1. Te unes al server via invite link. Aceptas reglas en el canal de welcome.
 2. Lees el canal de `#rules` y `#channel-guide` para entender qué se conversa dónde.
-3. Suscribís al rol de notificaciones que quieres (announcements, events, etc.) — la mayoría usa el rol de announcements para que aparezcan pings cuando GGG postea.
+3. Suscribes al rol de notificaciones que quieres (announcements, events, etc.) — la mayoría usa el rol de announcements para que aparezcan pings cuando GGG postea.
 4. Configuras Discord para silenciar canales que no te interesan — el server es grande, sin curación de notifications es ruido.
 5. Workflow normal: lees announcements al inicio de sesión, participas en discusión cuando te interesa, mute todo en off-hours.
 

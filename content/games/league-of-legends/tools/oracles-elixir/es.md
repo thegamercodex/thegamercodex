@@ -57,7 +57,7 @@ Oracle's Elixir es excelente para análisis serio, pero no es lo que necesitas s
 
 6. Si quieres contribuir o consultar metodología, hay sección "About" con info del proyecto y cómo Tim lo mantiene.
 
-Para uso recurrente como analista: bookmarkeá la sección Data de la temporada en curso. Cada torneo grande genera un CSV consolidado al terminar.
+Para uso recurrente como analista: bookmarkea la sección Data de la temporada en curso. Cada torneo grande genera un CSV consolidado al terminar.
 
 ## Limitaciones honestas
 

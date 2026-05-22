@@ -88,7 +88,7 @@ Para player nuevo: CurseForge tiene cobertura más amplia, buscar cualquier addo
 
 ## Cómo empezar
 
-1. Visitá [curseforge.com/wow](https://www.curseforge.com/wow) y browseá addons populares: WeakAuras, DBM, Plater, Method Dungeon Tools, Details!.
+1. Visita [curseforge.com/wow](https://www.curseforge.com/wow) y navega addons populares: WeakAuras, DBM, Plater, Method Dungeon Tools, Details!.
 
 2. Decidí: app desktop o manual download. Si vas a tener 10+ addons, la app vale la pena pesar de la fricción. Si vas a tener 2-3, manual download es más limpio.
 

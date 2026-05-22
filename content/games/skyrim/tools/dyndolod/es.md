@@ -80,7 +80,7 @@ Cada vez que cambies mods que afectan el world (cells nuevas, ciudades modificad
 2. Corre primero **xLODGen** para terrain LOD. La guía estándar está en `dyndolod.info`.
 3. Baja DynDOLOD desde Nexus + DynDOLOD Resources.
 4. Sigue la guía paso a paso en `dyndolod.info/Help.html` — es la fuente única de verdad.
-5. Primera corrida en preset Medium para validar que el flow funciona, después escalá a High/Ultra.
+5. Primera corrida en preset Medium para validar que el flow funciona, después escala a High/Ultra.
 6. Mueves el output a un mod en MO2.
 7. Lanzas Skyrim y miras el horizonte. Si ves castillos, árboles y ruinas a distancia, funcionó.
 

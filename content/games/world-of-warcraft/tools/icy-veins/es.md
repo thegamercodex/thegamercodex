@@ -62,7 +62,7 @@ Para players nuevos o casuales: Icy Veins. Para Heroic/Mythic raiders que ya con
 
 5. Para PvP: menú **PvP**. Brackets separados (Arena, RBG, BG Blitz).
 
-6. Bookmarkeá las guías que vas a re-leer (post-patch refresh, alt nuevo, etc.).
+6. Bookmarkea las guías que vas a re-leer (post-patch refresh, alt nuevo, etc.).
 
 ## Limitaciones honestas
 
@@ -80,14 +80,14 @@ Para players nuevos o casuales: Icy Veins. Para Heroic/Mythic raiders que ya con
 
 ## Cómo empezar
 
-1. Visitá [icy-veins.com](https://www.icy-veins.com).
+1. Visita [icy-veins.com](https://www.icy-veins.com).
 
 2. Elige tu juego (WoW Retail o Classic).
 
 3. Para la spec que juegas, lee la guía completa una vez (30-45 min). No te preocupes si no entiendes todo a la primera — la idea es tener la estructura mental de qué decisiones implica la spec.
 
-4. Bookmarkeá la guía y vuelve a leerla post-patch o cuando algo no te quede claro.
+4. Bookmarkea la guía y vuelve a leerla post-patch o cuando algo no te quede claro.
 
 5. Para raid del current tier, lee la página overview y las guías de los primeros bosses antes del primer pull.
 
-6. Combiná con Warcraft Logs y/o WoWAnalyzer para verificar que estás aplicando lo que dice la guía en la práctica.
+6. Combina con Warcraft Logs y/o WoWAnalyzer para verificar que estás aplicando lo que dice la guía en la práctica.

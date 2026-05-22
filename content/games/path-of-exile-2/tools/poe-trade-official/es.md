@@ -69,6 +69,6 @@ Si recién empiezas y no entiendes qué mods son relevantes para tu build, el tr
 
 No requiere registro adicional al de PoE — usas tu cuenta del forum. La primera vez que intentes trade, el flow es: encontrar el item en el sitio, click whisper, pegar in-game, esperar invitación, confirmar trade.
 
-Tip de productividad: configurá tus stash tabs como premium (paid) para listar. El sitio espera que uses premium tabs — es la fricción intencional de GGG para monetizar trade. Sin premium tabs, no puedes vender (solo comprar).
+Tip de productividad: configura tus stash tabs como premium (paid) para listar. El sitio espera que uses premium tabs — es la fricción intencional de GGG para monetizar trade. Sin premium tabs, no puedes vender (solo comprar).
 
 Para integrarlo: lo abres cuando vas a comprar gear específico o cuando termina una sesión y quieres listar drops. Para queries rapidísimas en mapeo, Exiled Exchange 2 es más eficiente. El sitio oficial es para operaciones más planificadas.

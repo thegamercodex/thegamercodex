@@ -73,7 +73,7 @@ Mobalytics es excelente como herramienta de mejora estructurada, pero no es lo q
 
 2. Conecta tu Riot ID en la región correspondiente. Espera ~2-3 minutos a que importe partidas y calcule el GPI inicial.
 
-3. Mira tus 8 áreas del GPI. Identificá las 1-2 con score más bajo respecto a tu peer group — esas son tus prioridades reales.
+3. Mira tus 8 áreas del GPI. Identifica las 1-2 con score más bajo respecto a tu peer group — esas son tus prioridades reales.
 
 4. Busca en la sección Academy una guía relacionada con esa área (ej: si tu vision score está bajo, busca guías de warding y vision control).
 

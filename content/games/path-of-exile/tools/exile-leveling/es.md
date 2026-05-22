@@ -26,7 +26,7 @@ Frente a overlays in-game (algunos AHK macros como PoE-Leveling-Guide): Exile Le
 
 **Seguir paso a paso una campaña**: la guía te lista por act qué quests hacer, en qué orden, qué premiar. Marcas done, avanzas.
 
-**Cargar tu PoB y ver passive tree progresivo**: importas tu build de Path of Building y la guía te muestra qué nodo tomar a cada level. Cero ambigüedad de "leveling tree".
+**Cargar tu PoB y ver passive tree progresivo**: Importas tu build de Path of Building y la guía te muestra qué nodo tomar a cada level. Cero ambigüedad de "leveling tree".
 
 **Tracking de skill points y permanent rewards**: alertas explícitas para quests que dan skill points, charges de flask, talent points. No te pierdes ninguna.
 

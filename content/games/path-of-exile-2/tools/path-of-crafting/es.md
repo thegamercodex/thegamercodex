@@ -44,7 +44,7 @@ Si juegas casual y no crafteas (solo equipas drops y compras gear listo), un sim
 
 Si juegas Path of Exile 1, esta herramienta cubre PoE 2 — para PoE 1 hay otras opciones (Craft of Exile, awakened-poe-craft, etc.).
 
-Si esperas interfaz pulida tipo PoE Trade oficial, sabé que Path of Crafting es funcional pero más austero visualmente.
+Si esperas interfaz pulida tipo PoE Trade oficial, debes saber que Path of Crafting es funcional pero más austero visualmente.
 
 ## Cómo se usa en la práctica
 

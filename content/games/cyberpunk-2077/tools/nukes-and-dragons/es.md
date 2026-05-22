@@ -70,4 +70,4 @@ Si planeas builds en español o necesitas localización, Nukes & Dragons es solo
 
 Entras a `nukesdragons.com/cyberpunk-2077/character`. Empiezas moviendo el slider de Body para ver cómo se abren perks; eso te da intuición rápida de cómo funcionan los thresholds. Después armas un build experimental — no importa el resultado, es para familiarizarte con la UI.
 
-Tip: cuando encuentres un build de Reddit/YouTube con URL de Nukes & Dragons, en lugar de leerlo pasivamente, ábrelo, eliminá un perk al azar y ve qué se rompe. Esa exploración activa enseña más sobre interacciones de árboles que cualquier guía pasiva.
+Tip: cuando encuentres un build de Reddit/YouTube con URL de Nukes & Dragons, en lugar de leerlo pasivamente, ábrelo, elimina un perk al azar y ve qué se rompe. Esa exploración activa enseña más sobre interacciones de árboles que cualquier guía pasiva.

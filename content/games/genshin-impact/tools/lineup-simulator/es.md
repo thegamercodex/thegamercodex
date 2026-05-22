@@ -24,7 +24,7 @@ Recomendación: usa Genshin Lab cuando quieras profundidad analítica, Lineup Si
 
 ## Para qué la usa la gente
 
-**Decidir si pullear un personaje nuevo**: quieres saber si Furina realmente brilla en tus comps actuales antes de gastar primogems. Construyes el comp con Furina + tus existentes y comparas con alternativas que ya tienes. Decisión informada.
+**Decidir si pullear un personaje nuevo**: Quieres saber si Furina realmente brilla en tus comps actuales antes de gastar primogems. Construyes el comp con Furina + tus existentes y comparas con alternativas que ya tienes. Decisión informada.
 
 **Optimizar comp para Spiral Abyss del cycle actual**: cada cycle tiene buffs específicos (ej: Hydro damage +75%). Pruebas varios comps que aprovechen el buff y eliges el más viable con tu roster.
 

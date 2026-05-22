@@ -1,7 +1,7 @@
 ---
 title: "Mobalytics D4"
 description: "Hub multi-juego de Mobalytics con sección dedicada a D4: tier lists rápidas, build cards visuales y guías de clase orientadas a casual y mid-core players."
-quickTake: "La alternativa rápida a Maxroll. Cards visuales y compactas para tier lists, builds expresados en formato que escaneás en segundos. Ideal cuando ya sabes D4 y solo quieres actualizar tu meta read del patch nuevo."
+quickTake: "La alternativa rápida a Maxroll. Cards visuales y compactas para tier lists, builds expresados en formato que escaneas en segundos. Ideal cuando ya sabes D4 y solo quieres actualizar tu meta read del patch nuevo."
 ---
 
 ## Qué es
@@ -80,10 +80,10 @@ Para learning, Maxroll. Para quick reference, Mobalytics. Muchos usan ambos.
 
 2. **Tier List** primero — overview cross-class del estado actual.
 
-3. Elegí una clase top-tier que te gusta visualmente.
+3. Elige una clase top-tier que te gusta visualmente.
 
-4. Browseá build cards de esa clase. Clickeá una para detail expanded.
+4. Navega build cards de esa clase. Haz click una para detail expanded.
 
-5. Si la card te convence, considerá cross-checkear con Maxroll para depth antes de invertir en el char.
+5. Si la card te convence, considera cross-checkear con Maxroll para depth antes de invertir en el char.
 
-6. Para uso continuo, bookmark y refrescá weekly durante season activa.
+6. Para uso continuo, bookmark y refresca weekly durante season activa.

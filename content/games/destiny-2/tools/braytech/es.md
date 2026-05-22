@@ -66,4 +66,4 @@ Si no tienes cuenta Bungie.net pública, mucha de la funcionalidad personal est�
 
 ## Cómo empezar
 
-Entra a `bray.tech`. Sin login, navegá vendor inventories de la semana actual. Después linkeá tu Bungie con OAuth y revisa triumphs por seal — encuentras un par que estás cerca de completar y nunca habías notado. Esa es la propuesta de valor: visibility sobre cosas que el juego esconde.
+Entra a `bray.tech`. Sin login, navega vendor inventories de la semana actual. Después enlaza tu Bungie con OAuth y revisa triumphs por seal — encuentras un par que estás cerca de completar y nunca habías notado. Esa es la propuesta de valor: visibility sobre cosas que el juego esconde.

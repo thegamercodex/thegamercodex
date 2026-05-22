@@ -16,7 +16,7 @@ Wabbajack y Mod Organizer 2 no son competidores directos pero responden a la mis
 
 El resultado es **un setup que el autor de la modlist ya probó durante meses**. Los conflicts están resueltos, los parches escritos, los smashed patches generados, el load order ordenado. No tomaste decisiones de modding — tomaste una decisión: cuál modlist te gusta.
 
-**MO2 desde cero** es lo opuesto. Empiezas con MO2 vacío, vas a Nexus, decides qué mods quieres, los instalas uno por uno, corres LOOT para ordenarlos, abres SSEEdit para revisar conflicts, escribes parches manuales o usas Synthesis. La primera modlist seria de un modder toma típicamente entre 40 y 200 horas de research, ensayo y error. Cuando termines, el setup es **tuyo**: entiendes cada decisión y puedes modificar cualquier pieza sabiendo qué se rompe.
+**MO2 desde cero** es lo opuesto. Empiezas con MO2 vacío, vas a Nexus, decides qué mods quieres, los instalas uno por uno, corres LOOT para ordenarlos, abres SSEEdit para revisar conflicts, escribes parches manuales o usas Synthesis. La primera modlist seria de un modder toma típicamente entre 40 y 200 horas de research, ensayo y error. Cuando termines, el setup es **tuyo**: Entiendes cada decisión y puedes modificar cualquier pieza sabiendo qué se rompe.
 
 ## Velocidad de setup
 

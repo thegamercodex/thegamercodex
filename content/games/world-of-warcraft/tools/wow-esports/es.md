@@ -83,9 +83,9 @@ Como source primaria de "cuándo es el próximo torneo y donde lo veo", es el de
 
 ## Cómo empezar
 
-1. Visitá [worldofwarcraft.blizzard.com/en-us/esports](https://worldofwarcraft.blizzard.com/en-us/esports). Familiarizate con los tres formats (MDI, AWC, RWF).
+1. Visita [worldofwarcraft.blizzard.com/en-us/esports](https://worldofwarcraft.blizzard.com/en-us/esports). Familiarizate con los tres formats (MDI, AWC, RWF).
 
-2. Si te interesa MDI: revisa schedule de la temporada actual y bookmarkeá los próximos events.
+2. Si te interesa MDI: revisa schedule de la temporada actual y bookmarkea los próximos events.
 
 3. Si te interesa AWC: similar, schedule + teams clasificados.
 
@@ -93,4 +93,4 @@ Como source primaria de "cuándo es el próximo torneo y donde lo veo", es el de
 
 5. Suscribite al YouTube de WoW Esports para replays oficiales.
 
-6. Para análisis profundo y context, suplementá con Method blog, casters como [Bizurke](https://www.youtube.com/@bizurke), [Yoda](https://www.twitch.tv/yodawowtv), o [Pikaboo](https://www.youtube.com/@Pikaboowow), y community Discords (M+ scene, RWF circles).
+6. Para análisis profundo y context, suplementa con Method blog, casters como [Bizurke](https://www.youtube.com/@bizurke), [Yoda](https://www.twitch.tv/yodawowtv), o [Pikaboo](https://www.youtube.com/@Pikaboowow), y community Discords (M+ scene, RWF circles).

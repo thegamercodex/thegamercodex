@@ -1,7 +1,7 @@
 ---
 title: "Windrose Official Discord"
 description: "Server oficial de Discord de Kraken Express con más de 149,000 miembros. Centro de news, patch notes en tiempo real, soporte directo de devs, channels temáticos (combate, modding, naval, builds) y secciones por idioma."
-quickTake: "El espacio donde realmente vive la comunidad de Windrose. Devs presentes, patch notes en vivo, channels organizados — si solo te unís a un Discord para este juego, es este."
+quickTake: "El espacio donde realmente vive la comunidad de Windrose. Devs presentes, patch notes en vivo, channels organizados — si solo te unes a un Discord para este juego, es este."
 ---
 
 ## Qué es
@@ -35,9 +35,9 @@ Si no quieres notificaciones de Discord, no puedes silenciar todo o tomar discip
 ## Cómo se usa en la práctica
 
 1. Clic en [discord.com/invite/windrose](https://discord.com/invite/windrose).
-2. Aceptá invitation, completá verification rules del server.
+2. Acepta invitation, completa verification rules del server.
 3. Configura notification settings — recomendado mute por default y enable mentions only para no recibir cientos de pings.
-4. Explorá la category list: anuncios, soporte, modding, naval, etc.
+4. Explora la category list: anuncios, soporte, modding, naval, etc.
 5. Para preguntas: post en #helpme con detalles (versión del juego, OS, descripción del problema). Para chat: #general.
 6. Para coordinar co-op: channel LFG-EU/NA/SA según tu region.
 

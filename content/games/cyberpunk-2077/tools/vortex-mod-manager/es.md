@@ -35,7 +35,7 @@ Frente al instalador manual de **CET / RED4ext**: Vortex puede instalarlos tambi
 
 **Gestionar load order**: cuando dos mods conflictan, Vortex detecta el solapamiento y propone ordering. Para Cyberpunk 2077, los conflicts más comunes son entre mods que tocan los mismos archives — Vortex te avisa.
 
-**Switch entre profiles**: puedes tener un profile "vanilla puro", otro "modded ligero con QoL", otro "Edgerunners cosplay total". Cambiar entre ellos es un click en Vortex.
+**Switch entre profiles**: Puedes tener un profile "vanilla puro", otro "modded ligero con QoL", otro "Edgerunners cosplay total". Cambiar entre ellos es un click en Vortex.
 
 **Desinstalar limpio**: cuando un mod te rompe el juego, lo desactivas desde Vortex y todos sus archivos se remueven. Sin orphaned files dispersos.
 
@@ -53,7 +53,7 @@ Si tu hardware es muy modesto, Vortex es una aplicación bastante pesada (Electr
 
 1. Bajas Vortex desde `www.nexusmods.com/site/mods/1` (Nexus Mods website). Es un installer Windows estándar.
 2. La primera vez te pide loguearte con tu cuenta Nexus — necesaria para downloads directos.
-3. Vortex detecta automáticamente tus juegos instalados (Steam, GOG, Epic). Activá "Cyberpunk 2077" como managed game.
+3. Vortex detecta automáticamente tus juegos instalados (Steam, GOG, Epic). Activa "Cyberpunk 2077" como managed game.
 4. A partir de ahí, en Nexus Mods, los mods muestran "Mod Manager Download" — un click descarga y empaqueta en Vortex.
 5. En Vortex, "Mods" lista todo lo que descargaste; "Enable" lo activa (extrae al folder del juego); "Disable" lo deja como archivo gestionado pero no aplicado.
 6. Antes de jugar, "Deploy Mods" sincroniza el state del juego con tu lista en Vortex.
@@ -74,7 +74,7 @@ Si tu hardware es muy modesto, Vortex es una aplicación bastante pesada (Electr
 
 1. Baja Vortex desde `www.nexusmods.com/site/mods/1`.
 2. Instálalo y logueate con tu cuenta Nexus.
-3. Activá Cyberpunk 2077 desde la lista de juegos managed.
+3. Activa Cyberpunk 2077 desde la lista de juegos managed.
 4. Instala manualmente RED4ext y CET primero (Vortex puede pero los frameworks son críticos — recomendado manual).
 5. Después, ve a Nexus y baja un mod simple (ej: Native Settings UI, ya que CET está instalado) usando "Mod Manager Download".
 6. En Vortex, haz clic en "Deploy Mods" después de habilitarlo. Verifica in-game que el mod funciona.

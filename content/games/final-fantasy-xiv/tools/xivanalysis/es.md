@@ -34,11 +34,11 @@ XIVAnalysis no reemplaza FFLogs — depende de él. Pero para análisis post-pul
 
 ## Para qué la usa la gente
 
-**Self-review post-Savage**: terminás un pull, lo subís a FFLogs vía ACT, pegas el link en XIVAnalysis, lees las 5 suggestions, las internalizás para el siguiente pull.
+**Self-review post-Savage**: Terminas un pull, lo subes a FFLogs vía ACT, pegas el link en XIVAnalysis, lees las 5 suggestions, las internalizas para el siguiente pull.
 
 **Coaching asincrónico**: el mentor te manda el link de XIVAnalysis de tu log y te dice "fíjate las suggestions de los slots 2 y 4". Más eficiente que interpretar manualmente.
 
-**Validar rotación nueva**: probás una rotación variante para tu job. XIVAnalysis te dice si rompiste las reglas básicas o si efectivamente funcionó.
+**Validar rotación nueva**: Pruebas una rotación variante para tu job. XIVAnalysis te dice si rompiste las reglas básicas o si efectivamente funcionó.
 
 **Auditar party members**: en static, el raid leader corre los logs de todos por XIVAnalysis y identifica patrones (ej: el SMN consistentemente pierde su 2-minute window).
 
@@ -47,7 +47,7 @@ XIVAnalysis no reemplaza FFLogs — depende de él. Pero para análisis post-pul
 - **Theorycrafters serios**: las sugerencias de XIVAnalysis son útiles pero **no exhaustivas**. Para casos edge, alineaciones de party con buffs únicos, optimización fina — necesitas The Balance.
 - **Jugadores de jobs poco mantenidos**: algunos jobs tienen mejor módulo XIVAnalysis que otros. Si tu job no tiene maintainer activo, las suggestions pueden estar atrasadas vs el patch actual.
 - **Healers que buscan análisis profundo de mitigation**: el módulo de healing en XIVAnalysis es más simple que el de DPS. Para healer optimization detallada, conviene The Balance.
-- **Quien quiere análisis manual y aprender**: si quieres entender vos mismo qué pasó (vs que un bot te lo diga), preferí FFLogs raw + The Balance docs.
+- **Quien quiere análisis manual y aprender**: si quieres entender vos mismo qué pasó (vs que un bot te lo diga), prefiere FFLogs raw + The Balance docs.
 
 ## Cómo se usa en la práctica
 
@@ -55,15 +55,15 @@ XIVAnalysis no reemplaza FFLogs — depende de él. Pero para análisis post-pul
 
 2. Copiá el link de tu fight específico (no del report completo).
 
-3. Pegalo en xivanalysis.com. El sitio procesa unos segundos.
+3. Pégalo en xivanalysis.com. El sitio procesa unos segundos.
 
-4. Resultado: lista de jugadores. Clickeás tu nombre.
+4. Resultado: lista de jugadores. Haces click tu nombre.
 
-5. Revisás las pestañas: **Suggestions** (sugerencias por priority), **About** (overview del job), **Timeline** (visualización), y módulos específicos del job (ej: "Mages" para BLM, "Sword Oath" para PLD).
+5. Revisas las pestañas: **Suggestions** (sugerencias por priority), **About** (overview del job), **Timeline** (visualización), y módulos específicos del job (ej: "Mages" para BLM, "Sword Oath" para PLD).
 
 6. Cada suggestion tiene severity (info / warning / major). Priorizá las major y warning primero.
 
-7. Releé las suggestions y andate al próximo pull con esos puntos en mente.
+7. Releé las suggestions y vete al próximo pull con esos puntos en mente.
 
 ## Limitaciones honestas
 
@@ -83,11 +83,11 @@ XIVAnalysis no reemplaza FFLogs — depende de él. Pero para análisis post-pul
 
 2. Copiá el link directo al fight (URL termina en algo tipo `/reports/abc123#fight=5&type=damage-done`).
 
-3. Pegalo en xivanalysis.com y dale Enter.
+3. Pégalo en xivanalysis.com y dale Enter.
 
-4. Esperá unos segundos. El sitio procesa el log local en tu browser (no hace upload, todo client-side).
+4. Espera unos segundos. El sitio procesa el log local en tu browser (no hace upload, todo client-side).
 
-5. Clickeá tu nombre en la lista. Andá a la pestaña **Suggestions** primero.
+5. Haz click tu nombre en la lista. Anda a la pestaña **Suggestions** primero.
 
 6. Implementá las 2-3 sugerencias más altas en tu siguiente pull. No intentes arreglar todo de una.
 

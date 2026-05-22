@@ -78,7 +78,7 @@ Workflow real: abres la wiki en pestaña paralela al juego. Cuando llegas a algo
 1. Instala uBlock Origin u otro ad blocker antes de visitar Fextralife — ahorrate la experiencia con ads agresivos.
 2. Ve a `cyberpunk2077.wiki.fextralife.com`.
 3. Para tu primera consulta: piensa en algo concreto que tengas in-game pendiente (un side job que no entiendes, un weapon que quieres ubicar) y búscalo. Familiarizate con cómo están estructuradas las pages.
-4. Bookmarkeá la wiki para acceso rápido. La vas a abrir muchas veces durante un playthrough.
+4. Bookmarkea la wiki para acceso rápido. La vas a abrir muchas veces durante un playthrough.
 5. Para searches específicas: googlear "Fextralife cyberpunk [topic]" es más rápido que navegar desde la home. SEO favoreciendo Google se aprovecha.
 
 Tip: para evitar spoilers, **no leas pages de main jobs que no hayas alcanzado todavía** in-game. Para side jobs es safe — son episódicos y ver outcome de uno no spoilea la story principal.

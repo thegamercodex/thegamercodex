@@ -44,7 +44,7 @@ Frente a la app oficial de GGG (PoE Companion, si existiera para PoE 2): no hay 
 
 Si juegas en PC con dos monitores y ya usas un overlay, Exile Companion es redundante.
 
-Si te incomodan los freemium con paywall, sabé que la versión gratis tiene ads y algunas features pueden estar gated. Tres tiers de pago se ofrecen.
+Si te incomodan los freemium con paywall, debes saber que la versión gratis tiene ads y algunas features pueden estar gated. Tres tiers de pago se ofrecen.
 
 Si juegas SSF, no hay trade — la feature más fuerte (OCR price-check) no aplica.
 
@@ -78,6 +78,6 @@ Si tienes un celular muy viejo o cámara de baja calidad, la OCR puede fallar co
 
 Bajas Exile Companion desde App Store o Google Play. Configuras idioma a español si quieres. La primera vez vale explorar las cuatro tabs (items, currency, campaign, waystones) para hacerte idea de qué hace cada una.
 
-Pruebas OCR con un item simple (un magic con dos mods) para validar que la cámara y la luz son suficientes. Si la primera scan funciona bien, el setup está OK; si falla, ajustá la posición del celular respecto al monitor o usa la app en buena luz.
+Pruebas OCR con un item simple (un magic con dos mods) para validar que la cámara y la luz son suficientes. Si la primera scan funciona bien, el setup está OK; si falla, ajusta la posición del celular respecto al monitor o usa la app en buena luz.
 
 Si lo quieres sin ads, evalúa si juegas PoE seguido. El lifetime de $24.99 amortiza si vas a jugar varias leagues; el monthly tiene sentido solo si juegas esporádicamente.

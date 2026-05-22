@@ -15,7 +15,7 @@ El sistema económico de PoE 2 todavía está consolidándose. Algunas dinámica
 
 ## Tipos de trade que cubre cada uno
 
-El sitio oficial brilla para **ítems individuales**: buscas con filtros granulares, encuentras listings, haces whisper, completas el trade in-game. Para el 80% de los trades de un mapper típico esto es todo lo que necesitas.
+El sitio oficial brilla para **ítems individuales**: Buscas con filtros granulares, encuentras listings, haces whisper, completas el trade in-game. Para el 80% de los trades de un mapper típico esto es todo lo que necesitas.
 
 TFT cubre el resto:
 

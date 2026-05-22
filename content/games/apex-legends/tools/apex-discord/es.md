@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends Discord (oficial)"
 description: "Discord server community-run pero endorsed por EA/Respawn con 800,000+ miembros. Hub principal para LFG (looking for group) por región, channels específicos por legend, discusión de patches y feedback directo a developers."
-quickTake: "Si juegas Apex y quieres multiplayer con strangers o discusión meta real-time, este Discord es el destino. LFG funciona bien — encontrá squad en minutos en EU/NA/SA prime time."
+quickTake: "Si juegas Apex y quieres multiplayer con strangers o discusión meta real-time, este Discord es el destino. LFG funciona bien — encuentra squad en minutos en EU/NA/SA prime time."
 ---
 
 ## Qué es
@@ -33,8 +33,8 @@ Si solo juegas casual solo-queue y no quieres meet new people, no agrega valor. 
 ## Cómo se usa en la práctica
 
 1. Clic en [discord.com/invite/apexlegends](https://discord.com/invite/apexlegends).
-2. Aceptá invitation, completá verification rules del server.
-3. Configurá notification settings — mute by default y enable solo para channels específicos (recommendation: silenciar todo excepto LFG de tu region).
+2. Acepta invitation, completa verification rules del server.
+3. Configura notification settings — mute by default y enable solo para channels específicos (recommendation: silenciar todo excepto LFG de tu region).
 4. Para LFG: navega a #lfg-eu (o tu region) y publícala con rank, role, schedule.
 5. Para chat: #general para casual, #patch-discussion post-hotfix, #competitive para serious meta talk.
 
@@ -47,4 +47,4 @@ Si solo juegas casual solo-queue y no quieres meet new people, no agrega valor. 
 
 ## Cómo empezar
 
-Unite vía [discord.com/invite/apexlegends](https://discord.com/invite/apexlegends), aceptá rules. Mute todo excepto el LFG channel de tu region. Observa 1-2 días para entender norms. Cuando estés ready para jugar squad, publícala en LFG con detalles claros (rank, region, hours availability, role preference). Las posts well-formulated reciben pings rápidos.
+Unite vía [discord.com/invite/apexlegends](https://discord.com/invite/apexlegends), acepta rules. Mute todo excepto el LFG channel de tu region. Observa 1-2 días para entender norms. Cuando estés ready para jugar squad, publícala en LFG con detalles claros (rank, region, hours availability, role preference). Las posts well-formulated reciben pings rápidos.

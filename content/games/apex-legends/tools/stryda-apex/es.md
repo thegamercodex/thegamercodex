@@ -21,7 +21,7 @@ Los stats tracker tradicionales asumen que el player es disciplinado: chequea st
 ## Para qué la usa la gente
 
 - **Mantener motivación durante grinding de rank**: las challenges dan progress visible aunque no subas de rank esa semana.
-- **Identificar weakness focada**: si fallás challenges de accuracy repetidamente, sabes qué practicar.
+- **Identificar weakness focada**: si fallas challenges de accuracy repetidamente, sabes qué practicar.
 - **Compete con friends en challenges**: comparar quién completó más weekly challenges entre crew.
 - **Tournament participation**: Stryda corre community tournaments cuyas placements dependen de challenges.
 

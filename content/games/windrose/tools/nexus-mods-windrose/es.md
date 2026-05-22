@@ -25,11 +25,11 @@ Sin un hub centralizado, los mods se distribuyen en Discords, foros y Google Dri
 - **Comparar reviews comunitarios**: comments te dan signal real antes de invertir tiempo en un mod.
 - **Trackear updates**: subscribite a un mod y recibes notif cuando hay nueva versión.
 - **Reportar bugs al author**: comments y posts directos al modder.
-- **Publicar tus propios mods**: si modeás, Nexus es donde la audiencia más grande te encuentra.
+- **Publicar tus propios mods**: si modeas, Nexus es donde la audiencia más grande te encuentra.
 
 ## Para quién NO es esta herramienta
 
-Si no quieres modear el juego, Nexus no agrega valor — quÃ©date vanilla. Si juegas en Mac/Linux/Steam Deck con problemas de mod compatibility, los mods de Nexus pueden no funcionar en tu setup — chequeá Proton compatibility antes.
+Si no quieres modear el juego, Nexus no agrega valor — quÃ©date vanilla. Si juegas en Mac/Linux/Steam Deck con problemas de mod compatibility, los mods de Nexus pueden no funcionar en tu setup — chequea Proton compatibility antes.
 
 ## Cómo se usa en la práctica
 

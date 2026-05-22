@@ -16,7 +16,7 @@ Es completamente gratuita, sin registro necesario, mantenida como proyecto open 
 
 Genshin Impact tiene un sistema de farming complejo con múltiples capas:
 
-**Resin diario limitado**: tienes 160-180 puntos de resin por día (con condensaciones), y cada actividad de farming consume cantidad fija (boss = 40, domain = 20). Una vez gastado, esperas 8 minutos por punto.
+**Resin diario limitado**: Tienes 160-180 puntos de resin por día (con condensaciones), y cada actividad de farming consume cantidad fija (boss = 40, domain = 20). Una vez gastado, esperas 8 minutos por punto.
 
 **Domains rotativos**: los domains de talents y weapons solo dropean ciertos materials específicos según día de la semana. Lunes/Jueves dropean ciertos sets, Martes/Viernes otros, Miércoles/Sábado otros más. Domingos dropean todos.
 

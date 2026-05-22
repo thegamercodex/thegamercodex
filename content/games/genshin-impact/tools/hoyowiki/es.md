@@ -32,7 +32,7 @@ Recomendación: usa HoYoWiki cuando necesites el dato oficial verificado o cuand
 
 **Verificar stats de personajes recién salidos**: cuando hay personaje nuevo en banner, HoYoWiki tiene los stats finales del día 1. Wikis community pueden estar todavía actualizando.
 
-**Buscar materials de ascension específicos**: quieres saber qué necesita Furina para subir a 90. HoYoWiki te lo lista directo sin guías intermedias.
+**Buscar materials de ascension específicos**: Quieres saber qué necesita Furina para subir a 90. HoYoWiki te lo lista directo sin guías intermedias.
 
 **Verificar bonuses de artifact sets**: a veces los set bonuses cambian con balance patches o son ambiguos en descripciones de community wikis. HoYoWiki tiene la descripción oficial del juego.
 

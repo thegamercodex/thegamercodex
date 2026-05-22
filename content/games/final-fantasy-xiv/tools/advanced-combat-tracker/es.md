@@ -54,22 +54,22 @@ En la práctica muchos raiders usan ambos: XIVLauncher para QoL y plugins genera
 
 - **Mac / Linux users**: ACT es Windows native. Funciona en Wine pero es frágil. La mayoría usa una VM Windows o un segundo PC.
 - **Casual players sin raid**: si solo haces MSQ o roulettes, ACT es overkill. Solo agrega complejidad sin beneficio claro.
-- **Quienes temen el ban**: Square Enix oficialmente no tolera ACT — está prohibido en el TOS. En la práctica nunca banean por usarlo (millones de usuarios) pero técnicamente sí violás el TOS. Hay zonas (PvP, alguna que otra alianza) donde no se debe usar overlays visibles.
-- **Setup-averse**: la configuración inicial requiere tocar firewall, allowlist de antivirus (algunos AV flaggean ACT), permisos de red. Si te pone nervioso, considerá si vale el esfuerzo.
+- **Quienes temen el ban**: Square Enix oficialmente no tolera ACT — está prohibido en el TOS. En la práctica nunca banean por usarlo (millones de usuarios) pero técnicamente sí violas el TOS. Hay zonas (PvP, alguna que otra alianza) donde no se debe usar overlays visibles.
+- **Setup-averse**: la configuración inicial requiere tocar firewall, allowlist de antivirus (algunos AV flaggean ACT), permisos de red. Si te pone nervioso, considera si vale el esfuerzo.
 
 ## Cómo se usa en la práctica
 
-1. Descargá ACT desde advancedcombattracker.com.
+1. Descarga ACT desde advancedcombattracker.com.
 
 2. Corré como administrador (necesario para el parser de red).
 
-3. En el menú **Options → Plugins**, instala el **FFXIV ACT Plugin** (link en la doc oficial). Configurá la región (NA/EU/JP) y procesa los archivos del cliente.
+3. En el menú **Options → Plugins**, instala el **FFXIV ACT Plugin** (link en la doc oficial). Configura la región (NA/EU/JP) y procesa los archivos del cliente.
 
-4. Instalá el **FFLogs Uploader** y conectá tu cuenta.
+4. Instala el **FFLogs Uploader** y conecta tu cuenta.
 
 5. Opcional: instala **OverlayPlugin** para overlays en pantalla.
 
-6. Abrí FFXIV, entrá a un encuentro y ACT debería empezar a capturar (vas a ver eventos en el log de ACT).
+6. Abre FFXIV, entra a un encuentro y ACT debería empezar a capturar (vas a ver eventos en el log de ACT).
 
 7. Post-pull: el FFLogs Uploader te avisa que se subió y te da el link.
 
@@ -77,7 +77,7 @@ En la práctica muchos raiders usan ambos: XIVLauncher para QoL y plugins genera
 
 **Solo Windows nativo**: macOS y Linux requieren Wine/CrossOver con setup específico. Frágil ante updates del juego.
 
-**TOS violation técnica**: SE no permite ACT formalmente. Nadie ha sido baneado solamente por usarlo en uso normal, pero técnicamente exponés tu cuenta. No usar en PvP nunca.
+**TOS violation técnica**: SE no permite ACT formalmente. Nadie ha sido baneado solamente por usarlo en uso normal, pero técnicamente expones tu cuenta. No usar en PvP nunca.
 
 **Setup intimidante**: el primer setup puede llevar 30-60 minutos. Errores comunes: firewall block, AV false positive, plugin desactualizado post-patch del juego.
 
@@ -89,16 +89,16 @@ En la práctica muchos raiders usan ambos: XIVLauncher para QoL y plugins genera
 
 ## Cómo empezar
 
-1. Descargá ACT (advancedcombattracker.com) — versión .NET 4.7+ requerida.
+1. Descarga ACT (advancedcombattracker.com) — versión .NET 4.7+ requerida.
 
-2. Seguí la guía oficial de setup del FFXIV plugin paso a paso. No saltees pasos del firewall y AV.
+2. Sigue la guía oficial de setup del FFXIV plugin paso a paso. No saltees pasos del firewall y AV.
 
-3. Configurá FFLogs Uploader con tu API key (la generás en fflogs.com).
+3. Configura FFLogs Uploader con tu API key (la generas en fflogs.com).
 
-4. Probá en un encuentro test (ej: trial roulette). Verificá que el log se captura y se sube.
+4. Prueba en un encuentro test (ej: trial roulette). Verifica que el log se captura y se sube.
 
-5. Una vez funcionando, agregás overlays y triggers según tu rol. Empezá simple: solo DPS overlay primero.
+5. Una vez funcionando, agregas overlays y triggers según tu rol. Empieza simple: solo DPS overlay primero.
 
-6. Para mecánicas avanzadas (Savage / Ultimate triggers), considerá **Cactbot** (plugin separado) que viene con triggers pre-armados de la comunidad.
+6. Para mecánicas avanzadas (Savage / Ultimate triggers), considera **Cactbot** (plugin separado) que viene con triggers pre-armados de la comunidad.
 
-7. Tras updates del juego, primero updateá el FFXIV plugin antes de jugar Savage — si el parser está roto, no se generan logs.
+7. Tras updates del juego, primero actualiza el FFXIV plugin antes de jugar Savage — si el parser está roto, no se generan logs.

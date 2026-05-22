@@ -54,7 +54,7 @@ Si te abruma la cantidad de texto, las páginas largas pueden ser intimidantes. 
 
 1. Abre `en.uesp.net/wiki/Skyrim:Skyrim`.
 2. Usa el search bar (top-right) para buscar específicamente: "Auriel's Bow", "Blood on the Ice", "Skyforge Steel".
-3. Cada page tiene table of contents al inicio — jumpá a la sección relevante.
+3. Cada page tiene table of contents al inicio — salta a la sección relevante.
 4. Para queries amplias (ej: "todas las shouts"), usa las category pages: `Skyrim:Shouts`, `Skyrim:Quests`, `Skyrim:Locations`.
 5. Si encuentras info errónea, puedes editar (la wiki es comunitaria) o reportar en talk pages.
 

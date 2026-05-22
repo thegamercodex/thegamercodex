@@ -1,7 +1,7 @@
 ---
 title: "The Balance"
 description: "Discord no-oficial de theorycraft de FFXIV con guides mantenidas por job leads de la comunidad: openers, rotaciones, sims, BiS sets y meta calls del patch actual."
-quickTake: "The Balance es donde vive el theorycraft serio de FFXIV. Cada job tiene un lead que mantiene la doc canónica (rotación, opener, BiS) y un channel donde se discuten edge cases. Si juegas Savage o Ultimate, te suscribís al Discord aunque sea para read-only."
+quickTake: "The Balance es donde vive el theorycraft serio de FFXIV. Cada job tiene un lead que mantiene la doc canónica (rotación, opener, BiS) y un channel donde se discuten edge cases. Si juegas Savage o Ultimate, te suscribes al Discord aunque sea para read-only."
 ---
 
 ## Qué es
@@ -43,7 +43,7 @@ The Balance es la comunidad activa donde el theorycraft vive y evoluciona. Akhmo
 
 **Resolver dudas específicas**: "¿usar Embolden en 2-min burst o 1-min para esta party comp?" → preguntas en channel, te responden lead o un veteran.
 
-**Compartir tu log para coaching**: postás tu log de FFLogs en el channel del job, pedís feedback. Lead o experienced player responde con sugerencias.
+**Compartir tu log para coaching**: Publicas tu log de FFLogs en el channel del job, pides feedback. Lead o experienced player responde con sugerencias.
 
 **Static y world race**: muchos top raiders están activos en The Balance. Discusión de strats world race se hace acá.
 
@@ -57,11 +57,11 @@ The Balance es la comunidad activa donde el theorycraft vive y evoluciona. Akhmo
 
 ## Cómo se usa en la práctica
 
-1. Andá a [thebalanceffxiv.com](https://www.thebalanceffxiv.com), click "Join Discord". Aceptás invite.
+1. Anda a [thebalanceffxiv.com](https://www.thebalanceffxiv.com), click "Join Discord". Aceptás invite.
 
 2. Pasás por verification (typical: react to message + accept rules).
 
-3. Andá al channel de tu job. Lee pinned messages — esa es la guide canónica.
+3. Anda al channel de tu job. Lee pinned messages — esa es la guide canónica.
 
 4. Si quieres discusión, opt-in a #role-yourjob via bot. Eso te da access a discussion channels.
 
@@ -87,11 +87,11 @@ The Balance es la comunidad activa donde el theorycraft vive y evoluciona. Akhmo
 
 ## Cómo empezar
 
-1. Andá a [thebalanceffxiv.com](https://www.thebalanceffxiv.com) o directly al [Discord invite](https://discord.gg/thebalanceffxiv).
+1. Anda a [thebalanceffxiv.com](https://www.thebalanceffxiv.com) o directly al [Discord invite](https://discord.gg/thebalanceffxiv).
 
 2. Pasá verification (rules, reaction).
 
-3. Identificá tu job. Andá al channel correspondiente.
+3. Identifica tu job. Anda al channel correspondiente.
 
 4. Lee los pinned messages — guide del job, opener, rotation, BiS link a Etro.
 
@@ -99,6 +99,6 @@ The Balance es la comunidad activa donde el theorycraft vive y evoluciona. Akhmo
 
 6. Para Savage / Ultimate, sub a los channels del content específico.
 
-7. Para postear preguntas: lee channels primero, formulá específico. "Por qué Embolden a 30s vs 90s en X party comp" recibe mejor respuesta que "How play this job?".
+7. Para postear preguntas: lee channels primero, formula específico. "Por qué Embolden a 30s vs 90s en X party comp" recibe mejor respuesta que "How play this job?".
 
-8. El website (thebalanceffxiv.com) tiene index de guides scrapeables si preferís lectura ordered. Pero la real discusión vive en Discord.
+8. El website (thebalanceffxiv.com) tiene index de guides scrapeables si prefieres lectura ordered. Pero la real discusión vive en Discord.

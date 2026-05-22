@@ -70,6 +70,6 @@ Abres nmsassistant.com en el browser para probar sin instalación. Buscas algo q
 
 Si te gusta, instalas la app nativa que prefieras (iOS, Android, Windows) — la versión nativa tiene modo offline después del primer download, lo cual es valioso si juegas sin internet o con conexión inestable.
 
-Configuras el idioma a español si quieres en Settings. Activas notificaciones solo si quieres alertas de Weekend Missions y eventos comunitarios; de lo contrario desactivá para mantenerlo silencioso.
+Configuras el idioma a español si quieres en Settings. Activas notificaciones solo si quieres alertas de Weekend Missions y eventos comunitarios; de lo contrario desactiva para mantenerlo silencioso.
 
 Cuando arranque la próxima expedition, abres la sección Expeditions y sigues la ruta optimizada que la comunidad pública desde el día uno.

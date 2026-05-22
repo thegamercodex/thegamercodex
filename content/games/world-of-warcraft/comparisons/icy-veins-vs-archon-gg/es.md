@@ -3,11 +3,11 @@ title: Icy Veins vs Archon.gg — guías editoriales vs data agregada del top
 description: Comparativa corta entre el portal de guides escritos histórico y el sitio data-driven con percentages del top 1%. Prosa pedagogical accesible vs raw data community-current, learning vs optimization, beginner-friendly vs experienced players.
 ---
 
-Para guías de WoW hay dos approaches editoriales fundamentalmente distintos. **Icy Veins** lleva guías escritas desde 2010 con prosa exhaustiva-pero-accesible: lee un guide y entendés por qué cada decisión es óptima. **Archon.gg** es data-driven: agrega logs del top 1% de cada spec y te muestra percentages — qué corre la gente que está performing mejor.
+Para guías de WoW hay dos approaches editoriales fundamentalmente distintos. **Icy Veins** lleva guías escritas desde 2010 con prosa exhaustiva-pero-accesible: lee un guide y entiendes por qué cada decisión es óptima. **Archon.gg** es data-driven: agrega logs del top 1% de cada spec y te muestra percentages — qué corre la gente que está performing mejor.
 
 ## Prosa pedagogical vs raw data
 
-Icy Veins es un guide en sentido tradicional. Un beginner entra a la página de su spec, lee desde "rotation básica" hasta "advanced techniques" en orden lineal. La prosa justifica cada decisión: "X talent es óptimo porque mejora tu burst window de Y segundos cuando combo'eás con Z buff". El reader sale con framework, no solo data points.
+Icy Veins es un guide en sentido tradicional. Un beginner entra a la página de su spec, lee desde "rotation básica" hasta "advanced techniques" en orden lineal. La prosa justifica cada decisión: "X talent es óptimo porque mejora tu burst window de Y segundos cuando combinas con Z buff". El reader sale con framework, no solo data points.
 
 Archon es el modelo opuesto. Mostra tables y charts: este talent build tiene 73% representation en top 100 Mythic, este stat distribution es la mediana del top 1%, este weapon enchant lo corre el 91%. Sin prosa que justifique — solo data agregada.
 

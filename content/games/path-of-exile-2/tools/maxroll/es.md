@@ -64,4 +64,4 @@ Si necesitas data primaria (mod weights, exact damage formulas, drop rates), Max
 
 No requiere registro. Vas a `maxroll.gg/poe2`. Si arrancas un personaje, abre la Tier List y ordenas por "Best League Start" o "Best for Beginners". Lees la guía top-to-bottom una vez antes de jugar; tienes la pestaña abierta mientras levelas para consultas rápidas.
 
-Para integrarlo a tu workflow: bookmarkeá la sección de builds de tu clase favorita y revisas cada vez que cambia la liga. Maxroll no necesita visita diaria — su valor es como referencia editada, no como timeline.
+Para integrarlo a tu workflow: bookmarkea la sección de builds de tu clase favorita y revisas cada vez que cambia la liga. Maxroll no necesita visita diaria — su valor es como referencia editada, no como timeline.

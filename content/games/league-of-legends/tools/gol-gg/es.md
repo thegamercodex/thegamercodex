@@ -65,7 +65,7 @@ Gol.gg es excelente para análisis pro, pero no es lo que necesitas si:
 
 6. Filtros disponibles: por liga, por temporada, por rol, por champion específico.
 
-Para uso recurrente: bookmarkeá las URLs de torneos que sigues. Las páginas se actualizan en tiempo casi-real durante eventos.
+Para uso recurrente: bookmarkea las URLs de torneos que sigues. Las páginas se actualizan en tiempo casi-real durante eventos.
 
 ## Limitaciones honestas
 
@@ -89,6 +89,6 @@ Para uso recurrente: bookmarkeá las URLs de torneos que sigues. Las páginas se
 
 4. Si quieres entender una métrica específica (ej: "qué significa exactamente kill participation"), busca un explainer externo (Reddit r/leagueoflegends o r/summonerschool tienen threads pedagógicos).
 
-5. Para análisis propios serios o investigación periodística, complementá con Oracle's Elixir — los datasets descargables permiten queries que la web nativa no soporta.
+5. Para análisis propios serios o investigación periodística, complementa con Oracle's Elixir — los datasets descargables permiten queries que la web nativa no soporta.
 
 6. Para histórico de equipos/jugadores no analítico (rosters, achievements, fechas), Leaguepedia es la fuente complementaria.

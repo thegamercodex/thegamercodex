@@ -48,7 +48,7 @@ Si tu OS no soporta Java o no quieres instalarlo, goatfungus te obliga a tener J
 
 1. Vas a github.com/goatfungus/NMSSaveEditor/releases y bajas el JAR de la última release (typical filename: `NMSSaveEditor.jar`).
 2. Asegúrate de tener Java 11+ instalado (`java -version` para verificar).
-3. Doble click al JAR o ejecutá `java -jar NMSSaveEditor.jar` desde terminal.
+3. Doble click al JAR o ejecuta `java -jar NMSSaveEditor.jar` desde terminal.
 4. Apuntas al archivo de save (Open → seleccionas el save_X.hg de la carpeta de NMS).
 5. Tabs: Inventory, Multi-tools, Ships, Exocraft, Freighter, Frigates, Bases, Stats. Editas lo que quieres.
 6. File → Save. El editor sobrescribe el save.

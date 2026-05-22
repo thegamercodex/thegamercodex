@@ -26,7 +26,7 @@ Frente a la pestaña Career oficial, Raid Report gana en granularidad y velocida
 
 **Validar experiencia para LFG**: antes de invitar a un jugador a tu fireteam, pegas su ID y revisas cuántos clears tiene de la raid en cuestión.
 
-**Buscar sherpas**: filtras por sherpa count para encontrar jugadores que llevan rookies. Útil cuando tú eres el rookie y quieres a alguien con paciencia comprobada.
+**Buscar sherpas**: Filtras por sherpa count para encontrar jugadores que llevan rookies. Útil cuando tú eres el rookie y quieres a alguien con paciencia comprobada.
 
 **Tracking de tu propio progreso**: cuántos clears llevas de cada raid, cuál es tu fastest, quiénes han sido tus fireteam mates más frecuentes.
 

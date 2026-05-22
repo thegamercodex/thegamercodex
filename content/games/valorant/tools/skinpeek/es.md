@@ -68,4 +68,4 @@ Si no usas Discord, pierdes la mejor feature (bot notifications). La web sigue s
 
 ## Cómo empezar
 
-Si te interesan skins: agregá el bot a tu Discord server, configurá wishlist con 5-10 skins que querrías. En 1-2 semanas vas a ver el primer ping cuando una aparezca. Sin friction adicional. Si no usas Discord pero quieres web viewer, la página `skinpeek.com` te lleva al mismo lookup.
+Si te interesan skins: agrega el bot a tu Discord server, configura wishlist con 5-10 skins que querrías. En 1-2 semanas vas a ver el primer ping cuando una aparezca. Sin friction adicional. Si no usas Discord pero quieres web viewer, la página `skinpeek.com` te lleva al mismo lookup.

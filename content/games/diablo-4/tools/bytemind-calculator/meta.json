@@ -2,7 +2,7 @@
   "id": "bytemind-calculator",
   "name": "Bytemind D4 Damage & Defense Calculator",
   "shortName": "Bytemind Calc",
-  "taglineEs": "Calculator comprensivo de damage y defense: inputás stats, gear y aspects, te devuelve damage scaling exact y survivability projections — favorita de theorycrafters",
+  "taglineEs": "Calculator comprensivo de damage y defense: introduces stats, gear y aspects, te devuelve damage scaling exact y survivability projections — favorita de theorycrafters",
   "taglineEn": "Comprehensive damage and defense calculator: input stats, gear, and aspects, receive exact damage scaling and survivability projections — favorite of theorycrafters",
   "url": "https://bytemind-de.github.io/apps/d4/",
   "category": "build-planning",

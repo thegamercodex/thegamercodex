@@ -66,4 +66,4 @@ Si tu interés es PvP (Crucible, Trials), The100 cubre menos esos modos. Trials 
 
 ## Cómo empezar
 
-Sign up con tu Bungie ID. Joineá un par de groups de tu región/idioma con buen activity (>500 miembros). Para tu primer raid, aplicá a uno scheduled en lugar de postear tú mismo — ver el flujo desde el lado del aplicante es la mejor introducción. Después de un par de runs, postear tus propios games se vuelve natural.
+Sign up con tu Bungie ID. Joineá un par de groups de tu región/idioma con buen activity (>500 miembros). Para tu primer raid, aplica a uno scheduled en lugar de postear tú mismo — ver el flujo desde el lado del aplicante es la mejor introducción. Después de un par de runs, postear tus propios games se vuelve natural.

@@ -20,7 +20,7 @@ Para players intermedios queriendo dar el salto a alto-elo, donde la diferencia 
 
 Frente a KovaaK's (su rival principal), Aim Lab gana en **accesibilidad** — es free, está en Steam y Epic, y la UI es más amigable. KovaaK's gana en **profundidad de scenarios** — tiene una librería community-made enorme, más sentido para grinders serios.
 
-La regla práctica de la comunidad: empieza con Aim Lab si nunca aim-trainaste. Si te enganchas y quieres más profundidad, migrá a KovaaK's.
+La regla práctica de la comunidad: empieza con Aim Lab si nunca aim-trainaste. Si te enganchas y quieres más profundidad, migra a KovaaK's.
 
 Frente al range del propio Valorant, Aim Lab tiene métricas precisas y feedback estructurado que el range no da.
 
@@ -66,4 +66,4 @@ Si ya tienes rutina con KovaaK's y te funciona, migrar a Aim Lab no es necesario
 
 ## Cómo empezar
 
-Bajas Aim Lab desde Steam. Configuras sensitivity matching Valorant (calculator dentro de la app). Pruebas "Spidershot Precision" 5 minutos. Si te engancha, agregá una rutina de 10-15 min antes de queue. En 4-6 semanas de uso consistente, deberías notar diferencia en duels rápidos.
+Bajas Aim Lab desde Steam. Configuras sensitivity matching Valorant (calculator dentro de la app). Pruebas "Spidershot Precision" 5 minutos. Si te engancha, agrega una rutina de 10-15 min antes de queue. En 4-6 semanas de uso consistente, deberías notar diferencia en duels rápidos.

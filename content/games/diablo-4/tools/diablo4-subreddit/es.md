@@ -59,7 +59,7 @@ Reddit es archivo + discussion thread. Discord es conversation en vivo. Ambos v√
 
 3. Filter post flair: "Discussion", "Bug Report", "Build", "Meme", "News".
 
-4. Para reacciones a balance: filtr√° post-patch posts ordered by hot.
+4. Para reacciones a balance: filtra post-patch posts ordered by hot.
 
 5. Comments are typically informative aunque varied.
 
@@ -89,4 +89,4 @@ Reddit es archivo + discussion thread. Discord es conversation en vivo. Ambos v√
 
 5. Para posting: empieza con comments en threads existentes antes de submit your own.
 
-6. Use r/diablo4 como pulse + community, complement√° con Maxroll para curated quality + Discord oficial para Blizzard interaction.
+6. Use r/diablo4 como pulse + community, complementa con Maxroll para curated quality + Discord oficial para Blizzard interaction.

@@ -104,12 +104,12 @@ Para player nuevo o casual: empezar con CurseForge por catálogo. Para player qu
 
 ## Cómo empezar
 
-1. Visitá [wago.io](https://wago.io) y browse WeakAuras de tu spec actual. Importa una o dos para ver el flujo.
+1. Visita [wago.io](https://wago.io) y browse WeakAuras de tu spec actual. Importa una o dos para ver el flujo.
 
 2. Si tienes WAs popular instalados, instala **Companion** addon via [addons.wago.io/addons/wago-app](https://addons.wago.io/addons/wago-app) o desde CurseForge — agrega notification de updates.
 
 3. Para addon manager: descarga Wago App si quieres alternativa a CurseForge / Overwolf.
 
-4. Combiná con CurseForge cuando tu addon de necesidad no esté en Wago — no es exclusividad, son herramientas complementarias.
+4. Combina con CurseForge cuando tu addon de necesidad no esté en Wago — no es exclusividad, son herramientas complementarias.
 
 5. Si tú creas WAs, publicalos en Wago — community sharing es parte fundamental del ecosystem WoW addon.

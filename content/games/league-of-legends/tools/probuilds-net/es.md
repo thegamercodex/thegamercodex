@@ -65,7 +65,7 @@ Probuilds.net es excelente para una función específica, pero no es lo que nece
 
 6. Sección "Pros" lista todos los jugadores tracked, agrupados por equipo/liga.
 
-Para uso recurrente: bookmarkeá la URL de tu champion main para ver builds recientes en cada visita.
+Para uso recurrente: bookmarkea la URL de tu champion main para ver builds recientes en cada visita.
 
 ## Limitaciones honestas
 
@@ -83,12 +83,12 @@ Para uso recurrente: bookmarkeá la URL de tu champion main para ver builds reci
 
 1. Vas a `probuilds.net`. Sin registro.
 
-2. Busca tu champion main. Mira las últimas 5-10 partidas de pros — notá patrones (¿qué item building primero? ¿qué runa secundaria predominó?).
+2. Busca tu champion main. Mira las últimas 5-10 partidas de pros — nota patrones (¿qué item building primero? ¿qué runa secundaria predominó?).
 
-3. Compará lo que ves con lo que recomienda U.GG para tu rango. Si hay diferencia consistente, esa es señal de que el meta está evolucionando o de que pros están explorando algo distinto.
+3. Compara lo que ves con lo que recomienda U.GG para tu rango. Si hay diferencia consistente, esa es señal de que el meta está evolucionando o de que pros están explorando algo distinto.
 
-4. Para pro favorito: filtrá por su nombre y mira sus últimas 20 partidas para ver su rotación de picks y builds.
+4. Para pro favorito: filtra por su nombre y mira sus últimas 20 partidas para ver su rotación de picks y builds.
 
 5. Cuando salga un patch nuevo, vuelve a Probuilds.net en los primeros días — los pros suelen experimentar antes que la comunidad agregada estabilice. Es la ventana donde Probuilds.net aporta más valor diferencial.
 
-6. No copies builds ciegamente sin entender por qué — completá con análisis editorial (Lolalytics para el porqué estadístico, guías de coaches para el porqué táctico).
+6. No copies builds ciegamente sin entender por qué — completa con análisis editorial (Lolalytics para el porqué estadístico, guías de coaches para el porqué táctico).

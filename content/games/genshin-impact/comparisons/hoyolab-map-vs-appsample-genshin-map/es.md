@@ -17,7 +17,7 @@ Si estás explorando una región recién lanzada, HoYoLAB Map es la elección ob
 
 Acá la situación se invierte. HoYoLAB requiere login con cuenta HoYoverse para guardar progreso, y el tracking se sincroniza con tu UID — útil pero más friction.
 
-AppSample guarda tu progreso en **local storage del navegador**: marcas un chest como recolectado, queda marcado, sin cuenta ni sincronización. Trade-off: si cambias de navegador o limpias cache, pierdes el progreso. Pero para una sesión típica de exploración o farming weekly, no requiere login y es más rápido.
+AppSample guarda tu progreso en **local storage del navegador**: Marcas un chest como recolectado, queda marcado, sin cuenta ni sincronización. Trade-off: si cambias de navegador o limpias cache, pierdes el progreso. Pero para una sesión típica de exploración o farming weekly, no requiere login y es más rápido.
 
 ## UI y performance
 

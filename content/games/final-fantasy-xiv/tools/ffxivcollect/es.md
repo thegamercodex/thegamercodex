@@ -29,7 +29,7 @@ FFXIV Collect resuelve:
 
 - **Completion stats**: te dice "tienes X de Y" para cada category.
 - **Missing items con source**: lista lo que te falta con info de cómo conseguirlo.
-- **Cross-account comparison**: comparás tu collection con un amigo.
+- **Cross-account comparison**: comparas tu collection con un amigo.
 - **Achievement hunting paths**: te muestra qué actividades te dan completion bonuses.
 
 Para completionists, es indispensable. Sin esto, hunting collectibles es a ciegas.
@@ -47,15 +47,15 @@ EC te muestra lo que existe y se ve bonito. FFXIV Collect te dice qué tienes y 
 
 **Filtrar lo que necesitas**: filtros por source (raid drop, FATE, quest, event). Te dice qué hacer next para subir completion.
 
-**Compare collections con amigos**: linkeás tu char y el de un amigo, ven side-by-side qué cada uno tiene.
+**Compare collections con amigos**: Enlazas tu char y el de un amigo, ven side-by-side qué cada uno tiene.
 
 **Pre-event reminder**: cuando hay seasonal event con cosméticos limited (Heavensturn, Hatching-tide), FFXIV Collect te avisa qué te falta.
 
-**Veterans' show-off**: si tienes colleccion big, FFXIV Collect es donde mostrás el high completion %.
+**Veterans' show-off**: si tienes colleccion big, FFXIV Collect es donde muestras el high completion %.
 
 ## Para quién NO es esta herramienta
 
-- **Players no completionist**: si no te interesa "tener todo", el tracking no aporta. Jugá lo que te divierte sin pensarlo.
+- **Players no completionist**: si no te interesa "tener todo", el tracking no aporta. Juega lo que te divierte sin pensarlo.
 - **Quien quiere inspiración glamour**: para eso Eorzea Collection.
 - **Free Trial players**: tu account está limited y Lodestone visibility puede ser restricted.
 - **JP region players**: aunque funciona en JP, la community es predominantemente EN/EU.
@@ -63,9 +63,9 @@ EC te muestra lo que existe y se ve bonito. FFXIV Collect te dice qué tienes y 
 
 ## Cómo se usa en la práctica
 
-1. Andá a [ffxivcollect.com](https://ffxivcollect.com).
+1. Anda a [ffxivcollect.com](https://ffxivcollect.com).
 
-2. Click "Add Character" → ingresá Lodestone ID (numerico, encontrable en tu Lodestone profile URL).
+2. Click "Add Character" → ingresa Lodestone ID (numerico, encontrable en tu Lodestone profile URL).
 
 3. FFXIV Collect scrapea Lodestone (toma 1-2 minutos para chars con collection grande).
 
@@ -75,7 +75,7 @@ EC te muestra lo que existe y se ve bonito. FFXIV Collect te dice qué tienes y 
 
 6. Filtros: por source type (raid, quest, event, store), expansion, etc.
 
-7. Para tracking continuo, re-sync cada 1-2 weeks o cuando agregás new items.
+7. Para tracking continuo, re-sync cada 1-2 weeks o cuando agregas new items.
 
 ## Limitaciones honestas
 
@@ -89,22 +89,22 @@ EC te muestra lo que existe y se ve bonito. FFXIV Collect te dice qué tienes y 
 
 **Single maintainer**: Joshua mantiene solo. Sin team, updates pueden tardar. Históricamente activo.
 
-**Sin notifications nativas**: no te avisa cuando un new item se agrega al game (post-patch). Tenés que re-check manualmente.
+**Sin notifications nativas**: no te avisa cuando un new item se agrega al game (post-patch). Tienes que re-check manualmente.
 
 ## Cómo empezar
 
-1. Andá a [ffxivcollect.com](https://ffxivcollect.com).
+1. Anda a [ffxivcollect.com](https://ffxivcollect.com).
 
 2. Find your Lodestone ID: ve a tu Lodestone profile, el URL ends con un numérico ID. Copialo.
 
 3. En FFXIV Collect, "Add Character" → paste ID → submit.
 
-4. Esperá scrape (1-2 min). Tu dashboard aparece.
+4. Espera scrape (1-2 min). Tu dashboard aparece.
 
-5. Browseá las categories que te interesen. Filtrá por "Not Owned" para focus en hunting list.
+5. Navega las categories que te interesen. Filtra por "Not Owned" para focus en hunting list.
 
 6. Cuando consigas un new item, re-sync manualmente para update.
 
-7. Para comparison con friends: shareá tu char URL en FFXIV Collect; ellos pueden comparar sin login (si su collection es public en Lodestone).
+7. Para comparison con friends: comparte tu char URL en FFXIV Collect; ellos pueden comparar sin login (si su collection es public en Lodestone).
 
 8. Combinar con Eorzea Collection para discovery + glamour planning, FFXIV Collect para accounting de tu propio progress.

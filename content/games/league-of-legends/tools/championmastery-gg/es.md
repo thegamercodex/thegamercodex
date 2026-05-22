@@ -53,7 +53,7 @@ ChampionMastery.gg cubre una función muy específica. No es lo que necesitas si
 
 5. Búsqueda de summoner: ingresas Riot ID y región; la tool importa data desde la API de Riot.
 
-Para uso recurrente: bookmarkeá tu propio perfil para tracking, y los leaderboards de tus champions main para chequear evolución cada cierto tiempo.
+Para uso recurrente: bookmarkea tu propio perfil para tracking, y los leaderboards de tus champions main para chequear evolución cada cierto tiempo.
 
 ## Limitaciones honestas
 

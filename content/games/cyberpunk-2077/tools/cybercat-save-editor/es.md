@@ -74,7 +74,7 @@ Si quieres modificar entities del game (NPCs, world state), CyberCAT no llega ta
 
 1. Antes de bajar CyberCAT, asegúrate de tener una copia backup limpia de tu save. **Copia toda la carpeta `Saved Games\CD Projekt Red\Cyberpunk 2077\` a otro disk o cloud**.
 2. Baja la última release desde GitHub (o Nexus). Extrae el zip.
-3. Ejecutá `CP2077SaveEditor.exe`. La UI abre.
+3. Ejecuta `CP2077SaveEditor.exe`. La UI abre.
 4. File → Open → navega hasta tu save folder → eligí el `sav.dat` que quieras editar.
 5. Haz un cambio mínimo primero (ej: agregar 10 eddies). Salvalo. Carga in-game para verificar que el save sigue funcional.
 6. Después de validar que el flow funciona, haces tus cambios reales.

@@ -10,7 +10,7 @@ Eorzea Collection (ffxiv.eorzeacollection.com) es un catálogo online de glamour
 
 Funcionalidades:
 
-- **Catálogo navegable**: explorás por job, raza, género, gear tier.
+- **Catálogo navegable**: Exploras por job, raza, género, gear tier.
 - **Filtros granulares**: por job (todos los DoW/DoM/DoH/DoL), por raza (Au Ra, Viera, etc.), por gear ilvl, por color theme.
 - **Builds por user**: cada glamourist tiene perfil con sus builds, followers.
 - **Items info**: cada item linkea a su Lodestone entry o equivalente.
@@ -43,11 +43,11 @@ EC es inspiración y discovery. FFXIV Collect es accounting de tu progreso. Comp
 
 ## Para qué la usa la gente
 
-**Inspiración de glamour**: estás bored del look actual de tu char. Scrolleás EC, salvás builds que te gustan, recreás.
+**Inspiración de glamour**: estás bored del look actual de tu char. Haces scroll EC, guardas builds que te gustan, recreas.
 
 **Verificar cómo se ve un item**: vas a craftear una piece nueva. ¿Cómo se ve realmente en game? En EC buscas builds que la usen.
 
-**Color matching de dyes**: te gusta una combinación de dyes que viste en EC. Copiás el setup exacto.
+**Color matching de dyes**: te gusta una combinación de dyes que viste en EC. Copias el setup exacto.
 
 **Race/gender comparisons**: armor cae diferente en cada raza. EC tiene builds para múltiples razas, puedes comparar.
 
@@ -63,9 +63,9 @@ EC es inspiración y discovery. FFXIV Collect es accounting de tu progreso. Comp
 
 ## Cómo se usa en la práctica
 
-1. Andá a [ffxiv.eorzeacollection.com](https://ffxiv.eorzeacollection.com).
+1. Anda a [ffxiv.eorzeacollection.com](https://ffxiv.eorzeacollection.com).
 
-2. Top filters: job, raza, género, gear tier. Filtrá por lo que quieres.
+2. Top filters: job, raza, género, gear tier. Filtra por lo que quieres.
 
 3. Browseás el grid de builds. Cada thumbnail es una screenshot.
 
@@ -73,13 +73,13 @@ EC es inspiración y discovery. FFXIV Collect es accounting de tu progreso. Comp
 
 5. Para guardar: login y "favorite" los builds que te gustan.
 
-6. Para recrear in-game: vas pieza por pieza, las consigás (drops, market, vendor), y aplicás dyes.
+6. Para recrear in-game: vas pieza por pieza, las consigas (drops, market, vendor), y aplicas dyes.
 
 7. Si quieres postear tu propio: login y "Submit Build" con screenshots y item list. Otros users votan.
 
 ## Limitaciones honestas
 
-**Calidad inconsistente**: como user-generated, algunos builds tienen screenshots excelentes y otros mediocres. Filtrá por popular si quieres calidad consistent.
+**Calidad inconsistente**: como user-generated, algunos builds tienen screenshots excelentes y otros mediocres. Filtra por popular si quieres calidad consistent.
 
 **Recurring meta limited**: builds posted suelen reciclar mismos pieces populares. Variedad real existe pero hay que cavar.
 
@@ -93,13 +93,13 @@ EC es inspiración y discovery. FFXIV Collect es accounting de tu progreso. Comp
 
 ## Cómo empezar
 
-1. Andá a [ffxiv.eorzeacollection.com](https://ffxiv.eorzeacollection.com). No requires login para browse.
+1. Anda a [ffxiv.eorzeacollection.com](https://ffxiv.eorzeacollection.com). No requires login para browse.
 
-2. Filtrá por tu job/raza/género. Browseás top voted builds.
+2. Filtra por tu job/raza/género. Browseás top voted builds.
 
 3. Cuando veas uno que te gusta, click para detail. Note la lista de items.
 
-4. Verificá si tienes acceso a los items (algunos requieren raid clear, otros craft, otros market).
+4. Verifica si tienes acceso a los items (algunos requieren raid clear, otros craft, otros market).
 
 5. Para tracking: optional registrate y "favorite" los builds. Acumulás tu wishlist.
 

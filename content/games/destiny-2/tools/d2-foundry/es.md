@@ -64,4 +64,4 @@ Si tu interés es lore, cosméticos o seguimiento de progresión, este sitio no 
 
 ## Cómo empezar
 
-Entra a `d2foundry.gg`, busca un arma que uses (idealmente con god roll que ya conozcas), y configurá los perks. Cambia el target entre Major y Boss para ver cómo escala. Prueba un perk alternative (ej: Frenzy vs Multikill Clip) y observa el delta. En 15 minutos la interfaz hace clic.
+Entra a `d2foundry.gg`, busca un arma que uses (idealmente con god roll que ya conozcas), y configura los perks. Cambia el target entre Major y Boss para ver cómo escala. Prueba un perk alternative (ej: Frenzy vs Multikill Clip) y observa el delta. En 15 minutos la interfaz hace clic.

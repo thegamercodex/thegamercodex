@@ -18,14 +18,14 @@
       "labelEs": "Gestionar dedicated server remoto hosted en g-portal o low.ms",
       "labelEn": "Manage remote dedicated server hosted on g-portal or low.ms",
       "winner": "windrose-mod-manager",
-      "reasonEs": "CertiFried tiene soporte nativo de SFTP/FTP para deploy de mods al server remoto. Vercadi no maneja remote — quedás haciendo upload manual via FileZilla, lo cual mata el value-add del manager.",
+      "reasonEs": "CertiFried tiene soporte nativo de SFTP/FTP para deploy de mods al server remoto. Vercadi no maneja remote — quedas haciendo upload manual via FileZilla, lo cual mata el value-add del manager.",
       "reasonEn": "CertiFried has native SFTP/FTP support to deploy mods to the remote server. Vercadi doesn't handle remote — you'd be doing manual upload via FileZilla, which kills the manager's value-add."
     },
     {
       "labelEs": "Auditar el código del manager antes de darle filesystem/network access",
       "labelEn": "Audit the manager code before granting filesystem/network access",
       "winner": "vercadi-mod-manager",
-      "reasonEs": "Vercadi está open source en GitHub — leés exactamente qué hace antes de instalarlo. CertiFried es closed source: hay que confiar en el author sin verification.",
+      "reasonEs": "Vercadi está open source en GitHub — lees exactamente qué hace antes de instalarlo. CertiFried es closed source: hay que confiar en el author sin verification.",
       "reasonEn": "Vercadi is open source on GitHub — you read exactly what it does before installing. CertiFried is closed source: you have to trust the author without verification."
     },
     {

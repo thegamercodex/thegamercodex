@@ -26,7 +26,7 @@ Frente a **r/NMSCoordinateExchange**: el subreddit es la versión foro/social �
 
 ## Para qué la usa la gente
 
-**Encontrar ships exóticos clase-S específicos**: quieres un Squid o un Solar Sailer con paleta hermosa — buscas en NMSCE por categoría "Exotic Ship", filtras por galaxia, copias coordenadas.
+**Encontrar ships exóticos clase-S específicos**: Quieres un Squid o un Solar Sailer con paleta hermosa — buscas en NMSCE por categoría "Exotic Ship", filtras por galaxia, copias coordenadas.
 
 **Buscar planetas con biomas o glitches específicos**: tipo glitch planets (con minerales gigantes), planetas paraíso con fauna rara, planetas exóticos con cielo morado/colores anormales.
 

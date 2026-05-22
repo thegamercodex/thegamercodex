@@ -1,7 +1,7 @@
 ---
 title: "Mogboard"
 description: "Frontend alternativo del market board cross-world de FFXIV basado en XIVAPI: precios, ventas e items con UI clásica y experiencia más liviana que Universalis."
-quickTake: "Mogboard es el market tracker original de Vekien (XIVAPI). Funcional y bonito, pero Universalis lo desplazó en mindshare. Sigue valiendo la pena conocerlo: si Universalis cae o si preferís su UI más simple, está acá esperando."
+quickTake: "Mogboard es el market tracker original de Vekien (XIVAPI). Funcional y bonito, pero Universalis lo desplazó en mindshare. Sigue valiendo la pena conocerlo: si Universalis cae o si prefieres su UI más simple, está acá esperando."
 ---
 
 ## Qué es
@@ -46,22 +46,22 @@ Universalis ganó por agresividad del community uploading. Mogboard sigue activo
 
 ## Para quién NO es esta herramienta
 
-- **Optimization seria**: si ganás gil por flipping al volumen, andate directamente a Universalis. La community uploader pool de Universalis es mejor.
+- **Optimization seria**: si ganas gil por flipping al volumen, vete directamente a Universalis. La community uploader pool de Universalis es mejor.
 - **Usuarios de Teamcraft**: Teamcraft consulta Universalis por default. Mogboard no integra. Para ese workflow no aporta nada.
 - **Mobile-first users**: ninguno de los dos es excelente en mobile, pero Universalis tiene UI un poquito más responsive.
 - **Quien quiere features avanzadas (alerts, watchlists)**: la mayoría está más mantenida en Universalis.
 
 ## Cómo se usa en la práctica
 
-1. Andá a [mogboard.com](https://mogboard.com).
+1. Anda a [mogboard.com](https://mogboard.com).
 
-2. Buscás un item. Auto-complete sugiere.
+2. Buscas un item. Auto-complete sugiere.
 
 3. La página de item: precios por server, sales recent, charts.
 
 4. Filtros: HQ vs NQ, server, time range.
 
-5. Para queries específicas de XIVAPI relacionada (NPC vending an item, recipes), navegás a XIVAPI.com directamente — Mogboard y XIVAPI son hermanos del mismo ecosistema.
+5. Para queries específicas de XIVAPI relacionada (NPC vending an item, recipes), navegas a XIVAPI.com directamente — Mogboard y XIVAPI son hermanos del mismo ecosistema.
 
 ## Limitaciones honestas
 
@@ -79,11 +79,11 @@ Universalis ganó por agresividad del community uploading. Mogboard sigue activo
 
 ## Cómo empezar
 
-1. Andá a [mogboard.com](https://mogboard.com).
+1. Anda a [mogboard.com](https://mogboard.com).
 
-2. Buscá un item de prueba. Compará la presentación con Universalis para el mismo item.
+2. Busca un item de prueba. Compara la presentación con Universalis para el mismo item.
 
-3. Si te gusta más la UI de Mogboard, usalo. Si no, andate a Universalis.
+3. Si te gusta más la UI de Mogboard, usalo. Si no, vete a Universalis.
 
 4. Para integrations: si construyes un bot/script que usa XIVAPI para lookups generales, Mogboard market endpoint encaja natural.
 

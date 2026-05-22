@@ -1,7 +1,7 @@
 ---
 title: "League of Legends Wiki"
 description: "Wiki oficial de League of Legends operada por Weird Gloop en partnership con Riot Games desde 2023. Referencia enciclopédica completa de champions, items, runas, mecánicas, lore y meta-game."
-quickTake: "La fuente canónica de datos exactos del juego — valores numéricos de abilities, recipes de items, mecánicas detalladas. Si tu pregunta es 'cuánto daño hace exactamente esta habilidad al rank 5', la wiki es la única respuesta confiable. Ignorá la versión vieja de Fandom."
+quickTake: "La fuente canónica de datos exactos del juego — valores numéricos de abilities, recipes de items, mecánicas detalladas. Si tu pregunta es 'cuánto daño hace exactamente esta habilidad al rank 5', la wiki es la única respuesta confiable. Ignora la versión vieja de Fandom."
 ---
 
 ## Qué es
@@ -53,7 +53,7 @@ La wiki es referencia, no asistente operativo. No es lo que necesitas si:
 
 1. Vas a `wiki.leagueoflegends.com`. Sin login para lectura.
 
-2. Search bar arriba: ingresá nombre de champion, item, runa o concepto.
+2. Search bar arriba: ingresa nombre de champion, item, runa o concepto.
 
 3. Páginas de champion estructuradas en: stats base, abilities (con tabla de valores por rank), recommended items (de Riot, no agregada por meta), playstyle, sounds/quotes, lore, history.
 
@@ -63,7 +63,7 @@ La wiki es referencia, no asistente operativo. No es lo que necesitas si:
 
 6. Cada página tiene tab "History" arriba que muestra el historial de cambios (qué patch modificó qué). Útil para entender la trayectoria de un champion o item.
 
-Para theorycrafters: bookmarkeá las páginas de tu main y los items que más usas. Las URLs son estables.
+Para theorycrafters: bookmarkea las páginas de tu main y los items que más usas. Las URLs son estables.
 
 ## Limitaciones honestas
 

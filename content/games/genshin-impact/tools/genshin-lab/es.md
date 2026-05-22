@@ -22,13 +22,13 @@ GenshinLab resuelve esto entregando análisis simplificado y visual. Eliges los 
 
 ## Para qué la usa la gente
 
-**Verificar viabilidad de teams existentes**: tienes ya 4 personajes ascendidos y quieres saber si funcionan bien juntos. GenshinLab te muestra el rating del team, qué reacciones pueden hacer, y qué roles están cubiertos.
+**Verificar viabilidad de teams existentes**: Tienes ya 4 personajes ascendidos y quieres saber si funcionan bien juntos. GenshinLab te muestra el rating del team, qué reacciones pueden hacer, y qué roles están cubiertos.
 
 **Experimentar con composiciones nuevas**: estás considerando agregar a un personaje nuevo a tu rotación. GenshinLab te permite ver visualmente qué teams podrías armar con él, sin necesidad de buscar guías específicas.
 
 **Decidir qué personajes pullear**: estás dudando entre dos personajes para el próximo banner. GenshinLab te ayuda a ver con cuál de ellos podrías armar mejores teams dado tu roster actual.
 
-**Tier lists rápidas**: quieres saber qué personajes son más populares/efectivos en el meta actual sin leer análisis profundos. Las tier lists con códigos de colores son fáciles de digerir.
+**Tier lists rápidas**: Quieres saber qué personajes son más populares/efectivos en el meta actual sin leer análisis profundos. Las tier lists con códigos de colores son fáciles de digerir.
 
 **Investigar reacciones elementales**: si no entiendes bien cómo funcionan reacciones como Hyperbloom, Spread, o Quicken, GenshinLab tiene visualizaciones que las explican rápidamente.
 

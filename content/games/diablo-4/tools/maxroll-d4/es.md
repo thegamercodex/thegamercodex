@@ -34,7 +34,7 @@ Mucha gente usa los dos: Mobalytics para vista rápida de meta, Maxroll para dee
 
 ## Para qué la usa la gente
 
-**Elegir clase pre-season**: 2 semanas antes del season start, lees tier lists de Maxroll para ver qué clase está fuerte y planeás tu fresh char.
+**Elegir clase pre-season**: 2 semanas antes del season start, lees tier lists de Maxroll para ver qué clase está fuerte y planeas tu fresh char.
 
 **Leveling build**: el guide te da el leveling path optimal (skills to take en orden, gear baseline) hasta endgame transition.
 
@@ -53,13 +53,13 @@ Mucha gente usa los dos: Mobalytics para vista rápida de meta, Maxroll para dee
 
 ## Cómo se usa en la práctica
 
-1. Andá a [maxroll.gg/d4](https://maxroll.gg/d4).
+1. Anda a [maxroll.gg/d4](https://maxroll.gg/d4).
 
 2. Browse por **Classes** → eliges tu clase. Ves todas las builds publicadas con tier rating.
 
 3. Click en el build que te interesa. La página tiene secciones: Overview, Skills, Paragon, Gear, Mechanics.
 
-4. Abrí el **Planner** del build (link en cada guide) para verlo en formato interactivo. Podés clonarlo a tu account para modificar.
+4. Abre el **Planner** del build (link en cada guide) para verlo en formato interactivo. Puedes clonarlo a tu account para modificar.
 
 5. Para tier lists generales: **Class Tier List** y **Build Tier List** en el menu top.
 
@@ -81,14 +81,14 @@ Mucha gente usa los dos: Mobalytics para vista rápida de meta, Maxroll para dee
 
 1. [maxroll.gg/d4](https://maxroll.gg/d4). No login required.
 
-2. Si recién empezás, ve a **Class Tier List** y elige una clase top-tier para tu primer character.
+2. Si recién empiezas, ve a **Class Tier List** y elige una clase top-tier para tu primer character.
 
-3. Andá al guide del top build de esa clase. Leé la sección **Leveling** primero.
+3. Anda al guide del top build de esa clase. Lee la sección **Leveling** primero.
 
-4. Importá el planner si quieres modificarlo a tu situación específica.
+4. Importa el planner si quieres modificarlo a tu situación específica.
 
-5. Una vez en endgame, releés el **Endgame** y **Paragon** sections para refinar.
+5. Una vez en endgame, relees el **Endgame** y **Paragon** sections para refinar.
 
-6. Bookmark Maxroll y revisá weekly durante season activa para ver tier list shifts.
+6. Bookmark Maxroll y revisa weekly durante season activa para ver tier list shifts.
 
 7. Para discusión/Q&A, el Discord de Maxroll es activo — guide authors están ahí y responden.

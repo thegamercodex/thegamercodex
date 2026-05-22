@@ -7,7 +7,7 @@ Las dos wikis principales de Windrose tienen propósito editorial distinto. **Wi
 
 ## Cómo está organizada cada una
 
-Windrose Wiki estructura la info por type (weapons, armor, items, NPCs, quests, recipes) con filtros laterales que cruzan attributes (source, level requirement, drop chance). El flow esperado es: abrís la barra de search, ingresás un nombre, llegás a una page con info estructurada y links cruzados. Es ideal para preguntas concretas tipo "qué hace este item" o "dónde dropea X".
+Windrose Wiki estructura la info por type (weapons, armor, items, NPCs, quests, recipes) con filtros laterales que cruzan attributes (source, level requirement, drop chance). El flow esperado es: abres la barra de search, ingresas un nombre, llegas a una page con info estructurada y links cruzados. Es ideal para preguntas concretas tipo "qué hace este item" o "dónde dropea X".
 
 Fextralife usa el formato que afinó durante una década de wikis de souls-likes. Cada boss tiene page propia con strategy detallada (attack patterns, weak windows, recommended gear). Cada weapon tiene scaling tables específicas por stat. Cada build archetype tiene su prosa narrativa con stats target. Es ideal para preguntas tácticas tipo "cómo derrotar a Israel Hands" o "qué scaling tiene la Rapier of Devastation".
 
@@ -27,7 +27,7 @@ En la práctica del primer mes de EA, ambas tienen gaps. Windrose Wiki en pages 
 
 Fextralife siempre tuvo ad density alta. Sin adblocker, la experiencia degrada — pop-ups, video ads, anchored banners que ocupan parte de la pantalla. Es un trade-off conocido del publisher pero vale mencionarlo para players que les molesta.
 
-Windrose Wiki tiene ads pero notablemente menos intrusivos. Si entrás sin adblocker, la experiencia es tolerable.
+Windrose Wiki tiene ads pero notablemente menos intrusivos. Si entras sin adblocker, la experiencia es tolerable.
 
 ## Cuándo usar cada una
 

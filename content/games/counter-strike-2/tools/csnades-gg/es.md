@@ -24,11 +24,11 @@ CSNADES centraliza todo eso en formato consultable. La unidad de información no
 
 **Refresh post-update**: cuando Valve patchea un mapa (cambian sightlines, ajustan modelos), algunas lineups dejan de funcionar. CSNADES marca lineups verified post-patch como prioridad.
 
-**Practice deliberada**: filtras "smokes T side Mirage de dificultad beginner" y te armas un set de 10 lineups para practicar en una sesión de 30 min en mapa offline.
+**Practice deliberada**: Filtras "smokes T side Mirage de dificultad beginner" y te armas un set de 10 lineups para practicar en una sesión de 30 min en mapa offline.
 
 **Quick reference durante warmup**: antes de un match, refrescas 2-3 lineups de tu posición habitual. La UX está optimizada para consultas rápidas.
 
-**Aprender lineups específicas que viste en pro play**: filtras por "smoke CT mid de Inferno hacia A apartment" y encuentras múltiples opciones, incluyendo las que usan los pros.
+**Aprender lineups específicas que viste en pro play**: Filtras por "smoke CT mid de Inferno hacia A apartment" y encuentras múltiples opciones, incluyendo las que usan los pros.
 
 ## Para quién NO es esta herramienta
 
@@ -69,15 +69,15 @@ CSNADES es excelente para utility lineups pero no es:
 
 1. Vas a `csnades.gg` y elige un mapa que juegas regularmente.
 
-2. Filtrá por dificultad **beginner** y tipo **smoke**. Anda del menos al más complejo.
+2. Filtra por dificultad **beginner** y tipo **smoke**. Anda del menos al más complejo.
 
-3. Para tu primera sesión de práctica: elige 5 smokes (tres CT, dos T) y replicá en mapa offline. 30 minutos suelen ser suficientes para internalizar 5 lineups.
+3. Para tu primera sesión de práctica: elige 5 smokes (tres CT, dos T) y replica en mapa offline. 30 minutos suelen ser suficientes para internalizar 5 lineups.
 
-4. Configurá comandos prácticos en CS2 para training:
+4. Configura comandos prácticos en CS2 para training:
    ```
    mp_warmuptime 9999; sv_cheats 1; sv_grenade_trajectory 1; sv_grenade_trajectory_prac_pipreview 1
    ```
 
-5. Para session-long practice: rotá 1 mapa por semana. Repetir lineups viejas + agregar 5 nuevas mantiene memorización fresca.
+5. Para session-long practice: rota 1 mapa por semana. Repetir lineups viejas + agregar 5 nuevas mantiene memorización fresca.
 
 6. Combinar con scope.gg post-match: scope te muestra qué smokes tiraste mal en partida real, CSNADES te enseña la versión correcta.

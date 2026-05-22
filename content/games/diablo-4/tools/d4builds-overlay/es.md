@@ -10,7 +10,7 @@ D4Builds Overlay (overwolf.com/app/d4builds-d4builds) es la desktop companion ap
 
 ## Qué problema resuelve
 
-Mientras farmás endgame o pushing Pit, consultar builds web requires alt-tab que rompe focus. Overlay lo elimina: hotkey activa el overlay, ves info, hotkey lo desactiva. Useful para players que siguen guides step-by-step sin querer perder gameplay focus.
+Mientras farmeas endgame o pushing Pit, consultar builds web requires alt-tab que rompe focus. Overlay lo elimina: hotkey activa el overlay, ves info, hotkey lo desactiva. Useful para players que siguen guides step-by-step sin querer perder gameplay focus.
 
 ## Diferenciación vs Mobalytics D4 Overlay
 
@@ -21,7 +21,7 @@ Diferentes brands, same functional category. Decision depends on cuál hub usas 
 
 ## Para qué la usa la gente
 
-**Build reference mid-gameplay**: durante leveling o farm, consultás skill priorities sin abrir browser.
+**Build reference mid-gameplay**: durante leveling o farm, consultas skill priorities sin abrir browser.
 
 **Tier list quick check**: pre-respec, abres overlay para confirm cur build sigue top tier.
 
@@ -74,4 +74,4 @@ Diferentes brands, same functional category. Decision depends on cuál hub usas 
 
 5. Familiarizate con UI overlay — menos features que website pero suficiente para mid-gameplay reference.
 
-6. Si Overwolf ads molestan, considerá Premium o usa D4Builds.gg website + alt-tab según prefieras.
+6. Si Overwolf ads molestan, considera Premium o usa D4Builds.gg website + alt-tab según prefieras.

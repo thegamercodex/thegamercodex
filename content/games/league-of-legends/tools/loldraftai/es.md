@@ -26,9 +26,9 @@ Para players que practican drafting (capitanes de equipos amateur, coaches en fo
 
 **Evaluar picks emergentes o off-meta**: si quieres saber si un champion fuera del consenso tiene viabilidad real en un draft específico, el modelo te da una señal cuantitativa.
 
-**Estudiar drafts de partidas competitivas reales**: replicas un draft real de un torneo (LCS, MSI, Worlds) y ves qué predice el modelo — útil para entender la lógica detrás de decisiones de coaches pros.
+**Estudiar drafts de partidas competitivas reales**: Replicas un draft real de un torneo (LCS, MSI, Worlds) y ves qué predice el modelo — útil para entender la lógica detrás de decisiones de coaches pros.
 
-**Experimentar con composiciones de equipo**: prueba si tu equipo amateur funciona mejor con engage frontline o poke composition, y mira la prediction comparativa.
+**Experimentar con composiciones de equipo**: Prueba si tu equipo amateur funciona mejor con engage frontline o poke composition, y mira la prediction comparativa.
 
 **Curiosidad sobre el meta**: para fans interesados en cómo se modela la complejidad de un draft con ML, la tool open source es ejemplo accesible y educativo.
 
@@ -36,7 +36,7 @@ Para players que practican drafting (capitanes de equipos amateur, coaches en fo
 
 LoLDraftAI es interesante pero claramente experimental. No es lo que necesitas si:
 
-- **Quieres ground truth para decisiones de alto stake** → modelo joven, bus-factor 1, predicciones son señal direccional pero no oracle. Para coaches de equipos competitivos serios, complementá con análisis humano.
+- **Quieres ground truth para decisiones de alto stake** → modelo joven, bus-factor 1, predicciones son señal direccional pero no oracle. Para coaches de equipos competitivos serios, complementa con análisis humano.
 - **Quieres stats agregadas de matchups individuales** → Lolalytics es la fuente para datos por matchup específico, no por draft completo.
 - **Quieres tier lists o builds** → U.GG y Lolalytics cubren esa función mejor; LoLDraftAI no recomienda items ni runas.
 - **Buscas herramientas establecidas con track record largo** → LoLDraftAI tiene ~1 año, otras tools del ecosistema tienen 5-10. Si estabilidad institucional es prioridad, espera a que madure.
@@ -73,12 +73,12 @@ LoLDraftAI es interesante pero claramente experimental. No es lo que necesitas s
 
 1. Vas a `loldraftai.com`. Sin registro.
 
-2. Confirmá que el indicador de patch está al día (visible en la home). Si está atrasado por más de un patch, las predicciones pueden no reflejar el meta actual.
+2. Confirma que el indicador de patch está al día (visible en la home). Si está atrasado por más de un patch, las predicciones pueden no reflejar el meta actual.
 
-3. Tu primer draft de prueba: replicá un draft real reciente (LCS, MSI, Worlds — busca videos en YouTube). Compará la prediction del modelo con el resultado real de la partida. Eso te calibra qué tan confiable es el modelo en casos conocidos.
+3. Tu primer draft de prueba: replica un draft real reciente (LCS, MSI, Worlds — busca videos en YouTube). Compara la prediction del modelo con el resultado real de la partida. Eso te calibra qué tan confiable es el modelo en casos conocidos.
 
-4. Para practicar drafting: simula scenarios típicos de tu rol o composición preferida. Notá qué picks suben más el win rate y cuáles lo bajan.
+4. Para practicar drafting: simula scenarios típicos de tu rol o composición preferida. Nota qué picks suben más el win rate y cuáles lo bajan.
 
 5. Si tienes perfil técnico (data science o ML), explora el repo de GitHub — el código abierto es buen ejemplo de aplicación de ML a domain-specific data.
 
-6. Sumate al Discord si quieres discutir la tool con otros usuarios o reportar bugs/feedback al maintainer. Para tools jóvenes, el feedback comunitario acelera el desarrollo.
+6. Súmate al Discord si quieres discutir la tool con otros usuarios o reportar bugs/feedback al maintainer. Para tools jóvenes, el feedback comunitario acelera el desarrollo.

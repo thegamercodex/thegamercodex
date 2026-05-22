@@ -38,7 +38,7 @@ Las tres son complementarias. Archon no enseña: muestra. Si no entiendes por qu
 
 ## Para qué la usa la gente
 
-**Check rápido de talents pre-raid**: abres tu spec en Archon, miras la build top, copias el código, importas al juego. Tres minutos.
+**Check rápido de talents pre-raid**: Abres tu spec en Archon, miras la build top, copias el código, importas al juego. Tres minutos.
 
 **Validar tu setup vs meta**: comparas tus talents/stats actuales con los porcentajes de top players. Si tus stats están desalineadas, entiendes qué reordenar.
 
@@ -89,12 +89,12 @@ Las tres son complementarias. Archon no enseña: muestra. Si no entiendes por qu
 
 ## Cómo empezar
 
-1. Visitá [archon.gg](https://www.archon.gg) y elige tu spec de la home page.
+1. Visita [archon.gg](https://www.archon.gg) y elige tu spec de la home page.
 
 2. Comparate los talent builds top con lo que estás jugando ahora. Si hay diferencia material, considera probar la build de mayor porcentaje.
 
-3. Cruzá los stat priority con tu equipamiento actual — Archon puede revelar que estás sub-optimizando en un stat sin saberlo.
+3. Cruza los stat priority con tu equipamiento actual — Archon puede revelar que estás sub-optimizando en un stat sin saberlo.
 
-4. Para uso recurrente, bookmarkeá la página de tu spec. Re-revisar pre-raid o post-patch es la cadencia típica.
+4. Para uso recurrente, bookmarkea la página de tu spec. Re-revisar pre-raid o post-patch es la cadencia típica.
 
-5. Combiná con Icy Veins (fundamentals) y WoWAnalyzer (verificación de ejecución) para extraer todo el valor.
+5. Combina con Icy Veins (fundamentals) y WoWAnalyzer (verificación de ejecución) para extraer todo el valor.

@@ -38,7 +38,7 @@ Más allá del optimizer, GO también es una calculadora de daño completa: ingr
 
 El flujo básico tiene dos versiones: manual y automática.
 
-**Manual**: agregas cada personaje, weapon y artefacto manualmente. Tedioso al inicio pero te da control total. Para cada artefacto ingresas su set, slot, stat principal, substats, y nivel. Lo mismo con weapons (refinement, nivel, ascensión).
+**Manual**: Agregas cada personaje, weapon y artefacto manualmente. Tedioso al inicio pero te da control total. Para cada artefacto ingresas su set, slot, stat principal, substats, y nivel. Lo mismo con weapons (refinement, nivel, ascensión).
 
 **Automática con scanner**: existe Genshin Scanner, una herramienta complementaria que toma screenshots de tu inventory y los procesa con OCR para importar todo a GO automáticamente. Setup inicial toma 30-60 minutos pero después GO tiene tu inventory completo.
 

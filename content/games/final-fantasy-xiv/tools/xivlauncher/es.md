@@ -10,8 +10,8 @@ XIVLauncher (goatcorp.github.io) es un launcher alternativo open-source para FFX
 
 Funciones core:
 
-- **Auto-login**: guardas credentials una vez, login al juego en 1 click. Square Enix's official launcher requiere 2FA cada login.
-- **Multi-account**: switchás entre accounts/characters fácilmente.
+- **Auto-login**: Guardas credentials una vez, login al juego en 1 click. Square Enix's official launcher requiere 2FA cada login.
+- **Multi-account**: Cambias entre accounts/characters fácilmente.
 - **Fixes de stability**: detecta y reintenta connection failures que el launcher oficial just falla silently.
 - **Wine/Linux soporte oficial**: el goatcorp team mantiene XIVLauncher para Linux (the only viable way to play FFXIV on Linux con QoL).
 - **Acceso a Dalamud**: el framework de plugins inyectados en el client. Cientos de plugins QoL: minimap, fly text customizable, party finder filters, market board fast scanning, etc.
@@ -58,19 +58,19 @@ Ambos lanzan el mismo cliente. XIVL solo wrapper el process de login y permite i
 ## Para quién NO es esta herramienta
 
 - **Casuales que login 1x por mes**: el overhead de instalar y configurar XIVL no se justifica si juegas poco.
-- **Players paranoicos sobre TOS**: XIVL técnicamente no está aprobado por Square Enix. Casi nadie ha sido baneado, pero existe el riesgo teórico. Para PvP especialmente, no usés plugins visibles.
+- **Players paranoicos sobre TOS**: XIVL técnicamente no está aprobado por Square Enix. Casi nadie ha sido baneado, pero existe el riesgo teórico. Para PvP especialmente, no uses plugins visibles.
 - **Console-only players**: XIVL es Windows/macOS/Linux. PS5/Xbox no aplica.
 - **Quien prefiere mantener el client puro**: si te molesta la idea de plugins inyectados, quedate con SE launcher.
 
 ## Cómo se usa en la práctica
 
-1. Descargá XIVLauncher desde [goatcorp.github.io](https://goatcorp.github.io).
+1. Descarga XIVLauncher desde [goatcorp.github.io](https://goatcorp.github.io).
 
-2. Primer setup: introducís Square Enix credentials. XIVL guarda encrypted (no en cleartext).
+2. Primer setup: introduces Square Enix credentials. XIVL guarda encrypted (no en cleartext).
 
 3. Para Windows: instala .NET 7+, corre XIVL como cualquier app.
 
-4. Para macOS: descargá la app oficial de goatcorp (no la del App Store).
+4. Para macOS: descarga la app oficial de goatcorp (no la del App Store).
 
 5. Para Linux: sigue la guía especifica (require config of Wine + winetricks; tutorial in docs).
 
@@ -80,7 +80,7 @@ Ambos lanzan el mismo cliente. XIVL solo wrapper el process de login y permite i
 
 ## Limitaciones honestas
 
-**TOS gray area**: Square Enix no aprueba XIVL formalmente. En 7+ años casi nadie ha sido baneado por usarlo solo, pero el riesgo técnico existe — especialmente si combinás con plugins que violan TOS (cheats de combat, mods de animation cosméticos invisibles a otros players).
+**TOS gray area**: Square Enix no aprueba XIVL formalmente. En 7+ años casi nadie ha sido baneado por usarlo solo, pero el riesgo técnico existe — especialmente si combinas con plugins que violan TOS (cheats de combat, mods de animation cosméticos invisibles a otros players).
 
 **Vulnerable a patches**: cuando sale un parche del juego, XIVL típicamente necesita actualizarse. goatcorp es rápido (suele estar listo en horas), pero hay window donde XIVL no funciona post-patch.
 
@@ -94,18 +94,18 @@ Ambos lanzan el mismo cliente. XIVL solo wrapper el process de login y permite i
 
 ## Cómo empezar
 
-1. Descargá XIVLauncher desde [goatcorp.github.io](https://goatcorp.github.io).
+1. Descarga XIVLauncher desde [goatcorp.github.io](https://goatcorp.github.io).
 
 2. Para Windows: install .NET 7 + Visual C++ Runtime si missing. Corré XIVL.
 
 3. Login con tu SE account + game ID. XIVL te ofrece guardar credentials seguramente.
 
-4. Configurá multi-character si tienes varios chars.
+4. Configura multi-character si tienes varios chars.
 
 5. En Settings, **enable Dalamud**. Acepta los términos (Dalamud advierte sobre TOS gray area).
 
-6. Lanzá el juego desde XIVL. Una vez in-game, type `/xlplugins` para acceder al manager de plugins.
+6. Lanza el juego desde XIVL. Una vez in-game, type `/xlplugins` para acceder al manager de plugins.
 
-7. Plugins recomendados para empezar: **Marketboard Uploader** (contribuye a Universalis), **Cactbot** (raid callouts), y explorá el catalog. Empezá conservador — no actives 30 plugins simultáneos.
+7. Plugins recomendados para empezar: **Marketboard Uploader** (contribuye a Universalis), **Cactbot** (raid callouts), y explora el catalog. Empieza conservador — no actives 30 plugins simultáneos.
 
 8. Si juegas Linux, sigue la guía específica de Wine setup. El goatcorp Discord es active para help.

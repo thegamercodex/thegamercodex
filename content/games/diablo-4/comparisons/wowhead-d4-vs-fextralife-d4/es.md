@@ -32,12 +32,12 @@ Items y NPCs aparecen en ambos pero con enfoques distintos. Wowhead: stats, drop
 
 ## Limitations
 
-**Wowhead**: no narrative. Datamining spoilers son default — si los evitás, debés filtrar. Ads moderate (Premium $1/mo los quita).
+**Wowhead**: no narrative. Datamining spoilers son default — si los evitas, debes filtrar. Ads moderate (Premium $1/mo los quita).
 
 **Fextralife**: ads heavy (peor que Wowhead). Coverage inconsistente por ser community-edited. Updates lentos post-patch. Sin database queries filterable.
 
 ## Veredicto
 
-Complementarios. Stack moderno: Wowhead para data, Fextralife para narrative. Si solo quieres uno: Wowhead, porque las narrative gaps las cubrís con YouTube guides + reddit, pero la database technical no tiene equivalente fácil de reemplazar.
+Complementarios. Stack moderno: Wowhead para data, Fextralife para narrative. Si solo quieres uno: Wowhead, porque las narrative gaps las cubres con YouTube guides + reddit, pero la database technical no tiene equivalente fácil de reemplazar.
 
 Si te importan lore deep dives, Fextralife es indispensable. Para combat optimization puro, Wowhead alone basta.

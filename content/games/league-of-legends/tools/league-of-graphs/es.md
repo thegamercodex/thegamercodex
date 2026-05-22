@@ -55,7 +55,7 @@ League of Graphs es excelente para análisis histórico y visualización, pero n
 
 6. Sección "Records" (también top nav) lista los leaderboards de partidas extremas — útil para contenido o curiosidad.
 
-Para uso recurrente: bookmarkeá la URL de tu main para chequear evolución cada patch, y la sección Statistics general para data de comunidad.
+Para uso recurrente: bookmarkea la URL de tu main para chequear evolución cada patch, y la sección Statistics general para data de comunidad.
 
 ## Limitaciones honestas
 
@@ -77,6 +77,6 @@ Para uso recurrente: bookmarkeá la URL de tu main para chequear evolución cada
 
 3. Explora la pestaña Statistics general (top nav) — pasa 10 minutos curioseando data de comunidad. Es la sección más distintiva de la tool.
 
-4. Para cada patch nuevo, vuelve a tu champion y notá si el cambio movió o no el win rate respecto a los patches previos. Eso te da intuición sobre si el balance change tuvo impacto real o no.
+4. Para cada patch nuevo, vuelve a tu champion y nota si el cambio movió o no el win rate respecto a los patches previos. Eso te da intuición sobre si el balance change tuvo impacto real o no.
 
-5. Si te interesa theorycrafting profundo del patch actual, complementá con Lolalytics. Las dos tools cubren ángulos distintos del mismo análisis estadístico — usar ambas en paralelo es lo común para players de elo medio-alto.
+5. Si te interesa theorycrafting profundo del patch actual, complementa con Lolalytics. Las dos tools cubren ángulos distintos del mismo análisis estadístico — usar ambas en paralelo es lo común para players de elo medio-alto.

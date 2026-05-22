@@ -10,7 +10,7 @@ Lexi.gg (lexi.gg/diablo-4) es un site relativamente nuevo en el space D4 que se 
 
 ## Qué problema resuelve
 
-Los tres hubs grandes (D4Builds, Maxroll, Mobalytics) a veces difieren en sus tier list rankings — un build puede ser S en Maxroll y A en Mobalytics. Comparar manualmente requiere abrir tres tabs. Lexi.gg consolida eso: vas, ves cómo cada hub rankea cada build cross-class, y formás opinion balanceada sin trabajo manual.
+Los tres hubs grandes (D4Builds, Maxroll, Mobalytics) a veces difieren en sus tier list rankings — un build puede ser S en Maxroll y A en Mobalytics. Comparar manualmente requiere abrir tres tabs. Lexi.gg consolida eso: vas, ves cómo cada hub rankea cada build cross-class, y formas opinion balanceada sin trabajo manual.
 
 ## Diferenciación vs Mobalytics
 
@@ -61,9 +61,9 @@ Mobalytics es un hub editorial con tier list propia. Lexi.gg es un meta-tier-lis
 
 ## Cómo empezar
 
-1. [lexi.gg/diablo-4/tier-list/endgame](https://lexi.gg/diablo-4/tier-list/endgame) — entrá directo al tier list comparator.
+1. [lexi.gg/diablo-4/tier-list/endgame](https://lexi.gg/diablo-4/tier-list/endgame) — entra directo al tier list comparator.
 
-2. Identificá tu class. Ves cómo está rankeada en D4Builds + Maxroll + Mobalytics simultaneamente.
+2. Identifica tu class. Ves cómo está rankeada en D4Builds + Maxroll + Mobalytics simultaneamente.
 
 3. Para builds con disagreement entre sources, abre las links a las sources originales para investigar el por qué.
 

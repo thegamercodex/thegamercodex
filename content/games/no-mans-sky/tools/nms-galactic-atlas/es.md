@@ -71,6 +71,6 @@ Abres galacticatlas.nomanssky.com en un browser desktop o tablet (mobile funcion
 
 Espera unos segundos a que cargue la visualización 3D y empieza a hacer zoom. Los marcadores son interactivos.
 
-Si hay una expedition activa, cliqueá su entrada para ver milestones y rewards. Si vas a participar, anota la fecha de cierre — las expediciones tienen ventanas finitas.
+Si hay una expedition activa, haz click su entrada para ver milestones y rewards. Si vas a participar, anota la fecha de cierre — las expediciones tienen ventanas finitas.
 
 Considera bookmarkearlo y volver al inicio de cada expedition (Hello Games lanza una expedition cada 2-3 meses) para no perderte rewards exclusivos.

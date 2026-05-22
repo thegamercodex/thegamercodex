@@ -36,11 +36,11 @@ KQM Team Compendium resuelve esto entregando análisis técnico profundo con mat
 
 ## Para qué la usa la gente
 
-**Entender mecánicas profundas de teams populares**: tienes el team Hyperbloom y quieres saber exactamente cómo funciona la sinergia. Compendium te explica el cálculo del daño de Bloom seeds, cómo Energy Recharge afecta consistency, qué constellation de cada miembro es prioritario, y por qué este team es S-tier matemáticamente.
+**Entender mecánicas profundas de teams populares**: Tienes el team Hyperbloom y quieres saber exactamente cómo funciona la sinergia. Compendium te explica el cálculo del daño de Bloom seeds, cómo Energy Recharge afecta consistency, qué constellation de cada miembro es prioritario, y por qué este team es S-tier matemáticamente.
 
 **Optimizar rotaciones existentes**: ya juegas un team pero sientes que no estás extrayendo todo su potencial. Compendium te muestra la rotación óptima frame-by-frame con explicación de qué se logra en cada paso.
 
-**Decidir entre teams para tu cuenta**: tienes recursos limitados y consideras invertir en tres teams distintos. Compendium te permite comparar análisis técnico de cada uno para decidir cuál maximiza ROI dado tus weapons y constellations específicos.
+**Decidir entre teams para tu cuenta**: Tienes recursos limitados y consideras invertir en tres teams distintos. Compendium te permite comparar análisis técnico de cada uno para decidir cuál maximiza ROI dado tus weapons y constellations específicos.
 
 **Investigar viabilidad de teams F2P**: muchos teams populares asumen weapons 5-estrellas signature. Compendium frecuentemente incluye análisis de versiones F2P-friendly con weapons accesibles, lo cual es invaluable para jugadores sin recursos premium.
 

@@ -46,7 +46,7 @@ Esta breakdown te dice exactly dónde focalizar el feedback del raid: "antes del
 **WoWAnalyzer ideal cuando**:
 - Quieres mejorar tu performance individual.
 - Tu spec tiene module activo y maintained.
-- Buscás coaching feedback específico sobre rotation y cooldowns.
+- Buscas coaching feedback específico sobre rotation y cooldowns.
 - Pasaste de 95% pull a 110% pull en Mythic y quieres extra 5%.
 
 **Wipefest ideal cuando**:

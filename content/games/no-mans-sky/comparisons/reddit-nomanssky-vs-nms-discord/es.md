@@ -7,9 +7,9 @@ Las dos community hubs principales de No Man's Sky cumplen propósitos editorial
 
 ## Async vs real-time
 
-Reddit es async por design. Posteás algo, lectores comentan a su ritmo, los upvotes empujan el contenido relevante hacia arriba. Un thread bueno vive días o semanas con discusión continua. La info útil persiste — un solution post sobre un bug específico aparece en Google search 6 meses después.
+Reddit es async por design. Publicas algo, lectores comentan a su ritmo, los upvotes empujan el contenido relevante hacia arriba. Un thread bueno vive días o semanas con discusión continua. La info útil persiste — un solution post sobre un bug específico aparece en Google search 6 meses después.
 
-Discord es real-time. Posteás algo, alguien responde en minutos o nunca. Los mensajes se hunden en el scroll. La info útil de ayer no es findable a menos que alguien la haya capturado en un pinned message.
+Discord es real-time. Publicas algo, alguien responde en minutos o nunca. Los mensajes se hunden en el scroll. La info útil de ayer no es findable a menos que alguien la haya capturado en un pinned message.
 
 ## Curation: upvotes vs moderation
 
@@ -25,7 +25,7 @@ Reddit tiene AMAs ocasionales de Hello Games (Sean Murray, Innes McKendrick) per
 
 ## Multiplayer matchmaking
 
-Discord tiene canales LFG (looking for group) organizados por region (EU/NA/SA/AS). Posteás "looking for 3 players for Living Ship expedition tonight EU 8pm" y vas a tener crew armada en horas.
+Discord tiene canales LFG (looking for group) organizados por region (EU/NA/SA/AS). Publicas "looking for 3 players for Living Ship expedition tonight EU 8pm" y vas a tener crew armada en horas.
 
 Reddit no tiene esta capa. Hay posts ocasionales pero la cadencia async no funciona para sessions específicas — para cuando alguien lee tu post, la sesión ya pasó.
 

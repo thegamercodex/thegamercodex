@@ -7,7 +7,7 @@ Ambos son herramientas centrales para tradear en PoE, pero cubren spectrums dist
 
 ## Tipos de trade que cubre cada uno
 
-El sitio oficial brilla para **ítems individuales**: buscas "ring con +30 life y resistance fire", encuentras 200 resultados, eliges uno, haces whisper, completas el trade en-game. Para el 80% de los trades de un mapper típico, esto es lo único que necesitas. La UI tiene filtros poderosos, integration nativa con el cliente, y es la fuente verificada (no hay middlemen, eres tú y el seller directamente).
+El sitio oficial brilla para **ítems individuales**: Buscas "ring con +30 life y resistance fire", encuentras 200 resultados, eliges uno, haces whisper, completas el trade en-game. Para el 80% de los trades de un mapper típico, esto es lo único que necesitas. La UI tiene filtros poderosos, integration nativa con el cliente, y es la fuente verificada (no hay middlemen, eres tú y el seller directamente).
 
 TFT cubre el 20% restante pero crítico:
 

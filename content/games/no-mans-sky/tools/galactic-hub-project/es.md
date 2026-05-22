@@ -40,7 +40,7 @@ Frente al **NMS Discord oficial**: el oficial es para todos; el Discord del Hub 
 
 ## Para quién NO es esta herramienta
 
-Si juegas NMS solo y no quieres social layer, ignorá Galactic Hub — el juego es perfectamente jugable sin civilization affiliation.
+Si juegas NMS solo y no quieres social layer, ignora Galactic Hub — el juego es perfectamente jugable sin civilization affiliation.
 
 Si te incomoda el role-play o las structures formales, el Hub puede sentirse over-the-top con sus ambassadors, presidents y procesos.
 
@@ -75,7 +75,7 @@ Si solo quieres multi-player ad-hoc rápido, el Discord oficial de NMS es más e
 
 Vas al wiki: nomanssky.fandom.com/wiki/Galactic_Hub_Project. Lee el overview, la historia y los current events.
 
-Visitá r/GalacticHub para ver el tipo de discusión actual. Subscribite si te llama.
+Visita r/GalacticHub para ver el tipo de discusión actual. Subscribite si te llama.
 
 Para visitar el Hub Capital, copia las coords desde el wiki (estará en la página principal). Necesitas portales activados — si no, viajas manual desde el centro de Euclid.
 

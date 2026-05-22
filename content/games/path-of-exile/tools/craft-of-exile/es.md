@@ -22,7 +22,7 @@ Para items de alto nivel (los que se venden por cientos o miles de divine orbs),
 
 ## Para qué la usa la gente
 
-**Validar viabilidad de items objetivo**: tienes una idea de un item perfecto para tu build. Antes de empezar a craftearlo, lo modelas en CoE para ver si es siquiera posible, qué métodos te dan más probabilidad de éxito, y cuánto te costaría en promedio.
+**Validar viabilidad de items objetivo**: Tienes una idea de un item perfecto para tu build. Antes de empezar a craftearlo, lo modelas en CoE para ver si es siquiera posible, qué métodos te dan más probabilidad de éxito, y cuánto te costaría en promedio.
 
 **Comparar métodos de crafteo**: para un mismo objetivo, hay típicamente 3-5 métodos viables. CoE te permite simular cada uno, ver probabilidades y costos, y elegir el óptimo según tu currency disponible.
 

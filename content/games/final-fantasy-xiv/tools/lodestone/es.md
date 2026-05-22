@@ -38,9 +38,9 @@ Los tres se complementan: Lodestone para news y character verification, Gameresc
 
 **Leer patch notes**: los patch notes oficiales se publican en Lodestone antes de aparecer en cualquier news third-party. Si quieres el changelog literal de un balance change, vas acá.
 
-**Verificar achievements y títulos**: estás considerando alguien para tu static. Buscás su nombre en Lodestone, ves sus achievements visibles, jobs maxeados, y mounts.
+**Verificar achievements y títulos**: estás considerando alguien para tu static. Buscas su nombre en Lodestone, ves sus achievements visibles, jobs maxeados, y mounts.
 
-**Free Company hunting**: filtrás por datacenter + tu zona horaria + actividad reciente, consigues lista de FCs reclutando.
+**Free Company hunting**: Filtras por datacenter + tu zona horaria + actividad reciente, consigues lista de FCs reclutando.
 
 **Confirm news date / event start**: cuando un seasonal event como Heavensturn arranca, la fecha exacta está en Lodestone. No te confíes solo en third-party news.
 
@@ -50,12 +50,12 @@ Los tres se complementan: Lodestone para news y character verification, Gameresc
 
 - **Análisis de combate**: Lodestone no tiene parser ni logs. Para eso es FFLogs.
 - **Database queries profundas**: para "qué items dropean del Lich + sus sub-stats", Lodestone es pobre. Garland Tools mucho mejor.
-- **Comparativas y planning**: Lodestone solo muestra estado actual de tu char. No planificás BiS acá.
+- **Comparativas y planning**: Lodestone solo muestra estado actual de tu char. No planificas BiS acá.
 - **Quien solo juega Free Trial**: los achievements pueden estar limitados en visibilidad para chars de Free Trial dependiendo del setting.
 
 ## Cómo se usa en la práctica
 
-1. Andá a `na.finalfantasyxiv.com/lodestone/` (cambiá `na` por tu región: `eu`, `fr`, `de`, `jp`).
+1. Anda a `na.finalfantasyxiv.com/lodestone/` (cambia `na` por tu región: `eu`, `fr`, `de`, `jp`).
 
 2. Para verificar a otro jugador: **Character Search** → escribes nombre + servidor.
 
@@ -83,16 +83,16 @@ Los tres se complementan: Lodestone para news y character verification, Gameresc
 
 ## Cómo empezar
 
-1. Andá a [na.finalfantasyxiv.com/lodestone/](https://na.finalfantasyxiv.com/lodestone/) (o tu región).
+1. Anda a [na.finalfantasyxiv.com/lodestone/](https://na.finalfantasyxiv.com/lodestone/) (o tu región).
 
-2. Login con tu Square Enix account → my page. Verificás que tu char está vinculado.
+2. Login con tu Square Enix account → my page. Verificas que tu char está vinculado.
 
-3. Configurá tu perfil visible (achievements, jobs, etc.) si quieres que sea público.
+3. Configura tu perfil visible (achievements, jobs, etc.) si quieres que sea público.
 
 4. Marcalo en favoritos para chequear patch notes cada vez que salga un parche.
 
-5. Para verificar a otro jugador, **Character Search** → name + server. Compará con su link de FFLogs/Lodestone.
+5. Para verificar a otro jugador, **Character Search** → name + server. Compara con su link de FFLogs/Lodestone.
 
-6. Si buscas FC, **Free Company Search** → ajusta filtros y revisá las opciones top.
+6. Si buscas FC, **Free Company Search** → ajusta filtros y revisa las opciones top.
 
 7. Si tu third-party tool (Etro, FFLogs) muestra datos raros, el Lodestone es la source of truth de qué dice el juego oficialmente.

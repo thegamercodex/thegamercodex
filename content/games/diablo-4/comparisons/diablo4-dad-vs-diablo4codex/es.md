@@ -28,4 +28,4 @@ Ambos sync via Blizzard account login. Re-sync periódicamente para keep data fr
 
 ## Veredicto
 
-No competidores estrictos — scopes complementarios. Diablo4codex para seasonal metrics; Diablo 4 Dad para world collection comprehensive. Si solo te importa una métrica, pická según foco. Si sos completionist serious, ambos.
+No competidores estrictos — scopes complementarios. Diablo4codex para seasonal metrics; Diablo 4 Dad para world collection comprehensive. Si solo te importa una métrica, elige según foco. Si sos completionist serious, ambos.

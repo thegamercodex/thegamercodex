@@ -35,7 +35,7 @@ Frente a **DDSopt / GIMP scripts**: scripts custom funcionan si sabes programar.
 
 **Portar mods LE → SE**: el use case más común. Bajas un mod LE que no tiene versión SE, lo metes en CAO, batch process, output usable en SE.
 
-**Optimizar texturas pesadas**: tienes HD texture packs que comen 8 GB de VRAM. CAO los recompresa con BC7 (mejor relación calidad/peso) y opcionalmente downsamplea a resolución más razonable.
+**Optimizar texturas pesadas**: Tienes HD texture packs que comen 8 GB de VRAM. CAO los recompresa con BC7 (mejor relación calidad/peso) y opcionalmente downsamplea a resolución más razonable.
 
 **Fix mipmaps malos**: texturas sin mipmaps generan shimmering a distancia. CAO genera mipmaps correctos automáticamente.
 
@@ -80,11 +80,11 @@ Workflow típico para conversion LE→SE: input es la carpeta del mod LE descomp
 
 1. Baja CAO desde Nexus.
 2. Extrae en `C:\Modding\CAO\`.
-3. Identificá un mod LE que quieres portar a SE.
+3. Identifica un mod LE que quieres portar a SE.
 4. Descomprimí el ZIP del mod en una carpeta input.
 5. Lanza CAO, configura mode Skyrim SE, point a la input folder.
 6. Settings recomendados para conversion: "Necessary optimization" + Mesh enabled + Texture optional.
 7. Run. Output será un mod portado a SE.
-8. Metelo en MO2, activá, prueba in-game.
+8. Metelo en MO2, activa, prueba in-game.
 
 Para optimization de modlist existente, hay guides específicas en `r/skyrimmods` sobre balance de quality vs VRAM.

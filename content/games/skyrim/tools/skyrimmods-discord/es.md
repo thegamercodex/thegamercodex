@@ -57,7 +57,7 @@ Si no hablas inglés con fluidez, la mayoría de chat es inglés.
 
 1. Unite via el invite link `discord.gg/skyrimmods` (gratis, requiere cuenta Discord).
 2. Lee las rules en `#welcome` o similar. Las violaciones (spam, NSFW fuera de channel correspondiente, drama personal) te banean.
-3. Para preguntas: identificá el channel correcto. `#mod-troubleshooting` para errores técnicos, `#general-discussion` para conversación amplia.
+3. Para preguntas: identifica el channel correcto. `#mod-troubleshooting` para errores técnicos, `#general-discussion` para conversación amplia.
 4. Para postear logs: usa pastebin o gist (Discord no maneja archivos largos bien). Linkealo en tu mensaje.
 5. Cuando recibes ayuda, agradece y compartí el resultado — la comunidad mantiene quality por reciprocidad.
 

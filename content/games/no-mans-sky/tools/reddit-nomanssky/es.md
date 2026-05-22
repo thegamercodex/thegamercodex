@@ -77,7 +77,7 @@ Vas a reddit.com/r/NoMansSkyTheGame. Lee la sidebar — tiene rules, link a Disc
 
 Subscribite si tienes cuenta. Si no, puedes crear una gratis (pseudónimo aceptado, no requiere identidad real).
 
-Filtrá por Top → All Time para ver los posts más representativos del sub. Te da idea del tipo de contenido más valorado.
+Filtra por Top → All Time para ver los posts más representativos del sub. Te da idea del tipo de contenido más valorado.
 
 Lee algunos megathreads recientes para ver cómo la comunidad organiza discusión sobre patches y eventos.
 

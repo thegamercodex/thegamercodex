@@ -6,7 +6,7 @@ quickTake: "Útil cuando tienes que pickear último y no tienes un flex hero par
 
 ## Qué es
 
-DotaPicker es una tool web gratis que ayuda con el drafting en Dota 2. La mecánica es simple: ingresá los héroes que el enemigo ya pickeó, y la tool devuelve una lista de héroes recomendados basados en combinación de relaciones de counter (qué héroes le ganan a los del enemigo) y sinergias de equipo (cuáles combinan bien con tus héroes ya seleccionados).
+DotaPicker es una tool web gratis que ayuda con el drafting en Dota 2. La mecánica es simple: ingresa los héroes que el enemigo ya pickeó, y la tool devuelve una lista de héroes recomendados basados en combinación de relaciones de counter (qué héroes le ganan a los del enemigo) y sinergias de equipo (cuáles combinan bien con tus héroes ya seleccionados).
 
 La data detrás viene de agregados públicos de partidas con weighting que prioriza counters por sobre sinergias (el desarrollador declara que counters pesan aproximadamente 2x sinergias). La tool cubre tanto All Pick (modo default) como Captain's Mode (modo competitivo con bans/picks secuenciales).
 

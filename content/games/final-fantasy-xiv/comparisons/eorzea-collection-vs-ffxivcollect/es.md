@@ -45,10 +45,10 @@ Una es estética/discovery. La otra es accounting/progress. Cero solapamiento re
 
 ## El uso combinado natural
 
-1. **Eorzea Collection**: ves un glamour build que te encanta. Te fijás los items requeridos.
-2. **FFXIV Collect**: chequeás cuáles de esos items ya tienes. Identificás los que te faltan.
+1. **Eorzea Collection**: ves un glamour build que te encanta. Te fijas los items requeridos.
+2. **FFXIV Collect**: Chequeas cuáles de esos items ya tienes. Identificás los que te faltan.
 3. Salís a farmear / craftear / buy en marketplace los items pending.
-4. Volvés a in-game, aplicás el glamour, screenshoteás y opcional postear a Eorzea Collection.
+4. Vuelves a in-game, aplicas el glamour, tomas screenshots y opcional postear a Eorzea Collection.
 
 El flow funciona muy bien combinado. Usar solo uno sería perderse la otra mitad del workflow de glamour seriou.
 

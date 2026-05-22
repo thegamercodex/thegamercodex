@@ -78,7 +78,7 @@ Si modeas un juego que no sea Valheim: Jotunn es Valheim-specific. Para otros ju
 
 **Documentación en inglés solamente**. La guía oficial y los samples están todos en inglés. No hay versión española.
 
-**No incluye toolchain visual**. A diferencia de Creation Kit (Skyrim), no hay editor visual de items. Definís todo en código.
+**No incluye toolchain visual**. A diferencia de Creation Kit (Skyrim), no hay editor visual de items. Defines todo en código.
 
 ## Cómo empezar
 

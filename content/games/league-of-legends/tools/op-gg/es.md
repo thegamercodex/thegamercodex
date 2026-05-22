@@ -77,10 +77,10 @@ Para uso recurrente, marca summoners frecuentes como favoritos — el sitio mant
 
 No requiere registro ni instalación. Vas a `op.gg`, seleccionas región, ingresas tu Riot ID y listo. Para máxima utilidad:
 
-1. Configurá favoritos con tu cuenta principal y las cuentas de tu duo.
+1. Configura favoritos con tu cuenta principal y las cuentas de tu duo.
 
 2. Bookmarkea el dashboard de tier list de tu rol — útil para checkear meta antes de cada sesión.
 
 3. Cuando estés en champ select, abre los perfiles de teammates y oponentes en paralelo (toma 30 segundos y te da contexto valioso).
 
-4. Si quieres deeper stats sobre un champion específico, complementá con Lolalytics o League of Graphs — OP.GG es excelente como overview rápido pero no como herramienta de theorycrafting.
+4. Si quieres deeper stats sobre un champion específico, complementa con Lolalytics o League of Graphs — OP.GG es excelente como overview rápido pero no como herramienta de theorycrafting.

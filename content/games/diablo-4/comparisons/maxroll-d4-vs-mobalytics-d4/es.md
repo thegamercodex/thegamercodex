@@ -25,7 +25,7 @@ No es que uno sea más "correcto" — sirven a workflows diferentes.
 
 ## Cuándo Mobalytics domina
 
-**Quick meta check semanal**. Querés saber si tu build sigue siendo top después del patch. Abrís Mobalytics, scrolleas tier list, en 30 segundos tienes la respuesta. Maxroll para la misma info te toma 5 min de prose.
+**Quick meta check semanal**. Quieres saber si tu build sigue siendo top después del patch. Abres Mobalytics, scrolleas tier list, en 30 segundos tienes la respuesta. Maxroll para la misma info te toma 5 min de prose.
 
 **Onboarding amigos casuales**. Para friends que arrancan, las cards visuales de Mobalytics son menos intimidating que las pages largas de Maxroll. Para retention, mejor.
 
@@ -38,7 +38,7 @@ No es que uno sea más "correcto" — sirven a workflows diferentes.
 La mayoría de raiders serios usan ambos en un flow estándar:
 
 1. **Mobalytics**: vista rápida del meta state actual. Scroll tier list, ves qué builds están top.
-2. **Maxroll**: deep dive del build elegido. Leés guide completo, importás planner, planeás paragon.
+2. **Maxroll**: deep dive del build elegido. Lees guide completo, importas planner, planeas paragon.
 3. **Implementación in-game** con leveling path de Maxroll.
 4. **Post-patch retorno a Mobalytics** para quick scan si tu build sobrevivió.
 

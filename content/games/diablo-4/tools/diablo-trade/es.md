@@ -21,7 +21,7 @@ Para D4 traders serious, Diablo.Trade tiene mejor volume y filtering. Traderie e
 
 ## Para qué la usa la gente
 
-**Search específico de items**: buscas ancient con specific affixes para tu build. Diablo.Trade filterable por exact criteria.
+**Search específico de items**: Buscas ancient con specific affixes para tu build. Diablo.Trade filterable por exact criteria.
 
 **Selling drops valiosos**: dropeaste un mythic. Listing en Diablo.Trade get visibility de buyers serious.
 
@@ -70,7 +70,7 @@ Para D4 traders serious, Diablo.Trade tiene mejor volume y filtering. Traderie e
 
 3. Filter search exact: budget + affixes desired para tu build.
 
-4. Si vendés: capturá screenshot del item, listas con accurate stats, response promptly a inquiries.
+4. Si vendes: captura screenshot del item, listas con accurate stats, response promptly a inquiries.
 
 5. Coordinate via in-game whisper o Discord externo.
 

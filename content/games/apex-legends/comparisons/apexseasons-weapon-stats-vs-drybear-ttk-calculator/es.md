@@ -46,6 +46,6 @@ ApexSeasons no expone formulas directamente — los filters son los limits de lo
 
 ## Recomendación
 
-Para uso diario, ApexSeasons como default por la UX. Para deep-dive theorycrafting o cuando necesités citar source authoritative, Drybear queda en bookmark complementario.
+Para uso diario, ApexSeasons como default por la UX. Para deep-dive theorycrafting o cuando necesites citar source authoritative, Drybear queda en bookmark complementario.
 
 Bookmarkear ambos cuesta nada. La elección entre uno u otro depende del momento y question — no son substitutos directos.

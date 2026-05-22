@@ -73,11 +73,11 @@ Configuración recomendada: deja la desktop app en startup para que esté dispon
 
 1. Descarga la desktop app desde `blitz.gg` (Windows o macOS).
 
-2. Instala y aceptá los permisos de integración con el cliente de LoL. Login con Riot ID.
+2. Instala y acepta los permisos de integración con el cliente de LoL. Login con Riot ID.
 
 3. La primera vez que abras champ select, Blitz dispara overlay automáticamente. Prueba importar runas y build a un click para validar la integración.
 
-4. Configurá la app para arranque con el sistema si planeas usarla en cada sesión — eso elimina toda fricción manual.
+4. Configura la app para arranque con el sistema si planeas usarla en cada sesión — eso elimina toda fricción manual.
 
 5. Si después de 1-2 semanas sientes que la automation justifica la complejidad, considera Pro tier. Si sientes que el overlay molesta más de lo que ayuda, desinstalala y vuelve a tools especializadas (op.gg + U.GG + Porofessor cubren funciones equivalentes con menos overhead).
 
