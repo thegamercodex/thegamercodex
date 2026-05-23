@@ -1,0 +1,30 @@
+{
+  "id": "palworld-save-pal",
+  "name": "Palworld Save Pal",
+  "shortName": "Save Pal",
+  "taglineEs": "Editor de saves con UI amigable para Steam y Game Pass",
+  "taglineEn": "Save editor with a friendly UI for Steam and Game Pass",
+  "url": "https://github.com/oMaN-Rod/palworld-save-pal",
+  "category": "save-and-server-tools",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/oMaN-Rod/palworld-save-pal",
+  "license": "MIT",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["save-editor", "steam", "gamepass", "gui", "player-inventory"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-22",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["palworld-pal-editor"],
+  "alternatives": ["palworld-pal-editor"],
+  "createdBy": {
+    "name": "oMaN-Rod",
+    "url": "https://github.com/oMaN-Rod"
+  }
+}

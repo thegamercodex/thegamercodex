@@ -1,0 +1,46 @@
+{
+  "id": "palworld-thgl-vs-palworld-gg",
+  "toolIds": ["palworld-thgl", "palworld-gg"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-05-22",
+  "verdictEs": "Palworld THGL si tienes Windows y quieres overlay con tracking de posición. Palworld.gg si quieres mapa web sin instalar nada, o juegas en Xbox/Mac/Linux.",
+  "verdictEn": "Palworld THGL if you're on Windows and want an overlay with position tracking. Palworld.gg if you want a web map with no install, or play on Xbox/Mac/Linux.",
+  "useCases": [
+    {
+      "labelEs": "Mapa accesible desde cualquier device",
+      "labelEn": "Map accessible from any device",
+      "winner": "palworld-gg",
+      "reasonEs": "Palworld.gg corre en cualquier browser, sin install. THGL tiene web también pero su valor diferencial está en la app de Windows.",
+      "reasonEn": "Palworld.gg runs in any browser, no install. THGL has a web version too but its differentiator is the Windows app."
+    },
+    {
+      "labelEs": "Tracking de tu posición en tiempo real mientras juegas",
+      "labelEn": "Real-time position tracking while you play",
+      "winner": "palworld-thgl",
+      "reasonEs": "Solo THGL tiene overlay desktop (Skeleton App) que lee la posición del proceso del juego y la muestra en el mapa.",
+      "reasonEn": "Only THGL has the desktop overlay (Skeleton App) that reads the game process's position and shows it on the map."
+    },
+    {
+      "labelEs": "Coordinar runs de coop con markers compartidos",
+      "labelEn": "Coordinate co-op runs with shared markers",
+      "winner": "palworld-thgl",
+      "reasonEs": "THGL soporta room codes para que el grupo vea los mismos markers en tiempo real. Palworld.gg solo permite markers locales.",
+      "reasonEn": "THGL supports room codes so the group sees the same markers in real time. Palworld.gg only allows local markers."
+    },
+    {
+      "labelEs": "Filtrar layers de Pals, dungeons, fast travel rápido",
+      "labelEn": "Quickly filter Pals, dungeons, fast travel layers",
+      "winner": "palworld-gg",
+      "reasonEs": "Palworld.gg tiene UI de layers más pulida y filtering más fluido. THGL es más crudo y la UX de filters es menos directa.",
+      "reasonEn": "Palworld.gg has more polished layer UI and smoother filtering. THGL is rawer and the filter UX is less direct."
+    },
+    {
+      "labelEs": "Updates rápidos de contenido tras un parche grande",
+      "labelEn": "Fast content updates after a big patch",
+      "winner": "palworld-gg",
+      "reasonEs": "Palworld.gg actualiza dentro de 48-72h tras cada parche. THGL es proyecto chico mantenido por una persona — los updates suelen tardar más.",
+      "reasonEn": "Palworld.gg updates within 48-72h after each patch. THGL is a small project maintained by one person — updates usually take longer."
+    }
+  ]
+}

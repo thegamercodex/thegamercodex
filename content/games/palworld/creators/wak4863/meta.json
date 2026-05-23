@@ -1,0 +1,35 @@
+{
+  "id": "wak4863",
+  "name": "Wak4863",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2011,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Wak4863",
+      "url": "https://www.youtube.com/@Wak4863",
+      "channelId": "UCLBhry5RA66Du3BA2YeLByg",
+      "primary": true
+    }
+  ],
+  "specialties": ["survival", "base-building", "exploration", "soulslike-survival"],
+  "games": ["palworld"],
+  "contentTypes": ["lets-play", "tutorials", "exploration"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Veterano del género survival/sandbox en YouTube. Su cobertura de Palworld incluye let's plays largos, walkthroughs de zonas nuevas con cada parche, y deep-dives en mecánicas que la mayoría de canales solo mencionan en pasada. Estilo pausado, sin overproducción — ideal si prefieres sesiones largas y voz tranquila antes que videos de 10 minutos cortados rápido.",
+  "noteEn": "YouTube survival/sandbox veteran. His Palworld coverage includes long let's plays, walkthroughs of new zones with each patch, and deep-dives into mechanics most channels only mention in passing. Slow-paced, no overproduction — ideal if you prefer long sessions and a calm voice over fast-cut 10-minute videos.",
+  "highlightsEs": [
+    "Let's plays largos de Palworld (1+ hora por episodio) con exploración real, no compilado",
+    "Cobertura por zona nueva en cada parche grande",
+    "Cross-coverage de juegos del mismo género (Soulmask, Conan, Valheim) útil para encontrar patrones"
+  ],
+  "highlightsEn": [
+    "Long Palworld let's plays (1+ hour per episode) with real exploration, not montage",
+    "Per-zone coverage on every major patch",
+    "Cross-coverage of same-genre games (Soulmask, Conan, Valheim) useful for spotting patterns"
+  ],
+  "avatar": "/images/creators/wak4863-avatar.jpg",
+  "banner": "/images/creators/wak4863-banner.jpg"
+}

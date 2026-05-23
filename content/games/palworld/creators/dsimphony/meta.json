@@ -1,0 +1,35 @@
+{
+  "id": "dsimphony",
+  "name": "DSimphony",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "joinedYear": 2011,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@DSimphony",
+      "url": "https://www.youtube.com/@DSimphony",
+      "channelId": "UCP30uBTSxC3oF3wh7CHKpbw",
+      "primary": true
+    }
+  ],
+  "specialties": ["variety", "tutorials", "indie-spotlight", "lets-play"],
+  "games": ["palworld"],
+  "contentTypes": ["lets-play", "tutorials", "tips"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Variety español muy activo con cobertura sostenida de Palworld desde el lanzamiento. Mezcla let's plays largos en español con tutoriales puntuales (cómo capturar Tower Bosses, tips de captura, gestión de base). Es de las pocas voces en español que combina entretenimiento con explicación clara de mecánicas, sin caer en clickbait. Aunque su upload diario es de variety, vuelve a Palworld con cada update grande.",
+  "noteEn": "Very active Spanish variety creator with sustained Palworld coverage since launch. Mixes long Spanish let's plays with targeted tutorials (how to capture Tower Bosses, capture tips, base management). One of the few Spanish voices that combines entertainment with clear mechanic explanations without falling into clickbait. Though his daily upload is variety, he returns to Palworld with every major update.",
+  "highlightsEs": [
+    "Cobertura sostenida en español desde el lanzamiento de Palworld en enero 2024",
+    "Tutoriales puntuales referenciados como la mejor explicación en castellano de mecánicas avanzadas",
+    "Comunidad establecida (450k+ subs) lista para coop y discusión en Discord asociado"
+  ],
+  "highlightsEn": [
+    "Sustained Spanish coverage since Palworld's January 2024 launch",
+    "Targeted tutorials referenced as the best Spanish-language explanations of advanced mechanics",
+    "Established community (450k+ subs) ready for co-op and discussion on linked Discord"
+  ],
+  "avatar": "/images/creators/dsimphony-avatar.jpg",
+  "banner": "/images/creators/dsimphony-banner.jpg"
+}

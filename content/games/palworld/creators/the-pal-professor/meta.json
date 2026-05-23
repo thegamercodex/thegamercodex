@@ -1,0 +1,37 @@
+{
+  "id": "the-pal-professor",
+  "name": "The Pal Professor",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2024,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@ThePalProfessor",
+      "url": "https://www.youtube.com/@ThePalProfessor",
+      "channelId": "UClztq8zUilh9Ign-Q-tNxSw",
+      "primary": true
+    }
+  ],
+  "specialties": ["palworld-dedicated", "tier-lists", "combat-builds", "patch-coverage"],
+  "games": ["palworld"],
+  "contentTypes": ["guides", "tier-lists", "lets-play", "patch-notes"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Canal 100% dedicado a Palworld desde febrero 2024. Su sitio thepalprofessor.com complementa con guías escritas. Foco en tier-lists actualizadas por patch (Skill Fruit, Element, Combat Pals), tips & tricks compilados, y patch notes a las pocas horas de cada release. Para alguien que solo le importa Palworld, este es el canal más útil.",
+  "noteEn": "100% Palworld-dedicated channel since February 2024. His site thepalprofessor.com complements with written guides. Focus on patch-updated tier lists (Skill Fruit, Element, Combat Pals), compiled tips & tricks, and patch notes within hours of each release. For someone who only cares about Palworld, this is the most useful single channel.",
+  "highlightsEs": [
+    "Tier lists actualizadas por patch — Skill Fruit, Element, Combat Pals, Base Pals",
+    "Compilations \"Tips & Tricks\" multi-parte con datos no obvios del juego",
+    "Patch notes y análisis dentro de las 24h de cada release",
+    "Sitio web complementario (thepalprofessor.com) con guías escritas y builds"
+  ],
+  "highlightsEn": [
+    "Patch-updated tier lists — Skill Fruit, Element, Combat Pals, Base Pals",
+    "\"Tips & Tricks\" multi-part compilations with non-obvious game data",
+    "Patch notes and analysis within 24h of each release",
+    "Complementary website (thepalprofessor.com) with written guides and builds"
+  ],
+  "avatar": "/images/creators/the-pal-professor-avatar.jpg",
+  "banner": "/images/creators/the-pal-professor-banner.jpg"
+}

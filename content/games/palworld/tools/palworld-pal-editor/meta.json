@@ -1,0 +1,30 @@
+{
+  "id": "palworld-pal-editor",
+  "name": "Palworld Pal Editor",
+  "shortName": "Pal Editor",
+  "taglineEs": "Editor de saves con WebUI, Docker y CLI para modificar Pals individuales",
+  "taglineEn": "Save editor with WebUI, Docker, and CLI to modify individual Pals",
+  "url": "https://github.com/KrisCris/Palworld-Pal-Editor",
+  "category": "save-and-server-tools",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/KrisCris/Palworld-Pal-Editor",
+  "license": "GPL-3.0",
+  "platforms": ["windows", "macos", "linux"],
+  "languages": ["en"],
+  "tags": ["save-editor", "docker", "webui", "cli", "viewing-cage"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-22",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["palworld-save-pal"],
+  "alternatives": ["palworld-save-pal"],
+  "createdBy": {
+    "name": "KrisCris",
+    "url": "https://github.com/KrisCris"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "palbreed-ai-vs-xgaming-breeding-calculator",
+  "toolIds": ["palbreed-ai", "xgaming-breeding-calculator"],
+  "category": "breeding-and-planning",
+  "depth": "short",
+  "lastVerified": "2026-05-22",
+  "verdictEs": "PalBreed.AI si necesitas pathfinder multi-generación o asistente AI. XGamingServer Breeding Calculator si solo quieres el lookup directo o inverso instantáneo, sin AI ni features extra.",
+  "verdictEn": "PalBreed.AI if you need multi-generation pathfinding or an AI assistant. XGamingServer Breeding Calculator if you just want instant direct or reverse lookup, no AI or extra features.",
+  "useCases": [
+    {
+      "labelEs": "Saber qué sale de cruzar dos Pals específicos",
+      "labelEn": "Know what comes out of crossing two specific Pals",
+      "winner": "xgaming-breeding-calculator",
+      "reasonEs": "XGS tiene los 19,044 combos precomputados. Selecciona ambos padres y el hijo aparece al instante, sin tiempo de cómputo.",
+      "reasonEn": "XGS has all 19,044 combos precomputed. Pick both parents and the child appears instantly, no compute time."
+    },
+    {
+      "labelEs": "Planear cadena de 3-5 generaciones para un Pal endgame",
+      "labelEn": "Plan a 3-5 generation chain for an endgame Pal",
+      "winner": "palbreed-ai",
+      "reasonEs": "PalBreed.AI tiene pathfinder de shortest-path. XGS solo te dice padres directos — para chains largas tendrías que iterar manualmente saltando entre lookups.",
+      "reasonEn": "PalBreed.AI has shortest-path pathfinding. XGS only shows direct parents — for long chains you'd have to iterate manually, jumping between lookups."
+    },
+    {
+      "labelEs": "Optimizar probabilidad de heredar 4 passives específicas",
+      "labelEn": "Optimize probability of inheriting 4 specific passives",
+      "winner": "palbreed-ai",
+      "reasonEs": "PalBreed.AI calcula probabilidades de heredar combos de passives en cada paso del chain. XGS no trackea passives, solo speciation.",
+      "reasonEn": "PalBreed.AI computes probabilities of inheriting passive combos at each chain step. XGS doesn't track passives, only speciation."
+    },
+    {
+      "labelEs": "Verificación rápida durante sesión de breeding activa",
+      "labelEn": "Quick verification during an active breeding session",
+      "winner": "xgaming-breeding-calculator",
+      "reasonEs": "XGS abre rápido y resuelve la query en 2 clicks. PalBreed.AI tiene loading times mayores y la UI puede sobresaltarte cuando solo necesitas confirmar A+B=X.",
+      "reasonEn": "XGS loads fast and resolves the query in 2 clicks. PalBreed.AI has heavier loading and a UI that overshoots when you just want to confirm A+B=X."
+    },
+    {
+      "labelEs": "Preguntar dudas conceptuales de breeding en lenguaje natural",
+      "labelEn": "Ask conceptual breeding questions in natural language",
+      "winner": "palbreed-ai",
+      "reasonEs": "PalBreed.AI tiene asistente chat que responde preguntas como \"¿cómo paso Burly Body de Anubis a Jormuntide?\". XGS solo entiende dropdowns, no preguntas.",
+      "reasonEn": "PalBreed.AI has a chat assistant that handles questions like \"how do I pass Burly Body from Anubis to Jormuntide?\". XGS only understands dropdowns, not questions."
+    }
+  ]
+}

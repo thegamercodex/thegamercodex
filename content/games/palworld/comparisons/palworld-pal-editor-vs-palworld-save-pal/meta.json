@@ -1,0 +1,46 @@
+{
+  "id": "palworld-pal-editor-vs-palworld-save-pal",
+  "toolIds": ["palworld-pal-editor", "palworld-save-pal"],
+  "category": "save-and-server-tools",
+  "depth": "flagship",
+  "lastVerified": "2026-05-22",
+  "verdictEs": "Palworld Pal Editor si necesitas Docker/WebUI, server remoto o el Viewing Cage en multi. Palworld Save Pal si solo editas tu save local en Steam o Game Pass y quieres workflow rápido.",
+  "verdictEn": "Palworld Pal Editor if you need Docker/WebUI, remote server access, or the Viewing Cage in multi. Palworld Save Pal if you only edit a local save on Steam or Game Pass and want a fast workflow.",
+  "useCases": [
+    {
+      "labelEs": "Editar save local de Steam single-player",
+      "labelEn": "Edit a local Steam single-player save",
+      "winner": "palworld-save-pal",
+      "reasonEs": "Save Pal tiene UX desktop más pulida y workflow más rápido para edits casuales. Auto-detecta el save sin config y la GUI es más amigable que la WebUI de Pal Editor.",
+      "reasonEn": "Save Pal has a more polished desktop UX and faster workflow for casual edits. Auto-detects the save without config and the GUI is friendlier than Pal Editor's WebUI."
+    },
+    {
+      "labelEs": "Editar saves de server dedicado remoto",
+      "labelEn": "Edit remote dedicated server saves",
+      "winner": "palworld-pal-editor",
+      "reasonEs": "Pal Editor tiene Docker container que corre en el server y expone WebUI accesible desde browser. Save Pal requiere acceso local al archivo, no aplica a setups remotos.",
+      "reasonEn": "Pal Editor ships a Docker container that runs on the server and exposes a WebUI accessible from any browser. Save Pal requires local file access, doesn't apply to remote setups."
+    },
+    {
+      "labelEs": "Desbloquear Viewing Cage en multiplayer",
+      "labelEn": "Unlock Viewing Cage in multiplayer",
+      "winner": "palworld-pal-editor",
+      "reasonEs": "Solo Pal Editor expone la flag del save que habilita el Viewing Cage fuera de single-player. Save Pal no toca esa flag.",
+      "reasonEn": "Only Pal Editor exposes the save flag that enables the Viewing Cage outside single-player. Save Pal doesn't touch that flag."
+    },
+    {
+      "labelEs": "Editar inventario y stats del player (no solo Pals)",
+      "labelEn": "Edit player inventory and stats (not just Pals)",
+      "winner": "palworld-save-pal",
+      "reasonEs": "Save Pal tiene tabs dedicados a Player Inventory, Stats y Unlocks. Pal Editor está más enfocado en Pals individuales y deja el inventario del player como afterthought.",
+      "reasonEn": "Save Pal has dedicated tabs for Player Inventory, Stats, and Unlocks. Pal Editor is more focused on individual Pals and treats player inventory as an afterthought."
+    },
+    {
+      "labelEs": "Automatizar workflows con scripts",
+      "labelEn": "Automate workflows with scripts",
+      "winner": "palworld-pal-editor",
+      "reasonEs": "Pal Editor tiene CLI scriptable (instalable via pip). Save Pal es 100% GUI sin equivalent CLI — no se puede meter en un cron job ni pipeline.",
+      "reasonEn": "Pal Editor has a scriptable CLI (installable via pip). Save Pal is 100% GUI with no CLI equivalent — can't be wired into a cron job or pipeline."
+    }
+  ]
+}

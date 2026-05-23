@@ -1,0 +1,29 @@
+{
+  "id": "palworld-thgl",
+  "name": "Palworld THGL Map",
+  "shortName": "THGL Map",
+  "taglineEs": "Mapa interactivo con overlay in-game para Palworld",
+  "taglineEn": "Interactive Palworld map with in-game overlay",
+  "url": "https://palworld.th.gl/",
+  "category": "reference",
+  "type": "overlay",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/lmachens/skeleton",
+  "platforms": ["web", "windows"],
+  "languages": ["en"],
+  "tags": ["map", "overlay", "exploration", "dungeons"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-22",
+  "logo": "/images/tools/palworld/palworld-thgl-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["palworld-gg", "paldb-cc"],
+  "alternatives": ["palworld-gg"],
+  "createdBy": {
+    "name": "The Hidden Gaming Lair (Leon Machens)",
+    "url": "https://www.th.gl/"
+  }
+}

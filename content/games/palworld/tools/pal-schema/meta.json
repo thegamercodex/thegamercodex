@@ -1,0 +1,30 @@
+{
+  "id": "pal-schema",
+  "name": "PalSchema",
+  "shortName": "PalSchema",
+  "taglineEs": "Framework que permite modificar data tables y blueprints con JSON",
+  "taglineEn": "Framework that lets you modify data tables and blueprints with JSON",
+  "url": "https://github.com/Okaetsu/PalSchema",
+  "category": "modding-frameworks",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Okaetsu/PalSchema",
+  "license": "MIT",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["modding", "framework", "json", "data-tables", "low-conflict"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-22",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["ue4ss", "nexus-mods-palworld"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Okaetsu",
+    "url": "https://github.com/Okaetsu"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "category": "mods-and-multiplayer",
+  "resources": [
+    {
+      "id": "techmedic-palworld-mods-easy-step-by-step-2025",
+      "type": "video",
+      "title": "Palworld MODS - Easy step by step (PC) 2026 Relevant",
+      "creator": "Techmedic",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=D9fMl-PVRR0",
+      "youtubeId": "D9fMl-PVRR0",
+      "language": "en",
+      "duration": "26:44",
+      "publishedDate": "2025-07-25",
+      "thumbnail": "https://i.ytimg.com/vi/D9fMl-PVRR0/maxresdefault.jpg",
+      "noteEs": "Tutorial largo y minucioso que cubre UE4SS, PalSchema y manual install. Si arrancas con mods en serio (no solo 1-2 sueltos), este es el video que te ahorra horas de troubleshooting.",
+      "noteEn": "Long, thorough tutorial covering UE4SS, PalSchema, and manual install. If you're starting with mods seriously (not just 1-2), this video saves you hours of troubleshooting."
+    },
+    {
+      "id": "tokyyoo-install-mods-beginners-guide-2025",
+      "type": "video",
+      "title": "Palworld: How To Install Mods - Complete Beginner's Guide!",
+      "creator": "Tokyyoo",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=RVxNX_5S6Jo",
+      "youtubeId": "RVxNX_5S6Jo",
+      "language": "en",
+      "duration": "5:47",
+      "publishedDate": "2025-10-20",
+      "thumbnail": "https://i.ytimg.com/vi/RVxNX_5S6Jo/maxresdefault.jpg",
+      "noteEs": "Versión corta y reciente (Oct 2025) del install. 5 minutos limpios — si lo de Techmedic te abruma, esta es la entrada amigable.",
+      "noteEn": "Short, recent (Oct 2025) install walkthrough. 5 clean minutes — if Techmedic's long-form overwhelms you, this is the friendlier entry point."
+    },
+    {
+      "id": "simplyamazing-install-mods-super-easy",
+      "type": "video",
+      "title": "How To Install Mods In Palworld! (Super Easy)",
+      "creator": "SIMPLYAMAZING",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=OMi8nPlznBc",
+      "youtubeId": "OMi8nPlznBc",
+      "language": "en",
+      "duration": "7:47",
+      "publishedDate": "2024-02-05",
+      "thumbnail": "https://i.ytimg.com/vi/OMi8nPlznBc/maxresdefault.jpg",
+      "noteEs": "Tutorial clásico de install. La estructura de folders de mods en Palworld no cambió radicalmente — sigue siendo útil aunque sea de Feb 2024.",
+      "noteEn": "Classic install tutorial. Palworld's mod folder structure hasn't radically changed — still useful even though it's from Feb 2024."
+    },
+    {
+      "id": "howtoharbor-dedicated-server-setup-2024",
+      "type": "video",
+      "title": "How to Set Up Palworld Dedicated Server in 2026 | Palworld Tips and Tricks",
+      "creator": "HowToHarbor",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=vqgwDBZMJGA",
+      "youtubeId": "vqgwDBZMJGA",
+      "language": "en",
+      "duration": "6:51",
+      "publishedDate": "2024-02-12",
+      "thumbnail": "https://i.ytimg.com/vi/vqgwDBZMJGA/maxresdefault.jpg",
+      "noteEs": "Guía visual para hostear server dedicado: Steam install, port forwarding, primera config. Lo básico para que tu grupo pueda conectarse.",
+      "noteEn": "Visual guide to hosting a dedicated server: Steam install, port forwarding, first config. The basics so your group can connect."
+    },
+    {
+      "id": "vedui42-dedicated-server-setup-guide",
+      "type": "video",
+      "title": "PALWORLD Dedicated Server Setup Guide",
+      "creator": "Vedui42",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=lU1tVu-Ul1I",
+      "youtubeId": "lU1tVu-Ul1I",
+      "language": "en",
+      "duration": "6:06",
+      "publishedDate": "2024-01-19",
+      "thumbnail": "https://i.ytimg.com/vi/lU1tVu-Ul1I/maxresdefault.jpg",
+      "noteEs": "Setup guide del día de lanzamiento — Vedui42 es uno de los referentes históricos en server admin. Aunque viejo, las flags de PalServer.exe y el flow general siguen vigentes.",
+      "noteEn": "Setup guide from launch day — Vedui42 is a historical reference in server admin. Though old, PalServer.exe flags and the general flow still apply."
+    }
+  ]
+}

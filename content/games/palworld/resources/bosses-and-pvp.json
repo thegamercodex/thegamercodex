@@ -1,0 +1,80 @@
+{
+  "category": "bosses-and-pvp",
+  "resources": [
+    {
+      "id": "ancientrune-raid-boss-guide-feybreak-2025",
+      "type": "video",
+      "title": "Palworld Feybreak - How To Beat Xenolord, Blazamut Ryu, and Bellanoir Libero - Raid Boss Guide",
+      "creator": "AncientRune",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ZWPGw-QYvGU",
+      "youtubeId": "ZWPGw-QYvGU",
+      "language": "en",
+      "duration": "20:22",
+      "publishedDate": "2025-01-03",
+      "thumbnail": "https://i.ytimg.com/vi/ZWPGw-QYvGU/maxresdefault.jpg",
+      "noteEs": "Guía consolidada de los tres raid bosses introducidos en Feybreak. Cubre summon requirements, builds recomendados, weapon picks y estrategia post-meteor para Xenolord. Si vas a hacer raids serias, empezar acá.",
+      "noteEn": "Consolidated guide to the three raid bosses introduced in Feybreak. Covers summon requirements, recommended builds, weapon picks, and post-meteor strategy for Xenolord. If you'll do serious raids, start here."
+    },
+    {
+      "id": "vilestride-oil-rig-level-60-2025",
+      "type": "video",
+      "title": "Palworld - The ULTIMATE Level 60 Oil Rig Guide: Pals, Gear, Chest Locations & More!",
+      "creator": "Vilestride",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ADl5AQ97dSw",
+      "youtubeId": "ADl5AQ97dSw",
+      "language": "en",
+      "duration": "8:29",
+      "publishedDate": "2025-11-17",
+      "thumbnail": "https://i.ytimg.com/vi/ADl5AQ97dSw/maxresdefault.jpg",
+      "noteEs": "Versión más actual del guide del Oil Rig: 8 minutos comprimidos con todo lo esencial. Pals, gear, ubicación de chests y patrones de spawn de enemies. Ideal para sesión rápida pre-run.",
+      "noteEn": "Most current Oil Rig guide: 8 compressed minutes with everything essential. Pals, gear, chest locations, and enemy spawn patterns. Ideal for a quick session pre-run."
+    },
+    {
+      "id": "blitz-endgame-oil-rig-feybreak-2025",
+      "type": "video",
+      "title": "I Raid The Endgame OIL RIG in Palworld Feybreak",
+      "creator": "Blitz",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=632T7S3IWjU",
+      "youtubeId": "632T7S3IWjU",
+      "language": "en",
+      "duration": "44:55",
+      "publishedDate": "2025-01-19",
+      "thumbnail": "https://i.ytimg.com/vi/632T7S3IWjU/maxresdefault.jpg",
+      "noteEs": "Walkthrough completo en formato gameplay: 45 minutos de run real con comentario en tiempo real. Útil para ver cómo se siente el Oil Rig sin spoiler vs guías editadas en 8 min.",
+      "noteEn": "Complete walkthrough in gameplay format: 45 minutes of a real run with live commentary. Useful for seeing how the Oil Rig actually feels, unlike heavily edited 8-minute guides."
+    },
+    {
+      "id": "tropsplays-only-oil-rig-guide",
+      "type": "video",
+      "title": "Palworld - The Only Oil Rig Guide You Need to Watch",
+      "creator": "TropsPlays",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=KdlkSJhVCcw",
+      "youtubeId": "KdlkSJhVCcw",
+      "language": "en",
+      "duration": "9:41",
+      "publishedDate": "2024-07-21",
+      "thumbnail": "https://i.ytimg.com/vi/KdlkSJhVCcw/maxresdefault.jpg",
+      "noteEs": "Guía referencia del Oil Rig original (Sakurajima). Las rutas de entrada y la mecánica core siguen vigentes; lo único que cambió son los Pals recommendados con los buffs nuevos.",
+      "noteEn": "Reference guide for the original (Sakurajima) Oil Rig. Entry routes and core mechanic still apply; the only thing that's changed is the recommended Pals with newer buffs."
+    },
+    {
+      "id": "dsimphony-tower-bosses-capturar-es",
+      "type": "video",
+      "title": "Como CAPTURAR A LOS JEFES DE TORRE en PALWORLD y otros consejos - DSimphony",
+      "creator": "DSimphony",
+      "creatorId": "dsimphony",
+      "url": "https://www.youtube.com/watch?v=APH5SIEWNOk",
+      "youtubeId": "APH5SIEWNOk",
+      "language": "es",
+      "duration": "21:40",
+      "publishedDate": "2024-01-24",
+      "thumbnail": "https://i.ytimg.com/vi/APH5SIEWNOk/maxresdefault.jpg",
+      "noteEs": "Una de las pocas guías serias en español sobre cómo enfrentar Tower Bosses, incluyendo el trick de capturarlos (que sí, se puede). 21 minutos densos con explicación clara.",
+      "noteEn": "One of the few serious Spanish-language guides on tackling Tower Bosses, including the trick of capturing them (yes, you can). 21 dense minutes with clear delivery."
+    }
+  ]
+}

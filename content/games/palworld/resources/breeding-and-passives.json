@@ -1,0 +1,80 @@
+{
+  "category": "breeding-and-passives",
+  "resources": [
+    {
+      "id": "vilestride-everything-breed-perfect-2025",
+      "type": "video",
+      "title": "EVERYTHING You Need To Know To Breed The PERFECT Pals In Palworld - Updated Breeding Guide",
+      "creator": "Vilestride",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=FjE2vmpjUr4",
+      "youtubeId": "FjE2vmpjUr4",
+      "language": "en",
+      "duration": "14:36",
+      "publishedDate": "2025-08-01",
+      "thumbnail": "https://i.ytimg.com/vi/FjE2vmpjUr4/maxresdefault.jpg",
+      "noteEs": "La guía de breeding actualizada más completa. Cubre el sistema post-Feybreak (Passive Skill Tiers S/A/B/C) y enseña a maximizar IVs y passives sin perder horas. Si solo vas a ver una guía de breeding, esta.",
+      "noteEn": "The most complete updated breeding guide. Covers the post-Feybreak system (Passive Skill Tiers S/A/B/C) and shows how to max IVs and passives without burning hours. If you're only watching one breeding guide, this is it."
+    },
+    {
+      "id": "dpj-perfect-pals-feybreak-2025",
+      "type": "video",
+      "title": "How To Get PERFECT PALS & PASSIVES Faster Than Ever in PALWORLD Feybreak",
+      "creator": "DPJ",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ZATJq1b7sqY",
+      "youtubeId": "ZATJq1b7sqY",
+      "language": "en",
+      "duration": "9:59",
+      "publishedDate": "2025-01-25",
+      "thumbnail": "https://i.ytimg.com/vi/ZATJq1b7sqY/maxresdefault.jpg",
+      "noteEs": "Specifically para el meta de Feybreak: cómo el Surgery Table cambia el cálculo de breeding y por qué a veces conviene operar en vez de criar. 10 minutos al grano.",
+      "noteEn": "Specifically for the Feybreak meta: how the Surgery Table changes breeding math and when surgery beats breeding. 10 minutes, no fluff."
+    },
+    {
+      "id": "gunghoguns-master-breeding-2025",
+      "type": "video",
+      "title": "Palworld: Master The Art Of BREEDING! Easy Passives & IV's - FULL GUIDE",
+      "creator": "GunghoGuns Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=9qKNKdt2Wts",
+      "youtubeId": "9qKNKdt2Wts",
+      "language": "en",
+      "duration": "29:22",
+      "publishedDate": "2025-01-05",
+      "thumbnail": "https://i.ytimg.com/vi/9qKNKdt2Wts/maxresdefault.jpg",
+      "noteEs": "Versión larga (29 min) que cubre el sistema completo: mecánica, calculadora, cadenas multi-generación, IV stacking. Para alguien que quiere entender el porqué, no solo el cómo.",
+      "noteEn": "Long version (29 min) that covers the full system: mechanics, calculator, multi-generation chains, IV stacking. For someone who wants to understand the why, not just the how."
+    },
+    {
+      "id": "genjaw-complete-breeding-perfect-iv",
+      "type": "video",
+      "title": "Complete Breeding Guide to Perfect IVs and Passives | Palworld",
+      "creator": "Genjaw Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Ci8oVkWr03M",
+      "youtubeId": "Ci8oVkWr03M",
+      "language": "en",
+      "duration": "12:12",
+      "publishedDate": "2024-07-22",
+      "thumbnail": "https://i.ytimg.com/vi/Ci8oVkWr03M/maxresdefault.jpg",
+      "noteEs": "Guía clásica sobre cómo conseguir perfect IVs sin volverse loco con la calculadora. Lo que enseña sigue 100% vigente — los IVs no cambiaron desde Sakurajima.",
+      "noteEn": "Classic guide on how to land perfect IVs without going crazy with the calculator. What it teaches is still 100% valid — IVs haven't changed since Sakurajima."
+    },
+    {
+      "id": "vomakith-passing-ivs-passives-efficiently",
+      "type": "video",
+      "title": "Passing on IVs & Passives Efficiently via Breeding Palworld",
+      "creator": "Vomakith",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=2yHnhTCfNug",
+      "youtubeId": "2yHnhTCfNug",
+      "language": "en",
+      "duration": "5:13",
+      "publishedDate": "2024-09-16",
+      "thumbnail": "https://i.ytimg.com/vi/2yHnhTCfNug/maxresdefault.jpg",
+      "noteEs": "5 minutos enfocados solo en la mecánica de herencia. Si las guías largas te abruman, esta es la versión \"explicado en un café\". Útil como repaso rápido también.",
+      "noteEn": "5 minutes focused only on the inheritance mechanic. If long guides overwhelm you, this is the \"explained over coffee\" version. Also useful as a quick refresher."
+    }
+  ]
+}

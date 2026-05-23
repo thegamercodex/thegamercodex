@@ -1,0 +1,132 @@
+{
+  "id": "palworld",
+  "name": "Palworld",
+  "shortName": "Palworld",
+  "developer": "Pocketpair",
+  "releaseYear": 2024,
+  "officialUrl": "https://www.pocketpair.jp/palworld",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/1623730/Palworld/",
+      "appId": "1623730",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/store/palworld/9pp53dz9nl1c",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": false,
+    "purchaseTypes": [],
+    "payToWin": false,
+    "noteEs": "Compra única (~$30 USD en Steam, incluido en Xbox Game Pass para PC y consola). Sin microtransacciones, sin battle pass, sin DLC pago. Las expansiones de gran escala (Sakurajima, Feybreak, Tides of Terraria) llegaron gratis y Pocketpair confirmó que la 1.0 con la World Tree mantiene ese modelo. Sigue oficialmente en Early Access — el progreso de cada parche puede romper saves antiguos, leer las patch notes antes de actualizar.",
+    "noteEn": "One-time purchase (~$30 USD on Steam, included with Xbox Game Pass on PC and console). No microtransactions, no battle pass, no paid DLC. The large expansions (Sakurajima, Feybreak, Tides of Terraria) shipped free and Pocketpair confirmed the upcoming 1.0 with the World Tree keeps that model. Still officially in Early Access — major patches can break older saves, read the patch notes before updating."
+  },
+  "platforms": ["windows", "xbox"],
+  "genres": ["survival", "open-world", "creature-collection", "crafting", "multiplayer", "shooter"],
+  "theme": {
+    "primary": "#2b5fa1",
+    "secondary": "#141a2b",
+    "accent": "#ffb547",
+    "background": "#080d18",
+    "text": "#eef2fb"
+  },
+  "logo": "/images/games/palworld-logo.png",
+  "heroImage": "/images/games/palworld-hero.webp",
+  "toolCategories": [
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Bases de datos, wikis y mapas interactivos con la información canónica de Pals, items y mundo",
+      "descriptionEn": "Databases, wikis, and interactive maps with the canonical data on Pals, items, and the world",
+      "icon": "📚"
+    },
+    {
+      "id": "breeding-and-planning",
+      "nameEs": "Breeding y Planificación",
+      "nameEn": "Breeding & Planning",
+      "descriptionEs": "Calculadoras de combos, optimizadores de passives y planificadores de bases para sacar el máximo de cada Pal",
+      "descriptionEn": "Combo calculators, passive optimizers, and base planners to squeeze the most out of every Pal",
+      "icon": "🧬"
+    },
+    {
+      "id": "mod-hubs",
+      "nameEs": "Hubs de Mods",
+      "nameEn": "Mod Hubs",
+      "descriptionEs": "Repositorios y mod managers donde la comunidad publica y descubre los mods de Palworld",
+      "descriptionEn": "Repositories and mod managers where the community publishes and discovers Palworld mods",
+      "icon": "🌐"
+    },
+    {
+      "id": "modding-frameworks",
+      "nameEs": "Frameworks de Modding",
+      "nameEn": "Modding Frameworks",
+      "descriptionEs": "Base técnica que carga y expone APIs para que el resto de mods de Palworld puedan correr",
+      "descriptionEn": "Technical foundation that loads and exposes APIs so the rest of Palworld mods can run",
+      "icon": "🧩"
+    },
+    {
+      "id": "save-and-server-tools",
+      "nameEs": "Saves y Servidores",
+      "nameEn": "Saves & Servers",
+      "descriptionEs": "Editores de save y managers de servidor dedicado para arreglar Pals corruptos o administrar un server con amigos",
+      "descriptionEn": "Save editors and dedicated server managers to fix corrupted Pals or run a server with friends",
+      "icon": "💾"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Servidores donde la comunidad de Palworld coordina coop, comparte builds y resuelve dudas",
+      "descriptionEn": "Servers where the Palworld community coordinates co-op, shares builds, and answers questions",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para arrancar Palworld: primer Pal, primera base, las primeras 10 horas sin trabarse",
+      "descriptionEn": "Essential resources to start Palworld: first Pal, first base, your first 10 hours without getting stuck",
+      "icon": "🌱"
+    },
+    {
+      "id": "breeding-and-passives",
+      "nameEs": "Breeding y Passives",
+      "nameEn": "Breeding & Passives",
+      "descriptionEs": "Cómo armar combos, qué passives priorizar y rutas eficientes para criar el Pal perfecto",
+      "descriptionEn": "How to plan combos, which passives to prioritize, and efficient routes to breed the perfect Pal",
+      "icon": "🧬"
+    },
+    {
+      "id": "base-and-production",
+      "nameEs": "Base y Producción",
+      "nameEn": "Base & Production",
+      "descriptionEs": "Layouts eficientes, work suitability óptima y automatización de las cadenas de producción",
+      "descriptionEn": "Efficient layouts, optimal work suitability, and automation of production chains",
+      "icon": "🏗️"
+    },
+    {
+      "id": "bosses-and-pvp",
+      "nameEs": "Bosses y Endgame",
+      "nameEn": "Bosses & Endgame",
+      "descriptionEs": "Estrategias para Tower Bosses, Alpha Pals, Predator Pals, raids y la Oil Rig de endgame",
+      "descriptionEn": "Strategies for Tower Bosses, Alpha Pals, Predator Pals, raids, and the endgame Oil Rig",
+      "icon": "⚔️"
+    },
+    {
+      "id": "mods-and-multiplayer",
+      "nameEs": "Mods y Multiplayer",
+      "nameEn": "Mods & Multiplayer",
+      "descriptionEs": "Listas curadas de mods, tutoriales de instalación y guías para armar un servidor dedicado con amigos",
+      "descriptionEn": "Curated mod lists, install tutorials, and guides to spin up a dedicated server with friends",
+      "icon": "⭐"
+    }
+  ]
+}
