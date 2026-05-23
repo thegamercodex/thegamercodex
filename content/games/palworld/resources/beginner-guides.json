@@ -1,0 +1,81 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "ragegaming-tides-terraria-starter-2025",
+      "type": "video",
+      "title": "Palworld Tides of Terraria - Ultimate Starter Guide & EVERYTHING We Know - New Pals, Islands & More!",
+      "creator": "RageGamingVideos",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=FMI4w3kLjpw",
+      "youtubeId": "FMI4w3kLjpw",
+      "language": "en",
+      "duration": "10:19",
+      "publishedDate": "2025-06-24",
+      "thumbnail": "https://i.ytimg.com/vi/FMI4w3kLjpw/maxresdefault.jpg",
+      "noteEs": "Resumen claro y conciso de qué entra con Tides of Terraria: 7 islas nuevas, ~27 Pals, fishing y Moon Lord raid. Ideal como primer video tras volver del juego o tras un descanso.",
+      "noteEn": "Clean, concise rundown of what landed with Tides of Terraria: 7 new islands, ~27 Pals, fishing, and the Moon Lord raid. Ideal first video when returning to the game or after a break."
+    },
+    {
+      "id": "dpj-15-advanced-tides-terraria-2025",
+      "type": "video",
+      "title": "15 ADVANCED Gameplay TIPS That EVERY PLAYER NEEDS TO KNOW In Palworld Tides Of Terraria DLC Update",
+      "creator": "DPJ",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=RUQpEKvKeA0",
+      "youtubeId": "RUQpEKvKeA0",
+      "language": "en",
+      "duration": "15:27",
+      "publishedDate": "2025-07-05",
+      "thumbnail": "https://i.ytimg.com/vi/RUQpEKvKeA0/maxresdefault.jpg",
+      "noteEs": "DPJ es uno de los canales más consistentes para tips densos: 15 tips reales, no padded — desde manejo de Pal Soul a tricks de fishing post-Terraria que no salen en ninguna otra guía.",
+      "noteEn": "DPJ is one of the most consistent channels for dense tips: 15 real tips, not padded — from Pal Soul handling to post-Terraria fishing tricks that don't appear in any other guide."
+    },
+    {
+      "id": "nizar-gg-50-ultra-advanced-tips",
+      "type": "video",
+      "title": "50 Ultra Advanced PALWORLD Tips You've Never Heard Of",
+      "creator": "Nizar GG",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=yrjToytCP0M",
+      "youtubeId": "yrjToytCP0M",
+      "language": "en",
+      "duration": "17:57",
+      "publishedDate": "2024-02-02",
+      "thumbnail": "https://i.ytimg.com/vi/yrjToytCP0M/maxresdefault.jpg",
+      "noteEs": "El video evergreen de tips de Palworld. La mayoría siguen vigentes (mecánicas de capture, work suitability, exploit de chests). Lo que cambió desde 2024 lo cubren las guías más recientes — este sigue siendo referencia para tips fundacionales."
+,
+      "noteEn": "The evergreen Palworld tips video. Most still apply (capture mechanics, work suitability, chest exploits). What's changed since 2024 is covered by newer guides — this remains the reference for foundational tips."
+    },
+    {
+      "id": "wallabit-arrancar-con-todo-es",
+      "type": "video",
+      "title": "Como Arrancar con Todo en Palworld en Español - Guia de Principiantes",
+      "creator": "Wallabit",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=TZTT7I8SNJ4",
+      "youtubeId": "TZTT7I8SNJ4",
+      "language": "es",
+      "duration": "16:07",
+      "publishedDate": "2024-01-27",
+      "thumbnail": "https://i.ytimg.com/vi/TZTT7I8SNJ4/maxresdefault.jpg",
+      "noteEs": "Guía en español para arrancar bien Palworld: setup de primera base, qué Pals capturar primero, errores que te van a costar horas. Tono claro, sin paja.",
+      "noteEn": "Spanish-language guide to starting Palworld right: first base setup, which Pals to capture early, mistakes that will cost you hours. Clear delivery, no padding."
+    },
+    {
+      "id": "ridomeyer-empezar-de-cero-es",
+      "type": "video",
+      "title": "COMO EMPEZAR DE CERO | PALWORLD en ESPAÑOL | Tutorial y Guia Principiantes",
+      "creator": "RidoMeyer",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=xC3GWjtYHFQ",
+      "youtubeId": "xC3GWjtYHFQ",
+      "language": "es",
+      "duration": "19:01",
+      "publishedDate": "2024-01-27",
+      "thumbnail": "https://i.ytimg.com/vi/xC3GWjtYHFQ/maxresdefault.jpg",
+      "noteEs": "Tutorial completo en español pensado para alguien que abre el juego por primera vez: controles, mecánicas básicas, primera captura, primera base. 19 minutos densos pero bien explicados.",
+      "noteEn": "Complete Spanish tutorial aimed at someone opening the game for the first time: controls, basic mechanics, first capture, first base. 19 dense but well-explained minutes."
+    }
+  ]
+}

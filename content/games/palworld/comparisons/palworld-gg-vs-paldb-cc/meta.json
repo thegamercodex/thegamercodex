@@ -1,0 +1,46 @@
+{
+  "id": "palworld-gg-vs-paldb-cc",
+  "toolIds": ["palworld-gg", "paldb-cc"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-05-22",
+  "verdictEs": "Palworld.gg para uso diario: db amigable, mapa rápido, breeding integrado. PalDB para datos crudos cuando necesitas drop rates exactos, growth curves o tracking de versiones.",
+  "verdictEn": "Palworld.gg for daily use: friendly database, fast map, integrated breeding. PalDB for raw data when you need exact drop rates, growth curves, or version tracking.",
+  "useCases": [
+    {
+      "labelEs": "Lookup rápido de un Pal (stats, drops, dónde aparece)",
+      "labelEn": "Quick Pal lookup (stats, drops, where it spawns)",
+      "winner": "palworld-gg",
+      "reasonEs": "Palworld.gg tiene presentación más pulida y la página del Pal tiene todo a un scroll. PalDB requiere navegar más para juntar la misma info.",
+      "reasonEn": "Palworld.gg has more polished presentation; the Pal page has everything in one scroll. PalDB requires more clicking to gather the same info."
+    },
+    {
+      "labelEs": "Encontrar drop rate exacto de un item",
+      "labelEn": "Find the exact drop rate of an item",
+      "winner": "paldb-cc",
+      "reasonEs": "PalDB expone probabilidades crudas extraídas de los archivos del juego. Palworld.gg lo simplifica con \"Common/Rare/Very Rare\" sin números.",
+      "reasonEn": "PalDB exposes raw probabilities extracted from game files. Palworld.gg simplifies it with \"Common/Rare/Very Rare\" without numbers."
+    },
+    {
+      "labelEs": "Ver mapa interactivo con filters",
+      "labelEn": "View interactive map with filters",
+      "winner": "palworld-gg",
+      "reasonEs": "El mapa de Palworld.gg es más rápido, tiene mejor UI de layers y permite togglear más categorías a la vez. El de PalDB existe pero es más crudo.",
+      "reasonEn": "Palworld.gg's map is faster, has better layer UI, and lets you toggle more categories at once. PalDB's map exists but is rawer."
+    },
+    {
+      "labelEs": "Tracking de versiones / changelogs por parche",
+      "labelEn": "Version tracking / per-patch changelogs",
+      "winner": "paldb-cc",
+      "reasonEs": "PalDB tiene página \"version\" con diff auto-detectado entre parches. Palworld.gg no expone esa info estructurada.",
+      "reasonEn": "PalDB has a \"version\" page with auto-detected diffs between patches. Palworld.gg doesn't expose that structured info."
+    },
+    {
+      "labelEs": "Tier lists comunitarios y recommendations",
+      "labelEn": "Community tier lists and recommendations",
+      "winner": "palworld-gg",
+      "reasonEs": "Palworld.gg publica tier lists curados por el staff (passives, base Pals, combat Pals). PalDB es puramente data, sin opiniones.",
+      "reasonEn": "Palworld.gg publishes staff-curated tier lists (passives, base Pals, combat Pals). PalDB is purely data, no opinions."
+    }
+  ]
+}

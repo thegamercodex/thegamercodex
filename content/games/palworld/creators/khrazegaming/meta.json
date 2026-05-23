@@ -1,0 +1,35 @@
+{
+  "id": "khrazegaming",
+  "name": "KhrazeGaming",
+  "country": "UK",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2016,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@KhrazeGaming",
+      "url": "https://www.youtube.com/@KhrazeGaming",
+      "channelId": "UCFXUSG_393wZJaRTErU6Pjw",
+      "primary": true
+    }
+  ],
+  "specialties": ["tips", "co-op", "starter-guides", "survival-games"],
+  "games": ["palworld"],
+  "contentTypes": ["guides", "tips", "first-impressions"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Canal británico que cubre survival/open-world a alta cadencia: Palworld, Subnautica, Crimson Desert, Where Winds Meet. Su contenido de Palworld se concentra en starter bases, infinite resources, speedrun tips y guías de \"perfect start\" — ideal para arrancar bien sin tirar las primeras 20 horas. Vuelve a Palworld cada vez que hay parche grande.",
+  "noteEn": "UK channel covering survival/open-world at high cadence: Palworld, Subnautica, Crimson Desert, Where Winds Meet. His Palworld coverage focuses on starter bases, infinite resources, speedrun tips, and \"perfect start\" guides — ideal for getting going without throwing the first 20 hours away. Returns to Palworld whenever a big patch drops.",
+  "highlightsEs": [
+    "Guías \"Ultimate Tips for the Perfect Start\" referenciadas como standard para arrancar",
+    "Cobertura inmediata de cada parche grande de Palworld (Sakurajima, Feybreak, Tides of Terraria)",
+    "Pace y producción consistente — 4-5 videos por semana sin bajar calidad"
+  ],
+  "highlightsEn": [
+    "\"Ultimate Tips for the Perfect Start\" guides referenced as the standard starting point",
+    "Immediate coverage of every major Palworld patch (Sakurajima, Feybreak, Tides of Terraria)",
+    "Consistent pace and production — 4-5 videos a week without quality drop"
+  ],
+  "avatar": "/images/creators/khrazegaming-avatar.jpg",
+  "banner": "/images/creators/khrazegaming-banner.jpg"
+}

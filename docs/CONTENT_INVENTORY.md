@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-22
+> Última generación: 2026-05-23
 
 ## Resumen
 
-17 juegos · 273 tools · 84 creators · 87 categorías · 435 resources items · 63 comparisons
+18 juegos · 288 tools · 89 creators · 92 categorías · 460 resources items · 67 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -19,6 +19,7 @@
 | `genshin-impact` | Genshin Impact | 24 | 5 | 6 | 30 | 6 |
 | `league-of-legends` | League of Legends | 15 | 5 | 5 | 25 | 0 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 |
+| `palworld` | Palworld | 15 | 5 | 5 | 25 | 4 |
 | `path-of-exile` | Path of Exile | 17 | 5 | 5 | 25 | 7 |
 | `path-of-exile-2` | Path of Exile 2 | 20 | 5 | 5 | 25 | 8 |
 | `skyrim` | The Elder Scrolls V: Skyrim | 19 | 5 | 5 | 25 | 5 |
@@ -179,6 +180,21 @@
 - `exploration-discovery` — 5 items
 
 **Comparisons (5)**: `assistant-nms-vs-nms-fandom-wiki` (short), `nms-coordinate-exchange-vs-nms-galactic-atlas` (short), `nms-fandom-wiki-vs-nmscd` (flagship), `nms-save-editor-vs-nomnom-save-editor` (short), `reddit-nomanssky-vs-nms-discord` (short)
+
+### Palworld (`palworld`)
+
+**Tools (15)**: Nexus Mods (Palworld) (`nexus-mods-palworld`), PalSchema (`pal-schema`), PalBreed.AI (`palbreed-ai`), PalDB (`paldb-cc`), Palworld Base Planner (`palworld-base-planner`), Palworld.gg (`palworld-gg`), Palworld Mod Hub (`palworld-mod-hub`), Palworld Pal Editor (`palworld-pal-editor`), Palworld Save Pal (`palworld-save-pal`), Palworld Server Manager (PSM) (`palworld-server-manager`), Palworld THGL Map (`palworld-thgl`), The Palworld Wiki (`palworld-wiki-gg`), Pocketpair Official Discord (`pocketpair-discord`), UE4SS (Palworld) (`ue4ss`), XGamingServer Breeding Calculator (`xgaming-breeding-calculator`)
+
+**Creators (5)**: DSimphony (`dsimphony`), Gym Leader Ed (`gym-leader-ed`), KhrazeGaming (`khrazegaming`), The Pal Professor (`the-pal-professor`), Wak4863 (`wak4863`)
+
+**Resources (5 categories · 25 items)**:
+- `base-and-production` — 5 items
+- `beginner-guides` — 5 items
+- `bosses-and-pvp` — 5 items
+- `breeding-and-passives` — 5 items
+- `mods-and-multiplayer` — 5 items
+
+**Comparisons (4)**: `palbreed-ai-vs-xgaming-breeding-calculator` (short), `palworld-gg-vs-paldb-cc` (short), `palworld-pal-editor-vs-palworld-save-pal` (flagship), `palworld-thgl-vs-palworld-gg` (short)
 
 ### Path of Exile (`path-of-exile`)
 

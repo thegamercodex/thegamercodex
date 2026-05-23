@@ -1,0 +1,28 @@
+{
+  "id": "xgaming-breeding-calculator",
+  "name": "XGamingServer Breeding Calculator",
+  "shortName": "XGS Breeding Calc",
+  "taglineEs": "Calculadora de breeding con todos los combos precomputados",
+  "taglineEn": "Breeding calculator with every combo precomputed",
+  "url": "https://xgamingserver.com/tools/palworld/breeding-calculator",
+  "category": "breeding-and-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["breeding", "calculator", "reverse-lookup"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-22",
+  "logo": "/images/tools/palworld/xgaming-breeding-calculator-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["palbreed-ai", "palworld-gg"],
+  "alternatives": ["palbreed-ai", "palworld-gg"],
+  "createdBy": {
+    "name": "XGamingServer",
+    "url": "https://xgamingserver.com/"
+  }
+}

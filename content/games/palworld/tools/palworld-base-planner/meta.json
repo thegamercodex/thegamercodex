@@ -1,0 +1,29 @@
+{
+  "id": "palworld-base-planner",
+  "name": "Palworld Base Planner",
+  "shortName": "Base Planner",
+  "taglineEs": "Planificador de Pals para optimizar work suitability en cada base",
+  "taglineEn": "Pal planner to optimize work suitability across each base",
+  "url": "https://palworld-base.eldritchtools.com/",
+  "category": "breeding-and-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Mysidian/eldritchtools-palworld-base",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["base-planning", "work-suitability", "automation", "optimization"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-22",
+  "logo": "/images/tools/palworld/palworld-base-planner-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["palworld-gg", "palbreed-ai"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Eldritch Tools (Mysidian)",
+    "url": "https://eldritchtools.com/"
+  }
+}

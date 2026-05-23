@@ -1,0 +1,80 @@
+{
+  "category": "base-and-production",
+  "resources": [
+    {
+      "id": "pal-professor-best-base-pals-home-sweet-home",
+      "type": "video",
+      "title": "Palworld: Best Base Pals in Home Sweet Home | Best Pals for Each Job",
+      "creator": "The Pal Professor",
+      "creatorId": "the-pal-professor",
+      "url": "https://www.youtube.com/watch?v=Axc4qdMEK44",
+      "youtubeId": "Axc4qdMEK44",
+      "language": "en",
+      "duration": "14:38",
+      "publishedDate": "2026-01-07",
+      "thumbnail": "https://i.ytimg.com/vi/Axc4qdMEK44/maxresdefault.jpg",
+      "noteEs": "Tier list actualizada de los mejores Pals por work suitability en el meta de Home Sweet Home. Coincide con el cheat sheet de su sitio thepalprofessor.com/work-cheat-sheet/ — referencia obligatoria para optimizar bases.",
+      "noteEn": "Updated tier list of the best Pals per work suitability in the Home Sweet Home meta. Pairs with the cheat sheet on his site thepalprofessor.com/work-cheat-sheet/ — required reference for base optimization."
+    },
+    {
+      "id": "vilestride-best-base-pals-workspeed-2025",
+      "type": "video",
+      "title": "The NEW BEST Base Pals For Each Job | Workspeed, Role Overlap, Early Game & More",
+      "creator": "Vilestride",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Ahz-JfKmBpo",
+      "youtubeId": "Ahz-JfKmBpo",
+      "language": "en",
+      "duration": "22:46",
+      "publishedDate": "2025-12-22",
+      "thumbnail": "https://i.ytimg.com/vi/Ahz-JfKmBpo/maxresdefault.jpg",
+      "noteEs": "Análisis profundo de qué Pals worker realmente vale la pena criar versus capturar. Cubre role overlap (cuando dos Pals con la misma habilidad se pisan) y diferencias entre early/mid/late game.",
+      "noteEn": "Deep analysis of which worker Pals are actually worth breeding versus catching. Covers role overlap (when two Pals with the same skill step on each other) and early/mid/late game differences."
+    },
+    {
+      "id": "chaosbear-ultimate-base-building-series-2026",
+      "type": "video",
+      "title": "The Ultimate Palworld Base Building Series (The Build Idea)",
+      "creator": "Chaos Bear Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=aUvtUK5RTNY",
+      "youtubeId": "aUvtUK5RTNY",
+      "language": "en",
+      "duration": "19:20",
+      "publishedDate": "2026-02-17",
+      "thumbnail": "https://i.ytimg.com/vi/aUvtUK5RTNY/maxresdefault.jpg",
+      "noteEs": "El video que abre una serie de construcción avanzada con foco estético + funcional. Si te aburre la base cuadrada por defecto y quieres inspiración real, este canal es la referencia visual del género.",
+      "noteEn": "Opening video of an advanced building series focused on aesthetic + functional. If you're bored of the default square base and want real inspiration, this channel is the genre's visual reference."
+    },
+    {
+      "id": "dpj-best-base-all-in-one",
+      "type": "video",
+      "title": "How to build BEST BASE in Palworld - ALL IN ONE - Breeding / Farming / Ranch Base",
+      "creator": "DPJ",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=uGMJ7E-kiPQ",
+      "youtubeId": "uGMJ7E-kiPQ",
+      "language": "en",
+      "duration": "16:41",
+      "publishedDate": "2024-02-09",
+      "thumbnail": "https://i.ytimg.com/vi/uGMJ7E-kiPQ/maxresdefault.jpg",
+      "noteEs": "Setup all-in-one que combina breeding, farming y ranch en una sola base. Lo más eficiente para early/mid game cuando solo tienes 1 slot de base disponible.",
+      "noteEn": "All-in-one setup combining breeding, farming, and ranch in a single base. Most efficient for early/mid game when you only have one base slot available."
+    },
+    {
+      "id": "dauntus-complete-building-guide-ultimate-main-base",
+      "type": "video",
+      "title": "Palworld - COMPLETE BUILDING GUIDE FOR the ULTIMATE Main Base",
+      "creator": "Dauntus",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=u2r51RmvvMc",
+      "youtubeId": "u2r51RmvvMc",
+      "language": "en",
+      "duration": "21:19",
+      "publishedDate": "2024-02-23",
+      "thumbnail": "https://i.ytimg.com/vi/u2r51RmvvMc/maxresdefault.jpg",
+      "noteEs": "Guía constructiva paso a paso para una base principal grande: foundations, walls, defenses, work stations bien distribuidas. La base de la base — los conceptos siguen vigentes en 2026.",
+      "noteEn": "Step-by-step constructive guide for a large main base: foundations, walls, defenses, well-distributed work stations. The base of the base — concepts still apply in 2026."
+    }
+  ]
+}

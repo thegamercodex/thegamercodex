@@ -1,0 +1,40 @@
+{
+  "id": "gym-leader-ed",
+  "name": "Gym Leader Ed",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2009,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@GymLeaderEd",
+      "url": "https://www.youtube.com/@GymLeaderEd",
+      "channelId": "UCS8eZV4T-G3I7McyiR9Vlhw",
+      "primary": true
+    },
+    {
+      "type": "twitter",
+      "handle": "@GymLeaderEd",
+      "url": "https://twitter.com/GymLeaderEd"
+    }
+  ],
+  "specialties": ["monster-taming-analysis", "industry-news", "design-analysis", "mechanics"],
+  "games": ["palworld"],
+  "contentTypes": ["analysis", "news", "comparisons", "reviews"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Voz autoritativa del género monster-taming en YouTube. Cubre Palworld junto a Pokémon, Nexomon, Temtem, Coromon, Monster Crown y todo lo que tenga collection mechanics. Su contenido es analítico antes que walkthrough: por qué Palworld funciona, qué le copia/no le copia a Pokémon, hacia dónde va el género. Si quieres contexto editorial y no solo \"haz esto, después haz esto\", es la fuente.",
+  "noteEn": "Authoritative voice of the monster-taming genre on YouTube. Covers Palworld alongside Pokémon, Nexomon, Temtem, Coromon, Monster Crown, and anything with collection mechanics. His content is analytical rather than walkthrough: why Palworld works, what it copies/doesn't copy from Pokémon, where the genre is heading. If you want editorial context instead of just \"do this, then do this\", he's the source.",
+  "highlightsEs": [
+    "Cobertura constante del género monster-taming desde 2009 — perspectiva histórica única",
+    "Comparativas Palworld vs Pokémon, Temtem, Monster Crown citadas en discusiones del género",
+    "Mantiene contacto con Pocketpair y otros devs del género; breaks de news frecuentes"
+  ],
+  "highlightsEn": [
+    "Continuous monster-taming genre coverage since 2009 — unique historical perspective",
+    "Palworld vs Pokémon, Temtem, Monster Crown comparisons cited in genre discussions",
+    "Maintains contact with Pocketpair and other genre devs; frequent news breaks"
+  ],
+  "avatar": "/images/creators/gym-leader-ed-avatar.jpg",
+  "banner": "/images/creators/gym-leader-ed-banner.jpg"
+}

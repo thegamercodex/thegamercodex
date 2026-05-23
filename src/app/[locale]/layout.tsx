@@ -58,7 +58,7 @@ export async function generateMetadata({
       description: t("siteTagline"),
       images: [
         {
-          url: "/images/tgc-logo.png",
+          url: "/images/tgc-logo.webp",
           width: 1254,
           height: 1254,
           alt: t("siteName"),
@@ -69,7 +69,7 @@ export async function generateMetadata({
       card: "summary",
       title: t("siteName"),
       description: t("siteTagline"),
-      images: ["/images/tgc-logo.png"],
+      images: ["/images/tgc-logo.webp"],
     },
   };
 }
