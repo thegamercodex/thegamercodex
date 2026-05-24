@@ -1,0 +1,135 @@
+{
+  "id": "rust",
+  "name": "Rust",
+  "shortName": "Rust",
+  "developer": "Facepunch Studios",
+  "releaseYear": 2018,
+  "officialUrl": "https://rust.facepunch.com/",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/252490/Rust/",
+      "appId": "252490",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["cosmetic-skins", "dlc"],
+    "payToWin": false,
+    "noteEs": "Compra única (~$40 USD en Steam). Microtransacciones puramente cosméticas (skins de armas, ropa, estructuras) vía Steam Community Market y DLC packs como Sunburn, Voice Props o Instrument Pack. Sin ventaja competitiva pagada: los skins no afectan stats, daño ni durabilidad. Facepunch monetiza con drops semanales que se pueden tradear y vender en el Market. Force wipe mensual el primer jueves a las ~10am UTC mantiene la economía y el mapa rotando sin costo extra.",
+    "noteEn": "One-time purchase (~$40 USD on Steam). Microtransactions are purely cosmetic (weapon, clothing, and structure skins) via the Steam Community Market plus DLC packs like Sunburn, Voice Props, or the Instrument Pack. No paid competitive advantage: skins don't affect stats, damage, or durability. Facepunch monetizes through weekly drops that can be traded and sold on the Market. The monthly force wipe on the first Thursday at ~10am UTC keeps the economy and the map rotating at no extra cost."
+  },
+  "platforms": ["windows", "macos", "linux", "playstation", "xbox"],
+  "genres": ["survival", "open-world", "shooter", "multiplayer", "pvp", "crafting", "base-building"],
+  "theme": {
+    "primary": "#c0481c",
+    "secondary": "#1a120c",
+    "accent": "#ff7a2e",
+    "background": "#0c0806",
+    "text": "#f1e6d2"
+  },
+  "logo": "/images/games/rust-logo.png",
+  "heroImage": "/images/games/rust-hero.webp",
+  "toolCategories": [
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Bases de datos, wikis y catálogos con stats de items, costos de raid, recipes y tablas de monumentos",
+      "descriptionEn": "Databases, wikis, and catalogs with item stats, raid costs, recipes, and monument loot tables",
+      "icon": "📚"
+    },
+    {
+      "id": "base-building",
+      "nameEs": "Construcción de Bases",
+      "nameEn": "Base Building",
+      "descriptionEs": "Planificadores offline, simuladores de electricidad y herramientas para diseñar bases antes de pisarlas en el server",
+      "descriptionEn": "Offline planners, electricity simulators, and tools to design bases before stepping into the server",
+      "icon": "🏗️"
+    },
+    {
+      "id": "map-tools",
+      "nameEs": "Mapas",
+      "nameEn": "Maps",
+      "descriptionEs": "Generadores de mapas procedurales y editores para crear o filtrar el mundo donde corre tu server",
+      "descriptionEn": "Procedural map generators and editors to create or filter the world your server runs on",
+      "icon": "🗺️"
+    },
+    {
+      "id": "server-tools",
+      "nameEs": "Servidores",
+      "nameEn": "Servers",
+      "descriptionEs": "Browsers, trackers de wipes y herramientas de RCON para encontrar servers frescos y administrar el tuyo",
+      "descriptionEn": "Browsers, wipe trackers, and RCON tools to find fresh servers and manage your own",
+      "icon": "🖥️"
+    },
+    {
+      "id": "modding",
+      "nameEs": "Modding",
+      "nameEn": "Modding",
+      "descriptionEs": "Frameworks de plugins y marketplaces donde la comunidad publica y descubre mods para servers de Rust",
+      "descriptionEn": "Plugin frameworks and marketplaces where the community publishes and discovers Rust server mods",
+      "icon": "🧩"
+    },
+    {
+      "id": "companion",
+      "nameEs": "Companion",
+      "nameEn": "Companion",
+      "descriptionEs": "Apps móviles y bots que extienden Rust fuera del juego: alertas de smart switches, estado del team y mapa",
+      "descriptionEn": "Mobile apps and bots that extend Rust outside the game: smart switch alerts, team status, and map",
+      "icon": "📱"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Servidores donde la comunidad de Rust coordina grupos, comparte builds y resuelve dudas con devs",
+      "descriptionEn": "Servers where the Rust community coordinates groups, shares builds, and gets answers from devs",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para tu primer wipe en Rust: arrancar de cero, primer hatchet, primera base y no morir en la noche",
+      "descriptionEn": "Essential resources for your first Rust wipe: starting from scratch, first hatchet, first base, and not dying overnight",
+      "icon": "🌱"
+    },
+    {
+      "id": "base-building-guides",
+      "nameEs": "Construcción de Bases",
+      "nameEn": "Base Building",
+      "descriptionEs": "Diseños de base sólidos por tamaño de grupo, honeycomb, bunkers y compounds defensivos contra raids",
+      "descriptionEn": "Solid base designs by group size, honeycomb layouts, bunkers, and raid-defensive compounds",
+      "icon": "🏰"
+    },
+    {
+      "id": "raid-and-defense",
+      "nameEs": "Raid y Defensa",
+      "nameEn": "Raid & Defense",
+      "descriptionEs": "Cómo ejecutar raids eficientes, planificar costos en C4 y rockets, y armar counter-raid cuando te toca defender",
+      "descriptionEn": "How to execute efficient raids, plan C4 and rocket costs, and pull off counter-raids when you have to defend",
+      "icon": "💥"
+    },
+    {
+      "id": "monument-and-pve",
+      "nameEs": "Monumentos y PvE",
+      "nameEn": "Monuments & PvE",
+      "descriptionEs": "Guías de monumentos, puzzles, Oil Rig, Cargo Ship, helicópteros y rutas óptimas de loot",
+      "descriptionEn": "Monument guides, puzzles, Oil Rig, Cargo Ship, helicopters, and optimal loot routes",
+      "icon": "🗿"
+    },
+    {
+      "id": "server-admin-and-mods",
+      "nameEs": "Admin y Mods",
+      "nameEn": "Admin & Mods",
+      "descriptionEs": "Tutoriales para hostear tu propio server, instalar Oxide o Carbon, plugins esenciales y administración con RCON",
+      "descriptionEn": "Tutorials for hosting your own server, installing Oxide or Carbon, essential plugins, and admin via RCON",
+      "icon": "🛠️"
+    }
+  ]
+}

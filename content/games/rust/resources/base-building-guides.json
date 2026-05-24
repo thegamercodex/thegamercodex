@@ -1,0 +1,80 @@
+{
+  "category": "base-building-guides",
+  "resources": [
+    {
+      "id": "mellarrkk-blooprint-perfect-2025",
+      "type": "video",
+      "title": "(NEW) The PERFECT BLOOPRINT Rust Base Design 2025 (Compound/Bunker/TCs)",
+      "creator": "Mellarrkk",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=1lLrh0LqVpg",
+      "youtubeId": "1lLrh0LqVpg",
+      "language": "en",
+      "duration": "41:19",
+      "publishedDate": "2025-02-06",
+      "thumbnail": "https://i.ytimg.com/vi/1lLrh0LqVpg/maxresdefault.jpg",
+      "noteEs": "Tutorial paso a paso del compound base design de Blooprint, replicado por Mellarrkk con annotation de TCs, bunkers y honeycomb. 40 minutos densos — pausa frecuente recomendada para construir junto al video.",
+      "noteEn": "Step-by-step tutorial of Blooprint's compound base design, rebuilt by Mellarrkk with TC, bunker, and honeycomb annotation. 40 dense minutes — frequent pausing recommended to build along."
+    },
+    {
+      "id": "shots-perfect-bunker-2025",
+      "type": "video",
+      "title": "THE PERFECT 2025 BUNKER BASE - Rust Base Design",
+      "creator": "shots",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=MzFxlaSN24s",
+      "youtubeId": "MzFxlaSN24s",
+      "language": "en",
+      "duration": "22:47",
+      "publishedDate": "2025-04-03",
+      "thumbnail": "https://i.ytimg.com/vi/MzFxlaSN24s/maxresdefault.jpg",
+      "noteEs": "Diseño de bunker optimizado para 2025 con soft sides protegidos, loot rooms anidados y peek angles defensivos. 22 minutos con voiceover claro y vista isométrica que ayuda a entender el layout.",
+      "noteEn": "Bunker design optimized for 2025 with protected soft sides, nested loot rooms, and defensive peek angles. 22 minutes with clear voiceover and isometric view that helps understand the layout."
+    },
+    {
+      "id": "plaguephreak-power-distribution-2025",
+      "type": "video",
+      "title": "Rust Power Distribution And Logic Flow | Rust Electricity Guide | 2025",
+      "creator": "PlaguePhreak",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ZjjGlpC-Lf4",
+      "youtubeId": "ZjjGlpC-Lf4",
+      "language": "en",
+      "duration": "17:34",
+      "publishedDate": "2025-08-08",
+      "thumbnail": "https://i.ytimg.com/vi/ZjjGlpC-Lf4/maxresdefault.jpg",
+      "noteEs": "Guía de electricidad enfocada en distribución y logic flow — no solo el wiring básico, sino cómo planear el power budget de la base entera, branches lógicos y backup de battery. Complemento perfecto a Rustrician.",
+      "noteEn": "Electricity guide focused on distribution and logic flow — not just basic wiring, but how to plan the whole base's power budget, logical branches, and battery backup. Perfect complement to Rustrician."
+    },
+    {
+      "id": "willjum-canyon-fortress-2026",
+      "type": "video",
+      "title": "We Built the greatest Canyon fortress in Vanilla Rust..",
+      "creator": "Willjum",
+      "creatorId": "willjum",
+      "url": "https://www.youtube.com/watch?v=h3zL7Ii-DOo",
+      "youtubeId": "h3zL7Ii-DOo",
+      "language": "en",
+      "duration": "1:17:37",
+      "publishedDate": "2026-05-03",
+      "thumbnail": "https://i.ytimg.com/vi/h3zL7Ii-DOo/maxresdefault.jpg",
+      "noteEs": "Wipe completo construyendo una fortaleza compound en zona de canyon. Combina narrative y design decisions — útil para ver cómo un clan organizado piensa layout, ubicación y defenses cuando tiene tiempo de planear.",
+      "noteEn": "Full wipe building a compound fortress in canyon terrain. Combines narrative and design decisions — useful to see how an organized clan thinks about layout, location, and defenses when they have planning time."
+    },
+    {
+      "id": "welyn-rebuild-first-base-2025",
+      "type": "video",
+      "title": "I Rebuilt My FIRST RUST BASE 10 Years Later and this is how it went",
+      "creator": "Welyn",
+      "creatorId": "welyn",
+      "url": "https://www.youtube.com/watch?v=qond4JOkR9g",
+      "youtubeId": "qond4JOkR9g",
+      "language": "en",
+      "duration": "1:02:00",
+      "publishedDate": "2025-11-13",
+      "thumbnail": "https://i.ytimg.com/vi/qond4JOkR9g/maxresdefault.jpg",
+      "noteEs": "Welyn revisita un diseño suyo de 2015 y muestra qué cambió en 10 años: mecánicas de stability, honeycomb actual, electricity. Útil como historia editorial del game-meta de base building a través del tiempo.",
+      "noteEn": "Welyn revisits a 2015 base design of his and shows what's changed in 10 years: stability mechanics, modern honeycomb, electricity. Useful as an editorial history of base-building meta through time."
+    }
+  ]
+}

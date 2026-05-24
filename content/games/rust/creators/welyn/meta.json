@@ -1,0 +1,35 @@
+{
+  "id": "welyn",
+  "name": "Welyn",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2017,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Welyn",
+      "url": "https://www.youtube.com/@Welyn",
+      "channelId": "UCg4XK-l40KZD7fLi12pJ1YA",
+      "primary": true
+    }
+  ],
+  "specialties": ["solo-play", "clan-hunting", "storytelling", "raid"],
+  "games": ["rust"],
+  "contentTypes": ["narrative-vods", "raid-stories", "eco-raids"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "El narrador-Robin Hood de Rust. Cada video es un long-form heist: identifica un clan que está dominando con tactics tóxicas, arma un plan, infiltra la base y la raidea con annotation maps y storytelling editado. No es un canal de tutorials — es entertainment con context. Si te gusta ver Rust como género narrativo y no como tutoriales, Welyn es el referente.",
+  "noteEn": "Rust's narrator-Robin Hood. Each video is a long-form heist: he identifies a clan dominating with toxic tactics, builds a plan, infiltrates the base, and raids it with annotation maps and edited storytelling. Not a tutorials channel — it's entertainment with context. If you like watching Rust as a narrative genre rather than tutorials, Welyn is the reference.",
+  "highlightsEs": [
+    "Eco-raids contra clans grandes con plans documentados de principio a fin",
+    "Edit y storytelling de alta calidad — videos de 15-30 minutos que se sienten cortos",
+    "Ángulo único: representante del solo-player justo en un juego dominado por clans"
+  ],
+  "highlightsEn": [
+    "Eco-raids against big clans with plans documented start to finish",
+    "High-quality edit and storytelling — 15-30 minute videos that feel short",
+    "Unique angle: representative of the just-solo-player in a game dominated by clans"
+  ],
+  "avatar": "/images/creators/welyn-avatar.jpg",
+  "banner": "/images/creators/welyn-banner.jpg"
+}

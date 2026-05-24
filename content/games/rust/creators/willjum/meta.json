@@ -1,0 +1,40 @@
+{
+  "id": "willjum",
+  "name": "Willjum",
+  "country": "GB",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2017,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Willjum",
+      "url": "https://www.youtube.com/@Willjum",
+      "channelId": "UCzOfLNkiScJp3U_h_QlvHHg",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "willjum",
+      "url": "https://www.twitch.tv/willjum"
+    }
+  ],
+  "specialties": ["group-play", "clan-content", "raid-stories", "comedy"],
+  "games": ["rust"],
+  "contentTypes": ["group-vods", "raid-stories", "wipe-recaps"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Británico que cubre Rust desde el lado clan/grupo amistoso. Videos típicos son wipe recaps con su crew, raid stories con humor friendly, y momentos cómicos editados sin cinismo. Es el opuesto editorial de Welyn: ese narra solo-vs-clan, Willjum narra grupo-bromea-con-grupo. Buen entry para quien jugar con amigos prefiere a jugar solo.",
+  "noteEn": "British creator covering Rust from the friendly clan/group side. Typical videos are wipe recaps with his crew, raid stories with friendly humor, and comedic moments edited without cynicism. He's the editorial opposite of Welyn: Welyn narrates solo-vs-clan, Willjum narrates group-jokes-with-group. Good entry for those who prefer playing with friends over solo.",
+  "highlightsEs": [
+    "Wipe recaps semanales en formato VOD con su crew habitual",
+    "Comedy timing británico, sin agresividad hacia otros players",
+    "Storytelling de grupo: raids planificadas con 4-6 personas, no solo plays"
+  ],
+  "highlightsEn": [
+    "Weekly wipe recaps in VOD format with his regular crew",
+    "British comedy timing, no aggression toward other players",
+    "Group storytelling: raids planned with 4-6 people, not solo plays"
+  ],
+  "avatar": "/images/creators/willjum-avatar.jpg",
+  "banner": "/images/creators/willjum-banner.jpg"
+}

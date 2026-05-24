@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "kysen-ultimate-beginner-2026",
+      "type": "video",
+      "title": "The Ultimate RUST Beginner Guide! (2026)",
+      "creator": "Kysen",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=gPa_ZK8JBtw",
+      "youtubeId": "gPa_ZK8JBtw",
+      "language": "en",
+      "duration": "1:15:45",
+      "publishedDate": "2026-04-10",
+      "thumbnail": "https://i.ytimg.com/vi/gPa_ZK8JBtw/maxresdefault.jpg",
+      "noteEs": "Guía completa de 75 minutos que cubre base building, looteo, gear, killing scientists, recorrido de monumentos, outpost, shops y todo lo que un nuevo jugador necesita para arrancar 2026. Densa pero bien organizada — útil verla en 2-3 sesiones.",
+      "noteEn": "Complete 75-minute guide covering base building, looting, gearing up, killing scientists, monument runs, outpost, shops, and everything a new player needs to start 2026. Dense but well organized — best watched in 2-3 sessions."
+    },
+    {
+      "id": "stelic-get-started-2025",
+      "type": "video",
+      "title": "How to Get Started in RUST in 2025 - Beginner's Guide, Tips & Tricks",
+      "creator": "STELIC",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ENMi9FVyowI",
+      "youtubeId": "ENMi9FVyowI",
+      "language": "en",
+      "duration": "13:24",
+      "publishedDate": "2025-11-29",
+      "thumbnail": "https://i.ytimg.com/vi/ENMi9FVyowI/maxresdefault.jpg",
+      "noteEs": "Versión corta y al hueso del onboarding a Rust. STELIC es uno de los canales más consistentes para guides cortas — 13 minutos con los tips fundamentales que evitan errores costosos del primer wipe.",
+      "noteEn": "Short, no-fluff Rust onboarding. STELIC is one of the most consistent channels for short guides — 13 minutes with the fundamental tips that avoid first-wipe costly mistakes."
+    },
+    {
+      "id": "sbjake-ultimate-beginners-2026",
+      "type": "video",
+      "title": "The Ultimate Rust Beginners Guide (2026)",
+      "creator": "SBJake",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Wc0ZJo06oAw",
+      "youtubeId": "Wc0ZJo06oAw",
+      "language": "en",
+      "duration": "7:02",
+      "publishedDate": "2024-11-20",
+      "thumbnail": "https://i.ytimg.com/vi/Wc0ZJo06oAw/maxresdefault.jpg",
+      "noteEs": "Cubre lo esencial en 7 minutos: cómo elegir server, qué hacer las primeras horas, qué evitar. Ideal como primer video si no tienes paciencia para guides largas — el resumen mínimo viable.",
+      "noteEn": "Covers essentials in 7 minutes: how to pick a server, what to do in the first hours, what to avoid. Ideal as a first video if you don't have patience for long guides — the minimum viable summary."
+    },
+    {
+      "id": "stelic-100-advanced-tips-2025",
+      "type": "video",
+      "title": "100 ADVANCED Tips in Rust for 2025 (Beginner to PRO)",
+      "creator": "STELIC",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=BCXK-s_sGdU",
+      "youtubeId": "BCXK-s_sGdU",
+      "language": "en",
+      "duration": "16:16",
+      "publishedDate": "2024-12-15",
+      "thumbnail": "https://i.ytimg.com/vi/BCXK-s_sGdU/maxresdefault.jpg",
+      "noteEs": "El video para el salto de beginner a intermediate. 100 tips densos sin filler — recipe shortcuts, peek-hole abuse, mecánicas que el juego no explica. Útil después de los primeros 2-3 wipes.",
+      "noteEn": "The video for the beginner-to-intermediate jump. 100 dense tips with no filler — recipe shortcuts, peek-hole abuse, mechanics the game doesn't explain. Useful after the first 2-3 wipes."
+    },
+    {
+      "id": "dobshman-como-empezar-2026-es",
+      "type": "video",
+      "title": "COMO EMPEZAR EN RUST | GUIA BASICA 2026",
+      "creator": "Dobshman",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=YdSW1Hk_J_M",
+      "youtubeId": "YdSW1Hk_J_M",
+      "language": "es",
+      "duration": "30:39",
+      "publishedDate": "2026-03-13",
+      "thumbnail": "https://i.ytimg.com/vi/YdSW1Hk_J_M/maxresdefault.jpg",
+      "noteEs": "Guía completa en español de 30 minutos: conceptos básicos, primer server, farm de recursos, primera base y furnaces. La mejor opción si prefieres aprender en español antes que en inglés.",
+      "noteEn": "Complete 30-minute Spanish guide: basic concepts, first server, resource farming, first base, and furnaces. The best option if you prefer to learn in Spanish before English."
+    }
+  ]
+}

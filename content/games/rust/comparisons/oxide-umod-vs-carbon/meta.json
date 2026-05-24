@@ -1,0 +1,46 @@
+{
+  "id": "oxide-umod-vs-carbon",
+  "toolIds": ["oxide-umod", "carbon"],
+  "category": "modding",
+  "depth": "flagship",
+  "lastVerified": "2026-05-23",
+  "verdictEs": "Oxide para servers existentes o admins que quieren máxima estabilidad histórica. Carbon para servers nuevos en 2026, performance crítica o si planeas usar plugins paid de Codefling.",
+  "verdictEn": "Oxide for existing servers or admins wanting maximum historical stability. Carbon for new servers in 2026, critical performance, or if you plan to use paid Codefling plugins.",
+  "useCases": [
+    {
+      "labelEs": "Server nuevo desde cero en 2026",
+      "labelEn": "New server from scratch in 2026",
+      "winner": "carbon",
+      "reasonEs": "Carbon arranca 30-40% más rápido, consume menos RAM y tiene mejor support nativo para Codefling. Para nuevos no hay razón fuerte para legacy Oxide.",
+      "reasonEn": "Carbon boots 30-40% faster, uses less RAM, and has better native Codefling support. For new servers, there's no strong reason to choose legacy Oxide."
+    },
+    {
+      "labelEs": "Server existente con plugins críticos sin issues",
+      "labelEn": "Existing server with critical plugins without issues",
+      "winner": "oxide-umod",
+      "reasonEs": "Si Oxide funciona, migrar tiene riesgo de incompatibilidad en el ~1% de plugins. La inercia premia stability — no hay urgencia.",
+      "reasonEn": "If Oxide works, migrating risks incompatibility on the ~1% of plugins. Inertia rewards stability — there's no urgency."
+    },
+    {
+      "labelEs": "Server con 50+ plugins activos",
+      "labelEn": "Server with 50+ active plugins",
+      "winner": "carbon",
+      "reasonEs": "Carbon boot pasa de 5 minutos a 30-60 segundos en heavy-modded. RAM savings de 1-2GB son materiales en hosts con tier limits.",
+      "reasonEn": "Carbon boot drops from 5 minutes to 30-60 seconds on heavy-modded. 1-2GB RAM savings are material on tier-limited hosts."
+    },
+    {
+      "labelEs": "Admin nuevo sin experiencia previa",
+      "labelEn": "New admin without prior experience",
+      "winner": "oxide-umod",
+      "reasonEs": "Oxide tiene comunidad más grande, más tutorials, más Discord threads con troubleshooting. Cuando algo se rompe, encuentras respuesta más rápido.",
+      "reasonEn": "Oxide has a larger community, more tutorials, more Discord threads with troubleshooting. When something breaks, you find an answer faster."
+    },
+    {
+      "labelEs": "Usar plugins paid de Codefling",
+      "labelEn": "Using paid Codefling plugins",
+      "winner": "carbon",
+      "reasonEs": "Carbon tiene integration nativa con Codefling — install desde panel sin steps extra. Oxide soporta pero requiere setup manual del .cs file.",
+      "reasonEn": "Carbon has native Codefling integration — install from the panel without extra steps. Oxide supports them but requires manual .cs file setup."
+    }
+  ]
+}

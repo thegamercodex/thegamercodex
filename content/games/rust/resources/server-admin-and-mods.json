@@ -1,0 +1,80 @@
+{
+  "category": "server-admin-and-mods",
+  "resources": [
+    {
+      "id": "srtbull-install-carbon-2023",
+      "type": "video",
+      "title": "How EASY It Is To Install CARBON on a Fresh Vanilla Rust Server",
+      "creator": "srtbull",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=htfazTbNsPs",
+      "youtubeId": "htfazTbNsPs",
+      "language": "en",
+      "duration": "13:54",
+      "publishedDate": "2023-04-14",
+      "thumbnail": "https://i.ytimg.com/vi/htfazTbNsPs/maxresdefault.jpg",
+      "noteEs": "Walkthrough del install de Carbon desde cero sobre un server vanilla. srtbull (Rust Admin Academy) es el referente para admin tutorials. El proceso no cambió mucho desde 2023 — sigue siendo accurate.",
+      "noteEn": "Walkthrough of Carbon install from scratch on a vanilla server. srtbull (Rust Admin Academy) is the reference for admin tutorials. The process hasn't changed much since 2023 — still accurate."
+    },
+    {
+      "id": "srtbull-oxide-plugins-tips-2024",
+      "type": "video",
+      "title": "Top Tips For Adding Plugins And Mods To Rust Server With Oxide",
+      "creator": "srtbull",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=RDIYtAjpgnI",
+      "youtubeId": "RDIYtAjpgnI",
+      "language": "en",
+      "duration": "12:12",
+      "publishedDate": "2024-04-26",
+      "thumbnail": "https://i.ytimg.com/vi/RDIYtAjpgnI/maxresdefault.jpg",
+      "noteEs": "Best practices para instalar y manejar plugins de Oxide: qué carpetas tocar, cómo validar el plugin antes de production, cómo recovery cuando un update lo rompe. 12 minutos densos.",
+      "noteEn": "Best practices for installing and managing Oxide plugins: which folders to touch, how to validate the plugin before production, how to recover when an update breaks it. 12 dense minutes."
+    },
+    {
+      "id": "srtbull-admintools-2024",
+      "type": "video",
+      "title": "Streamline Your Rust Server Management With AdminTools",
+      "creator": "srtbull",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=zAm4_DUhBeA",
+      "youtubeId": "zAm4_DUhBeA",
+      "language": "en",
+      "duration": "19:56",
+      "publishedDate": "2024-08-23",
+      "thumbnail": "https://i.ytimg.com/vi/zAm4_DUhBeA/maxresdefault.jpg",
+      "noteEs": "Setup del plugin AdminTools (paid, vía Codefling) para consolidar gestión de player bans, kick, log review y permission management en un solo GUI. Worth para servers con 2+ admins.",
+      "noteEn": "Setup of the AdminTools plugin (paid, via Codefling) to consolidate player bans, kick, log review, and permission management into a single GUI. Worth it for servers with 2+ admins."
+    },
+    {
+      "id": "srtbull-server-tools-revolutionizing-2024",
+      "type": "video",
+      "title": "Rust Server Tools That Are REVOLUTIONIZING Rust Server Hosting",
+      "creator": "srtbull",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=7BRXDFjZ2Vs",
+      "youtubeId": "7BRXDFjZ2Vs",
+      "language": "en",
+      "duration": "8:18",
+      "publishedDate": "2024-06-21",
+      "thumbnail": "https://i.ytimg.com/vi/7BRXDFjZ2Vs/maxresdefault.jpg",
+      "noteEs": "Lista curada de tools menos conocidos que mejoran admin: panels, monitors, schedule managers. 8 minutos de pointers para reducir el friction operacional.",
+      "noteEn": "Curated list of lesser-known tools that improve admin: panels, monitors, schedule managers. 8 minutes of pointers to reduce operational friction."
+    },
+    {
+      "id": "ghostcap-pterodactyl-setup-2021",
+      "type": "video",
+      "title": "How To EASILY Setup A Dedicated Rust Server In Pterodactyl",
+      "creator": "GhostCap Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=uGLotNsCotY",
+      "youtubeId": "uGLotNsCotY",
+      "language": "en",
+      "duration": "11:06",
+      "publishedDate": "2021-11-05",
+      "thumbnail": "https://i.ytimg.com/vi/uGLotNsCotY/maxresdefault.jpg",
+      "noteEs": "Setup de Pterodactyl para hostear Rust con Oxide, plugins y admins. El proceso de Pterodactyl no cambió fundamentalmente — sigue siendo la referencia más clara para self-hosting con panel.",
+      "noteEn": "Pterodactyl setup to host Rust with Oxide, plugins, and admins. Pterodactyl's process hasn't fundamentally changed — still the clearest reference for self-hosting with a panel."
+    }
+  ]
+}
