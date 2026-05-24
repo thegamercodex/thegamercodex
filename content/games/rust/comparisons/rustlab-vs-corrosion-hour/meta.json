@@ -1,0 +1,46 @@
+{
+  "id": "rustlab-vs-corrosion-hour",
+  "toolIds": ["rustlab", "corrosion-hour"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-05-23",
+  "verdictEs": "RustLab para data cruda y lookups rápidos. Corrosion Hour para guías largas, contexto editorial y breakdowns de cada Devblog mensual.",
+  "verdictEn": "RustLab for raw data and quick lookups. Corrosion Hour for long-form guides, editorial context, and monthly Devblog breakdowns.",
+  "useCases": [
+    {
+      "labelEs": "Lookup rápido de un item o raid cost",
+      "labelEn": "Quick item or raid cost lookup",
+      "winner": "rustlab",
+      "reasonEs": "RustLab tiene search más rápido, stats tabulados y raid calculator integrado. Corrosion Hour requiere navegar la página del item para juntar la misma info.",
+      "reasonEn": "RustLab has faster search, tabulated stats, and integrated raid calculator. Corrosion Hour requires browsing the item page to gather the same info."
+    },
+    {
+      "labelEs": "Entender un monumento o mecánica nueva",
+      "labelEn": "Understand a monument or new mechanic",
+      "winner": "corrosion-hour",
+      "reasonEs": "Corrosion Hour escribe guías editoriales con context, mapas y puzzle solutions. RustLab solo expone stats sin explicación.",
+      "reasonEn": "Corrosion Hour writes editorial guides with context, maps, and puzzle solutions. RustLab only exposes stats without explanation."
+    },
+    {
+      "labelEs": "Leer breakdown del último Devblog mensual",
+      "labelEn": "Read breakdown of the latest monthly Devblog",
+      "winner": "corrosion-hour",
+      "reasonEs": "Corrosion Hour publica análisis del parche pocas horas después del force wipe. RustLab actualiza datos pero no escribe el análisis.",
+      "reasonEn": "Corrosion Hour publishes patch analysis hours after force wipe. RustLab updates data but doesn't write the analysis."
+    },
+    {
+      "labelEs": "Trackear Twitch drops activos",
+      "labelEn": "Track active Twitch drops",
+      "winner": "rustlab",
+      "reasonEs": "RustLab tiene página dedicada a Twitch drops con campañas activas y tiempo restante. Corrosion Hour no cubre eso.",
+      "reasonEn": "RustLab has a dedicated Twitch drops page with active campaigns and time remaining. Corrosion Hour doesn't cover that."
+    },
+    {
+      "labelEs": "Lista curada de tools, plugins, recursos del ecosistema",
+      "labelEn": "Curated list of ecosystem tools, plugins, resources",
+      "winner": "corrosion-hour",
+      "reasonEs": "Corrosion Hour mantiene una página \"Player Resources\" con links curados a discords, plugins y tools. RustLab es solo base de datos.",
+      "reasonEn": "Corrosion Hour maintains a \"Player Resources\" page with curated links to discords, plugins, and tools. RustLab is purely a database."
+    }
+  ]
+}

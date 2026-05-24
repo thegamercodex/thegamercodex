@@ -1,0 +1,41 @@
+{
+  "id": "spoonkid",
+  "name": "Spoonkid",
+  "realName": "Kevin",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2015,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Spoonkid",
+      "url": "https://www.youtube.com/@Spoonkid",
+      "channelId": "UCrzfYhLjOkfAcmjixeeiEnQ",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "spoonkid",
+      "url": "https://www.twitch.tv/spoonkid"
+    }
+  ],
+  "specialties": ["solo-play", "long-sessions", "creative-challenges", "comedy"],
+  "games": ["rust"],
+  "contentTypes": ["long-form", "challenges", "comedy"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Pionero del solo long-form en Rust. Sus videos típicos duran 30-60 minutos cubriendo wipes enteros o desafíos creativos (sobrevivir una semana en train tunnels, raidear con solo melee, no salir de la base). Estilo casual con humor seco, thumbnails reconocibles. Influyó a una generación de Rust YouTubers que adoptaron su formato.",
+  "noteEn": "Pioneer of solo long-form Rust content. Typical videos are 30-60 minutes covering entire wipes or creative challenges (surviving a week in train tunnels, raiding melee-only, never leaving base). Casual style with dry humor, recognizable thumbnails. Influenced a generation of Rust YouTubers who adopted his format.",
+  "highlightsEs": [
+    "Long-form solo wipes — 30-60 min de gameplay narrado sin cortes hyper-edit",
+    "Challenges creativos que se vuelven memes (train tunnel wipe, melee-only raid)",
+    "Comedy timing y self-deprecation sin caer en cringe"
+  ],
+  "highlightsEn": [
+    "Long-form solo wipes — 30-60 min of narrated gameplay without hyper-edit cuts",
+    "Creative challenges that become memes (train tunnel wipe, melee-only raid)",
+    "Comedy timing and self-deprecation without falling into cringe"
+  ],
+  "avatar": "/images/creators/spoonkid-avatar.jpg",
+  "banner": "/images/creators/spoonkid-banner.jpg"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "blooprint",
+  "name": "Blooprint",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2018,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Blooprint",
+      "url": "https://www.youtube.com/@Blooprint",
+      "channelId": "UCj-wTLj0p0YvTkS-9-ACm0A",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "blooprint",
+      "url": "https://www.twitch.tv/blooprint"
+    }
+  ],
+  "specialties": ["base-building", "raid-strategy", "guides", "clan-content"],
+  "games": ["rust"],
+  "contentTypes": ["tutorials", "base-reviews", "raid-guides"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Uno de los canales más sólidos para base building tutorials en 2026. Cubre desde 2x1 starter bases hasta clan compounds con honeycomb, peek-holes, electricity setups y raid defenses. También hace base reviews de la community y raid strategy breakdowns. Si buscas aprender a construir bases serias, Blooprint es la entrada estándar.",
+  "noteEn": "One of the most solid channels for base building tutorials in 2026. Covers from 2x1 starter bases to clan compounds with honeycomb, peek-holes, electricity setups, and raid defenses. Also does community base reviews and raid strategy breakdowns. If you want to learn to build serious bases, Blooprint is the standard entry.",
+  "highlightsEs": [
+    "Base build tutorials por tamaño de grupo (solo, duo, trio, clan)",
+    "Raid strategy breakdowns con annotation de costos y rutas óptimas",
+    "Updates de meta de base building después de cada force wipe relevante"
+  ],
+  "highlightsEn": [
+    "Base build tutorials by group size (solo, duo, trio, clan)",
+    "Raid strategy breakdowns with annotation of costs and optimal routes",
+    "Base-building meta updates after every relevant force wipe"
+  ],
+  "avatar": "/images/creators/blooprint-avatar.jpg",
+  "banner": "/images/creators/blooprint-banner.jpg"
+}

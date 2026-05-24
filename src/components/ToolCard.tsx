@@ -1,8 +1,10 @@
 import Image from "next/image";
-import { Star, BadgeCheck } from "lucide-react";
+import { Star, BadgeCheck, ShieldCheck } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { categoryName } from "@/lib/categories";
+import { isRecentlyVerified } from "@/lib/format";
+import { FavoriteButton } from "./FavoriteButton";
 import type { Locale, Tool, ToolCategory } from "@/types";
 
 interface ToolCardProps {
@@ -24,8 +26,14 @@ export function ToolCard({
   const tDifficulty = useTranslations("difficulty");
   const tagline = locale === "es" ? tool.taglineEs : tool.taglineEn;
   const initial = (tool.shortName ?? tool.name).charAt(0).toUpperCase();
+  const recentlyVerified = isRecentlyVerified(tool.lastVerified);
 
   return (
+    <div className="relative">
+      <FavoriteButton
+        entry={{ type: "tool", id: tool.id, gameId }}
+        className="absolute right-2 top-2 z-10"
+      />
     <Link
       href={`/${gameId}/tools/${tool.id}`}
       className={`group flex flex-col gap-3 rounded-xl border p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-[var(--game-accent,var(--color-accent))]/60 hover:bg-muted/70 ${
@@ -95,10 +103,20 @@ export function ToolCard({
             {t("openSource")}
           </span>
         )}
+        {recentlyVerified && (
+          <span
+            className="inline-flex items-center gap-1 rounded-md border border-cyan-500/30 bg-cyan-500/10 px-1.5 py-0.5 font-medium text-cyan-400"
+            title={t("recentlyVerified")}
+          >
+            <ShieldCheck aria-hidden className="h-3 w-3" />
+            {t("recentlyVerified")}
+          </span>
+        )}
         <span className="ml-auto rounded-md border border-border bg-background/60 px-1.5 py-0.5 font-medium text-muted-foreground">
           {tDifficulty(tool.difficulty)}
         </span>
       </div>
     </Link>
+    </div>
   );
 }

@@ -1,0 +1,46 @@
+{
+  "id": "battlemetrics-vs-just-wiped",
+  "toolIds": ["battlemetrics", "just-wiped"],
+  "category": "server-tools",
+  "depth": "short",
+  "lastVerified": "2026-05-23",
+  "verdictEs": "Just-Wiped para encontrar wipe fresco rápido sin overhead. BattleMetrics cuando necesitas tracking, alertas o RCON remoto.",
+  "verdictEn": "Just-Wiped to find a fresh wipe fast with no overhead. BattleMetrics when you need tracking, alerts, or remote RCON.",
+  "useCases": [
+    {
+      "labelEs": "Force wipe day, encontrar server fresco rápido",
+      "labelEn": "Force wipe day, find a fresh server fast",
+      "winner": "just-wiped",
+      "reasonEs": "Just-Wiped tiene filter \"Wiped in last 1h\" como primary CTA. BattleMetrics requiere combinar filtros para llegar al mismo resultado.",
+      "reasonEn": "Just-Wiped has \"Wiped in last 1h\" as primary CTA. BattleMetrics requires combining filters to reach the same result."
+    },
+    {
+      "labelEs": "Trackear cuándo entra al server un player específico",
+      "labelEn": "Track when a specific player logs into the server",
+      "winner": "battlemetrics",
+      "reasonEs": "BattleMetrics tiene Watch lists, alertas push/email, history de sessions por player. Just-Wiped no tiene esa funcionalidad.",
+      "reasonEn": "BattleMetrics has watch lists, push/email alerts, per-player session history. Just-Wiped doesn't have that functionality."
+    },
+    {
+      "labelEs": "Admin remoto via RCON desde móvil",
+      "labelEn": "Remote admin via RCON from mobile",
+      "winner": "battlemetrics",
+      "reasonEs": "BattleMetrics expone RCON via web browser/mobile sin necesidad de loguear al cliente. Just-Wiped no admin features.",
+      "reasonEn": "BattleMetrics exposes RCON via web browser/mobile without logging into the client. Just-Wiped has no admin features."
+    },
+    {
+      "labelEs": "Encontrar weekly server con tu wipe schedule preferido",
+      "labelEn": "Find a weekly server with your preferred wipe schedule",
+      "winner": "just-wiped",
+      "reasonEs": "Just-Wiped filtra por wipe schedule (weekly Tuesdays, biweekly Thursdays) directo. BattleMetrics cubre menos esa axis.",
+      "reasonEn": "Just-Wiped filters by wipe schedule (weekly Tuesdays, biweekly Thursdays) directly. BattleMetrics covers that axis less well."
+    },
+    {
+      "labelEs": "Alertas cuando tu server cae o un slot abre",
+      "labelEn": "Alerts when your server goes down or a slot opens",
+      "winner": "battlemetrics",
+      "reasonEs": "BattleMetrics tiene sistema de alertas configurables con Discord webhooks. Just-Wiped no tiene alertas — solo browser.",
+      "reasonEn": "BattleMetrics has configurable alerts with Discord webhooks. Just-Wiped has no alerts — only browsing."
+    }
+  ]
+}

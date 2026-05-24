@@ -1,0 +1,80 @@
+{
+  "category": "monument-and-pve",
+  "resources": [
+    {
+      "id": "jfarr-small-oil-rig-2025",
+      "type": "video",
+      "title": "Small Oil Rig Monument - Loot, Strategies & Puzzle Guide In 2025 | Rust Tutorial",
+      "creator": "Jfarr",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=2lzGW8X5NcY",
+      "youtubeId": "2lzGW8X5NcY",
+      "language": "en",
+      "duration": "8:39",
+      "publishedDate": "2025-08-24",
+      "thumbnail": "https://i.ytimg.com/vi/2lzGW8X5NcY/maxresdefault.jpg",
+      "noteEs": "Walkthrough del Small Oil Rig actualizado a 2025: cómo abordar, scientists, puzzle y Chinook event. Jfarr es el creator de referencia para monument tutorials — formato corto y directo, sin filler.",
+      "noteEn": "Updated 2025 walkthrough of Small Oil Rig: how to approach, scientists, puzzle, and Chinook event. Jfarr is the reference creator for monument tutorials — short, direct format, no filler."
+    },
+    {
+      "id": "jfarr-large-oil-rig-2025",
+      "type": "video",
+      "title": "Large Oil Rig Monument - Best Strategies, Loot, & Puzzle Guide In 2025 | Rust Tutorials",
+      "creator": "Jfarr",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=GN4khDsR6z4",
+      "youtubeId": "GN4khDsR6z4",
+      "language": "en",
+      "duration": "10:08",
+      "publishedDate": "2025-09-14",
+      "thumbnail": "https://i.ytimg.com/vi/GN4khDsR6z4/maxresdefault.jpg",
+      "noteEs": "Hermano del anterior pero para Large Oil Rig — significativamente más complejo (3 puzzle keycards, más heavy scientists, mayor riesgo). 10 minutos cubriendo cada nivel del rig en orden óptimo.",
+      "noteEn": "Sibling to the previous but for Large Oil Rig — significantly more complex (3 puzzle keycards, more heavy scientists, higher risk). 10 minutes covering each rig level in optimal order."
+    },
+    {
+      "id": "jfarr-patrol-helicopter-2024",
+      "type": "video",
+      "title": "NEW Patrol Helicopter & Tower Guide | Rust Tutorial",
+      "creator": "Jfarr",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=B-UbBrHbAh0",
+      "youtubeId": "B-UbBrHbAh0",
+      "language": "en",
+      "duration": "7:15",
+      "publishedDate": "2024-07-26",
+      "thumbnail": "https://i.ytimg.com/vi/B-UbBrHbAh0/maxresdefault.jpg",
+      "noteEs": "Guía actualizada del Patrol Helicopter con la mechanic nueva de Tower defenses. Cómo tomarlo solo y en grupo, qué armas usar, cuándo huir. Aplica hasta cualquier wipe sin balance pass al Heli.",
+      "noteEn": "Updated Patrol Helicopter guide with the new Tower defenses mechanic. How to take it solo and in group, what weapons to use, when to retreat. Applies to any wipe without a Heli balance pass."
+    },
+    {
+      "id": "jfarr-launch-site-evergreen",
+      "type": "video",
+      "title": "Launch Site Guide | Rust Tutorial",
+      "creator": "Jfarr",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=AGtTjNOAE0s",
+      "youtubeId": "AGtTjNOAE0s",
+      "language": "en",
+      "duration": "10:28",
+      "publishedDate": "2020-06-24",
+      "thumbnail": "https://i.ytimg.com/vi/AGtTjNOAE0s/maxresdefault.jpg",
+      "noteEs": "Evergreen: el Launch Site no cambió radicalmente desde 2020. Walkthrough completo de los puzzles green/blue/red, scientists, helicópteros y loot tier máximo. Sigue siendo la referencia más vista del monument.",
+      "noteEn": "Evergreen: Launch Site hasn't changed radically since 2020. Complete walkthrough of green/blue/red puzzles, scientists, helicopters, and max-tier loot. Still the most-viewed reference for the monument."
+    },
+    {
+      "id": "willjum-cave-dweller-100h-2026",
+      "type": "video",
+      "title": "I Survived 100 Hours as a cave dweller in Rust...",
+      "creator": "Willjum",
+      "creatorId": "willjum",
+      "url": "https://www.youtube.com/watch?v=lYNYxlDgtPU",
+      "youtubeId": "lYNYxlDgtPU",
+      "language": "en",
+      "duration": "1:01:47",
+      "publishedDate": "2026-04-05",
+      "thumbnail": "https://i.ytimg.com/vi/lYNYxlDgtPU/maxresdefault.jpg",
+      "noteEs": "100 horas viviendo dentro de cuevas como base principal, evitando monumentos típicos. Útil para entender alt-PvE: cuevas como source de recursos, exposiciones de PvP que vienen y van, y survival cuando no tienes acceso a monumentos.",
+      "noteEn": "100 hours living inside caves as primary base, avoiding typical monuments. Useful to understand alt-PvE: caves as resource source, PvP exposures that come and go, and survival when you don't have monument access."
+    }
+  ]
+}

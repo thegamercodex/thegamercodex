@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-23
+> Última generación: 2026-05-24
 
 ## Resumen
 
-18 juegos · 288 tools · 89 creators · 92 categorías · 460 resources items · 67 comparisons
+19 juegos · 303 tools · 93 creators · 97 categorías · 485 resources items · 72 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -22,6 +22,7 @@
 | `palworld` | Palworld | 15 | 5 | 5 | 25 | 4 |
 | `path-of-exile` | Path of Exile | 17 | 5 | 5 | 25 | 7 |
 | `path-of-exile-2` | Path of Exile 2 | 20 | 5 | 5 | 25 | 8 |
+| `rust` | Rust | 15 | 4 | 5 | 25 | 5 |
 | `skyrim` | The Elder Scrolls V: Skyrim | 19 | 5 | 5 | 25 | 5 |
 | `valheim` | Valheim | 15 | 5 | 5 | 25 | 4 |
 | `valorant` | Valorant | 15 | 5 | 5 | 25 | 0 |
@@ -225,6 +226,21 @@
 - `trading-guides` — 5 items
 
 **Comparisons (8)**: `craft-of-exile-vs-path-of-crafting` (short), `exiled-exchange-2-vs-poe-overlay` (short), `exiled-exchange-2-vs-sidekick` (short), `maxroll-vs-mobalytics` (short), `path-of-building-vs-poeplanner` (flagship), `poe-ninja-vs-poe2-scout` (short), `poe-trade-official-vs-tft` (short), `poe2-wiki-vs-poe2db` (flagship)
+
+### Rust (`rust`)
+
+**Tools (15)**: BattleMetrics (`battlemetrics`), Carbon (`carbon`), Codefling (`codefling`), Corrosion Hour (`corrosion-hour`), FORTIFY (`fortify`), Just-Wiped (`just-wiped`), Oxide / uMod (`oxide-umod`), Rust Official Discord (`rust-discord`), Rust+ (`rust-plus`), RustEdit (`rustedit`), RustHelp (`rusthelp`), RustLab (`rustlab`), RustMaps (`rustmaps`), rustplusplus (`rustplusplus`), Rustrician (`rustrician`)
+
+**Creators (4)**: Blooprint (`blooprint`), Spoonkid (`spoonkid`), Welyn (`welyn`), Willjum (`willjum`)
+
+**Resources (5 categories · 25 items)**:
+- `base-building-guides` — 5 items
+- `beginner-guides` — 5 items
+- `monument-and-pve` — 5 items
+- `raid-and-defense` — 5 items
+- `server-admin-and-mods` — 5 items
+
+**Comparisons (5)**: `battlemetrics-vs-just-wiped` (short), `oxide-umod-vs-carbon` (flagship), `rust-plus-vs-rustplusplus` (short), `rustlab-vs-corrosion-hour` (short), `rustmaps-vs-rustedit` (short)
 
 ### The Elder Scrolls V: Skyrim (`skyrim`)
 

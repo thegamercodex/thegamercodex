@@ -1,0 +1,80 @@
+{
+  "category": "raid-and-defense",
+  "resources": [
+    {
+      "id": "welyn-raid-saved-everything-2026",
+      "type": "video",
+      "title": "The Raid that Saved EVERYTHING - Rust",
+      "creator": "Welyn",
+      "creatorId": "welyn",
+      "url": "https://www.youtube.com/watch?v=B0nXNYyscHw",
+      "youtubeId": "B0nXNYyscHw",
+      "language": "en",
+      "duration": "57:40",
+      "publishedDate": "2026-04-12",
+      "thumbnail": "https://i.ytimg.com/vi/B0nXNYyscHw/maxresdefault.jpg",
+      "noteEs": "Hora completa de planning + execution de un raid critical. Cubre scouting, cálculo de costos en explosivos, ruta de raid y exfil. Perfecto para entender el flow real de un raid grande de principio a fin.",
+      "noteEn": "Full hour of planning + execution of a critical raid. Covers scouting, explosive cost calculation, raid route, and exfil. Perfect to understand the real flow of a big raid from start to finish."
+    },
+    {
+      "id": "welyn-obnoxious-group-2026",
+      "type": "video",
+      "title": "Destroying the MOST OBNOXIOUS Group - Rust",
+      "creator": "Welyn",
+      "creatorId": "welyn",
+      "url": "https://www.youtube.com/watch?v=oKHavT3NrKY",
+      "youtubeId": "oKHavT3NrKY",
+      "language": "en",
+      "duration": "56:09",
+      "publishedDate": "2026-03-20",
+      "thumbnail": "https://i.ytimg.com/vi/oKHavT3NrKY/maxresdefault.jpg",
+      "noteEs": "Estilo clásico Welyn: identificar al clan tóxico del server, armar plan eco-raid y desmantelar la operación. Storytelling con annotation maps y breakdown de cada decisión táctica.",
+      "noteEn": "Classic Welyn style: identify the server's toxic clan, build an eco-raid plan, and dismantle the operation. Storytelling with annotation maps and breakdown of each tactical decision."
+    },
+    {
+      "id": "blooprint-broken-meta-2026",
+      "type": "video",
+      "title": "MASTERING the MOST BROKEN META in RUST",
+      "creator": "Blooprint",
+      "creatorId": "blooprint",
+      "url": "https://www.youtube.com/watch?v=30Emo_fIbAI",
+      "youtubeId": "30Emo_fIbAI",
+      "language": "en",
+      "duration": "1:26:52",
+      "publishedDate": "2026-03-13",
+      "thumbnail": "https://i.ytimg.com/vi/30Emo_fIbAI/maxresdefault.jpg",
+      "noteEs": "Breakdown del meta de raid y combat más roto del wipe — qué loadouts, qué builds y qué tactics dominan en este parche. 90 minutos editoriales sobre por qué algo funciona en lugar de solo mostrar que funciona.",
+      "noteEn": "Breakdown of the most broken raid and combat meta of the wipe — which loadouts, which builds, which tactics dominate this patch. 90 editorial minutes on why something works rather than just showing it works."
+    },
+    {
+      "id": "spoonkid-missile-silo-2025",
+      "type": "video",
+      "title": "i lived in a missile silo...",
+      "creator": "spoonkid",
+      "creatorId": "spoonkid",
+      "url": "https://www.youtube.com/watch?v=UzxajD9xUyA",
+      "youtubeId": "UzxajD9xUyA",
+      "language": "en",
+      "duration": "14:35",
+      "publishedDate": "2025-03-01",
+      "thumbnail": "https://i.ytimg.com/vi/UzxajD9xUyA/maxresdefault.jpg",
+      "noteEs": "Spoonkid sobrevive un wipe entero en el missile silo monument, defendiendo posición de raid attempts repetidos. Útil para ver defensive thinking aplicado a una ubicación inusual y limitaciones.",
+      "noteEn": "Spoonkid survives an entire wipe in the missile silo monument, defending position from repeated raid attempts. Useful to see defensive thinking applied to an unusual location with constraints."
+    },
+    {
+      "id": "stelic-bunkers-that-work-2025",
+      "type": "video",
+      "title": "All Rust BUNKERS That Still Work in 2025 - Complete Guide",
+      "creator": "STELIC",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=sse1zydf1rI",
+      "youtubeId": "sse1zydf1rI",
+      "language": "en",
+      "duration": "9:05",
+      "publishedDate": "2025-02-02",
+      "thumbnail": "https://i.ytimg.com/vi/sse1zydf1rI/maxresdefault.jpg",
+      "noteEs": "Lista cuáles bunkers siguen funcionando después del último wipe — Facepunch nerfea bunkers cada par de meses. 9 minutos de auditoría: cuáles morir, cuáles seguir usando, cuáles están en gray area.",
+      "noteEn": "Lists which bunkers still work after the last wipe — Facepunch nerfs bunkers every couple months. 9 minutes of audit: which to drop, which to keep using, which are in gray area."
+    }
+  ]
+}

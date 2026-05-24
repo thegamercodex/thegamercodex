@@ -5,6 +5,7 @@ import {
   ExternalLink,
   Gamepad2,
   Heart,
+  Rss,
   Scale,
   Sparkles,
   User,
@@ -36,6 +37,9 @@ export async function generateMetadata({
       languages: {
         es: "/es/changelog",
         en: "/en/changelog",
+      },
+      types: {
+        "application/atom+xml": "/changelog/feed.xml",
       },
     },
   };
@@ -224,6 +228,16 @@ export default async function ChangelogPage({
           >
             {t("supportCta")}
             <ExternalLink aria-hidden className="h-3 w-3" />
+          </a>
+        </div>
+
+        <div className="mt-3 flex justify-end">
+          <a
+            href="/changelog/feed.xml"
+            className="inline-flex items-center gap-1.5 text-xs text-foreground-subtle transition-colors hover:text-accent"
+          >
+            <Rss aria-hidden className="h-3 w-3" />
+            {t("rssLink")}
           </a>
         </div>
       </header>

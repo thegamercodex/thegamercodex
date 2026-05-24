@@ -23,6 +23,19 @@
     "trustNoAffiliates": "No affiliates",
     "trustOpenSource": "Open source"
   },
+  "favorites": {
+    "pageTitle": "Favorites",
+    "pageDescription": "Your saved games and tools. Heart any card in the codex and it shows up here for quick access.",
+    "storageNote": "Favorites are stored only in this browser. If you clear site data or use another device, they don't sync.",
+    "loading": "Loading favorites…",
+    "emptyTitle": "No favorites yet",
+    "emptyHint": "Browse the games and heart the ones you want to come back to quickly.",
+    "emptyCta": "Go home",
+    "gamesHeading": "{count, plural, one {# game} other {# games}}",
+    "toolsHeading": "{count, plural, one {# tool} other {# tools}}",
+    "addAria": "Save to favorites",
+    "removeAria": "Remove from favorites"
+  },
   "notFound": {
     "title": "Page not found",
     "description": "The URL you're looking for doesn't exist or moved. Head back home to explore the curated games, or check the changelog if you were following a recent update.",
@@ -37,6 +50,7 @@
     "scopeDisclaimer": "We only log adds, changes, removals, and moves for games, tools, creators, resources, and comparisons. UI tweaks, infrastructure, and other technical improvements don't appear here.",
     "supportPrompt": "If you like the content, help us keep the page updated and ad-free.",
     "supportCta": "Support the codex",
+    "rssLink": "Subscribe via RSS",
     "eventsHeading": "Changes",
     "notesHeading": "Notes",
     "eventTypes": {
@@ -172,6 +186,7 @@
     "essential": "Essential",
     "free": "Free",
     "official": "Official",
+    "recentlyVerified": "Recently verified",
     "openSource": "Open source",
     "multiGame": "Multi-game",
     "relatedTools": "Related tools",

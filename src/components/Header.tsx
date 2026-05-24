@@ -3,6 +3,7 @@ import { Link } from "@/i18n/navigation";
 import { LanguageSwitcher } from "./LanguageSwitcher";
 import { ChromeThemeSwitcher } from "./ChromeThemeSwitcher";
 import { HeaderMobileMenu } from "./HeaderMobileMenu";
+import { HeaderFavoritesLink } from "./HeaderFavoritesLink";
 import { BrandImage } from "./BrandImage";
 
 export async function Header() {
@@ -26,6 +27,7 @@ export async function Header() {
         {/* Inline switchers on sm+ screens. Below sm, the hamburger menu
             (HeaderMobileMenu) is shown instead and these are hidden. */}
         <div className="hidden items-center gap-2 sm:flex">
+          <HeaderFavoritesLink />
           <ChromeThemeSwitcher />
           <LanguageSwitcher />
         </div>

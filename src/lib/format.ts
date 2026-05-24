@@ -53,3 +53,15 @@ export function formatDateShort(isoDate: string, locale: Locale): string {
     day: "numeric",
   });
 }
+
+// True if lastVerified is within the past N days (default 30). Build-time
+// evaluation — the badge is computed during SSG so the threshold is relative
+// to the build date, not the request date. A weekly rebuild keeps it accurate.
+export function isRecentlyVerified(isoDate: string | undefined, days = 30): boolean {
+  if (!isoDate) return false;
+  const date = parseDateOnly(isoDate);
+  if (Number.isNaN(date.getTime())) return false;
+  const diffMs = Date.now() - date.getTime();
+  const diffDays = diffMs / (1000 * 60 * 60 * 24);
+  return diffDays >= 0 && diffDays <= days;
+}

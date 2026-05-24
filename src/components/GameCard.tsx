@@ -3,6 +3,7 @@ import { ArrowUpRight } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { humanize } from "@/lib/categories";
+import { FavoriteButton } from "./FavoriteButton";
 import type { Game, Locale, MonetizationModel } from "@/types";
 
 interface GameCardProps {
@@ -40,6 +41,11 @@ export function GameCard({ game, locale }: GameCardProps) {
   const monStyle = monetizationToken[model];
 
   return (
+    <div className="relative">
+      <FavoriteButton
+        entry={{ type: "game", id: game.id }}
+        className="absolute left-2 top-2 z-10"
+      />
     <Link
       href={`/${game.id}`}
       className="group relative flex flex-col overflow-hidden rounded-xl border border-border bg-muted/40 transition-all duration-200 hover:-translate-y-0.5 hover:border-accent/60 hover:shadow-[0_0_0_1px_var(--color-accent)]"
@@ -126,5 +132,6 @@ export function GameCard({ game, locale }: GameCardProps) {
         </div>
       </div>
     </Link>
+    </div>
   );
 }

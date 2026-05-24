@@ -267,7 +267,16 @@ export default async function ComparisonPage({ params }: PageParams) {
           {game.name}
         </Link>
         <ChevronRight className="h-3 w-3" />
-        <span className="text-foreground-muted">{t("breadcrumb")}</span>
+        <Link
+          href={`/${game.id}#comparisons`}
+          className="transition-colors hover:text-foreground"
+        >
+          {t("breadcrumb")}
+        </Link>
+        <ChevronRight className="h-3 w-3" />
+        <span className="text-foreground-muted">
+          {toolA.name} <span className="text-foreground-subtle">vs</span> {toolB.name}
+        </span>
       </nav>
 
       <header className="mt-6 border-b border-border pb-8">

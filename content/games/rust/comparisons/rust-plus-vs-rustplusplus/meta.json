@@ -1,0 +1,46 @@
+{
+  "id": "rust-plus-vs-rustplusplus",
+  "toolIds": ["rust-plus", "rustplusplus"],
+  "category": "companion",
+  "depth": "short",
+  "lastVerified": "2026-05-23",
+  "verdictEs": "Rust+ para uso individual sin setup. rustplusplus cuando juegas en clan y quieres alertas compartidas en Discord o comandos remotos via bot.",
+  "verdictEn": "Rust+ for individual use with no setup. rustplusplus when you play in a clan and want shared Discord alerts or remote commands via bot.",
+  "useCases": [
+    {
+      "labelEs": "Solo player con app móvil para smart switches",
+      "labelEn": "Solo player with mobile app for smart switches",
+      "winner": "rust-plus",
+      "reasonEs": "Rust+ oficial cubre el use case individual perfecto — install app, pair server, ya está. rustplusplus es overkill sin clan.",
+      "reasonEn": "Official Rust+ covers the individual use case perfectly — install app, pair server, done. rustplusplus is overkill without a clan."
+    },
+    {
+      "labelEs": "Clan con Discord server activo",
+      "labelEn": "Clan with active Discord server",
+      "winner": "rustplusplus",
+      "reasonEs": "rustplusplus publica alertas a canales compartidos del clan, permite comandos remotos para cualquier miembro y centraliza el flow en Discord.",
+      "reasonEn": "rustplusplus publishes alerts to shared clan channels, allows remote commands for any member, and centralizes the flow in Discord."
+    },
+    {
+      "labelEs": "Alertas push de CH47 o Cargo Ship",
+      "labelEn": "Push alerts for CH47 or Cargo Ship",
+      "winner": "rust-plus",
+      "reasonEs": "Rust+ tiene alertas push native a la app móvil sin setup adicional. rustplusplus también las hace pero requires self-hosting el bot.",
+      "reasonEn": "Rust+ has native push alerts to mobile app with no extra setup. rustplusplus does them too but requires self-hosting the bot."
+    },
+    {
+      "labelEs": "Logs históricos de eventos del server",
+      "labelEn": "Server event historical logs",
+      "winner": "rustplusplus",
+      "reasonEs": "rustplusplus publica a canal de Discord, dejando histórico recuperable días después. Rust+ solo muestra alertas en tiempo real, sin persistencia.",
+      "reasonEn": "rustplusplus publishes to Discord channel, leaving recoverable history days later. Rust+ only shows real-time alerts, no persistence."
+    },
+    {
+      "labelEs": "Setup cero, plug-and-play",
+      "labelEn": "Zero setup, plug-and-play",
+      "winner": "rust-plus",
+      "reasonEs": "Rust+ es download + pair + done. rustplusplus requires Node.js, Discord bot setup, VPS o local hosting — curva alta.",
+      "reasonEn": "Rust+ is download + pair + done. rustplusplus requires Node.js, Discord bot setup, VPS or local hosting — steep curve."
+    }
+  ]
+}

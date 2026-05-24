@@ -1,0 +1,46 @@
+{
+  "id": "rustmaps-vs-rustedit",
+  "toolIds": ["rustmaps", "rustedit"],
+  "category": "map-tools",
+  "depth": "short",
+  "lastVerified": "2026-05-23",
+  "verdictEs": "RustMaps para generar y elegir un mapa procedural rápido. RustEdit cuando quieres diseñar a mano un mapa custom con monumentos, puzzles y paths modificados.",
+  "verdictEn": "RustMaps to generate and pick a procedural map fast. RustEdit when you want to hand-design a custom map with custom monuments, puzzles, and modified paths.",
+  "useCases": [
+    {
+      "labelEs": "Admin elige mapa para wipe semanal vanilla",
+      "labelEn": "Admin picks a map for a vanilla weekly wipe",
+      "winner": "rustmaps",
+      "reasonEs": "RustMaps genera procedurales, filtra por monumentos presentes y entrega un mapa en 2-5 min. RustEdit requeriría diseñar todo desde cero — overkill.",
+      "reasonEn": "RustMaps generates procedurals, filters by monuments present, and delivers a map in 2-5 min. RustEdit would require designing everything from scratch — overkill."
+    },
+    {
+      "labelEs": "Server roleplay con monumentos custom y lore",
+      "labelEn": "Roleplay server with custom monuments and lore",
+      "winner": "rustedit",
+      "reasonEs": "RustEdit edita prefabs, agrega monumentos custom, modifica paths del Cargo y Bradley. RustMaps no edita — solo genera procedurales.",
+      "reasonEn": "RustEdit edits prefabs, adds custom monuments, modifies Cargo and Bradley paths. RustMaps doesn't edit — only generates procedurals."
+    },
+    {
+      "labelEs": "Scoutear el mapa del server antes de logear",
+      "labelEn": "Scout the server map before logging in",
+      "winner": "rustmaps",
+      "reasonEs": "Pegas seed + size del server en RustMaps y ves el mapa entero. RustEdit no expone esa funcionalidad sin tener el .map file.",
+      "reasonEn": "Paste server seed + size into RustMaps and see the whole map. RustEdit doesn't expose that without having the .map file."
+    },
+    {
+      "labelEs": "Vender mapas custom en Codefling",
+      "labelEn": "Sell custom maps on Codefling",
+      "winner": "rustedit",
+      "reasonEs": "RustEdit es la herramienta primaria de map makers que monetizan en Codefling. Sus features de prefab placement y custom IO son esenciales.",
+      "reasonEn": "RustEdit is the primary tool for map makers monetizing on Codefling. Its prefab placement and custom IO features are essential."
+    },
+    {
+      "labelEs": "Integrar map voting con plugin para que la comunidad elija",
+      "labelEn": "Integrate map voting with plugin so the community chooses",
+      "winner": "rustmaps",
+      "reasonEs": "RustMaps tiene API consumida por MapVoter y Automated Maps plugins. La comunidad vota mapas procedurales generados via API.",
+      "reasonEn": "RustMaps has API consumed by MapVoter and Automated Maps plugins. Community votes on procedural maps generated via API."
+    }
+  ]
+}
