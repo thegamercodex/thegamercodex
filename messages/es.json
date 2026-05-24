@@ -30,6 +30,19 @@
     "changelog": "Ver el changelog",
     "exploreGames": "Tal vez buscabas uno de estos juegos"
   },
+  "favorites": {
+    "pageTitle": "Favoritos",
+    "pageDescription": "Tus juegos y herramientas guardados. Marca con el corazón cualquier card del codex y aparece acá para volver rápido.",
+    "storageNote": "Los favoritos se guardan solo en este navegador. Si limpias datos del sitio o usas otro dispositivo, no se sincronizan.",
+    "loading": "Cargando favoritos…",
+    "emptyTitle": "Aún no tienes favoritos",
+    "emptyHint": "Explora los juegos y marca con el corazón los que quieras volver a abrir rápido.",
+    "emptyCta": "Ir al inicio",
+    "gamesHeading": "{count, plural, one {# juego} other {# juegos}}",
+    "toolsHeading": "{count, plural, one {# herramienta} other {# herramientas}}",
+    "addAria": "Guardar en favoritos",
+    "removeAria": "Quitar de favoritos"
+  },
   "changelog": {
     "pageTitle": "Changelog",
     "pageDescription": "Historial de releases del codex: nuevos juegos, herramientas agregadas, fixes y removals.",
@@ -37,6 +50,7 @@
     "scopeDisclaimer": "Solo registramos altas, cambios, bajas y movimientos de juegos, herramientas, creadores, recursos y comparativas. Cambios de UI, infraestructura u otras mejoras técnicas no aparecen aquí.",
     "supportPrompt": "Si te gusta el contenido, ayúdanos a mantener la página actualizada y sin anuncios.",
     "supportCta": "Apoyar el codex",
+    "rssLink": "Suscribirse vía RSS",
     "eventsHeading": "Cambios",
     "notesHeading": "Notas",
     "eventTypes": {
@@ -173,6 +187,7 @@
     "free": "Gratis",
     "official": "Oficial",
     "openSource": "Open source",
+    "recentlyVerified": "Verificado recientemente",
     "multiGame": "Multi-juego",
     "relatedTools": "Herramientas relacionadas",
     "alternatives": "Alternativas",
