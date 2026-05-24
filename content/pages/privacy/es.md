@@ -3,7 +3,7 @@ title: Privacidad
 description: Qué datos pasan por TheGamerCodex y cuáles no.
 ---
 
-*Última actualización: 13 de mayo de 2026.*
+*Última actualización: 24 de mayo de 2026.*
 
 TheGamerCodex es un sitio estático. No hay cuentas de usuario, no hay base de datos personal, no hay tracking publicitario. Esta página detalla los pocos datos que sí pasan por nuestros sistemas.
 
@@ -17,12 +17,13 @@ Usamos una única cookie funcional: **`NEXT_LOCALE`**, que recuerda tu idioma el
 
 ## Almacenamiento en tu navegador
 
-Guardamos dos preferencias en `localStorage` de tu navegador:
+Guardamos tres preferencias en `localStorage` de tu navegador:
 
 - **`thegamercodex:chrome-theme`** — el tema visual elegido (futurista o medieval).
 - **`thegamercodex:tools-view`** — si prefieres ver las herramientas en cuadrícula o en lista.
+- **`thegamercodex:favorites`** — la lista de juegos y herramientas que marcaste con el corazón, para mostrarlos en tu página de favoritos.
 
-Esto vive solo en tu dispositivo y no se transmite a nuestros servidores.
+Esto vive solo en tu dispositivo y no se transmite a nuestros servidores. Si limpias datos del sitio o usas otro navegador, no se sincronizan.
 
 ## Reportes de enlaces caídos
 

@@ -3,7 +3,7 @@ title: Privacy
 description: What data flows through TheGamerCodex and what doesn't.
 ---
 
-*Last updated: May 13, 2026.*
+*Last updated: May 24, 2026.*
 
 TheGamerCodex is a static site. There are no user accounts, no personal database, and no advertising tracking. This page details the few data points that do flow through our systems.
 
@@ -17,12 +17,13 @@ We use one functional cookie: **`NEXT_LOCALE`**, which remembers your chosen lan
 
 ## Browser storage
 
-We store two preferences in your browser's `localStorage`:
+We store three preferences in your browser's `localStorage`:
 
 - **`thegamercodex:chrome-theme`** — your selected visual theme (cyber or medieval).
 - **`thegamercodex:tools-view`** — whether you prefer the grid or list layout for tools.
+- **`thegamercodex:favorites`** — the list of games and tools you hearted, used to show them on your favorites page.
 
-These live only on your device and are not transmitted to our servers.
+These live only on your device and are not transmitted to our servers. If you clear site data or use another browser, they don't sync.
 
 ## Broken-link reports
 
