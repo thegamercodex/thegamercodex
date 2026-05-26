@@ -1,0 +1,80 @@
+{
+  "category": "patch-coverage",
+  "resources": [
+    {
+      "id": "braxophone-hsr-fate-collab",
+      "type": "video",
+      "title": "EVERYTHING YOU NEED TO KNOW ABOUT HSR X FATE! Honkai: Star Rail Fate Collab Overview",
+      "creator": "Braxophone",
+      "creatorId": "braxophone",
+      "url": "https://www.youtube.com/watch?v=GhXOBsrP8Ac",
+      "youtubeId": "GhXOBsrP8Ac",
+      "language": "en",
+      "duration": "12:31",
+      "publishedDate": "2026-05-22",
+      "thumbnail": "https://i.ytimg.com/vi/GhXOBsrP8Ac/maxresdefault.jpg",
+      "noteEs": "Overview del crossover HSR × Fate/Stay Night anunciado para 4.3. Personajes incluidos, mecánicas del evento, recompensas estimadas y qué jades guardar. Si no jugaste a Fate, también explica brevemente quién es quién.",
+      "noteEn": "Overview of the HSR × Fate/Stay Night crossover announced for 4.3. Included characters, event mechanics, estimated rewards, and which jades to save. If you didn't play Fate, also briefly explains who's who."
+    },
+    {
+      "id": "guoba-50-50-loss-4-2",
+      "type": "video",
+      "title": "The Strongest Choices? 50/50 Loss 5 Star Selection Guide - HSR 4.2",
+      "creator": "Guoba Certified",
+      "creatorId": "guoba-certified",
+      "url": "https://www.youtube.com/watch?v=LBVY6nsSJ8M",
+      "youtubeId": "LBVY6nsSJ8M",
+      "language": "en",
+      "duration": "10:38",
+      "publishedDate": "2026-04-20",
+      "thumbnail": "https://i.ytimg.com/vi/LBVY6nsSJ8M/maxresdefault.jpg",
+      "noteEs": "Guía para elegir el 5-star del Stellar Convergence (consolation cuando pierdes el 50/50). Ranking actualizado a 4.2 con justificación por cada opción. Decisión que solo haces una vez por banner — vale leer antes de clickear.",
+      "noteEn": "Guide for choosing the 5-star from Stellar Convergence (consolation when you lose the 50/50). Updated 4.2 ranking with justification per option. A decision you only make once per banner — worth reading before clicking."
+    },
+    {
+      "id": "guoba-anniv-free-5star-4-2",
+      "type": "video",
+      "title": "The BEST Pick For You? FREE 5 Star Selection Guide - HSR 4.2",
+      "creator": "Guoba Certified",
+      "creatorId": "guoba-certified",
+      "url": "https://www.youtube.com/watch?v=obWE87ubavk",
+      "youtubeId": "obWE87ubavk",
+      "language": "en",
+      "duration": "10:19",
+      "publishedDate": "2026-04-16",
+      "thumbnail": "https://i.ytimg.com/vi/obWE87ubavk/maxresdefault.jpg",
+      "noteEs": "El third anniversary regaló un 5-star limitado para todos. Esta guía compara las opciones (incluye Huohuo, Robin) y recomienda según tu roster actual. Otra decisión one-shot que vale la pena considerar bien.",
+      "noteEn": "The third anniversary gave everyone a free limited 5-star. This guide compares the options (includes Huohuo, Robin) and recommends based on your current roster. Another one-shot decision worth considering carefully."
+    },
+    {
+      "id": "guoba-novaflare-rework-review",
+      "type": "video",
+      "title": "Were They FIXED? Novaflare Welt, Firefly, Seele, Huohuo Changes & Review!",
+      "creator": "Guoba Certified",
+      "creatorId": "guoba-certified",
+      "url": "https://www.youtube.com/watch?v=NXwOysSt-0k",
+      "youtubeId": "NXwOysSt-0k",
+      "language": "en",
+      "duration": "21:52",
+      "publishedDate": "2026-04-14",
+      "thumbnail": "https://i.ytimg.com/vi/NXwOysSt-0k/maxresdefault.jpg",
+      "noteEs": "Review del sistema Novaflare de 4.2 — el rework masivo que buffeó units antiguos (Welt, Firefly, Seele, Huohuo). Critical para quien dejó de jugar y vuelve: muchos personajes que tenías arrumbados ahora son viables otra vez.",
+      "noteEn": "Review of 4.2's Novaflare system — the massive rework that buffed older units (Welt, Firefly, Seele, Huohuo). Critical for players returning after a break: many characters you had benched are now viable again."
+    },
+    {
+      "id": "braxophone-evanescia-f2p-impressions",
+      "type": "video",
+      "title": "F2P FRIENDLY ELATION? Evanescia Early Access First Impressions - Evanescia F2P Showcase & Review",
+      "creator": "Braxophone",
+      "creatorId": "braxophone",
+      "url": "https://www.youtube.com/watch?v=AaIaDv5qrz8",
+      "youtubeId": "AaIaDv5qrz8",
+      "language": "en",
+      "duration": "24:02",
+      "publishedDate": "2026-05-05",
+      "thumbnail": "https://i.ytimg.com/vi/AaIaDv5qrz8/maxresdefault.jpg",
+      "noteEs": "Primeras impresiones de Evanescia desde acceso anticipado, con foco en setup F2P (sin eidolons ni signature LC). Útil ANTES de decidir si pullear, porque muchas reviews asumen budget premium que distorsiona la opinión.",
+      "noteEn": "Early access first impressions of Evanescia, focused on F2P setup (no eidolons or signature LC). Useful BEFORE deciding whether to pull, because many reviews assume premium budget that distorts the opinion."
+    }
+  ]
+}

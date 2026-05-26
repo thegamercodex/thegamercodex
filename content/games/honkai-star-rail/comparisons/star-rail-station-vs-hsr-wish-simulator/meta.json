@@ -1,0 +1,46 @@
+{
+  "id": "star-rail-station-vs-hsr-wish-simulator",
+  "toolIds": ["star-rail-station", "hsr-wish-simulator"],
+  "category": "gacha-tracking",
+  "depth": "short",
+  "lastVerified": "2026-05-25",
+  "verdictEs": "Star Rail Station si quieres tracking real de tu warp history, pity exacta y comparativa social con la comunidad. HSR Wish Simulator si solo quieres practicar pulls virtuales sin gastar jades, en plan sandbox. Resuelven problemas distintos, no son alternativas.",
+  "verdictEn": "Star Rail Station if you want real tracking of your warp history, exact pity, and social comparison with the community. HSR Wish Simulator if you just want to practice virtual pulls without spending jades, sandbox style. They solve different problems, they aren't alternatives.",
+  "useCases": [
+    {
+      "labelEs": "Saber cuánta pity tienes ahora mismo en el banner actual",
+      "labelEn": "Know your exact current pity on the active banner",
+      "winner": "star-rail-station",
+      "reasonEs": "SRS importa tu warp history real vía link extraction y calcula la pity acumulada en cada banner. Wish Simulator solo opera con pulls ficticios, no conoce tu cuenta.",
+      "reasonEn": "SRS imports your real warp history via link extraction and calculates accumulated pity per banner. Wish Simulator only operates on fictitious pulls, it doesn't know your account."
+    },
+    {
+      "labelEs": "Probar qué se siente pullar 30k jades antes de gastarlos en serio",
+      "labelEn": "Test what pulling 30k jades feels like before actually spending them",
+      "winner": "hsr-wish-simulator",
+      "reasonEs": "Wish Simulator simula el banner activo con las pity rates reales y deja que pruebes el escenario sin gastar nada. SRS no simula, solo trackea lo que ya pasó.",
+      "reasonEn": "Wish Simulator simulates the active banner with real pity rates and lets you test the scenario without spending anything. SRS doesn't simulate, it only tracks what already happened."
+    },
+    {
+      "labelEs": "Comparar tu suerte total con la de la comunidad",
+      "labelEn": "Compare your overall luck against the community",
+      "winner": "star-rail-station",
+      "reasonEs": "SRS publica stats agregadas sobre miles de usuarios: percentiles de luck, distribución de 50/50, promedios por banner. Wish Simulator no tiene capa social.",
+      "reasonEn": "SRS publishes aggregated stats over thousands of users: luck percentiles, 50/50 distribution, per-banner averages. Wish Simulator has no social layer."
+    },
+    {
+      "labelEs": "Aprender cómo funciona el soft pity de HSR sin riesgo",
+      "labelEn": "Learn how HSR's soft pity works risk-free",
+      "winner": "hsr-wish-simulator",
+      "reasonEs": "Wish Simulator es un sandbox ideal para entender empíricamente cuándo arranca el soft pity y cómo se siente el rate-up. SRS asume que ya sabes cómo funciona.",
+      "reasonEn": "Wish Simulator is an ideal sandbox to empirically understand when soft pity kicks in and how the rate-up feels. SRS assumes you already know how it works."
+    },
+    {
+      "labelEs": "Llevar registro histórico de tus 5★ y cuántos warps te costó cada uno",
+      "labelEn": "Keep a historical log of your 5★s and how many warps each one cost",
+      "winner": "star-rail-station",
+      "reasonEs": "SRS guarda tu historial completo y te muestra cuántos warps tomó cada 5★, si ganaste o perdiste el 50/50 y el rate efectivo. Wish Simulator no persiste data real.",
+      "reasonEn": "SRS keeps your full history and shows how many warps each 5★ took, whether you won or lost the 50/50, and your effective rate. Wish Simulator doesn't persist real data."
+    }
+  ]
+}

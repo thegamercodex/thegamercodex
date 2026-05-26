@@ -1,0 +1,36 @@
+{
+  "id": "hsr-wish-simulator",
+  "name": "HSR Wish Simulator",
+  "shortName": "Wish Simulator",
+  "taglineEs": "Simulador de warps sin riesgo: prueba tu suerte virtual antes de gastar jades",
+  "taglineEn": "Risk-free warp simulator: test your virtual luck before spending jades",
+  "url": "https://hsr.wishsimulator.app/",
+  "category": "gacha-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "wish-simulator",
+    "gacha-sim",
+    "fun",
+    "no-real-money",
+    "practice"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/hsr-wish-simulator-logo.png",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/hsr-wish-simulator-ss-1.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["star-rail-station"],
+  "alternatives": ["star-rail-station"],
+  "createdBy": {
+    "name": "WishSimulator.app",
+    "url": "https://wishsimulator.app/"
+  }
+}

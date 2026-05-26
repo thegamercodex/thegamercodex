@@ -297,12 +297,19 @@ async function fetchGenericRss(
   }
 }
 
+// Keyed by the API app hash (the `/app/<hash>/` segment of the endpoint URL).
+// Each HoYoverse game uses a distinct hash; iAppId/iChanId vary too but are
+// not always present (HSR's URL has no iAppId), so the hash is the reliable
+// discriminator. To add a game: open Network tab on its official news page,
+// copy the hash from the getContentList request URL, and map it to that
+// game's article-detail base URL.
 const HOYO_GAME_SITES: Record<string, string> = {
-  "32": "https://genshin.hoyoverse.com/en/news/detail",
+  a1b1f9d3315447cc: "https://genshin.hoyoverse.com/en/news/detail",
+  "113fe6d3b4514cdd": "https://hsr.hoyoverse.com/en-us/news",
 };
 
-function hoyoArticleUrl(iAppId: string, iInfoId: number | string): string {
-  const base = HOYO_GAME_SITES[iAppId] ?? `https://www.hoyolab.com/article`;
+function hoyoArticleUrl(appHash: string, iInfoId: number | string): string {
+  const base = HOYO_GAME_SITES[appHash] ?? `https://www.hoyolab.com/article`;
   return `${base}/${iInfoId}`;
 }
 
@@ -328,8 +335,10 @@ function hoyoBannerFromExt(sExt: string): string | undefined {
   try {
     const ext = JSON.parse(sExt) as {
       banner?: Array<{ url?: string }>;
+      "news-poster"?: Array<{ url?: string }>;
     };
-    return ext.banner?.[0]?.url;
+    // Genshin uses `banner`; HSR uses `news-poster`. Same shape, different key.
+    return ext.banner?.[0]?.url ?? ext["news-poster"]?.[0]?.url;
   } catch {
     return undefined;
   }
@@ -351,7 +360,7 @@ async function fetchHoyoverseNews(
     const url = new URL(feed.url);
     url.searchParams.set("iPage", "1");
     url.searchParams.set("iPageSize", String(Math.max(limit, 10)));
-    const iAppId = url.searchParams.get("iAppId") ?? "";
+    const appHash = url.pathname.match(/\/app\/([a-f0-9]+)\//)?.[1] ?? "";
 
     const res = await fetch(url.toString(), {
       next: { revalidate: 21600 },
@@ -364,7 +373,7 @@ async function fetchHoyoverseNews(
     return items.slice(0, limit).map((item): NewsItem => {
       const iInfoId = item.iInfoId ?? 0;
       const externalUrl = item.sUrl?.trim();
-      const articleUrl = externalUrl || hoyoArticleUrl(iAppId, iInfoId);
+      const articleUrl = externalUrl || hoyoArticleUrl(appHash, iInfoId);
       const summary = (item.sIntro || stripHtml(item.sContent ?? "")).slice(
         0,
         240,
@@ -374,7 +383,7 @@ async function fetchHoyoverseNews(
         firstImage(item.sContent ?? "");
 
       return {
-        id: `hoyoverse-${iAppId}-${iInfoId}`,
+        id: `hoyoverse-${appHash}-${iInfoId}`,
         title: item.sTitle ?? "",
         url: articleUrl,
         publishedAt: hoyoToIso(item.dtStartTime ?? item.dtCreateTime ?? ""),

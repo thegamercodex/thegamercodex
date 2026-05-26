@@ -1,0 +1,35 @@
+{
+  "id": "md-c-calculator",
+  "name": "MD✦C Calculator",
+  "shortName": "MD✦C",
+  "taglineEs": "Damage calculator dedicado y minimalista para validar deltas rápidos",
+  "taglineEn": "Dedicated and minimalist damage calculator for quick delta validation",
+  "url": "https://hsr-mdc.vercel.app/",
+  "category": "damage-calculation",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "damage-calculator",
+    "minimal",
+    "quick-validation",
+    "stat-deltas"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/md-c-calculator-logo.svg",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/md-c-calculator-ss-1.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["fribbels-hsr-optimizer", "kqm-hsr"],
+  "alternatives": ["fribbels-hsr-optimizer"],
+  "createdBy": {
+    "name": "MD✦C contributors",
+    "url": "https://hsr-mdc.vercel.app/"
+  }
+}

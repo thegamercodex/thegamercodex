@@ -1,0 +1,36 @@
+{
+  "id": "starguide",
+  "name": "StarGuide",
+  "shortName": "StarGuide",
+  "taglineEs": "Team builder personalizado: recomendaciones según tu roster real",
+  "taglineEn": "Personalized team builder: recommendations based on your real roster",
+  "url": "https://starguide.gg/",
+  "category": "team-building",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "team-builder",
+    "personalized",
+    "roster-planning",
+    "pull-priorities",
+    "endgame"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/starguide-logo.png",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/starguide-ss-1.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["prydwen-hsr", "kqm-hsr"],
+  "alternatives": ["prydwen-hsr"],
+  "createdBy": {
+    "name": "StarGuide Team",
+    "url": "https://starguide.gg/"
+  }
+}

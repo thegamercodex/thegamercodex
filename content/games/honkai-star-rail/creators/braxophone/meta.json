@@ -1,0 +1,41 @@
+{
+  "id": "braxophone",
+  "name": "Braxophone",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Braxophone",
+      "url": "https://www.youtube.com/@Braxophone",
+      "channelId": "UC_ZWU-6HG5pv5qvfaGTzdQA",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "lore-analysis",
+    "character-analysis",
+    "story-deep-dive",
+    "speculation"
+  ],
+  "games": ["honkai-star-rail"],
+  "contentTypes": ["videos", "essays"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Creator de análisis profundo de personajes y lore de HSR. Su content no es de builds — son video-essays sobre identidad de personaje, narrativa, decisiones de diseño, y especulación sobre arcs futuros. Para players que ya pasaron la fase de optimización y quieren entender por qué Phainon importa narrativamente, o qué está construyendo HoYoverse con Aglaea. Braxophone también cubre Arknights Endfield ocasionalmente.",
+  "noteEn": "Creator of deep character and lore analysis for HSR. His content isn't builds — they're video essays on character identity, narrative, design decisions, and speculation about future arcs. For players past the optimization phase who want to understand why Phainon matters narratively, or what HoYoverse is building with Aglaea. Braxophone occasionally covers Arknights Endfield too.",
+  "highlightsEs": [
+    "Video-essays de lore y análisis de personaje",
+    "Deep dives narrativos sobre HSR",
+    "Especulación informada sobre arcs futuros",
+    "Audiencia que valora narrativa por encima de optimization"
+  ],
+  "highlightsEn": [
+    "Lore and character analysis video essays",
+    "Narrative deep dives on HSR",
+    "Informed speculation on future arcs",
+    "Audience that values narrative over optimization"
+  ],
+  "avatar": "/images/creators/braxophone-avatar.jpg",
+  "banner": "/images/creators/braxophone-banner.jpg"
+}

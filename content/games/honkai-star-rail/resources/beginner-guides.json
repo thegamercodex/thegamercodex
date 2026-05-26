@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "moon-start-returning-hsr-2026",
+      "type": "video",
+      "title": "Starting or Returning to Honkai Star Rail in 2026? Here's What to Do First",
+      "creator": "Moon",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=RPdufDCjK3E",
+      "youtubeId": "RPdufDCjK3E",
+      "language": "en",
+      "duration": "8:36",
+      "publishedDate": "2026-02-27",
+      "thumbnail": "https://i.ytimg.com/vi/RPdufDCjK3E/maxresdefault.jpg",
+      "noteEs": "Guía concisa de 8 minutos para nuevos y returning players en 2026 (4.0+). Cubre prioridades de cuenta, daily routine y qué eventos rendir primero. Buen primer click si abres el juego después de meses sin tocarlo.",
+      "noteEn": "Concise 8-minute guide for new and returning players in 2026 (4.0+). Covers account priorities, daily routine, and which events to clear first. A good first click if you open the game after months away."
+    },
+    {
+      "id": "braxophone-start-hsr-2026-deep",
+      "type": "video",
+      "title": "What it's like to Start Honkai: Star Rail in 2026",
+      "creator": "Braxophone",
+      "creatorId": "braxophone",
+      "url": "https://www.youtube.com/watch?v=_PvcfDVQYXg",
+      "youtubeId": "_PvcfDVQYXg",
+      "language": "en",
+      "duration": "1:24:27",
+      "publishedDate": "2026-04-01",
+      "thumbnail": "https://i.ytimg.com/vi/_PvcfDVQYXg/maxresdefault.jpg",
+      "noteEs": "Documental de 1h24 sobre la experiencia de empezar HSR en 2026 con todo el contenido acumulado. Útil si te abruma la cantidad de story, eventos y warps disponibles después de 3 años. Braxophone analiza qué se siente accesible vs apabullante.",
+      "noteEn": "1h24 documentary on the experience of starting HSR in 2026 with all accumulated content. Useful if you're overwhelmed by the amount of story, events, and warps available after 3 years. Braxophone analyzes what feels accessible vs overwhelming."
+    },
+    {
+      "id": "rhinne-returning-player-1-week",
+      "type": "video",
+      "title": "Can A Returning Player Beat HSR in 1 Week?",
+      "creator": "Rhinne",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=7HnIr_MQiyw",
+      "youtubeId": "7HnIr_MQiyw",
+      "language": "en",
+      "duration": "30:03",
+      "publishedDate": "2026-04-27",
+      "thumbnail": "https://i.ytimg.com/vi/7HnIr_MQiyw/maxresdefault.jpg",
+      "noteEs": "Experimento de un returning player tratando de completar endgame (MoC, AS, PF) en 7 días. Útil para entender cuánto trabajo requiere ponerte al día sin invertir meses. Realista, no aspiracional.",
+      "noteEn": "Experiment of a returning player trying to complete endgame (MoC, AS, PF) in 7 days. Useful for understanding how much work it takes to catch up without investing months. Realistic, not aspirational."
+    },
+    {
+      "id": "kuroi-returning-hsr-2026-shock",
+      "type": "video",
+      "title": "Returning to Honkai Star Rail in 2026 | I Was NOT Ready for This",
+      "creator": "Kuroi",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=5RUrlImioSQ",
+      "youtubeId": "5RUrlImioSQ",
+      "language": "en",
+      "duration": "23:52",
+      "publishedDate": "2026-03-16",
+      "thumbnail": "https://i.ytimg.com/vi/5RUrlImioSQ/maxresdefault.jpg",
+      "noteEn": "First-person account of returning to HSR after a long break. Highlights the power-creep shock, story complexity, and which systems changed. Good companion piece to the Rhinne experiment — same angle, different style.",
+      "noteEs": "Relato en primera persona de volver a HSR después de un break largo. Destaca el shock de power-creep, complejidad de story, y qué sistemas cambiaron. Buen complemento al experimento de Rhinne — mismo ángulo, distinto estilo."
+    },
+    {
+      "id": "braxophone-mistakes-beginners-hsr",
+      "type": "video",
+      "title": "DON'T MAKE THESE MISTAKES! Best Beginners Guide to Honkai: Star Rail",
+      "creator": "Braxophone",
+      "creatorId": "braxophone",
+      "url": "https://www.youtube.com/watch?v=AtEOntkvFqU",
+      "youtubeId": "AtEOntkvFqU",
+      "language": "en",
+      "duration": "34:15",
+      "publishedDate": "2025-02-06",
+      "thumbnail": "https://i.ytimg.com/vi/AtEOntkvFqU/maxresdefault.jpg",
+      "noteEs": "Guía de 34 minutos enfocada en los errores comunes que los principiantes cometen — desde leveling de personajes equivocados hasta gastar trailblaze power mal. La mayoría de tips siguen vigentes en 2026, solo cambian los meta units.",
+      "noteEn": "34-minute guide focused on the common mistakes beginners make — from leveling the wrong characters to misspending trailblaze power. Most tips still apply in 2026, only the meta units change."
+    }
+  ]
+}

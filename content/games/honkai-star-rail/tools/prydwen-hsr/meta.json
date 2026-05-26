@@ -1,0 +1,43 @@
+{
+  "id": "prydwen-hsr",
+  "name": "Prydwen Institute",
+  "shortName": "Prydwen",
+  "taglineEs": "Tier list, builds y team comps con editorial denso del Prydwen Institute",
+  "taglineEn": "Tier list, builds, and team comps with dense editorial from Prydwen Institute",
+  "url": "https://www.prydwen.gg/star-rail/",
+  "category": "character-builds",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "tier-list",
+    "character-builds",
+    "team-builder",
+    "guides",
+    "editorial",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/prydwen-hsr-logo.png",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/prydwen-hsr-ss-1.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["kqm-hsr", "game8-hsr", "fribbels-hsr-optimizer"],
+  "alternatives": ["game8-hsr", "icy-veins-hsr"],
+  "createdBy": {
+    "name": "Prydwen Institute Team",
+    "url": "https://www.prydwen.gg/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "genshin-impact", "url": "https://www.prydwen.gg/genshin/" }
+    ]
+  }
+}

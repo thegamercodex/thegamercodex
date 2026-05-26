@@ -1,0 +1,36 @@
+{
+  "id": "star-rail-station",
+  "name": "Star Rail Station",
+  "shortName": "SRS",
+  "taglineEs": "Warp tracker con stats sociales, leaderboards y wiki integrada",
+  "taglineEn": "Warp tracker with social stats, leaderboards, and integrated wiki",
+  "url": "https://starrailstation.com/en",
+  "category": "gacha-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "warp-tracker",
+    "pity-counter",
+    "stats",
+    "leaderboards",
+    "wiki"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/star-rail-station-logo.png",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/star-rail-station-ss-1.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["hsr-wish-simulator", "fribbels-hsr-optimizer"],
+  "alternatives": ["hsr-wish-simulator"],
+  "createdBy": {
+    "name": "Star Rail Station Team",
+    "url": "https://starrailstation.com/en"
+  }
+}

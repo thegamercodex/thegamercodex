@@ -1,0 +1,42 @@
+{
+  "id": "honey-hunter-world-hsr",
+  "name": "Honey Hunter World — Star Rail",
+  "shortName": "Honey Hunter",
+  "taglineEs": "Database completa: personajes, light cones, relics, enemigos y data extraída",
+  "taglineEn": "Complete database: characters, light cones, relics, enemies, and extracted data",
+  "url": "https://starrail.honeyhunterworld.com/",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "database",
+    "wiki",
+    "data-extracted",
+    "stats",
+    "comprehensive"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/honey-hunter-world-hsr-logo.webp",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/honey-hunter-world-hsr-ss-1.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["starrail-fandom-wiki"],
+  "alternatives": ["starrail-fandom-wiki"],
+  "createdBy": {
+    "name": "Honey Impact Team",
+    "url": "https://honeyhunterworld.com/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "genshin-impact", "url": "https://genshin.honeyhunterworld.com/" }
+    ]
+  }
+}

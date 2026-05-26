@@ -1,0 +1,46 @@
+{
+  "id": "honey-hunter-world-hsr-vs-starrail-fandom-wiki",
+  "toolIds": ["honey-hunter-world-hsr", "starrail-fandom-wiki"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-05-25",
+  "verdictEs": "Honey Hunter World si necesitas datos crudos extraídos del juego — stats por nivel, multiplicadores de skill, scaling, set bonuses exactos, pre-release leaks. Fandom Wiki si quieres profundidad narrativa — walkthroughs de la historia, lore extendido, archivos de NPC, achievements con contexto.",
+  "verdictEn": "Honey Hunter World if you need raw data extracted from the game — per-level stats, skill multipliers, scaling, exact set bonuses, pre-release leaks. Fandom Wiki if you want narrative depth — story walkthroughs, extended lore, NPC archives, achievements with context.",
+  "useCases": [
+    {
+      "labelEs": "Verificar el multiplicador exacto de un skill o el scaling de una stat",
+      "labelEn": "Check the exact skill multiplier or stat scaling for a character",
+      "winner": "honey-hunter-world-hsr",
+      "reasonEs": "Honey saca números directo de los game files: porcentajes por nivel, exact damage formulas, base stats. Fandom suele citar approx o quedarse atrás.",
+      "reasonEn": "Honey pulls numbers straight from game files: per-level percentages, exact damage formulas, base stats. Fandom usually cites approximations or lags behind."
+    },
+    {
+      "labelEs": "Leer el lore completo de un personaje, incluyendo voice lines y backstory",
+      "labelEn": "Read a character's full lore, including voice lines and backstory",
+      "winner": "starrail-fandom-wiki",
+      "reasonEs": "Fandom expande personajes con secciones de lore, relaciones, voice line transcripts y referencias cruzadas. Honey solo lista la in-game bio cortita.",
+      "reasonEn": "Fandom expands characters with lore sections, relationships, voice line transcripts, and cross-references. Honey only lists the short in-game bio."
+    },
+    {
+      "labelEs": "Ver datos de un personaje filtrado antes del release oficial",
+      "labelEn": "See data for a leaked character ahead of official release",
+      "winner": "honey-hunter-world-hsr",
+      "reasonEs": "Honey publica beta data casi inmediatamente cuando aparece en los game files. Fandom espera al release oficial por política wiki.",
+      "reasonEn": "Honey publishes beta data almost immediately when it appears in game files. Fandom waits for official release per wiki policy."
+    },
+    {
+      "labelEs": "Seguir una misión de la historia con todos los diálogos y branches",
+      "labelEn": "Follow a story mission with all dialogues and branches",
+      "winner": "starrail-fandom-wiki",
+      "reasonEs": "Fandom transcribe story quests completas con choice branches, NPC dialogue y context lore. Honey no cubre quest content.",
+      "reasonEn": "Fandom transcribes full story quests with choice branches, NPC dialogue, and context lore. Honey doesn't cover quest content."
+    },
+    {
+      "labelEs": "Comparar drops, materials y light cone passives de un parche al siguiente",
+      "labelEn": "Compare drops, materials, and light cone passives from one patch to the next",
+      "winner": "honey-hunter-world-hsr",
+      "reasonEs": "Honey actualiza casi en tiempo real cuando bajan los game files y permite ver toda la spreadsheet de items. Fandom depende de editores manuales y se atrasa.",
+      "reasonEn": "Honey updates in near real-time when game files drop and lets you see the full item spreadsheet. Fandom relies on manual editors and lags behind."
+    }
+  ]
+}

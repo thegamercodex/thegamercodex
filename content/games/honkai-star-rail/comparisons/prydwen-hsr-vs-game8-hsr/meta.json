@@ -1,0 +1,46 @@
+{
+  "id": "prydwen-hsr-vs-game8-hsr",
+  "toolIds": ["prydwen-hsr", "game8-hsr"],
+  "category": "character-builds",
+  "depth": "short",
+  "lastVerified": "2026-05-25",
+  "verdictEs": "Prydwen Institute si quieres entender por qué un build es bueno — análisis editorial denso con caveats, comp context y theorycraft justificado. Game8 HSR si quieres respuestas rápidas tipo checklist (best relics, light cones, teams) sin teoría, o si necesitas guías de eventos y misiones de la historia.",
+  "verdictEn": "Prydwen Institute if you want to understand why a build is good — dense editorial analysis with caveats, comp context, and justified theorycraft. Game8 HSR if you want fast checklist-style answers (best relics, light cones, teams) without theory, or if you need event and story mission walkthroughs.",
+  "useCases": [
+    {
+      "labelEs": "Entender por qué un personaje brilla en cierto comp y falla en otro",
+      "labelEn": "Understand why a character shines in one comp and fails in another",
+      "winner": "prydwen-hsr",
+      "reasonEs": "Prydwen explica el por qué: contexto de team comp, sinergias, caveats explícitos. Game8 lista comps pero rara vez justifica.",
+      "reasonEn": "Prydwen explains the why: team comp context, synergies, explicit caveats. Game8 lists comps but rarely justifies them."
+    },
+    {
+      "labelEs": "Sacar rápido el mejor light cone y relic set sin leer cinco párrafos",
+      "labelEn": "Quickly grab the best light cone and relic set without reading five paragraphs",
+      "winner": "game8-hsr",
+      "reasonEs": "Game8 va al grano con listas claras y prioridades. Prydwen exige leer contexto antes de aplicar.",
+      "reasonEn": "Game8 gets straight to it with clean lists and priorities. Prydwen demands reading context before applying."
+    },
+    {
+      "labelEs": "Resolver un puzzle de la historia o una misión secundaria atascada",
+      "labelEn": "Solve a story puzzle or a stuck side quest",
+      "winner": "game8-hsr",
+      "reasonEs": "Game8 cubre walkthroughs de misiones, achievements y eventos con detalle. Prydwen es solo combat focused.",
+      "reasonEn": "Game8 covers mission walkthroughs, achievements, and events in detail. Prydwen is combat-focused only."
+    },
+    {
+      "labelEs": "Decidir si un nuevo personaje del banner vale los jades antes de pull",
+      "labelEn": "Decide if a new banner character is worth the jades before pulling",
+      "winner": "prydwen-hsr",
+      "reasonEs": "Prydwen escribe pre-release analysis con tier placement justificado, comparación con alternativas y theorycraft de eidolons. Game8 publica tier list pero sin la profundidad editorial.",
+      "reasonEn": "Prydwen writes pre-release analysis with justified tier placement, comparison vs alternatives, and eidolon theorycraft. Game8 ships a tier list but without the editorial depth."
+    },
+    {
+      "labelEs": "Preparar runs de Memory of Chaos o Pure Fiction para el ciclo actual",
+      "labelEn": "Prep runs for the current Memory of Chaos or Pure Fiction cycle",
+      "winner": "prydwen-hsr",
+      "reasonEs": "Prydwen analiza cada ciclo de endgame con teams sugeridos y matchups específicos. Game8 lista clears genéricos sin contexto del ciclo activo.",
+      "reasonEn": "Prydwen breaks down each endgame cycle with suggested teams and specific matchups. Game8 lists generic clears without context for the active cycle."
+    }
+  ]
+}

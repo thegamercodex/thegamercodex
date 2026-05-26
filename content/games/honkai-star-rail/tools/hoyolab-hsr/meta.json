@@ -1,0 +1,43 @@
+{
+  "id": "hoyolab-hsr",
+  "name": "HoYoLAB",
+  "shortName": "HoYoLAB",
+  "taglineEs": "Companion oficial: daily check-in, battle chronicle y códigos de redención",
+  "taglineEn": "Official companion: daily check-in, battle chronicle, and redemption codes",
+  "url": "https://www.hoyolab.com/",
+  "category": "account-tools",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "ios", "android"],
+  "languages": ["en", "es"],
+  "tags": [
+    "official",
+    "daily-check-in",
+    "battle-chronicle",
+    "interactive-map",
+    "community",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/hoyolab-hsr-logo.png",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/hoyolab-hsr-ss-1.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["star-rail-map-appsample", "enka-network-hsr"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "HoYoverse",
+    "url": "https://www.hoyoverse.com/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "genshin-impact", "url": "https://www.hoyolab.com/circles/" }
+    ]
+  }
+}

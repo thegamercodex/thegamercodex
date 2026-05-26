@@ -1,0 +1,40 @@
+{
+  "id": "fribbels-hsr-optimizer",
+  "name": "Fribbels HSR Optimizer",
+  "shortName": "Fribbels",
+  "taglineEs": "Optimizador de relics, scorer y damage calculator todo-en-uno",
+  "taglineEn": "All-in-one relic optimizer, scorer, and damage calculator",
+  "url": "https://fribbels.github.io/hsr-optimizer/",
+  "category": "relic-optimization",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/fribbels/hsr-optimizer",
+  "license": "MIT",
+  "platforms": ["web", "windows", "macos", "linux"],
+  "languages": ["en"],
+  "tags": [
+    "relics",
+    "optimizer",
+    "damage-calculator",
+    "scorer",
+    "warp-planner",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/fribbels-hsr-optimizer-logo.png",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/fribbels-hsr-optimizer-ss-1.png" },
+    { "url": "/images/tools/honkai-star-rail/fribbels-hsr-optimizer-ss-2.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["md-c-calculator", "kqm-hsr", "prydwen-hsr"],
+  "alternatives": ["md-c-calculator"],
+  "createdBy": {
+    "name": "fribbels & contributors",
+    "url": "https://github.com/fribbels/hsr-optimizer"
+  }
+}

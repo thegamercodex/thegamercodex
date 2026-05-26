@@ -1,0 +1,80 @@
+{
+  "category": "character-guides",
+  "resources": [
+    {
+      "id": "guoba-evanescia-guide",
+      "type": "video",
+      "title": "The Strongest? BEST Evanescia Guide - Best Build, Relics, Teams",
+      "creator": "Guoba Certified",
+      "creatorId": "guoba-certified",
+      "url": "https://www.youtube.com/watch?v=FkoP3uve3Vg",
+      "youtubeId": "FkoP3uve3Vg",
+      "language": "en",
+      "duration": "20:15",
+      "publishedDate": "2026-05-05",
+      "thumbnail": "https://i.ytimg.com/vi/FkoP3uve3Vg/maxresdefault.jpg",
+      "noteEs": "Build completa de Evanescia (Physical Elation 5-star de la 4.2): relics ideales, light cones, team comps recomendadas y comparación entre opciones de soporte. Para quien sacó a Evanescia y quiere maximizar su daño desde el día uno.",
+      "noteEn": "Complete Evanescia build (Physical Elation 5-star from 4.2): ideal relics, light cones, recommended team comps, and comparison between support options. For anyone who pulled Evanescia and wants to maximize her damage from day one."
+    },
+    {
+      "id": "guoba-silver-wolf-999-guide",
+      "type": "video",
+      "title": "The BEST Guide to Silver Wolf LVL 999! | Best Builds, Relics, Teams",
+      "creator": "Guoba Certified",
+      "creatorId": "guoba-certified",
+      "url": "https://www.youtube.com/watch?v=MmPGrOv2cyM",
+      "youtubeId": "MmPGrOv2cyM",
+      "language": "en",
+      "duration": "22:09",
+      "publishedDate": "2026-04-14",
+      "thumbnail": "https://i.ytimg.com/vi/MmPGrOv2cyM/maxresdefault.jpg",
+      "noteEs": "Build de Silver Wolf LV.999 (Imaginary Elation 5-star de la 4.2). Cubre setup F2P y whale, eidolon impact, y por qué SW reemplaza a la Silver Wolf original en muchas comps. Análisis cuantitativo de DPS por inversión.",
+      "noteEn": "Silver Wolf LV.999 build (Imaginary Elation 5-star from 4.2). Covers F2P and whale setups, eidolon impact, and why SW replaces the original Silver Wolf in many comps. Quantitative DPS-per-investment analysis."
+    },
+    {
+      "id": "guoba-welt-novaflare-updated",
+      "type": "video",
+      "title": "TOP TIER! An UPDATED Guide to NEW Welt! Best Builds, Relics, Teams",
+      "creator": "Guoba Certified",
+      "creatorId": "guoba-certified",
+      "url": "https://www.youtube.com/watch?v=jCXrDyb1AHc",
+      "youtubeId": "jCXrDyb1AHc",
+      "language": "en",
+      "duration": "15:51",
+      "publishedDate": "2026-04-16",
+      "thumbnail": "https://i.ytimg.com/vi/jCXrDyb1AHc/maxresdefault.jpg",
+      "noteEs": "Re-build de Welt post-Novaflare (rework de 4.2 que buffeó units viejos). Útil si tenías a Welt arrumbado: ahora vuelve a ser viable y este video explica qué cambió y cómo aprovecharlo. Aplica también a otros units re-buffeados.",
+      "noteEn": "Welt re-build post-Novaflare (4.2 rework that buffed older units). Useful if you had Welt benched: he's viable again and this video explains what changed and how to leverage it. Same logic applies to other re-buffed units."
+    },
+    {
+      "id": "guoba-elation-trailblazer-guide",
+      "type": "video",
+      "title": "Niche BUT Strong! Elation Trailblazer Guide | Best Relics, Builds, Teams",
+      "creator": "Guoba Certified",
+      "creatorId": "guoba-certified",
+      "url": "https://www.youtube.com/watch?v=Ic9T1nWb3VM",
+      "youtubeId": "Ic9T1nWb3VM",
+      "language": "en",
+      "duration": "12:47",
+      "publishedDate": "2026-04-14",
+      "thumbnail": "https://i.ytimg.com/vi/Ic9T1nWb3VM/maxresdefault.jpg",
+      "noteEs": "Guía del Elation Trailblazer (nuevo path del MC en 4.2). Build, team comps, y casos de uso donde su kit niche brilla. Útil porque todos tenemos al MC y es free — saber cuándo desempolvarlo es valor real.",
+      "noteEn": "Elation Trailblazer guide (new MC path in 4.2). Build, team comps, and use cases where the niche kit shines. Useful because everyone has the MC for free — knowing when to dust them off is real value."
+    },
+    {
+      "id": "braxophone-evanescia-guide",
+      "type": "video",
+      "title": "BROKEN DPS! BEST E0 EVANESCIA Guide & Build [Best Relics, Light Cones & Teams] - Star Rail",
+      "creator": "Braxophone",
+      "creatorId": "braxophone",
+      "url": "https://www.youtube.com/watch?v=1ciAwTWwDUo",
+      "youtubeId": "1ciAwTWwDUo",
+      "language": "en",
+      "duration": "17:13",
+      "publishedDate": "2026-05-12",
+      "thumbnail": "https://i.ytimg.com/vi/1ciAwTWwDUo/maxresdefault.jpg",
+      "noteEs": "Segunda opinión sobre la build de Evanescia, con foco en setup E0 (sin eidolons). Compara contra el video de Guoba: si ambos llegan a las mismas conclusiones, tienes consenso; si discrepan, vale la pena entender por qué.",
+      "noteEn": "Second opinion on the Evanescia build, focused on E0 setup (no eidolons). Compare with Guoba's video: if both reach the same conclusions, you have consensus; if they disagree, it's worth understanding why."
+    }
+  ]
+}

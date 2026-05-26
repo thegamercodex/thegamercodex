@@ -1,0 +1,43 @@
+{
+  "id": "enka-network-hsr",
+  "name": "Enka.Network HSR",
+  "shortName": "Enka",
+  "taglineEs": "Showcase de personajes con builds compartibles vía UID",
+  "taglineEn": "Character showcase with shareable builds via UID",
+  "url": "https://enka.network/hsr",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/EnkaNetwork",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "showcase",
+    "build-sharing",
+    "uid",
+    "profile",
+    "api"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/enka-network-hsr-logo.png",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/enka-network-hsr-ss-1.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["fribbels-hsr-optimizer", "star-rail-station"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Enka.Network",
+    "url": "https://enka.network/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "genshin-impact", "url": "https://enka.network/" }
+    ]
+  }
+}
