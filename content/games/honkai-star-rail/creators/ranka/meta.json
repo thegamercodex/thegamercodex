@@ -1,0 +1,41 @@
+{
+  "id": "ranka",
+  "name": "Ranka",
+  "country": "Latam",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@ElRanka",
+      "url": "https://www.youtube.com/@ElRanka",
+      "channelId": "UCW94owVXmcUTszh7t5AAG9A",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "character-builds",
+    "gameplay-analysis",
+    "showcase",
+    "multi-gacha"
+  ],
+  "games": ["honkai-star-rail"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Creator hispano que cubre el ecosistema HoYoverse + Wuthering Waves + Zenless Zone Zero, con HSR como parte regular de su rotación. Estilo conversacional, gameplay con comentario en vivo y opiniones honestas sobre patches y personajes. Para players hispanohablantes que buscan análisis en español con personalidad — no es un canal de tutoriales secos sino de gameplay + análisis con vibe.",
+  "noteEn": "Spanish-speaking creator covering the HoYoverse ecosystem + Wuthering Waves + Zenless Zone Zero, with HSR as a regular part of his rotation. Conversational style, live-commentary gameplay, and honest opinions on patches and characters. For Spanish-speaking players seeking analysis in Spanish with personality — not a dry tutorial channel, more gameplay + analysis with vibe.",
+  "highlightsEs": [
+    "Cobertura HSR en español con personalidad",
+    "Multi-gacha: HSR + WuWa + ZZZ",
+    "Análisis honesto de patches y personajes",
+    "Gameplay en vivo con comentario"
+  ],
+  "highlightsEn": [
+    "HSR coverage in Spanish with personality",
+    "Multi-gacha: HSR + WuWa + ZZZ",
+    "Honest patch and character analysis",
+    "Live-commentary gameplay"
+  ],
+  "avatar": "/images/creators/ranka-avatar.jpg",
+  "banner": "/images/creators/ranka-banner.jpg"
+}

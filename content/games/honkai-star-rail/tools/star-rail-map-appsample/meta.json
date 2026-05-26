@@ -1,0 +1,43 @@
+{
+  "id": "star-rail-map-appsample",
+  "name": "Honkai: Star Rail Interactive Map",
+  "shortName": "AppSample Map",
+  "taglineEs": "Mapa interactivo con chests, treasures, quests y materiales — tracking persistente",
+  "taglineEn": "Interactive map with chests, treasures, quests, and materials — persistent tracking",
+  "url": "https://star-rail-map.appsample.com/",
+  "category": "exploration-maps",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "interactive-map",
+    "chests",
+    "treasures",
+    "quests",
+    "tracking",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/star-rail-map-appsample-logo.jpg",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/star-rail-map-appsample-ss-1.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["hoyolab-hsr"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "AppSample Team",
+    "url": "https://www.appsample.com/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "genshin-impact", "url": "https://genshin-impact-map.appsample.com/" }
+    ]
+  }
+}

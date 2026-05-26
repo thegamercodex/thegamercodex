@@ -1,0 +1,80 @@
+{
+  "category": "endgame-strategies",
+  "resources": [
+    {
+      "id": "rieniku-as-saber-welt-clear",
+      "type": "video",
+      "title": "Apocalyptic Shadow 4 FULL CLEAR | E1S0 Welt & E0S0 Saber Team Showcase | Honkai: Star Rail AS 4",
+      "creator": "Rieniku Ch",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=hTwqDkjwTao",
+      "youtubeId": "hTwqDkjwTao",
+      "language": "en",
+      "duration": "15:07",
+      "publishedDate": "2026-02-14",
+      "thumbnail": "https://i.ytimg.com/vi/hTwqDkjwTao/maxresdefault.jpg",
+      "noteEs": "Full clear de Apocalyptic Shadow 4 con teams modestos (E1S0 Welt y E0S0 Saber). Útil para validar que se puede clear con units que no son meta absoluto. Showcase con teams completas visibles en pantalla.",
+      "noteEn": "Full clear of Apocalyptic Shadow 4 with modest teams (E1S0 Welt and E0S0 Saber). Useful for validating that you can clear with units that aren't absolute meta. Showcase with full team setups visible on screen."
+    },
+    {
+      "id": "ken-rurouni-as-7854-score",
+      "type": "video",
+      "title": "NEW 4.2 Apocalyptic Shadow 7854 TOTAL SCORE! E0S1 SW999 x E2S1 Castorice Showcase",
+      "creator": "Ken Rurouni",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=1ORzSw-vdkY",
+      "youtubeId": "1ORzSw-vdkY",
+      "language": "en",
+      "duration": "10:59",
+      "publishedDate": "2026-04-27",
+      "thumbnail": "https://i.ytimg.com/vi/1ORzSw-vdkY/maxresdefault.jpg",
+      "noteEs": "Run high-score (7854) de AS 4.2 combinando Silver Wolf LV.999 + Castorice. Si tienes ambas (o estás considerando pullear a una), este es el techo realista de lo que pueden hacer juntas. Investment-heavy, no F2P-friendly.",
+      "noteEn": "High-score run (7854) of AS 4.2 combining Silver Wolf LV.999 + Castorice. If you have both (or are considering pulling one), this is the realistic ceiling of what they can do together. Investment-heavy, not F2P-friendly."
+    },
+    {
+      "id": "acheron-rail-as-sw999-evanescia",
+      "type": "video",
+      "title": "Apocalyptic Shadow 4.2 V5 | E0S1 Silver Wolf Lv.999 | E0S1 Evanescia | Honkai: Star Rail Showcase",
+      "creator": "Acheron Rail",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=hgkam5ZUEig",
+      "youtubeId": "hgkam5ZUEig",
+      "language": "en",
+      "duration": "11:49",
+      "publishedDate": "2026-04-12",
+      "thumbnail": "https://i.ytimg.com/vi/hgkam5ZUEig/maxresdefault.jpg",
+      "noteEs": "Showcase de AS 4.2 V5 con las dos novedades de 4.2 (Silver Wolf 999 + Evanescia) ambas E0S1. Buen baseline visual para entender qué hacen los nuevos units en endgame antes de invertir trace materials.",
+      "noteEn": "AS 4.2 V5 showcase with the two 4.2 newcomers (Silver Wolf 999 + Evanescia) both at E0S1. Good visual baseline for understanding what the new units do in endgame before investing trace materials."
+    },
+    {
+      "id": "jeloang-as-sustainless-castorice",
+      "type": "video",
+      "title": "NEW Apocalyptic Shadow 4 | E0S1 SW Lv. 999 Sustainless & E0S1 Cassie True DMG | Honkai Star Rail 4.2",
+      "creator": "JeloAng",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=48a9ll8Ih_s",
+      "youtubeId": "48a9ll8Ih_s",
+      "language": "en",
+      "duration": "13:20",
+      "publishedDate": "2026-04-26",
+      "thumbnail": "https://i.ytimg.com/vi/48a9ll8Ih_s/maxresdefault.jpg",
+      "noteEs": "Run sustainless (sin healer) de AS 4 con SW 999 + Castorice — estrategia de oneshot phase 1 antes de que pegue el boss. Demuestra que la composición agresiva puede ser segura cuando el output one-shotea.",
+      "noteEn": "Sustainless (no healer) run of AS 4 with SW 999 + Castorice — oneshot phase 1 strategy before the boss can hit. Demonstrates that the aggressive comp can be safe when output one-shots."
+    },
+    {
+      "id": "onikuhakku-as-f2p-archer",
+      "type": "video",
+      "title": "Archer Hypercarry E0S1 & SW Lv.999 Team E0S0 - Apocalyptic Shadow 4.2 NEW!! | Honkai Star Rail F2P",
+      "creator": "Onikuhakku",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=alU6diJsO-o",
+      "youtubeId": "alU6diJsO-o",
+      "language": "en",
+      "duration": "25:17",
+      "publishedDate": "2026-04-27",
+      "thumbnail": "https://i.ytimg.com/vi/alU6diJsO-o/maxresdefault.jpg",
+      "noteEs": "Run F2P de AS 4.2 con Archer (HSR × Fate) hypercarry E0S1 y SW 999 a E0S0. La opción F2P más realista del set: no asume eidolons absurdos ni multiple limited 5-stars whaled.",
+      "noteEn": "F2P run of AS 4.2 with Archer (HSR × Fate) E0S1 hypercarry and SW 999 at E0S0. The most realistic F2P option in this set: doesn't assume absurd eidolons or multiple whaled limited 5-stars."
+    }
+  ]
+}

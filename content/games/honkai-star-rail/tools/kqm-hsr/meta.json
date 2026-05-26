@@ -1,0 +1,43 @@
+{
+  "id": "kqm-hsr",
+  "name": "KQM Honkai: Star Rail",
+  "shortName": "KQM HSR",
+  "taglineEs": "Theorycraft de la comunidad KQM: guías profundas vetadas por theorycrafters",
+  "taglineEn": "KQM community theorycraft: deep guides vetted by theorycrafters",
+  "url": "https://hsr.keqingmains.com/",
+  "category": "theorycraft",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "theorycraft",
+    "guides",
+    "character-analysis",
+    "rotations",
+    "community",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/kqm-hsr-logo.png",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/kqm-hsr-ss-1.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["prydwen-hsr", "fribbels-hsr-optimizer"],
+  "alternatives": ["prydwen-hsr"],
+  "createdBy": {
+    "name": "Keqing Mains (KQM) Community",
+    "url": "https://keqingmains.com/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "genshin-impact", "url": "https://keqingmains.com/" }
+    ]
+  }
+}

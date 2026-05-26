@@ -1,0 +1,37 @@
+{
+  "id": "starrail-fandom-wiki",
+  "name": "Honkai: Star Rail Wiki (Fandom)",
+  "shortName": "HSR Wiki",
+  "taglineEs": "Wiki comunitaria con cobertura amplia de story, quests, achievements y lore",
+  "taglineEn": "Community wiki with broad coverage of story, quests, achievements, and lore",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Wiki",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "wiki",
+    "community",
+    "story",
+    "achievements",
+    "lore",
+    "quests"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/starrail-fandom-wiki-logo.png",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/starrail-fandom-wiki-ss-1.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["honey-hunter-world-hsr", "game8-hsr"],
+  "alternatives": ["honey-hunter-world-hsr"],
+  "createdBy": {
+    "name": "Fandom HSR Community",
+    "url": "https://honkai-star-rail.fandom.com/wiki/Special:Community"
+  }
+}

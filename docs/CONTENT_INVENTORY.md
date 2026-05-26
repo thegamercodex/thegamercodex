@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-24
+> Última generación: 2026-05-26
 
 ## Resumen
 
-19 juegos · 303 tools · 93 creators · 97 categorías · 485 resources items · 72 comparisons
+20 juegos · 317 tools · 96 creators · 102 categorías · 510 resources items · 75 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -17,6 +17,7 @@
 | `dota-2` | Dota 2 | 13 | 5 | 5 | 25 | 0 |
 | `final-fantasy-xiv` | Final Fantasy XIV | 15 | 5 | 5 | 25 | 5 |
 | `genshin-impact` | Genshin Impact | 24 | 5 | 6 | 30 | 6 |
+| `honkai-star-rail` | Honkai: Star Rail | 14 | 3 | 5 | 25 | 3 |
 | `league-of-legends` | League of Legends | 15 | 5 | 5 | 25 | 0 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 |
 | `palworld` | Palworld | 15 | 5 | 5 | 25 | 4 |
@@ -151,6 +152,21 @@
 - `patch-coverage` — 5 items
 
 **Comparisons (6)**: `gcsim-vs-akasha-system` (short), `genshin-optimizer-vs-aspirine` (flagship), `honey-hunter-world-vs-hoyowiki` (short), `hoyolab-map-vs-appsample-genshin-map` (short), `keqing-mains-vs-game8-genshin` (flagship), `seelie-me-vs-genshin-center` (short)
+
+### Honkai: Star Rail (`honkai-star-rail`)
+
+**Tools (14)**: Enka.Network HSR (`enka-network-hsr`), Fribbels HSR Optimizer (`fribbels-hsr-optimizer`), Game8 HSR (`game8-hsr`), Honey Hunter World — Star Rail (`honey-hunter-world-hsr`), HoYoLAB (`hoyolab-hsr`), HSR Wish Simulator (`hsr-wish-simulator`), Icy Veins HSR (`icy-veins-hsr`), KQM Honkai: Star Rail (`kqm-hsr`), MD✦C Calculator (`md-c-calculator`), Prydwen Institute (`prydwen-hsr`), Honkai: Star Rail Interactive Map (`star-rail-map-appsample`), Star Rail Station (`star-rail-station`), StarGuide (`starguide`), Honkai: Star Rail Wiki (Fandom) (`starrail-fandom-wiki`)
+
+**Creators (3)**: Braxophone (`braxophone`), Guoba Certified (`guoba-certified`), Ranka (`ranka`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `character-guides` — 5 items
+- `endgame-strategies` — 5 items
+- `lore-and-story` — 5 items
+- `patch-coverage` — 5 items
+
+**Comparisons (3)**: `honey-hunter-world-hsr-vs-starrail-fandom-wiki` (short), `prydwen-hsr-vs-game8-hsr` (short), `star-rail-station-vs-hsr-wish-simulator` (short)
 
 ### League of Legends (`league-of-legends`)
 

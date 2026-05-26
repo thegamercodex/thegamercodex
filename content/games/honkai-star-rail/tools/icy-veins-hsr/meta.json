@@ -1,0 +1,42 @@
+{
+  "id": "icy-veins-hsr",
+  "name": "Icy Veins HSR",
+  "shortName": "Icy Veins",
+  "taglineEs": "Guías de builds con la profundidad editorial clásica de Icy Veins",
+  "taglineEn": "Build guides with Icy Veins' classic editorial depth",
+  "url": "https://www.icy-veins.com/honkai-star-rail/",
+  "category": "character-builds",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "guides",
+    "character-builds",
+    "editorial",
+    "veteran-site"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/icy-veins-hsr-logo.png",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/icy-veins-hsr-ss-1.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["prydwen-hsr", "game8-hsr"],
+  "alternatives": ["prydwen-hsr", "game8-hsr"],
+  "createdBy": {
+    "name": "Icy Veins Team",
+    "url": "https://www.icy-veins.com/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "diablo-4", "url": "https://www.icy-veins.com/d4/" },
+      { "gameId": "world-of-warcraft", "url": "https://www.icy-veins.com/wow/" }
+    ]
+  }
+}

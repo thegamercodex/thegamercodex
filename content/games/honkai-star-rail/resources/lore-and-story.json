@@ -1,0 +1,80 @@
+{
+  "category": "lore-and-story",
+  "resources": [
+    {
+      "id": "ashikai-amphoreus-complete-3-8",
+      "type": "video",
+      "title": "[3.8] The Complete Story of Amphoreus - Honkai Star Rail Lore",
+      "creator": "Ashikai",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=V0m3-x0mdoA",
+      "youtubeId": "V0m3-x0mdoA",
+      "language": "en",
+      "duration": "1:39:33",
+      "publishedDate": "2026-01-21",
+      "thumbnail": "https://i.ytimg.com/vi/V0m3-x0mdoA/maxresdefault.jpg",
+      "noteEs": "Recap completo del arco Amphoreus hasta la 3.8 (cierre del arco). 1h40 que cubre toda la trama, los Chrysos Heirs, el rol de Nous, y por qué Phainon es central. Si te perdiste alguna update story o quieres re-anclar antes del próximo planeta, este es el doc.",
+      "noteEn": "Complete recap of the Amphoreus arc through 3.8 (arc closure). 1h40 covering the full plot, the Chrysos Heirs, Nous's role, and why Phainon is central. If you missed any story update or want to re-anchor before the next planet, this is the doc."
+    },
+    {
+      "id": "gamer-chronicles-amphoreus-3-2",
+      "type": "video",
+      "title": "Amphoreus 3.2 Story Explained! Lord Ravager & The 3rd Aeon Nanook Of Destruction - Star Rail Lore",
+      "creator": "The Gamer Chronicles",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=YQvML63he3s",
+      "youtubeId": "YQvML63he3s",
+      "language": "en",
+      "duration": "25:39",
+      "publishedDate": "2025-04-10",
+      "thumbnail": "https://i.ytimg.com/vi/YQvML63he3s/maxresdefault.jpg",
+      "noteEs": "Análisis de la 3.2 — introducción de Lord Ravager (Irontomb) y conexión con Nanook (Aeon of Destruction). Útil para entender por qué la destrucción es la amenaza estructural de Amphoreus, no solo un boss más.",
+      "noteEn": "3.2 analysis — introduction of Lord Ravager (Irontomb) and connection with Nanook (Aeon of Destruction). Useful for understanding why destruction is the structural threat of Amphoreus, not just another boss."
+    },
+    {
+      "id": "gamer-chronicles-amphoreus-3-6",
+      "type": "video",
+      "title": "Amphoreus 3.6 Story Explained! Evernight Secret Path & Truth About The Aeon War - Star Rail 3.6 Lore",
+      "creator": "The Gamer Chronicles",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=qY2KOVx0uDU",
+      "youtubeId": "qY2KOVx0uDU",
+      "language": "en",
+      "duration": "38:28",
+      "publishedDate": "2025-09-26",
+      "thumbnail": "https://i.ytimg.com/vi/qY2KOVx0uDU/maxresdefault.jpg",
+      "noteEs": "Capítulo lore de la 3.6 — Evernight, Aeon War y los secretos del path de Remembrance. La revelación de que Cyrene es central a la mecánica del ciclo se desarrolla acá. Complemento natural del recap Ashikai si quieres más detalle por parche.",
+      "noteEn": "3.6 lore chapter — Evernight, the Aeon War, and the secrets of the Remembrance path. The reveal that Cyrene is central to the cycle mechanic develops here. Natural complement to the Ashikai recap if you want more per-patch detail."
+    },
+    {
+      "id": "braxophone-gilgamesh-hsr",
+      "type": "video",
+      "title": "What does Gilgamesh do in Honkai: Star Rail?",
+      "creator": "Braxophone",
+      "creatorId": "braxophone",
+      "url": "https://www.youtube.com/watch?v=ZDeT_Fze9iU",
+      "youtubeId": "ZDeT_Fze9iU",
+      "language": "en",
+      "duration": "1:05",
+      "publishedDate": "2026-05-24",
+      "thumbnail": "https://i.ytimg.com/vi/ZDeT_Fze9iU/maxresdefault.jpg",
+      "noteEs": "Short (1 min) de Braxophone explicando el rol de Gilgamesh en el crossover HSR × Fate. Snack-content para quien quiere contexto rápido del colab sin un deep dive de 40 minutos.",
+      "noteEn": "Braxophone's 1-min short explaining Gilgamesh's role in the HSR × Fate crossover. Snack content for anyone who wants quick context on the collab without a 40-minute deep dive."
+    },
+    {
+      "id": "ashikai-aeons-theory-4-2",
+      "type": "video",
+      "title": "[4.2] I finally understand how Aeons work - Honkai Star Rail Theory",
+      "creator": "Ashikai",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Eng1GeWtxz4",
+      "youtubeId": "Eng1GeWtxz4",
+      "language": "en",
+      "duration": "16:42",
+      "publishedDate": "2026-05-24",
+      "thumbnail": "https://i.ytimg.com/vi/Eng1GeWtxz4/maxresdefault.jpg",
+      "noteEs": "Teoría de Ashikai (post-4.2) sobre cómo funcionan los Aeons mecánicamente — un framework unificado que ayuda a leer interacciones futuras. Si el lore de los Paths te parece arbitrario, este video te da modelo mental para predecir hacia dónde va la trama.",
+      "noteEn": "Ashikai's post-4.2 theory on how Aeons mechanically work — a unified framework that helps read future interactions. If Path lore feels arbitrary to you, this video gives you a mental model for predicting where the story goes."
+    }
+  ]
+}

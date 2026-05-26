@@ -1,0 +1,182 @@
+{
+  "id": "honkai-star-rail",
+  "name": "Honkai: Star Rail",
+  "shortName": "HSR",
+  "developer": "HoYoverse",
+  "releaseYear": 2023,
+  "officialUrl": "https://hsr.hoyoverse.com",
+  "stores": [
+    {
+      "platform": "epic",
+      "url": "https://store.epicgames.com/en-US/p/honkai-star-rail",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10008976",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "app-store",
+      "url": "https://apps.apple.com/us/app/honkai-star-rail/id1599719154",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "google-play",
+      "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea",
+      "model": "free-to-play"
+    }
+  ],
+  "priceTracker": "https://isthereanydeal.com/game/honkai-star-rail/",
+  "platforms": ["windows", "macos", "playstation", "ios", "android"],
+  "genres": ["turn-based-rpg", "gacha", "free-to-play", "sci-fi"],
+  "monetization": {
+    "model": "free-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["loot-boxes", "battle-pass", "cosmetic", "pay-to-skip", "currency"],
+    "payToWin": false,
+    "noteEs": "Sistema gacha con personajes y light cones obtenibles por warps usando stellar jades. El juego es full single-player con endgame rotativo (Memory of Chaos, Pure Fiction, Apocalyptic Shadow), completable como F2P pero obtener personajes 5-estrellas específicos puede requerir gasto significativo. Las microtransacciones incluyen battle pass, supply pass mensual y bundles de currency.",
+    "noteEn": "Gacha system with characters and light cones obtained via warps using stellar jades. The game is fully single-player with rotating endgame modes (Memory of Chaos, Pure Fiction, Apocalyptic Shadow), completable as F2P but obtaining specific 5-star characters can require significant spending. Microtransactions include battle pass, monthly supply pass, and currency bundles."
+  },
+  "theme": {
+    "primary": "#6c5ce7",
+    "secondary": "#1a1a2e",
+    "accent": "#c39d6b",
+    "background": "#0d0e1e",
+    "text": "#f0eee6"
+  },
+  "logo": "/images/games/honkai-star-rail-logo.webp",
+  "heroImage": "/images/games/honkai-star-rail-hero.webp",
+  "toolCategories": [
+    {
+      "id": "character-builds",
+      "nameEs": "Builds de Personajes",
+      "nameEn": "Character Builds",
+      "descriptionEs": "Guías y tier lists de builds para cada personaje",
+      "descriptionEn": "Build guides and tier lists for each character",
+      "icon": "⚔️"
+    },
+    {
+      "id": "theorycraft",
+      "nameEs": "Theorycraft",
+      "nameEn": "Theorycraft",
+      "descriptionEs": "Análisis profundo de mecánicas, rotaciones y comparativas técnicas",
+      "descriptionEn": "Deep analysis of mechanics, rotations, and technical comparisons",
+      "icon": "🧪"
+    },
+    {
+      "id": "relic-optimization",
+      "nameEs": "Optimización de Relics",
+      "nameEn": "Relic Optimization",
+      "descriptionEs": "Optimizadores y scorers para reliquias y planar ornaments",
+      "descriptionEn": "Optimizers and scorers for relics and planar ornaments",
+      "icon": "💎"
+    },
+    {
+      "id": "damage-calculation",
+      "nameEs": "Cálculo de Daño",
+      "nameEn": "Damage Calculation",
+      "descriptionEs": "Herramientas para simular y calcular daño en endgame",
+      "descriptionEn": "Tools to simulate and calculate endgame damage",
+      "icon": "🧮"
+    },
+    {
+      "id": "gacha-tracking",
+      "nameEs": "Tracking de Warps",
+      "nameEn": "Warp Tracking",
+      "descriptionEs": "Trackers de pulls, pity y simuladores de warps",
+      "descriptionEn": "Pull, pity trackers and warp simulators",
+      "icon": "🎰"
+    },
+    {
+      "id": "team-building",
+      "nameEs": "Armado de Equipos",
+      "nameEn": "Team Building",
+      "descriptionEs": "Planificadores y recomendadores de team comps personalizados",
+      "descriptionEn": "Personalized team comp planners and recommenders",
+      "icon": "👥"
+    },
+    {
+      "id": "exploration-maps",
+      "nameEs": "Mapas Interactivos",
+      "nameEn": "Interactive Maps",
+      "descriptionEs": "Mapas con ubicaciones de chests, treasures y materiales",
+      "descriptionEn": "Maps with chest, treasure and material locations",
+      "icon": "🗺️"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis, databases y datamining de beta content",
+      "descriptionEn": "Wikis, databases, and beta content datamining",
+      "icon": "📚"
+    },
+    {
+      "id": "account-tools",
+      "nameEs": "Herramientas de Cuenta",
+      "nameEn": "Account Tools",
+      "descriptionEs": "Companion oficial, daily check-in y servicios de cuenta",
+      "descriptionEn": "Official companion, daily check-in, and account services",
+      "icon": "🎁"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para empezar Honkai: Star Rail",
+      "descriptionEn": "Essential resources to start Honkai: Star Rail",
+      "icon": "🌱"
+    },
+    {
+      "id": "character-guides",
+      "nameEs": "Guías de Personajes",
+      "nameEn": "Character Guides",
+      "descriptionEs": "Guías detalladas de build y rotación por personaje",
+      "descriptionEn": "Detailed build and rotation guides per character",
+      "icon": "🎭"
+    },
+    {
+      "id": "patch-coverage",
+      "nameEs": "Cobertura de Parches",
+      "nameEn": "Patch Coverage",
+      "descriptionEs": "Análisis de cada nueva versión y banner",
+      "descriptionEn": "Analysis of each new version and banner",
+      "icon": "📦"
+    },
+    {
+      "id": "endgame-strategies",
+      "nameEs": "Estrategias de Endgame",
+      "nameEn": "Endgame Strategies",
+      "descriptionEs": "Team comps y clears de Memory of Chaos, Pure Fiction y Apocalyptic Shadow",
+      "descriptionEn": "Team comps and clears for Memory of Chaos, Pure Fiction, and Apocalyptic Shadow",
+      "icon": "⚡"
+    },
+    {
+      "id": "lore-and-story",
+      "nameEs": "Lore e Historia",
+      "nameEn": "Lore and Story",
+      "descriptionEs": "Análisis del lore y teorías de historia del Astral Express",
+      "descriptionEn": "Lore analysis and story theories of the Astral Express",
+      "icon": "📖"
+    }
+  ],
+  "newsFeeds": [
+    {
+      "type": "hoyoverse",
+      "url": "https://sg-public-api-static.hoyoverse.com/content_v2_user/app/113fe6d3b4514cdd/getContentList?iPage=1&iPageSize=20&sLangKey=en-us&isPreview=0&iChanId=249",
+      "nameEs": "HoYoverse News",
+      "nameEn": "HoYoverse News",
+      "priority": 100
+    },
+    {
+      "type": "youtube-channel",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2PeMPA8PAOp-bynLoCeMLA",
+      "nameEs": "Honkai: Star Rail (YouTube oficial)",
+      "nameEn": "Honkai: Star Rail (Official YouTube)",
+      "priority": 90
+    }
+  ]
+}

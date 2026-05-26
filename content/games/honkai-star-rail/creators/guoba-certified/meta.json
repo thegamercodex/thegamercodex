@@ -1,0 +1,41 @@
+{
+  "id": "guoba-certified",
+  "name": "Guoba Certified",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@GuobaCertified",
+      "url": "https://www.youtube.com/@GuobaCertified",
+      "channelId": "UCMSXICArye65FFLABAYkRBA",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "guides",
+    "live-streams",
+    "summons-reaction",
+    "multi-game-hoyoverse"
+  ],
+  "games": ["honkai-star-rail"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Creator multi-game del ecosistema HoYoverse (Genshin + HSR principalmente, ocasional Neverness to Everness). Mezcla guides accionables, viewer summons en vivo, y Q&A. Su content es accesible para audiencia general — no es theorycraft denso, es introducción a personajes con casos de uso prácticos. Para players que vienen de Genshin y entran a HSR, Guoba sirve de puente.",
+  "noteEn": "Multi-game creator in the HoYoverse ecosystem (mainly Genshin + HSR, occasional Neverness to Everness). Mixes actionable guides, live viewer summons, and Q&A. His content is accessible for general audiences — not dense theorycraft, more like character intros with practical use cases. For Genshin players entering HSR, Guoba is a useful bridge.",
+  "highlightsEs": [
+    "Multi-game HoYoverse: Genshin + HSR",
+    "Guides accesibles para audiencia general",
+    "Live streams con viewer summons y Q&A",
+    "Buen puente para Genshin players nuevos en HSR"
+  ],
+  "highlightsEn": [
+    "Multi-game HoYoverse: Genshin + HSR",
+    "Accessible guides for general audiences",
+    "Live streams with viewer summons and Q&A",
+    "Good bridge for Genshin players new to HSR"
+  ],
+  "avatar": "/images/creators/guoba-certified-avatar.jpg",
+  "banner": "/images/creators/guoba-certified-banner.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "game8-hsr",
+  "name": "Game8 HSR",
+  "shortName": "Game8",
+  "taglineEs": "Tier list y guías accesibles con cobertura amplia de eventos y story",
+  "taglineEn": "Accessible tier list and guides with broad event and story coverage",
+  "url": "https://game8.co/games/Honkai-Star-Rail",
+  "category": "character-builds",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "tier-list",
+    "guides",
+    "events",
+    "story",
+    "beginner-friendly"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-24",
+  "logo": "/images/tools/honkai-star-rail/game8-hsr-logo.png",
+  "screenshots": [
+    { "url": "/images/tools/honkai-star-rail/game8-hsr-ss-1.png" }
+  ],
+  "videos": [],
+  "relatedTools": ["prydwen-hsr", "icy-veins-hsr"],
+  "alternatives": ["prydwen-hsr", "icy-veins-hsr"],
+  "createdBy": {
+    "name": "Game8 Editorial Team",
+    "url": "https://game8.co/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "genshin-impact", "url": "https://game8.co/games/Genshin-Impact" }
+    ]
+  }
+}
