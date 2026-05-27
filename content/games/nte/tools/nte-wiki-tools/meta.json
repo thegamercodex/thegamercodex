@@ -1,0 +1,30 @@
+{
+  "id": "nte-wiki-tools",
+  "name": "NTE Wiki Tools",
+  "shortName": "NTE Wiki",
+  "taglineEs": "Suite de 5 calculadoras: pity, pull, team builder, build planner y material planner para NTE",
+  "taglineEn": "Suite of 5 calculators: pity, pull, team builder, build planner, and material planner for NTE",
+  "url": "https://ntewiki.online/",
+  "category": "gacha-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "pity-calculator",
+    "pull-calculator",
+    "team-builder",
+    "build-planner",
+    "material-planner"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/nte/nte-wiki-tools-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nte-guide", "zero-luck-nte", "neverness-nav"],
+  "alternatives": ["nte-guide", "zero-luck-nte"]
+}

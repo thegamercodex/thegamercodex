@@ -1,0 +1,42 @@
+{
+  "id": "game8-nte",
+  "name": "Game8 Neverness to Everness",
+  "shortName": "Game8",
+  "taglineEs": "Wiki integral con team comps, tier lists y guías de NTE en formato accesible y multi-idioma",
+  "taglineEn": "Comprehensive wiki with team comps, tier lists, and accessible NTE guides in multiple languages",
+  "url": "https://game8.co/games/Neverness-to-Everness",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en", "es", "ja", "ko", "zh-cn", "zh-tw"],
+  "tags": [
+    "wiki",
+    "tier-list",
+    "team-comps",
+    "guides",
+    "beginner-friendly",
+    "multi-language"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/nte/game8-nte-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["gamewith-nte", "prydwen-nte"],
+  "alternatives": ["gamewith-nte", "prydwen-nte"],
+  "createdBy": {
+    "name": "Game8 Team",
+    "url": "https://game8.co/about"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "genshin-impact", "url": "https://game8.co/games/Genshin-Impact" },
+      { "gameId": "honkai-star-rail", "url": "https://game8.co/games/Honkai-Star-Rail" }
+    ]
+  }
+}

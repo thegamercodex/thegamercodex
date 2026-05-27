@@ -1,0 +1,35 @@
+{
+  "id": "nte-official-discord",
+  "name": "NTE Global Official Discord",
+  "shortName": "Discord NTE",
+  "taglineEs": "Discord oficial de Hotta Studio para NTE: anuncios first-party, community managers, channels por idioma y soporte de bugs",
+  "taglineEn": "Hotta Studio's official Discord for NTE: first-party announcements, community managers, per-language channels, and bug support",
+  "url": "https://discord.com/invite/nte",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows", "macos", "linux", "ios", "android"],
+  "languages": ["en", "es", "ja", "ko", "zh-cn"],
+  "tags": [
+    "discord",
+    "official",
+    "announcements",
+    "community-managers",
+    "bug-reports",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nte-subreddit"],
+  "alternatives": ["nte-subreddit"],
+  "createdBy": {
+    "name": "Hotta Studio",
+    "url": "https://nte.perfectworld.com"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "trickduck",
+  "name": "TrickDuck",
+  "country": "AR",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@TrickDuck",
+      "url": "https://www.youtube.com/@TrickDuck",
+      "channelId": "UCLJHeyWmr9joFkCdei7QXpw",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "patch-coverage",
+    "version-previews",
+    "feature-walkthroughs",
+    "spanish-content"
+  ],
+  "games": ["nte"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Creator hispano dedicado casi exclusivamente a NTE desde el global launch. Su contenido cubre patch previews tan pronto como aparecen leaks de CN, walkthroughs de features (cafetería, Mammon, exploración), análisis de banners y reacciones a anuncios oficiales. La cadencia es alta — múltiples videos por semana — lo que lo hace una de las fuentes más rápidas para audiencia hispana que quiere mantenerse al día con NTE sin esperar traducciones de creators en inglés.",
+  "noteEn": "Spanish-speaking creator dedicated almost exclusively to NTE since global launch. His content covers patch previews as soon as CN leaks appear, feature walkthroughs (cafeteria, Mammon, exploration), banner analysis, and reactions to official announcements. Cadence is high — multiple videos per week — making him one of the fastest sources for Spanish-speaking audiences who want to stay current with NTE without waiting for English creator translations.",
+  "highlightsEs": [
+    "Cobertura NTE casi exclusiva con cadencia alta de uploads",
+    "Patch previews desde leaks de CN antes que llegue confirmación global",
+    "Walkthroughs detallados de features específicas de NTE",
+    "Una de las fuentes hispanas más rápidas para news y banners"
+  ],
+  "highlightsEn": [
+    "Nearly exclusive NTE coverage with high upload cadence",
+    "Patch previews from CN leaks before global confirmation",
+    "Detailed walkthroughs of NTE-specific features",
+    "One of the fastest Spanish-language sources for news and banners"
+  ],
+  "avatar": "/images/creators/trickduck-avatar.jpg",
+  "banner": "/images/creators/trickduck-banner.jpg"
+}

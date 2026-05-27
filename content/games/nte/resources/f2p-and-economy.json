@@ -1,0 +1,80 @@
+{
+  "category": "f2p-and-economy",
+  "resources": [
+    {
+      "id": "trickduck-mammon-fons-gato-codicioso-nte-2026",
+      "type": "video",
+      "title": "MAMMON - Cómo ganar MÁS FONS y mejorar al gato codicioso - Neverness To Everness",
+      "creator": "TrickDuck",
+      "creatorId": "trickduck",
+      "url": "https://www.youtube.com/watch?v=bpUu8c2hrIY",
+      "youtubeId": "bpUu8c2hrIY",
+      "language": "es",
+      "duration": "6:09",
+      "publishedDate": "2026-05-21",
+      "thumbnail": "https://i.ytimg.com/vi/bpUu8c2hrIY/maxresdefault.jpg",
+      "noteEs": "Guía rápida de Mammon, el sistema de gato codicioso que multiplica Fons: cómo desbloquearlo y maximizar el income pasivo.",
+      "noteEn": "Quick guide on Mammon, the greedy-cat system that multiplies Fons: how to unlock it and maximize passive income. Spanish narration."
+    },
+    {
+      "id": "nonpon-weekly-get-rich-f2p-wallets-mammon-nte-2026",
+      "type": "video",
+      "title": "My Secret Weekly to Get Rich as a F2P Player! Wallets, Mammon, Vaults, Deliveries & More",
+      "creator": "Nonpon",
+      "creatorId": "nonpon",
+      "url": "https://www.youtube.com/watch?v=Zlo9MIq7oz4",
+      "youtubeId": "Zlo9MIq7oz4",
+      "language": "en",
+      "duration": "8:16",
+      "publishedDate": "2026-05-26",
+      "thumbnail": "https://i.ytimg.com/vi/Zlo9MIq7oz4/maxresdefault.jpg",
+      "noteEs": "Rutina semanal F2P combinando Wallets, Mammon, Vaults y Deliveries para maximizar currency sin gastar dinero real.",
+      "noteEn": "F2P weekly routine combining Wallets, Mammon, Vaults, and Deliveries to maximize currency without spending real money."
+    },
+    {
+      "id": "nonpon-extra-rewards-f2p-beetles-bonds-fons-nte-2026",
+      "type": "video",
+      "title": "How I Get Extra Rewards As a F2P Player! Beetles, Bonds, & Fons",
+      "creator": "Nonpon",
+      "creatorId": "nonpon",
+      "url": "https://www.youtube.com/watch?v=MjY8D1aBPIE",
+      "youtubeId": "MjY8D1aBPIE",
+      "language": "en",
+      "duration": "14:50",
+      "publishedDate": "2026-05-18",
+      "thumbnail": "https://i.ytimg.com/vi/MjY8D1aBPIE/maxresdefault.jpg",
+      "noteEs": "Deep dive (15 min) en Beetles, Bonds y Fons: cómo extraer recompensas extras de cada sistema como jugador F2P.",
+      "noteEn": "Deep dive (15 min) into Beetles, Bonds, and Fons: how to extract extra rewards from each system as a F2P player."
+    },
+    {
+      "id": "trickduck-cafeteria-todas-misiones-3-estrellas-nte-2026",
+      "type": "video",
+      "title": "Cómo completar TODAS las misiones de Cafetería con 3 estrellas - Neverness to Everness",
+      "creator": "TrickDuck",
+      "creatorId": "trickduck",
+      "url": "https://www.youtube.com/watch?v=GqWMQpsvtTE",
+      "youtubeId": "GqWMQpsvtTE",
+      "language": "es",
+      "duration": "6:12",
+      "publishedDate": "2026-05-19",
+      "thumbnail": "https://i.ytimg.com/vi/GqWMQpsvtTE/maxresdefault.jpg",
+      "noteEs": "Guía paso a paso para completar todas las misiones de Cafetería con 3 estrellas. Sistema económico clave para F2P por las recompensas semanales.",
+      "noteEn": "Step-by-step guide to complete every Cafeteria mission with 3 stars. Key economy system for F2P thanks to weekly rewards. Spanish narration."
+    },
+    {
+      "id": "pseychie-very-serious-20-hour-review-nte-2026",
+      "type": "video",
+      "title": "A Very Serious 20 Hour Review of Neverness to Everness",
+      "creator": "Pseychie",
+      "creatorId": "pseychie",
+      "url": "https://www.youtube.com/watch?v=7oG_VzOJS1w",
+      "youtubeId": "7oG_VzOJS1w",
+      "language": "en",
+      "duration": "26:40",
+      "publishedDate": "2026-05-13",
+      "thumbnail": "https://i.ytimg.com/vi/7oG_VzOJS1w/maxresdefault.jpg",
+      "noteEs": "Review denso de 27 minutos tras 20 horas jugadas, con análisis de viabilidad F2P, monetización, gacha rates y sistemas económicos del juego.",
+      "noteEn": "Dense 27-minute review after 20 hours played, analyzing F2P viability, monetization, gacha rates, and the game's economy systems."
+    }
+  ]
+}

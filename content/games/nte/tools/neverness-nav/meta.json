@@ -1,0 +1,35 @@
+{
+  "id": "neverness-nav",
+  "name": "Neverness Nav",
+  "shortName": "Nav",
+  "taglineEs": "Companion app indie con tier list community-voted, mapa interactivo, banner countdown y pull simulator",
+  "taglineEn": "Indie companion app with community-voted tier list, interactive map, banner countdown, and pull simulator",
+  "url": "https://www.nevernessnav.com/",
+  "category": "character-builds",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "tier-list",
+    "interactive-map",
+    "build-calculator",
+    "pull-simulator",
+    "banner-countdown",
+    "indie"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/nte/neverness-nav-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nte-guide", "nte-wiki-tools"],
+  "alternatives": ["nte-guide", "zero-luck-nte"],
+  "createdBy": {
+    "name": "Saints Nostalgia Studio",
+    "url": "https://www.nevernessnav.com/"
+  }
+}

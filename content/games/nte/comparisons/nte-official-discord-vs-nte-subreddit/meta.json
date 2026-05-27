@@ -1,0 +1,46 @@
+{
+  "id": "nte-official-discord-vs-nte-subreddit",
+  "toolIds": ["nte-official-discord", "nte-subreddit"],
+  "category": "community",
+  "depth": "short",
+  "lastVerified": "2026-05-27",
+  "verdictEs": "Discord oficial para info first-party, bug reports directos al dev y comunidad segmentada por idioma. Reddit para reacciones honestas, critique libre y búsqueda histórica vía Google.",
+  "verdictEn": "Official Discord for first-party info, direct dev bug reports, and per-language community. Reddit for honest reactions, free critique, and historical search via Google.",
+  "useCases": [
+    {
+      "labelEs": "Recibir anuncios oficiales antes que el resto",
+      "labelEn": "Getting official announcements before everyone else",
+      "winner": "nte-official-discord",
+      "reasonEs": "Patch notes, emergency fixes y compensaciones aparecen primero en el Discord oficial. Reddit reacciona después.",
+      "reasonEn": "Patch notes, emergency fixes, and compensations appear first on the official Discord. Reddit reacts afterwards."
+    },
+    {
+      "labelEs": "Ver reacciones honestas a un parche controversial",
+      "labelEn": "Seeing honest reactions to a controversial patch",
+      "winner": "nte-subreddit",
+      "reasonEs": "En el Discord oficial las críticas pueden ser moderadas o diluirse en el ruido. En Reddit, los upvotes amplifican el sentir mayoritario sin filtros editoriales.",
+      "reasonEn": "On the official Discord, criticism can be moderated or get diluted in noise. On Reddit, upvotes amplify majority sentiment without editorial filters."
+    },
+    {
+      "labelEs": "Reportar un bug directamente al dev team",
+      "labelEn": "Reporting a bug directly to the dev team",
+      "winner": "nte-official-discord",
+      "reasonEs": "El Discord oficial tiene channel dedicado a bug reports que llegan directo a QA. Reddit no tiene línea directa con el dev.",
+      "reasonEn": "The official Discord has a dedicated bug-report channel that goes straight to QA. Reddit has no direct line to the dev team."
+    },
+    {
+      "labelEs": "Encontrar un thread viejo sobre una duda específica via Google",
+      "labelEn": "Finding an old thread about a specific question via Google",
+      "winner": "nte-subreddit",
+      "reasonEs": "Reddit indexa bien en Google y los threads aparecen como primer resultado para búsquedas concretas. Discord es opaco a búsqueda externa.",
+      "reasonEn": "Reddit indexes well in Google and threads show up as the first result for concrete searches. Discord is opaque to external search."
+    },
+    {
+      "labelEs": "Discutir en tu idioma nativo con comunidad local",
+      "labelEn": "Discussing in your native language with the local community",
+      "winner": "nte-official-discord",
+      "reasonEs": "El Discord tiene channels segmentados por idioma (español, japonés, coreano, chino). El subreddit r/NevernessToEverness es solo en inglés.",
+      "reasonEn": "Discord has language-segmented channels (Spanish, Japanese, Korean, Chinese). The r/NevernessToEverness subreddit is English only."
+    }
+  ]
+}

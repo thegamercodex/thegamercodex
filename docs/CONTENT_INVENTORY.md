@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-26
+> Última generación: 2026-05-27
 
 ## Resumen
 
-20 juegos · 317 tools · 96 creators · 102 categorías · 510 resources items · 75 comparisons
+21 juegos · 329 tools · 101 creators · 107 categorías · 535 resources items · 79 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -20,6 +20,7 @@
 | `honkai-star-rail` | Honkai: Star Rail | 14 | 3 | 5 | 25 | 3 |
 | `league-of-legends` | League of Legends | 15 | 5 | 5 | 25 | 0 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 |
+| `nte` | Neverness to Everness | 12 | 5 | 5 | 25 | 4 |
 | `palworld` | Palworld | 15 | 5 | 5 | 25 | 4 |
 | `path-of-exile` | Path of Exile | 17 | 5 | 5 | 25 | 7 |
 | `path-of-exile-2` | Path of Exile 2 | 20 | 5 | 5 | 25 | 8 |
@@ -197,6 +198,21 @@
 - `exploration-discovery` — 5 items
 
 **Comparisons (5)**: `assistant-nms-vs-nms-fandom-wiki` (short), `nms-coordinate-exchange-vs-nms-galactic-atlas` (short), `nms-fandom-wiki-vs-nmscd` (flagship), `nms-save-editor-vs-nomnom-save-editor` (short), `reddit-nomanssky-vs-nms-discord` (short)
+
+### Neverness to Everness (`nte`)
+
+**Tools (12)**: Game8 Neverness to Everness (`game8-nte`), GameWith NTE (`gamewith-nte`), Interactive Map App (NTE) (`interactive-map-nte`), Neverness Nav (`neverness-nav`), Neverness to Everness Wiki (Fandom) (`nte-fandom-wiki`), NTE Guide (`nte-guide`), NTE Global Official Discord (`nte-official-discord`), r/NevernessToEverness (`nte-subreddit`), NTE Wiki Tools (`nte-wiki-tools`), NTEGame (`ntegame`), Prydwen Institute (`prydwen-nte`), Zero Luck (`zero-luck-nte`)
+
+**Creators (5)**: La Choza de Evan (`la-choza-de-evan`), Nonpon (`nonpon`), Pseychie (`pseychie`), Putupau (`putupau`), TrickDuck (`trickduck`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `character-guides` — 5 items
+- `endgame-strategies` — 5 items
+- `f2p-and-economy` — 5 items
+- `patch-coverage` — 5 items
+
+**Comparisons (4)**: `game8-nte-vs-gamewith-nte` (short), `nte-official-discord-vs-nte-subreddit` (short), `prydwen-nte-vs-nte-guide` (flagship), `zero-luck-nte-vs-nte-guide` (short)
 
 ### Palworld (`palworld`)
 

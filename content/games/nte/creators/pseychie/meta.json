@@ -1,0 +1,41 @@
+{
+  "id": "pseychie",
+  "name": "Pseychie",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Pseychie",
+      "url": "https://www.youtube.com/@Pseychie",
+      "channelId": "UCB_XGgMh_pdtc35LQUdXAFA",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "gacha-reviews",
+    "long-form-analysis",
+    "deep-dives",
+    "honest-criticism"
+  ],
+  "games": ["nte"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Creador en inglés especializado en reviews largos de juegos gacha con tono honesto y crítico. Su video sobre NTE \"A Very Serious 20 Hour Review of Neverness to Everness\" (mayo 2026) cubre el juego en profundidad después de jugarlo varias decenas de horas, analizando pros, cons y la propuesta editorial del juego sin hype vacío. Su cadencia es lenta (1-2 videos largos al mes) pero el contenido es denso. Ideal para audiencia que prefiere un deep dive completo sobre quick takes.",
+  "noteEn": "English-speaking creator specialized in long-form gacha game reviews with an honest, critical tone. His NTE video \"A Very Serious 20 Hour Review of Neverness to Everness\" (May 2026) covers the game in depth after tens of hours played, analyzing pros, cons, and the game's editorial proposition without empty hype. His cadence is slow (1-2 long videos per month) but content is dense. Ideal for audiences who prefer a complete deep dive over quick takes.",
+  "highlightsEs": [
+    "Reviews largos de gacha con análisis honesto y crítico",
+    "Video de 20 horas analizando NTE en profundidad post-launch",
+    "Tono editorial sin hype vacío ni propaganda",
+    "Cadencia lenta pero contenido denso para audiencia que prefiere profundidad"
+  ],
+  "highlightsEn": [
+    "Long-form gacha reviews with honest, critical analysis",
+    "20-hour video reviewing NTE in depth post-launch",
+    "Editorial tone without empty hype or shilling",
+    "Slow cadence but dense content for audiences who prefer depth"
+  ],
+  "avatar": "/images/creators/pseychie-avatar.jpg",
+  "banner": "/images/creators/pseychie-banner.jpg"
+}

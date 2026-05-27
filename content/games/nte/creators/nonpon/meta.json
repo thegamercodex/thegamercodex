@@ -1,0 +1,41 @@
+{
+  "id": "nonpon",
+  "name": "Nonpon",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Nonpon",
+      "url": "https://www.youtube.com/@Nonpon",
+      "channelId": "UCsYeyVS0J1XnOGN5fz8Qf8A",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "f2p-strategy",
+    "character-builds",
+    "patch-coverage",
+    "beginner-guides"
+  ],
+  "games": ["nte"],
+  "contentTypes": ["videos", "shorts"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Creador en inglés enfocado casi exclusivamente en NTE desde el global launch. Su perspectiva editorial es F2P-friendly: cómo maximizar currency, walkthroughs de wallet/Mammon (sistema económico del juego), builds que asumen recursos limitados. La mezcla de shorts y videos largos lo hace accesible tanto para quick lookups como para deep dives. Activo con cadencia alta (varios videos por semana).",
+  "noteEn": "English-speaking creator focused almost exclusively on NTE since global launch. His editorial perspective is F2P-friendly: how to maximize currency, walkthroughs of wallet/Mammon (the game's economy system), builds that assume limited resources. The mix of shorts and long-form videos makes him accessible for both quick lookups and deep dives. Active with high cadence (multiple videos per week).",
+  "highlightsEs": [
+    "Perspectiva F2P-friendly con foco en maximizar currency",
+    "Walkthroughs detallados del sistema económico (Mammon, wallets)",
+    "Mix de shorts y long-form para acceso rápido y profundo",
+    "Cadencia alta con cobertura NTE casi exclusiva"
+  ],
+  "highlightsEn": [
+    "F2P-friendly perspective focused on maximizing currency",
+    "Detailed walkthroughs of the economy system (Mammon, wallets)",
+    "Mix of shorts and long-form for both quick and deep access",
+    "High cadence with near-exclusive NTE coverage"
+  ],
+  "avatar": "/images/creators/nonpon-avatar.jpg",
+  "banner": "/images/creators/nonpon-banner.jpg"
+}

@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "la-choza-evan-guia-principiantes-nte-2026",
+      "type": "video",
+      "title": "La Guia Definitiva para PRINCIPIANTES de Neverness to Everness (NTE)",
+      "creator": "La Choza de Evan",
+      "creatorId": "la-choza-de-evan",
+      "url": "https://www.youtube.com/watch?v=MsNsdl7ANpY",
+      "youtubeId": "MsNsdl7ANpY",
+      "language": "es",
+      "duration": "28:05",
+      "publishedDate": "2026-04-28",
+      "thumbnail": "https://i.ytimg.com/vi/MsNsdl7ANpY/maxresdefault.jpg",
+      "noteEs": "Guía de onboarding bilingüe que cubre los sistemas básicos de NTE en 28 minutos. Útil para player nuevo que necesita una vista panorámica antes de entrar al juego.",
+      "noteEn": "Onboarding guide covering NTE basic systems in 28 minutes. Useful for new players who need a panoramic view before diving in. Spanish narration."
+    },
+    {
+      "id": "pseychie-day-one-beginner-guide-nte-2026",
+      "type": "video",
+      "title": "The Day One Beginner Guide to Neverness to Everness",
+      "creator": "Pseychie",
+      "creatorId": "pseychie",
+      "url": "https://www.youtube.com/watch?v=QKScbdwjL1I",
+      "youtubeId": "QKScbdwjL1I",
+      "language": "en",
+      "duration": "10:16",
+      "publishedDate": "2026-04-29",
+      "thumbnail": "https://i.ytimg.com/vi/QKScbdwjL1I/maxresdefault.jpg",
+      "noteEs": "Guía de día uno con prioridades de progreso, qué evitar y errores comunes del onboarding. Formato directo de 10 minutos.",
+      "noteEn": "Day-one guide with progress priorities, what to avoid, and common onboarding mistakes. Direct 10-minute format."
+    },
+    {
+      "id": "la-choza-evan-verdad-selector-dia-1-nte-2026",
+      "type": "video",
+      "title": "La VERDAD sobre el SELECTOR para el DIA 1 | Guia Neverness to Everness (NTE)",
+      "creator": "La Choza de Evan",
+      "creatorId": "la-choza-de-evan",
+      "url": "https://www.youtube.com/watch?v=anjRAvkEMBU",
+      "youtubeId": "anjRAvkEMBU",
+      "language": "es",
+      "duration": "10:14",
+      "publishedDate": "2026-04-29",
+      "thumbnail": "https://i.ytimg.com/vi/anjRAvkEMBU/maxresdefault.jpg",
+      "noteEs": "Análisis específico del selector de personaje gratuito de inicio: qué elegir, qué evita el hype y por qué algunos selectors son trampas.",
+      "noteEn": "Specific analysis of the starter free-character selector: what to pick, what hype to avoid, and why some selectors are traps. Spanish narration."
+    },
+    {
+      "id": "nonpon-full-beginners-guide-nte-2026",
+      "type": "video",
+      "title": "FULL BEGINNERS GUIDE TO NEVERNESS TO EVERNESS! NTE Tips & Tricks to GET AHEAD!",
+      "creator": "Nonpon",
+      "creatorId": "nonpon",
+      "url": "https://www.youtube.com/watch?v=faPEgvzNRx8",
+      "youtubeId": "faPEgvzNRx8",
+      "language": "en",
+      "duration": "14:42",
+      "publishedDate": "2026-04-22",
+      "thumbnail": "https://i.ytimg.com/vi/faPEgvzNRx8/maxresdefault.jpg",
+      "noteEs": "Guía completa para principiantes con tips para avanzar más rápido. Cubre progresión, currency básica y sistemas a priorizar las primeras semanas.",
+      "noteEn": "Complete beginners guide with tips to advance faster. Covers progression, basic currency, and which systems to prioritize the first weeks."
+    },
+    {
+      "id": "nonpon-f2p-hunter-level-40-two-weeks-nte-2026",
+      "type": "video",
+      "title": "How F2P Reaches Hunter Level 40 in Two Weeks! Lost Tales, Beetle Coins, Cafe, Modules",
+      "creator": "Nonpon",
+      "creatorId": "nonpon",
+      "url": "https://www.youtube.com/watch?v=n5Gt9GbSc2o",
+      "youtubeId": "n5Gt9GbSc2o",
+      "language": "en",
+      "duration": "14:27",
+      "publishedDate": "2026-05-12",
+      "thumbnail": "https://i.ytimg.com/vi/n5Gt9GbSc2o/maxresdefault.jpg",
+      "noteEs": "Roadmap F2P para llegar a Hunter Level 40 en dos semanas: Lost Tales, Beetle Coins, Cafeteria y Modules como pilares de progreso temprano.",
+      "noteEn": "F2P roadmap to reach Hunter Level 40 in two weeks: Lost Tales, Beetle Coins, Cafeteria, and Modules as early-progression pillars."
+    }
+  ]
+}

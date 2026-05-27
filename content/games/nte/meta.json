@@ -1,0 +1,135 @@
+{
+  "id": "nte",
+  "name": "Neverness to Everness",
+  "shortName": "NTE",
+  "developer": "Hotta Studio",
+  "releaseYear": 2026,
+  "officialUrl": "https://nte.perfectworld.com",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/4508340/NTE_Neverness_to_Everness/",
+      "appId": "4508340",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://www.playstation.com/en-us/games/nte-neverness-to-everness/",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "app-store",
+      "url": "https://nte.perfectworld.com",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "google-play",
+      "url": "https://nte.perfectworld.com",
+      "model": "free-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "free-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["loot-boxes", "battle-pass", "cosmetic", "currency"],
+    "payToWin": false,
+    "noteEs": "Sistema gacha con personajes (Espers) y Arcs (armas) obtenibles por banners usando currency premium. El juego es un open-world urbano sobrenatural single-player con cooperativo limitado, completable como F2P aunque obtener personajes SS-Class específicos puede requerir gasto. Las microtransacciones incluyen battle pass, monthly card, bundles de currency y cosméticos.",
+    "noteEn": "Gacha system with characters (Espers) and Arcs (weapons) obtainable via banners using premium currency. The game is a supernatural urban open-world with single-player focus and limited co-op, fully completable as F2P though specific SS-Class characters can require spending. Microtransactions include battle pass, monthly card, currency bundles, and cosmetics."
+  },
+  "platforms": ["windows", "macos", "playstation", "ios", "android"],
+  "genres": ["action-rpg", "gacha", "free-to-play", "open-world", "anime"],
+  "theme": {
+    "primary": "#c44d76",
+    "secondary": "#1c1424",
+    "accent": "#ff5a8c",
+    "background": "#0e0816",
+    "text": "#f4eef0"
+  },
+  "logo": "/images/games/nte-logo.png",
+  "heroImage": "/images/games/nte-hero.webp",
+  "toolCategories": [
+    {
+      "id": "character-builds",
+      "nameEs": "Builds y Tier Lists",
+      "nameEn": "Builds & Tier Lists",
+      "descriptionEs": "Guías de build por Esper, tier lists y planificadores de team comps",
+      "descriptionEn": "Per-Esper build guides, tier lists, and team comp planners",
+      "icon": "⚔️"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis y bases de datos con info de personajes, Arcs, Cartridges y mecánicas",
+      "descriptionEn": "Wikis and databases with character, Arc, Cartridge, and mechanics info",
+      "icon": "📚"
+    },
+    {
+      "id": "gacha-tracking",
+      "nameEs": "Tracking de Banners",
+      "nameEn": "Banner Tracking",
+      "descriptionEs": "Calculadoras de pity, simuladores de pulls y planificadores de currency",
+      "descriptionEn": "Pity calculators, pull simulators, and currency planners",
+      "icon": "🎰"
+    },
+    {
+      "id": "exploration-maps",
+      "nameEs": "Mapas Interactivos",
+      "nameEn": "Interactive Maps",
+      "descriptionEs": "Mapas de Hethereau con ubicaciones de chests, anomalías y collectibles",
+      "descriptionEn": "Hethereau maps with chest, anomaly, and collectible locations",
+      "icon": "🗺️"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial, subreddit y hubs de discusión de la comunidad",
+      "descriptionEn": "Official Discord, subreddit, and community discussion hubs",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para empezar en Hethereau",
+      "descriptionEn": "Essential resources to start in Hethereau",
+      "icon": "🌱"
+    },
+    {
+      "id": "character-guides",
+      "nameEs": "Guías de Personajes",
+      "nameEn": "Character Guides",
+      "descriptionEs": "Guías de build, rotación y team comp por Esper",
+      "descriptionEn": "Build, rotation, and team comp guides per Esper",
+      "icon": "🎭"
+    },
+    {
+      "id": "patch-coverage",
+      "nameEs": "Cobertura de Versiones",
+      "nameEn": "Patch Coverage",
+      "descriptionEs": "Análisis de cada versión, banner y evento",
+      "descriptionEn": "Coverage of each version, banner, and event",
+      "icon": "📦"
+    },
+    {
+      "id": "endgame-strategies",
+      "nameEs": "Estrategias de Endgame",
+      "nameEn": "Endgame Strategies",
+      "descriptionEs": "Team comps y guías para Anomaly Containment y contenido endgame",
+      "descriptionEn": "Team comps and guides for Anomaly Containment and endgame content",
+      "icon": "⚡"
+    },
+    {
+      "id": "f2p-and-economy",
+      "nameEs": "F2P y Economía",
+      "nameEn": "F2P and Economy",
+      "descriptionEs": "Guías de Mammon, Cafetería, wallets y maximización de currency para jugadores F2P",
+      "descriptionEn": "Mammon, Cafeteria, wallet guides, and currency maximization for F2P players",
+      "icon": "💰"
+    }
+  ],
+  "similarGames": ["genshin-impact", "honkai-star-rail"]
+}
