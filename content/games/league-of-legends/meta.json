@@ -15,13 +15,26 @@
   "monetization": {
     "model": "free-to-play",
     "hasInGamePurchases": true,
-    "purchaseTypes": ["cosmetics", "champions", "battle-pass", "loot-boxes"],
+    "purchaseTypes": [
+      "cosmetics",
+      "champions",
+      "battle-pass",
+      "loot-boxes"
+    ],
     "payToWin": false,
     "noteEs": "Free-to-play con monetización exclusivamente cosmética y desbloqueo de campeones. Todos los campeones se pueden conseguir gratis con currency in-game (Blue Essence) farmeable jugando partidas. Las skins son puramente cosméticas, no afectan gameplay. Las loot boxes (Hextech Chests) se obtienen jugando, no requieren compra obligatoria. No es pay-to-win en ningún sentido competitivo.",
     "noteEn": "Free-to-play with exclusively cosmetic and champion unlock monetization. All champions can be obtained free with in-game currency (Blue Essence) farmable by playing matches. Skins are purely cosmetic, don't affect gameplay. Loot boxes (Hextech Chests) are obtained by playing, don't require mandatory purchase. Not pay-to-win in any competitive sense."
   },
-  "platforms": ["windows", "macos"],
-  "genres": ["moba", "team-based", "competitive", "esports"],
+  "platforms": [
+    "windows",
+    "macos"
+  ],
+  "genres": [
+    "moba",
+    "team-based",
+    "competitive",
+    "esports"
+  ],
   "theme": {
     "primary": "#0a1428",
     "secondary": "#091428",
@@ -119,6 +132,14 @@
       "descriptionEs": "Leaderboards de Champion Mastery, milestones por campeón y rankings de mastery points.",
       "descriptionEn": "Champion Mastery leaderboards, per-champion milestones, and mastery point rankings.",
       "icon": "⭐"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial, subreddit y hubs de discusión de la comunidad",
+      "descriptionEn": "Official Discord, subreddit, and community discussion hubs",
+      "icon": "💬"
     }
   ],
   "resourceCategories": [

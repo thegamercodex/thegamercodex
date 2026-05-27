@@ -15,13 +15,30 @@
   "monetization": {
     "model": "subscription",
     "hasInGamePurchases": true,
-    "purchaseTypes": ["subscription", "expansions", "cosmetics", "mounts", "pets", "services", "wow-token"],
+    "purchaseTypes": [
+      "subscription",
+      "expansions",
+      "cosmetics",
+      "mounts",
+      "pets",
+      "services",
+      "wow-token"
+    ],
     "payToWin": false,
     "noteEs": "Modelo de suscripción mensual ($14.99 USD) que da acceso completo al juego. Las expansiones se compran aparte (típicamente $50-90 USD cada una). El shop in-game vende mounts, pets y skins puramente cosméticos, además de servicios como cambio de servidor o transferencia de personaje. El WoW Token ($20 USD) permite convertir dinero real en gold in-game o redimirlo por tiempo de juego, lo cual técnicamente da ventajas económicas pero no afecta progresión PvE/PvP directamente. No es pay-to-win en sentido competitivo: el power se obtiene mediante gear que se dropea jugando, y no se puede comprar con dinero real.",
     "noteEn": "Monthly subscription model ($14.99 USD) that grants full access to the game. Expansions are purchased separately (typically $50-90 USD each). The in-game shop sells purely cosmetic mounts, pets, and skins, plus services like server transfer or character transfer. The WoW Token ($20 USD) lets players convert real money to in-game gold or redeem it for game time, which technically grants economic advantages but doesn't directly affect PvE/PvP progression. Not pay-to-win in a competitive sense: power is obtained through gear that drops by playing, and cannot be purchased with real money."
   },
-  "platforms": ["windows", "macos"],
-  "genres": ["mmorpg", "fantasy", "raid-pve", "pvp", "esports"],
+  "platforms": [
+    "windows",
+    "macos"
+  ],
+  "genres": [
+    "mmorpg",
+    "fantasy",
+    "raid-pve",
+    "pvp",
+    "esports"
+  ],
   "theme": {
     "primary": "#1a1c2e",
     "secondary": "#2d2438",
@@ -95,6 +112,14 @@
       "descriptionEs": "Simulación de combat para optimizar gear, talents, trinkets y tier sets via Monte Carlo.",
       "descriptionEn": "Combat simulation to optimize gear, talents, trinkets, and tier sets via Monte Carlo.",
       "icon": "⚙️"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial, subreddit y hubs de discusión de la comunidad",
+      "descriptionEn": "Official Discord, subreddit, and community discussion hubs",
+      "icon": "💬"
     }
   ],
   "resourceCategories": [

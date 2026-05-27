@@ -1,0 +1,42 @@
+{
+  "id": "wow-discord",
+  "name": "World of Warcraft Community Discord",
+  "shortName": "Discord World of Warcraft",
+  "taglineEs": "Discord principal de la comunidad de World of Warcraft para discusión, LFG y soporte entre jugadores",
+  "taglineEn": "Main community Discord for World of Warcraft covering discussion, LFG, and peer support",
+  "url": "https://discord.com/invite/wow",
+  "category": "community",
+  "type": "discord",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web",
+    "windows",
+    "macos",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "discord",
+    "community",
+    "lfg",
+    "discussion"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "wow-subreddit"
+  ],
+  "alternatives": [
+    "wow-subreddit"
+  ]
+}

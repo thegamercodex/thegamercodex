@@ -1,0 +1,42 @@
+{
+  "id": "cs2-discord",
+  "name": "Counter-Strike 2 Community Discord",
+  "shortName": "Discord Counter-Strike 2",
+  "taglineEs": "Discord principal de la comunidad de Counter-Strike 2 para discusión, LFG y soporte entre jugadores",
+  "taglineEn": "Main community Discord for Counter-Strike 2 covering discussion, LFG, and peer support",
+  "url": "https://discord.com/invite/cs2",
+  "category": "community",
+  "type": "discord",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web",
+    "windows",
+    "macos",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "discord",
+    "community",
+    "lfg",
+    "discussion"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "cs2-subreddit"
+  ],
+  "alternatives": [
+    "cs2-subreddit"
+  ]
+}

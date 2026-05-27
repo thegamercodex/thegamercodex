@@ -31,13 +31,28 @@
   "monetization": {
     "model": "free-to-play",
     "hasInGamePurchases": true,
-    "purchaseTypes": ["expansions", "season-pass", "cosmetic", "dungeon-keys", "silver-currency"],
+    "purchaseTypes": [
+      "expansions",
+      "season-pass",
+      "cosmetic",
+      "dungeon-keys",
+      "silver-currency"
+    ],
     "payToWin": false,
     "noteEs": "Free-to-play desde 2019 con New Light: el core game es gratis pero las expansiones, episodios y dungeon keys se compran aparte. Las microtransacciones son cosméticas (Eververse) o quality-of-life (silver para seasonal pass tiers). Sin ventaja de poder comprable, pero el contenido endgame relevante vive detrás del paywall de la expansión vigente.",
     "noteEn": "Free-to-play since 2019 with New Light: the core game is free but expansions, episodes and dungeon keys are sold separately. Microtransactions are cosmetic (Eververse) or quality-of-life (silver for seasonal pass tiers). No buyable power advantage, but relevant endgame content sits behind the current expansion's paywall."
   },
-  "platforms": ["windows", "playstation", "xbox"],
-  "genres": ["looter-shooter", "mmo", "fps", "online"],
+  "platforms": [
+    "windows",
+    "playstation",
+    "xbox"
+  ],
+  "genres": [
+    "looter-shooter",
+    "mmo",
+    "fps",
+    "online"
+  ],
   "theme": {
     "primary": "#c9a961",
     "secondary": "#131927",
@@ -95,6 +110,14 @@
       "descriptionEs": "Bases de datos de lore, cards, transcripciones y archivos del universo",
       "descriptionEn": "Lore databases, cards, transcripts, and universe archives",
       "icon": "📖"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial, subreddit y hubs de discusión de la comunidad",
+      "descriptionEn": "Official Discord, subreddit, and community discussion hubs",
+      "icon": "💬"
     }
   ],
   "resourceCategories": [

@@ -1,0 +1,42 @@
+{
+  "id": "valorant-discord",
+  "name": "Valorant Community Discord",
+  "shortName": "Discord Valorant",
+  "taglineEs": "Discord principal de la comunidad de Valorant para discusión, LFG y soporte entre jugadores",
+  "taglineEn": "Main community Discord for Valorant covering discussion, LFG, and peer support",
+  "url": "https://discord.com/invite/valorant",
+  "category": "community",
+  "type": "discord",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web",
+    "windows",
+    "macos",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "discord",
+    "community",
+    "lfg",
+    "discussion"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "valorant-subreddit"
+  ],
+  "alternatives": [
+    "valorant-subreddit"
+  ]
+}

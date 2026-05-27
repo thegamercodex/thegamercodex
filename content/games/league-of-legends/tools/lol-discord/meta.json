@@ -1,0 +1,42 @@
+{
+  "id": "lol-discord",
+  "name": "League of Legends Community Discord",
+  "shortName": "Discord League of Legends",
+  "taglineEs": "Discord principal de la comunidad de League of Legends para discusión, LFG y soporte entre jugadores",
+  "taglineEn": "Main community Discord for League of Legends covering discussion, LFG, and peer support",
+  "url": "https://discord.com/invite/leagueoflegends",
+  "category": "community",
+  "type": "discord",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web",
+    "windows",
+    "macos",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "discord",
+    "community",
+    "lfg",
+    "discussion"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "lol-subreddit"
+  ],
+  "alternatives": [
+    "lol-subreddit"
+  ]
+}
