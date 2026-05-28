@@ -41,14 +41,14 @@ export function GameCard({ game, locale }: GameCardProps) {
   const monStyle = monetizationToken[model];
 
   return (
-    <div className="relative">
+    <div className="relative h-full">
       <FavoriteButton
         entry={{ type: "game", id: game.id }}
         className="absolute left-2 top-2 z-10"
       />
     <Link
       href={`/${game.id}`}
-      className="group relative flex flex-col overflow-hidden rounded-xl border border-border bg-muted/40 transition-all duration-200 hover:-translate-y-0.5 hover:border-accent/60 hover:shadow-[0_0_0_1px_var(--color-accent)]"
+      className="group relative flex h-full flex-col overflow-hidden rounded-xl border border-border bg-muted/40 transition-all duration-200 hover:-translate-y-0.5 hover:border-accent/60 hover:shadow-[0_0_0_1px_var(--color-accent)]"
     >
       <div
         className="relative aspect-[21/9] overflow-hidden"
