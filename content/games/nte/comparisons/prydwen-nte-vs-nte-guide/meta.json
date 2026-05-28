@@ -1,0 +1,46 @@
+{
+  "id": "prydwen-nte-vs-nte-guide",
+  "toolIds": ["prydwen-nte", "nte-guide"],
+  "category": "character-builds",
+  "depth": "flagship",
+  "lastVerified": "2026-05-27",
+  "verdictEs": "Prydwen Institute para densidad editorial y tier list con justificaciones extensas. NTE Guide para calculadoras nativas (DPS, build, mapa) y cobertura nativa en español.",
+  "verdictEn": "Prydwen Institute for editorial density and tier list with extensive justifications. NTE Guide for native calculators (DPS, build, map) and native Spanish coverage.",
+  "useCases": [
+    {
+      "labelEs": "Decidir si vale la pena pullar al personaje del banner actual",
+      "labelEn": "Deciding whether to pull on the current banner character",
+      "winner": "prydwen-nte",
+      "reasonEs": "La ficha editorial de Prydwen entra en detalle sobre qué hace al personaje único, su rol en el meta y cuándo conviene priorizar; NTE Guide tiende a quedarse en tier sin tanto contexto narrativo.",
+      "reasonEn": "Prydwen's editorial page goes deep on what makes the character unique, their meta role, and when to prioritize; NTE Guide tends to stop at tier without as much narrative context."
+    },
+    {
+      "labelEs": "Calcular DPS de dos builds antes de farmear materiales",
+      "labelEn": "Calculating DPS for two builds before farming materials",
+      "winner": "nte-guide",
+      "reasonEs": "NTE Guide tiene calculadora DPS nativa que computa daño por skill y rotación. Prydwen no ofrece esto — es editorial, no tool.",
+      "reasonEn": "NTE Guide has a native DPS calculator that computes damage per skill and rotation. Prydwen doesn't offer this — it's editorial, not a tool."
+    },
+    {
+      "labelEs": "Leer contenido en español sin pasar por traductor",
+      "labelEn": "Reading content in Spanish without using a translator",
+      "winner": "nte-guide",
+      "reasonEs": "NTE Guide tiene versión en español aunque irregular en secciones nuevas. Prydwen es solo en inglés sin localización.",
+      "reasonEn": "NTE Guide has a Spanish version, even if patchy in newer sections. Prydwen is English only with no localization."
+    },
+    {
+      "labelEs": "Entender por qué un personaje subió o bajó de tier entre parches",
+      "labelEn": "Understanding why a character moved up or down the tier list between patches",
+      "winner": "prydwen-nte",
+      "reasonEs": "Cada cambio de tier en Prydwen viene con justificación editorial. NTE Guide actualiza tiers pero no siempre explica el razonamiento.",
+      "reasonEn": "Each tier change in Prydwen comes with editorial justification. NTE Guide updates tiers but doesn't always explain the reasoning."
+    },
+    {
+      "labelEs": "Encontrar chests y collectibles específicos en Hethereau",
+      "labelEn": "Finding specific chests and collectibles in Hethereau",
+      "winner": "nte-guide",
+      "reasonEs": "NTE Guide tiene mapa interactivo nativo con markers. Prydwen no incluye mapa entre sus features — esa función no está en su scope.",
+      "reasonEn": "NTE Guide has a native interactive map with markers. Prydwen doesn't include a map among its features — that function isn't in its scope."
+    }
+  ]
+}

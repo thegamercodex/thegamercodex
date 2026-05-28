@@ -1,0 +1,40 @@
+{
+  "id": "gamewith-nte",
+  "name": "GameWith NTE",
+  "shortName": "GameWith",
+  "taglineEs": "Wiki estilo japonés con tier list, banner schedule y guías densas de NTE traducidas desde el meta JP",
+  "taglineEn": "Japanese-style wiki with tier list, banner schedule, and dense NTE guides translated from the JP meta",
+  "url": "https://gamewith.net/nte/",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en", "ja"],
+  "tags": [
+    "wiki",
+    "tier-list",
+    "banner-schedule",
+    "japanese-perspective",
+    "guides"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/nte/gamewith-nte-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["game8-nte", "prydwen-nte"],
+  "alternatives": ["game8-nte", "prydwen-nte"],
+  "createdBy": {
+    "name": "GameWith Team",
+    "url": "https://gamewith.net/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "genshin-impact", "url": "https://gamewith.net/genshin-impact/" }
+    ]
+  }
+}

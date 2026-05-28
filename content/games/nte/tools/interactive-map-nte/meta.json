@@ -1,0 +1,42 @@
+{
+  "id": "interactive-map-nte",
+  "name": "Interactive Map App (NTE)",
+  "shortName": "Interactive Map",
+  "taglineEs": "Mapa interactivo de Hethereau con 4000+ markers, soporte multi-idioma y filtros granulares",
+  "taglineEn": "Hethereau interactive map with 4,000+ markers, multi-language support, and granular filters",
+  "url": "https://interactivemap.app/neverness-to-everness/maps/",
+  "category": "exploration-maps",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en", "es", "ja", "ko", "zh-cn", "zh-tw"],
+  "tags": [
+    "interactive-map",
+    "chests",
+    "collectibles",
+    "world-bosses",
+    "multi-language",
+    "mobile-friendly"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/nte/interactive-map-nte-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nte-guide", "zero-luck-nte"],
+  "alternatives": ["zero-luck-nte", "nte-guide"],
+  "createdBy": {
+    "name": "Interactive Map App",
+    "url": "https://interactivemap.app/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "genshin-impact", "url": "https://interactivemap.app/genshin-impact/maps/" },
+      { "gameId": "honkai-star-rail", "url": "https://interactivemap.app/honkai-star-rail/maps/" }
+    ]
+  }
+}

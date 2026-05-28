@@ -1,0 +1,42 @@
+{
+  "id": "prydwen-nte",
+  "name": "Prydwen Institute",
+  "shortName": "Prydwen",
+  "taglineEs": "Tier list, builds y guías de personaje con editorial denso del equipo de Prydwen Institute",
+  "taglineEn": "Tier list, builds, and character guides with dense editorial from Prydwen Institute",
+  "url": "https://www.prydwen.gg/neverness-to-everness/",
+  "category": "character-builds",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "tier-list",
+    "character-builds",
+    "team-builder",
+    "guides",
+    "editorial",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/nte/prydwen-nte-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nte-guide", "zero-luck-nte", "game8-nte"],
+  "alternatives": ["nte-guide", "game8-nte"],
+  "createdBy": {
+    "name": "Prydwen Institute Team",
+    "url": "https://www.prydwen.gg/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "honkai-star-rail", "url": "https://www.prydwen.gg/star-rail/" },
+      { "gameId": "genshin-impact", "url": "https://www.prydwen.gg/genshin/" }
+    ]
+  }
+}

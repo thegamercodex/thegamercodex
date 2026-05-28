@@ -1,0 +1,41 @@
+{
+  "id": "ffxiv-subreddit",
+  "name": "r/ffxiv",
+  "shortName": "r/ffxiv",
+  "taglineEs": "Subreddit principal de Final Fantasy XIV: discusión de versión, reacciones a patches, debates de meta, fan art y critique de la comunidad",
+  "taglineEn": "Main Final Fantasy XIV subreddit: version discussion, patch reactions, meta debates, fan art, and community critique",
+  "url": "https://www.reddit.com/r/ffxiv/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "reddit",
+    "community",
+    "discussion",
+    "meta-debates"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "ffxiv-discord"
+  ],
+  "alternatives": [
+    "ffxiv-discord"
+  ],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/ffxiv/about"
+  }
+}

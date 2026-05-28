@@ -1,0 +1,46 @@
+{
+  "id": "zero-luck-nte-vs-nte-guide",
+  "toolIds": ["zero-luck-nte", "nte-guide"],
+  "category": "character-builds",
+  "depth": "short",
+  "lastVerified": "2026-05-27",
+  "verdictEs": "Zero Luck para features comunitarias (build sharing, leaderboards, farming routes) y mapa con 2.968 markers. NTE Guide para localización al español y calculadora DPS más madura.",
+  "verdictEn": "Zero Luck for community features (build sharing, leaderboards, farming routes) and a 2,968-marker map. NTE Guide for Spanish localization and a more mature DPS calculator.",
+  "useCases": [
+    {
+      "labelEs": "Compartir tu propia build con la comunidad",
+      "labelEn": "Sharing your own build with the community",
+      "winner": "zero-luck-nte",
+      "reasonEs": "Zero Luck tiene sistema nativo de build sharing con voting y comentarios. NTE Guide no incluye features comunitarias de este tipo.",
+      "reasonEn": "Zero Luck has a native build-sharing system with voting and comments. NTE Guide doesn't include community features of this kind."
+    },
+    {
+      "labelEs": "Leer el sitio en español",
+      "labelEn": "Reading the site in Spanish",
+      "winner": "nte-guide",
+      "reasonEs": "NTE Guide tiene versión en español aunque irregular. Zero Luck es solo en inglés.",
+      "reasonEn": "NTE Guide has a Spanish version, even if patchy. Zero Luck is English only."
+    },
+    {
+      "labelEs": "Encontrar rutas de farmeo optimizadas",
+      "labelEn": "Finding optimized farming routes",
+      "winner": "zero-luck-nte",
+      "reasonEs": "Zero Luck tiene sección dedicada a farming routes con submissions de la comunidad. NTE Guide tiene mapa pero no rutas curadas.",
+      "reasonEn": "Zero Luck has a dedicated farming-routes section with community submissions. NTE Guide has a map but not curated routes."
+    },
+    {
+      "labelEs": "Simular pulls de gacha con rates oficiales",
+      "labelEn": "Simulating gacha pulls with official rates",
+      "winner": "zero-luck-nte",
+      "reasonEs": "Zero Luck tiene gacha simulator nativo modelando pity. NTE Guide no incluye simulador.",
+      "reasonEn": "Zero Luck has a native gacha simulator modeling pity. NTE Guide doesn't include a simulator."
+    },
+    {
+      "labelEs": "Comparar el DPS de dos builds antes de decidir cuál farmear",
+      "labelEn": "Comparing DPS for two builds before deciding which to farm",
+      "winner": "nte-guide",
+      "reasonEs": "La DPS calculator de NTE Guide es más madura, con desgloses por skill y rotación. Zero Luck tiene Build Calculator más enfocado a stats agregados.",
+      "reasonEn": "NTE Guide's DPS calculator is more mature, with per-skill and rotation breakdowns. Zero Luck's Build Calculator is more focused on aggregate stats."
+    }
+  ]
+}

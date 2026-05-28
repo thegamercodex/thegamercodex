@@ -28,12 +28,29 @@
     }
   ],
   "priceTracker": "https://isthereanydeal.com/game/honkai-star-rail/",
-  "platforms": ["windows", "macos", "playstation", "ios", "android"],
-  "genres": ["turn-based-rpg", "gacha", "free-to-play", "sci-fi"],
+  "platforms": [
+    "windows",
+    "macos",
+    "playstation",
+    "ios",
+    "android"
+  ],
+  "genres": [
+    "turn-based-rpg",
+    "gacha",
+    "free-to-play",
+    "sci-fi"
+  ],
   "monetization": {
     "model": "free-to-play",
     "hasInGamePurchases": true,
-    "purchaseTypes": ["loot-boxes", "battle-pass", "cosmetic", "pay-to-skip", "currency"],
+    "purchaseTypes": [
+      "loot-boxes",
+      "battle-pass",
+      "cosmetic",
+      "pay-to-skip",
+      "currency"
+    ],
     "payToWin": false,
     "noteEs": "Sistema gacha con personajes y light cones obtenibles por warps usando stellar jades. El juego es full single-player con endgame rotativo (Memory of Chaos, Pure Fiction, Apocalyptic Shadow), completable como F2P pero obtener personajes 5-estrellas específicos puede requerir gasto significativo. Las microtransacciones incluyen battle pass, supply pass mensual y bundles de currency.",
     "noteEn": "Gacha system with characters and light cones obtained via warps using stellar jades. The game is fully single-player with rotating endgame modes (Memory of Chaos, Pure Fiction, Apocalyptic Shadow), completable as F2P but obtaining specific 5-star characters can require significant spending. Microtransactions include battle pass, monthly supply pass, and currency bundles."
@@ -119,6 +136,14 @@
       "descriptionEs": "Companion oficial, daily check-in y servicios de cuenta",
       "descriptionEn": "Official companion, daily check-in, and account services",
       "icon": "🎁"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial, subreddit y hubs de discusión de la comunidad",
+      "descriptionEn": "Official Discord, subreddit, and community discussion hubs",
+      "icon": "💬"
     }
   ],
   "resourceCategories": [

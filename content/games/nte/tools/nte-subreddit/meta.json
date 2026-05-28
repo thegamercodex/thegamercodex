@@ -1,0 +1,34 @@
+{
+  "id": "nte-subreddit",
+  "name": "r/NevernessToEverness",
+  "shortName": "Subreddit",
+  "taglineEs": "Subreddit principal de NTE: discusión de versión, reacciones a banners, debates de meta, fan art y el pulso diario de la comunidad",
+  "taglineEn": "Main NTE subreddit: version discussion, banner reactions, meta debates, fan art, and the daily community pulse",
+  "url": "https://www.reddit.com/r/NevernessToEverness/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "reddit",
+    "community",
+    "discussion",
+    "fan-art",
+    "meta-debates"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nte-official-discord", "ntegame"],
+  "alternatives": ["nte-official-discord"],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/NevernessToEverness/about"
+  }
+}

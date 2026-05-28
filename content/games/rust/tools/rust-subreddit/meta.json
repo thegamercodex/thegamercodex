@@ -1,0 +1,41 @@
+{
+  "id": "rust-subreddit",
+  "name": "r/playrust",
+  "shortName": "r/playrust",
+  "taglineEs": "Subreddit principal de Rust: discusión de versión, reacciones a patches, debates de meta, fan art y critique de la comunidad",
+  "taglineEn": "Main Rust subreddit: version discussion, patch reactions, meta debates, fan art, and community critique",
+  "url": "https://www.reddit.com/r/playrust/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "reddit",
+    "community",
+    "discussion",
+    "meta-debates"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "rust-discord"
+  ],
+  "alternatives": [
+    "rust-discord"
+  ],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/playrust/about"
+  }
+}

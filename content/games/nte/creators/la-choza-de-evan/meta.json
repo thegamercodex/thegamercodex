@@ -1,0 +1,41 @@
+{
+  "id": "la-choza-de-evan",
+  "name": "La Choza de Evan",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@LaChozadeEvan",
+      "url": "https://www.youtube.com/@LaChozadeEvan",
+      "channelId": "UC4czMEb9O-a57RQAIC8DPFw",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "character-builds",
+    "tier-list-analysis",
+    "head-to-head-comparisons",
+    "spanish-content"
+  ],
+  "games": ["nte"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Creador hispano que cubre NTE junto con Zenless Zone Zero como sus dos juegos principales. Su sello editorial son las comparativas head-to-head entre personajes (Hotori vs Lacrimosa, Hotori vs Nanally) que ayudan a decidir gasto de currency cuando dos banners compiten. Los builds van directo al punto: stats objetivo, Arcs, Cartridges, team comps. Para audiencia hispana que quiere análisis comparativo concreto antes de cada banner, La Choza de Evan funciona bien.",
+  "noteEn": "Spanish-speaking creator covering NTE alongside Zenless Zone Zero as his two main games. His editorial signature is head-to-head comparisons between characters (Hotori vs Lacrimosa, Hotori vs Nanally) that help decide currency spending when two banners compete. Builds go straight to the point: target stats, Arcs, Cartridges, team comps. For Spanish-speaking audiences who want concrete comparative analysis before each banner, La Choza de Evan works well.",
+  "highlightsEs": [
+    "Comparativas head-to-head para decidir entre banners en competencia",
+    "Builds concretos con stats objetivo, Arcs y Cartridges claros",
+    "Cobertura dual de NTE y ZZZ con perspectiva cross-game",
+    "Formato directo sin filler para audiencia que quiere respuestas rápidas"
+  ],
+  "highlightsEn": [
+    "Head-to-head comparisons for deciding between competing banners",
+    "Concrete builds with clear target stats, Arcs, and Cartridges",
+    "Dual NTE and ZZZ coverage with cross-game perspective",
+    "Direct format without filler for audiences who want fast answers"
+  ],
+  "avatar": "/images/creators/la-choza-de-evan-avatar.jpg",
+  "banner": "/images/creators/la-choza-de-evan-banner.jpg"
+}

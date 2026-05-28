@@ -1,0 +1,37 @@
+{
+  "id": "destiny2-subreddit",
+  "name": "r/DestinyTheGame",
+  "shortName": "r/DestinyTheGame",
+  "taglineEs": "Subreddit principal de Destiny 2: discusión de versión, reacciones a patches, debates de meta, fan art y critique de la comunidad",
+  "taglineEn": "Main Destiny 2 subreddit: version discussion, patch reactions, meta debates, fan art, and community critique",
+  "url": "https://www.reddit.com/r/DestinyTheGame/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "reddit",
+    "community",
+    "discussion",
+    "meta-debates"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/DestinyTheGame/about"
+  }
+}

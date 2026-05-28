@@ -1,0 +1,35 @@
+{
+  "id": "nte-guide",
+  "name": "NTE Guide",
+  "shortName": "NTE Guide",
+  "taglineEs": "Wiki dedicado a NTE con tier list, mapa interactivo, build calculator y calculadora de DPS",
+  "taglineEn": "NTE-dedicated wiki with tier list, interactive map, build calculator, and DPS calculator",
+  "url": "https://nteguide.com/en/",
+  "category": "character-builds",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en", "es"],
+  "tags": [
+    "wiki",
+    "tier-list",
+    "dps-calculator",
+    "build-calculator",
+    "interactive-map",
+    "multi-language"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/nte/nte-guide-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["zero-luck-nte", "prydwen-nte", "nte-wiki-tools"],
+  "alternatives": ["zero-luck-nte", "neverness-nav"],
+  "createdBy": {
+    "name": "NTE Guide Team",
+    "url": "https://nteguide.com/"
+  }
+}

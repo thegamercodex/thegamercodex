@@ -1,0 +1,29 @@
+{
+  "id": "ntegame",
+  "name": "NTEGame",
+  "shortName": "NTEGame",
+  "taglineEs": "Community hub con character database, arcs, community builds y discusión curada de NTE",
+  "taglineEn": "Community hub with character database, arcs, community builds, and curated NTE discussion",
+  "url": "https://www.ntegame.com/",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "community-builds",
+    "character-database",
+    "arcs-database",
+    "community-hub"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/nte/ntegame-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["zero-luck-nte", "nte-fandom-wiki"],
+  "alternatives": ["zero-luck-nte", "nte-fandom-wiki"]
+}

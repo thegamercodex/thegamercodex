@@ -1,0 +1,42 @@
+{
+  "id": "dota2-discord",
+  "name": "Dota 2 Community Discord",
+  "shortName": "Discord Dota 2",
+  "taglineEs": "Discord principal de la comunidad de Dota 2 para discusión, LFG y soporte entre jugadores",
+  "taglineEn": "Main community Discord for Dota 2 covering discussion, LFG, and peer support",
+  "url": "https://discord.com/invite/dota2",
+  "category": "community",
+  "type": "discord",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web",
+    "windows",
+    "macos",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "discord",
+    "community",
+    "lfg",
+    "discussion"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "dota2-subreddit"
+  ],
+  "alternatives": [
+    "dota2-subreddit"
+  ]
+}

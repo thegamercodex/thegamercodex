@@ -16,13 +16,27 @@
   "monetization": {
     "model": "free-to-play",
     "hasInGamePurchases": true,
-    "purchaseTypes": ["cosmetics", "battle-pass", "subscription", "loot-boxes"],
+    "purchaseTypes": [
+      "cosmetics",
+      "battle-pass",
+      "subscription",
+      "loot-boxes"
+    ],
     "payToWin": false,
     "noteEs": "Free-to-play estricto: todos los héroes están desbloqueados desde el día uno, sin currency in-game para comprarlos ni gating de gameplay. La monetización es 100% cosmética (sets de items, terrenos, anuncios, paquetes de voz) y la suscripción opcional Dota Plus, que aporta stats personales, sugerencias en partida y skins exclusivas pero no afecta el balance. The International se financió históricamente por el Battle Pass (Compendium) cuyas recompensas también son cosméticas. No hay forma legítima de pagar para ganar.",
     "noteEn": "Strict free-to-play: every hero is unlocked from day one, with no in-game currency to purchase them and no gameplay gating. Monetization is 100% cosmetic (item sets, terrains, announcers, voice packs) plus the optional Dota Plus subscription, which adds personal stats, in-game suggestions, and exclusive cosmetics but does not affect balance. The International was historically funded through the Battle Pass (Compendium), whose rewards are also cosmetic. There is no legitimate way to pay to win."
   },
-  "platforms": ["windows", "macos", "linux"],
-  "genres": ["moba", "team-based", "competitive", "esports"],
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "genres": [
+    "moba",
+    "team-based",
+    "competitive",
+    "esports"
+  ],
   "theme": {
     "primary": "#7a1f1f",
     "secondary": "#1a0d0d",
@@ -104,6 +118,14 @@
       "descriptionEs": "Bases de datos enciclopédicas con héroes, items, mecánicas, lore e historia del juego.",
       "descriptionEn": "Encyclopedic databases with heroes, items, mechanics, lore, and game history.",
       "icon": "📚"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial, subreddit y hubs de discusión de la comunidad",
+      "descriptionEn": "Official Discord, subreddit, and community discussion hubs",
+      "icon": "💬"
     }
   ],
   "resourceCategories": [

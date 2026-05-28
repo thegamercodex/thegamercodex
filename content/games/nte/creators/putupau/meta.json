@@ -1,0 +1,41 @@
+{
+  "id": "putupau",
+  "name": "Putupau",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Putupau",
+      "url": "https://www.youtube.com/@Putupau",
+      "channelId": "UC_1WzLDXc_sZpaPkGrWaoYg",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "gacha-news",
+    "patch-reactions",
+    "multi-gacha-coverage",
+    "spanish-content"
+  ],
+  "games": ["nte", "genshin-impact"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Creador hispano de cobertura amplia gacha (principalmente Genshin Impact con NTE como segundo pilar). Su contenido es news-first: reacciones a patch previews, drama de balance, análisis de meta cross-game. Para NTE específicamente, cubre patch notes (versión 1.1), nuevos personajes y eventos. Útil para audiencia que sigue varios gachas en paralelo y quiere una sola fuente que cubra todos en español.",
+  "noteEn": "Spanish-speaking creator with broad gacha coverage (primarily Genshin Impact with NTE as a second pillar). His content is news-first: reactions to patch previews, balance drama, cross-game meta analysis. For NTE specifically, he covers patch notes (version 1.1), new characters, and events. Useful for audiences following multiple gachas in parallel who want a single source covering all of them in Spanish.",
+  "highlightsEs": [
+    "Cobertura cross-gacha en español con NTE y Genshin como ejes",
+    "Reacciones rápidas a patch previews y anuncios oficiales",
+    "Útil para audiencia multi-game que quiere una sola fuente",
+    "Formato news/reaction con análisis de meta cross-game"
+  ],
+  "highlightsEn": [
+    "Cross-gacha coverage in Spanish with NTE and Genshin as pillars",
+    "Quick reactions to patch previews and official announcements",
+    "Useful for multi-game audiences who want a single source",
+    "News/reaction format with cross-game meta analysis"
+  ],
+  "avatar": "/images/creators/putupau-avatar.jpg",
+  "banner": "/images/creators/putupau-banner.jpg"
+}

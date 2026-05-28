@@ -1,0 +1,80 @@
+{
+  "category": "patch-coverage",
+  "resources": [
+    {
+      "id": "nonpon-nte-1-1-update-insane-2026",
+      "type": "video",
+      "title": "I WASNT EXPECTING ANY OF THIS! NTE 1.1 UPDATE IS INSANE!",
+      "creator": "Nonpon",
+      "creatorId": "nonpon",
+      "url": "https://www.youtube.com/watch?v=e23g1Y7HT8w",
+      "youtubeId": "e23g1Y7HT8w",
+      "language": "en",
+      "duration": "34:44",
+      "publishedDate": "2026-05-23",
+      "thumbnail": "https://i.ytimg.com/vi/e23g1Y7HT8w/maxresdefault.jpg",
+      "noteEs": "Reacción completa de 35 minutos al preview de NTE 1.1, cubriendo nuevos personajes, sistemas y cambios de balance.",
+      "noteEn": "Full 35-minute reaction to the NTE 1.1 preview, covering new characters, systems, and balance changes."
+    },
+    {
+      "id": "trickduck-todo-nte-1-1-2026",
+      "type": "video",
+      "title": "TODO lo que llega en NTE 1.1 - Nuevos personajes, autos y MÁS",
+      "creator": "TrickDuck",
+      "creatorId": "trickduck",
+      "url": "https://www.youtube.com/watch?v=WxmuPZvWx1I",
+      "youtubeId": "WxmuPZvWx1I",
+      "language": "es",
+      "duration": "0:45",
+      "publishedDate": "2026-05-23",
+      "thumbnail": "https://i.ytimg.com/vi/WxmuPZvWx1I/maxresdefault.jpg",
+      "noteEs": "Resumen rápido de 45 segundos con todo lo confirmado para NTE 1.1: personajes, autos y nuevas mecánicas.",
+      "noteEn": "Quick 45-second summary covering everything confirmed for NTE 1.1: characters, cars, and new mechanics. Spanish narration."
+    },
+    {
+      "id": "trickduck-reaccionando-nte-1-1-2026",
+      "type": "video",
+      "title": "REACCIONANDO a TODO lo NUEVO de NTE 1.1 - Lacrimosa, Caos, Nuevos Autos y MÁS",
+      "creator": "TrickDuck",
+      "creatorId": "trickduck",
+      "url": "https://www.youtube.com/watch?v=eWHICAcapCI",
+      "youtubeId": "eWHICAcapCI",
+      "language": "es",
+      "duration": "23:36",
+      "publishedDate": "2026-05-23",
+      "thumbnail": "https://i.ytimg.com/vi/eWHICAcapCI/maxresdefault.jpg",
+      "noteEs": "Reacción extendida (24 min) al patch preview 1.1 con análisis de Lacrimosa, el boss Caos y los nuevos vehículos.",
+      "noteEn": "Extended 24-minute reaction to the 1.1 patch preview, analyzing Lacrimosa, the Chaos boss, and new vehicles. Spanish narration."
+    },
+    {
+      "id": "putupau-nte-1-1-sin-palabras-2026",
+      "type": "video",
+      "title": "LA 1.1 DE NTE ME DEJÓ SIN PALABRAS - CHAOS, LACRIMOSA Y DEMASIADAS NOVEDADES",
+      "creator": "Putupau",
+      "creatorId": "putupau",
+      "url": "https://www.youtube.com/watch?v=V3b6Bz0HUzU",
+      "youtubeId": "V3b6Bz0HUzU",
+      "language": "es",
+      "duration": "28:41",
+      "publishedDate": "2026-05-26",
+      "thumbnail": "https://i.ytimg.com/vi/V3b6Bz0HUzU/maxresdefault.jpg",
+      "noteEs": "Análisis denso (28 min) del impacto de NTE 1.1 con perspectiva multi-gacha: qué cambia el meta y cómo afecta el roadmap.",
+      "noteEn": "Dense 28-minute analysis of NTE 1.1's impact from a multi-gacha perspective: what shifts the meta and how it affects the roadmap. Spanish narration."
+    },
+    {
+      "id": "trickduck-lacrimosa-pv-china-nte-2026",
+      "type": "video",
+      "title": "¡NUEVO EN CHINA! YA SALIÓ EL PV DE LACRIMOSA - NTE Neverness to Everness",
+      "creator": "TrickDuck",
+      "creatorId": "trickduck",
+      "url": "https://www.youtube.com/watch?v=xjoMytnDT78",
+      "youtubeId": "xjoMytnDT78",
+      "language": "es",
+      "duration": "4:52",
+      "publishedDate": "2026-05-25",
+      "thumbnail": "https://i.ytimg.com/vi/xjoMytnDT78/maxresdefault.jpg",
+      "noteEs": "Análisis rápido del Personal Video de Lacrimosa publicado en versión CN, anticipando el global launch de la personaje en 1.1.",
+      "noteEn": "Quick analysis of Lacrimosa's PV released on the CN version, previewing her global launch in 1.1. Spanish narration."
+    }
+  ]
+}

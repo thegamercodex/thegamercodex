@@ -1,0 +1,46 @@
+{
+  "id": "game8-nte-vs-gamewith-nte",
+  "toolIds": ["game8-nte", "gamewith-nte"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-05-27",
+  "verdictEs": "Game8 para audiencia global con localización a 6 idiomas. GameWith para tracking del meta japonés y banner schedule adelantado desde la versión JP.",
+  "verdictEn": "Game8 for global audiences with 6-language localization. GameWith for tracking the Japanese meta and advance banner schedule from the JP version.",
+  "useCases": [
+    {
+      "labelEs": "Leer guías en español, japonés, coreano o chino",
+      "labelEn": "Reading guides in Spanish, Japanese, Korean, or Chinese",
+      "winner": "game8-nte",
+      "reasonEs": "Game8 soporta inglés, español, japonés, coreano y dos variantes de chino. GameWith principalmente solo japonés e inglés.",
+      "reasonEn": "Game8 supports English, Spanish, Japanese, Korean, and two Chinese variants. GameWith mainly Japanese and English only."
+    },
+    {
+      "labelEs": "Ver qué banners vienen confirmados meses adelante",
+      "labelEn": "Seeing which banners are confirmed months ahead",
+      "winner": "gamewith-nte",
+      "reasonEs": "GameWith publica el banner schedule en versión JP, típicamente 1-2 versiones adelante del global. Game8 cubre el schedule global pero menos adelantado.",
+      "reasonEn": "GameWith publishes the banner schedule in the JP version, typically 1-2 versions ahead of global. Game8 covers the global schedule but less far ahead."
+    },
+    {
+      "labelEs": "Onboarding rápido para un jugador nuevo en NTE",
+      "labelEn": "Quick onboarding for a new NTE player",
+      "winner": "game8-nte",
+      "reasonEs": "Game8 tiene formato checklist más accesible y TL;DRs por sección. GameWith es denso y mantiene estructura de wiki tradicional menos amigable.",
+      "reasonEn": "Game8 has a more accessible checklist format and per-section TL;DRs. GameWith is denser and keeps a traditional wiki structure that's less friendly."
+    },
+    {
+      "labelEs": "Entender por qué el meta JP difiere del global",
+      "labelEn": "Understanding why the JP meta differs from global",
+      "winner": "gamewith-nte",
+      "reasonEs": "GameWith publica directamente desde Japón con perspectiva del meta JP. Game8 puede mostrar el contraste pero su tier list refleja meta global.",
+      "reasonEn": "GameWith publishes directly from Japan with JP meta perspective. Game8 can show the contrast but its tier list reflects the global meta."
+    },
+    {
+      "labelEs": "Ver guías de eventos activos con paso a paso",
+      "labelEn": "Reading active-event guides with step-by-step format",
+      "winner": "game8-nte",
+      "reasonEs": "Game8 estructura guías de evento en formato lineal con bullets numerados. GameWith las cubre pero con UI más densa y menos lineal.",
+      "reasonEn": "Game8 structures event guides in linear format with numbered bullets. GameWith covers them but with denser, less linear UI."
+    }
+  ]
+}

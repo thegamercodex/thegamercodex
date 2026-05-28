@@ -25,13 +25,28 @@
   "monetization": {
     "model": "free-to-play",
     "hasInGamePurchases": true,
-    "purchaseTypes": ["cosmetic", "battle-pass", "weapon-skins", "agent-contracts", "knife-skins"],
+    "purchaseTypes": [
+      "cosmetic",
+      "battle-pass",
+      "weapon-skins",
+      "agent-contracts",
+      "knife-skins"
+    ],
     "payToWin": false,
     "noteEs": "Free-to-play desde el lanzamiento. Las microtransacciones son cosméticas (skins de armas, knives, buddies, sprays) más el battle pass premium estacional. Los agents nuevos se desbloquean gratis con tiempo o aceleradamente con XP. Sin ventaja competitiva comprable — la skin más cara y la pistola default disparan idéntico.",
     "noteEn": "Free-to-play since launch. Microtransactions are cosmetic only (weapon skins, knives, buddies, sprays) plus the seasonal premium battle pass. New agents unlock for free over time or faster with XP. No buyable competitive advantage — the most expensive skin and the default pistol shoot identically."
   },
-  "platforms": ["windows", "playstation", "xbox"],
-  "genres": ["fps", "tactical-shooter", "online", "team-based"],
+  "platforms": [
+    "windows",
+    "playstation",
+    "xbox"
+  ],
+  "genres": [
+    "fps",
+    "tactical-shooter",
+    "online",
+    "team-based"
+  ],
   "theme": {
     "primary": "#ff4655",
     "secondary": "#1f2733",
@@ -97,6 +112,14 @@
       "descriptionEs": "Tracking de tienda diaria, night markets, y catálogo de skins",
       "descriptionEn": "Daily store tracking, night markets, and skin catalog",
       "icon": "🔫"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial, subreddit y hubs de discusión de la comunidad",
+      "descriptionEn": "Official Discord, subreddit, and community discussion hubs",
+      "icon": "💬"
     }
   ],
   "resourceCategories": [

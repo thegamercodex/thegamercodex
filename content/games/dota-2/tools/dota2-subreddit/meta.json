@@ -1,0 +1,41 @@
+{
+  "id": "dota2-subreddit",
+  "name": "r/DotA2",
+  "shortName": "r/DotA2",
+  "taglineEs": "Subreddit principal de Dota 2: discusión de versión, reacciones a patches, debates de meta, fan art y critique de la comunidad",
+  "taglineEn": "Main Dota 2 subreddit: version discussion, patch reactions, meta debates, fan art, and community critique",
+  "url": "https://www.reddit.com/r/DotA2/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "reddit",
+    "community",
+    "discussion",
+    "meta-debates"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "dota2-discord"
+  ],
+  "alternatives": [
+    "dota2-discord"
+  ],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/DotA2/about"
+  }
+}

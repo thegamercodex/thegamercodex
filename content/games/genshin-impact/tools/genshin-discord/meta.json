@@ -1,0 +1,43 @@
+{
+  "id": "genshin-discord",
+  "name": "Genshin Impact Official Discord",
+  "shortName": "Discord Genshin Impact",
+  "taglineEs": "Discord oficial de Genshin Impact con anuncios first-party, community managers y channels temáticos por idioma",
+  "taglineEn": "Official Genshin Impact Discord with first-party announcements, community managers, and themed channels by language",
+  "url": "https://discord.com/invite/genshinimpact",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web",
+    "windows",
+    "macos",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "discord",
+    "official",
+    "announcements",
+    "community",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "genshin-subreddit"
+  ],
+  "alternatives": [
+    "genshin-subreddit"
+  ]
+}

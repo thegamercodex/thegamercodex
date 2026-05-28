@@ -1,0 +1,80 @@
+{
+  "category": "character-guides",
+  "resources": [
+    {
+      "id": "nonpon-hotori-full-guide-nte-2026",
+      "type": "video",
+      "title": "SHE CHEATS! BEST HOTORI GUIDE! Builds, Modules Weapons, Teams, Skills & More",
+      "creator": "Nonpon",
+      "creatorId": "nonpon",
+      "url": "https://www.youtube.com/watch?v=82n3DpmA0Vo",
+      "youtubeId": "82n3DpmA0Vo",
+      "language": "en",
+      "duration": "8:11",
+      "publishedDate": "2026-05-12",
+      "thumbnail": "https://i.ytimg.com/vi/82n3DpmA0Vo/maxresdefault.jpg",
+      "noteEs": "Build completa de Hotori, una de las SS-Class más fuertes del launch: módulos, armas, skills y team comps en 8 minutos.",
+      "noteEn": "Complete Hotori build, one of the strongest SS-Class units at launch: modules, weapons, skills, and team comps in 8 minutes."
+    },
+    {
+      "id": "nonpon-baicang-full-guide-nte-2026",
+      "type": "video",
+      "title": "BROKEN DPS!! FULL Baicang Guide & Builds! Best Rotations, Gear, & Teams!",
+      "creator": "Nonpon",
+      "creatorId": "nonpon",
+      "url": "https://www.youtube.com/watch?v=iq8FdWKmBuc",
+      "youtubeId": "iq8FdWKmBuc",
+      "language": "en",
+      "duration": "14:45",
+      "publishedDate": "2026-05-19",
+      "thumbnail": "https://i.ytimg.com/vi/iq8FdWKmBuc/maxresdefault.jpg",
+      "noteEs": "Build completa de Baicang con rotaciones de daño detalladas, equipo recomendado y team comps. Una de las DPS más rotas del meta actual.",
+      "noteEn": "Complete Baicang build with detailed damage rotations, recommended gear, and team comps. One of the most broken DPS in the current meta."
+    },
+    {
+      "id": "la-choza-evan-hotori-build-nte-2026",
+      "type": "video",
+      "title": "¿Solo sirve con NANALLY? [Guia y Build Hotori] Neverness to Everness (NTE)",
+      "creator": "La Choza de Evan",
+      "creatorId": "la-choza-de-evan",
+      "url": "https://www.youtube.com/watch?v=-w-xFmeVkxM",
+      "youtubeId": "-w-xFmeVkxM",
+      "language": "es",
+      "duration": "27:07",
+      "publishedDate": "2026-05-12",
+      "thumbnail": "https://i.ytimg.com/vi/-w-xFmeVkxM/maxresdefault.jpg",
+      "noteEs": "Build profunda de Hotori (27 min) explorando si depende de Nanally para funcionar o si tiene flexibilidad en team comp.",
+      "noteEn": "Deep Hotori build (27 min) exploring whether she depends on Nanally to function or has team comp flexibility. Spanish narration."
+    },
+    {
+      "id": "la-choza-evan-nanally-build-nte-2026",
+      "type": "video",
+      "title": "¡Su ARMA es una TRAMPA! [Guia y Build Nanally] Neverness to Everness (NTE)",
+      "creator": "La Choza de Evan",
+      "creatorId": "la-choza-de-evan",
+      "url": "https://www.youtube.com/watch?v=lmhC-wRH7fs",
+      "youtubeId": "lmhC-wRH7fs",
+      "language": "es",
+      "duration": "12:10",
+      "publishedDate": "2026-05-03",
+      "thumbnail": "https://i.ytimg.com/vi/lmhC-wRH7fs/maxresdefault.jpg",
+      "noteEs": "Build de Nanally con advertencia sobre el Arc signature, que el video argumenta no es la mejor opción contra alternativas más accesibles.",
+      "noteEn": "Nanally build with a warning about her signature Arc, which the video argues isn't the best pick against more accessible alternatives. Spanish narration."
+    },
+    {
+      "id": "nonpon-daffodill-full-guide-nte-2026",
+      "type": "video",
+      "title": "SHES INCREDIBLE! FULL Daffodill Guide & Builds! Best Rotations, Gear, & Teams!",
+      "creator": "Nonpon",
+      "creatorId": "nonpon",
+      "url": "https://www.youtube.com/watch?v=ENLQ92IZVpY",
+      "youtubeId": "ENLQ92IZVpY",
+      "language": "en",
+      "duration": "9:45",
+      "publishedDate": "2026-05-17",
+      "thumbnail": "https://i.ytimg.com/vi/ENLQ92IZVpY/maxresdefault.jpg",
+      "noteEs": "Build completa de Daffodill, una de las free characters más valoradas: rotaciones, gear y team comps en 10 minutos.",
+      "noteEn": "Complete Daffodill build, one of the most valued free characters: rotations, gear, and team comps in 10 minutes."
+    }
+  ]
+}

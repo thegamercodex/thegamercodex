@@ -1,0 +1,35 @@
+{
+  "id": "zero-luck-nte",
+  "name": "Zero Luck",
+  "shortName": "Zero Luck",
+  "taglineEs": "Plataforma todo-en-uno con Esper database, tier list, mapa interactivo, gacha simulator y team builder",
+  "taglineEn": "All-in-one platform with Esper database, tier list, interactive map, gacha simulator, and team builder",
+  "url": "https://zeroluck.gg/nte/",
+  "category": "character-builds",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": [
+    "character-database",
+    "tier-list",
+    "interactive-map",
+    "gacha-simulator",
+    "team-builder",
+    "ascension-planner"
+  ],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-27",
+  "logo": "/images/tools/nte/zero-luck-nte-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nte-guide", "prydwen-nte", "nte-wiki-tools"],
+  "alternatives": ["prydwen-nte", "nte-guide"],
+  "createdBy": {
+    "name": "Trakan and Irissia",
+    "url": "https://zeroluck.gg/"
+  }
+}
