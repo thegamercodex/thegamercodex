@@ -215,6 +215,17 @@ Cada tool tiene `es.md` y `en.md` con análisis editorial. Estructura estándar 
 
 **Idiomas**: `es.md` y `en.md` mantienen estructura paralela (mismas secciones, mismo orden). El contenido se traduce, no se calca: cada idioma puede tener idioms y referencias adaptadas.
 
+## Verificación de tools nuevas (VirusTotal)
+
+Antes de agregar una tool al codex, validar la confiabilidad del dominio:
+
+- **Fuentes canónicas** (no requieren chequeo): GitHub oficial del proyecto, sitio oficial del juego/desarrollador, repos de autores reconocidos en la comunidad, tools linkeadas desde subreddit/wiki/Discord oficial del juego, dominios ya presentes en el codex con otras tools (ej: `maxroll.gg`, `mobalytics.gg`, `nexusmods.com`).
+- **Fuentes no canónicas** (requieren chequeo): cualquier dominio desconocido, sitios encontrados via web search sin pedigree claro, tools recomendadas por un solo creator sin presencia en fuentes oficiales.
+
+**Cómo chequear**: abrir `https://www.virustotal.com/gui/domain/<dominio>` y reportar el resultado al usuario antes de crear el `meta.json`. Si VirusTotal flaggea engines como maliciosos/phishing/suspicious, no agregar la tool. Si está limpio, proceder normalmente.
+
+**Razón**: el riesgo principal al curar tools es linkear sitios comprometidos o phishing que clonan tools legítimas (ej: `path0fbuilding.com` vs `pathofbuilding.community`). El daño cae sobre el usuario que hace click desde el codex, no sobre Claude.
+
 ## Tracking de batch tasks (tools/creators/resources en lote)
 
 Cuando hay un batch grande para procesar (ej: 15 tools de un juego nuevo), mantener el progreso en un archivo tracker en `docs/wip/<game>-tool-tracker.md`. Estructura: tabla con status por item (✅ done / 🔧 in-progress / ⏳ pending), notas editoriales descubiertas durante research (ej: "U.GG menciona Riot endorsement"), y dudas pendientes de investigar. Esto deja la sesión retomable desde otra máquina con un `git pull`. NO usar `.tmp/` para tracking — está gitignored y no sincroniza.
