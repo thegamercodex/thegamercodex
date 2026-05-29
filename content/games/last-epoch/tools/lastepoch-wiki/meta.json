@@ -1,0 +1,28 @@
+{
+  "id": "lastepoch-wiki",
+  "name": "Last Epoch Wiki",
+  "shortName": "LE Wiki",
+  "taglineEs": "Wiki comunitaria independiente de Last Epoch (lastepoch.wiki), no afiliada con Eleventh Hour Games. Cobertura amplia de builds, clases, crafting, dungeons, factions y endgame, actualizada al cycle activo y con foco editorial moderno",
+  "taglineEn": "Independent community wiki for Last Epoch (lastepoch.wiki), unaffiliated with Eleventh Hour Games. Broad coverage of builds, classes, crafting, dungeons, factions, and endgame, kept current with the active cycle and a modern editorial focus",
+  "url": "https://www.lastepoch.wiki/",
+  "category": "database",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "guides", "lore", "mechanics", "reference", "non-fandom"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/last-epoch/lastepoch-wiki-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["lastepoch-fandom", "lastepoch-info", "cheatsheet-monster-le"],
+  "alternatives": ["lastepoch-fandom"],
+  "createdBy": {
+    "name": "Last Epoch Wiki community",
+    "url": "https://www.lastepoch.wiki/"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "path-of-building-le",
+  "name": "Path of Building for Last Epoch",
+  "shortName": "PoB for LE",
+  "taglineEs": "Fork open-source de Path of Building adaptado a Last Epoch: simulación profunda de DPS, comparación de stats nodo por nodo, soporte offline y planner web sin instalación en lastepochplanner.com",
+  "taglineEn": "Open-source Path of Building fork adapted for Last Epoch: deep DPS simulation, node-by-node stat comparison, offline support, and a web planner at lastepochplanner.com without installation",
+  "url": "https://lastepochplanner.com/",
+  "category": "build-planning",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Musholic/PathOfBuildingForLastEpoch",
+  "license": "MIT",
+  "platforms": ["windows", "macos", "linux", "web"],
+  "languages": ["en"],
+  "tags": ["planner", "dps-simulator", "open-source", "offline", "theorycraft", "path-of-building-fork"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/last-epoch/path-of-building-le-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["lastepochtools", "maxroll-le"],
+  "alternatives": ["lastepochtools"],
+  "createdBy": {
+    "name": "Musholic",
+    "url": "https://github.com/Musholic"
+  }
+}

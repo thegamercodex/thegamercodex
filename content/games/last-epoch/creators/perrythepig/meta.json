@@ -1,0 +1,49 @@
+{
+  "id": "perrythepig",
+  "name": "Perry the Pig",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2019,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@PerryThePig",
+      "url": "https://www.youtube.com/@PerryThePig",
+      "channelId": "UCF3q65qwiUGra_OzHuEpjsw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "perrythepig",
+      "url": "https://www.twitch.tv/perrythepig"
+    }
+  ],
+  "specialties": [
+    "personality-driven",
+    "approachable-content",
+    "build-experimentation",
+    "casual-friendly"
+  ],
+  "games": ["last-epoch", "path-of-exile-2", "diablo-4"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Perry the Pig es un creator que está ganando momentum en la community LE por su personality engaging y approach accessible. Mientras creators como Lizard o Dr3adful apuntan a min-maxers, Perry hace content que casual y intermedio players entienden sin friction. Cubre LE como parte de un rotation ARPG con foco en aprender mecánicas y experimentar builds.",
+  "noteEn": "Perry the Pig is a creator gaining momentum in the LE community thanks to his engaging personality and approachable style. While creators like Lizard or Dr3adful target min-maxers, Perry makes content casual and intermediate players follow without friction. Covers LE as part of an ARPG rotation with focus on learning mechanics and experimenting with builds.",
+  "highlightsEs": [
+    "Personality engaging que fans destacan vs creators más technical",
+    "Style accessible para casual e intermediate players",
+    "Cobertura LE como parte de rotation multi-ARPG (PoE 2, D4)",
+    "Foco en learning + experimentation, no solo meta",
+    "Cadencia regular durante cycles activos"
+  ],
+  "highlightsEn": [
+    "Engaging personality fans highlight vs more technical creators",
+    "Accessible style for casual and intermediate players",
+    "LE coverage as part of a multi-ARPG rotation (PoE 2, D4)",
+    "Focus on learning + experimentation, not only meta",
+    "Regular cadence during active cycles"
+  ],
+  "avatar": "/images/creators/perrythepig-avatar.jpg",
+  "banner": "/images/creators/perrythepig-banner.jpg"
+}

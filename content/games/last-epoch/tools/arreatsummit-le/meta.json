@@ -1,0 +1,28 @@
+{
+  "id": "arreatsummit-le",
+  "name": "ArreatSummit.gg",
+  "shortName": "ArreatSummit",
+  "taglineEs": "Hub editorial de Last Epoch con endorsement explícito de Eleventh Hour Games: builds curados, planner, price guide en colaboración con The Sanctum Market Discord, database y loot filters",
+  "taglineEn": "Last Epoch editorial hub with explicit Eleventh Hour Games endorsement: curated builds, planner, price guide in collaboration with The Sanctum Market Discord, database, and loot filters",
+  "url": "https://arreatsummit.gg/last-epoch",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["builds", "planner", "price-guide", "database", "ehg-endorsed", "loot-filters"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/last-epoch/arreatsummit-le-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["maxroll-le", "lastepochtools", "sanctum-market-discord"],
+  "alternatives": ["maxroll-le", "lastepochtools"],
+  "createdBy": {
+    "name": "ArreatSummit Team",
+    "url": "https://arreatsummit.gg/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "lastepoch-speedrun",
+  "name": "Last Epoch en speedrun.com",
+  "shortName": "speedrun.com/LE",
+  "taglineEs": "Página oficial de Last Epoch en speedrun.com: leaderboards de Any% Campaign, Any% Mastery, Idols and Passives, Empowered Monolith — plus guides comunitarios y runs verificadas con video proof",
+  "taglineEn": "Last Epoch's official page on speedrun.com: leaderboards for Any% Campaign, Any% Mastery, Idols and Passives, Empowered Monolith — plus community guides and verified runs with video proof",
+  "url": "https://www.speedrun.com/last_epoch",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["speedrun", "leaderboards", "categories", "verified-runs", "community"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/last-epoch/lastepoch-speedrun-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["lastepoch-discord", "lastepoch-subreddit"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "speedrun.com community",
+    "url": "https://www.speedrun.com/last_epoch/about"
+  }
+}

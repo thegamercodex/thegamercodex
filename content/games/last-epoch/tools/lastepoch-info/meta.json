@@ -1,0 +1,28 @@
+{
+  "id": "lastepoch-info",
+  "name": "Last Epoch Info (TunkLab)",
+  "shortName": "LE Info",
+  "taglineEs": "Database alternativa de Last Epoch mantenida por TunkLab: catálogo exhaustivo de items, affixes, uniques, skills y monolith timelines, plus calculators dedicados (defense, ward, damage) que ningún otro hub provee con esa profundidad",
+  "taglineEn": "Alternative Last Epoch database maintained by TunkLab: exhaustive catalog of items, affixes, uniques, skills, and monolith timelines, plus dedicated calculators (defense, ward, damage) no other hub provides at that depth",
+  "url": "https://lastepoch.tunklab.com/",
+  "category": "database",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["database", "calculators", "items", "affixes", "monolith", "skills", "reference"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/last-epoch/lastepoch-info-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["lastepochtools", "lastepoch-wiki", "cheatsheet-monster-le"],
+  "alternatives": ["lastepochtools", "lastepoch-wiki"],
+  "createdBy": {
+    "name": "TunkLab",
+    "url": "https://tunklab.com/"
+  }
+}

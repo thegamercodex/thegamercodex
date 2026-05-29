@@ -1,0 +1,28 @@
+{
+  "id": "lastepoch-discord",
+  "name": "Last Epoch Discord (oficial)",
+  "shortName": "LE Discord",
+  "taglineEs": "Discord oficial de Eleventh Hour Games para Last Epoch: anuncios first-party, Q&A con community managers, channels por clase/mastery, LFG, soporte de bugs y la community hub más grande con 200k+ miembros",
+  "taglineEn": "Eleventh Hour Games' official Last Epoch Discord: first-party announcements, Q&A with community managers, per-class/mastery channels, LFG, bug support, and the largest community hub with 200k+ members",
+  "url": "https://discord.com/invite/lastepoch",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows", "macos", "linux", "ios", "android", "web"],
+  "languages": ["en"],
+  "tags": ["official", "discord", "ehg", "community-managers", "announcements", "lfg"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["lastepoch-subreddit", "lastepoch-forums"],
+  "alternatives": ["lastepoch-subreddit"],
+  "createdBy": {
+    "name": "Eleventh Hour Games",
+    "url": "https://eleventhhour.games/"
+  }
+}

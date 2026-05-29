@@ -1,0 +1,28 @@
+{
+  "id": "lastepoch-twitch-drops",
+  "name": "Last Epoch Twitch Drops",
+  "shortName": "LE Twitch Drops",
+  "taglineEs": "Página oficial de Eleventh Hour Games en twitch.lastepoch.com con calendario de Twitch drops por season, lista de partners participantes y rewards cosméticos accionables linkeando tu cuenta de Twitch al juego",
+  "taglineEn": "Eleventh Hour Games' official page at twitch.lastepoch.com with per-season Twitch drops calendar, list of participating partners, and cosmetic rewards actionable by linking your Twitch account to the game",
+  "url": "https://twitch.lastepoch.com/",
+  "category": "event-tracking",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["twitch-drops", "official", "cosmetics", "rewards", "season-content"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/last-epoch/lastepoch-twitch-drops-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["lastepoch-discord"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Eleventh Hour Games",
+    "url": "https://eleventhhour.games/"
+  }
+}

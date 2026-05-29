@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "nufrontier-skip-campaign-le-2026",
+      "type": "video",
+      "title": "Beginner Guide on How to Progress (and Skip) the Campaign in Last Epoch",
+      "creator": "NuFrontier",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=I1PO9MnCNTA",
+      "youtubeId": "I1PO9MnCNTA",
+      "language": "en",
+      "duration": "8:18",
+      "publishedDate": "2026-03-30",
+      "thumbnail": "https://i.ytimg.com/vi/I1PO9MnCNTA/maxresdefault.jpg",
+      "noteEs": "Si estás haciendo tu segundo o tercer personaje del cycle, el video explica cómo skippear porciones de la campaña con dungeons que llevan a chapter checkpoints. Ahorra 1-2h en cada char nuevo después del primero.",
+      "noteEn": "If you're on your second or third character of the cycle, this video explains how to skip portions of the campaign with dungeons that lead to chapter checkpoints. Saves 1-2h on each new char after the first."
+    },
+    {
+      "id": "nufrontier-beginner-monoliths-le-2026",
+      "type": "video",
+      "title": "Beginner Guide on How to Progress the Endgame (Monoliths) in Last Epoch",
+      "creator": "NuFrontier",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=OFUmi5uESKI",
+      "youtubeId": "OFUmi5uESKI",
+      "language": "en",
+      "duration": "10:34",
+      "publishedDate": "2026-04-01",
+      "thumbnail": "https://i.ytimg.com/vi/OFUmi5uESKI/maxresdefault.jpg",
+      "noteEs": "El momento de la transición campaña → Monolith of Fate confunde a la mayoría de newcomers. Este video explica order de timelines, blessing targeting y cuándo unlocking Empowered. Critical para no perder horas haciendo el orden equivocado.",
+      "noteEn": "The transition from campaign to Monolith of Fate confuses most newcomers. This video explains timeline order, blessing targeting, and when to unlock Empowered. Critical to not waste hours doing the wrong order."
+    },
+    {
+      "id": "all-trades-jack-s4-overview-le-2026",
+      "type": "video",
+      "title": "Last Epoch: Shattered Omens S4 Overview | The Ultimate Last Epoch Guide...For Dummies!",
+      "creator": "All-Trades Jack",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=wBe5QR2yJsM",
+      "youtubeId": "wBe5QR2yJsM",
+      "language": "en",
+      "duration": "8:59",
+      "publishedDate": "2026-03-28",
+      "thumbnail": "https://i.ytimg.com/vi/wBe5QR2yJsM/maxresdefault.jpg",
+      "noteEs": "Overview rápido de Season 4 (Shattered Omens) — ideal si vuelves al juego después de pausa y quieres saber qué cambió sin invertir 30 minutos. Cubre Omen Windows, Echo Chains y nuevas uniques en 9 minutos.",
+      "noteEn": "Fast Season 4 (Shattered Omens) overview — ideal if you're returning after a break and want to know what changed without sinking 30 minutes. Covers Omen Windows, Echo Chains, and new uniques in 9 minutes."
+    },
+    {
+      "id": "morttimer-dudas-antes-comprar-le-2024",
+      "type": "video",
+      "title": "LAST EPOCH ESPAÑOL: TODAS TUS DUDAS RESUELTAS ANTES DE COMPRAR | CLASES | ENDGAME | ESPAÑOL",
+      "creator": "Morttimer",
+      "creatorId": "morttimer",
+      "url": "https://www.youtube.com/watch?v=PQlbhvlI_k8",
+      "youtubeId": "PQlbhvlI_k8",
+      "language": "es",
+      "duration": "25:07",
+      "publishedDate": "2024-02-11",
+      "thumbnail": "https://i.ytimg.com/vi/PQlbhvlI_k8/maxresdefault.jpg",
+      "noteEs": "Una de las mejores intros al juego en español. Morttimer cubre clases, endgame y qué esperar antes de gastar el dinero. Útil incluso post-S4: las mecánicas core descritas siguen vigentes.",
+      "noteEn": "One of the best Spanish-language intros to the game. Morttimer covers classes, endgame, and what to expect before spending money. Useful even post-S4: the core mechanics described still apply."
+    },
+    {
+      "id": "raxxanterax-beginners-guide-le-1.0",
+      "type": "video",
+      "title": "Last Epoch Beginner's Guide",
+      "creator": "Raxxanterax",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=xOh9eEHA8Ng",
+      "youtubeId": "xOh9eEHA8Ng",
+      "language": "en",
+      "duration": "1:01:42",
+      "publishedDate": "2024-02-16",
+      "thumbnail": "https://i.ytimg.com/vi/xOh9eEHA8Ng/maxresdefault.jpg",
+      "noteEs": "Guía exhaustiva de Raxxanterax para el launch 1.0. Más de una hora cubriendo clases, masteries, mecánicas y crafting. Aunque es del 2024, la base del juego sigue idéntica — el mejor deep dive de entrada para newcomers que prefieren long-form.",
+      "noteEn": "Comprehensive Raxxanterax guide for the 1.0 launch. Over an hour covering classes, masteries, mechanics, and crafting. Even though it's from 2024, the base game is identical — the best deep dive intro for newcomers who prefer long-form."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "lastepoch-fandom",
+  "name": "Last Epoch Fandom Wiki",
+  "shortName": "LE Fandom",
+  "taglineEs": "Wiki de Last Epoch en Fandom, la plataforma wiki-farm más grande de gaming. Cobertura masiva acumulada desde Early Access (2020) — items, mecánicas, lore, characters — con quality variable y ads pesados pero buen SEO",
+  "taglineEn": "Last Epoch wiki on Fandom, gaming's largest wiki-farm platform. Massive coverage accumulated since Early Access (2020) — items, mechanics, lore, characters — with variable quality and heavy ads but strong SEO",
+  "url": "https://lastepoch.fandom.com/wiki/Last_Epoch_Wiki",
+  "category": "database",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "fandom", "lore", "history", "reference", "high-seo"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/last-epoch/lastepoch-fandom-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["lastepoch-wiki", "lastepoch-info"],
+  "alternatives": ["lastepoch-wiki"],
+  "createdBy": {
+    "name": "Fandom community",
+    "url": "https://lastepoch.fandom.com/wiki/Special:ListUsers"
+  }
+}

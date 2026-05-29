@@ -1,0 +1,28 @@
+{
+  "id": "sanctum-market-discord",
+  "name": "The Sanctum Market (Discord)",
+  "shortName": "Sanctum Market",
+  "taglineEs": "Discord comunitario de trading de Last Epoch: channels exclusivos de price check, bigsales gallery con drops valiosos, market discord más usado para Merchant's Guild — la fuente que alimenta el price guide de ArreatSummit",
+  "taglineEn": "Last Epoch trading community Discord: exclusive price-check channels, bigsales gallery with valuable drops, the most-used market Discord for Merchant's Guild — the source that feeds ArreatSummit's price guide",
+  "url": "https://discord.gg/sanctummarket",
+  "category": "trading",
+  "type": "discord",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows", "macos", "linux", "ios", "android", "web"],
+  "languages": ["en"],
+  "tags": ["trading", "price-check", "merchants-guild", "discord", "community"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["arreatsummit-le", "lastepoch-discord"],
+  "alternatives": ["arreatsummit-le"],
+  "createdBy": {
+    "name": "Sanctum Market community",
+    "url": "https://discord.gg/sanctummarket"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "lastepoch-fandom-vs-lastepoch-wiki",
+  "toolIds": ["lastepoch-fandom", "lastepoch-wiki"],
+  "category": "database",
+  "depth": "short",
+  "lastVerified": "2026-05-29",
+  "titleEs": "Last Epoch Fandom vs Last Epoch Wiki — qué wiki usar",
+  "titleEn": "Last Epoch Fandom vs Last Epoch Wiki — which wiki to use",
+  "descriptionEs": "Las dos wikis comunitarias activas de LE. Fandom tiene cobertura más amplia y mejor SEO; lastepoch.wiki tiene UI limpia y editorial moderno. Para best UX, ir directo a lastepoch.wiki.",
+  "descriptionEn": "LE's two active community wikis. Fandom has broader coverage and better SEO; lastepoch.wiki has clean UI and modern editorial. For best UX, go directly to lastepoch.wiki.",
+  "verdictEs": "lastepoch.wiki para best UX. Fandom solo cuando llegas vía Google search o cuando lastepoch.wiki no tiene el artículo. Si vas a navegar wiki por placer, lastepoch.wiki gana siempre.",
+  "verdictEn": "lastepoch.wiki for best UX. Fandom only when you arrive via Google search or when lastepoch.wiki lacks the article. If you'll navigate the wiki for pleasure, lastepoch.wiki always wins.",
+  "useCases": [
+    {
+      "labelEs": "Best UX para reading",
+      "labelEn": "Best UX for reading",
+      "winner": "lastepoch-wiki",
+      "reasonEs": "Sin ads invasivos, UI limpia, mobile-friendly. Fandom es notorio por ads pesados y video popups.",
+      "reasonEn": "No invasive ads, clean UI, mobile-friendly. Fandom is notorious for heavy ads and video popups."
+    },
+    {
+      "labelEs": "Coverage breadth",
+      "labelEn": "Coverage breadth",
+      "winner": "lastepoch-fandom",
+      "reasonEs": "Fandom existe desde Early Access (2020) y tiene más artículos accumulated. Lastepoch.wiki es nuevo (2024) con library más chica.",
+      "reasonEn": "Fandom exists since Early Access (2020) and has more accumulated articles. Lastepoch.wiki is new (2024) with smaller library."
+    },
+    {
+      "labelEs": "Google search SEO",
+      "labelEn": "Google search SEO",
+      "winner": "lastepoch-fandom",
+      "reasonEs": "Fandom domina Google results. Cuando buscas 'Last Epoch [item]' suele aparecer primero.",
+      "reasonEn": "Fandom dominates Google results. When searching 'Last Epoch [item]', it usually shows up first."
+    },
+    {
+      "labelEs": "Mobile reading experience",
+      "labelEn": "Mobile reading experience",
+      "winner": "lastepoch-wiki",
+      "reasonEs": "Lastepoch.wiki mobile UI es decente. Fandom mobile es one of the worst gaming wiki experiences por ads que cubren media pantalla.",
+      "reasonEn": "Lastepoch.wiki mobile UI is decent. Fandom mobile is one of the worst gaming wiki experiences due to ads covering half the screen."
+    },
+    {
+      "labelEs": "Editorial consistency",
+      "labelEn": "Editorial consistency",
+      "winner": "lastepoch-wiki",
+      "reasonEs": "Lastepoch.wiki tiene editorial team consistent. Fandom editorial varies — algunos artículos excelentes, otros outdated o incompletos.",
+      "reasonEn": "Lastepoch.wiki has a consistent editorial team. Fandom editorial varies — some articles excellent, others outdated or incomplete."
+    }
+  ]
+}

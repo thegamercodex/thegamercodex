@@ -1,0 +1,28 @@
+{
+  "id": "cheatsheet-monster-le",
+  "name": "Thundersphinx Cheat Sheet",
+  "shortName": "LE Cheat Sheet",
+  "taglineEs": "Cheat sheet visual de Last Epoch mantenido por Thundersphinx: tablas rápidas de blessings por timeline, affix tiers, dungeon mods y resistances en una sola página browseable — referencia obligatoria para players midgame",
+  "taglineEn": "Visual Last Epoch cheat sheet maintained by Thundersphinx: fast tables of blessings per timeline, affix tiers, dungeon mods, and resistances on a single browsable page — required reading for midgame players",
+  "url": "https://cheatsheet.monster/lastepoch/",
+  "category": "database",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["cheat-sheet", "blessings", "affixes", "quick-reference", "visual", "midgame"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/last-epoch/cheatsheet-monster-le-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["lastepoch-info", "lastepochtools", "maxroll-le"],
+  "alternatives": ["lastepoch-info"],
+  "createdBy": {
+    "name": "Thundersphinx",
+    "url": "https://cheatsheet.monster/"
+  }
+}

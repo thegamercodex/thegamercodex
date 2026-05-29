@@ -1,0 +1,50 @@
+{
+  "id": "lastepoch-discord-vs-lastepoch-subreddit",
+  "toolIds": ["lastepoch-discord", "lastepoch-subreddit"],
+  "category": "community",
+  "depth": "short",
+  "lastVerified": "2026-05-29",
+  "titleEs": "Last Epoch Discord vs r/LastEpoch — real-time vs threaded community",
+  "titleEn": "Last Epoch Discord vs r/LastEpoch — real-time vs threaded community",
+  "descriptionEs": "El Discord oficial (200k+ miembros) y el subreddit son las dos community hubs principales de LE. Discord es real-time pulse; Reddit es threaded discussion.",
+  "descriptionEn": "The official Discord (200k+ members) and the subreddit are LE's two main community hubs. Discord is real-time pulse; Reddit is threaded discussion.",
+  "verdictEs": "Discord para real-time updates, LFG y Q&A rápido. Reddit para discussion profunda, meta debates y archived content searchable. La mayoría de players activos usa los dos: Discord daily, Reddit para deeper engagement.",
+  "verdictEn": "Discord for real-time updates, LFG, and fast Q&A. Reddit for deep discussion, meta debates, and searchable archived content. Most active players use both: Discord daily, Reddit for deeper engagement.",
+  "useCases": [
+    {
+      "labelEs": "Real-time chat y pulse comunitario",
+      "labelEn": "Real-time chat and community pulse",
+      "winner": "lastepoch-discord",
+      "reasonEs": "Discord channels viven en tiempo real con community reactions inmediatas. Reddit es asíncrono.",
+      "reasonEn": "Discord channels live in real time with immediate community reactions. Reddit is asynchronous."
+    },
+    {
+      "labelEs": "Threaded discussion de calidad",
+      "labelEn": "Quality threaded discussion",
+      "winner": "lastepoch-subreddit",
+      "reasonEs": "Reddit format permite long-form discussion que queda navegable forever. Discord pierde context en scroll.",
+      "reasonEn": "Reddit format allows long-form discussion that stays navigable forever. Discord loses context in scroll."
+    },
+    {
+      "labelEs": "Finding group para co-op",
+      "labelEn": "Finding group for co-op",
+      "winner": "lastepoch-discord",
+      "reasonEs": "Discord #lfg es donde la gente coordina party en tiempo real. Reddit no funciona para esto por velocity.",
+      "reasonEn": "Discord #lfg is where people coordinate parties in real time. Reddit doesn't work for this due to velocity."
+    },
+    {
+      "labelEs": "Searchable archive",
+      "labelEn": "Searchable archive",
+      "winner": "lastepoch-subreddit",
+      "reasonEs": "Reddit posts quedan indexed en Google y searchable forever. Discord es ephemeral, hard de search histórico.",
+      "reasonEn": "Reddit posts stay indexed in Google and searchable forever. Discord is ephemeral, hard to search historically."
+    },
+    {
+      "labelEs": "Q&A rápido de bug o build",
+      "labelEn": "Fast Q&A for bug or build",
+      "winner": "lastepoch-discord",
+      "reasonEs": "Discord class channels responden en minutos. Reddit responses pueden tardar horas.",
+      "reasonEn": "Discord class channels respond in minutes. Reddit responses can take hours."
+    }
+  ]
+}

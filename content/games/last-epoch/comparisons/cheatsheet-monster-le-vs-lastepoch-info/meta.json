@@ -1,0 +1,50 @@
+{
+  "id": "cheatsheet-monster-le-vs-lastepoch-info",
+  "toolIds": ["cheatsheet-monster-le", "lastepoch-info"],
+  "category": "database",
+  "depth": "short",
+  "lastVerified": "2026-05-29",
+  "titleEs": "Thundersphinx Cheat Sheet vs Last Epoch Info — glance vs deep lookup",
+  "titleEn": "Thundersphinx Cheat Sheet vs Last Epoch Info — glance vs deep lookup",
+  "descriptionEs": "Dos references con propósito opuesto. Cheat sheet single-page para decisiones in-game rápidas; TunkLab multi-section para deep lookups y theorycrafting.",
+  "descriptionEn": "Two references with opposite purpose. Cheat sheet single-page for fast in-game decisions; TunkLab multi-section for deep lookups and theorycrafting.",
+  "verdictEs": "Cheat sheet abierto en segunda monitor durante gameplay para glance rápido. TunkLab abierto cuando tienes time y necesitas depth técnico o calculators. No compiten, sirven momentos distintos del workflow.",
+  "verdictEn": "Cheat sheet open on a second monitor during gameplay for fast glance. TunkLab open when you have time and need technical depth or calculators. They don't compete; they serve different workflow moments.",
+  "useCases": [
+    {
+      "labelEs": "Decisión rápida in-game",
+      "labelEn": "Fast in-game decision",
+      "winner": "cheatsheet-monster-le",
+      "reasonEs": "Single-page format con tablas visuales para glance en segundos. TunkLab requires navegación multi-click.",
+      "reasonEn": "Single-page format with visual tables for second-glance. TunkLab requires multi-click navigation."
+    },
+    {
+      "labelEs": "Deep lookup técnico",
+      "labelEn": "Deep technical lookup",
+      "winner": "lastepoch-info",
+      "reasonEs": "TunkLab tiene database exhaustiva con tier ranges, restrictions, stat formulas. Cheat sheet solo cubre info más consultada.",
+      "reasonEn": "TunkLab has exhaustive database with tier ranges, restrictions, stat formulas. Cheat sheet only covers most-consulted info."
+    },
+    {
+      "labelEs": "Calculator de defense/ward",
+      "labelEn": "Defense/ward calculator",
+      "winner": "lastepoch-info",
+      "reasonEs": "TunkLab tiene calculators dedicados interactivos. Cheat sheet es static tables only.",
+      "reasonEn": "TunkLab has dedicated interactive calculators. Cheat sheet is static tables only."
+    },
+    {
+      "labelEs": "Print para reference físico",
+      "labelEn": "Print for physical reference",
+      "winner": "cheatsheet-monster-le",
+      "reasonEs": "Cheat sheet diseñada para imprimir bien. TunkLab no está formatted para print, requires múltiples páginas.",
+      "reasonEn": "Cheat sheet designed to print well. TunkLab isn't formatted for print, requires multiple pages."
+    },
+    {
+      "labelEs": "Refresh post-pausa larga",
+      "labelEn": "Refresh after long break",
+      "winner": "cheatsheet-monster-le",
+      "reasonEs": "Single document que lees en 10 minutos te pone al día. TunkLab requires navegar por secciones — slower para recap.",
+      "reasonEn": "Single document you read in 10 minutes catches you up. TunkLab requires browsing sections — slower for recap."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "lizard-irl",
+  "name": "Lizard IRL",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2018,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Lizard_IRL",
+      "url": "https://www.youtube.com/@Lizard_IRL",
+      "channelId": "UCGGBPmPIR378tE-LK5wr88w",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "lizard_irl",
+      "url": "https://www.twitch.tv/lizard_irl"
+    }
+  ],
+  "specialties": [
+    "hardcore-builds",
+    "speedrun",
+    "ladder-push",
+    "min-max",
+    "maxroll-team"
+  ],
+  "games": ["last-epoch"],
+  "contentTypes": ["live-streams", "videos"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Lizard IRL es uno de los streamers más activos de Last Epoch con foco en hardcore, speedrun y ladder push. Member del Maxroll Team — sus builds y reglas de min-max han shaped el meta de SC y HC, especialmente en push de corruption. Cadencia de streams casi diaria durante season activa. Si vas a jugar HC o pushear seriamente, su channel es referencia obligatoria.",
+  "noteEn": "Lizard IRL is one of the most active Last Epoch streamers with focus on hardcore, speedrun, and ladder push. Member of the Maxroll Team — his builds and min-max rules have shaped both SC and HC meta, especially in corruption push. Near-daily stream cadence during active season. If you'll play HC or push seriously, his channel is required reading.",
+  "highlightsEs": [
+    "Maxroll Team member — sus builds aparecen integrados en maxroll.gg",
+    "Foco en hardcore push y speedrun, donde domina SC/HC ladders",
+    "Cadencia casi diaria de streams durante season activa",
+    "Theorycrafter respetado para min-max de defense layers",
+    "Content style direct y sin filler — útil para players intermedios/avanzados"
+  ],
+  "highlightsEn": [
+    "Maxroll Team member — his builds appear integrated on maxroll.gg",
+    "Focus on hardcore push and speedrun, dominating SC/HC ladders",
+    "Near-daily stream cadence during active season",
+    "Respected theorycrafter for defense-layer min-max",
+    "Direct, filler-free content — useful for intermediate/advanced players"
+  ],
+  "avatar": "/images/creators/lizard-irl-avatar.jpg",
+  "banner": "/images/creators/lizard-irl-banner.jpg"
+}

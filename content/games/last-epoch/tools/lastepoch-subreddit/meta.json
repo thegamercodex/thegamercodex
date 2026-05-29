@@ -1,0 +1,28 @@
+{
+  "id": "lastepoch-subreddit",
+  "name": "r/LastEpoch",
+  "shortName": "r/LastEpoch",
+  "taglineEs": "Subreddit principal de Last Epoch: discussion de season activa, patch reactions, meta debates, screenshots de loot raro, build sharing y feedback canalizado por devs — el pulso diario más amplio de la base de jugadores",
+  "taglineEn": "Main Last Epoch subreddit: active season discussion, patch reactions, meta debates, rare loot screenshots, build sharing, and dev-channeled feedback — the daily pulse of the broader player base",
+  "url": "https://www.reddit.com/r/LastEpoch/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["reddit", "community", "discussion", "patch-reactions", "meta-debates"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["lastepoch-discord", "lastepoch-forums"],
+  "alternatives": ["lastepoch-discord"],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/LastEpoch/about"
+  }
+}

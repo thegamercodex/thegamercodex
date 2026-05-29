@@ -1,0 +1,50 @@
+{
+  "id": "maxroll-le-vs-icy-veins-le",
+  "toolIds": ["maxroll-le", "icy-veins-le"],
+  "category": "guides-tier-lists",
+  "depth": "short",
+  "lastVerified": "2026-05-29",
+  "titleEs": "Maxroll Last Epoch vs Icy Veins Last Epoch — qué hub editorial seguir",
+  "titleEn": "Maxroll Last Epoch vs Icy Veins Last Epoch — which editorial hub to follow",
+  "descriptionEs": "Dos hubs editoriales cubriendo LE. Maxroll prioriza depth ARPG-focused; Icy Veins prioriza coverage multi-juego con heritage MMO. Mucho jugador serio usa los dos para cross-validate builds.",
+  "descriptionEn": "Two editorial hubs covering LE. Maxroll prioritizes ARPG-focused depth; Icy Veins prioritizes multi-game coverage with MMO heritage. Many serious players use both to cross-validate builds.",
+  "verdictEs": "Maxroll si quieres depth profundo en LE específicamente con cadencia de updates más rápida. Icy Veins si vienes de WoW/D4 y prefieres su layout familiar, o si quieres cross-check editorial con un second take. Maxroll gana en pura depth de LE; Icy Veins gana en multi-game UX consistency.",
+  "verdictEn": "Maxroll if you want deep LE-specific depth with faster update cadence. Icy Veins if you come from WoW/D4 and prefer its familiar layout, or want an editorial cross-check with a second take. Maxroll wins on pure LE depth; Icy Veins wins on multi-game UX consistency.",
+  "useCases": [
+    {
+      "labelEs": "Deep dive en LE específico",
+      "labelEn": "Deep dive on LE specifically",
+      "winner": "maxroll-le",
+      "reasonEs": "Maxroll dedica team y editorial cadence más fuerte a LE. Sus guides son más extensos y la tier list más curada.",
+      "reasonEn": "Maxroll dedicates a stronger team and editorial cadence to LE. Its guides are more extensive and the tier list more curated."
+    },
+    {
+      "labelEs": "Players que vienen de WoW/D4",
+      "labelEn": "Players coming from WoW/D4",
+      "winner": "icy-veins-le",
+      "reasonEs": "Icy Veins comparte layout y editorial tone across games. Si ya usas Icy Veins para otros juegos, su sección LE elimina friction de aprender un hub nuevo.",
+      "reasonEn": "Icy Veins shares layout and editorial tone across games. If you already use Icy Veins for other games, its LE section removes the friction of learning a new hub."
+    },
+    {
+      "labelEs": "Cross-validate decisión de build",
+      "labelEn": "Cross-validate a build decision",
+      "winner": "icy-veins-le",
+      "reasonEs": "Icy Veins funciona perfecto como second opinion editorial. Si Maxroll y Icy Veins dicen lo mismo sobre un build, signal alta confianza.",
+      "reasonEn": "Icy Veins works perfectly as an editorial second opinion. If Maxroll and Icy Veins agree on a build, you get a high-confidence signal."
+    },
+    {
+      "labelEs": "Patch reaction y tier list updates",
+      "labelEn": "Patch reaction and tier list updates",
+      "winner": "maxroll-le",
+      "reasonEs": "Maxroll team updatea dentro de 24-48h post-patch. Icy Veins típicamente lagea 1-3 días — el foco editorial más amplio diluye velocity LE-specific.",
+      "reasonEn": "The Maxroll team updates within 24-48h post-patch. Icy Veins typically lags 1-3 days — broader editorial focus dilutes LE-specific velocity."
+    },
+    {
+      "labelEs": "Mobile-friendly browsing",
+      "labelEn": "Mobile-friendly browsing",
+      "winner": "icy-veins-le",
+      "reasonEs": "Icy Veins UI se traduce mejor a mobile. Maxroll's prose larga es harder de digerir en pantalla chica.",
+      "reasonEn": "Icy Veins UI translates better to mobile. Maxroll's long prose is harder to digest on a small screen."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "last-epoch",
+  "name": "Last Epoch",
+  "shortName": "LE",
+  "developer": "Eleventh Hour Games",
+  "releaseYear": 2024,
+  "officialUrl": "https://lastepoch.com",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/899770/Last_Epoch/",
+      "appId": "899770",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["cosmetics", "stash-tabs", "expansion"],
+    "payToWin": false,
+    "noteEs": "Compra única (~$35 USD). La tienda in-game vende solo cosméticos y pestañas extra de stash; no hay battle pass ni power buyable. La expansión Orobyss se anunció como actualización gratuita para quienes ya compraron el juego antes de su lanzamiento. Eleventh Hour Games tiene un manifiesto explícito contra MTX agresivo, herencia que mantuvieron post-adquisición por KRAFTON en 2025.",
+    "noteEn": "One-time purchase (~$35 USD). The in-game store sells only cosmetics and extra stash tabs; no battle pass and no buyable power. The Orobyss expansion was announced as a free update for everyone who owned the game before its launch. Eleventh Hour Games has an explicit manifesto against aggressive MTX, a stance they kept after the KRAFTON acquisition in 2025."
+  },
+  "platforms": ["windows"],
+  "genres": ["arpg", "fantasy", "time-travel", "online", "offline"],
+  "theme": {
+    "primary": "#4a3c8a",
+    "secondary": "#0e0d1c",
+    "accent": "#b48cff",
+    "background": "#070612",
+    "text": "#e5dff4"
+  },
+  "logo": "/images/games/last-epoch-logo.png",
+  "heroImage": "/images/games/last-epoch-hero.webp",
+  "toolCategories": [
+    {
+      "id": "build-planning",
+      "nameEs": "Planificación de Builds",
+      "nameEn": "Build Planning",
+      "descriptionEs": "Planners de skill tree, pasivas, gear, blessings e idols para diseñar tu personaje pieza por pieza y compartirlo con la comunidad.",
+      "descriptionEn": "Skill tree, passives, gear, blessings, and idol planners to design your character piece by piece and share it with the community.",
+      "icon": "🧮"
+    },
+    {
+      "id": "guides-tier-lists",
+      "nameEs": "Guías y tier lists",
+      "nameEn": "Guides & tier lists",
+      "descriptionEs": "Guías de clase, builds del meta y tier lists actualizadas al patch y season actual.",
+      "descriptionEn": "Class guides, meta builds, and tier lists kept current with the patch and season.",
+      "icon": "📖"
+    },
+    {
+      "id": "database",
+      "nameEs": "Databases y wikis",
+      "nameEn": "Databases & wikis",
+      "descriptionEs": "Bases de datos de items, uniques, affixes, skills, blessings y lore. Cheat sheets y referencias rápidas.",
+      "descriptionEn": "Databases for items, uniques, affixes, skills, blessings, and lore. Cheat sheets and quick references.",
+      "icon": "📚"
+    },
+    {
+      "id": "trading",
+      "nameEs": "Trading",
+      "nameEn": "Trading",
+      "descriptionEs": "Guías de precios y servidores de la comunidad para listar items en el Bazaar del Merchant's Guild.",
+      "descriptionEn": "Price guides and community servers for listing items in the Merchant's Guild Bazaar.",
+      "icon": "💱"
+    },
+    {
+      "id": "event-tracking",
+      "nameEs": "Tracking de eventos",
+      "nameEn": "Event tracking",
+      "descriptionEs": "Calendarios de seasons, dev posts agregados y tracking de Twitch drops oficiales.",
+      "descriptionEn": "Season calendars, aggregated dev posts, and tracking of official Twitch drops.",
+      "icon": "⏰"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Hubs comunitarios: Discord oficial, subreddit, foros y plataformas de speedrun.",
+      "descriptionEn": "Community hubs: official Discord, subreddit, forums, and speedrun platforms.",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para principiantes",
+      "nameEn": "Beginner guides",
+      "descriptionEs": "Recursos de entrada: campaña, primer endgame, mecánicas básicas, elección de clase y mastery.",
+      "descriptionEn": "Entry resources: campaign, first endgame, basic mechanics, class and mastery choice.",
+      "icon": "🎓"
+    },
+    {
+      "id": "class-guides",
+      "nameEs": "Guías de clase",
+      "nameEn": "Class guides",
+      "descriptionEs": "Builds y rotaciones por clase: Sentinel, Mage, Acolyte, Primalist, Rogue.",
+      "descriptionEn": "Builds and rotations per class: Sentinel, Mage, Acolyte, Primalist, Rogue.",
+      "icon": "⚔️"
+    },
+    {
+      "id": "season-coverage",
+      "nameEs": "Cobertura de season",
+      "nameEn": "Season coverage",
+      "descriptionEs": "Mecánicas nuevas por cycle, reveals del dev team y guías para aprovechar el contenido seasonal.",
+      "descriptionEn": "New per-cycle mechanics, dev team reveals, and guides to make the most of seasonal content.",
+      "icon": "🗓️"
+    },
+    {
+      "id": "endgame-guides",
+      "nameEs": "Guías de endgame",
+      "nameEn": "Endgame guides",
+      "descriptionEs": "Monolith of Fate, dungeons, Empowered timelines, corruption push y boss runs.",
+      "descriptionEn": "Monolith of Fate, dungeons, Empowered timelines, corruption push, and boss runs.",
+      "icon": "🔥"
+    },
+    {
+      "id": "patch-coverage",
+      "nameEs": "Cobertura de patches",
+      "nameEn": "Patch coverage",
+      "descriptionEs": "Patch notes analysis, balance changes, hotfixes y dataminado de updates.",
+      "descriptionEn": "Patch notes analysis, balance changes, hotfixes, and update dataminig.",
+      "icon": "📋"
+    }
+  ]
+}

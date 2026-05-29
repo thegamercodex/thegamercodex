@@ -1,0 +1,50 @@
+{
+  "id": "maxroll-le-vs-arreatsummit-le",
+  "toolIds": ["maxroll-le", "arreatsummit-le"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-05-29",
+  "titleEs": "Maxroll Last Epoch vs ArreatSummit.gg — hub editorial vs EHG-endorsed",
+  "titleEn": "Maxroll Last Epoch vs ArreatSummit.gg — editorial hub vs EHG-endorsed",
+  "descriptionEs": "Maxroll es el editorial flagship con team profesional cross-ARPG; ArreatSummit es el único hub con endorsement explícito de Eleventh Hour Games. La elección depende de qué priorizas: depth editorial o pricing/trading integration.",
+  "descriptionEn": "Maxroll is the editorial flagship with a cross-ARPG professional team; ArreatSummit is the only hub with Eleventh Hour Games' explicit endorsement. The choice depends on what you prioritize: editorial depth or pricing/trading integration.",
+  "verdictEs": "Maxroll gana en pura amplitud y depth de builds editoriales. ArreatSummit gana en pricing guide (único feature que Maxroll no tiene) y endorsement EHG. Players de Merchant's Guild trading deberían usar los dos: Maxroll para builds, ArreatSummit para pricing.",
+  "verdictEn": "Maxroll wins on pure editorial-build breadth and depth. ArreatSummit wins on the price guide (a feature Maxroll lacks) and EHG endorsement. Merchant's Guild traders should use both: Maxroll for builds, ArreatSummit for pricing.",
+  "useCases": [
+    {
+      "labelEs": "Build guides cantidad y depth",
+      "labelEn": "Build guide quantity and depth",
+      "winner": "maxroll-le",
+      "reasonEs": "Maxroll publica ~50+ builds per cycle con leveling+endgame variants extensos. ArreatSummit library más chica con menos variants.",
+      "reasonEn": "Maxroll publishes ~50+ builds per cycle with extensive leveling+endgame variants. ArreatSummit has a smaller library with fewer variants."
+    },
+    {
+      "labelEs": "Price guide para Merchant's Guild trading",
+      "labelEn": "Price guide for Merchant's Guild trading",
+      "winner": "arreatsummit-le",
+      "reasonEs": "ArreatSummit tiene price guide actualizado en collaboration con The Sanctum Market Discord. Maxroll no tiene equivalent.",
+      "reasonEn": "ArreatSummit has an updated price guide in collaboration with The Sanctum Market Discord. Maxroll has no equivalent."
+    },
+    {
+      "labelEs": "Tier lists y meta authority",
+      "labelEn": "Tier lists and meta authority",
+      "winner": "maxroll-le",
+      "reasonEs": "Tier lists de Maxroll vienen de team ladder-validated (Lizard IRL, etc.). ArreatSummit tier lists son OK pero menos autoritativas.",
+      "reasonEn": "Maxroll tier lists come from a ladder-validated team (Lizard IRL, etc.). ArreatSummit tier lists are OK but less authoritative."
+    },
+    {
+      "labelEs": "EHG endorsement y official backing",
+      "labelEn": "EHG endorsement and official backing",
+      "winner": "arreatsummit-le",
+      "reasonEs": "ArreatSummit es el único hub con endorsement explícito de Eleventh Hour Games. Maxroll opera independent sin backing oficial.",
+      "reasonEn": "ArreatSummit is the only hub with explicit Eleventh Hour Games endorsement. Maxroll operates independently without official backing."
+    },
+    {
+      "labelEs": "Dungeon-specific tactics y guides",
+      "labelEn": "Dungeon-specific tactics and guides",
+      "winner": "arreatsummit-le",
+      "reasonEs": "ArreatSummit invierte editorial bandwidth en dungeon guides per-boss. Maxroll tiene dungeon coverage pero menos granular.",
+      "reasonEn": "ArreatSummit invests editorial bandwidth in per-boss dungeon guides. Maxroll has dungeon coverage but less granular."
+    }
+  ]
+}

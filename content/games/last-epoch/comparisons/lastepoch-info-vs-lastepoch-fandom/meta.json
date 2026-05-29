@@ -1,0 +1,50 @@
+{
+  "id": "lastepoch-info-vs-lastepoch-fandom",
+  "toolIds": ["lastepoch-info", "lastepoch-fandom"],
+  "category": "database",
+  "depth": "short",
+  "lastVerified": "2026-05-29",
+  "titleEs": "Last Epoch Info (TunkLab) vs Last Epoch Fandom — DB-style vs wiki-style",
+  "titleEn": "Last Epoch Info (TunkLab) vs Last Epoch Fandom — DB-style vs wiki-style",
+  "descriptionEs": "TunkLab es database técnica con calculators; Fandom es wiki narrativa con coverage amplio. Cubren reference needs distintos pero complementarios.",
+  "descriptionEn": "TunkLab is a technical database with calculators; Fandom is a narrative wiki with broad coverage. They cover different but complementary reference needs.",
+  "verdictEs": "TunkLab para data crudo, calculators y theorycrafting. Fandom para lore, mechanics explained y quest walkthroughs. No compiten; sirven a needs distintos.",
+  "verdictEn": "TunkLab for raw data, calculators, and theorycrafting. Fandom for lore, explained mechanics, and quest walkthroughs. They don't compete; they serve different needs.",
+  "useCases": [
+    {
+      "labelEs": "Lookup técnico de affixes y stat ranges",
+      "labelEn": "Technical lookup of affixes and stat ranges",
+      "winner": "lastepoch-info",
+      "reasonEs": "TunkLab tiene database catalogada por type con stat ranges precisos. Fandom tiene info pero en formato narrativo, menos browseable.",
+      "reasonEn": "TunkLab has type-cataloged database with precise stat ranges. Fandom has info but in narrative format, less browseable."
+    },
+    {
+      "labelEs": "Calculator de defense, ward, damage",
+      "labelEn": "Defense, ward, damage calculators",
+      "winner": "lastepoch-info",
+      "reasonEs": "TunkLab tiene calculators dedicados que ningún otro hub provee. Fandom no tiene tools interactivos.",
+      "reasonEn": "TunkLab has dedicated calculators no other hub provides. Fandom has no interactive tools."
+    },
+    {
+      "labelEs": "Quest walkthroughs y lore",
+      "labelEn": "Quest walkthroughs and lore",
+      "winner": "lastepoch-fandom",
+      "reasonEs": "Fandom tiene quest walkthroughs detallados y lore artículos extensos. TunkLab es technical reference, no narrativa.",
+      "reasonEn": "Fandom has detailed quest walkthroughs and extensive lore articles. TunkLab is technical reference, not narrative."
+    },
+    {
+      "labelEs": "Patch history y changes histórica",
+      "labelEn": "Patch history and historic changes",
+      "winner": "lastepoch-fandom",
+      "reasonEs": "Fandom tiene patch history compilado. TunkLab actualiza data del current patch sin maintainear archive de versions pasadas.",
+      "reasonEn": "Fandom has compiled patch history. TunkLab updates current patch data without maintaining a past-versions archive."
+    },
+    {
+      "labelEs": "UI moderna",
+      "labelEn": "Modern UI",
+      "winner": "lastepoch-info",
+      "reasonEs": "TunkLab UI es spartan pero funcional sin ads. Fandom es UI corporate cargada con ads pesados.",
+      "reasonEn": "TunkLab UI is spartan but functional without ads. Fandom has corporate cluttered UI with heavy ads."
+    }
+  ]
+}
