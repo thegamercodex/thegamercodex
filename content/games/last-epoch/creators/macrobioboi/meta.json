@@ -1,0 +1,54 @@
+{
+  "id": "macrobioboi",
+  "name": "MacroBioBoi",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2006,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@MacroBioBoi",
+      "url": "https://www.youtube.com/@MacroBioBoi",
+      "channelId": "UCcGVtNmgZsQ5wXETTGyMQGQ",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "macrobioboi",
+      "url": "https://www.twitch.tv/macrobioboi"
+    },
+    {
+      "type": "twitter",
+      "handle": "@MacroBioBoi",
+      "url": "https://twitter.com/MacroBioBoi"
+    }
+  ],
+  "specialties": [
+    "necromancer-builds",
+    "warlock-builds",
+    "minion-builds",
+    "cross-arpg-coverage"
+  ],
+  "games": ["last-epoch", "diablo-4"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "MacroBioBoi es Maxroll Team affiliate con foco en clases minion/curse — Necromancer y Warlock. Cubre cluster ARPG con bias hacia D4 y D2R, pero también Last Epoch durante cycles activos porque Warlock y Acolyte (Necromancer + Lich) son specialties que mantiene cross-game. Su content style es directo, build-focused, sin filler. Si juegas Acolyte o Necromancer en LE, es referencia obligatoria.",
+  "noteEn": "MacroBioBoi is a Maxroll Team affiliate with focus on minion/curse classes — Necromancer and Warlock. Covers the ARPG cluster with bias toward D4 and D2R, but also Last Epoch during active cycles because Warlock and Acolyte (Necromancer + Lich) are specialties he maintains cross-game. Direct, build-focused style without filler. If you play Acolyte or Necromancer in LE, required reading.",
+  "highlightsEs": [
+    "Maxroll Team affiliate — sus builds aparecen integrados en maxroll.gg",
+    "Specialist de Necromancer y Warlock cross-game (LE + D4)",
+    "Cobertura ARPG cluster amplia — útil si rotas entre títulos",
+    "Style directo, build-focused, sin filler",
+    "Cadencia regular durante cycles activos"
+  ],
+  "highlightsEn": [
+    "Maxroll Team affiliate — builds appear integrated on maxroll.gg",
+    "Necromancer and Warlock specialist cross-game (LE + D4)",
+    "Broad ARPG cluster coverage — useful if you rotate titles",
+    "Direct, build-focused style without filler",
+    "Regular cadence during active cycles"
+  ],
+  "avatar": "/images/creators/macrobioboi-avatar.jpg",
+  "banner": "/images/creators/macrobioboi-banner.jpg"
+}

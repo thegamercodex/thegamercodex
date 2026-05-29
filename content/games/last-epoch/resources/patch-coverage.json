@@ -1,0 +1,80 @@
+{
+  "category": "patch-coverage",
+  "resources": [
+    {
+      "id": "kaidgames2-top10-builds-s4-2026",
+      "type": "video",
+      "title": "TOP 10 BEST BUILDS IN LAST EPOCH SEASON 4! Last Epoch Builds (NEW META)",
+      "creator": "KaidGames2",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Y8MgIkmZ8-A",
+      "youtubeId": "Y8MgIkmZ8-A",
+      "language": "en",
+      "duration": "9:08",
+      "publishedDate": "2026-03-26",
+      "thumbnail": "https://i.ytimg.com/vi/Y8MgIkmZ8-A/maxresdefault.jpg",
+      "noteEs": "Top 10 builds post-S4 launch. Útil para entender qué builds del patch anterior sobrevivieron al balance change y cuáles nuevos emergieron. Patch reactions condensados en 9 minutos.",
+      "noteEn": "Top 10 builds post-S4 launch. Useful for understanding which previous-patch builds survived the balance change and which new ones emerged. Patch reactions condensed in 9 minutes."
+    },
+    {
+      "id": "pixelaptitude-3-warlock-builds-s4-2026",
+      "type": "video",
+      "title": "3 INSANE Warlock Builds that Will MELT Season 4 | Last Epoch",
+      "creator": "Pixel Aptitude",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=dDiXfoQfVd0",
+      "youtubeId": "dDiXfoQfVd0",
+      "language": "en",
+      "duration": "8:10",
+      "publishedDate": "2026-03-25",
+      "thumbnail": "https://i.ytimg.com/vi/dDiXfoQfVd0/maxresdefault.jpg",
+      "noteEs": "Warlock recibió buffs significativos en S4. Pixel Aptitude presenta 3 builds post-patch que aprovechan las nuevas curse synergies. Quick scan para Acolyte mains decidiendo entre Warlock variants.",
+      "noteEn": "Warlock got significant buffs in S4. Pixel Aptitude presents 3 post-patch builds that leverage the new curse synergies. Quick scan for Acolyte mains deciding between Warlock variants."
+    },
+    {
+      "id": "bootynoodles-flame-reave-build-s4-2026",
+      "type": "video",
+      "title": "Last Epoch Season 4 Flame Reave Build Guide",
+      "creator": "BootyNoodles",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=_HTBiotprAE",
+      "youtubeId": "_HTBiotprAE",
+      "language": "en",
+      "duration": "26:48",
+      "publishedDate": "2026-03-29",
+      "thumbnail": "https://i.ytimg.com/vi/_HTBiotprAE/maxresdefault.jpg",
+      "noteEs": "Build guide de Flame Reave Spellblade post-buff de S4. Incluye 300 Corruption Echo Showcase y Aberroth Kill demonstration — útil para entender el impact real del patch en endgame content.",
+      "noteEn": "Post-S4-buff Flame Reave Spellblade build guide. Includes 300 Corruption Echo Showcase and an Aberroth Kill demonstration — useful for understanding the real impact of the patch on endgame content."
+    },
+    {
+      "id": "morttimer-filtros-explicados-le-2024",
+      "type": "video",
+      "title": "LAST EPOCH GAMEPLAY ESPAÑOL: LOS FILTROS EXPLICADOS DE MANERA SENCILLA | GUÍA | ESPAÑOL",
+      "creator": "Morttimer",
+      "creatorId": "morttimer",
+      "url": "https://www.youtube.com/watch?v=Em--hvD68D4",
+      "youtubeId": "Em--hvD68D4",
+      "language": "es",
+      "duration": "8:04",
+      "publishedDate": "2024-02-25",
+      "thumbnail": "https://i.ytimg.com/vi/Em--hvD68D4/maxresdefault.jpg",
+      "noteEs": "Loot filters de LE explicados en español. Morttimer cubre cómo funcionan, dónde se editan y cómo aplicarlos in-game. Las mecánicas no cambiaron desde 2024 — el video sigue 100% vigente para players nuevos al sistema.",
+      "noteEn": "LE loot filters explained in Spanish. Morttimer covers how they work, where to edit them, and how to apply them in-game. Mechanics haven't changed since 2024 — the video is still 100% current for players new to the system."
+    },
+    {
+      "id": "andrue2-patch-notes-meta-shakeup-le-2024",
+      "type": "video",
+      "title": "Last Epoch Patch Notes have been released and the changes are MASSIVE!! Meta shake up incoming!",
+      "creator": "Andrue2",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=JmTSWV5ixAM",
+      "youtubeId": "JmTSWV5ixAM",
+      "language": "en",
+      "duration": "1:14:28",
+      "publishedDate": "2024-07-05",
+      "thumbnail": "https://i.ytimg.com/vi/JmTSWV5ixAM/maxresdefault.jpg",
+      "noteEs": "Análisis exhaustivo de patch notes históricos (cycle anterior). Aunque es de 2024, sirve como ejemplo de cómo abordar patch analysis: read official notes → identify meta shifts → predict winners/losers. Útil para entender el flow de cómo content creators procesan patches.",
+      "noteEn": "Exhaustive analysis of historical patch notes (previous cycle). Although from 2024, serves as an example of how to approach patch analysis: read official notes → identify meta shifts → predict winners/losers. Useful for understanding the flow of how content creators process patches."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "category": "season-coverage",
+  "resources": [
+    {
+      "id": "kamiops-s4-complete-endgame-loop-2026",
+      "type": "video",
+      "title": "Last Epoch Finally Has an Endgame Loop: Season 4 Complete Guide",
+      "creator": "KamiOps",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=_CIFr4liWl4",
+      "youtubeId": "_CIFr4liWl4",
+      "language": "en",
+      "duration": "18:40",
+      "publishedDate": "2026-03-24",
+      "thumbnail": "https://i.ytimg.com/vi/_CIFr4liWl4/maxresdefault.jpg",
+      "noteEs": "Análisis editorial del endgame loop de Season 4. KamiOps explica por qué Omen Windows + Echo Chains + Corruption Crafting cambian la cadencia del juego. Útil para players returning que quieren entender el flow nuevo antes de levear.",
+      "noteEn": "Editorial breakdown of Season 4's endgame loop. KamiOps explains why Omen Windows + Echo Chains + Corruption Crafting change the game's cadence. Useful for returning players who want to understand the new flow before leveling."
+    },
+    {
+      "id": "lastepoch-official-s4-patch-overview-2026",
+      "type": "video",
+      "title": "Last Epoch - Season 4 | Patch Overview - Shattered Omens",
+      "creator": "Last Epoch",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=R8zEPYn_gyg",
+      "youtubeId": "R8zEPYn_gyg",
+      "language": "en",
+      "duration": "16:51",
+      "publishedDate": "2026-03-20",
+      "thumbnail": "https://i.ytimg.com/vi/R8zEPYn_gyg/maxresdefault.jpg",
+      "noteEs": "El patch overview oficial presentado por Game Director Judd Cobler. Explica decisiones de design detrás de Omen Windows, balance changes y roadmap post-S4. Ground truth: lo que EHG explicitamente prioriza este cycle.",
+      "noteEn": "Official patch overview presented by Game Director Judd Cobler. Explains design decisions behind Omen Windows, balance changes, and post-S4 roadmap. Ground truth: what EHG explicitly prioritizes this cycle."
+    },
+    {
+      "id": "lizard-irl-s4-tier-list-2026",
+      "type": "video",
+      "title": "Best Builds for Last Epoch Season 4 - ULTIMATE TIER LIST!",
+      "creator": "Lizard IRL",
+      "creatorId": "lizard-irl",
+      "url": "https://www.youtube.com/watch?v=1DaQ2JPjEiI",
+      "youtubeId": "1DaQ2JPjEiI",
+      "language": "en",
+      "duration": "17:30",
+      "publishedDate": "2026-03-25",
+      "thumbnail": "https://i.ytimg.com/vi/1DaQ2JPjEiI/maxresdefault.jpg",
+      "noteEs": "Tier list de builds Season 4 por Lizard IRL (Maxroll team). Lizard tiene autoridad fuerte en HC y SC ladders, así que su tier list pesa más que la mayoría. 17 minutos breakdown por mastery con justificación per build.",
+      "noteEn": "Season 4 builds tier list by Lizard IRL (Maxroll team). Lizard has strong authority in HC and SC ladders, so his tier list carries more weight than most. 17-minute breakdown per mastery with per-build justification."
+    },
+    {
+      "id": "binaqc-updated-s4-builds-2026",
+      "type": "video",
+      "title": "Updated! All My Season 4 Build Guides! | Last Epoch Season 4",
+      "creator": "BinaQc",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=N8Gas-3BWzM",
+      "youtubeId": "N8Gas-3BWzM",
+      "language": "en",
+      "duration": "43:33",
+      "publishedDate": "2026-03-25",
+      "thumbnail": "https://i.ytimg.com/vi/N8Gas-3BWzM/maxresdefault.jpg",
+      "noteEs": "BinaQc presenta sus build guides actualizados para S4 — 43 minutos cubriendo cambios per build vs lo que había en S3. Útil si seguiste sus builds antes y quieres saber qué cambió post-balance.",
+      "noteEn": "BinaQc presents his updated build guides for S4 — 43 minutes covering per-build changes vs what was in S3. Useful if you followed his builds before and want to know what changed post-balance."
+    },
+    {
+      "id": "kaidgames2-s4-meta-tier-list-2026",
+      "type": "video",
+      "title": "RANKING BEST BUILDS IN SEASON 4! Last Epoch Builds Tier List (NEW META)",
+      "creator": "KaidGames2",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=224TAre4-DQ",
+      "youtubeId": "224TAre4-DQ",
+      "language": "en",
+      "duration": "9:28",
+      "publishedDate": "2026-03-26",
+      "thumbnail": "https://i.ytimg.com/vi/224TAre4-DQ/maxresdefault.jpg",
+      "noteEs": "Tier list compacta de Season 4. KaidGames2 sintetiza meta en 9 minutos — perfect para quick scan pre-elección de char. Complemento al tier list más extenso de Lizard.",
+      "noteEn": "Compact Season 4 tier list. KaidGames2 synthesizes the meta in 9 minutes — perfect for a quick scan before picking your char. Complement to Lizard's more extensive tier list."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "arpg-timeline-vs-lastepoch-dev-tracker",
+  "toolIds": ["arpg-timeline", "lastepoch-dev-tracker"],
+  "category": "event-tracking",
+  "depth": "short",
+  "lastVerified": "2026-05-29",
+  "titleEs": "aRPG Timeline vs Last Epoch Dev Tracker — season planning vs dev posts",
+  "titleEn": "aRPG Timeline vs Last Epoch Dev Tracker — season planning vs dev posts",
+  "descriptionEs": "Dos tools de tracking distintos. aRPG Timeline para cycle launches y calendars; Dev Tracker para posts agregados de devs cross-platform. Sirven needs distintos pero complementarios.",
+  "descriptionEn": "Two different tracking tools. aRPG Timeline for cycle launches and calendars; Dev Tracker for cross-platform aggregated dev posts. They serve different but complementary needs.",
+  "verdictEs": "aRPG Timeline para planificar rotation entre múltiples ARPGs y subscribir al calendar. Dev Tracker para monitorear dev statements daily durante season activa. Players multi-game usan los dos; LE-only players solo necesitan Dev Tracker más durante cycles.",
+  "verdictEn": "aRPG Timeline for planning rotation across multiple ARPGs and subscribing to the calendar. Dev Tracker for monitoring dev statements daily during active season. Multi-game players use both; LE-only players need Dev Tracker more during cycles.",
+  "useCases": [
+    {
+      "labelEs": "Planificar cycle multi-ARPG",
+      "labelEn": "Plan multi-ARPG cycle",
+      "winner": "arpg-timeline",
+      "reasonEs": "aRPG Timeline trackea PoE, D4, LE en single dashboard. Dev Tracker es LE-specific solamente.",
+      "reasonEn": "aRPG Timeline tracks PoE, D4, LE in a single dashboard. Dev Tracker is LE-specific only."
+    },
+    {
+      "labelEs": "Monitor dev posts y feedback",
+      "labelEn": "Monitor dev posts and feedback",
+      "winner": "lastepoch-dev-tracker",
+      "reasonEs": "Dev Tracker agrega Reddit, Twitter, forum y Discord dev posts en single feed. aRPG Timeline solo trackea season dates.",
+      "reasonEn": "Dev Tracker aggregates Reddit, Twitter, forum, and Discord dev posts in a single feed. aRPG Timeline only tracks season dates."
+    },
+    {
+      "labelEs": "Calendar subscription para alerts",
+      "labelEn": "Calendar subscription for alerts",
+      "winner": "arpg-timeline",
+      "reasonEs": "aRPG Timeline ofrece iCal subscription para Google/Apple/Outlook. Dev Tracker es RSS-only.",
+      "reasonEn": "aRPG Timeline offers iCal subscription for Google/Apple/Outlook. Dev Tracker is RSS-only."
+    },
+    {
+      "labelEs": "Mid-cycle patch/balance tracking",
+      "labelEn": "Mid-cycle patch/balance tracking",
+      "winner": "lastepoch-dev-tracker",
+      "reasonEs": "Dev Tracker captura dev acknowledgements y discussion mid-cycle. aRPG Timeline solo trackea major cycle starts.",
+      "reasonEn": "Dev Tracker captures dev acknowledgements and mid-cycle discussion. aRPG Timeline only tracks major cycle starts."
+    },
+    {
+      "labelEs": "Pre-cycle prep para fresh char",
+      "labelEn": "Pre-cycle prep for fresh char",
+      "winner": "arpg-timeline",
+      "reasonEs": "Countdown timer y date precise ayudan a planificar. Dev Tracker te da hints via dev posts pero menos accionable.",
+      "reasonEn": "Countdown timer and precise date help planning. Dev Tracker gives hints via dev posts but less actionable."
+    }
+  ]
+}

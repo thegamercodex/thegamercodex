@@ -1,0 +1,50 @@
+{
+  "id": "maxroll-le-vs-lastepochtools",
+  "toolIds": ["maxroll-le", "lastepochtools"],
+  "category": "build-planning",
+  "depth": "flagship",
+  "lastVerified": "2026-05-29",
+  "titleEs": "Maxroll Last Epoch vs Last Epoch Tools — el duelo de los hubs",
+  "titleEn": "Maxroll Last Epoch vs Last Epoch Tools — the hubs showdown",
+  "descriptionEs": "Los dos hubs dominantes de Last Epoch. Maxroll prioriza depth editorial con guides extensos y planner integrated; Last Epoch Tools prioriza breadth comunitaria con DB exhaustiva, loot filter sharing y character profiles.",
+  "descriptionEn": "Last Epoch's two dominant hubs. Maxroll prioritizes editorial depth with long guides and integrated planner; Last Epoch Tools prioritizes community breadth with exhaustive DB, loot filter sharing, and character profiles.",
+  "verdictEs": "Maxroll si quieres entender por qué cada slot de tu build importa y leer guides largas con justificación. Last Epoch Tools si quieres scan rápido del meta, lookup de item específico, sharear filter o ver character profile de otro jugador. La mayoría usa los dos en flujos distintos — Maxroll para deep dive, LE Tools para todo lo demás.",
+  "verdictEn": "Maxroll if you want to understand why every build slot matters and read long justified guides. Last Epoch Tools if you want a fast meta scan, specific item lookup, share a filter, or view another player's character profile. Most use both in different flows — Maxroll for deep dive, LE Tools for everything else.",
+  "useCases": [
+    {
+      "labelEs": "Deep dive de build con justification per slot",
+      "labelEn": "Deep build dive with per-slot justification",
+      "winner": "maxroll-le",
+      "reasonEs": "Maxroll publica guides editorial-curated con prose long-form explicando cada skill, blessing y aspect choice. LE Tools tiene builds auto-crawleados de YouTube — quality variable, sin justification depth comparable.",
+      "reasonEn": "Maxroll publishes editorial-curated guides with long-form prose explaining each skill, blessing, and aspect choice. LE Tools has YouTube auto-crawled builds — variable quality, no comparable justification depth."
+    },
+    {
+      "labelEs": "Lookup específico de item o affix",
+      "labelEn": "Specific item or affix lookup",
+      "winner": "lastepochtools",
+      "reasonEs": "LE Tools tiene database exhaustiva navegable: filters por tier, clase, tipo. Maxroll embeds item info en guides pero no tiene browseable DB equivalente.",
+      "reasonEn": "LE Tools has an exhaustive browseable database: filters by tier, class, type. Maxroll embeds item info in guides but doesn't have an equivalent browseable DB."
+    },
+    {
+      "labelEs": "Crear y compartir loot filter custom",
+      "labelEn": "Create and share a custom loot filter",
+      "winner": "lastepochtools",
+      "reasonEs": "LE Tools tiene editor visual integrado con community sharing built-in. Maxroll publica filters como download files sin editor — workflow inferior para custom work.",
+      "reasonEn": "LE Tools has an integrated visual editor with built-in community sharing. Maxroll publishes filters as download files without an editor — inferior workflow for custom work."
+    },
+    {
+      "labelEs": "Patch reaction y tier list update post-balance",
+      "labelEn": "Patch reaction and tier list update post-balance",
+      "winner": "maxroll-le",
+      "reasonEs": "Maxroll team actualiza tier lists y revisa guides dentro de 24-48h post-patch con editorial analysis. LE Tools depende de community submissions; meta consensus toma más tiempo en consolidarse.",
+      "reasonEn": "The Maxroll team updates tier lists and revises guides within 24-48h post-patch with editorial analysis. LE Tools depends on community submissions; meta consensus takes longer to consolidate."
+    },
+    {
+      "labelEs": "Mostrar tu character a friends o community",
+      "labelEn": "Show your character to friends or community",
+      "winner": "lastepochtools",
+      "reasonEs": "LE Tools tiene character profiles por account: ingresas tu nombre, ves tus chars publicados con gear/build visible. Maxroll no tiene equivalente — character display lives in third-party planners.",
+      "reasonEn": "LE Tools has per-account character profiles: enter your name, see your published chars with gear/build visible. Maxroll has no equivalent — character display lives in third-party planners."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "path-of-building-le-vs-lastepochtools",
+  "toolIds": ["path-of-building-le", "lastepochtools"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-05-29",
+  "titleEs": "Path of Building for Last Epoch vs Last Epoch Tools planner — qué planner usar",
+  "titleEn": "Path of Building for Last Epoch vs Last Epoch Tools planner — which planner to use",
+  "descriptionEs": "Dos planners de Last Epoch con propuestas opuestas. PoB-LE prioriza profundidad de simulación; LE Tools prioriza visualización y community sharing.",
+  "descriptionEn": "Two Last Epoch planners with opposing propositions. PoB-LE prioritizes simulation depth; LE Tools prioritizes visualization and community sharing.",
+  "verdictEs": "PoB for LE si necesitas DPS exacto, comparison item-vs-item con delta calculado, o validar claims de creators. LE Tools si quieres UI amigable, sharear via URL, o iterar visual rápido. Theorycrafters usan los dos: LE Tools para draft, PoB para validar antes de spendear gold en crafting.",
+  "verdictEn": "PoB for LE if you need exact DPS, item-vs-item comparison with computed delta, or to validate creator claims. LE Tools if you want a friendly UI, share via URL, or iterate visually fast. Theorycrafters use both: LE Tools to draft, PoB to validate before spending gold on crafting.",
+  "useCases": [
+    {
+      "labelEs": "DPS simulation exacto con ailments y multipliers",
+      "labelEn": "Exact DPS simulation with ailments and multipliers",
+      "winner": "path-of-building-le",
+      "reasonEs": "PoB-LE simula shock stacks, ignite stacking, DOT multipliers, conditional damage y defense layer order con precision real. LE Tools aproxima estos cálculos.",
+      "reasonEn": "PoB-LE simulates shock stacks, ignite stacking, DOT multipliers, conditional damage, and defense-layer order with real precision. LE Tools approximates these calculations."
+    },
+    {
+      "labelEs": "Share build via URL para Discord/Reddit",
+      "labelEn": "Share build via URL for Discord/Reddit",
+      "winner": "lastepochtools",
+      "reasonEs": "LE Tools genera URL única por build instantly. PoB usa \"build codes\" que son strings largos menos amigables para link en chat.",
+      "reasonEn": "LE Tools generates a unique URL per build instantly. PoB uses \"build codes\" that are long strings less friendly to link in chat."
+    },
+    {
+      "labelEs": "Compare 2 items side-by-side con delta exacto",
+      "labelEn": "Compare 2 items side-by-side with exact delta",
+      "winner": "path-of-building-le",
+      "reasonEs": "PoB-LE permite equip item A, swap por item B y ver delta de cada stat. LE Tools require manual comparison entre tabs.",
+      "reasonEn": "PoB-LE lets you equip item A, swap for item B, and see the delta on every stat. LE Tools requires manual comparison across tabs."
+    },
+    {
+      "labelEs": "Iteración visual rápida durante theorycraft",
+      "labelEn": "Fast visual iteration during theorycraft",
+      "winner": "lastepochtools",
+      "reasonEs": "LE Tools UI es más amigable: drag/drop gear, click-to-allocate pasivas, stats update visible. PoB hereda UI compleja de PoB PoE con curva de aprendizaje empinada.",
+      "reasonEn": "LE Tools UI is friendlier: drag/drop gear, click-to-allocate passives, stats update visible. PoB inherits PoB PoE's complex UI with steep learning curve."
+    },
+    {
+      "labelEs": "Funciona offline / sin internet",
+      "labelEn": "Works offline / without internet",
+      "winner": "path-of-building-le",
+      "reasonEs": "PoB-LE desktop corre 100% offline. LE Tools es web-only — sin internet, no puedes acceder a tu build ni iterar.",
+      "reasonEn": "PoB-LE desktop runs 100% offline. LE Tools is web-only — without internet, you can't access your build or iterate."
+    }
+  ]
+}

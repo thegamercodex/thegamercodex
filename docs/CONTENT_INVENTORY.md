@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-27
+> Última generación: 2026-05-29
 
 ## Resumen
 
-21 juegos · 354 tools · 101 creators · 107 categorías · 535 resources items · 79 comparisons
+22 juegos · 371 tools · 106 creators · 112 categorías · 560 resources items · 89 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -18,6 +18,7 @@
 | `final-fantasy-xiv` | Final Fantasy XIV | 17 | 5 | 5 | 25 | 5 |
 | `genshin-impact` | Genshin Impact | 26 | 5 | 6 | 30 | 6 |
 | `honkai-star-rail` | Honkai: Star Rail | 16 | 3 | 5 | 25 | 3 |
+| `last-epoch` | Last Epoch | 17 | 5 | 5 | 25 | 10 |
 | `league-of-legends` | League of Legends | 17 | 5 | 5 | 25 | 0 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 |
 | `nte` | Neverness to Everness | 12 | 5 | 5 | 25 | 4 |
@@ -168,6 +169,21 @@
 - `patch-coverage` — 5 items
 
 **Comparisons (3)**: `honey-hunter-world-hsr-vs-starrail-fandom-wiki` (short), `prydwen-hsr-vs-game8-hsr` (short), `star-rail-station-vs-hsr-wish-simulator` (short)
+
+### Last Epoch (`last-epoch`)
+
+**Tools (17)**: aRPG Timeline (`arpg-timeline`), ArreatSummit.gg (`arreatsummit-le`), Thundersphinx Cheat Sheet (`cheatsheet-monster-le`), Icy Veins Last Epoch (`icy-veins-le`), Last Epoch Dev Tracker (`lastepoch-dev-tracker`), Last Epoch Discord (oficial) (`lastepoch-discord`), Last Epoch Fandom Wiki (`lastepoch-fandom`), Last Epoch Forums (oficial) (`lastepoch-forums`), Last Epoch Info (TunkLab) (`lastepoch-info`), Last Epoch en speedrun.com (`lastepoch-speedrun`), r/LastEpoch (`lastepoch-subreddit`), Last Epoch Twitch Drops (`lastepoch-twitch-drops`), Last Epoch Wiki (`lastepoch-wiki`), Last Epoch Tools (`lastepochtools`), Maxroll Last Epoch (`maxroll-le`), Path of Building for Last Epoch (`path-of-building-le`), The Sanctum Market (Discord) (`sanctum-market-discord`)
+
+**Creators (5)**: Dr3adful (`dr3adful`), Lizard IRL (`lizard-irl`), MacroBioBoi (`macrobioboi`), Morttimer (`morttimer`), Perry the Pig (`perrythepig`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `class-guides` — 5 items
+- `endgame-guides` — 5 items
+- `patch-coverage` — 5 items
+- `season-coverage` — 5 items
+
+**Comparisons (10)**: `arpg-timeline-vs-lastepoch-dev-tracker` (short), `cheatsheet-monster-le-vs-lastepoch-info` (short), `lastepoch-discord-vs-lastepoch-forums` (short), `lastepoch-discord-vs-lastepoch-subreddit` (short), `lastepoch-fandom-vs-lastepoch-wiki` (short), `lastepoch-info-vs-lastepoch-fandom` (short), `maxroll-le-vs-arreatsummit-le` (short), `maxroll-le-vs-icy-veins-le` (short), `maxroll-le-vs-lastepochtools` (flagship), `path-of-building-le-vs-lastepochtools` (short)
 
 ### League of Legends (`league-of-legends`)
 

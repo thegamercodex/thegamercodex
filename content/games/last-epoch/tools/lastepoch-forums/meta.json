@@ -1,0 +1,28 @@
+{
+  "id": "lastepoch-forums",
+  "name": "Last Epoch Forums (oficial)",
+  "shortName": "LE Forums",
+  "taglineEs": "Foro oficial de Eleventh Hour Games en forum.lastepoch.com: developer blog, build compendium curado por la comunidad, bug reports formales, feedback estructurado y archive permanente de discussion histórica",
+  "taglineEn": "Eleventh Hour Games' official forum at forum.lastepoch.com: developer blog, community-curated build compendium, formal bug reports, structured feedback, and a permanent archive of historical discussion",
+  "url": "https://forum.lastepoch.com/",
+  "category": "community",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["official", "forum", "dev-blog", "build-compendium", "bug-reports", "archive"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/last-epoch/lastepoch-forums-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["lastepoch-discord", "lastepoch-subreddit", "lastepoch-dev-tracker"],
+  "alternatives": ["lastepoch-subreddit"],
+  "createdBy": {
+    "name": "Eleventh Hour Games",
+    "url": "https://eleventhhour.games/"
+  }
+}

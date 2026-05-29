@@ -1,0 +1,36 @@
+{
+  "id": "icy-veins-le",
+  "name": "Icy Veins Last Epoch",
+  "shortName": "Icy Veins",
+  "taglineEs": "Sección de Last Epoch de Icy Veins: builds y guides organizados por las cinco clases (Sentinel, Mage, Acolyte, Primalist, Rogue) con cobertura paralela a Maxroll y estilo editorial veterano del mundo MMO",
+  "taglineEn": "Icy Veins' Last Epoch section: builds and guides organized by the five classes (Sentinel, Mage, Acolyte, Primalist, Rogue) with coverage parallel to Maxroll and the veteran editorial style from the MMO world",
+  "url": "https://www.icy-veins.com/last-epoch/",
+  "category": "guides-tier-lists",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["builds", "guides", "class-coverage", "veteran-editorial", "news"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/last-epoch/icy-veins-le-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["maxroll-le", "arreatsummit-le"],
+  "alternatives": ["maxroll-le"],
+  "createdBy": {
+    "name": "Icy Veins Team",
+    "url": "https://www.icy-veins.com/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "world-of-warcraft", "url": "https://www.icy-veins.com/wow/" },
+      { "gameId": "diablo-4", "url": "https://www.icy-veins.com/d4/" },
+      { "gameId": "honkai-star-rail", "url": "https://www.icy-veins.com/hsr/" }
+    ]
+  }
+}

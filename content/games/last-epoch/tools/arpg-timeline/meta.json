@@ -1,0 +1,36 @@
+{
+  "id": "arpg-timeline",
+  "name": "aRPG Timeline",
+  "shortName": "aRPG Timeline",
+  "taglineEs": "Tracker centralizado de fechas de season start para todos los ARPGs mayores: Last Epoch, Path of Exile 1/2, Diablo 4, y otros — con countdowns, calendario subscribible (Google/Apple/Outlook) y alertas pre-launch",
+  "taglineEn": "Centralized season start date tracker for every major ARPG: Last Epoch, Path of Exile 1/2, Diablo 4, and others — with countdowns, subscribable calendar (Google/Apple/Outlook), and pre-launch alerts",
+  "url": "https://www.arpg-timeline.com/game/last-epoch",
+  "category": "event-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["calendar", "season-tracker", "multi-game", "countdowns", "ical"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/last-epoch/arpg-timeline-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["lastepoch-dev-tracker"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "aRPG Timeline Team",
+    "url": "https://www.arpg-timeline.com/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "path-of-exile", "url": "https://www.arpg-timeline.com/game/path-of-exile" },
+      { "gameId": "path-of-exile-2", "url": "https://www.arpg-timeline.com/game/path-of-exile-2" },
+      { "gameId": "diablo-4", "url": "https://www.arpg-timeline.com/game/diablo-4" }
+    ]
+  }
+}

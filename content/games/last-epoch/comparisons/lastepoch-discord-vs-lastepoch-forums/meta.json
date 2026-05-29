@@ -1,0 +1,50 @@
+{
+  "id": "lastepoch-discord-vs-lastepoch-forums",
+  "toolIds": ["lastepoch-discord", "lastepoch-forums"],
+  "category": "community",
+  "depth": "short",
+  "lastVerified": "2026-05-29",
+  "titleEs": "Last Epoch Discord vs Forum oficial — chat real-time vs archive estructurado",
+  "titleEn": "Last Epoch Discord vs official forum — real-time chat vs structured archive",
+  "descriptionEs": "Ambos son first-party EHG. Discord es high-volume, real-time, casual; forum es low-volume, asíncrono, estructurado y archived. Sirven needs distintos del workflow community.",
+  "descriptionEn": "Both are first-party EHG. Discord is high-volume, real-time, casual; the forum is low-volume, async, structured, and archived. They serve different community workflow needs.",
+  "verdictEs": "Discord para chat real-time, Q&A rápido, LFG, casual pulse. Forum para dev blogs long-form, bug reports formales, Build Compendium curado, archive permanente searchable. No reemplazan; complementan.",
+  "verdictEn": "Discord for real-time chat, fast Q&A, LFG, casual pulse. Forum for long-form dev blogs, formal bug reports, curated Build Compendium, permanent searchable archive. They don't replace; they complement.",
+  "useCases": [
+    {
+      "labelEs": "Real-time announcement reactions",
+      "labelEn": "Real-time announcement reactions",
+      "winner": "lastepoch-discord",
+      "reasonEs": "Cuando EHG announce algo, el Discord reacciona en minutos. Forum threads cooked durante horas.",
+      "reasonEn": "When EHG announces something, Discord reacts in minutes. Forum threads cook over hours."
+    },
+    {
+      "labelEs": "Dev blog y long-form explicaciones",
+      "labelEn": "Dev blog and long-form explanations",
+      "winner": "lastepoch-forums",
+      "reasonEs": "Devs publican dev blogs long-form en forum, no en Discord. Para depth de design decisions, forum es ground truth.",
+      "reasonEn": "Devs publish long-form dev blogs on the forum, not Discord. For design-decision depth, forum is ground truth."
+    },
+    {
+      "labelEs": "Bug report formal con tracking",
+      "labelEn": "Formal bug report with tracking",
+      "winner": "lastepoch-forums",
+      "reasonEs": "Forum tiene bug report templates con fields como repro steps, version, severity. Discord posts se entierran sin tracking.",
+      "reasonEn": "Forum has bug-report templates with fields like repro steps, version, severity. Discord posts get buried without tracking."
+    },
+    {
+      "labelEs": "Build Compendium curado",
+      "labelEn": "Curated Build Compendium",
+      "winner": "lastepoch-forums",
+      "reasonEs": "Forum pinned thread \"Last Epoch Build Compendium\" agrega community builds en un solo lugar. Discord no tiene equivalente curated.",
+      "reasonEn": "Forum pinned thread \"Last Epoch Build Compendium\" aggregates community builds in one place. Discord has no curated equivalent."
+    },
+    {
+      "labelEs": "Searchable archive de discussions viejas",
+      "labelEn": "Searchable archive of old discussions",
+      "winner": "lastepoch-forums",
+      "reasonEs": "Forum threads desde Early Access (2018+) están archived y searchable. Discord es ephemeral.",
+      "reasonEn": "Forum threads since Early Access (2018+) are archived and searchable. Discord is ephemeral."
+    }
+  ]
+}

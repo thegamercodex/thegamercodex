@@ -1,0 +1,49 @@
+{
+  "id": "morttimer",
+  "name": "Morttimer",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "joinedYear": 2006,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@morttimer",
+      "url": "https://www.youtube.com/@morttimer",
+      "channelId": "UCyhwBqNisZaVKlLIj-v4Tdg",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "morttimer",
+      "url": "https://www.twitch.tv/morttimer"
+    }
+  ],
+  "specialties": [
+    "spanish-language",
+    "multi-arpg",
+    "patch-coverage",
+    "starter-builds"
+  ],
+  "games": ["last-epoch", "path-of-exile-2", "diablo-4"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Morttimer es uno de los creators hispanohablantes más activos del cluster ARPG, con cobertura de Path of Exile 2, Diablo 4 y Last Epoch en español. Para LE específicamente cubre cycle launches, builds starter y patch reactions. Cadencia near-diaria de streams en Twitch y uploads regulares en YouTube. Si quieres content LE en español sin tener que recurrir a traducción de creators ingleses, este es el referente.",
+  "noteEn": "Morttimer is one of the most active Spanish-speaking creators in the ARPG cluster, covering Path of Exile 2, Diablo 4, and Last Epoch in Spanish. For LE specifically covers cycle launches, starter builds, and patch reactions. Near-daily Twitch streams and regular YouTube uploads. If you want LE content in Spanish without resorting to translating English creators, this is the reference.",
+  "highlightsEs": [
+    "Uno de los pocos creators hispanos consistentes en el cluster ARPG",
+    "Cobertura cross-game: PoE 2, D4, LE",
+    "Cadencia near-diaria de streams en Twitch",
+    "Foco en starter builds y patch reactions accesibles",
+    "Útil para audiencia que prefiere content nativo en español"
+  ],
+  "highlightsEn": [
+    "One of the few consistent Spanish-speaking creators in the ARPG cluster",
+    "Cross-game coverage: PoE 2, D4, LE",
+    "Near-daily Twitch stream cadence",
+    "Focus on starter builds and accessible patch reactions",
+    "Useful for audience that prefers native Spanish content"
+  ],
+  "avatar": "/images/creators/morttimer-avatar.jpg",
+  "banner": "/images/creators/morttimer-banner.jpg"
+}

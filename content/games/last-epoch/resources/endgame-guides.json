@@ -1,0 +1,80 @@
+{
+  "category": "endgame-guides",
+  "resources": [
+    {
+      "id": "lizard-irl-advanced-crafting-s4-2026",
+      "type": "video",
+      "title": "Advanced Crafting Guide - Last Epoch Season 4",
+      "creator": "Lizard IRL",
+      "creatorId": "lizard-irl",
+      "url": "https://www.youtube.com/watch?v=qrigoGZrcBc",
+      "youtubeId": "qrigoGZrcBc",
+      "language": "en",
+      "duration": "40:38",
+      "publishedDate": "2026-04-01",
+      "thumbnail": "https://i.ytimg.com/vi/qrigoGZrcBc/maxresdefault.jpg",
+      "noteEs": "Crafting advanced de S4 por Lizard IRL — 40 minutos cubriendo Glyph of Envy, Corruption Crafting, sealed affixes y target legendary potential. Si haces push serio o trading high-end, este es el reference video.",
+      "noteEn": "S4 advanced crafting by Lizard IRL — 40 minutes covering Glyph of Envy, Corruption Crafting, sealed affixes, and target legendary potential. If you push seriously or trade high-end, this is the reference video."
+    },
+    {
+      "id": "moxsy-corruption-progression-le-2025",
+      "type": "video",
+      "title": "How To Gain Corruption FAST! Last Epoch Monolith Progression Guide",
+      "creator": "Moxsy",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=z41hfCdRxJc",
+      "youtubeId": "z41hfCdRxJc",
+      "language": "en",
+      "duration": "13:07",
+      "publishedDate": "2025-04-22",
+      "thumbnail": "https://i.ytimg.com/vi/z41hfCdRxJc/maxresdefault.jpg",
+      "noteEs": "Cómo ganar corruption rápido en Empowered Monolith. Moxsy explica Harbinger Needles, Gazes of Orobyss farming, y order de timelines para llegar a 500-800 corruption sin morir. Critical para players queriendo push deep.",
+      "noteEn": "How to gain corruption fast in Empowered Monolith. Moxsy explains Harbinger Needles, Gazes of Orobyss farming, and timeline order to reach 500-800 corruption without dying. Critical for players pushing deep."
+    },
+    {
+      "id": "chronikz-empowered-progression-le-2025",
+      "type": "video",
+      "title": "THIS SAVES YOU 17 HOURS! Last Epoch Endgame Progression In Empowered Monoliths",
+      "creator": "Chronikz",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=stzY5ficgnw",
+      "youtubeId": "stzY5ficgnw",
+      "language": "en",
+      "duration": "8:54",
+      "publishedDate": "2025-04-19",
+      "thumbnail": "https://i.ytimg.com/vi/stzY5ficgnw/maxresdefault.jpg",
+      "noteEs": "Order optimal de Empowered Monolith para skippear horas perdidas. Chronikz comprime las lessons aprendidas en 9 minutos. Si recién unlockeaste Empowered, mira esto antes de empezar — ahorras horas reales.",
+      "noteEn": "Optimal Empowered Monolith order to skip wasted hours. Chronikz condenses learned lessons in 9 minutes. If you just unlocked Empowered, watch this before starting — saves real hours."
+    },
+    {
+      "id": "raxxanterax-uber-aberroth-le-2025",
+      "type": "video",
+      "title": "How to Kill Uber Aberroth, Final Boss Guide in Last Epoch",
+      "creator": "Raxxanterax",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=zP_0N_yODQE",
+      "youtubeId": "zP_0N_yODQE",
+      "language": "en",
+      "duration": "21:43",
+      "publishedDate": "2025-04-27",
+      "thumbnail": "https://i.ytimg.com/vi/zP_0N_yODQE/maxresdefault.jpg",
+      "noteEs": "Guide completo para matar Uber Aberroth, el pinnacle boss de LE. Raxxanterax explica fases, ability priority, resistance caps necesarios y build requirements. Critical para players que están approaching el endgame final.",
+      "noteEn": "Complete guide to killing Uber Aberroth, LE's pinnacle boss. Raxxanterax explains phases, ability priority, required resistance caps, and build requirements. Critical for players approaching final endgame."
+    },
+    {
+      "id": "wander-uber-aberroth-5min-le-2025",
+      "type": "video",
+      "title": "Uber Aberroth Boss Fight Explained in Under 5 Minutes For First Kill",
+      "creator": "wander",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=XVIegf7dwwQ",
+      "youtubeId": "XVIegf7dwwQ",
+      "language": "en",
+      "duration": "4:51",
+      "publishedDate": "2025-05-02",
+      "thumbnail": "https://i.ytimg.com/vi/XVIegf7dwwQ/maxresdefault.jpg",
+      "noteEs": "Quick reference de Uber Aberroth en 5 minutos. Para players que ya tienen build ready y solo necesitan mechanics breakdown rápido antes de pull. Complemento al guide más extenso de Raxxanterax.",
+      "noteEn": "Uber Aberroth quick reference in 5 minutes. For players who already have a ready build and just need a fast mechanics breakdown before pulling. Complement to Raxxanterax's more extensive guide."
+    }
+  ]
+}

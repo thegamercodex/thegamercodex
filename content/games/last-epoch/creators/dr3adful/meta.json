@@ -1,0 +1,49 @@
+{
+  "id": "dr3adful",
+  "name": "Dr3adful",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2020,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Dr3adful",
+      "url": "https://www.youtube.com/@Dr3adful",
+      "channelId": "UCRI3Xo9aUbdXh2RlD9pC2rg",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "dr3adful",
+      "url": "https://www.twitch.tv/dr3adful"
+    }
+  ],
+  "specialties": [
+    "build-creation",
+    "theorycraft",
+    "patch-analysis",
+    "multi-arpg"
+  ],
+  "games": ["last-epoch", "path-of-exile-2", "diablo-4"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Dr3adful es uno de los content creators más prolíficos del cluster ARPG mainstream — cubre PoE 2, D4 y LE con cadencia high. Para Last Epoch específicamente publica builds detalladas por cycle, patch reactions rápidas y theorycrafts de mecánicas obscure. Bias hacia experimentación: no se queda con builds obvios, explora variants y mecánicas underused. Para players que quieren ver multiple takes editorial sobre el meta.",
+  "noteEn": "Dr3adful is one of the most prolific content creators in the mainstream ARPG cluster — covers PoE 2, D4, and LE at high cadence. For Last Epoch specifically he publishes detailed per-cycle builds, fast patch reactions, and theorycrafts of obscure mechanics. Bias toward experimentation: doesn't settle on obvious builds, explores variants and underused mechanics. For players who want to see multiple editorial takes on the meta.",
+  "highlightsEs": [
+    "Cobertura multi-ARPG (PoE 2, D4, LE) — útil si juegas varios",
+    "Foco en builds experimentales y mecánicas underused, no solo meta",
+    "Cadencia high de uploads, especialmente post-cycle launch",
+    "Patch analysis rápidos con take editorial fuerte",
+    "Linkea regularmente a Maxroll guides cuando complementa su content"
+  ],
+  "highlightsEn": [
+    "Multi-ARPG coverage (PoE 2, D4, LE) — useful if you play several",
+    "Focus on experimental builds and underused mechanics, not only meta",
+    "High upload cadence, especially post-cycle launch",
+    "Fast patch analysis with strong editorial take",
+    "Regularly links to Maxroll guides when complementing his content"
+  ],
+  "avatar": "/images/creators/dr3adful-avatar.jpg",
+  "banner": "/images/creators/dr3adful-banner.jpg"
+}

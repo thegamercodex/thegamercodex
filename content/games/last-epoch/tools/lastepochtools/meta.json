@@ -1,0 +1,28 @@
+{
+  "id": "lastepochtools",
+  "name": "Last Epoch Tools",
+  "shortName": "LE Tools",
+  "taglineEs": "El hub comunitario más completo de Last Epoch: planner interactivo, database de items y affixes, sharing de loot filters, build collection auto-crawleada desde YouTube, profiles de characters y ladders por season",
+  "taglineEn": "Last Epoch's most complete community hub: interactive planner, item and affix database, loot filter sharing, build collection auto-crawled from YouTube, character profiles, and per-season ladders",
+  "url": "https://www.lastepochtools.com/",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["planner", "database", "loot-filters", "builds", "ladders", "character-profiles"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/last-epoch/lastepochtools-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["maxroll-le", "path-of-building-le", "arreatsummit-le"],
+  "alternatives": ["maxroll-le", "arreatsummit-le"],
+  "createdBy": {
+    "name": "Last Epoch Tools Team",
+    "url": "https://www.lastepochtools.com/"
+  }
+}

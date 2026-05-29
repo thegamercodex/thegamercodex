@@ -1,0 +1,80 @@
+{
+  "category": "class-guides",
+  "resources": [
+    {
+      "id": "darkomen-shadow-cascade-bladedancer-s4-2026",
+      "type": "video",
+      "title": "Shadow Cascade Bladedancer Theorycrafting | Last Epoch Season 4",
+      "creator": "TheDarkOmen",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=M7WEsyPfiKM",
+      "youtubeId": "M7WEsyPfiKM",
+      "language": "en",
+      "duration": "10:49",
+      "publishedDate": "2026-03-21",
+      "thumbnail": "https://i.ytimg.com/vi/M7WEsyPfiKM/maxresdefault.jpg",
+      "noteEs": "Theorycraft de Shadow Cascade Bladedancer (Rogue) — uno de los builds top de S-tier en Season 4. TheDarkOmen explica synergies, gear targeting y por qué este build rompe el meta de pushing. Útil para players intermedios planeando S-tier Rogue.",
+      "noteEn": "Shadow Cascade Bladedancer (Rogue) theorycraft — one of Season 4's top S-tier builds. TheDarkOmen explains synergies, gear targeting, and why this build breaks the pushing meta. Useful for intermediate players planning S-tier Rogue."
+    },
+    {
+      "id": "nufrontier-flame-reave-spellblade-s4-2026",
+      "type": "video",
+      "title": "DELETE Everything! Flame Reave Spellblade Build Part 1 | Last Epoch Season 4",
+      "creator": "NuFrontier",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=qpyo55v5PcE",
+      "youtubeId": "qpyo55v5PcE",
+      "language": "en",
+      "duration": "29:02",
+      "publishedDate": "2026-03-28",
+      "thumbnail": "https://i.ytimg.com/vi/qpyo55v5PcE/maxresdefault.jpg",
+      "noteEs": "Build guide profundo de Flame Reave Spellblade (Mage), uno de los new S-tier de Season 4. NuFrontier explica Enchant Weapon synergy, Sunwreath unique para AoE circular, y rotation completa. Mage main que quieren push en S4 — referencia obligatoria.",
+      "noteEn": "Deep build guide for Flame Reave Spellblade (Mage), one of Season 4's new S-tiers. NuFrontier explains Enchant Weapon synergy, Sunwreath unique for circular AoE, and complete rotation. Mage mains wanting to push in S4 — required reading."
+    },
+    {
+      "id": "volca-rip-blood-lich-s4-2026",
+      "type": "video",
+      "title": "RIP BLOOD LICH - Build Guide | Last Epoch Season 4",
+      "creator": "Volca",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ld7MCbO3B-I",
+      "youtubeId": "ld7MCbO3B-I",
+      "language": "en",
+      "duration": "10:06",
+      "publishedDate": "2026-04-07",
+      "thumbnail": "https://i.ytimg.com/vi/ld7MCbO3B-I/maxresdefault.jpg",
+      "noteEs": "RIP Blood Lich (Acolyte) — build de DOT que aprovecha curse stacking masivo. Volca explica setup específico para sostener corruption push. Útil para players que prefieren playstyle de \"set and forget\" con minions reemplazados por DOT damage.",
+      "noteEn": "RIP Blood Lich (Acolyte) — DOT build leveraging massive curse stacking. Volca explains specific setup to sustain corruption push. Useful for players who prefer a 'set and forget' playstyle with minions replaced by DOT damage."
+    },
+    {
+      "id": "zone-warpath-void-knight-s4-2026",
+      "type": "video",
+      "title": "Last Epoch Season 4 Beginner All In One Warpath Void Knight Build Guide",
+      "creator": "Zone",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=cI6rU4W-gX8",
+      "youtubeId": "cI6rU4W-gX8",
+      "language": "en",
+      "duration": "52:41",
+      "publishedDate": "2026-03-25",
+      "thumbnail": "https://i.ytimg.com/vi/cI6rU4W-gX8/maxresdefault.jpg",
+      "noteEs": "Warpath Void Knight (Sentinel) — el build clásico \"hold button, delete everything\". Zone cubre desde nivel 2 hasta endgame: 52 minutos exhaustivos. Para newcomers que quieren un Sentinel forgiving que escala con investment. S-tier confiable cada cycle.",
+      "noteEn": "Warpath Void Knight (Sentinel) — the classic 'hold button, delete everything' build. Zone covers from level 2 to endgame: 52 exhaustive minutes. For newcomers who want a forgiving Sentinel that scales with investment. Reliable S-tier every cycle."
+    },
+    {
+      "id": "morttimer-nigromante-minions-le-2024",
+      "type": "video",
+      "title": "LAST EPOCH ESPAÑOL NIGROMANTE BUILD MINIONS PARA VOLAR AL 100 | ACÓLITA | GUÍA",
+      "creator": "Morttimer",
+      "creatorId": "morttimer",
+      "url": "https://www.youtube.com/watch?v=F1iZDweMBrk",
+      "youtubeId": "F1iZDweMBrk",
+      "language": "es",
+      "duration": "17:20",
+      "publishedDate": "2024-02-18",
+      "thumbnail": "https://i.ytimg.com/vi/F1iZDweMBrk/maxresdefault.jpg",
+      "noteEs": "Build de Nigromante (Acolyte → Necromancer) con minions para hacer leveling rápido. Morttimer explica skill priority, pasivas critical y gear baseline en español neutro. Para newcomers hispanohablantes que quieren Necromancer como primera mastery.",
+      "noteEn": "Necromancer (Acolyte → Necromancer) minion build for fast leveling. Morttimer explains skill priority, critical passives, and gear baseline in neutral Spanish. For Spanish-speaking newcomers who want Necromancer as their first mastery."
+    }
+  ]
+}

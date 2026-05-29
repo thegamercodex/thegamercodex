@@ -1,0 +1,28 @@
+{
+  "id": "lastepoch-dev-tracker",
+  "name": "Last Epoch Dev Tracker",
+  "shortName": "Dev Tracker",
+  "taglineEs": "Agregador de posts del developer team de Last Epoch en developertracker.com: trackea Reddit, Twitter, foros y Discord oficial en un solo feed cronológico, sin que se te escape ningún anuncio o respuesta",
+  "taglineEn": "Aggregator of Last Epoch developer team posts at developertracker.com: tracks Reddit, Twitter, forums, and the official Discord in a single chronological feed, so no announcement or response slips by",
+  "url": "https://developertracker.com/last-epoch/",
+  "category": "event-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["dev-tracker", "patch-info", "ehg-posts", "cross-platform-aggregation"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-29",
+  "logo": "/images/tools/last-epoch/lastepoch-dev-tracker-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["arpg-timeline", "lastepoch-forums", "lastepoch-discord"],
+  "alternatives": ["lastepoch-forums"],
+  "createdBy": {
+    "name": "DeveloperTracker.com",
+    "url": "https://developertracker.com/"
+  }
+}
