@@ -71,6 +71,9 @@ export async function generateMetadata({
       description: t("siteTagline"),
       images: ["/images/tgc-logo.webp"],
     },
+    verification: {
+      yandex: "1dd0aea586ad98e4",
+    },
   };
 }
 
