@@ -28,9 +28,9 @@ Desde el lanzamiento en EA, GGG ha publicado patches grandes con nuevas ascenden
 - **0.1** — Lanzamiento EA, primera campaña, primeras 6 ascendencias.
 - **0.2** — Cruel Difficulty, ajustes de loot, primera liga.
 - **0.3 / 0.4** — Last of the Druids: nueva ascendencia Druid, mecánica Fate of the Vaal, expansión del endgame.
-- **0.5** — Return of the Ancients (anunciado en mayo 2026, patch notes el 21 de mayo, lanzamiento de liga el 29 de mayo): nueva liga **Runes of Aldur** con Ezomyte Runesmithing (NPC Farrow y Remnants con slots de runas), 2 ascendencias nuevas (una para Huntress y una para Monk) y endgame redesign. GGG lo presentó como el último parche mayor antes del 1.0 full release, esperado tras ExileCon en noviembre.
+- **0.5** — Return of the Ancients (lanzada el 29 de mayo de 2026): nueva liga **Runes of Aldur** con más de 100 runas para socketear en gear y nuevos skill/support gems que consumen Runic Ward en lugar de mana, 2 ascendencias nuevas (**Spiritwalker** para Huntress con companions animales y spectral, **Martial Artist** para Monk con combat de illusions y mano-a-mano), Atlas redesign con quest lines fijas por mecánica de liga, Breach reworkeado e integrado al sistema Keepers of the Flame de PoE 1, **Genesis Tree** de crafting, y campaña streamlined (densidad reducida en zonas tardías y Act 3) para hacer replay más rápido. GGG lo presentó como el último parche mayor del Early Access — el 1.0 full release se espera para diciembre de 2026 tras ExileCon en noviembre.
 
-Las versiones 0.x indican que el juego está en desarrollo activo y los players deben esperar cambios significativos entre patches. Con 0.5 cerrando el ciclo EA, el codex va a marcar contenido nuevo a medida que la liga avance.
+Las versiones 0.x indican que el juego está en desarrollo activo y los players deben esperar cambios significativos entre patches. Con 0.5 cerrando el ciclo EA, el codex marca contenido nuevo a medida que la liga Runes of Aldur avance.
 
 ## Para quién es esta sección
 

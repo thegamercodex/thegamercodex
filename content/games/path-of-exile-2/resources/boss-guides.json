@@ -2,34 +2,34 @@
   "category": "boss-guides",
   "resources": [
     {
-      "id": "byankuu-poe2-citadels-map-bosses-100-200-divines-2026",
+      "id": "spud-the-king-poe2-05-do-this-first-endgame-2026",
       "type": "video",
-      "title": "How I'm Making 100–200 Divines PER HOUR rushing Citadels and Deadly Map Bosses 0.4",
-      "creator": "Byankuu",
+      "title": "DO THIS FIRST in POE2 0.5 Endgame",
+      "creator": "Spud the King",
       "creatorId": null,
-      "url": "https://www.youtube.com/watch?v=dXXs5_v6XTo",
-      "youtubeId": "dXXs5_v6XTo",
+      "url": "https://www.youtube.com/watch?v=PT1RO4QqIqk",
+      "youtubeId": "PT1RO4QqIqk",
       "language": "en",
-      "duration": "11:22",
-      "publishedDate": "2026-01-03",
-      "thumbnail": "https://i.ytimg.com/vi/dXXs5_v6XTo/maxresdefault.jpg",
-      "noteEs": "Byankuu documenta su loop de bossing en PoE 2 0.4: rushear Citadels y deadly map bosses para sostener 100-200 divines/hora. Incluye build requirements, ruta del Atlas, y cómo identificar maps con boss density alta. Boss-as-income, complementario al boss-as-progression.",
-      "noteEn": "Byankuu documents his PoE 2 0.4 bossing loop: rushing Citadels and deadly map bosses to sustain 100-200 divines/hour. Includes build requirements, Atlas route, and how to identify high boss-density maps. Boss-as-income, complementary to boss-as-progression."
+      "duration": "20:09",
+      "publishedDate": "2026-05-14",
+      "thumbnail": "https://i.ytimg.com/vi/PT1RO4QqIqk/maxresdefault.jpg",
+      "noteEs": "Primer paso en el endgame de 0.5: Spud the King prioriza qué hacer al entrar al Atlas redesignado — qué Master desbloquear primero, qué Fortress segments perseguir, qué Atlas Tree points apuntar. Reemplaza la lógica del 0.4 endgame loop con la nueva estructura de Return of the Ancients.",
+      "noteEn": "First steps into 0.5's endgame: Spud the King prioritizes what to do when entering the redesigned Atlas — which Master to unlock first, which Fortress segments to chase, which Atlas Tree points to target. Replaces the 0.4 endgame loop logic with the Return of the Ancients structure."
     },
     {
-      "id": "blu-phoenix-abyss-atlas-skill-points-2026",
+      "id": "fredchuckdave-arbiter-divinity-pinnacle-poe2-05-2026",
       "type": "video",
-      "title": "Abyss Quick Guide & How To Unlock All 8 Atlas Skill Points | 0.4.0",
-      "creator": "Blu Phoenix",
+      "title": "Path of Exile 2 Arbiter of Divinity Boss Guide All Lore, Mechanics Shown Full Questline New Pinnacle",
+      "creator": "Fredchuckdave",
       "creatorId": null,
-      "url": "https://www.youtube.com/watch?v=v00XGiPOcvU",
-      "youtubeId": "v00XGiPOcvU",
+      "url": "https://www.youtube.com/watch?v=1n6-P4A7M58",
+      "youtubeId": "1n6-P4A7M58",
       "language": "en",
-      "duration": "16:29",
-      "publishedDate": "2026-01-01",
-      "thumbnail": "https://i.ytimg.com/vi/v00XGiPOcvU/maxresdefault.jpg",
-      "noteEs": "Para acceder a los pinnacle bosses hay que primero desbloquear los Atlas Skill Points peleando Abyss y otros mecánicos. Blu Phoenix cubre cómo unlockear los 8 points completos con efficiency, qué bosses farmear primero, y cómo evitar los bottlenecks típicos. Pre-requisite obligatorio antes del bossing endgame.",
-      "noteEn": "To access pinnacle bosses, you first need to unlock Atlas Skill Points by fighting Abyss and other mechanics. Blu Phoenix covers how to efficiently unlock all 8 points, which bosses to farm first, and how to avoid typical bottlenecks. Mandatory prerequisite before endgame bossing."
+      "duration": "20:11",
+      "publishedDate": "2026-05-29",
+      "thumbnail": "https://i.ytimg.com/vi/1n6-P4A7M58/maxresdefault.jpg",
+      "noteEs": "Guía completa del nuevo pinnacle boss de 0.5: Arbiter of Divinity, el reemplazo del Arbiter of Ash como cara final del Atlas. Fredchuckdave cubre lore, mecánicas, questline y el kill — 20 minutos publicados el día del lanzamiento. Obligatorio para players que vayan por el pinnacle del cycle nuevo.",
+      "noteEn": "Complete guide to 0.5's new pinnacle boss: Arbiter of Divinity, the replacement for Arbiter of Ash as the Atlas's final face. Fredchuckdave covers lore, mechanics, questline, and the kill — 20 minutes published on launch day. Required for players going after the new cycle's pinnacle."
     },
     {
       "id": "bubahz-arbiter-ash-2024",
@@ -43,8 +43,8 @@
       "duration": "11:38",
       "publishedDate": "2024-12-17",
       "thumbnail": "https://i.ytimg.com/vi/L_9jXHm9Ab8/maxresdefault.jpg",
-      "noteEs": "Anchor en español para el pinnacle boss: Arbiter of the Ash. BuBahz cubre las mecánicas, posicionamiento, y errores típicos que matan el run. Aunque es de finales de 2024 (launch del juego), las mecánicas core del boss siguen siendo iguales — la guía vale para 0.4 actual.",
-      "noteEn": "Spanish anchor for the pinnacle boss: Arbiter of the Ash. BuBahz covers mechanics, positioning, and typical mistakes that kill runs. Although from late 2024 (game launch), the boss's core mechanics remain the same — the guide is still valid for current 0.4."
+      "noteEs": "Anchor en español para Arbiter of the Ash. Aunque dejó de ser el pinnacle principal en 0.5 (lo reemplazó Arbiter of Divinity), sigue siendo accesible desde la Fortress con fragments y mantiene su loot table — las mecánicas que BuBahz explica siguen vigentes para players que vayan por su unique drops.",
+      "noteEn": "Spanish anchor for Arbiter of the Ash. Although it stopped being the main pinnacle in 0.5 (replaced by Arbiter of Divinity), it's still accessible from the Fortress with fragments and keeps its loot table — the mechanics BuBahz explains still apply for players going after its unique drops."
     },
     {
       "id": "tenkiei-poe2-trial-of-chaos-trialmaster-2025",
@@ -58,8 +58,8 @@
       "duration": "18:30",
       "publishedDate": "2025-01-16",
       "thumbnail": "https://i.ytimg.com/vi/j0kSS-s3Pno/maxresdefault.jpg",
-      "noteEs": "Tenkiei cubre el Trial of Chaos completo y la pelea final contra el Trialmaster: estrategia para evadir mecánicas (hugging walls), gear recommendations, y cómo gestionar el escalado de afflictions a través de los pisos. El Trialmaster es uno de los pinnacle bosses centrales de PoE 2 — guía obligatoria si vas por la ruta Trial.",
-      "noteEn": "Tenkiei covers the full Trial of Chaos and the final Trialmaster fight: strategy to dodge mechanics (hugging walls), gear recommendations, and how to manage affliction scaling across floors. The Trialmaster is one of PoE 2's central pinnacle bosses — required guide if you're going the Trial route."
+      "noteEs": "Tenkiei cubre el Trial of Chaos completo y la pelea final contra el Trialmaster: estrategia para evadir mecánicas (hugging walls), gear recommendations, y cómo gestionar el escalado de afflictions a través de los pisos. El Trialmaster sigue siendo una de las pinnacle routes centrales de PoE 2 en 0.5 — guía obligatoria si vas por esa ascendency.",
+      "noteEn": "Tenkiei covers the full Trial of Chaos and the final Trialmaster fight: strategy to dodge mechanics (hugging walls), gear recommendations, and how to manage affliction scaling across floors. The Trialmaster remains one of PoE 2's central pinnacle routes in 0.5 — required guide if you're going that ascendancy."
     },
     {
       "id": "darkgage-poe2-citadel-bosses-quick-guide-2025",
@@ -73,8 +73,8 @@
       "duration": "10:51",
       "publishedDate": "2025-01-21",
       "thumbnail": "https://i.ytimg.com/vi/t-ftLNnV3SM/maxresdefault.jpg",
-      "noteEs": "Quick guide para los 3 Citadel bosses (Copper - Jamanra, Iron - Geonor, Stone - Doryani). Darkgage condensa las mecánicas de cada uno + su strat de farming en 11 minutos. Útil como referencia rápida durante un run cuando llegas a un Citadel y necesitas repaso ágil sin perder tiempo.",
-      "noteEn": "Quick guide for the 3 Citadel bosses (Copper - Jamanra, Iron - Geonor, Stone - Doryani). Darkgage condenses each one's mechanics + his farming strat into 11 minutes. Useful as a fast reference during a run when you reach a Citadel and need a quick refresher without wasting time."
+      "noteEs": "Quick guide para los 3 Citadel bosses (Copper - Jamanra, Iron - Geonor, Stone - Doryani). Darkgage condensa las mecánicas de cada uno + su strat de farming en 11 minutos. Útil como referencia rápida durante un run cuando llegas a un Citadel y necesitas repaso ágil sin perder tiempo. Las mecánicas core de cada boss siguen iguales en 0.5.",
+      "noteEn": "Quick guide for the 3 Citadel bosses (Copper - Jamanra, Iron - Geonor, Stone - Doryani). Darkgage condenses each one's mechanics + his farming strat into 11 minutes. Useful as a fast reference during a run when you reach a Citadel and need a quick refresher without wasting time. The core mechanics of each boss are the same in 0.5."
     }
   ]
 }
