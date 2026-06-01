@@ -1,0 +1,138 @@
+{
+  "id": "elden-ring-nightreign",
+  "name": "Elden Ring Nightreign",
+  "shortName": "Nightreign",
+  "developer": "FromSoftware",
+  "releaseYear": 2025,
+  "officialUrl": "https://en.bandainamcoent.eu/elden-ring/elden-ring-nightreign",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/2622380/ELDEN_RING_NIGHTREIGN/",
+      "appId": "2622380",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10010540",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/store/elden-ring-nightreign",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": false,
+    "purchaseTypes": ["expansion"],
+    "payToWin": false,
+    "noteEs": "Compra única (~$40 USD), spin-off standalone que no requiere el Elden Ring original. La expansión Forsaken Hollows (2026) agrega contenido por separado. Sin microtransacciones, sin season pass, sin battle pass — el modelo From Software clásico.",
+    "noteEn": "One-time purchase (~$40 USD), standalone spin-off that doesn't require the original Elden Ring. The Forsaken Hollows expansion (2026) adds content separately. No microtransactions, no season pass, no battle pass — the classic From Software model."
+  },
+  "platforms": ["windows", "playstation", "xbox"],
+  "genres": ["action-rpg", "co-op", "roguelike", "soulslike", "online", "multiplayer"],
+  "theme": {
+    "primary": "#4a2f5a",
+    "secondary": "#1c0f24",
+    "accent": "#a878d8",
+    "background": "#0a0610",
+    "text": "#e8dcf0"
+  },
+  "logo": "/images/games/elden-ring-nightreign-logo.png",
+  "heroImage": "/images/games/elden-ring-nightreign-hero.webp",
+  "toolCategories": [
+    {
+      "id": "build-planning",
+      "nameEs": "Planificación de Builds",
+      "nameEn": "Build Planning",
+      "descriptionEs": "Planificadores de Nightfarers, relics, armas y consumables para optimizar runs de Expedition",
+      "descriptionEn": "Nightfarer, relic, weapon, and consumable planners to optimize Expedition runs",
+      "icon": "🧮"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis con Nightfarers, Nightlords, relics, weapons, mapas y estrategias de Expedition",
+      "descriptionEn": "Wikis with Nightfarers, Nightlords, relics, weapons, maps, and Expedition strategies",
+      "icon": "📚"
+    },
+    {
+      "id": "maps",
+      "nameEs": "Mapas y Routing",
+      "nameEn": "Maps & Routing",
+      "descriptionEs": "Herramientas para identificar map patterns, planificar rutas y maximizar valor por Expedition",
+      "descriptionEn": "Tools to identify map patterns, plan routes, and maximize value per Expedition",
+      "icon": "🗺️"
+    },
+    {
+      "id": "mod-hubs",
+      "nameEs": "Hubs de Mods",
+      "nameEn": "Mod Hubs",
+      "descriptionEs": "El catálogo de mods de Nightreign con downloads, comments y comunidad de modders",
+      "descriptionEn": "The Nightreign mod catalog with downloads, comments, and modder community",
+      "icon": "📦"
+    },
+    {
+      "id": "multiplayer-mods",
+      "nameEs": "Mods Multiplayer",
+      "nameEn": "Multiplayer Mods",
+      "descriptionEs": "Mods que modifican el setup multiplayer: Seamless Co-op, rebalance solo/duo, fix de matchmaking",
+      "descriptionEn": "Mods that modify multiplayer setup: Seamless Co-op, solo/duo rebalance, matchmaking fixes",
+      "icon": "🤝"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Servidores y subreddits donde la comunidad de Nightreign comparte builds, organiza grupos y discute meta",
+      "descriptionEn": "Servers and subreddits where the Nightreign community shares builds, organizes groups, and discusses meta",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Primeros pasos en Nightreign: cómo funciona Expedition, Nightfarers básicos y mecánicas core",
+      "descriptionEn": "First steps in Nightreign: how Expedition works, basic Nightfarers, and core mechanics",
+      "icon": "🌱"
+    },
+    {
+      "id": "nightfarer-guides",
+      "nameEs": "Guías de Nightfarers",
+      "nameEn": "Nightfarer Guides",
+      "descriptionEs": "Builds y estrategias por personaje: Wylder, Guardian, Ironeye, Recluse, Duchess, Raider, Revenant, Executor",
+      "descriptionEn": "Builds and strategies per character: Wylder, Guardian, Ironeye, Recluse, Duchess, Raider, Revenant, Executor",
+      "icon": "🛡️"
+    },
+    {
+      "id": "nightlord-guides",
+      "nameEs": "Guías de Nightlords",
+      "nameEn": "Nightlord Guides",
+      "descriptionEs": "Estrategias para cada Nightlord boss: patterns, openings de daño y composiciones de team óptimas",
+      "descriptionEn": "Strategies for each Nightlord boss: patterns, damage openings, and optimal team compositions",
+      "icon": "👹"
+    },
+    {
+      "id": "relic-guides",
+      "nameEs": "Guías de Relics",
+      "nameEn": "Relic Guides",
+      "descriptionEs": "Cómo farmear relics específicos, optimizar slots y construir builds basadas en stat combinations",
+      "descriptionEn": "How to farm specific relics, optimize slots, and build around stat combinations",
+      "icon": "💎"
+    },
+    {
+      "id": "meta-and-updates",
+      "nameEs": "Meta y Updates",
+      "nameEn": "Meta & Updates",
+      "descriptionEs": "Análisis del meta actual, balance patches y contenido del DLC Forsaken Hollows",
+      "descriptionEn": "Current meta analysis, balance patches, and Forsaken Hollows DLC content",
+      "icon": "📊"
+    }
+  ],
+  "similarGames": ["elden-ring", "path-of-exile-2", "windrose"]
+}

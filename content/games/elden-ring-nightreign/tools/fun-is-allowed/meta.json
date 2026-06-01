@@ -1,0 +1,28 @@
+{
+  "id": "fun-is-allowed",
+  "name": "Fun is Allowed - Mod Overhaul for Solos and Duos",
+  "shortName": "Fun is Allowed",
+  "taglineEs": "Rebalance del juego para solo y duo: stats ajustados, Wending Grace inicial, daño mejorado para hacer Expedition viable sin trio",
+  "taglineEn": "Game rebalance for solo and duo: adjusted stats, starting Wending Grace, improved damage to make Expedition viable without a trio",
+  "url": "https://www.nexusmods.com/eldenringnightreign/mods/49",
+  "category": "multiplayer-mods",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["rebalance", "solo", "duo", "mod"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nightreign-seamless-coop", "nexus-mods-nightreign"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Fun is Allowed dev",
+    "url": "https://www.nexusmods.com/eldenringnightreign/mods/49"
+  }
+}

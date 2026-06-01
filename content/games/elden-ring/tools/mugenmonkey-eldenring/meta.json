@@ -1,0 +1,28 @@
+{
+  "id": "mugenmonkey-eldenring",
+  "name": "Mugen Monkey (Elden Ring)",
+  "shortName": "Mugen Monkey",
+  "taglineEs": "El planner clásico de la comunidad Souls — minimalista, rápido y mantenido desde Dark Souls 1",
+  "taglineEn": "The classic Souls community planner — minimalist, fast, and maintained since Dark Souls 1",
+  "url": "https://mugenmonkey.com/eldenring/",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-planner", "calculator", "starting-class", "classic"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/elden-ring/mugenmonkey-eldenring-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["eip-build-planner", "tarnished-dev"],
+  "alternatives": ["eip-build-planner", "tarnished-dev", "er-inventory-emilia"],
+  "createdBy": {
+    "name": "MugenMonkey",
+    "url": "https://mugenmonkey.com"
+  }
+}

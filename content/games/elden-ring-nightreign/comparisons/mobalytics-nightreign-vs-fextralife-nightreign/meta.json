@@ -1,0 +1,46 @@
+{
+  "id": "mobalytics-nightreign-vs-fextralife-nightreign",
+  "toolIds": ["mobalytics-nightreign", "fextralife-nightreign"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-05-31",
+  "verdictEs": "Mobalytics si quieres editorial opinionated con tier lists y planner integrado; Fextralife si quieres wiki factual con cobertura completa y community comments.",
+  "verdictEn": "Mobalytics if you want opinionated editorial with tier lists and integrated planner; Fextralife if you want a factual wiki with complete coverage and community comments.",
+  "useCases": [
+    {
+      "labelEs": "Build recommendation con tier list",
+      "labelEn": "Build recommendation with tier list",
+      "winner": "mobalytics-nightreign",
+      "reasonEs": "Mobalytics tiene tier lists editorial actualizadas por patch. Fextralife es factual sin opinion clara.",
+      "reasonEn": "Mobalytics has per-patch updated editorial tier lists. Fextralife is factual without clear opinion."
+    },
+    {
+      "labelEs": "Lookup factual de item específico",
+      "labelEn": "Factual lookup of a specific item",
+      "winner": "fextralife-nightreign",
+      "reasonEs": "Fextralife tiene página por item con stats, location, drops. Mobalytics agrupa por priority, no por item.",
+      "reasonEn": "Fextralife has per-item pages with stats, location, drops. Mobalytics groups by priority, not per item."
+    },
+    {
+      "labelEs": "Community comments y workarounds",
+      "labelEn": "Community comments and workarounds",
+      "winner": "fextralife-nightreign",
+      "reasonEs": "Fextralife tiene comments por página con community wisdom. Mobalytics no implementa comments.",
+      "reasonEn": "Fextralife has per-page comments with community wisdom. Mobalytics doesn't implement comments."
+    },
+    {
+      "labelEs": "Planner integrado para custom builds",
+      "labelEn": "Integrated planner for custom builds",
+      "winner": "mobalytics-nightreign",
+      "reasonEs": "Mobalytics tiene build planner integrado. Fextralife es solo wiki sin tools.",
+      "reasonEn": "Mobalytics has integrated build planner. Fextralife is wiki-only without tools."
+    },
+    {
+      "labelEs": "Mobile reading durante juego",
+      "labelEn": "Mobile reading during play",
+      "winner": "mobalytics-nightreign",
+      "reasonEs": "Mobalytics tiene apps mobile dedicadas. Fextralife mobile es ad-heavy y difícil de leer.",
+      "reasonEn": "Mobalytics has dedicated mobile apps. Fextralife mobile is ad-heavy and hard to read."
+    }
+  ]
+}

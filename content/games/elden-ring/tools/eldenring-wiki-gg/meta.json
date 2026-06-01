@@ -1,0 +1,28 @@
+{
+  "id": "eldenring-wiki-gg",
+  "name": "Elden Ring Wiki (wiki.gg)",
+  "shortName": "wiki.gg",
+  "taglineEs": "Wiki comunitario sin ads, mantenido por editores voluntarios — alternativa limpia a Fextralife",
+  "taglineEn": "Community-maintained ad-free wiki run by volunteer editors — clean alternative to Fextralife",
+  "url": "https://eldenring.wiki.gg/",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "reference", "ad-free", "community-driven"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/elden-ring/eldenring-wiki-gg-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["fextralife-eldenring"],
+  "alternatives": ["fextralife-eldenring"],
+  "createdBy": {
+    "name": "wiki.gg community",
+    "url": "https://wiki.gg"
+  }
+}

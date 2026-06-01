@@ -1,0 +1,28 @@
+{
+  "id": "mapgenie-eldenring",
+  "name": "Map Genie (Elden Ring)",
+  "shortName": "Map Genie",
+  "taglineEs": "Mapa interactivo con sites of grace, NPCs, dungeons, items y filtros por categoría — Lands Between y SOTE",
+  "taglineEn": "Interactive map with sites of grace, NPCs, dungeons, items, and per-category filters — Lands Between and SOTE",
+  "url": "https://mapgenie.io/elden-ring/maps/the-lands-between",
+  "category": "maps",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "ios", "android"],
+  "languages": ["en"],
+  "tags": ["map", "collectibles", "freemium", "mobile-app"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/elden-ring/mapgenie-eldenring-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["atlasforge-eldenring", "fextralife-eldenring"],
+  "alternatives": ["atlasforge-eldenring"],
+  "createdBy": {
+    "name": "Map Genie",
+    "url": "https://mapgenie.io"
+  }
+}

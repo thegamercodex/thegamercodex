@@ -1,0 +1,37 @@
+{
+  "id": "atlasforge-palworld",
+  "name": "AtlasForge (Palworld)",
+  "shortName": "AtlasForge",
+  "taglineEs": "Mapa interactivo de Palpagos con Pal spawns, dungeons, fast travel points y resource nodes",
+  "taglineEn": "Palpagos interactive map with Pal spawns, dungeons, fast travel points, and resource nodes",
+  "url": "https://atlasforge.gg/palworld",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["map", "pal-spawns", "dungeons", "resources", "multi-game"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-01",
+  "logo": "/images/tools/common/atlasforge-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [],
+  "alternatives": [],
+  "createdBy": {
+    "name": "AtlasForge",
+    "url": "https://atlasforge.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "elden-ring", "url": "https://atlasforge.gg/elden-ring" },
+      { "gameId": "cyberpunk-2077", "url": "https://atlasforge.gg/cyberpunk-2077" },
+      { "gameId": "skyrim", "url": "https://atlasforge.gg/skyrim" },
+      { "gameId": "world-of-warcraft", "url": "https://atlasforge.gg/wow-classic" }
+    ]
+  }
+}

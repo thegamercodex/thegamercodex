@@ -1,0 +1,39 @@
+{
+  "id": "norzza",
+  "name": "NorZZa",
+  "country": "UK",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2016,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@NorZZa",
+      "url": "https://www.youtube.com/@NorZZa",
+      "channelId": "UCs-wgS3MTkROUFE9_FhvVLQ",
+      "primary": true
+    }
+  ],
+  "specialties": ["beginner-guides", "build-overviews", "nightfarer-class-guides"],
+  "games": ["elden-ring", "elden-ring-nightreign"],
+  "contentTypes": ["beginner-guides", "class-guides", "news-coverage"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Canal multi-juego con cobertura amplia incluyendo ER base y Nightreign. Su 'Ultimate GUIDE To EVERY NIGHTFARER' es la introducción más completa al roster en YouTube. Mejor para newcomers que para endgame optimizers.",
+  "noteEn": "Multi-game channel with broad coverage including base ER and Nightreign. Its 'Ultimate GUIDE To EVERY NIGHTFARER' is the most complete roster introduction on YouTube. Better for newcomers than endgame optimizers.",
+  "highlightsEs": [
+    "'Ultimate GUIDE To EVERY NIGHTFARER' como entry point al roster",
+    "Beginner guides de ER base y Nightreign con cobertura paralela",
+    "News coverage de Souls/From Software games",
+    "Cobertura del DLC Forsaken Hollows con first impressions y class adjustments",
+    "Lenguaje accesible para newcomers"
+  ],
+  "highlightsEn": [
+    "'Ultimate GUIDE To EVERY NIGHTFARER' as roster entry point",
+    "Base ER and Nightreign beginner guides with parallel coverage",
+    "News coverage of Souls / FromSoftware games",
+    "Forsaken Hollows DLC coverage with first impressions and class adjustments",
+    "Accessible delivery for newcomers"
+  ],
+  "avatar": "/images/creators/norzza-avatar.jpg",
+  "banner": "/images/creators/norzza-banner.jpg"
+}

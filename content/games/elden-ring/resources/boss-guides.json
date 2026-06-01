@@ -1,0 +1,80 @@
+{
+  "category": "boss-guides",
+  "resources": [
+    {
+      "id": "darryl-tonks-promised-consort-radahn-easily",
+      "type": "video",
+      "title": "How to Beat Promised Consort Radahn EASILY! Full Elden Ring Guide",
+      "creator": "Darryl Tonks",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=g0NHU78KdcY",
+      "youtubeId": "g0NHU78KdcY",
+      "language": "en",
+      "duration": "11:06",
+      "publishedDate": "2024-06-28",
+      "thumbnail": "https://i.ytimg.com/vi/g0NHU78KdcY/maxresdefault.jpg",
+      "noteEs": "Estrategia clear contra Promised Consort Radahn, el jefe más difícil de SOTE. Cubre fases 1 y 2 con dodge timing y openings de daño explicados.",
+      "noteEn": "Clear strategy against Promised Consort Radahn, the hardest boss in SOTE. Covers phases 1 and 2 with dodge timing and damage openings explained."
+    },
+    {
+      "id": "primalsolstice-pcr-mage-guide",
+      "type": "video",
+      "title": "HOW TO EASILY BEAT Promised Consort Radahn As a Mage | Boss Guide | Elden Ring Shadow Of The Erdtree",
+      "creator": "PrimalSolstice",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Qg4vD6wyibQ",
+      "youtubeId": "Qg4vD6wyibQ",
+      "language": "en",
+      "duration": "4:34",
+      "publishedDate": "2024-08-09",
+      "thumbnail": "https://i.ytimg.com/vi/Qg4vD6wyibQ/maxresdefault.jpg",
+      "noteEs": "Estrategia específica de mage contra PCR usando Comet Azur en phase 1 y rotaciones de Glintstone en phase 2. Para builds de pura INT con dificultad atascada.",
+      "noteEn": "Mage-specific strategy against PCR using Comet Azur in phase 1 and Glintstone rotations in phase 2. For pure-INT builds stuck on the fight."
+    },
+    {
+      "id": "abyx-gaming-malenia-easy-strategy",
+      "type": "video",
+      "title": "EASY Strategy: How to defeat Malenia: Blade of Miquella (Boss fight guide)",
+      "creator": "Abyx Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=f9XCNXCM-N0",
+      "youtubeId": "f9XCNXCM-N0",
+      "language": "en",
+      "duration": "8:38",
+      "publishedDate": "2022-04-19",
+      "thumbnail": "https://i.ytimg.com/vi/f9XCNXCM-N0/maxresdefault.jpg",
+      "noteEs": "Una de las primeras guías clear de Malenia que sigue funcionando — estrategia basada en bleed + space management. Sin gimmicks, applicable a builds estándar.",
+      "noteEn": "One of the first clear Malenia guides that still works — strategy based on bleed + space management. No gimmicks, applicable to standard builds."
+    },
+    {
+      "id": "luc1-last-malenia-boss-guide",
+      "type": "video",
+      "title": "The Last Malenia Boss Guide You'll Need",
+      "creator": "Luc1",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=dnfe-vYRjOc",
+      "youtubeId": "dnfe-vYRjOc",
+      "language": "en",
+      "duration": "17:34",
+      "publishedDate": "2022-05-03",
+      "thumbnail": "https://i.ytimg.com/vi/dnfe-vYRjOc/maxresdefault.jpg",
+      "noteEs": "Guía exhaustiva de Malenia con moveset breakdown, contadores para Waterfowl Dance y opciones para distintos builds. Más profunda que la mayoría de tutoriales rápidos.",
+      "noteEn": "Exhaustive Malenia guide with moveset breakdown, Waterfowl Dance counters, and options for different builds. Deeper than most quick tutorials."
+    },
+    {
+      "id": "chris-chrass-mohg-master-guide",
+      "type": "video",
+      "title": "How To MASTER Mohg, Lord of Blood - In Depth Boss Guide & Moveset Analysis",
+      "creator": "Chris Chrass",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=-m47UTvc6eY",
+      "youtubeId": "-m47UTvc6eY",
+      "language": "en",
+      "duration": "23:32",
+      "publishedDate": "2026-01-22",
+      "thumbnail": "https://i.ytimg.com/vi/-m47UTvc6eY/maxresdefault.jpg",
+      "noteEs": "Análisis profundo del moveset de Mohg con timing por ataque, Purifying Crystal Tear setup y openings de daño. Mohg es prerequisito para entrar a SOTE.",
+      "noteEn": "Deep Mohg moveset analysis with per-attack timing, Purifying Crystal Tear setup, and damage openings. Mohg is a prerequisite to enter SOTE."
+    }
+  ]
+}

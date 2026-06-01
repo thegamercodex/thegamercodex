@@ -1,0 +1,80 @@
+{
+  "category": "nightlord-guides",
+  "resources": [
+    {
+      "id": "ragegaming-beat-final-boss-easy",
+      "type": "video",
+      "title": "Elden Ring Nightreign - Beat Final Boss EASY - Unlock OP Relics & Best Skins",
+      "creator": "RageGamingVideos",
+      "creatorId": "ragegamingvideos",
+      "url": "https://www.youtube.com/watch?v=NRQjLJqsWo4",
+      "youtubeId": "NRQjLJqsWo4",
+      "language": "en",
+      "duration": "15:20",
+      "publishedDate": "2025-06-04",
+      "thumbnail": "https://i.ytimg.com/vi/NRQjLJqsWo4/maxresdefault.jpg",
+      "noteEs": "Guía endgame para el Nightlord final + cómo unlock OP relics post-campaña y skins. Cubre el camino para terminar el contenido base completo.",
+      "noteEn": "Endgame guide for the final Nightlord + how to unlock OP relics post-campaign and skins. Covers the path to complete base-game content."
+    },
+    {
+      "id": "ragegaming-new-boss-update-shifting-earths",
+      "type": "video",
+      "title": "Elden Ring Nightreign - New Boss Update, OP Relics & GUARANTEED Shifting Earths",
+      "creator": "RageGamingVideos",
+      "creatorId": "ragegamingvideos",
+      "url": "https://www.youtube.com/watch?v=gGq6ub2pd0w",
+      "youtubeId": "gGq6ub2pd0w",
+      "language": "en",
+      "duration": "12:31",
+      "publishedDate": "2025-06-19",
+      "thumbnail": "https://i.ytimg.com/vi/gGq6ub2pd0w/maxresdefault.jpg",
+      "noteEs": "Cobertura del update que agregó Shifting Earths mecánica y un boss nuevo. Strategy para Adel (Nightlord) y notes sobre cómo aprovechar guaranteed Shifting Earths.",
+      "noteEn": "Coverage of the update adding Shifting Earths mechanics and a new boss. Adel (Nightlord) strategy and notes on how to leverage guaranteed Shifting Earths."
+    },
+    {
+      "id": "quoppp-everdark-caligo-one-phase-solo",
+      "type": "video",
+      "title": "Everdark Caligo in ONE PHASE - Solo Deathless Run Nightreign The Forsaken Hollows",
+      "creator": "Quoppp",
+      "creatorId": "quoppp",
+      "url": "https://www.youtube.com/watch?v=Y-ewElPt-nA",
+      "youtubeId": "Y-ewElPt-nA",
+      "language": "en",
+      "duration": "31:22",
+      "publishedDate": "2026-05-26",
+      "thumbnail": "https://i.ytimg.com/vi/Y-ewElPt-nA/maxresdefault.jpg",
+      "noteEs": "Run solo deathless contra Everdark Caligo terminada en una fase, una de las demostraciones más impresionantes del DLC. Quoppp explica cada decisión.",
+      "noteEn": "Solo deathless run against Everdark Caligo finished in one phase — one of the DLC's most impressive demonstrations. Quoppp explains every decision."
+    },
+    {
+      "id": "vaatividya-caligo-short",
+      "type": "video",
+      "title": "Who is Caligo in Elden Ring: Nightreign?",
+      "creator": "VaatiVidya",
+      "creatorId": "vaatividya",
+      "url": "https://www.youtube.com/watch?v=wDvJViynaOE",
+      "youtubeId": "wDvJViynaOE",
+      "language": "en",
+      "duration": "1:08",
+      "publishedDate": "2026-01-07",
+      "thumbnail": "https://i.ytimg.com/vi/wDvJViynaOE/maxresdefault.jpg",
+      "noteEs": "Lore short de VaatiVidya sobre Caligo, uno de los Nightlords más prominentes. Da context narrativo antes/después de pelearlo.",
+      "noteEn": "VaatiVidya lore short on Caligo, one of the more prominent Nightlords. Adds narrative context before/after fighting him."
+    },
+    {
+      "id": "vaatividya-baron-of-night-short",
+      "type": "video",
+      "title": "Who is the Baron of Night in Elden Ring: Nightreign?",
+      "creator": "VaatiVidya",
+      "creatorId": "vaatividya",
+      "url": "https://www.youtube.com/watch?v=vg1SG72x258",
+      "youtubeId": "vg1SG72x258",
+      "language": "en",
+      "duration": "1:07",
+      "publishedDate": "2025-12-05",
+      "thumbnail": "https://i.ytimg.com/vi/vg1SG72x258/maxresdefault.jpg",
+      "noteEs": "Lore short sobre el Baron of Night, Nightlord clave del primer ciclo. Útil para entender la cosmología del juego antes de enfrentarlo en Expedition.",
+      "noteEn": "Lore short on the Baron of Night, a key Nightlord of the first cycle. Useful to understand game cosmology before facing him in Expedition."
+    }
+  ]
+}

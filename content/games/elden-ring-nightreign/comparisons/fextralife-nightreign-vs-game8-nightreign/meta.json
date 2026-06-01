@@ -1,0 +1,46 @@
+{
+  "id": "fextralife-nightreign-vs-game8-nightreign",
+  "toolIds": ["fextralife-nightreign", "game8-nightreign"],
+  "category": "reference",
+  "depth": "flagship",
+  "lastVerified": "2026-05-31",
+  "verdictEs": "Fextralife si necesitas cobertura completa con community comments y aceptas ads agresivas; Game8 si valoras UI guide-style limpia y recommendations directas.",
+  "verdictEn": "Fextralife if you need complete coverage with community comments and accept aggressive ads; Game8 if you value clean guide-style UI and direct recommendations.",
+  "useCases": [
+    {
+      "labelEs": "Item lookup con community insights",
+      "labelEn": "Item lookup with community insights",
+      "winner": "fextralife-nightreign",
+      "reasonEs": "Fextralife tiene comments por página con tips no documentados. Game8 es strictly factual sin sección de comments.",
+      "reasonEn": "Fextralife has per-page comments with undocumented tips. Game8 is strictly factual with no comments section."
+    },
+    {
+      "labelEs": "Build orders rápidos por Nightfarer",
+      "labelEn": "Fast build orders per Nightfarer",
+      "winner": "game8-nightreign",
+      "reasonEs": "Game8 formatea como priority order (do A, then B, then C). Fextralife tiene la info pero en formato wiki menos prescriptivo.",
+      "reasonEn": "Game8 formats as priority order (do A, then B, then C). Fextralife has the info but in less prescriptive wiki format."
+    },
+    {
+      "labelEs": "Nightlord weakness charts visuales",
+      "labelEn": "Visual Nightlord weakness charts",
+      "winner": "game8-nightreign",
+      "reasonEs": "Game8 tiene tablas y charts dedicados por Nightlord. Fextralife usa prose más extenso, menos scaneable.",
+      "reasonEn": "Game8 has dedicated per-Nightlord tables and charts. Fextralife uses longer prose, less scannable."
+    },
+    {
+      "labelEs": "Cobertura exhaustiva de relics y weapons",
+      "labelEn": "Exhaustive relic and weapon coverage",
+      "winner": "fextralife-nightreign",
+      "reasonEs": "Cada item tiene página individual en Fextralife. Game8 agrupa por priority, no por item.",
+      "reasonEn": "Every item has an individual page on Fextralife. Game8 groups by priority, not per item."
+    },
+    {
+      "labelEs": "Reading mobile mientras juegas",
+      "labelEn": "Mobile reading while playing",
+      "winner": "game8-nightreign",
+      "reasonEs": "Game8 tiene UX cleaner en mobile con menos ads. Fextralife mobile es difícil de leer por ad density.",
+      "reasonEn": "Game8 has cleaner mobile UX with fewer ads. Fextralife mobile is hard to read due to ad density."
+    }
+  ]
+}

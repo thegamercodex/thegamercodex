@@ -1,0 +1,80 @@
+{
+  "category": "build-guides",
+  "resources": [
+    {
+      "id": "acalsouls-bloodhound-fang-dex-2025",
+      "type": "video",
+      "title": "Bloodhound Fang Build Elden Ring - By Far the most INSANE Dexterity Build in Elden Ring this 2025",
+      "creator": "AcalSouls",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Yj64iX1OIxE",
+      "youtubeId": "Yj64iX1OIxE",
+      "language": "en",
+      "duration": "8:14",
+      "publishedDate": "2025-03-02",
+      "thumbnail": "https://i.ytimg.com/vi/Yj64iX1OIxE/maxresdefault.jpg",
+      "noteEs": "Build dex actualizada al meta 2025 con la Bloodhound's Fang. Stat spread óptimo, talismans y rotation explicada paso a paso. Buena para primer dex run.",
+      "noteEn": "Dex build updated to the 2025 meta around Bloodhound's Fang. Optimal stat spread, talismans, and rotation explained step by step. Good for a first dex run."
+    },
+    {
+      "id": "your-average-gamer-bloodhound-fang-beginner",
+      "type": "video",
+      "title": "Elden Ring Beginner's Guide 2024: Early Game OP Bloodhound's Fang Build! (Patch 1.10)",
+      "creator": "Your Average Gamer",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=HJ9QDdfP_1A",
+      "youtubeId": "HJ9QDdfP_1A",
+      "language": "en",
+      "duration": "48:09",
+      "publishedDate": "2024-04-05",
+      "thumbnail": "https://i.ytimg.com/vi/HJ9QDdfP_1A/maxresdefault.jpg",
+      "noteEs": "Build de early-game con Bloodhound's Fang explicada con detalle: dónde encontrar el arma, qué levear primero, cómo llegar a level 50 OP. Versión beginner-friendly.",
+      "noteEn": "Early-game Bloodhound's Fang build explained in detail: where to find the weapon, what to level first, how to hit OP level 50. Beginner-friendly version."
+    },
+    {
+      "id": "powerbazinga-samurai-bleed-build-elden-ring",
+      "type": "video",
+      "title": "ELDEN RING: Guía del SAMURAI PODEROSO — OP nada más comenzar!",
+      "creator": "Powerbazinga TV",
+      "creatorId": "powerbazinga",
+      "url": "https://www.youtube.com/watch?v=CbsCoDAnmnk",
+      "youtubeId": "CbsCoDAnmnk",
+      "language": "es",
+      "duration": "16:50",
+      "publishedDate": "2024-03-17",
+      "thumbnail": "https://i.ytimg.com/vi/CbsCoDAnmnk/maxresdefault.jpg",
+      "noteEs": "Build de Samurai con bleed setup que rompe el juego desde nivel bajo. Tres variantes presentadas; ideal para primera vuelta o speedrun casual.",
+      "noteEn": "Samurai build with a bleed setup that breaks the game from low level. Three variants presented; ideal for a first run or casual speedrun."
+    },
+    {
+      "id": "soul-kings-top-20-best-builds-elden-ring-2025",
+      "type": "video",
+      "title": "Elden Ring - NEW TOP 20 BEST BUILDS Ranked in 2025",
+      "creator": "Soul Kings",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=68ejC1DpsnI",
+      "youtubeId": "68ejC1DpsnI",
+      "language": "en",
+      "duration": "29:54",
+      "publishedDate": "2025-05-25",
+      "thumbnail": "https://i.ytimg.com/vi/68ejC1DpsnI/maxresdefault.jpg",
+      "noteEs": "Tier list de las 20 mejores builds del meta 2025 — strength, dex, faith, intelligence, arcane. Cada build con loadout exacto y razones por las cuales rankeó alto.",
+      "noteEn": "Tier list of the 20 best builds in the 2025 meta — strength, dex, faith, intelligence, arcane. Each build with exact loadout and reasons it ranked high."
+    },
+    {
+      "id": "thejats10-build-fuerza-elden-ring-2025",
+      "type": "video",
+      "title": "BUILD FUERZA ELDEN RING 2025 — GUIA ELDEN RING",
+      "creator": "THEJATS10",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=1MBKq0JaYH8",
+      "youtubeId": "1MBKq0JaYH8",
+      "language": "es",
+      "duration": "20:20",
+      "publishedDate": "2024-06-01",
+      "thumbnail": "https://i.ytimg.com/vi/1MBKq0JaYH8/maxresdefault.jpg",
+      "noteEs": "Guía completa de build de fuerza en español: stats, armas colossal, ashes of war y talismans. Para players que prefieren swings lentos y daño masivo.",
+      "noteEn": "Complete Spanish strength build guide: stats, colossal weapons, ashes of war, and talismans. For players who prefer slow swings and massive damage."
+    }
+  ]
+}

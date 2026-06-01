@@ -1,0 +1,28 @@
+{
+  "id": "the-convergence",
+  "name": "The Convergence Mod",
+  "shortName": "Convergence",
+  "taglineEs": "Overhaul con cientos de hechizos nuevos, armas reimaginadas y áreas extendidas — requiere DLC",
+  "taglineEn": "Overhaul with hundreds of new spells, reimagined weapons, and extended areas — requires DLC",
+  "url": "https://www.nexusmods.com/eldenring/mods/3419",
+  "category": "gameplay-overhauls",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["overhaul", "spells", "weapons", "sote-required", "mod"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["elden-ring-reforged", "mod-engine-2", "seamless-coop"],
+  "alternatives": ["elden-ring-reforged"],
+  "createdBy": {
+    "name": "The Convergence Team",
+    "url": "https://www.nexusmods.com/eldenring/mods/3419"
+  }
+}

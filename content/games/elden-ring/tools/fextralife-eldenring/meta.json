@@ -1,0 +1,28 @@
+{
+  "id": "fextralife-eldenring",
+  "name": "Fextralife Elden Ring Wiki",
+  "shortName": "Fextralife",
+  "taglineEs": "El wiki más visitado del juego: armas, hechizos, jefes, quests, builds y mapa interactivo todo en uno",
+  "taglineEn": "The most-visited wiki for the game: weapons, spells, bosses, quests, builds, and an interactive map all in one",
+  "url": "https://eldenring.wiki.fextralife.com/",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "reference", "builds", "maps", "ads"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/fextralife-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["eldenring-wiki-gg", "mapgenie-eldenring"],
+  "alternatives": ["eldenring-wiki-gg"],
+  "createdBy": {
+    "name": "Fextralife",
+    "url": "https://fextralife.com"
+  }
+}

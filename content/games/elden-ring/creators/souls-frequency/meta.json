@@ -1,0 +1,44 @@
+{
+  "id": "souls-frequency",
+  "name": "Souls Frequency",
+  "country": "VE",
+  "languages": ["es"],
+  "active": true,
+  "joinedYear": 2021,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@SoulsFrequency",
+      "url": "https://www.youtube.com/@SoulsFrequency",
+      "channelId": "UCOKmfqIHeWp_9lpJ2EoLQFQ",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "soulsfrequency",
+      "url": "https://www.twitch.tv/soulsfrequency"
+    }
+  ],
+  "specialties": ["lore-analysis", "mechanical-analysis", "souls-series"],
+  "games": ["elden-ring", "elden-ring-nightreign"],
+  "contentTypes": ["lore-essays", "lore-plays", "analysis"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Canal venezolano dedicado al análisis literario y mecánico de Souls y juegos similares. Las series 'Lore Play' juegan el juego comentando el lore en tiempo real; los videos analíticos descomponen mecánicas y narrativa con calma. Una de las pocas opciones serias en español para deep lore.",
+  "noteEn": "Venezuelan channel dedicated to literary and mechanical analysis of Souls and similar games. The 'Lore Play' series plays through the game while commenting lore in real time; analytical videos break down mechanics and narrative carefully. One of the few serious Spanish-language options for deep lore.",
+  "highlightsEs": [
+    "Series 'Elden Ring Lore Play' y 'Dark Souls Lore Play' como referencia narrativa en español",
+    "Especiales de aniversario con análisis dedicado a personajes (Radagon, Marika, etc.)",
+    "Streams en vivo donde la comunidad debate teorías en tiempo real",
+    "Cobertura de Elden Ring + Nightreign + DS desde la misma lente analítica",
+    "Tono pausado y respetuoso, sin clickbait"
+  ],
+  "highlightsEn": [
+    "'Elden Ring Lore Play' and 'Dark Souls Lore Play' series as Spanish-language narrative reference",
+    "Anniversary specials with dedicated character analysis (Radagon, Marika, etc.)",
+    "Live streams where the community debates theories in real time",
+    "Elden Ring + Nightreign + DS coverage from the same analytical lens",
+    "Calm, respectful tone, no clickbait"
+  ],
+  "avatar": "/images/creators/souls-frequency-avatar.jpg",
+  "banner": "/images/creators/souls-frequency-banner.jpg"
+}

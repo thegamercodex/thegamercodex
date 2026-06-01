@@ -1,0 +1,46 @@
+{
+  "id": "eip-build-planner-vs-mugenmonkey-eldenring",
+  "toolIds": ["eip-build-planner", "mugenmonkey-eldenring"],
+  "category": "build-planning",
+  "depth": "flagship",
+  "lastVerified": "2026-05-31",
+  "verdictEs": "EIP si quieres UI moderna con todos los items del juego más SOTE; Mugen Monkey si tu prioridad es optimizar el starting class al level exacto para PvP capped.",
+  "verdictEn": "EIP if you want a modern UI with every base-game and SOTE item; Mugen Monkey if your priority is optimizing the starting class to the exact level for capped PvP.",
+  "useCases": [
+    {
+      "labelEs": "Optimizar starting class para PvP a level 125",
+      "labelEn": "Optimize starting class for level 125 PvP",
+      "winner": "mugenmonkey-eldenring",
+      "reasonEs": "Mugen Monkey tiene un optimizador dedicado: ingresas los stats finales y devuelve el class mínimo en level total. EIP no implementa esta feature.",
+      "reasonEn": "Mugen Monkey has a dedicated optimizer: you enter final stats and it returns the minimum class by total level. EIP doesn't implement this feature."
+    },
+    {
+      "labelEs": "Planear una build que usa armas del DLC Shadow of the Erdtree",
+      "labelEn": "Plan a build using Shadow of the Erdtree DLC weapons",
+      "winner": "eip-build-planner",
+      "reasonEs": "EIP tiene cobertura completa y actualizada de SOTE; Mugen Monkey tiene gaps notables en items del DLC. Para builds que usen Scadutree-scaled gear, EIP es necesario.",
+      "reasonEn": "EIP has complete and updated SOTE coverage; Mugen Monkey has notable DLC gaps. For builds using Scadutree-scaled gear, EIP is required."
+    },
+    {
+      "labelEs": "Iteración rápida en UI moderna con preview visual",
+      "labelEn": "Fast iteration on a modern UI with visual preview",
+      "winner": "eip-build-planner",
+      "reasonEs": "EIP tiene UI con cards de items, animaciones y preview de equipo. Mugen es tabular y austero — funcional pero menos amigable para iterar.",
+      "reasonEn": "EIP has a UI with item cards, animations, and gear preview. Mugen is tabular and austere — functional but less iteration-friendly."
+    },
+    {
+      "labelEs": "Build twink a level bajo (30-60) para invasiones",
+      "labelEn": "Low-level (30-60) twink build for invasions",
+      "winner": "mugenmonkey-eldenring",
+      "reasonEs": "El optimizador de Mugen es ideal para twink builds: cada punto de stat importa enormemente a niveles bajos, y Mugen calcula el class más eficiente al detalle.",
+      "reasonEn": "Mugen's optimizer is ideal for twink builds: each stat point matters enormously at low levels, and Mugen calculates the most efficient class to the detail."
+    },
+    {
+      "labelEs": "Compartir una build con amigos vía URL",
+      "labelEn": "Share a build with friends via URL",
+      "winner": "eip-build-planner",
+      "reasonEs": "EIP encoda el build completo en la URL incluyendo equipo, AoWs y stats. Mugen tiene URL pero el formato es más limitado y los items raros pueden no preservarse.",
+      "reasonEn": "EIP encodes the full build in the URL including gear, AoWs, and stats. Mugen has URL sharing but the format is more limited and rare items may not preserve."
+    }
+  ]
+}

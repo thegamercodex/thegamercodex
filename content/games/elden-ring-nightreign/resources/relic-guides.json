@@ -1,0 +1,80 @@
+{
+  "category": "relic-guides",
+  "resources": [
+    {
+      "id": "ch0pper-best-relics-overpowered-builds",
+      "type": "video",
+      "title": "Elden Ring Nightreign NEW PRO Tips! BEST Relics and Overpowered Builds!",
+      "creator": "Ch0pper",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=eFmanCLz71o",
+      "youtubeId": "eFmanCLz71o",
+      "language": "en",
+      "duration": "21:55",
+      "publishedDate": "2025-12-09",
+      "thumbnail": "https://i.ytimg.com/vi/eFmanCLz71o/maxresdefault.jpg",
+      "noteEs": "Guía de las relics más fuertes del meta post-DLC con builds OP construidas alrededor de ellas. Pro tips para aprovechar relic combinations específicas.",
+      "noteEn": "Guide to the strongest relics in the post-DLC meta with OP builds constructed around them. Pro tips for leveraging specific relic combinations."
+    },
+    {
+      "id": "last-protagonist-get-good-relics",
+      "type": "video",
+      "title": "How Do You Get Good Relics in Elden Ring Nightreign?",
+      "creator": "Last Protagonist",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=MvyAiSQYOdA",
+      "youtubeId": "MvyAiSQYOdA",
+      "language": "en",
+      "duration": "2:21",
+      "publishedDate": "2025-05-30",
+      "thumbnail": "https://i.ytimg.com/vi/MvyAiSQYOdA/maxresdefault.jpg",
+      "noteEs": "Explicación corta y clara del relic farming basics: Expedition depth scaling, Scenic Flatstones del Bazaar, y Murk economy. Buen primer video sobre relics.",
+      "noteEn": "Short, clear explanation of relic farming basics: Expedition depth scaling, Bazaar Scenic Flatstones, and Murk economy. Good first video on relics."
+    },
+    {
+      "id": "quoppp-7-more-tricks-1700-hours",
+      "type": "video",
+      "title": "7 More Nightreign Tricks I Learned After 1700 Hours",
+      "creator": "Quoppp",
+      "creatorId": "quoppp",
+      "url": "https://www.youtube.com/watch?v=G7SlVzAP59E",
+      "youtubeId": "G7SlVzAP59E",
+      "language": "en",
+      "duration": "6:12",
+      "publishedDate": "2026-02-24",
+      "thumbnail": "https://i.ytimg.com/vi/G7SlVzAP59E/maxresdefault.jpg",
+      "noteEs": "Tricks específicos después de 1700+ horas en el juego — relic interactions hidden, build optimizations y edge cases que la community no documenta. Para advanced players.",
+      "noteEn": "Specific tricks after 1700+ hours in the game — hidden relic interactions, build optimizations, and edge cases the community doesn't document. For advanced players."
+    },
+    {
+      "id": "quoppp-biggest-problem-depth-5-trios",
+      "type": "video",
+      "title": "Nightreign's Biggest Problem - Depth 5 Trios Nightreign",
+      "creator": "Quoppp",
+      "creatorId": "quoppp",
+      "url": "https://www.youtube.com/watch?v=ODgs5o_gLRU",
+      "youtubeId": "ODgs5o_gLRU",
+      "language": "en",
+      "duration": "29:30",
+      "publishedDate": "2026-05-30",
+      "thumbnail": "https://i.ytimg.com/vi/ODgs5o_gLRU/maxresdefault.jpg",
+      "noteEs": "Análisis del meta endgame Depth 5: por qué algunos relic combinations dominan, qué builds son broken vs nerfeable, y el problema fundamental del balance.",
+      "noteEn": "Endgame Depth 5 meta analysis: why some relic combos dominate, which builds are broken vs nerfable, and the fundamental balance problem."
+    },
+    {
+      "id": "quoppp-win-99-percent-of-runs-depth-5",
+      "type": "video",
+      "title": "How To Win 99% Of Your Runs - Depth 5 Trios Nightreign",
+      "creator": "Quoppp",
+      "creatorId": "quoppp",
+      "url": "https://www.youtube.com/watch?v=Lsno-w-_tRQ",
+      "youtubeId": "Lsno-w-_tRQ",
+      "language": "en",
+      "duration": "37:26",
+      "publishedDate": "2026-05-28",
+      "thumbnail": "https://i.ytimg.com/vi/Lsno-w-_tRQ/maxresdefault.jpg",
+      "noteEs": "Strategy template completo para Depth 5 trios con setup de relics, party comp y routing optimal. Para players competing al máximo nivel.",
+      "noteEn": "Complete strategy template for Depth 5 trios with relic setup, party comp, and optimal routing. For players competing at maximum level."
+    }
+  ]
+}

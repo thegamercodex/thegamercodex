@@ -1,0 +1,29 @@
+{
+  "id": "nightreign-map-router",
+  "name": "Nightreign Map Router",
+  "shortName": "Map Router",
+  "taglineEs": "Web app open-source que identifica el seed del mapa actual y sugiere rutas óptimas según Nightlord y team comp",
+  "taglineEn": "Open-source web app that identifies the current map seed and suggests optimal routes based on Nightlord and team comp",
+  "url": "https://github.com/NikVince/nightreign-map-router",
+  "category": "maps",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/NikVince/nightreign-map-router",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["map", "routing", "seed-finder", "open-source"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["map-labels-nightreign"],
+  "alternatives": ["map-labels-nightreign"],
+  "createdBy": {
+    "name": "NikVince",
+    "url": "https://github.com/NikVince"
+  }
+}

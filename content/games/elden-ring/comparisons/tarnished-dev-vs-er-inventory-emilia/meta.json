@@ -1,0 +1,46 @@
+{
+  "id": "tarnished-dev-vs-er-inventory-emilia",
+  "toolIds": ["tarnished-dev", "er-inventory-emilia"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-05-31",
+  "verdictEs": "tarnished.dev para casual users que valoran UX bonita; Emilia para technical users que necesitan frame data y datamine.",
+  "verdictEn": "tarnished.dev for casual users who value pretty UX; Emilia for technical users needing frame data and datamine.",
+  "useCases": [
+    {
+      "labelEs": "Build casual con UI bonita y compartible",
+      "labelEn": "Casual build with pretty, shareable UI",
+      "winner": "tarnished-dev",
+      "reasonEs": "tarnished.dev tiene UI pulida y URL sharing limpio; Emilia es technical y feo de compartir.",
+      "reasonEn": "tarnished.dev has polished UI and clean URL sharing; Emilia is technical and ugly to share."
+    },
+    {
+      "labelEs": "Frame data exacto para frame-perfect counter-play",
+      "labelEn": "Exact frame data for frame-perfect counter-play",
+      "winner": "er-inventory-emilia",
+      "reasonEs": "Emilia es el único de los dos que expone frame data; tarnished.dev no implementa esa info.",
+      "reasonEn": "Emilia is the only one of the two exposing frame data; tarnished.dev doesn't implement that info."
+    },
+    {
+      "labelEs": "Uso desde mobile mientras juegas",
+      "labelEn": "Mobile use while playing",
+      "winner": "tarnished-dev",
+      "reasonEs": "tarnished.dev tiene buena experiencia mobile responsive; Emilia es desktop-first y density hace mobile difícil.",
+      "reasonEn": "tarnished.dev has good responsive mobile experience; Emilia is desktop-first and density makes mobile hard."
+    },
+    {
+      "labelEs": "Drop rate exacto de un consumable raro",
+      "labelEn": "Exact drop rate of a rare consumable",
+      "winner": "er-inventory-emilia",
+      "reasonEs": "Emilia tiene los drop rates extraídos del game files; tarnished.dev no expone esta info.",
+      "reasonEn": "Emilia has drop rates extracted from game files; tarnished.dev doesn't expose this info."
+    },
+    {
+      "labelEs": "Offline reference sin internet",
+      "labelEn": "Offline reference without internet",
+      "winner": "er-inventory-emilia",
+      "reasonEs": "Emilia es PWA con modo offline; tarnished.dev requiere conexión.",
+      "reasonEn": "Emilia is a PWA with offline mode; tarnished.dev requires connection."
+    }
+  ]
+}

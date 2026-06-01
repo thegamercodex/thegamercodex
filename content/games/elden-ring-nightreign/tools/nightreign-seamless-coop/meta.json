@@ -1,0 +1,28 @@
+{
+  "id": "nightreign-seamless-coop",
+  "name": "Seamless Co-op (Nightreign)",
+  "shortName": "Seamless Co-op NR",
+  "taglineEs": "Mod que extiende el party size a más de 3 y permite duos sin las restricciones del matchmaking vanilla",
+  "taglineEn": "Mod that extends party size beyond 3 and enables duos without vanilla matchmaking restrictions",
+  "url": "https://www.nexusmods.com/eldenringnightreign/mods/3",
+  "category": "multiplayer-mods",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["co-op", "multiplayer", "mod", "luke-yui"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["fun-is-allowed", "nexus-mods-nightreign"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Yui (Seamless team)",
+    "url": "https://www.nexusmods.com/eldenringnightreign/mods/3"
+  }
+}

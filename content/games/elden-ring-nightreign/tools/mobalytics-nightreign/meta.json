@@ -1,0 +1,35 @@
+{
+  "id": "mobalytics-nightreign",
+  "name": "Mobalytics (Nightreign)",
+  "shortName": "Mobalytics",
+  "taglineEs": "Plataforma de builds, guías y planner para Nightreign con coverage editorial completo de Nightfarers, relics y Nightlords",
+  "taglineEn": "Builds, guides, and planner platform for Nightreign with full editorial coverage of Nightfarers, relics, and Nightlords",
+  "url": "https://mobalytics.gg/elden-ring-nightreign",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "ios", "android"],
+  "languages": ["en"],
+  "tags": ["build-planner", "guides", "tier-list", "freemium"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/mobalytics-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["relics-pro", "fextralife-nightreign"],
+  "alternatives": ["relics-pro", "nightreign-calculator"],
+  "createdBy": {
+    "name": "Mobalytics",
+    "url": "https://mobalytics.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "league-of-legends", "url": "https://mobalytics.gg/lol" },
+      { "gameId": "valorant", "url": "https://mobalytics.gg/valorant" }
+    ]
+  }
+}

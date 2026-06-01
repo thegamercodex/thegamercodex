@@ -1,0 +1,46 @@
+{
+  "id": "elden-ring-reforged-vs-the-convergence",
+  "toolIds": ["elden-ring-reforged", "the-convergence"],
+  "category": "gameplay-overhauls",
+  "depth": "flagship",
+  "lastVerified": "2026-05-31",
+  "verdictEs": "ELDEN RING Reforged si quieres más Elden Ring con balance moderno; The Convergence si quieres una experiencia distinta con cientos de hechizos y armas nuevas. ERR respeta el original, Convergence lo reinventa.",
+  "verdictEn": "ELDEN RING Reforged if you want more Elden Ring with modern balance; The Convergence if you want a different experience with hundreds of new spells and weapons. ERR respects the original, Convergence reinvents it.",
+  "useCases": [
+    {
+      "labelEs": "Segunda corrida después de terminar el juego base + SOTE",
+      "labelEn": "Second run after finishing base game + SOTE",
+      "winner": "elden-ring-reforged",
+      "reasonEs": "ERR mantiene la identidad de Elden Ring con balance refinado; perfecto para 're-experimentar' el juego que ya conocés. Convergence cambia tanto que se siente otro juego.",
+      "reasonEn": "ERR preserves Elden Ring's identity with refined balance; perfect to 're-experience' the game you already know. Convergence changes so much it feels like another game."
+    },
+    {
+      "labelEs": "Probar hechizos y armas que no existen en vanilla",
+      "labelEn": "Try spells and weapons that don't exist in vanilla",
+      "winner": "the-convergence",
+      "reasonEs": "Convergence agrega 300+ hechizos custom y decenas de armas nuevas. ERR rebalancea pero no inventa contenido nuevo a esa escala.",
+      "reasonEn": "Convergence adds 300+ custom spells and dozens of new weapons. ERR rebalances but doesn't invent new content at that scale."
+    },
+    {
+      "labelEs": "Multiplayer online con balance moderno",
+      "labelEn": "Online multiplayer with modern balance",
+      "winner": "elden-ring-reforged",
+      "reasonEs": "ERR tiene su propio Custom Multiplayer Server con matchmaking activo y eventos PvP. Convergence soporta multiplayer pero con community menor y server menos estable.",
+      "reasonEn": "ERR has its own Custom Multiplayer Server with active matchmaking and PvP events. Convergence supports multiplayer but with smaller community and less stable server."
+    },
+    {
+      "labelEs": "Setup más simple para principiantes de modding",
+      "labelEn": "Simpler setup for modding beginners",
+      "winner": "elden-ring-reforged",
+      "reasonEs": "El README de ERR es más simple y la compatibilidad con otros mods es mejor. Convergence requiere un setup específico con configs avanzadas y es más sensible a conflicts.",
+      "reasonEn": "The ERR README is simpler and compatibility with other mods is better. Convergence requires specific setup with advanced configs and is more conflict-sensitive."
+    },
+    {
+      "labelEs": "Build de hechicero con variedad masiva",
+      "labelEn": "Sorcerer build with massive variety",
+      "winner": "the-convergence",
+      "reasonEs": "Convergence agrega bloodlines, summons custom y categorías nuevas de hechizos (necromantic, primal, etc.) que crean fantasies de caster imposibles en vanilla.",
+      "reasonEn": "Convergence adds bloodlines, custom summons, and new spell categories (necromantic, primal, etc.) that create caster fantasies impossible in vanilla."
+    }
+  ]
+}

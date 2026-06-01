@@ -1,0 +1,37 @@
+{
+  "id": "atlasforge-eldenring",
+  "name": "AtlasForge (Elden Ring)",
+  "shortName": "AtlasForge",
+  "taglineEs": "Mapa interactivo + database de armas + build planner integrados en una sola plataforma multi-juego",
+  "taglineEn": "Interactive map + weapon database + build planner integrated on a single multi-game platform",
+  "url": "https://atlasforge.gg/elden-ring",
+  "category": "maps",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["map", "database", "build-planner", "multi-game"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/atlasforge-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mapgenie-eldenring", "fextralife-eldenring"],
+  "alternatives": ["mapgenie-eldenring"],
+  "createdBy": {
+    "name": "AtlasForge",
+    "url": "https://atlasforge.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "cyberpunk-2077", "url": "https://atlasforge.gg/cyberpunk-2077" },
+      { "gameId": "skyrim", "url": "https://atlasforge.gg/skyrim" },
+      { "gameId": "palworld", "url": "https://atlasforge.gg/palworld" },
+      { "gameId": "world-of-warcraft", "url": "https://atlasforge.gg/wow-classic" }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dsmapstudio",
+  "name": "DSMapStudio",
+  "shortName": "DSMapStudio",
+  "taglineEs": "Editor de mapas, params y eventos para todos los Souls modernos, incluyendo Elden Ring",
+  "taglineEn": "Map, param, and event editor for every modern Souls, including Elden Ring",
+  "url": "https://github.com/soulsmods/DSMapStudio",
+  "category": "modding-utilities",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/soulsmods/DSMapStudio",
+  "license": "MIT",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["map-editor", "param-editor", "modding", "creator-tool"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mod-engine-2", "nordgaren-debug-tool"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "soulsmods team",
+    "url": "https://github.com/soulsmods"
+  }
+}

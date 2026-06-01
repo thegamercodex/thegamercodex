@@ -1,0 +1,46 @@
+{
+  "id": "nightreign-seamless-coop-vs-fun-is-allowed",
+  "toolIds": ["nightreign-seamless-coop", "fun-is-allowed"],
+  "category": "multiplayer-mods",
+  "depth": "short",
+  "lastVerified": "2026-05-31",
+  "verdictEs": "Seamless Co-op si tu grupo tiene más de 3 amigos; Fun is Allowed si juegas solo o duo y necesitas balance fix para hacer Nightreign viable.",
+  "verdictEn": "Seamless Co-op if your group has more than 3 friends; Fun is Allowed if you play solo or duo and need a balance fix to make Nightreign viable.",
+  "useCases": [
+    {
+      "labelEs": "Grupo de 4-6 amigos jugando juntos",
+      "labelEn": "Group of 4-6 friends playing together",
+      "winner": "nightreign-seamless-coop",
+      "reasonEs": "Seamless Co-op extiende el party limit beyond vanilla 3. Fun is Allowed no aplica — el target es solos/duos, no grupos grandes.",
+      "reasonEn": "Seamless Co-op extends party limit beyond vanilla 3. Fun is Allowed doesn't apply — it targets solos/duos, not large groups."
+    },
+    {
+      "labelEs": "Solo player luchando con Nightlords",
+      "labelEn": "Solo player struggling with Nightlords",
+      "winner": "fun-is-allowed",
+      "reasonEs": "Fun is Allowed rebalancea stats para solo viability. Seamless Co-op asume que vas a tener party.",
+      "reasonEn": "Fun is Allowed rebalances stats for solo viability. Seamless Co-op assumes you'll have a party."
+    },
+    {
+      "labelEs": "Duo balanceado sin third player",
+      "labelEn": "Balanced duo without a third player",
+      "winner": "fun-is-allowed",
+      "reasonEs": "Fun is Allowed específicamente targets duo balance. Seamless Co-op permite duos pero sin ajustar dificultad.",
+      "reasonEn": "Fun is Allowed specifically targets duo balance. Seamless Co-op enables duos but doesn't adjust difficulty."
+    },
+    {
+      "labelEs": "Online multiplayer con randoms",
+      "labelEn": "Online multiplayer with randoms",
+      "winner": "nightreign-seamless-coop",
+      "reasonEs": "Seamless permite closed groups via password. Fun is Allowed cambia stats — incompatible con vanilla online.",
+      "reasonEn": "Seamless enables closed groups via password. Fun is Allowed changes stats — incompatible with vanilla online."
+    },
+    {
+      "labelEs": "Combinar ambos para custom setup",
+      "labelEn": "Combine both for custom setup",
+      "winner": "fun-is-allowed",
+      "reasonEs": "Fun is Allowed es compatible con Seamless Co-op — podes usar ambos. La diferencia es que Fun is Allowed es necesario solo si quieres balance fixes adicionales.",
+      "reasonEn": "Fun is Allowed is Seamless Co-op-compatible — you can use both. The difference is that Fun is Allowed is only needed if you want extra balance fixes."
+    }
+  ]
+}

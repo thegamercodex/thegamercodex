@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "norzza-ultimate-beginners-guide-elden-ring-2024",
+      "type": "video",
+      "title": "ULTIMATE Beginners Guide To ELDEN RING! - Elden Ring New Player Guide For 2026! (Elden Ring Tips)",
+      "creator": "NorZZa",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=r0NQlqoUMMU",
+      "youtubeId": "r0NQlqoUMMU",
+      "language": "en",
+      "duration": "1:03:19",
+      "publishedDate": "2024-02-25",
+      "thumbnail": "https://i.ytimg.com/vi/r0NQlqoUMMU/maxresdefault.jpg",
+      "noteEs": "Guía spoiler-free de hora larga: stats, exploración temprana, qué hacer primero. Ideal antes de instalar el juego para llegar con plan claro.",
+      "noteEn": "Spoiler-free one-hour-plus guide: stats, early exploration, what to do first. Ideal before installing the game so you arrive with a clear plan."
+    },
+    {
+      "id": "youwy-ultimate-beginners-guide-elden-ring-2024",
+      "type": "video",
+      "title": "Ultimate Beginners Guide To Elden Ring 2026! Walkthrough To Get An Amazing Head Start",
+      "creator": "Youwy",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=cJvGgLG0bc0",
+      "youtubeId": "cJvGgLG0bc0",
+      "language": "en",
+      "duration": "1:25:01",
+      "publishedDate": "2024-01-19",
+      "thumbnail": "https://i.ytimg.com/vi/cJvGgLG0bc0/maxresdefault.jpg",
+      "noteEs": "Walkthrough largo enfocado en optimizar el head start: rutas tempranas, equipo crítico antes de los primeros jefes, upgrade priorities. Más estructurado que el promedio.",
+      "noteEn": "Long walkthrough focused on optimizing the head start: early routes, critical gear before the first bosses, upgrade priorities. More structured than average."
+    },
+    {
+      "id": "rurikhan-beginners-guide-no-spoilers",
+      "type": "video",
+      "title": "Elden Ring Beginner's Guide (No Spoilers)",
+      "creator": "Rurikhan",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=KmhG4ckaFCY",
+      "youtubeId": "KmhG4ckaFCY",
+      "language": "en",
+      "duration": "54:41",
+      "publishedDate": "2022-02-24",
+      "thumbnail": "https://i.ytimg.com/vi/KmhG4ckaFCY/maxresdefault.jpg",
+      "noteEs": "El clásico día-1: explicación cuidadosa de mecánicas Souls para nuevos sin spoilers de contenido. Sigue siendo referencia válida para alguien que llega fresh.",
+      "noteEn": "The day-one classic: careful explanation of Souls mechanics for newcomers without content spoilers. Still a valid reference for someone arriving fresh."
+    },
+    {
+      "id": "diabetor-elden-ring-2025-ultimate-new-players",
+      "type": "video",
+      "title": "Elden Ring in 2025: The ULTIMATE New Players Guide! - Elden Ring BEGINNERS GUIDE",
+      "creator": "DIABETOR",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Mzbyr70v7Q4",
+      "youtubeId": "Mzbyr70v7Q4",
+      "language": "en",
+      "duration": "39:36",
+      "publishedDate": "2024-12-28",
+      "thumbnail": "https://i.ytimg.com/vi/Mzbyr70v7Q4/maxresdefault.jpg",
+      "noteEs": "Guía actualizada al estado del juego con SOTE incluido: ajustes de balance post-DLC, qué armas y builds están vigentes en 2025. Útil para quien vuelve después de pausa.",
+      "noteEn": "Guide updated to the game state with SOTE included: post-DLC balance adjustments, which weapons and builds are current in 2025. Useful for returners after a break."
+    },
+    {
+      "id": "powerbazinga-tutorial-primeros-pasos-elden-ring",
+      "type": "video",
+      "title": "ELDEN RING: Guía en español ► TUTORIAL y PRIMEROS PASOS PARA ESTAR OP - EP.1",
+      "creator": "Powerbazinga TV",
+      "creatorId": "powerbazinga",
+      "url": "https://www.youtube.com/watch?v=J5E487jeVhc",
+      "youtubeId": "J5E487jeVhc",
+      "language": "es",
+      "duration": "58:56",
+      "publishedDate": "2022-04-07",
+      "thumbnail": "https://i.ytimg.com/vi/J5E487jeVhc/maxresdefault.jpg",
+      "noteEs": "EP.1 de la guía completa de Powerbazinga, el canal de Elden Ring en español más referenciado. Tutorial completo de primeros pasos, mecánicas y routing inicial.",
+      "noteEn": "EP.1 of the full Powerbazinga guide, the most-referenced Spanish-language Elden Ring channel. Complete tutorial of first steps, mechanics, and initial routing."
+    }
+  ]
+}

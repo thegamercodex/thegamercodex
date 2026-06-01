@@ -1,0 +1,28 @@
+{
+  "id": "fextralife-nightreign",
+  "name": "Fextralife Nightreign Wiki",
+  "shortName": "Fextralife",
+  "taglineEs": "Wiki dedicado a Nightreign con cobertura de Nightfarers, Nightlords, relics, weapons, mapas y builds curadas",
+  "taglineEn": "Dedicated Nightreign wiki with coverage of Nightfarers, Nightlords, relics, weapons, maps, and curated builds",
+  "url": "https://eldenringnightreign.wiki.fextralife.com/Elden+Ring+Nightreign+Wiki",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "reference", "builds", "ads"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/fextralife-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["game8-nightreign", "mobalytics-nightreign"],
+  "alternatives": ["game8-nightreign"],
+  "createdBy": {
+    "name": "Fextralife",
+    "url": "https://fextralife.com"
+  }
+}

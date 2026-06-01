@@ -1,0 +1,28 @@
+{
+  "id": "relics-pro",
+  "name": "Relics.pro",
+  "shortName": "Relics.pro",
+  "taglineEs": "Optimizador de relics dedicado: algoritmo que sugiere combinaciones óptimas y relics obtenibles para tu build target",
+  "taglineEn": "Dedicated relic optimizer: algorithm that suggests optimal combinations and obtainable relics for your target build",
+  "url": "https://relics.pro/",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-planner", "relic-optimizer", "share-url"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/elden-ring-nightreign/relics-pro-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mobalytics-nightreign", "nightreign-calculator"],
+  "alternatives": ["mobalytics-nightreign", "nightreign-calculator"],
+  "createdBy": {
+    "name": "Relics.pro team",
+    "url": "https://relics.pro/"
+  }
+}

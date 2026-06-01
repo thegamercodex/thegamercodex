@@ -1,0 +1,28 @@
+{
+  "id": "nightreign-calculator",
+  "name": "Nightreign Calculator",
+  "shortName": "NR Calculator",
+  "taglineEs": "Aplicación desktop GUI que parsea game data y calcula stats, drop chances, enemy values y posibles spell rolls",
+  "taglineEn": "Desktop GUI app that parses game data and computes stats, drop chances, enemy values, and possible spell rolls",
+  "url": "https://www.nexusmods.com/eldenringnightreign/mods/622",
+  "category": "build-planning",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["calculator", "datamined", "desktop", "offline"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mobalytics-nightreign", "relics-pro"],
+  "alternatives": ["mobalytics-nightreign", "relics-pro"],
+  "createdBy": {
+    "name": "Nightreign Calculator dev",
+    "url": "https://www.nexusmods.com/eldenringnightreign/mods/622"
+  }
+}

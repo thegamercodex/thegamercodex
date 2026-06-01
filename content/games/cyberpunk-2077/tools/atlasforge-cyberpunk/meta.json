@@ -1,0 +1,37 @@
+{
+  "id": "atlasforge-cyberpunk",
+  "name": "AtlasForge (Cyberpunk 2077)",
+  "shortName": "AtlasForge",
+  "taglineEs": "Mapa interactivo de Night City con markers de gigs, NCPD scanner hustles, iconic weapons y locations clave",
+  "taglineEn": "Night City interactive map with markers for gigs, NCPD scanner hustles, iconic weapons, and key locations",
+  "url": "https://atlasforge.gg/cyberpunk-2077",
+  "category": "maps",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["map", "database", "phantom-liberty", "multi-game"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-01",
+  "logo": "/images/tools/common/atlasforge-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["night-city-interactive-map", "fextralife-wiki-cyberpunk"],
+  "alternatives": ["night-city-interactive-map"],
+  "createdBy": {
+    "name": "AtlasForge",
+    "url": "https://atlasforge.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "elden-ring", "url": "https://atlasforge.gg/elden-ring" },
+      { "gameId": "skyrim", "url": "https://atlasforge.gg/skyrim" },
+      { "gameId": "palworld", "url": "https://atlasforge.gg/palworld" },
+      { "gameId": "world-of-warcraft", "url": "https://atlasforge.gg/wow-classic" }
+    ]
+  }
+}

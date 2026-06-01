@@ -1,0 +1,44 @@
+{
+  "id": "ragegamingvideos",
+  "name": "RageGamingVideos",
+  "country": "UK",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2010,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@RageGamingVideos",
+      "url": "https://www.youtube.com/@RageGamingVideos",
+      "channelId": "UC2nMSE3t71qC8sG06WSJnMg",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "ragegamingvideos",
+      "url": "https://www.twitch.tv/ragegamingvideos"
+    }
+  ],
+  "specialties": ["builds", "tier-lists", "boss-strategies"],
+  "games": ["elden-ring-nightreign"],
+  "contentTypes": ["builds", "tier-lists", "boss-guides", "meta-analysis"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Canal multi-juego masivo (Diablo, MH, Souls, ARPGs) que cubrió Nightreign desde launch con builds OP y meta-analysis. Sus videos de 'Best 3 MOST OP Builds' son referencia para players nuevos buscando atajos al endgame.",
+  "noteEn": "Massive multi-game channel (Diablo, MH, Souls, ARPGs) that covered Nightreign from launch with OP builds and meta analysis. Their 'Best 3 MOST OP Builds' videos are reference content for new players seeking shortcuts to endgame.",
+  "highlightsEs": [
+    "Videos de 'OP Builds' por Nightfarer con damage breakdowns visuales",
+    "Tier lists actualizadas con cada balance patch",
+    "Cobertura del DLC Forsaken Hollows con builds del nuevo contenido",
+    "Producción visual de alta calidad — thumbnails clickbait pero contenido sólido",
+    "Series 'Final Boss EASY' para players struggling con endgame"
+  ],
+  "highlightsEn": [
+    "Per-Nightfarer 'OP Builds' videos with visual damage breakdowns",
+    "Tier lists updated with every balance patch",
+    "Forsaken Hollows DLC coverage with new-content builds",
+    "High-quality visual production — clickbait thumbnails but solid content",
+    "'Final Boss EASY' series for players struggling with endgame"
+  ],
+  "avatar": "/images/creators/ragegamingvideos-avatar.jpg",
+  "banner": "/images/creators/ragegamingvideos-banner.jpg"
+}

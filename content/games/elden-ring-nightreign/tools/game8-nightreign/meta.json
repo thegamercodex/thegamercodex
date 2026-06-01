@@ -1,0 +1,28 @@
+{
+  "id": "game8-nightreign",
+  "name": "Game8 Nightreign Wiki",
+  "shortName": "Game8",
+  "taglineEs": "Wiki estilo guides con build orders por Nightfarer, tier lists, Nightlord weakness charts y editorial dedicado",
+  "taglineEn": "Guide-style wiki with per-Nightfarer build orders, tier lists, Nightlord weakness charts, and dedicated editorial",
+  "url": "https://game8.co/games/Elden-Ring-Nightreign",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "guides", "tier-list", "editorial"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/elden-ring-nightreign/game8-nightreign-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["fextralife-nightreign"],
+  "alternatives": ["fextralife-nightreign"],
+  "createdBy": {
+    "name": "Game8",
+    "url": "https://game8.co"
+  }
+}

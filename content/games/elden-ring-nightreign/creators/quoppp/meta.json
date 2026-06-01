@@ -1,0 +1,48 @@
+{
+  "id": "quoppp",
+  "name": "Quoppp",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2015,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Quoppp",
+      "url": "https://www.youtube.com/@Quoppp",
+      "channelId": "UCsRaQhe3CtISMpJt7NifcOg",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "quoppp",
+      "url": "https://www.twitch.tv/quoppp"
+    },
+    {
+      "type": "discord",
+      "url": "https://discord.gg/quoppp"
+    }
+  ],
+  "specialties": ["nightreign-focused", "depth-5-trios", "challenge-runs"],
+  "games": ["elden-ring-nightreign"],
+  "contentTypes": ["guides", "challenge-runs", "live-streams", "tips-and-tricks"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "El creator más dedicado a Nightreign con uploads diarios. Más de 1700 horas en el juego según el propio canal. Series como 'Depth 5 Trios' y 'Flawless Challenge' son referencia para players serios que buscan optimizar runs al máximo nivel.",
+  "noteEn": "The most Nightreign-dedicated creator with daily uploads. Over 1700 hours in the game per the channel itself. Series like 'Depth 5 Trios' and 'Flawless Challenge' are reference content for serious players optimizing runs at the highest level.",
+  "highlightsEs": [
+    "Uploads diarios sobre Nightreign — el ritmo más alto del ecosistema",
+    "'Flawless Challenge' viewers — runs sin morir contra Nightlords difíciles",
+    "Series 'Depth 5 Trios' para endgame meta de difficulty máxima",
+    "Cobertura inmediata del DLC Forsaken Hollows",
+    "Community activa en Twitch con problem-solving live"
+  ],
+  "highlightsEn": [
+    "Daily Nightreign uploads — the highest cadence in the ecosystem",
+    "'Flawless Challenge' viewer runs — no-death runs against hard Nightlords",
+    "'Depth 5 Trios' series for endgame meta at maximum difficulty",
+    "Immediate Forsaken Hollows DLC coverage",
+    "Active Twitch community with live problem-solving"
+  ],
+  "avatar": "/images/creators/quoppp-avatar.jpg",
+  "banner": "/images/creators/quoppp-banner.jpg"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "eldenring-discord",
+  "name": "Elden Ring Official Discord",
+  "shortName": "ER Discord",
+  "taglineEs": "El Discord oficial de Bandai Namco para Elden Ring y Nightreign — LFG, co-op y anuncios",
+  "taglineEn": "Bandai Namco's official Discord for Elden Ring and Nightreign — LFG, co-op, and announcements",
+  "url": "https://discord.com/invite/eldenring",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows", "macos", "linux", "ios", "android"],
+  "languages": ["en"],
+  "tags": ["community", "official", "discord", "lfg", "co-op"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["eldenring-subreddit", "seamless-coop"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Bandai Namco / FromSoftware",
+    "url": "https://en.bandainamcoent.eu/elden-ring/elden-ring"
+  }
+}

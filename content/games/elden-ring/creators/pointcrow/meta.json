@@ -1,0 +1,44 @@
+{
+  "id": "pointcrow",
+  "name": "PointCrow",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2020,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@PointCrow",
+      "url": "https://www.youtube.com/@PointCrow",
+      "channelId": "UCG6zBb8GZKo1XZW4eHdg-0Q",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "PointCrow",
+      "url": "https://www.twitch.tv/pointcrow"
+    }
+  ],
+  "specialties": ["challenge-runs", "speedruns", "creative-builds"],
+  "games": ["elden-ring", "elden-ring-nightreign"],
+  "contentTypes": ["challenge-videos", "speedruns", "build-experiments"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Especialista en challenge runs creativos: Elden Ring solo con tu Spirit Ash, sin levear, con un solo arma, etc. Los videos están bien editados, narran el proceso con entretenimiento real y dan ideas para tus propias self-imposed restrictions.",
+  "noteEn": "Specialist in creative challenge runs: Elden Ring with only your Spirit Ash, no leveling, single weapon, etc. Videos are well edited, narrate the process with real entertainment, and give ideas for your own self-imposed restrictions.",
+  "highlightsEs": [
+    "Challenge runs originales que no copian formats existentes",
+    "Streams en Twitch donde se ven los attempts reales detrás de los highlights del YouTube",
+    "Cobertura de Shadow of the Erdtree con runs sobre Promised Consort Radahn",
+    "Edición que comunica las stakes — sabes por qué cada attempt importa",
+    "Community engagement fuerte; los viewers proponen los próximos challenges"
+  ],
+  "highlightsEn": [
+    "Original challenge runs that don't copy existing formats",
+    "Twitch streams where you see real attempts behind YouTube highlights",
+    "Shadow of the Erdtree coverage with runs against Promised Consort Radahn",
+    "Editing that communicates the stakes — you know why each attempt matters",
+    "Strong community engagement; viewers propose the next challenges"
+  ],
+  "avatar": "/images/creators/pointcrow-avatar.jpg",
+  "banner": "/images/creators/pointcrow-banner.jpg"
+}

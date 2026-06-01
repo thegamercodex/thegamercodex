@@ -1,0 +1,49 @@
+{
+  "id": "vaatividya",
+  "name": "VaatiVidya",
+  "country": "AU",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2012,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@VaatiVidya",
+      "url": "https://www.youtube.com/@VaatiVidya",
+      "channelId": "UCe0DNp0mKMqrYVaTundyr9w",
+      "primary": true
+    },
+    {
+      "type": "twitter",
+      "handle": "@vaatividya",
+      "url": "https://twitter.com/vaatividya"
+    },
+    {
+      "type": "patreon",
+      "handle": "vaatividya",
+      "url": "https://www.patreon.com/vaatividya"
+    }
+  ],
+  "specialties": ["lore-analysis", "narrative-essays", "souls-series"],
+  "games": ["elden-ring", "elden-ring-nightreign"],
+  "contentTypes": ["lore-essays", "narrated-analysis", "story-summaries"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "El lore YouTuber definitivo de los Souls. Sus análisis narrativos de Elden Ring son la referencia: bien investigados, narrados con calma y editados con cinematics propios. Cuando termina la historia de un personaje, tu entendimiento del juego sube un nivel.",
+  "noteEn": "The definitive Souls lore YouTuber. His Elden Ring narrative analyses are the reference: well-researched, calmly narrated, and edited with custom cinematics. When he wraps a character's story, your understanding of the game ratchets up a level.",
+  "highlightsEs": [
+    "Más de 3 millones de suscriptores; el canal Souls más visto del mundo",
+    "Series 'Prepare to Cry' y 'Lore of Elden Ring' como referencia narrativa estándar",
+    "Cobertura completa de Shadow of the Erdtree con análisis individual de cada NPC del DLC",
+    "Edición visual de calidad cinematográfica usando assets del juego",
+    "Tono respetado por la comunidad: investigativo, no clickbait"
+  ],
+  "highlightsEn": [
+    "Over 3 million subscribers; the most-watched Souls channel in the world",
+    "'Prepare to Cry' and 'Lore of Elden Ring' series as the standard narrative reference",
+    "Full Shadow of the Erdtree coverage with individual analysis of each DLC NPC",
+    "Cinematic-quality visual editing using game assets",
+    "Tone respected by the community: investigative, not clickbait"
+  ],
+  "avatar": "/images/creators/vaatividya-avatar.jpg",
+  "banner": "/images/creators/vaatividya-banner.jpg"
+}

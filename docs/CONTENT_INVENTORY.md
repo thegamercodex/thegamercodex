@@ -5,16 +5,18 @@
 
 ## Resumen
 
-22 juegos · 373 tools · 106 creators · 112 categorías · 560 resources items · 89 comparisons
+24 juegos · 406 tools · 116 creators · 122 categorías · 610 resources items · 103 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
 | `apex-legends` | Apex Legends | 13 | 5 | 5 | 25 | 5 |
 | `counter-strike-2` | Counter-Strike 2 | 17 | 5 | 5 | 25 | 0 |
-| `cyberpunk-2077` | Cyberpunk 2077 | 16 | 5 | 5 | 25 | 0 |
+| `cyberpunk-2077` | Cyberpunk 2077 | 17 | 5 | 5 | 25 | 0 |
 | `destiny-2` | Destiny 2 | 14 | 5 | 5 | 25 | 0 |
 | `diablo-4` | Diablo IV | 24 | 4 | 5 | 25 | 9 |
 | `dota-2` | Dota 2 | 15 | 5 | 5 | 25 | 0 |
+| `elden-ring` | Elden Ring | 17 | 5 | 5 | 25 | 7 |
+| `elden-ring-nightreign` | Elden Ring Nightreign | 12 | 5 | 5 | 25 | 7 |
 | `final-fantasy-xiv` | Final Fantasy XIV | 17 | 5 | 5 | 25 | 5 |
 | `genshin-impact` | Genshin Impact | 26 | 5 | 6 | 30 | 6 |
 | `honkai-star-rail` | Honkai: Star Rail | 16 | 3 | 5 | 25 | 3 |
@@ -22,15 +24,15 @@
 | `league-of-legends` | League of Legends | 17 | 5 | 5 | 25 | 0 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 |
 | `nte` | Neverness to Everness | 12 | 5 | 5 | 25 | 4 |
-| `palworld` | Palworld | 16 | 5 | 5 | 25 | 4 |
+| `palworld` | Palworld | 17 | 5 | 5 | 25 | 4 |
 | `path-of-exile` | Path of Exile | 19 | 5 | 5 | 25 | 7 |
 | `path-of-exile-2` | Path of Exile 2 | 21 | 5 | 5 | 25 | 8 |
 | `rust` | Rust | 16 | 4 | 5 | 25 | 5 |
-| `skyrim` | The Elder Scrolls V: Skyrim | 20 | 5 | 5 | 25 | 5 |
+| `skyrim` | The Elder Scrolls V: Skyrim | 21 | 5 | 5 | 25 | 5 |
 | `valheim` | Valheim | 16 | 5 | 5 | 25 | 4 |
 | `valorant` | Valorant | 17 | 5 | 5 | 25 | 0 |
 | `windrose` | Windrose | 14 | 5 | 5 | 25 | 4 |
-| `world-of-warcraft` | World of Warcraft | 17 | 5 | 6 | 30 | 5 |
+| `world-of-warcraft` | World of Warcraft | 18 | 5 | 6 | 30 | 5 |
 
 ## Por juego
 
@@ -66,7 +68,7 @@
 
 ### Cyberpunk 2077 (`cyberpunk-2077`)
 
-**Tools (16)**: Appearance Menu Mod (`appearance-menu-mod`), ArchiveXL (`archive-xl`), Cyberpunk 2077 Modding Community (`cp77-modding-community-discord`), Cyber Engine Tweaks (`cyber-engine-tweaks`), CyberCAT Save Editor (Project CyberCAT-SimpleGUI) (`cybercat-save-editor`), r/cyberpunkgame (`cyberpunk-subreddit`), Cyberpunk 2077 Wiki (Fextralife) (`fextralife-wiki-cyberpunk`), Native Settings UI (`native-settings-ui`), Night City Interactive Map (nightcity.io) (`night-city-interactive-map`), Nukes & Dragons Cyberpunk 2077 Build Planner (`nukes-and-dragons`), Official Cyberpunk 2077 Build Planner (`official-build-planner`), RED4ext (`red4ext`), REDmod (`redmod`), TweakXL (`tweak-xl`), Vortex Mod Manager (`vortex-mod-manager`), WolvenKit (`wolvenkit`)
+**Tools (17)**: Appearance Menu Mod (`appearance-menu-mod`), ArchiveXL (`archive-xl`), AtlasForge (Cyberpunk 2077) (`atlasforge-cyberpunk`), Cyberpunk 2077 Modding Community (`cp77-modding-community-discord`), Cyber Engine Tweaks (`cyber-engine-tweaks`), CyberCAT Save Editor (Project CyberCAT-SimpleGUI) (`cybercat-save-editor`), r/cyberpunkgame (`cyberpunk-subreddit`), Cyberpunk 2077 Wiki (Fextralife) (`fextralife-wiki-cyberpunk`), Native Settings UI (`native-settings-ui`), Night City Interactive Map (nightcity.io) (`night-city-interactive-map`), Nukes & Dragons Cyberpunk 2077 Build Planner (`nukes-and-dragons`), Official Cyberpunk 2077 Build Planner (`official-build-planner`), RED4ext (`red4ext`), REDmod (`redmod`), TweakXL (`tweak-xl`), Vortex Mod Manager (`vortex-mod-manager`), WolvenKit (`wolvenkit`)
 
 **Creators (5)**: Big Dan Gaming (`big-dan-gaming`), JorRaptor (`jorraptor`), Lechian (`lechian`), Sam Bram (`sam-bram`), Solo4Players (`solo4players`)
 
@@ -123,6 +125,36 @@
 - `ranked-improvement` — 5 items
 
 **Comparisons (0)**: _(none)_
+
+### Elden Ring (`elden-ring`)
+
+**Tools (17)**: AtlasForge (Elden Ring) (`atlasforge-eldenring`), DSMapStudio (`dsmapstudio`), EIP Gaming Build Planner (`eip-build-planner`), ELDEN RING Reforged (`elden-ring-reforged`), Elden Ring Official Discord (`eldenring-discord`), r/Eldenring (`eldenring-subreddit`), Elden Ring Wiki (wiki.gg) (`eldenring-wiki-gg`), Emilia's Build & Inventory Tool (`er-inventory-emilia`), Fextralife Elden Ring Wiki (`fextralife-eldenring`), Map Genie (Elden Ring) (`mapgenie-eldenring`), Mod Engine 2 (`mod-engine-2`), Mugen Monkey (Elden Ring) (`mugenmonkey-eldenring`), Nexus Mods (Elden Ring) (`nexus-mods-eldenring`), Elden Ring Debug Tool (`nordgaren-debug-tool`), ELDEN RING Seamless Co-op (`seamless-coop`), tarnished.dev Build Planner (`tarnished-dev`), The Convergence Mod (`the-convergence`)
+
+**Creators (5)**: PointCrow (`pointcrow`), Powerbazinga TV (`powerbazinga`), Souls Frequency (`souls-frequency`), The Tarnished Archaeologist (`tarnished-archaeologist`), VaatiVidya (`vaatividya`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `boss-guides` — 5 items
+- `build-guides` — 5 items
+- `lore-and-deep-dives` — 5 items
+- `modding-guides` — 5 items
+
+**Comparisons (7)**: `eip-build-planner-vs-mugenmonkey-eldenring` (flagship), `eip-build-planner-vs-tarnished-dev` (short), `elden-ring-reforged-vs-the-convergence` (flagship), `fextralife-eldenring-vs-eldenring-wiki-gg` (short), `mapgenie-eldenring-vs-atlasforge-eldenring` (short), `mugenmonkey-eldenring-vs-er-inventory-emilia` (short), `tarnished-dev-vs-er-inventory-emilia` (short)
+
+### Elden Ring Nightreign (`elden-ring-nightreign`)
+
+**Tools (12)**: Elden Ring Nightreign Official Discord (`eldenring-nightreign-discord`), Fextralife Nightreign Wiki (`fextralife-nightreign`), Fun is Allowed - Mod Overhaul for Solos and Duos (`fun-is-allowed`), Game8 Nightreign Wiki (`game8-nightreign`), Map Labels (Seed Overlay Tool) (`map-labels-nightreign`), Mobalytics (Nightreign) (`mobalytics-nightreign`), Nexus Mods (Nightreign) (`nexus-mods-nightreign`), Nightreign Calculator (`nightreign-calculator`), Nightreign Map Router (`nightreign-map-router`), Seamless Co-op (Nightreign) (`nightreign-seamless-coop`), r/Nightreign (`nightreign-subreddit`), Relics.pro (`relics-pro`)
+
+**Creators (5)**: NorZZa (`norzza`), Powerbazinga TV (`powerbazinga`), Quoppp (`quoppp`), RageGamingVideos (`ragegamingvideos`), VaatiVidya (`vaatividya`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `meta-and-updates` — 5 items
+- `nightfarer-guides` — 5 items
+- `nightlord-guides` — 5 items
+- `relic-guides` — 5 items
+
+**Comparisons (7)**: `fextralife-nightreign-vs-game8-nightreign` (flagship), `mobalytics-nightreign-vs-fextralife-nightreign` (short), `mobalytics-nightreign-vs-nightreign-calculator` (short), `mobalytics-nightreign-vs-relics-pro` (flagship), `nightreign-map-router-vs-map-labels-nightreign` (short), `nightreign-seamless-coop-vs-fun-is-allowed` (short), `relics-pro-vs-nightreign-calculator` (short)
 
 ### Final Fantasy XIV (`final-fantasy-xiv`)
 
@@ -232,7 +264,7 @@
 
 ### Palworld (`palworld`)
 
-**Tools (16)**: Nexus Mods (Palworld) (`nexus-mods-palworld`), PalSchema (`pal-schema`), PalBreed.AI (`palbreed-ai`), PalDB (`paldb-cc`), Palworld Base Planner (`palworld-base-planner`), Palworld.gg (`palworld-gg`), Palworld Mod Hub (`palworld-mod-hub`), Palworld Pal Editor (`palworld-pal-editor`), Palworld Save Pal (`palworld-save-pal`), Palworld Server Manager (PSM) (`palworld-server-manager`), r/Palworld (`palworld-subreddit`), Palworld THGL Map (`palworld-thgl`), The Palworld Wiki (`palworld-wiki-gg`), Pocketpair Official Discord (`pocketpair-discord`), UE4SS (Palworld) (`ue4ss`), XGamingServer Breeding Calculator (`xgaming-breeding-calculator`)
+**Tools (17)**: AtlasForge (Palworld) (`atlasforge-palworld`), Nexus Mods (Palworld) (`nexus-mods-palworld`), PalSchema (`pal-schema`), PalBreed.AI (`palbreed-ai`), PalDB (`paldb-cc`), Palworld Base Planner (`palworld-base-planner`), Palworld.gg (`palworld-gg`), Palworld Mod Hub (`palworld-mod-hub`), Palworld Pal Editor (`palworld-pal-editor`), Palworld Save Pal (`palworld-save-pal`), Palworld Server Manager (PSM) (`palworld-server-manager`), r/Palworld (`palworld-subreddit`), Palworld THGL Map (`palworld-thgl`), The Palworld Wiki (`palworld-wiki-gg`), Pocketpair Official Discord (`pocketpair-discord`), UE4SS (Palworld) (`ue4ss`), XGamingServer Breeding Calculator (`xgaming-breeding-calculator`)
 
 **Creators (5)**: DSimphony (`dsimphony`), Gym Leader Ed (`gym-leader-ed`), KhrazeGaming (`khrazegaming`), The Pal Professor (`the-pal-professor`), Wak4863 (`wak4863`)
 
@@ -292,7 +324,7 @@
 
 ### The Elder Scrolls V: Skyrim (`skyrim`)
 
-**Tools (20)**: Address Library for SKSE Plugins (`address-library-skse`), BodySlide and Outfit Studio (`bodyslide-outfit-studio`), Cathedral Assets Optimizer (`cathedral-assets-optimizer`), DynDOLOD (`dyndolod`), LOOT (Load Order Optimization Tool) (`loot`), Map Genie Skyrim Interactive Map (`map-genie-skyrim`), Mod Organizer 2 (`mod-organizer-2`), Nemesis Unlimited Behavior Engine (`nemesis-behavior-engine`), Nexus Mods (Skyrim Special Edition) (`nexus-mods-skyrim`), Nukes & Dragons Skyrim Build Planner (`nukes-and-dragons`), Skyrim Script Extender (SKSE64) (`skse64`), Skyrim Builds (`skyrim-builds`), r/skyrim (`skyrim-subreddit`), r/skyrimmods Discord (`skyrimmods-discord`), SkyUI (`skyui`), SSEEdit (xEdit for Skyrim SE) (`sseedit`), Synthesis (`synthesis`), UESP — Unofficial Elder Scrolls Pages (`uesp`), Vortex Mod Manager (`vortex-mod-manager`), Wabbajack (`wabbajack`)
+**Tools (21)**: Address Library for SKSE Plugins (`address-library-skse`), AtlasForge (Skyrim) (`atlasforge-skyrim`), BodySlide and Outfit Studio (`bodyslide-outfit-studio`), Cathedral Assets Optimizer (`cathedral-assets-optimizer`), DynDOLOD (`dyndolod`), LOOT (Load Order Optimization Tool) (`loot`), Map Genie Skyrim Interactive Map (`map-genie-skyrim`), Mod Organizer 2 (`mod-organizer-2`), Nemesis Unlimited Behavior Engine (`nemesis-behavior-engine`), Nexus Mods (Skyrim Special Edition) (`nexus-mods-skyrim`), Nukes & Dragons Skyrim Build Planner (`nukes-and-dragons`), Skyrim Script Extender (SKSE64) (`skse64`), Skyrim Builds (`skyrim-builds`), r/skyrim (`skyrim-subreddit`), r/skyrimmods Discord (`skyrimmods-discord`), SkyUI (`skyui`), SSEEdit (xEdit for Skyrim SE) (`sseedit`), Synthesis (`synthesis`), UESP — Unofficial Elder Scrolls Pages (`uesp`), Vortex Mod Manager (`vortex-mod-manager`), Wabbajack (`wabbajack`)
 
 **Creators (5)**: Brodual (`brodual`), Folagor03 (`folagor03`), FudgeMuppet (`fudgemuppet`), GamerPoets (`gamerpoets`), TheEpicNate315 (`the-epic-nate-315`)
 
@@ -352,7 +384,7 @@
 
 ### World of Warcraft (`world-of-warcraft`)
 
-**Tools (17)**: Archon.gg (`archon-gg`), Bloodmallet (`bloodmallet`), CurseForge (`curseforge`), Icy Veins (`icy-veins`), Method (`method`), Raidbots (`raidbots`), Raider.IO (`raider-io`), TradeSkillMaster (`tradeskillmaster`), Wago.io (`wago-io`), Warcraft Logs (`warcraft-logs`), Warcraft Wiki (`warcraft-wiki`), Wipefest (`wipefest`), World of Warcraft Community Discord (`wow-discord`), WoW Esports (`wow-esports`), r/wow (`wow-subreddit`), WoWAnalyzer (`wowanalyzer`), WoWHead (`wowhead`)
+**Tools (18)**: Archon.gg (`archon-gg`), AtlasForge (WoW Classic SoD + Cataclysm) (`atlasforge-wow`), Bloodmallet (`bloodmallet`), CurseForge (`curseforge`), Icy Veins (`icy-veins`), Method (`method`), Raidbots (`raidbots`), Raider.IO (`raider-io`), TradeSkillMaster (`tradeskillmaster`), Wago.io (`wago-io`), Warcraft Logs (`warcraft-logs`), Warcraft Wiki (`warcraft-wiki`), Wipefest (`wipefest`), World of Warcraft Community Discord (`wow-discord`), WoW Esports (`wow-esports`), r/wow (`wow-subreddit`), WoWAnalyzer (`wowanalyzer`), WoWHead (`wowhead`)
 
 **Creators (5)**: Dratnos (`dratnos`), Liquid (`liquid`), MrGM (`mrgm`), Platinum WoW (`platinum-wow`), Xenulias (`xenulias`)
 

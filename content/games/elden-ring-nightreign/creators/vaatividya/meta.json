@@ -1,0 +1,49 @@
+{
+  "id": "vaatividya",
+  "name": "VaatiVidya",
+  "country": "AU",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2012,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@VaatiVidya",
+      "url": "https://www.youtube.com/@VaatiVidya",
+      "channelId": "UCe0DNp0mKMqrYVaTundyr9w",
+      "primary": true
+    },
+    {
+      "type": "twitter",
+      "handle": "@vaatividya",
+      "url": "https://twitter.com/vaatividya"
+    },
+    {
+      "type": "patreon",
+      "handle": "vaatividya",
+      "url": "https://www.patreon.com/vaatividya"
+    }
+  ],
+  "specialties": ["lore-analysis", "narrative-essays", "souls-series"],
+  "games": ["elden-ring", "elden-ring-nightreign"],
+  "contentTypes": ["lore-essays", "narrated-analysis", "character-stories"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "VaatiVidya extendió su cobertura clásica de Souls a Nightreign con una serie dedicada a cada Nightfarer y Nightlord. Los character stories del spin-off siguen el mismo estándar de calidad narrativa que su trabajo con Elden Ring base.",
+  "noteEn": "VaatiVidya extended his classic Souls coverage to Nightreign with a series dedicated to each Nightfarer and Nightlord. The spin-off's character stories meet the same narrative-quality standard as his base Elden Ring work.",
+  "highlightsEs": [
+    "Serie 'The Story of [Nightfarer]' cubriendo cada personaje del roster",
+    "Análisis de Nightlords con conexiones al canon mayor de FromSoftware",
+    "Cobertura del DLC Forsaken Hollows con tono crítico-narrativo",
+    "Producción cinematográfica usando assets del juego",
+    "Misma audiencia/calidad editorial que su trabajo con Elden Ring base"
+  ],
+  "highlightsEn": [
+    "'The Story of [Nightfarer]' series covering every roster character",
+    "Nightlord analyses with connections to the broader FromSoftware canon",
+    "Forsaken Hollows DLC coverage with a critical-narrative tone",
+    "Cinematic production using game assets",
+    "Same editorial quality/audience as his base Elden Ring work"
+  ],
+  "avatar": "/images/creators/vaatividya-avatar.jpg",
+  "banner": "/images/creators/vaatividya-banner.jpg"
+}

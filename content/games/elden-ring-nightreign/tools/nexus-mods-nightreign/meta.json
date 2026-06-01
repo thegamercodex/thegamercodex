@@ -1,0 +1,35 @@
+{
+  "id": "nexus-mods-nightreign",
+  "name": "Nexus Mods (Nightreign)",
+  "shortName": "Nexus Nightreign",
+  "taglineEs": "Hub central de mods de Nightreign: Seamless Co-op, rebalances solo/duo, relic editors y QoL tools",
+  "taglineEn": "Central Nightreign mod hub: Seamless Co-op, solo/duo rebalances, relic editors, and QoL tools",
+  "url": "https://www.nexusmods.com/eldenringnightreign",
+  "category": "mod-hubs",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["mod-hub", "nexus", "downloads"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nightreign-seamless-coop", "fun-is-allowed", "map-labels-nightreign"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Nexus Mods",
+    "url": "https://www.nexusmods.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "elden-ring", "url": "https://www.nexusmods.com/eldenring" },
+      { "gameId": "skyrim", "url": "https://www.nexusmods.com/skyrimspecialedition" }
+    ]
+  }
+}

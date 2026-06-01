@@ -1,0 +1,35 @@
+{
+  "id": "nexus-mods-eldenring",
+  "name": "Nexus Mods (Elden Ring)",
+  "shortName": "Nexus ER",
+  "taglineEs": "El hub central de mods de Elden Ring: 5000+ mods con downloads, comentarios y soporte de la comunidad",
+  "taglineEn": "The central Elden Ring mod hub: 5000+ mods with downloads, comments, and community support",
+  "url": "https://www.nexusmods.com/eldenring",
+  "category": "mod-hubs",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["mod-hub", "nexus", "downloads", "community"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mod-engine-2", "seamless-coop", "elden-ring-reforged", "the-convergence"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Nexus Mods",
+    "url": "https://www.nexusmods.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "skyrim", "url": "https://www.nexusmods.com/skyrimspecialedition" },
+      { "gameId": "elden-ring-nightreign", "url": "https://www.nexusmods.com/eldenringnightreign" }
+    ]
+  }
+}

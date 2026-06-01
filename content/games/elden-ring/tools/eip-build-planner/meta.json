@@ -1,0 +1,28 @@
+{
+  "id": "eip-build-planner",
+  "name": "EIP Gaming Build Planner",
+  "shortName": "EIP Planner",
+  "taglineEs": "Calculadora de builds con UI completa: stats, AR, defensas, runes y soporte para Shadow of the Erdtree",
+  "taglineEn": "Build calculator with a complete UI: stats, AR, defenses, runes, and Shadow of the Erdtree support",
+  "url": "https://eip.gg/elden-ring/build-planner/",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-planner", "calculator", "stats", "sote"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/elden-ring/eip-build-planner-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mugenmonkey-eldenring", "tarnished-dev", "er-inventory-emilia"],
+  "alternatives": ["mugenmonkey-eldenring", "tarnished-dev"],
+  "createdBy": {
+    "name": "EIP Gaming",
+    "url": "https://eip.gg/about/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "elden-ring-reforged",
+  "name": "ELDEN RING Reforged",
+  "shortName": "ERR",
+  "taglineEs": "Overhaul masivo: rebalance de armas, hechizos, jefes y mecánicas, con servidor multiplayer propio",
+  "taglineEn": "Massive overhaul: rebalanced weapons, spells, bosses, and mechanics, with its own multiplayer server",
+  "url": "https://www.nexusmods.com/eldenring/mods/541",
+  "category": "gameplay-overhauls",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["overhaul", "rebalance", "multiplayer", "mod"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["the-convergence", "mod-engine-2", "seamless-coop"],
+  "alternatives": ["the-convergence"],
+  "createdBy": {
+    "name": "ERR Team",
+    "url": "https://www.nexusmods.com/eldenring/mods/541"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mugenmonkey-eldenring-vs-er-inventory-emilia",
+  "toolIds": ["mugenmonkey-eldenring", "er-inventory-emilia"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-05-31",
+  "verdictEs": "Mugen Monkey si quieres optimizar starting class para PvP capped; Emilia's tool si quieres data datamined raw y frame data exacta.",
+  "verdictEn": "Mugen Monkey if you want to optimize starting class for capped PvP; Emilia's tool if you want raw datamined data and exact frame data.",
+  "useCases": [
+    {
+      "labelEs": "Optimizar level total para PvP a 125",
+      "labelEn": "Optimize total level for level-125 PvP",
+      "winner": "mugenmonkey-eldenring",
+      "reasonEs": "Mugen Monkey tiene optimizador automático de starting class; Emilia's tool no implementa esa feature.",
+      "reasonEn": "Mugen Monkey has automatic starting-class optimizer; Emilia's tool doesn't implement that feature."
+    },
+    {
+      "labelEs": "Lookup de frame data exacto de armas",
+      "labelEn": "Exact weapon frame data lookup",
+      "winner": "er-inventory-emilia",
+      "reasonEs": "Emilia's tool tiene tabla de frame data (startup, recovery, hyperarmor); Mugen no expone esta info.",
+      "reasonEn": "Emilia's tool has frame data table (startup, recovery, hyperarmor); Mugen doesn't expose this info."
+    },
+    {
+      "labelEs": "Uso offline sin conexión a internet",
+      "labelEn": "Offline use without internet connection",
+      "winner": "er-inventory-emilia",
+      "reasonEs": "Emilia's tool es PWA y funciona offline después del primer load. Mugen requiere conexión.",
+      "reasonEn": "Emilia's tool is a PWA and works offline after first load. Mugen requires connection."
+    },
+    {
+      "labelEs": "UI simple para principiantes",
+      "labelEn": "Simple UI for beginners",
+      "winner": "mugenmonkey-eldenring",
+      "reasonEs": "Mugen es minimalista pero menos denso que Emilia, que prioriza data sobre UX. Mugen es más accesible.",
+      "reasonEn": "Mugen is minimalist but less dense than Emilia, which prioritizes data over UX. Mugen is more accessible."
+    },
+    {
+      "labelEs": "Inventory simulation con weight tracking",
+      "labelEn": "Inventory simulation with weight tracking",
+      "winner": "er-inventory-emilia",
+      "reasonEs": "Emilia's tool tiene panel de inventory que simula pickups y muestra weight totals; Mugen no.",
+      "reasonEn": "Emilia's tool has an inventory panel that simulates pickups and shows weight totals; Mugen doesn't."
+    }
+  ]
+}

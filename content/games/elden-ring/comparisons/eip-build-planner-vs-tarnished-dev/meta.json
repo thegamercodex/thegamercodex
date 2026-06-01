@@ -1,0 +1,46 @@
+{
+  "id": "eip-build-planner-vs-tarnished-dev",
+  "toolIds": ["eip-build-planner", "tarnished-dev"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-05-31",
+  "verdictEs": "EIP si quieres cobertura masiva de items y data más profunda; tarnished.dev si valoras UX moderna y fuzzy search rápida para iterar builds.",
+  "verdictEn": "EIP if you want massive item coverage and deeper data; tarnished.dev if you value modern UX and fast fuzzy search to iterate builds.",
+  "useCases": [
+    {
+      "labelEs": "Buscar un item específico por nombre parcial",
+      "labelEn": "Search for a specific item by partial name",
+      "winner": "tarnished-dev",
+      "reasonEs": "tarnished.dev tiene fuzzy search instantáneo. EIP requiere navegar por categorías o usar el filter más rígido.",
+      "reasonEn": "tarnished.dev has instant fuzzy search. EIP requires browsing categories or using a more rigid filter."
+    },
+    {
+      "labelEs": "Build con items raros del DLC y datamined data",
+      "labelEn": "Build with rare DLC items and datamined data",
+      "winner": "eip-build-planner",
+      "reasonEs": "EIP tiene cobertura más completa de items longtail; tarnished.dev ocasionalmente tarda en agregar items específicos post-patch.",
+      "reasonEn": "EIP has more complete longtail item coverage; tarnished.dev occasionally lags in adding specific post-patch items."
+    },
+    {
+      "labelEs": "Sharing rápido con un amigo en Discord",
+      "labelEn": "Quick sharing with a friend on Discord",
+      "winner": "tarnished-dev",
+      "reasonEs": "Las URLs de tarnished.dev son shortas y limpias; abrir en otro browser preserva todo. EIP encoda más pero las URLs son más pesadas.",
+      "reasonEn": "tarnished.dev URLs are short and clean; opening elsewhere preserves everything. EIP encodes more but URLs are heavier."
+    },
+    {
+      "labelEs": "Iteración de 5 variantes de build en 10 minutos",
+      "labelEn": "Iterating 5 build variants in 10 minutes",
+      "winner": "tarnished-dev",
+      "reasonEs": "La UX de tarnished.dev minimiza fricción: drag-and-drop, search rápido, animaciones suaves. EIP es más click-heavy.",
+      "reasonEn": "tarnished.dev UX minimizes friction: drag-and-drop, fast search, smooth animations. EIP is more click-heavy."
+    },
+    {
+      "labelEs": "Planning de DLC con Scadutree Fragments integrados",
+      "labelEn": "DLC planning with integrated Scadutree Fragments",
+      "winner": "eip-build-planner",
+      "reasonEs": "EIP integra Scadutree level previewed en defenses y damage. tarnished.dev lo soporta pero menos visible en la UI.",
+      "reasonEn": "EIP integrates Scadutree level previewed in defenses and damage. tarnished.dev supports it but it's less visible in the UI."
+    }
+  ]
+}

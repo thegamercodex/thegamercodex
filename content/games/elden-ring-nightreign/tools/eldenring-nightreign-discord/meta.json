@@ -1,0 +1,28 @@
+{
+  "id": "eldenring-nightreign-discord",
+  "name": "Elden Ring Nightreign Official Discord",
+  "shortName": "Nightreign Discord",
+  "taglineEs": "Discord oficial compartido con Elden Ring base con canales dedicados a Nightreign para LFG, builds y meta",
+  "taglineEn": "Official Discord shared with base Elden Ring with dedicated Nightreign channels for LFG, builds, and meta",
+  "url": "https://discord.com/invite/eldenring",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows", "macos", "linux", "ios", "android"],
+  "languages": ["en"],
+  "tags": ["community", "official", "discord", "lfg", "co-op"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nightreign-subreddit", "nightreign-seamless-coop"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Bandai Namco / FromSoftware",
+    "url": "https://en.bandainamcoent.eu/elden-ring/elden-ring-nightreign"
+  }
+}

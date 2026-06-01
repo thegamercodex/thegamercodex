@@ -1,0 +1,80 @@
+{
+  "category": "nightfarer-guides",
+  "resources": [
+    {
+      "id": "ragegaming-make-every-nightfarer-op-fast",
+      "type": "video",
+      "title": "Elden Ring Nightreign - How to Make EVERY Nightfarer OP FAST",
+      "creator": "RageGamingVideos",
+      "creatorId": "ragegamingvideos",
+      "url": "https://www.youtube.com/watch?v=8LL9aIDuAak",
+      "youtubeId": "8LL9aIDuAak",
+      "language": "en",
+      "duration": "23:50",
+      "publishedDate": "2025-06-04",
+      "thumbnail": "https://i.ytimg.com/vi/8LL9aIDuAak/maxresdefault.jpg",
+      "noteEs": "Guía rápida por cada Nightfarer: build path eficiente para llegar a OP ASAP. Útil cuando quieres probar todos los personajes y entender qué los hace fuertes.",
+      "noteEn": "Quick per-Nightfarer guide: efficient build path to hit OP ASAP. Useful when you want to try every character and understand what makes them strong."
+    },
+    {
+      "id": "ragegaming-best-3-most-op-builds",
+      "type": "video",
+      "title": "Elden Ring Nightreign - Best 3 MOST OP Builds in Game",
+      "creator": "RageGamingVideos",
+      "creatorId": "ragegamingvideos",
+      "url": "https://www.youtube.com/watch?v=rl8_MJPVaC4",
+      "youtubeId": "rl8_MJPVaC4",
+      "language": "en",
+      "duration": "15:24",
+      "publishedDate": "2025-06-08",
+      "thumbnail": "https://i.ytimg.com/vi/rl8_MJPVaC4/maxresdefault.jpg",
+      "noteEs": "Top 3 builds más OP del meta launch: damage numbers visuales, weapon recommendations y relic priorities. Para players buscando atajos al endgame.",
+      "noteEn": "Top 3 most OP builds in the launch meta: visual damage numbers, weapon recommendations, and relic priorities. For players seeking shortcuts to endgame."
+    },
+    {
+      "id": "ragegaming-everdark-highest-damage-builds",
+      "type": "video",
+      "title": "Elden Ring Nightreign - New Best 3 HIGHEST DAMAGE Everdark Builds",
+      "creator": "RageGamingVideos",
+      "creatorId": "ragegamingvideos",
+      "url": "https://www.youtube.com/watch?v=HyoAsVrIK14",
+      "youtubeId": "HyoAsVrIK14",
+      "language": "en",
+      "duration": "14:09",
+      "publishedDate": "2025-06-28",
+      "thumbnail": "https://i.ytimg.com/vi/HyoAsVrIK14/maxresdefault.jpg",
+      "noteEs": "Builds optimizadas para Everdark difficulty — los 3 con más damage output verified. Para players que ya completaron la campaña y necesitan builds para endgame challenges.",
+      "noteEn": "Builds optimized for Everdark difficulty — the 3 with the most damage output verified. For players who completed the campaign and need builds for endgame challenges."
+    },
+    {
+      "id": "vaatividya-executor-revenant-story",
+      "type": "video",
+      "title": "The Story of the Executor & the Revenant in Elden Ring: Nightreign",
+      "creator": "VaatiVidya",
+      "creatorId": "vaatividya",
+      "url": "https://www.youtube.com/watch?v=ZQ_tgXB4u2Q",
+      "youtubeId": "ZQ_tgXB4u2Q",
+      "language": "en",
+      "duration": "29:08",
+      "publishedDate": "2025-11-28",
+      "thumbnail": "https://i.ytimg.com/vi/ZQ_tgXB4u2Q/maxresdefault.jpg",
+      "noteEs": "Análisis narrativo profundo de dos Nightfarers (Executor y Revenant) — sus historias, motivaciones y conexiones con el lore del juego. Producción cinematográfica de VaatiVidya.",
+      "noteEn": "Deep narrative analysis of two Nightfarers (Executor and Revenant) — their stories, motivations, and lore connections. VaatiVidya's cinematic production."
+    },
+    {
+      "id": "vaatividya-scholar-undertaker-story",
+      "type": "video",
+      "title": "The Story of the Scholar & the Undertaker in Elden Ring: Nightreign",
+      "creator": "VaatiVidya",
+      "creatorId": "vaatividya",
+      "url": "https://www.youtube.com/watch?v=TFWUX_j1sBE",
+      "youtubeId": "TFWUX_j1sBE",
+      "language": "en",
+      "duration": "41:46",
+      "publishedDate": "2026-01-24",
+      "thumbnail": "https://i.ytimg.com/vi/TFWUX_j1sBE/maxresdefault.jpg",
+      "noteEs": "Las historias del Scholar y el Undertaker, dos Nightfarers del DLC Forsaken Hollows. Cubre sus backstories y cómo encajan en la mitología extendida del juego.",
+      "noteEn": "The Scholar's and Undertaker's stories — two Nightfarers from the Forsaken Hollows DLC. Covers their backstories and how they fit into the extended game mythology."
+    }
+  ]
+}

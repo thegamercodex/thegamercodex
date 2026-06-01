@@ -1,0 +1,46 @@
+{
+  "id": "mobalytics-nightreign-vs-relics-pro",
+  "toolIds": ["mobalytics-nightreign", "relics-pro"],
+  "category": "build-planning",
+  "depth": "flagship",
+  "lastVerified": "2026-05-31",
+  "verdictEs": "Mobalytics si quieres editorial completo con build orders, tier lists y planner generalista; Relics.pro si quieres algoritmo dedicado de relic optimization con sugerencias farmeables.",
+  "verdictEn": "Mobalytics if you want complete editorial with build orders, tier lists, and a generalist planner; Relics.pro if you want a dedicated relic-optimization algorithm with farmable suggestions.",
+  "useCases": [
+    {
+      "labelEs": "Player nuevo buscando recommendations claras",
+      "labelEn": "New player looking for clear recommendations",
+      "winner": "mobalytics-nightreign",
+      "reasonEs": "Mobalytics tiene editorial: tier lists, recommended builds y build orders explícitos por Nightfarer. Relics.pro asume conocimiento previo.",
+      "reasonEn": "Mobalytics has editorial: tier lists, recommended builds, and explicit per-Nightfarer build orders. Relics.pro assumes prior knowledge."
+    },
+    {
+      "labelEs": "Optimizar set de relics para build específica",
+      "labelEn": "Optimize relic set for a specific build",
+      "winner": "relics-pro",
+      "reasonEs": "El optimizer de Relics.pro corre algoritmo sobre tu build target y devuelve set óptimo. Mobalytics da recommendations pero no auto-optimiza.",
+      "reasonEn": "Relics.pro's optimizer runs an algorithm on your target build and returns optimal set. Mobalytics gives recommendations but doesn't auto-optimize."
+    },
+    {
+      "labelEs": "Cross-game user (LoL, Valorant, etc.)",
+      "labelEn": "Cross-game user (LoL, Valorant, etc.)",
+      "winner": "mobalytics-nightreign",
+      "reasonEs": "Mobalytics es plataforma multi-juego — una cuenta cubre LoL, Valorant, Nightreign. Relics.pro es Nightreign exclusivo.",
+      "reasonEn": "Mobalytics is multi-game — one account covers LoL, Valorant, Nightreign. Relics.pro is Nightreign-exclusive."
+    },
+    {
+      "labelEs": "Filtrar a relics realmente farmeables in-game",
+      "labelEn": "Filter to realistically farmable in-game relics",
+      "winner": "relics-pro",
+      "reasonEs": "Relics.pro filtra obtainability — solo sugiere combinations realmente dropeable. Mobalytics lista todo pero no filtra por feasibility.",
+      "reasonEn": "Relics.pro filters obtainability — only suggests truly droppable combinations. Mobalytics lists everything but doesn't filter by feasibility."
+    },
+    {
+      "labelEs": "Nightlord weakness charts y meta updates",
+      "labelEn": "Nightlord weakness charts and meta updates",
+      "winner": "mobalytics-nightreign",
+      "reasonEs": "Mobalytics mantiene editorial actualizado sobre Nightlords y balance patches. Relics.pro solo cubre relics.",
+      "reasonEn": "Mobalytics keeps editorial updated on Nightlords and balance patches. Relics.pro only covers relics."
+    }
+  ]
+}

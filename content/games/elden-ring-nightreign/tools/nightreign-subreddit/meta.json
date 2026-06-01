@@ -1,0 +1,28 @@
+{
+  "id": "nightreign-subreddit",
+  "name": "r/Nightreign",
+  "shortName": "r/Nightreign",
+  "taglineEs": "El subreddit principal de Elden Ring Nightreign con builds, LFG, discusión de meta y datamine del DLC",
+  "taglineEn": "The main Elden Ring Nightreign subreddit with builds, LFG, meta discussion, and DLC datamine",
+  "url": "https://www.reddit.com/r/Nightreign/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["community", "reddit", "lfg", "discussion"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["eldenring-nightreign-discord"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/Nightreign/"
+  }
+}

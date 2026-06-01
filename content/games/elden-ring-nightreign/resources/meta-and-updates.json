@@ -1,0 +1,80 @@
+{
+  "category": "meta-and-updates",
+  "resources": [
+    {
+      "id": "vaatividya-gladius-dlc",
+      "type": "video",
+      "title": "Who is Gladius in Elden Ring: Nightreign?",
+      "creator": "VaatiVidya",
+      "creatorId": "vaatividya",
+      "url": "https://www.youtube.com/watch?v=kTxm8tUj4tE",
+      "youtubeId": "kTxm8tUj4tE",
+      "language": "en",
+      "duration": "2:02",
+      "publishedDate": "2026-02-08",
+      "thumbnail": "https://i.ytimg.com/vi/kTxm8tUj4tE/maxresdefault.jpg",
+      "noteEs": "Lore short sobre Gladius, uno de los personajes nuevos del DLC Forsaken Hollows. Cobertura inmediata post-launch del DLC.",
+      "noteEn": "Lore short on Gladius, one of the Forsaken Hollows DLC's new characters. Immediate post-launch DLC coverage."
+    },
+    {
+      "id": "vaatividya-dreglord-dlc",
+      "type": "video",
+      "title": "Who is the Dreglord in Elden Ring: Nightreign?",
+      "creator": "VaatiVidya",
+      "creatorId": "vaatividya",
+      "url": "https://www.youtube.com/watch?v=vuzowlPb_74",
+      "youtubeId": "vuzowlPb_74",
+      "language": "en",
+      "duration": "1:32",
+      "publishedDate": "2025-12-13",
+      "thumbnail": "https://i.ytimg.com/vi/vuzowlPb_74/maxresdefault.jpg",
+      "noteEs": "El Dreglord, nueva entidad del DLC con implications narrativas. Lore short que ayuda entender el contexto del Forsaken Hollows expansion.",
+      "noteEn": "The Dreglord, a new DLC entity with narrative implications. A lore short that helps understand the Forsaken Hollows context."
+    },
+    {
+      "id": "vaatividya-balancers-dlc",
+      "type": "video",
+      "title": "Who are the Balancers in Elden Ring: Nightreign?",
+      "creator": "VaatiVidya",
+      "creatorId": "vaatividya",
+      "url": "https://www.youtube.com/watch?v=QiQfnB588cE",
+      "youtubeId": "QiQfnB588cE",
+      "language": "en",
+      "duration": "2:30",
+      "publishedDate": "2025-12-17",
+      "thumbnail": "https://i.ytimg.com/vi/QiQfnB588cE/maxresdefault.jpg",
+      "noteEs": "Los Balancers — facción nueva introducida en Forsaken Hollows que afecta dynamics del endgame. Lore short con context para players post-DLC.",
+      "noteEn": "The Balancers — new faction introduced in Forsaken Hollows that affects endgame dynamics. Lore short with context for post-DLC players."
+    },
+    {
+      "id": "quoppp-flawless-challenge-recent",
+      "type": "stream",
+      "title": "0-9999 Viewers Flawless Challenge - Elden Ring Nightreign",
+      "creator": "Quoppp",
+      "creatorId": "quoppp",
+      "url": "https://www.youtube.com/watch?v=RHpIb-wXyXY",
+      "youtubeId": "RHpIb-wXyXY",
+      "language": "en",
+      "duration": "5:36:27",
+      "publishedDate": "2026-05-31",
+      "thumbnail": "https://i.ytimg.com/vi/RHpIb-wXyXY/maxresdefault.jpg",
+      "noteEs": "Stream archive de 5+ horas del Flawless Challenge — runs sin morir contra Nightlords. Reflect del meta actual y community-driven challenges al máximo nivel.",
+      "noteEn": "5+ hour stream archive of the Flawless Challenge — no-death runs against Nightlords. Reflects the current meta and community-driven max-level challenges."
+    },
+    {
+      "id": "quoppp-deep-stream-archive-may-2026",
+      "type": "stream",
+      "title": "0-9999 Viewers Flawless Challenge - Deep Archive Run",
+      "creator": "Quoppp",
+      "creatorId": "quoppp",
+      "url": "https://www.youtube.com/watch?v=HRUCMyVbBR8",
+      "youtubeId": "HRUCMyVbBR8",
+      "language": "en",
+      "duration": "9:03:11",
+      "publishedDate": "2026-05-25",
+      "thumbnail": "https://i.ytimg.com/vi/HRUCMyVbBR8/maxresdefault.jpg",
+      "noteEs": "Stream archive de 9 horas — refleja el estado del Flawless Challenge community-driven con setups post-patch 1.03.2. Útil para ver builds del meta actual en uso real.",
+      "noteEn": "9-hour stream archive — reflects the state of the community-driven Flawless Challenge with post-1.03.2-patch setups. Useful for seeing current meta builds in real play."
+    }
+  ]
+}

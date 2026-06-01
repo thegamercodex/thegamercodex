@@ -1,0 +1,28 @@
+{
+  "id": "tarnished-dev",
+  "name": "tarnished.dev Build Planner",
+  "shortName": "tarnished.dev",
+  "taglineEs": "Planificador moderno con búsqueda fuzzy de items, import/export y URL compartible por build",
+  "taglineEn": "Modern planner with fuzzy item search, import/export, and shareable URL per build",
+  "url": "https://www.tarnished.dev/build-planner",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-planner", "calculator", "share-url", "modern-ui"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/elden-ring/tarnished-dev-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["eip-build-planner", "mugenmonkey-eldenring"],
+  "alternatives": ["eip-build-planner", "mugenmonkey-eldenring", "er-inventory-emilia"],
+  "createdBy": {
+    "name": "tarnished.dev",
+    "url": "https://www.tarnished.dev"
+  }
+}

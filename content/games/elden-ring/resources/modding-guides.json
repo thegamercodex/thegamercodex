@@ -1,0 +1,80 @@
+{
+  "category": "modding-guides",
+  "resources": [
+    {
+      "id": "review-radar-seamless-coop-tutorial-2026",
+      "type": "video",
+      "title": "Elden Ring Seamless Coop Mod Tutorial (2026) - How To Install & Set Up Elden Ring Seamless Coop",
+      "creator": "Review Radar",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=pYsU2NDVjHM",
+      "youtubeId": "pYsU2NDVjHM",
+      "language": "en",
+      "duration": "9:56",
+      "publishedDate": "2025-05-25",
+      "thumbnail": "https://i.ytimg.com/vi/pYsU2NDVjHM/maxresdefault.jpg",
+      "noteEs": "Tutorial actualizado a 2026 para instalar Seamless Co-op desde cero — download, configuración del password.ini y troubleshooting de errores comunes.",
+      "noteEn": "2026-updated tutorial to install Seamless Co-op from scratch — download, password.ini config, and troubleshooting for common errors."
+    },
+    {
+      "id": "chupacabra-seamless-coop-2025-walkthrough",
+      "type": "video",
+      "title": "How to INSTALL & USE Seamless COOP Mod — Elden Ring - 2025 Guide - Complete Walkthrough",
+      "creator": "Chupacabra Tutorials",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=z4ZBYBkbP1s",
+      "youtubeId": "z4ZBYBkbP1s",
+      "language": "en",
+      "duration": "8:22",
+      "publishedDate": "2025-01-11",
+      "thumbnail": "https://i.ytimg.com/vi/z4ZBYBkbP1s/maxresdefault.jpg",
+      "noteEs": "Walkthrough visual paso a paso del setup de Seamless Co-op. Cubre la versión compatible con Shadow of the Erdtree y resuelve problemas de matchmaking.",
+      "noteEn": "Step-by-step visual walkthrough of the Seamless Co-op setup. Covers the SOTE-compatible version and resolves matchmaking issues."
+    },
+    {
+      "id": "cell-seamless-coop-plus-any-mod-2025",
+      "type": "video",
+      "title": "How to install Seamless Coop + any Mod for Elden Ring [Updated 2025]",
+      "creator": "Cell",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=u5uTDViZCSQ",
+      "youtubeId": "u5uTDViZCSQ",
+      "language": "en",
+      "duration": "2:58",
+      "publishedDate": "2025-02-16",
+      "thumbnail": "https://i.ytimg.com/vi/u5uTDViZCSQ/maxresdefault.jpg",
+      "noteEs": "Tutorial corto que enseña a combinar Seamless Co-op con otros mods (Convergence, ERR, cosméticos). Específico al setup de carpetas que esos mods requieren.",
+      "noteEn": "Short tutorial that teaches combining Seamless Co-op with other mods (Convergence, ERR, cosmetics). Specific to the folder setup those mods require."
+    },
+    {
+      "id": "troublechute-seamless-coop-sote-tutorial",
+      "type": "video",
+      "title": "UPDATED Seamless Coop Mod Tutorial | Shadow of Erdtree Multiplayer Mod! | Elden Ring",
+      "creator": "TroubleChute",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=QGAWXXUiWVI",
+      "youtubeId": "QGAWXXUiWVI",
+      "language": "en",
+      "duration": "4:46",
+      "publishedDate": "2024-06-30",
+      "thumbnail": "https://i.ytimg.com/vi/QGAWXXUiWVI/maxresdefault.jpg",
+      "noteEs": "Versión específica del tutorial alineada al patch SOTE 1.12. Si tu instalación tiene el DLC y los otros tutoriales fallan, este suele resolver.",
+      "noteEn": "Specific tutorial version aligned to the SOTE 1.12 patch. If your install has the DLC and other tutorials fail, this one usually resolves it."
+    },
+    {
+      "id": "meansabine-mod-engine-2-seamless-coop-tutorial",
+      "type": "video",
+      "title": "EASY TUTORIAL - INSTALL SEAMLESS COOP + MOD ENGINE 2 | ELDEN RING",
+      "creator": "meansabine",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=fPLGT76-ZQI",
+      "youtubeId": "fPLGT76-ZQI",
+      "language": "en",
+      "duration": "5:45",
+      "publishedDate": "2024-07-07",
+      "thumbnail": "https://i.ytimg.com/vi/fPLGT76-ZQI/maxresdefault.jpg",
+      "noteEs": "Tutorial enfocado en setup combinado: Mod Engine 2 + Seamless Co-op juntos. Útil porque la mayoría de mods complejos asumen esta pareja como base.",
+      "noteEn": "Tutorial focused on combined setup: Mod Engine 2 + Seamless Co-op together. Useful because most complex mods assume this pairing as the foundation."
+    }
+  ]
+}

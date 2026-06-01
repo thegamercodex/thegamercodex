@@ -1,0 +1,29 @@
+{
+  "id": "er-inventory-emilia",
+  "name": "Emilia's Build & Inventory Tool",
+  "shortName": "Emilia's Tool",
+  "taglineEs": "Inventario + planner con frame data, datos extraídos y modo offline para PCs sin internet",
+  "taglineEn": "Inventory + planner with frame data, datamined info, and offline mode for PCs without internet",
+  "url": "https://er-inventory.nyasu.business/",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Emiliyaaa",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-planner", "inventory", "frame-data", "datamined", "offline-capable"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/elden-ring/er-inventory-emilia-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["tarnished-dev", "eip-build-planner"],
+  "alternatives": ["eip-build-planner", "mugenmonkey-eldenring", "tarnished-dev"],
+  "createdBy": {
+    "name": "Emilia",
+    "url": "https://nyasu.business"
+  }
+}

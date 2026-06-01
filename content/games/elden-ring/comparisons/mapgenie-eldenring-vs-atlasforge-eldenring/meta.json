@@ -1,0 +1,46 @@
+{
+  "id": "mapgenie-eldenring-vs-atlasforge-eldenring",
+  "toolIds": ["mapgenie-eldenring", "atlasforge-eldenring"],
+  "category": "maps",
+  "depth": "short",
+  "lastVerified": "2026-05-31",
+  "verdictEs": "Map Genie si vas a usar mobile app como companion mientras juegas; AtlasForge si quieres todo gratis con menos ads y planner integrado.",
+  "verdictEn": "Map Genie if you'll use the mobile app as a companion while playing; AtlasForge if you want everything free with fewer ads and an integrated planner.",
+  "useCases": [
+    {
+      "labelEs": "Mobile app nativa mientras juegas en console",
+      "labelEn": "Native mobile app while playing on console",
+      "winner": "mapgenie-eldenring",
+      "reasonEs": "Map Genie tiene apps iOS y Android dedicadas; AtlasForge solo web responsive.",
+      "reasonEn": "Map Genie has dedicated iOS and Android apps; AtlasForge is web responsive only."
+    },
+    {
+      "labelEs": "Tracking gratis sin pagar Pro",
+      "labelEn": "Free tracking without paying for Pro",
+      "winner": "atlasforge-eldenring",
+      "reasonEs": "AtlasForge permite checkboxes persistentes en free tier; Map Genie requiere Pro para eso.",
+      "reasonEn": "AtlasForge enables persistent checkboxes in the free tier; Map Genie requires Pro."
+    },
+    {
+      "labelEs": "Cross-game user (Cyberpunk, D4, WoW)",
+      "labelEn": "Cross-game user (Cyberpunk, D4, WoW)",
+      "winner": "atlasforge-eldenring",
+      "reasonEs": "AtlasForge tiene plataforma multi-juego — una cuenta cubre múltiples games. Map Genie también pero la cobertura cross-game es menos integrada.",
+      "reasonEn": "AtlasForge is multi-game — one account covers multiple games. Map Genie also covers multiple games but cross-game integration is weaker."
+    },
+    {
+      "labelEs": "Updates rápidos post-DLC launch",
+      "labelEn": "Fast updates post-DLC launch",
+      "winner": "mapgenie-eldenring",
+      "reasonEs": "Map Genie tiene equipo dedicado; en el launch de SOTE actualizó markers en 48h. AtlasForge tardó más.",
+      "reasonEn": "Map Genie has a dedicated team; at SOTE launch they updated markers within 48h. AtlasForge took longer."
+    },
+    {
+      "labelEs": "Combinar map + weapon database + build planner",
+      "labelEn": "Combine map + weapon database + build planner",
+      "winner": "atlasforge-eldenring",
+      "reasonEs": "AtlasForge integra las tres features en una sola UI; Map Genie es map only.",
+      "reasonEn": "AtlasForge integrates all three features in a single UI; Map Genie is map only."
+    }
+  ]
+}

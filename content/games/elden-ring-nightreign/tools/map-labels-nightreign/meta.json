@@ -1,0 +1,28 @@
+{
+  "id": "map-labels-nightreign",
+  "name": "Map Labels (Seed Overlay Tool)",
+  "shortName": "Map Labels",
+  "taglineEs": "Overlay de desktop transparente que rendea labels sobre el juego — online-safe y compatible con Easy Anti-Cheat",
+  "taglineEn": "Transparent desktop overlay that renders labels over the game — online-safe and Easy Anti-Cheat compatible",
+  "url": "https://www.nexusmods.com/eldenringnightreign/mods/419",
+  "category": "maps",
+  "type": "overlay",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["overlay", "map", "seed-finder", "online-safe"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nightreign-map-router"],
+  "alternatives": ["nightreign-map-router"],
+  "createdBy": {
+    "name": "Map Labels dev",
+    "url": "https://www.nexusmods.com/eldenringnightreign/mods/419"
+  }
+}

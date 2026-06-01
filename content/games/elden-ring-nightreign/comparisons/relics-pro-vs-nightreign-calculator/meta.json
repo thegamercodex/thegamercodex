@@ -1,0 +1,46 @@
+{
+  "id": "relics-pro-vs-nightreign-calculator",
+  "toolIds": ["relics-pro", "nightreign-calculator"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-05-31",
+  "verdictEs": "Relics.pro si quieres optimizer dedicado web con sugerencias farmables; Calculator si quieres data raw del game files y modo offline.",
+  "verdictEn": "Relics.pro if you want a dedicated web optimizer with farmable suggestions; Calculator if you want raw game-file data and offline mode.",
+  "useCases": [
+    {
+      "labelEs": "Optimizer algorítmico para relic loadout",
+      "labelEn": "Algorithmic optimizer for relic loadout",
+      "winner": "relics-pro",
+      "reasonEs": "Relics.pro corre algorithm dedicado de optimization. Calculator es lookup; tú haces el cálculo.",
+      "reasonEn": "Relics.pro runs a dedicated optimization algorithm. Calculator is lookup; you do the math."
+    },
+    {
+      "labelEs": "Data raw extraída de game files",
+      "labelEn": "Raw data extracted from game files",
+      "winner": "nightreign-calculator",
+      "reasonEs": "Calculator expone game data directamente con field names internos. Relics.pro abstrae para optimization.",
+      "reasonEn": "Calculator exposes game data directly with internal field names. Relics.pro abstracts for optimization."
+    },
+    {
+      "labelEs": "Build sharing via URL",
+      "labelEn": "Build sharing via URL",
+      "winner": "relics-pro",
+      "reasonEs": "Relics.pro genera URLs únicos por build. Calculator es desktop app sin shareable links.",
+      "reasonEn": "Relics.pro generates unique URLs per build. Calculator is a desktop app with no shareable links."
+    },
+    {
+      "labelEs": "Offline use sin internet",
+      "labelEn": "Offline use without internet",
+      "winner": "nightreign-calculator",
+      "reasonEs": "Calculator funciona offline. Relics.pro requiere conexión.",
+      "reasonEn": "Calculator works offline. Relics.pro requires connection."
+    },
+    {
+      "labelEs": "Mac o Linux user",
+      "labelEn": "Mac or Linux user",
+      "winner": "relics-pro",
+      "reasonEs": "Relics.pro es web — funciona en cualquier OS. Calculator es Windows only.",
+      "reasonEn": "Relics.pro is web — works on any OS. Calculator is Windows only."
+    }
+  ]
+}

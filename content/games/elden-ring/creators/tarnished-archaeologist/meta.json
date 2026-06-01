@@ -1,0 +1,39 @@
+{
+  "id": "tarnished-archaeologist",
+  "name": "The Tarnished Archaeologist",
+  "country": "UK",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2022,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@TarnishedArchaeologist",
+      "url": "https://www.youtube.com/@TarnishedArchaeologist",
+      "channelId": "UCcIpxEgQbZSJNe20jbyKJFQ",
+      "primary": true
+    }
+  ],
+  "specialties": ["lore-investigation", "mythological-analysis", "cross-references"],
+  "games": ["elden-ring"],
+  "contentTypes": ["deep-dives", "long-form-essays", "mythological-readings"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Archaeologist real, profesor universitario que aplica metodología académica al lore de Elden Ring. Lee las inscripciones del juego como artefactos arqueológicos y conecta cada simbolismo con mitología real (mesopotámica, gnóstica, hindú). Para quien busca lore con backing histórico-cultural.",
+  "noteEn": "An actual archaeologist and university professor who applies academic methodology to Elden Ring lore. Reads the game's inscriptions as archaeological artifacts and connects each symbol to real-world mythology (Mesopotamian, Gnostic, Hindu). For viewers who want lore with historical-cultural backing.",
+  "highlightsEs": [
+    "Videos largos (30-60 min) con metodología académica visible",
+    "Conexiones con mitologías reales: Marika como reflejo de diosas mediterráneas, los Outer Gods en clave gnóstica",
+    "Cobertura profunda de Shadow of the Erdtree con teorías sobre Miquella y Radahn",
+    "Tono profesoral pero accesible — no requiere background académico",
+    "Sin clickbait; títulos descriptivos que respetan al viewer"
+  ],
+  "highlightsEn": [
+    "Long-form videos (30-60 min) with visible academic methodology",
+    "Connections to real mythologies: Marika as a reflection of Mediterranean goddesses, the Outer Gods in Gnostic terms",
+    "Deep Shadow of the Erdtree coverage with theories on Miquella and Radahn",
+    "Professorial but accessible tone — no academic background required",
+    "No clickbait; descriptive titles that respect the viewer"
+  ],
+  "avatar": "/images/creators/tarnished-archaeologist-avatar.jpg",
+  "banner": "/images/creators/tarnished-archaeologist-banner.jpg"
+}

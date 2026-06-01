@@ -1,0 +1,154 @@
+{
+  "id": "elden-ring",
+  "name": "Elden Ring",
+  "shortName": "Elden Ring",
+  "developer": "FromSoftware",
+  "releaseYear": 2022,
+  "officialUrl": "https://en.bandainamcoent.eu/elden-ring/elden-ring",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+      "appId": "1245620",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10000476",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-us/games/store/elden-ring/9p3j32ctxlrz",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": false,
+    "purchaseTypes": ["expansion"],
+    "payToWin": false,
+    "noteEs": "Compra única (~$60 USD el base, ~$40 el DLC Shadow of the Erdtree). Sin microtransacciones, sin season pass, sin battle pass. La expansión Shadow of the Erdtree (2024) agrega un mapa nuevo del tamaño de Limgrave + Liurnia combinados, con nuevas armas, hechizos, jefes y una historia paralela. Después de comprar el juego, todo el contenido (incluyendo updates y balance patches) llega gratis.",
+    "noteEn": "One-time purchase (~$60 USD base, ~$40 Shadow of the Erdtree DLC). No microtransactions, no season pass, no battle pass. The Shadow of the Erdtree expansion (2024) adds a new map the size of Limgrave + Liurnia combined, with new weapons, spells, bosses, and a parallel story. After buying the game, all content (including updates and balance patches) ships free."
+  },
+  "platforms": ["windows", "playstation", "xbox"],
+  "genres": ["action-rpg", "open-world", "soulslike", "fantasy", "single-player"],
+  "theme": {
+    "primary": "#3a2a18",
+    "secondary": "#1a1208",
+    "accent": "#d4a850",
+    "background": "#0b0805",
+    "text": "#ece0c4"
+  },
+  "logo": "/images/games/elden-ring-logo.png",
+  "heroImage": "/images/games/elden-ring-hero.webp",
+  "toolCategories": [
+    {
+      "id": "build-planning",
+      "nameEs": "Planificación de Builds",
+      "nameEn": "Build Planning",
+      "descriptionEs": "Calculadoras y planificadores para diseñar tu Tarnished antes de subir niveles, distribuir stats y elegir equipo",
+      "descriptionEn": "Calculators and planners to design your Tarnished before leveling up, distributing stats, and picking gear",
+      "icon": "🧮"
+    },
+    {
+      "id": "maps",
+      "nameEs": "Mapas Interactivos",
+      "nameEn": "Interactive Maps",
+      "descriptionEs": "Mapas con sites of grace, jefes, NPCs, dungeons, items y todo lo coleccionable de las Lands Between y el Realm of Shadow",
+      "descriptionEn": "Maps with sites of grace, bosses, NPCs, dungeons, items, and every collectible in the Lands Between and the Realm of Shadow",
+      "icon": "🗺️"
+    },
+    {
+      "id": "modding-frameworks",
+      "nameEs": "Frameworks de Modding",
+      "nameEn": "Modding Frameworks",
+      "descriptionEs": "Mod loaders, runtime injectors y modificaciones de multiplayer que la mayoría de mods grandes asumen instalados",
+      "descriptionEn": "Mod loaders, runtime injectors, and multiplayer modifications that most large mods assume installed",
+      "icon": "🧩"
+    },
+    {
+      "id": "gameplay-overhauls",
+      "nameEs": "Overhauls de Gameplay",
+      "nameEn": "Gameplay Overhauls",
+      "descriptionEs": "Mods masivos que rebalancean armas, hechizos, jefes y áreas enteras del juego — playthroughs nuevos sobre Elden Ring",
+      "descriptionEn": "Massive mods that rebalance weapons, spells, bosses, and entire game areas — fresh playthroughs built on top of Elden Ring",
+      "icon": "⚔️"
+    },
+    {
+      "id": "modding-utilities",
+      "nameEs": "Utilidades de Modding",
+      "nameEn": "Modding Utilities",
+      "descriptionEs": "Editores de mapas, debug tools y aplicaciones para crear, depurar o destripar mods de Elden Ring",
+      "descriptionEn": "Map editors, debug tools, and applications to build, debug, or dissect Elden Ring mods",
+      "icon": "🛠️"
+    },
+    {
+      "id": "mod-hubs",
+      "nameEs": "Hubs de Mods",
+      "nameEn": "Mod Hubs",
+      "descriptionEs": "El catálogo central de mods de Elden Ring: descarga, comentarios, actualizaciones y comunidad alrededor de cada mod",
+      "descriptionEn": "The central catalog of Elden Ring mods: downloads, comments, updates, and community around each mod",
+      "icon": "📦"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis con todo el contenido del juego: armas, hechizos, jefes, quests, lore, drop rates y datos extraídos",
+      "descriptionEn": "Wikis covering every piece of game content: weapons, spells, bosses, quests, lore, drop rates, and datamined info",
+      "icon": "📚"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Servidores y subreddits donde la comunidad de Elden Ring comparte builds, organiza co-op y discute parches",
+      "descriptionEn": "Servers and subreddits where the Elden Ring community shares builds, organizes co-op, and discusses patches",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para arrancar Elden Ring sin perderte ni romper tu primer Tarnished",
+      "descriptionEn": "Essential resources to start Elden Ring without getting lost or breaking your first Tarnished",
+      "icon": "🌱"
+    },
+    {
+      "id": "build-guides",
+      "nameEs": "Guías de Builds",
+      "nameEn": "Build Guides",
+      "descriptionEs": "Builds destacadas por arquetipo: dex katana, faith incantation, str colossal, arcane bleed, magic int caster",
+      "descriptionEn": "Featured builds by archetype: dex katana, faith incantation, str colossal, arcane bleed, magic int caster",
+      "icon": "🛡️"
+    },
+    {
+      "id": "boss-guides",
+      "nameEs": "Guías de Jefes",
+      "nameEn": "Boss Guides",
+      "descriptionEs": "Estrategias para Malenia, Mohg, Maliketh, Radagon, Promised Consort Radahn y el resto de los pinnacle bosses",
+      "descriptionEn": "Strategies for Malenia, Mohg, Maliketh, Radagon, Promised Consort Radahn, and the rest of the pinnacle bosses",
+      "icon": "👹"
+    },
+    {
+      "id": "modding-guides",
+      "nameEs": "Guías de Modding",
+      "nameEn": "Modding Guides",
+      "descriptionEs": "Cómo instalar Mod Engine 2, Seamless Co-op, overhauls grandes y resolver conflictos entre mods de Elden Ring",
+      "descriptionEn": "How to install Mod Engine 2, Seamless Co-op, big overhauls, and resolve conflicts between Elden Ring mods",
+      "icon": "🧩"
+    },
+    {
+      "id": "lore-and-deep-dives",
+      "nameEs": "Lore y Análisis",
+      "nameEn": "Lore & Deep Dives",
+      "descriptionEs": "Análisis narrativos del mundo de Marika, las Outer Gods, el Greater Will y conexiones con el resto del soulsborne",
+      "descriptionEn": "Narrative analyses of Marika's world, the Outer Gods, the Greater Will, and connections to the rest of the soulsborne canon",
+      "icon": "📖"
+    }
+  ],
+  "similarGames": ["path-of-exile-2", "skyrim", "windrose"]
+}

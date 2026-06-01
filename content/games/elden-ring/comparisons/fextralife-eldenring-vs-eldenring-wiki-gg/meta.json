@@ -1,0 +1,46 @@
+{
+  "id": "fextralife-eldenring-vs-eldenring-wiki-gg",
+  "toolIds": ["fextralife-eldenring", "eldenring-wiki-gg"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-05-31",
+  "verdictEs": "Fextralife si necesitas cobertura completa con community comments y aceptas ads agresivas; wiki.gg si valoras UI limpia sin ads y aceptas cobertura ~80%.",
+  "verdictEn": "Fextralife if you need complete coverage with community comments and accept aggressive ads; wiki.gg if you value clean UI without ads and accept ~80% coverage.",
+  "useCases": [
+    {
+      "labelEs": "Buscar item raro con community comments",
+      "labelEn": "Look up rare item with community comments",
+      "winner": "fextralife-eldenring",
+      "reasonEs": "Fextralife tiene comments en cada page con insights y workarounds de community. wiki.gg no implementa comments.",
+      "reasonEn": "Fextralife has comments on every page with community insights and workarounds. wiki.gg doesn't implement comments."
+    },
+    {
+      "labelEs": "Reading extenso sin distracciones",
+      "labelEn": "Extended reading without distractions",
+      "winner": "eldenring-wiki-gg",
+      "reasonEs": "wiki.gg es ad-free con UI limpia; perfecto para leer lore pages largas. Fextralife tiene video ads, popups y banners que rompen el flow.",
+      "reasonEn": "wiki.gg is ad-free with clean UI; perfect for reading long lore pages. Fextralife has video ads, popups, and banners that break flow."
+    },
+    {
+      "labelEs": "Cobertura completa de DLC items obscuros",
+      "labelEn": "Complete coverage of obscure DLC items",
+      "winner": "fextralife-eldenring",
+      "reasonEs": "Fextralife tiene cobertura ~100% del SOTE; wiki.gg ~80% con gaps en items longtail.",
+      "reasonEn": "Fextralife has ~100% SOTE coverage; wiki.gg ~80% with longtail item gaps."
+    },
+    {
+      "labelEs": "Mobile reading mientras juegas",
+      "labelEn": "Mobile reading while playing",
+      "winner": "eldenring-wiki-gg",
+      "reasonEs": "wiki.gg en mobile es legible y rápido; Fextralife tiene ads que ocupan medio screen en mobile y dificultan reading.",
+      "reasonEn": "wiki.gg on mobile is readable and fast; Fextralife has ads that take half the mobile screen and make reading hard."
+    },
+    {
+      "labelEs": "Walkthrough de NPC quest con branching",
+      "labelEn": "NPC quest walkthrough with branching",
+      "winner": "fextralife-eldenring",
+      "reasonEs": "Fextralife tiene 10+ años acumulando quest walkthroughs detalladas con todas las branches; wiki.gg está alcanzando pero no completo aún.",
+      "reasonEn": "Fextralife has 10+ years accumulating detailed quest walkthroughs with every branch; wiki.gg is catching up but not complete yet."
+    }
+  ]
+}

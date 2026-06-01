@@ -1,0 +1,28 @@
+{
+  "id": "eldenring-subreddit",
+  "name": "r/Eldenring",
+  "shortName": "r/Eldenring",
+  "taglineEs": "El subreddit principal de Elden Ring con 2M+ miembros — noticias, builds, memes y co-op requests",
+  "taglineEn": "The main Elden Ring subreddit with 2M+ members — news, builds, memes, and co-op requests",
+  "url": "https://www.reddit.com/r/Eldenring/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["community", "reddit", "news", "discussion"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["eldenring-discord"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/Eldenring/"
+  }
+}

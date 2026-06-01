@@ -1,0 +1,29 @@
+{
+  "id": "seamless-coop",
+  "name": "ELDEN RING Seamless Co-op",
+  "shortName": "Seamless Co-op",
+  "taglineEs": "El mod de LukeYui que elimina las barreras de co-op: juega toda la campaña con amigos sin invasiones",
+  "taglineEn": "LukeYui's mod that removes co-op barriers: play the whole campaign with friends without invasions",
+  "url": "https://www.nexusmods.com/eldenring/mods/510",
+  "category": "modding-frameworks",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/LukeYui/EldenRingSeamlessCoopRelease",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["co-op", "multiplayer", "mod", "luke-yui"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mod-engine-2", "elden-ring-reforged"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "LukeYui",
+    "url": "https://github.com/LukeYui"
+  }
+}

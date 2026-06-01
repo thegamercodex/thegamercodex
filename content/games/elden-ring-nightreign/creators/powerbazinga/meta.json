@@ -1,0 +1,44 @@
+{
+  "id": "powerbazinga",
+  "name": "Powerbazinga TV",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "joinedYear": 2017,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Powerbazinga",
+      "url": "https://www.youtube.com/@Powerbazinga",
+      "channelId": "UCA7-KUzOQF-qk46knmCnCmg",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "powerbazinga",
+      "url": "https://www.twitch.tv/powerbazinga"
+    }
+  ],
+  "specialties": ["guides", "build-recommendations", "souls-series"],
+  "games": ["elden-ring", "elden-ring-nightreign"],
+  "contentTypes": ["guides", "build-guides", "gameplays"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Powerbazinga cubre todo el catálogo de FromSoftware en español, incluyendo Nightreign desde su release. Guías de Nightfarers, builds recomendadas por meta y análisis de balance patches. Es la opción más confiable en español para Nightreign hoy.",
+  "noteEn": "Powerbazinga covers the full FromSoftware catalog in Spanish, including Nightreign since release. Nightfarer guides, meta-recommended builds, and balance-patch analyses. It's the most reliable Spanish option for Nightreign today.",
+  "highlightsEs": [
+    "Guías de cada Nightfarer con build orders en español",
+    "Cobertura de Nightlords con strategies y openings de daño",
+    "Análisis de balance patches y meta updates de Nightreign",
+    "Coverage del DLC Forsaken Hollows desde launch",
+    "Lenguaje claro y didáctico sin extender videos por padding"
+  ],
+  "highlightsEn": [
+    "Per-Nightfarer guides with build orders in Spanish",
+    "Nightlord coverage with strategies and damage openings",
+    "Nightreign balance-patch and meta-update analyses",
+    "Forsaken Hollows DLC coverage from launch",
+    "Clear, didactic delivery without padding videos"
+  ],
+  "avatar": "/images/creators/powerbazinga-avatar.jpg",
+  "banner": "/images/creators/powerbazinga-banner.jpg"
+}

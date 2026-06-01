@@ -1,0 +1,80 @@
+{
+  "category": "lore-and-deep-dives",
+  "resources": [
+    {
+      "id": "vaatividya-an-elden-ring-movie-twin-horses",
+      "type": "video",
+      "title": "An Elden Ring Movie ► The Twin Horses of Windwail Knoll",
+      "creator": "VaatiVidya",
+      "creatorId": "vaatividya",
+      "url": "https://www.youtube.com/watch?v=7iBd3bxU-uE",
+      "youtubeId": "7iBd3bxU-uE",
+      "language": "en",
+      "duration": "39:37",
+      "publishedDate": "2026-03-14",
+      "thumbnail": "https://i.ytimg.com/vi/7iBd3bxU-uE/maxresdefault.jpg",
+      "noteEs": "Video-ensayo cinematográfico de VaatiVidya construyendo una micro-historia dentro del lore: los Twin Horses, su simbolismo y conexiones narrativas. Producción altísima.",
+      "noteEn": "Cinematic video essay by VaatiVidya building a micro-story inside the lore: the Twin Horses, their symbolism, and narrative connections. Very high production."
+    },
+    {
+      "id": "tarnished-archaeologist-how-to-make-a-god-ep27",
+      "type": "video",
+      "title": "How to Make a God | Elden Ring Archaeology Episode 27",
+      "creator": "The Tarnished Archaeologist",
+      "creatorId": "tarnished-archaeologist",
+      "url": "https://www.youtube.com/watch?v=A6xpSdbJfv4",
+      "youtubeId": "A6xpSdbJfv4",
+      "language": "en",
+      "duration": "36:39",
+      "publishedDate": "2025-05-18",
+      "thumbnail": "https://i.ytimg.com/vi/A6xpSdbJfv4/maxresdefault.jpg",
+      "noteEs": "Análisis arqueológico de cómo el lore define el proceso de deificación en Elden Ring. Conexiones con mitologías reales y la cosmología de los Outer Gods.",
+      "noteEn": "Archaeological analysis of how the lore defines the deification process in Elden Ring. Connections to real mythologies and the Outer Gods' cosmology."
+    },
+    {
+      "id": "tarnished-archaeologist-great-flood-ep26",
+      "type": "video",
+      "title": "The Great Flood | Elden Ring Archaeology Ep. 26",
+      "creator": "The Tarnished Archaeologist",
+      "creatorId": "tarnished-archaeologist",
+      "url": "https://www.youtube.com/watch?v=6KHiCKDj0JM",
+      "youtubeId": "6KHiCKDj0JM",
+      "language": "en",
+      "duration": "33:10",
+      "publishedDate": "2024-09-22",
+      "thumbnail": "https://i.ytimg.com/vi/6KHiCKDj0JM/maxresdefault.jpg",
+      "noteEs": "Investigación sobre el flood mitológico que precede a los eventos del juego. Reading académico de inscripciones del Realm of Shadow y zonas del base game.",
+      "noteEn": "Investigation of the mythological flood preceding the game's events. Academic reading of inscriptions from the Realm of Shadow and base-game zones."
+    },
+    {
+      "id": "tarnished-archaeologist-pre-dlc-outsiders-erdtree",
+      "type": "video",
+      "title": "How outsiders brought the Erdtree to the Lands Between | Pre-DLC Special",
+      "creator": "The Tarnished Archaeologist",
+      "creatorId": "tarnished-archaeologist",
+      "url": "https://www.youtube.com/watch?v=z14M9WtlI3A",
+      "youtubeId": "z14M9WtlI3A",
+      "language": "en",
+      "duration": "34:58",
+      "publishedDate": "2024-04-14",
+      "thumbnail": "https://i.ytimg.com/vi/z14M9WtlI3A/maxresdefault.jpg",
+      "noteEs": "Investigación de la procedencia del Erdtree con análisis de symbolism mediterráneo y mesopotámico. Pre-DLC pero sus tesis se confirmaron post-SOTE.",
+      "noteEn": "Investigation of the Erdtree's origin with Mediterranean and Mesopotamian symbolism analysis. Pre-DLC, but its theses were confirmed post-SOTE."
+    },
+    {
+      "id": "tarnished-archaeologist-origins-of-grace-ep24",
+      "type": "video",
+      "title": "The Secret Origins of Grace | Elden Ring Archaeology Ep. 24",
+      "creator": "The Tarnished Archaeologist",
+      "creatorId": "tarnished-archaeologist",
+      "url": "https://www.youtube.com/watch?v=ze3sw-y8C0M",
+      "youtubeId": "ze3sw-y8C0M",
+      "language": "en",
+      "duration": "31:07",
+      "publishedDate": "2024-03-20",
+      "thumbnail": "https://i.ytimg.com/vi/ze3sw-y8C0M/maxresdefault.jpg",
+      "noteEs": "Origen de la mecánica narrativa de Grace — qué la guía la dorada que sigue al Tarnished. Lectura gnóstica y arqueológica del símbolo central del juego.",
+      "noteEn": "Origin of the narrative mechanic of Grace — what guides the golden trail following the Tarnished. Gnostic and archaeological reading of the game's central symbol."
+    }
+  ]
+}

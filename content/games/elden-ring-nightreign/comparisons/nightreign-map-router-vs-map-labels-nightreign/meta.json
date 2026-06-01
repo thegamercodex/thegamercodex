@@ -1,0 +1,46 @@
+{
+  "id": "nightreign-map-router-vs-map-labels-nightreign",
+  "toolIds": ["nightreign-map-router", "map-labels-nightreign"],
+  "category": "maps",
+  "depth": "short",
+  "lastVerified": "2026-05-31",
+  "verdictEs": "Map Router para planning detallado pre-Expedition; Map Labels para overlay live durante el juego sin alt-tab.",
+  "verdictEn": "Map Router for detailed pre-Expedition planning; Map Labels for live overlay during play without alt-tabbing.",
+  "useCases": [
+    {
+      "labelEs": "Planning detallado antes de empezar Expedition",
+      "labelEn": "Detailed planning before starting Expedition",
+      "winner": "nightreign-map-router",
+      "reasonEs": "Map Router tiene análisis profundo por seed con team comp adaptation. Map Labels es overlay simple.",
+      "reasonEn": "Map Router has deep per-seed analysis with team comp adaptation. Map Labels is a simple overlay."
+    },
+    {
+      "labelEs": "Info live durante juego sin alt-tab",
+      "labelEn": "Live info during play without alt-tabbing",
+      "winner": "map-labels-nightreign",
+      "reasonEs": "Map Labels overlay vive on top mientras juegas. Map Router requiere alt-tab a browser.",
+      "reasonEn": "Map Labels overlay lives on top while playing. Map Router requires alt-tab to browser."
+    },
+    {
+      "labelEs": "Online safety con Easy Anti-Cheat activo",
+      "labelEn": "Online safety with Easy Anti-Cheat active",
+      "winner": "map-labels-nightreign",
+      "reasonEs": "Map Labels no inyecta ni lee memoria — solo dibuja overlay. Map Router es web app, también safe pero require salir del juego.",
+      "reasonEn": "Map Labels doesn't inject or read memory — only draws overlay. Map Router is a web app, also safe but requires leaving the game."
+    },
+    {
+      "labelEs": "Cross-platform (Mac, Linux)",
+      "labelEn": "Cross-platform (Mac, Linux)",
+      "winner": "nightreign-map-router",
+      "reasonEs": "Map Router es web; funciona en cualquier OS. Map Labels es Windows only.",
+      "reasonEn": "Map Router is web; works on any OS. Map Labels is Windows only."
+    },
+    {
+      "labelEs": "Routing por team comp específica",
+      "labelEn": "Routing by specific team comp",
+      "winner": "nightreign-map-router",
+      "reasonEs": "Map Router sugiere routes adaptadas a tu party. Map Labels solo muestra labels factuales.",
+      "reasonEn": "Map Router suggests routes adapted to your party. Map Labels only shows factual labels."
+    }
+  ]
+}

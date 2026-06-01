@@ -1,0 +1,29 @@
+{
+  "id": "nordgaren-debug-tool",
+  "name": "Elden Ring Debug Tool",
+  "shortName": "ER Debug Tool",
+  "taglineEs": "Cheat/debug tool de Nordgaren para offline: inspeccionar valores, spawnear items, teleport y testing de mods",
+  "taglineEn": "Nordgaren's offline cheat/debug tool: inspect values, spawn items, teleport, and test mods",
+  "url": "https://github.com/Nordgaren/Elden-Ring-Debug-Tool",
+  "category": "modding-utilities",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Nordgaren/Elden-Ring-Debug-Tool",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["debug", "offline", "mod-testing", "cheat-engine"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["dsmapstudio", "mod-engine-2"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Nordgaren",
+    "url": "https://github.com/Nordgaren"
+  }
+}

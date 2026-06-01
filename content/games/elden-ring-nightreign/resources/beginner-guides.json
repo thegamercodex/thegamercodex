@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "ragegaming-nightreign-ultimate-starter-guide",
+      "type": "video",
+      "title": "Elden Ring Nightreign - Ultimate Starter Guide & 24 IMPORTANT Tips",
+      "creator": "RageGamingVideos",
+      "creatorId": "ragegamingvideos",
+      "url": "https://www.youtube.com/watch?v=KbSIi6oHSOU",
+      "youtubeId": "KbSIi6oHSOU",
+      "language": "en",
+      "duration": "17:08",
+      "publishedDate": "2025-05-27",
+      "thumbnail": "https://i.ytimg.com/vi/KbSIi6oHSOU/maxresdefault.jpg",
+      "noteEs": "Guía starter completa lanzada en el release del juego. 24 tips cubriendo Expedition mechanics, Nightfarer selection y combat fundamentals. Ideal para tu primera Expedition.",
+      "noteEn": "Complete starter guide released at launch. 24 tips covering Expedition mechanics, Nightfarer selection, and combat fundamentals. Ideal for your first Expedition."
+    },
+    {
+      "id": "norzza-ultimate-guide-every-nightfarer",
+      "type": "video",
+      "title": "Ultimate GUIDE To EVERY NIGHTFARER In Elden Ring Nightreign",
+      "creator": "NorZZa",
+      "creatorId": "norzza",
+      "url": "https://www.youtube.com/watch?v=f-IgrySKxcA",
+      "youtubeId": "f-IgrySKxcA",
+      "language": "en",
+      "duration": "1:38:33",
+      "publishedDate": "2025-06-10",
+      "thumbnail": "https://i.ytimg.com/vi/f-IgrySKxcA/maxresdefault.jpg",
+      "noteEs": "Hora y media de cobertura completa de los 8 Nightfarers base con playstyles, kit overview y recommendations por playstyle. Entrada profunda al roster del juego.",
+      "noteEn": "1.5 hours of complete coverage of the 8 base Nightfarers with playstyles, kit overview, and per-playstyle recommendations. Deep entry to the game's roster."
+    },
+    {
+      "id": "ragegaming-17-op-game-changing-tips",
+      "type": "video",
+      "title": "Elden Ring Nightreign - 17 OP GAME CHANGING Tips & Secrets",
+      "creator": "RageGamingVideos",
+      "creatorId": "ragegamingvideos",
+      "url": "https://www.youtube.com/watch?v=wYAH9dn47IE",
+      "youtubeId": "wYAH9dn47IE",
+      "language": "en",
+      "duration": "10:38",
+      "publishedDate": "2025-06-11",
+      "thumbnail": "https://i.ytimg.com/vi/wYAH9dn47IE/maxresdefault.jpg",
+      "noteEs": "17 tips compactos que cambian cómo juegas Nightreign — desde routing básico hasta optimización de Wending Grace y consumables. Buena segunda vista después del Ultimate Starter Guide.",
+      "noteEn": "17 compact tips that change how you play Nightreign — from basic routing to Wending Grace optimization and consumables. Good second view after the Ultimate Starter Guide."
+    },
+    {
+      "id": "ragegaming-25-op-run-winning-tips",
+      "type": "video",
+      "title": "Elden Ring Nightreign - 25 OP Run Winning Tips & Secrets",
+      "creator": "RageGamingVideos",
+      "creatorId": "ragegamingvideos",
+      "url": "https://www.youtube.com/watch?v=CjOWLXMJHFc",
+      "youtubeId": "CjOWLXMJHFc",
+      "language": "en",
+      "duration": "12:21",
+      "publishedDate": "2025-06-05",
+      "thumbnail": "https://i.ytimg.com/vi/CjOWLXMJHFc/maxresdefault.jpg",
+      "noteEs": "25 secrets para maximizar win rate por Expedition — desde priority de landmarks hasta uso de consumables. Útil después de 10-20 horas en el juego.",
+      "noteEn": "25 secrets to maximize Expedition win rate — from landmark priority to consumable use. Useful after 10-20 hours in the game."
+    },
+    {
+      "id": "vaatividya-augur-introduction",
+      "type": "video",
+      "title": "What is the Augur in Elden Ring: Nightreign?",
+      "creator": "VaatiVidya",
+      "creatorId": "vaatividya",
+      "url": "https://www.youtube.com/watch?v=Pehj-iOyR6k",
+      "youtubeId": "Pehj-iOyR6k",
+      "language": "en",
+      "duration": "1:27",
+      "publishedDate": "2026-01-16",
+      "thumbnail": "https://i.ytimg.com/vi/Pehj-iOyR6k/maxresdefault.jpg",
+      "noteEs": "Lore short de VaatiVidya explicando el rol del Augur en la narrativa de Nightreign. Buen punto de entrada al lore del juego para players que terminaron la primera run.",
+      "noteEn": "VaatiVidya lore short explaining the Augur's role in Nightreign's narrative. Good lore entry point for players who finished their first run."
+    }
+  ]
+}

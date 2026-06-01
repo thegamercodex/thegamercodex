@@ -1,0 +1,30 @@
+{
+  "id": "mod-engine-2",
+  "name": "Mod Engine 2",
+  "shortName": "ME2",
+  "taglineEs": "El loader estándar de mods de Elden Ring — runtime injection sin tocar la carpeta del juego",
+  "taglineEn": "The standard Elden Ring mod loader — runtime injection without touching the game folder",
+  "url": "https://github.com/soulsmods/ModEngine2",
+  "category": "modding-frameworks",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/soulsmods/ModEngine2",
+  "license": "MIT",
+  "platforms": ["windows", "linux"],
+  "languages": ["en"],
+  "tags": ["mod-loader", "framework", "dependency", "runtime"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["seamless-coop", "elden-ring-reforged", "the-convergence", "nexus-mods-eldenring"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "soulsmods team",
+    "url": "https://github.com/soulsmods"
+  }
+}

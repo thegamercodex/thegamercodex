@@ -1,0 +1,44 @@
+{
+  "id": "powerbazinga",
+  "name": "Powerbazinga TV",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "joinedYear": 2017,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Powerbazinga",
+      "url": "https://www.youtube.com/@Powerbazinga",
+      "channelId": "UCA7-KUzOQF-qk46knmCnCmg",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "powerbazinga",
+      "url": "https://www.twitch.tv/powerbazinga"
+    }
+  ],
+  "specialties": ["guides", "build-recommendations", "farming-routes"],
+  "games": ["elden-ring", "elden-ring-nightreign"],
+  "contentTypes": ["guides", "build-guides", "rune-farming"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "El canal de guías de Elden Ring en español más mirado. Cubre lo práctico: farming de runas, builds tier-list, secretos por área, platino al 100%. Lenguaje claro, sin ego, sin extender videos por padding.",
+  "noteEn": "The most-watched Spanish-language Elden Ring guide channel. Covers practical topics: rune farming, build tier lists, area secrets, 100% platinum. Clear language, no ego, no padding to extend videos.",
+  "highlightsEs": [
+    "Guías de Elden Ring + Shadow of the Erdtree con cobertura completa",
+    "Tier lists de armas y builds actualizadas por patch",
+    "Rutas de farming de runas comprobadas (Mohgwyn, Albinaurics, etc.)",
+    "Guía de platino al 100% paso a paso",
+    "Tono didáctico sin ser condescendiente"
+  ],
+  "highlightsEn": [
+    "Elden Ring + Shadow of the Erdtree guides with full coverage",
+    "Per-patch updated tier lists for weapons and builds",
+    "Tested rune farming routes (Mohgwyn, Albinaurics, etc.)",
+    "Step-by-step 100% platinum guide",
+    "Educational tone without being condescending"
+  ],
+  "avatar": "/images/creators/powerbazinga-avatar.jpg",
+  "banner": "/images/creators/powerbazinga-banner.jpg"
+}
