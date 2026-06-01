@@ -22,7 +22,7 @@
     "noteEn": "One-time purchase (~$40 USD on Steam). Microtransactions are purely cosmetic (weapon, clothing, and structure skins) via the Steam Community Market plus DLC packs like Sunburn, Voice Props, or the Instrument Pack. No paid competitive advantage: skins don't affect stats, damage, or durability. Facepunch monetizes through weekly drops that can be traded and sold on the Market. The monthly force wipe on the first Thursday at ~10am UTC keeps the economy and the map rotating at no extra cost."
   },
   "platforms": ["windows", "macos", "linux", "playstation", "xbox"],
-  "genres": ["survival", "open-world", "shooter", "multiplayer", "pvp", "crafting", "base-building"],
+  "genres": ["survival-craft"],
   "theme": {
     "primary": "#c0481c",
     "secondary": "#1a120c",

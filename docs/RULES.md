@@ -153,6 +153,30 @@ Lucide quitó todos los icons de marca. Mapeo a alternativas genéricas:
   2. Actualizar la doc descriptiva en `CLAUDE.md → "Schema de Datos"`.
   3. **Agregar entrada en `docs/SCHEMA_EVOLUTION.md`** con fecha, cambio, razón, archivos afectados, migración.
 
+## Géneros canónicos
+
+`Game.genres[]` solo acepta los siguientes 9 slugs:
+
+- `arpg` — Action-RPG con build crafting
+- `soulslike` — Combate Souls con stamina y dodge-roll
+- `mmo` — Massive multiplayer online
+- `moba` — Multiplayer online battle arena
+- `fps` — First-person shooter (incluye hero-shooter y battle-royale)
+- `gacha` — Live-service con character/weapon gacha
+- `survival-craft` — Survival + crafting + base building
+- `open-world` — Mapa abierto grande como feature primaria
+- `roguelike` — Runs procedurales con reset-on-death
+
+Al agregar un game nuevo, asignar 1-3 géneros canónicos. Estos valores alimentan los chips multi-select de filtro en el landing (`GameExplorer`).
+
+**Lo que NO va en `genres[]`**:
+
+- **Modos** (`co-op`, `pvp`, `single-player`, `multiplayer`, `online`, `offline`) — son atributos de cómo se juega, no del género. Se infieren del juego o se exponen en futuros campos dedicados.
+- **Temas / aesthetics** (`fantasy`, `dark-fantasy`, `cyberpunk`, `viking`, `sci-fi`, `anime`, `time-travel`) — son estética, no género.
+- **Monetización** (`free-to-play`) — ya vive en `stores[].model` y `monetization.model`.
+- **Scene / cultura** (`esports`, `competitive`, `team-based`, `raid-pve`) — son contexto comunitario, no género.
+- **Subgéneros nicho** (`tactical-shooter`, `looter-shooter`, `hero-shooter`, `mmorpg`, `turn-based-rpg`, `battle-royale`, `creature-collection`, `sandbox`, `base-building`, `crafting`, `exploration`) — se mergean al género canónico más cercano (ver `docs/SCHEMA_EVOLUTION.md → 2026-06-01`).
+
 ## Diseño — lo que NO queremos
 
 - ❌ "AI corporate generic" (gradientes morados/azules genéricos, glassmorphism por todos lados, ilustraciones de Notion).

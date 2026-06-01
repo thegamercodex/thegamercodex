@@ -37,7 +37,7 @@
     "noteEn": "Currently in paid Early Access (~$30 USD) granting full game access during development. GGG announced transition to free-to-play after full release. Microtransactions follow the PoE 1 model: cosmetics and stash space, no buyable power."
   },
   "platforms": ["windows", "macos", "playstation", "xbox"],
-  "genres": ["arpg", "online", "soulslike"],
+  "genres": ["arpg","soulslike"],
   "theme": {
     "primary": "#5a4a6a",
     "secondary": "#1a161e",

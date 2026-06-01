@@ -31,12 +31,7 @@
     "macos",
     "linux"
   ],
-  "genres": [
-    "moba",
-    "team-based",
-    "competitive",
-    "esports"
-  ],
+  "genres": ["moba"],
   "theme": {
     "primary": "#7a1f1f",
     "secondary": "#1a0d0d",

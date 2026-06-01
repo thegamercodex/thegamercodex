@@ -32,13 +32,7 @@
     "windows",
     "macos"
   ],
-  "genres": [
-    "mmorpg",
-    "fantasy",
-    "raid-pve",
-    "pvp",
-    "esports"
-  ],
+  "genres": ["mmo"],
   "theme": {
     "primary": "#1a1c2e",
     "secondary": "#2d2438",

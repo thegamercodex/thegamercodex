@@ -41,12 +41,7 @@
     "playstation",
     "xbox"
   ],
-  "genres": [
-    "fps",
-    "tactical-shooter",
-    "online",
-    "team-based"
-  ],
+  "genres": ["fps"],
   "theme": {
     "primary": "#ff4655",
     "secondary": "#1f2733",

@@ -27,7 +27,7 @@
     "noteEn": "One-time purchase (~$20 USD on Steam, similar on Xbox). No microtransactions, no battle pass, no paid DLC. Every biome and update shipped since Early Access launch (Hearth & Home, Mistlands, Ashlands) arrived free for existing owners. Iron Gate confirmed that model continues through 1.0 and beyond."
   },
   "platforms": ["windows", "linux", "xbox"],
-  "genres": ["survival", "open-world", "sandbox", "viking", "multiplayer", "exploration"],
+  "genres": ["survival-craft","open-world"],
   "theme": {
     "primary": "#8b6d3a",
     "secondary": "#1a1612",

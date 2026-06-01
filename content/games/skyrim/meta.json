@@ -47,7 +47,7 @@
     "noteEn": "Pure single-player. One-time purchase (Special Edition or Anniversary Edition, ~$40 USD). AE adds Creation Club content — quests, armor, spells created by Bethesda and contracted modders. No battle pass, no recurring microtransactions. Individual Creations can be bought standalone with just SE, but most free community mods cover and exceed that content."
   },
   "platforms": ["windows", "playstation", "xbox", "switch"],
-  "genres": ["action-rpg", "open-world", "fantasy", "single-player"],
+  "genres": ["open-world","arpg"],
   "theme": {
     "primary": "#2c3e54",
     "secondary": "#161c25",

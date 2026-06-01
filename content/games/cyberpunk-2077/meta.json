@@ -42,7 +42,7 @@
     "noteEn": "Pure single-player with a single paid expansion (Phantom Liberty, ~$30 USD). No microtransactions, no paid cosmetics, no battle pass — you buy the game once and optionally the expansion. CD Projekt RED maintains the traditional complete-game model without fragmented DLC."
   },
   "platforms": ["windows", "playstation", "xbox"],
-  "genres": ["action-rpg", "open-world", "fps", "cyberpunk", "single-player"],
+  "genres": ["open-world","arpg"],
   "theme": {
     "primary": "#1e1a0a",
     "secondary": "#15140d",

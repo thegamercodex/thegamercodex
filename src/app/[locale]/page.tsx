@@ -1,7 +1,7 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import type { Metadata } from "next";
 import { BrandImage } from "@/components/BrandImage";
-import { GameCard } from "@/components/GameCard";
+import { GameExplorer } from "@/components/GameExplorer";
 import { StatsStrip } from "@/components/StatsStrip";
 import { getGames } from "@/lib/content";
 import { jsonLdScript, websiteJsonLd } from "@/lib/jsonld";
@@ -80,11 +80,7 @@ export default async function HomePage({
       </section>
 
       <section id="games" className="scroll-mt-24 pt-4">
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-          {games.map((game) => (
-            <GameCard key={game.id} game={game} locale={locale as Locale} />
-          ))}
-        </div>
+        <GameExplorer games={games} locale={loc} />
       </section>
     </main>
   );

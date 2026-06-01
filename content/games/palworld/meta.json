@@ -27,7 +27,7 @@
     "noteEn": "One-time purchase (~$30 USD on Steam, included with Xbox Game Pass on PC and console). No microtransactions, no battle pass, no paid DLC. The large expansions (Sakurajima, Feybreak, Tides of Terraria) shipped free and Pocketpair confirmed the upcoming 1.0 with the World Tree keeps that model. Still officially in Early Access — major patches can break older saves, read the patch notes before updating."
   },
   "platforms": ["windows", "xbox"],
-  "genres": ["survival", "open-world", "creature-collection", "crafting", "multiplayer", "shooter"],
+  "genres": ["survival-craft","open-world"],
   "theme": {
     "primary": "#2b5fa1",
     "secondary": "#141a2b",

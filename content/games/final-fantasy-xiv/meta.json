@@ -44,11 +44,7 @@
     "playstation",
     "xbox"
   ],
-  "genres": [
-    "mmorpg",
-    "fantasy",
-    "raid-pve"
-  ],
+  "genres": ["mmo"],
   "theme": {
     "primary": "#2c4a7a",
     "secondary": "#1a2a44",

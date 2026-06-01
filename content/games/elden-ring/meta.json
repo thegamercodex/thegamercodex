@@ -32,7 +32,7 @@
     "noteEn": "One-time purchase (~$60 USD base, ~$40 Shadow of the Erdtree DLC). No microtransactions, no season pass, no battle pass. The Shadow of the Erdtree expansion (2024) adds a new map the size of Limgrave + Liurnia combined, with new weapons, spells, bosses, and a parallel story. After buying the game, all content (including updates and balance patches) ships free."
   },
   "platforms": ["windows", "playstation", "xbox"],
-  "genres": ["action-rpg", "open-world", "soulslike", "fantasy", "single-player"],
+  "genres": ["soulslike","open-world","arpg"],
   "theme": {
     "primary": "#3a2a18",
     "secondary": "#1a1208",

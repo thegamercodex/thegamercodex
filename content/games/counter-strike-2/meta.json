@@ -34,12 +34,7 @@
     "windows",
     "linux"
   ],
-  "genres": [
-    "fps",
-    "tactical-shooter",
-    "competitive",
-    "esports"
-  ],
+  "genres": ["fps"],
   "theme": {
     "primary": "#1a1a1a",
     "secondary": "#2a2d34",

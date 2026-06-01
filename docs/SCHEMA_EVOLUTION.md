@@ -257,3 +257,34 @@ La subcarpeta por juego mantiene la misma flat-structure simple dentro de cada j
 
 **Migración**: campo opcional, no rompe games existentes. Games con `stores[]` que incluyen Steam con appId ganan página `/news` automáticamente sin tocar `meta.json`. Games sin Steam ni `newsFeeds[]` no exponen la ruta (`hasNewsSources` retorna false, `generateStaticParams` filtra, sitemap omite).
 
+### 2026-06-01 - Normalización canónica de `Game.genres[]`
+
+**Cambio**: restringido el conjunto válido de valores en `Game.genres[]` a 9 slugs canónicos: `arpg`, `soulslike`, `mmo`, `moba`, `fps`, `gacha`, `survival-craft`, `open-world`, `roguelike`. El TypeScript type sigue siendo `string[]` (no se usa union literal por flexibilidad de evolución); la convención se documenta en `docs/RULES.md → "Géneros canónicos"`.
+
+**Razón**: el landing introduce filtros multi-select por género (`GameExplorer`). Con 29 valores únicos previos mezclando géneros reales (`arpg` vs `action-rpg`), modos (`co-op`, `single-player`, `online`), temas (`fantasy`, `viking`, `cyberpunk`, `anime`, `sci-fi`), monetización (`free-to-play`), scene (`esports`, `competitive`) y subgéneros nicho (`tactical-shooter`, `looter-shooter`, `mmorpg`), no había forma de presentar chips coherentes. Normalizar evita que cada nuevo game agregue otro slug arbitrario y rompa el filtro.
+
+**Mapping de migración** (29 viejos → 9 canónicos + drop):
+
+- `arpg`, `action-rpg`, `looter-shooter` (parcial) → `arpg`
+- `soulslike` → `soulslike`
+- `mmorpg`, `mmo`, `raid-pve` (implícito de MMO) → `mmo`
+- `moba` → `moba`
+- `fps`, `shooter`, `hero-shooter`, `battle-royale`, `tactical-shooter` → `fps`
+- `gacha` → `gacha`
+- `survival`, `sandbox`, `base-building`, `crafting`, `creature-collection` → `survival-craft`
+- `open-world`, `exploration` → `open-world`
+- `roguelike` → `roguelike`
+- **DROP**: `co-op`, `pvp`, `single-player`, `multiplayer`, `online`, `offline`, `free-to-play`, `fantasy`, `dark-fantasy`, `cyberpunk`, `viking`, `sci-fi`, `anime`, `time-travel`, `esports`, `competitive`, `team-based`, `turn-based-rpg`
+
+**Archivos afectados**:
+- 24 × `content/games/<game>/meta.json` — campo `genres` reescrito a 1-3 slugs canónicos
+- `docs/RULES.md` — nueva sección "Géneros canónicos"
+- `CLAUDE.md → "Schema de Datos / Meta del Juego"` — referencia cruzada agregada
+- `src/components/GameExplorer.tsx` — nuevo, consume estos valores
+
+**No afectado**:
+- `src/types/index.ts` — `GameMeta.genres: string[]` queda igual; la restricción es por convención no por tipo, para permitir agregar géneros nuevos sin TS migration
+- `src/lib/similar-games.ts` — filter de `online`/`free-to-play` queda como defensa contra futuras adiciones inconsistentes
+
+**Migración**: hecha en este commit vía script Node que parsea cada `meta.json`, valida JSON post-edit y preserva el resto del formato del archivo. Si un nuevo game llega con un género fuera de la lista canónica, el lint manual (revisión humana) debe rechazarlo o mapearlo antes del merge.
+

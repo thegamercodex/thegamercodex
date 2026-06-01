@@ -22,7 +22,7 @@
     "noteEn": "Paid Early Access launched April 14, 2026 (~$18-20 USD). No microtransactions or paid cosmetics: you buy the game and all future Early Access content is included. Kraken Express hasn't announced a different model for the 1.0 launch."
   },
   "platforms": ["windows"],
-  "genres": ["survival", "action-rpg", "co-op", "open-world", "soulslike"],
+  "genres": ["soulslike", "open-world", "survival-craft"],
   "theme": {
     "primary": "#2d5266",
     "secondary": "#0f1820",

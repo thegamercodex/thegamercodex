@@ -42,7 +42,7 @@
     "noteEn": "Free-to-play with cosmetic shop (weapon and legend skins), per-season Battle Pass (~$10 USD), and legend unlocks payable with premium currency or earned gradually with in-game currency. No packs sell power — all legends are balance-equivalent at unlock."
   },
   "platforms": ["windows", "playstation", "xbox", "switch"],
-  "genres": ["battle-royale", "hero-shooter", "fps", "free-to-play"],
+  "genres": ["fps"],
   "theme": {
     "primary": "#b9202a",
     "secondary": "#15171a",

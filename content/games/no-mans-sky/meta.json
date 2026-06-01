@@ -47,7 +47,7 @@
     "noteEn": "One-time purchase (~$60 USD, frequently on sale for $30 or less). Has zero microtransactions. Hello Games kept the promise that every update since the 2016 launch is free for owners — including massive expansions like Beyond, Origins, Frontiers, Worlds Part I/II and VOYAGERS. No paid DLC, no battle pass, no premium currency."
   },
   "platforms": ["windows", "macos", "playstation", "xbox", "switch"],
-  "genres": ["exploration", "survival", "sandbox", "sci-fi", "online"],
+  "genres": ["open-world","survival-craft"],
   "theme": {
     "primary": "#d97a2c",
     "secondary": "#0e1322",

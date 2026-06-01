@@ -38,7 +38,7 @@
     "noteEn": "Microtransactions are cosmetic and quality-of-life like extra stash space. No buyable power advantages."
   },
   "platforms": ["windows", "macos", "playstation", "xbox"],
-  "genres": ["arpg", "free-to-play", "online"],
+  "genres": ["arpg"],
   "theme": {
     "primary": "#a08c5a",
     "secondary": "#1a1a1a",

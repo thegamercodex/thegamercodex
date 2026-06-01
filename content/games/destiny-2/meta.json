@@ -47,12 +47,7 @@
     "playstation",
     "xbox"
   ],
-  "genres": [
-    "looter-shooter",
-    "mmo",
-    "fps",
-    "online"
-  ],
+  "genres": ["fps","arpg"],
   "theme": {
     "primary": "#c9a961",
     "secondary": "#131927",

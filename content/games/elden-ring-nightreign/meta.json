@@ -32,7 +32,7 @@
     "noteEn": "One-time purchase (~$40 USD), standalone spin-off that doesn't require the original Elden Ring. The Forsaken Hollows expansion (2026) adds content separately. No microtransactions, no season pass, no battle pass — the classic From Software model."
   },
   "platforms": ["windows", "playstation", "xbox"],
-  "genres": ["action-rpg", "co-op", "roguelike", "soulslike", "online", "multiplayer"],
+  "genres": ["soulslike","roguelike"],
   "theme": {
     "primary": "#4a2f5a",
     "secondary": "#1c0f24",

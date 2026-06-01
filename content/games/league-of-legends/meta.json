@@ -29,12 +29,7 @@
     "windows",
     "macos"
   ],
-  "genres": [
-    "moba",
-    "team-based",
-    "competitive",
-    "esports"
-  ],
+  "genres": ["moba"],
   "theme": {
     "primary": "#0a1428",
     "secondary": "#091428",

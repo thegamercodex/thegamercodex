@@ -153,6 +153,8 @@ thegamercodex/
 
 Campos principales: `id`, `name`, `shortName`, `developer`, `releaseYear`, `officialUrl`, `stores[]`, `priceTracker`, `platforms[]`, `genres[]`, `theme`, `monetization`, `logo`, `heroImage`, `toolCategories[]`, `resourceCategories[]`, `newsFeeds[]?`, `similarGames[]?`.
 
+**`genres[]`** acepta solo los 9 slugs canónicos definidos en `docs/RULES.md → "Géneros canónicos"` (`arpg`, `soulslike`, `mmo`, `moba`, `fps`, `gacha`, `survival-craft`, `open-world`, `roguelike`). Modos, temas, monetización y subgéneros nicho NO van en este campo. Estos valores alimentan los chips de filtro del landing (`GameExplorer`) y la lógica de `similarGames` auto-derivado.
+
 **`newsFeeds[]`** (opcional): fuentes adicionales para la página de noticias del juego (`/[locale]/[game]/news`). Cada entry: `{ type, url, nameEs, nameEn, priority? }`. Tipos soportados:
 - `steam-rss` — Steam news feed (raro de declarar manualmente porque se auto-deriva de `stores[].appId` cuando hay store con `platform: "steam"`).
 - `youtube-channel` — URL con `channel_id=...` del canal del dev/publisher para anuncios oficiales.

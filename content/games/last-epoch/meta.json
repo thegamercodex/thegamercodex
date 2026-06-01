@@ -22,7 +22,7 @@
     "noteEn": "One-time purchase (~$35 USD). The in-game store sells only cosmetics and extra stash tabs; no battle pass and no buyable power. The Orobyss expansion was announced as a free update for everyone who owned the game before its launch. Eleventh Hour Games has an explicit manifesto against aggressive MTX, a stance they kept after the KRAFTON acquisition in 2025."
   },
   "platforms": ["windows"],
-  "genres": ["arpg", "fantasy", "time-travel", "online", "offline"],
+  "genres": ["arpg"],
   "theme": {
     "primary": "#4a3c8a",
     "secondary": "#0e0d1c",

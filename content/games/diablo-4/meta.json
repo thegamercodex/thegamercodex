@@ -37,7 +37,7 @@
     "noteEn": "One-time purchase (~$70 USD) plus the Vessel of Hatred expansion (2024, ~$40 USD). Has a per-season battle pass (~$10 USD) with cosmetic rewards and XP boosts, plus a cosmetics shop (armor, mounts, emotes) using premium Platinum currency. No buyable power: gear comes from gameplay. Future expansions are announced on an annual cadence."
   },
   "platforms": ["windows", "playstation", "xbox"],
-  "genres": ["arpg", "fantasy", "dark-fantasy", "online"],
+  "genres": ["arpg"],
   "theme": {
     "primary": "#5a1010",
     "secondary": "#0e0606",
