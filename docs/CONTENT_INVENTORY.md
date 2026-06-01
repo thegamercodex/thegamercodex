@@ -1,18 +1,18 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-05-31
+> Última generación: 2026-06-01
 
 ## Resumen
 
-22 juegos · 371 tools · 106 creators · 112 categorías · 560 resources items · 89 comparisons
+22 juegos · 373 tools · 106 creators · 112 categorías · 560 resources items · 89 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
 | `apex-legends` | Apex Legends | 13 | 5 | 5 | 25 | 5 |
 | `counter-strike-2` | Counter-Strike 2 | 17 | 5 | 5 | 25 | 0 |
 | `cyberpunk-2077` | Cyberpunk 2077 | 16 | 5 | 5 | 25 | 0 |
-| `destiny-2` | Destiny 2 | 13 | 5 | 5 | 25 | 0 |
+| `destiny-2` | Destiny 2 | 14 | 5 | 5 | 25 | 0 |
 | `diablo-4` | Diablo IV | 24 | 4 | 5 | 25 | 9 |
 | `dota-2` | Dota 2 | 15 | 5 | 5 | 25 | 0 |
 | `final-fantasy-xiv` | Final Fantasy XIV | 17 | 5 | 5 | 25 | 5 |
@@ -23,7 +23,7 @@
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 |
 | `nte` | Neverness to Everness | 12 | 5 | 5 | 25 | 4 |
 | `palworld` | Palworld | 16 | 5 | 5 | 25 | 4 |
-| `path-of-exile` | Path of Exile | 18 | 5 | 5 | 25 | 7 |
+| `path-of-exile` | Path of Exile | 19 | 5 | 5 | 25 | 7 |
 | `path-of-exile-2` | Path of Exile 2 | 21 | 5 | 5 | 25 | 8 |
 | `rust` | Rust | 16 | 4 | 5 | 25 | 5 |
 | `skyrim` | The Elder Scrolls V: Skyrim | 20 | 5 | 5 | 25 | 5 |
@@ -81,7 +81,7 @@
 
 ### Destiny 2 (`destiny-2`)
 
-**Tools (13)**: Braytech (`braytech`), D2 Checklist (`d2-checklist`), D2 Foundry (`d2-foundry`), Destiny Recipes (`destiny-recipes`), Destiny Tracker (`destiny-tracker`), r/DestinyTheGame (`destiny2-subreddit`), Destiny Item Manager (`dim`), Ishtar Collective (`ishtar-collective`), light.gg (`light-gg`), Raid Report (`raid-report`), The100.io (`the100`), Trials Report (`trials-report`), Where Is Xur (`where-is-xur`)
+**Tools (14)**: Braytech (`braytech`), D2 Checklist (`d2-checklist`), D2 Foundry (`d2-foundry`), Destiny Recipes (`destiny-recipes`), Destiny Tracker (`destiny-tracker`), Destiny 2 Discord (r/DestinyTheGame) (`destiny2-discord`), r/DestinyTheGame (`destiny2-subreddit`), Destiny Item Manager (`dim`), Ishtar Collective (`ishtar-collective`), light.gg (`light-gg`), Raid Report (`raid-report`), The100.io (`the100`), Trials Report (`trials-report`), Where Is Xur (`where-is-xur`)
 
 **Creators (5)**: Cammycakes Gaming (`cammycakes`), Ehroar (`ehroar`), KackisHD (`kackis-hd`), Plunderthabooty (`plunderthabooty`), xHOUNDISHx (`xhoundishx`)
 
@@ -247,7 +247,7 @@
 
 ### Path of Exile (`path-of-exile`)
 
-**Tools (18)**: Awakened PoE Trade (`awakened-poe-trade`), Craft of Exile (`craft-of-exile`), Exile Leveling (`exile-leveling`), Exilence CE (`exilence-ce`), FilterBlade (`filterblade`), Hideout Showcase (`hideout-showcase`), Maxroll (`maxroll`), Path of Building Community (`path-of-building`), PoE Filter (`poe-filter`), PoeLab (`poe-lab`), poe.ninja (`poe-ninja`), PoE Regex (`poe-regex`), r/pathofexile (`poe-subreddit`), Path of Exile Trade (`poe-trade-official`), Path of Exile Wiki (`poe-wiki`), PoEDB (`poedb`), PoEPlanner (`poeplanner`), The Forbidden Trove (`tft`)
+**Tools (19)**: Awakened PoE Trade (`awakened-poe-trade`), Craft of Exile (`craft-of-exile`), Exile Leveling (`exile-leveling`), Exilence CE (`exilence-ce`), FilterBlade (`filterblade`), Hideout Showcase (`hideout-showcase`), Maxroll (`maxroll`), Path of Building Community (`path-of-building`), Path of Exile Discord (comunidad) (`poe-discord`), PoE Filter (`poe-filter`), PoeLab (`poe-lab`), poe.ninja (`poe-ninja`), PoE Regex (`poe-regex`), r/pathofexile (`poe-subreddit`), Path of Exile Trade (`poe-trade-official`), Path of Exile Wiki (`poe-wiki`), PoEDB (`poedb`), PoEPlanner (`poeplanner`), The Forbidden Trove (`tft`)
 
 **Creators (5)**: Big Ducks (`big-ducks`), KroximatuZ (`kroximatuz`), Pohx (`pohx`), Talkative Tri (`talkative-tri`), Zizaran (`zizaran`)
 

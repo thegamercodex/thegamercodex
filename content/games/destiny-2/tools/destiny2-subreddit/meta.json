@@ -24,12 +24,12 @@
   ],
   "essential": false,
   "difficulty": "beginner",
-  "lastVerified": "2026-05-27",
+  "lastVerified": "2026-05-31",
   "logo": "/images/tools/common/reddit-logo.png",
   "screenshots": [],
   "videos": [],
-  "relatedTools": [],
-  "alternatives": [],
+  "relatedTools": ["destiny2-discord"],
+  "alternatives": ["destiny2-discord"],
   "createdBy": {
     "name": "Reddit community",
     "url": "https://www.reddit.com/r/DestinyTheGame/about"

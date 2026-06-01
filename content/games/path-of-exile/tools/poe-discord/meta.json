@@ -1,0 +1,29 @@
+{
+  "id": "poe-discord",
+  "name": "Path of Exile Discord (comunidad)",
+  "shortName": "Discord PoE",
+  "taglineEs": "Servidor de Discord más grande de Path of Exile 1 & 2: discusión en tiempo real, LFG, channels por liga y por clase, drama de patches y signal cruzada con PoE 2",
+  "taglineEn": "Largest Path of Exile 1 & 2 Discord server: real-time discussion, LFG, per-league and per-class channels, patch drama, and cross-signal with PoE 2",
+  "url": "https://discord.com/invite/pathofexile",
+  "category": "reference",
+  "type": "discord",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["discord"],
+  "languages": ["en"],
+  "tags": ["community", "discord", "lfg", "league-discussion", "real-time"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["poe-subreddit"],
+  "alternatives": ["poe-subreddit"],
+  "createdBy": {
+    "name": "Path of Exile community",
+    "url": "https://discord.com/invite/pathofexile"
+  }
+}

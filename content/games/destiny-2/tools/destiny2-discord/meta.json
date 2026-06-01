@@ -1,0 +1,29 @@
+{
+  "id": "destiny2-discord",
+  "name": "Destiny 2 Discord (r/DestinyTheGame)",
+  "shortName": "Discord D2",
+  "taglineEs": "Discord oficial del subreddit r/DestinyTheGame: discusión en tiempo real, LFG para raids y dungeons, channels por clase y por activity, reacciones a episodios",
+  "taglineEn": "Official r/DestinyTheGame subreddit Discord: real-time discussion, LFG for raids and dungeons, per-class and per-activity channels, episode reactions",
+  "url": "https://discord.com/invite/destinyreddit",
+  "category": "community",
+  "type": "discord",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["discord"],
+  "languages": ["en"],
+  "tags": ["community", "discord", "lfg", "raid-coordination", "real-time"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-05-31",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["destiny2-subreddit", "the100"],
+  "alternatives": ["destiny2-subreddit", "the100"],
+  "createdBy": {
+    "name": "r/DestinyTheGame community",
+    "url": "https://www.reddit.com/r/DestinyTheGame/"
+  }
+}
