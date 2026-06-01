@@ -42,6 +42,7 @@ Recordatorios cruzados:
 - Soporta el juego nativamente — no ports flaky desde otro juego de la franquicia.
 - Diferenciación editorial entre tools del mismo cluster: si recomendás dos build planners, el `quickTake` debe explicar cuándo usar uno vs el otro.
 - Cubre las categorías más buscadas del juego (típicamente: build/character planning, trading/economy, reference/wiki, plus las específicas del género).
+- **Comparabilidad**: las comparisons son el eje editorial más fuerte del codex (ver Phase 4). Durante el research, pensá explícitamente en pares: cada categoría debería tener al menos 2 tools que compitan editorialmente, para llegar al mínimo de **7 comparisons** del cierre. Si una categoría se queda con una sola tool dominante, buscá una alternativa creíble — incluso si es menos popular — para tener con quién comparar. No incluir tools débiles solo para padding, pero sí priorizar tools que abran pares naturales por sobre tools redundantes en categorías saturadas.
 
 ### Inclusión obligatoria: Discord + Subreddit del juego
 
@@ -369,9 +370,9 @@ Archivos en `content/games/<game-id>/resources/<category>.json`, formato:
 
 ---
 
-## Phase 4 — Comparisons (target: 4-5 pares)
+## Phase 4 — Comparisons (mínimo: 7 pares)
 
-Las comparativas head-to-head entre tools del mismo cluster son un eje editorial del codex. Cada comparison tiene su propia ruta SEO (`/[game]/compare/<a-vs-b>`), aparece en la game page con preview cards, y sirve para resolver "cuál uso, X o Y" — pregunta de alto volumen que justifica ranking orgánico.
+Las comparativas head-to-head entre tools del mismo cluster son **el eje editorial más fuerte del codex** — el principal diferenciador vs wikis, subreddits o listas planas. Cada comparison tiene su propia ruta SEO (`/[game]/compare/<a-vs-b>`), aparece en la game page con preview cards, y sirve para resolver "cuál uso, X o Y" — pregunta de alto volumen que justifica ranking orgánico. Por eso son **inclusión obligatoria** y la selección de tools de Phase 1A tiene que considerar comparabilidad desde el inicio.
 
 ### 4A — Identificar pares naturales
 
@@ -386,7 +387,7 @@ Recorrer las `toolCategories` del juego y buscar pares **dentro de la misma cate
 - Las tools no compiten realmente — ej: una platform (Nexus Mods, Steam Workshop) vs una tool específica que vive ahí.
 - El par sería "incumbent dominante vs proyecto abandonado".
 
-**Target**: 4-5 pares. Mezcla típica: 1-2 flagships (`depth: "flagship"`, prosa de ~1500 palabras, comparativa profunda) + 3-4 shorts (`depth: "short"`, ~700 palabras). Si el ecosystem honestamente no da para 4, cerrar con menos (3 sólidas > 5 con relleno).
+**Mínimo: 7 pares**. Mezcla típica: 1-2 flagships (`depth: "flagship"`, prosa de ~1500 palabras, comparativa profunda) + 5-6 shorts (`depth: "short"`, ~700 palabras). Si llegás a Phase 4 y no encontrás 7 pares legítimos, **es una señal de que Phase 1A no consideró comparabilidad suficiente** — volvé a Phase 1A y revisá si hay alternativas creíbles que sumar a categorías saturadas con un solo dominante. Solo cerrar con menos de 7 si el ecosistema honestamente está agotado (juegos chicos, comunidades nicho con poca redundancia editorial) — documentarlo explícitamente en el reporte de cierre.
 
 ### 4B — Estructura de archivos
 
@@ -461,7 +462,7 @@ Después de escribir todos los .md y meta.json, correr el grep de `docs/RULES.md
    - Logos de tools: cuántos OK / cuántos SKIP (sin logo descargable; queda fallback a inicial)
    - Creators agregados (5 / cuáles / channelIds verificados / avatares descargados ok)
    - Resources agregados por categoría (5 cada una)
-   - Comparisons agregadas (cuántas, qué pares, depth de cada una)
+   - Comparisons agregadas (cuántas, qué pares, depth de cada una; flaggear explícitamente si quedó por debajo del mínimo de 7 y por qué)
    - News page activa (auto-derive de Steam o `newsFeeds[]` agregado)
    - Cualquier cosa que **no** se pudo cerrar y por qué
 
