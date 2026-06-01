@@ -43,6 +43,15 @@ Recordatorios cruzados:
 - Diferenciación editorial entre tools del mismo cluster: si recomendás dos build planners, el `quickTake` debe explicar cuándo usar uno vs el otro.
 - Cubre las categorías más buscadas del juego (típicamente: build/character planning, trading/economy, reference/wiki, plus las específicas del género).
 
+### Inclusión obligatoria: Discord + Subreddit del juego
+
+**Todo juego debe incluir su Discord oficial y su subreddit como tools** (típicamente bajo una categoría `community` o equivalente). Son los dos puntos de entrada universales a la comunidad y aparecen entre las primeras búsquedas de cualquier jugador nuevo. No se cuentan contra el target de 15 tools — son sumados aparte como infraestructura comunitaria.
+
+- **Discord oficial**: el servidor oficial del developer/publisher si existe. Si el juego no tiene Discord oficial (raro, pero pasa con publishers tradicionales), incluir el **community Discord verificado** más activo y dejar `official: false`.
+- **Subreddit**: el subreddit principal del juego (ej: `r/pathofexile`, `r/Genshin_Impact`). Si solo existe un subreddit minúsculo o no hay, reportarlo en el cierre — el caso es muy raro.
+- Ambos van con `type: "discord"` y `type: "reference"` respectivamente (el subreddit no tiene type propio; va como `reference` con `tags: ["community", "reddit"]`).
+- El `category` típico es `community`, pero si el juego usa otro id (ej: `reference`, `social`), alinearlo con sus `toolCategories`.
+
 ### Workflow
 
 1. Web search por categorías standard (build planners, trade tools, wikis, filters/loot, leveling, crafting, economy trackers, atlas/endgame planners, official discord, community discord/hub). **Armá una shortlist de ~20 candidatos** — sobre-investigar acá ahorra trabajo después: las tools que fallen verificación se reemplazan desde el buffer en lugar de mandar a buscar nuevas en mitad de Phase 1C.
