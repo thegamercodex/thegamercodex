@@ -1,0 +1,80 @@
+{
+  "category": "map-guides",
+  "resources": [
+    {
+      "id": "pestily-customs-beginner-map-guide-eft-2024",
+      "type": "video",
+      "title": "ULTIMATE CUSTOMS BEGINNER MAP GUIDE - Escape from Tarkov",
+      "creator": "Pestily",
+      "creatorId": "pestily",
+      "url": "https://www.youtube.com/watch?v=k27tKxqQPfM",
+      "youtubeId": "k27tKxqQPfM",
+      "language": "en",
+      "duration": "35:14",
+      "publishedDate": "2024-02-15",
+      "thumbnail": "https://i.ytimg.com/vi/k27tKxqQPfM/maxresdefault.jpg",
+      "noteEs": "El walkthrough definitivo de Customs por Pestily: spawns, rutas, extracts, key spawns y callouts. Evergreen — los principios y geografía base siguen vigentes en 1.0.",
+      "noteEn": "Pestily's definitive Customs walkthrough: spawns, routes, extracts, key spawns, and callouts. Evergreen — the principles and base geography remain valid in 1.0."
+    },
+    {
+      "id": "atrainplaysgames-customs-updated-eft-2025",
+      "type": "video",
+      "title": "Explore the Updated Customs Map | Tarkov 0.16 Expansion Guide",
+      "creator": "atrainplaysgames",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=l4bfoqag6M4",
+      "youtubeId": "l4bfoqag6M4",
+      "language": "en",
+      "duration": "5:44",
+      "publishedDate": "2025-02-20",
+      "thumbnail": "https://i.ytimg.com/vi/l4bfoqag6M4/maxresdefault.jpg",
+      "noteEs": "Cobertura de las áreas nuevas que 0.16 agregó a Customs. Corto y al grano — complemento ideal a la guía evergreen de Pestily para el delta del parche.",
+      "noteEn": "Coverage of the new areas added to Customs in 0.16. Short and direct — ideal complement to Pestily's evergreen guide for the patch delta."
+    },
+    {
+      "id": "darkops-factory-guide-1-0-eft-2026",
+      "type": "video",
+      "title": "Factory Guide for New Players | Tarkov 1.0",
+      "creator": "DarkOps",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=C1UCqbEMX9A",
+      "youtubeId": "C1UCqbEMX9A",
+      "language": "en",
+      "duration": "9:57",
+      "publishedDate": "2026-02-03",
+      "thumbnail": "https://i.ytimg.com/vi/C1UCqbEMX9A/maxresdefault.jpg",
+      "noteEs": "Factory específico al meta de 1.0 con foco en jugadores nuevos. Spawns, key paths, extracts y por qué Factory sigue siendo el mejor mapa para aprender CQB.",
+      "noteEn": "Factory specific to the 1.0 meta focused on new players. Spawns, key paths, extracts, and why Factory is still the best map to learn CQB."
+    },
+    {
+      "id": "gigabeef-factory-with-confidence-eft-2023",
+      "type": "video",
+      "title": "How To Play Factory With CONFIDENCE! Full Tarkov Map Guide",
+      "creator": "Gigabeef",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=s0RbJ7e3ask",
+      "youtubeId": "s0RbJ7e3ask",
+      "language": "en",
+      "duration": "31:21",
+      "publishedDate": "2023-12-09",
+      "thumbnail": "https://i.ytimg.com/vi/s0RbJ7e3ask/maxresdefault.jpg",
+      "noteEs": "Walkthrough largo de Gigabeef sobre Factory con foco en mentalidad y decisión táctica. Más profundo que las guías cortas — para jugadores que quieren dominar el mapa, no solo sobrevivirlo.",
+      "noteEn": "Gigabeef's long Factory walkthrough focused on mindset and tactical decision-making. Deeper than short guides — for players who want to master the map, not just survive it."
+    },
+    {
+      "id": "deadlyslob-icebreaker-boat-explore-eft-2026",
+      "type": "video",
+      "title": "DeadlySlob: Let's Explore the Boat - Escape from Tarkov",
+      "creator": "DeadlySlob",
+      "creatorId": "deadlyslob",
+      "url": "https://www.youtube.com/watch?v=_-c4aitTVak",
+      "youtubeId": "_-c4aitTVak",
+      "language": "en",
+      "duration": "2:40:00",
+      "publishedDate": "2026-05-26",
+      "thumbnail": "https://i.ytimg.com/vi/_-c4aitTVak/maxresdefault.jpg",
+      "noteEs": "Exploración temprana del barco Icebreaker, el nuevo escenario del parche del mismo nombre. Stream completo de DeadlySlob descubriendo extracts, rutas y zonas de boss en directo.",
+      "noteEn": "Early exploration of the Icebreaker ship, the new scenario from the patch of the same name. Full DeadlySlob stream discovering extracts, routes, and boss zones live."
+    }
+  ]
+}

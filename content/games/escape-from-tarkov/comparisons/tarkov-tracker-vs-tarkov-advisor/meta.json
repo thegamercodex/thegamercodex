@@ -1,0 +1,46 @@
+{
+  "id": "tarkov-tracker-vs-tarkov-advisor",
+  "toolIds": ["tarkov-tracker", "tarkov-advisor"],
+  "category": "quest-tracking",
+  "depth": "flagship",
+  "lastVerified": "2026-06-01",
+  "verdictEs": "TarkovTracker si tu prioridad es team sync, open-source y minimalism. Tarkov Advisor si quieres tier list, stash management y UX visual con un solo login.",
+  "verdictEn": "TarkovTracker if your priority is team sync, open-source, and minimalism. Tarkov Advisor if you want tier list, stash management, and visual UX with a single login.",
+  "useCases": [
+    {
+      "labelEs": "Wipe en grupo con 3-5 jugadores compartiendo progreso",
+      "labelEn": "Group wipe with 3-5 players sharing progress",
+      "winner": "tarkov-tracker",
+      "reasonEs": "Team sync más maduro con required-items agregados — la feature flagship que justifica usarlo.",
+      "reasonEn": "More mature team sync with aggregated required items — the flagship feature justifying it."
+    },
+    {
+      "labelEs": "Decidir qué loot mantener cuando el stash está lleno",
+      "labelEn": "Decide what loot to keep when stash is full",
+      "winner": "tarkov-advisor",
+      "reasonEs": "Tier list de value-per-slot + stash inventory que TarkovTracker no maneja.",
+      "reasonEn": "Value-per-slot tier list + stash inventory that TarkovTracker doesn't handle."
+    },
+    {
+      "labelEs": "Tracker simple solo para track de tasks personales",
+      "labelEn": "Simple tracker just for personal task progress",
+      "winner": "tarkov-tracker",
+      "reasonEs": "UX más limpia y minimalista, sin features extra que distraen.",
+      "reasonEn": "Cleaner and more minimalist UX without distracting extra features."
+    },
+    {
+      "labelEs": "Planificar hideout upgrades con visualización de dependencias",
+      "labelEn": "Plan hideout upgrades with dependency visualization",
+      "winner": "tarkov-advisor",
+      "reasonEs": "Tiene planner gráfico con dependency tree; TarkovTracker solo lista módulos pendientes.",
+      "reasonEn": "It has a graphical planner with dependency tree; TarkovTracker only lists pending modules."
+    },
+    {
+      "labelEs": "Contribuir al desarrollo con PRs o features custom",
+      "labelEn": "Contribute to development with PRs or custom features",
+      "winner": "tarkov-tracker",
+      "reasonEs": "Open-source en GitHub con community activa de contributors; Advisor es closed-source.",
+      "reasonEn": "Open-source on GitHub with active contributor community; Advisor is closed-source."
+    }
+  ]
+}

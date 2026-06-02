@@ -1,0 +1,80 @@
+{
+  "category": "patch-and-events",
+  "resources": [
+    {
+      "id": "lvndmark-icebreaker-out-now-stream-eft-2026",
+      "type": "video",
+      "title": "ESCAPE FROM TARKOV - ICEBREAKER OUT NOW",
+      "creator": "LVNDMARK",
+      "creatorId": "lvndmark",
+      "url": "https://www.youtube.com/watch?v=qigXYIodWbE",
+      "youtubeId": "qigXYIodWbE",
+      "language": "en",
+      "duration": "11:54:59",
+      "publishedDate": "2026-05-31",
+      "thumbnail": "https://i.ytimg.com/vi/qigXYIodWbE/maxresdefault.jpg",
+      "noteEs": "Stream completo del lanzamiento del evento Icebreaker — la reacción en vivo del jugador más visto de Tarkov mientras descubre mapa, boss y mecánicas nuevas en tiempo real.",
+      "noteEn": "Full stream of the Icebreaker event launch — the live reaction of Tarkov's most-watched player as he discovers the new map, boss, and mechanics in real time."
+    },
+    {
+      "id": "pestily-icebreaker-change-tarkov-forever-eft-2026",
+      "type": "video",
+      "title": "ICEBREAKER IS GOING TO CHANGE TARKOV FOREVER! - Escape from Tarkov",
+      "creator": "Pestily",
+      "creatorId": "pestily",
+      "url": "https://www.youtube.com/watch?v=EgR1ZalBeOc",
+      "youtubeId": "EgR1ZalBeOc",
+      "language": "en",
+      "duration": "9:39",
+      "publishedDate": "2026-06-01",
+      "thumbnail": "https://i.ytimg.com/vi/EgR1ZalBeOc/maxresdefault.jpg",
+      "noteEs": "Análisis editorial corto de Pestily sobre por qué el evento Icebreaker representa un cambio estructural en la cobertura del parche, no solo contenido temporal. Lectura honesta del long-term.",
+      "noteEn": "Pestily's short editorial analysis on why the Icebreaker event represents a structural shift in patch coverage, not just temporary content. Honest read on long-term implications."
+    },
+    {
+      "id": "lvndmark-icebreaker-boss-strategy-eft-2026",
+      "type": "video",
+      "title": "I Can't Believe this worked with the Icebreaker BOSS.. - Escape From Tarkov",
+      "creator": "LVNDMARK",
+      "creatorId": "lvndmark",
+      "url": "https://www.youtube.com/watch?v=0WgcrErGHxM",
+      "youtubeId": "0WgcrErGHxM",
+      "language": "en",
+      "duration": "42:52",
+      "publishedDate": "2026-06-01",
+      "thumbnail": "https://i.ytimg.com/vi/0WgcrErGHxM/maxresdefault.jpg",
+      "noteEs": "Strategy improvisada que termina funcionando contra el boss principal del Icebreaker. Útil para ver el discovery process pre-meta cuando la community todavía busca el approach óptimo.",
+      "noteEn": "Improvised strategy that ends up working against the main Icebreaker boss. Useful to see the pre-meta discovery process when the community is still searching for the optimal approach."
+    },
+    {
+      "id": "deadlyslob-solo-raiding-day36-eft-2026",
+      "type": "video",
+      "title": "DeadlySlob: Escape From Tarkov - Solo Raiding - Day 36",
+      "creator": "DeadlySlob",
+      "creatorId": "deadlyslob",
+      "url": "https://www.youtube.com/watch?v=MU4CzsW-AHI",
+      "youtubeId": "MU4CzsW-AHI",
+      "language": "en",
+      "duration": "5:49:12",
+      "publishedDate": "2026-06-01",
+      "thumbnail": "https://i.ytimg.com/vi/MU4CzsW-AHI/maxresdefault.jpg",
+      "noteEs": "Día 36 de la serie diaria de DeadlySlob — documenta la progresión solo del wipe atravesando el parche Icebreaker. Útil como termómetro del estado del juego día a día.",
+      "noteEn": "Day 36 of DeadlySlob's daily series — documents solo wipe progression through the Icebreaker patch. Useful as a day-to-day thermometer for the game's state."
+    },
+    {
+      "id": "gigabeef-nearly-at-icebreaker-eft-2026",
+      "type": "video",
+      "title": "NEARLY At IceBreaker...!",
+      "creator": "Gigabeef",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=cTRvy4czyDo",
+      "youtubeId": "cTRvy4czyDo",
+      "language": "en",
+      "duration": "3:36:46",
+      "publishedDate": "2026-05-28",
+      "thumbnail": "https://i.ytimg.com/vi/cTRvy4czyDo/maxresdefault.jpg",
+      "noteEs": "Gigabeef recorre el progress de tasks necesarias para alcanzar el contenido Icebreaker. Documenta el gate de quests prerequisitas que separa al casual del endgame del parche.",
+      "noteEn": "Gigabeef works through the task progression required to reach Icebreaker content. Documents the prerequisite quest gate separating casuals from the patch's endgame."
+    }
+  ]
+}

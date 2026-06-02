@@ -1,0 +1,42 @@
+{
+  "id": "deadlyslob",
+  "name": "DeadlySlob",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2014,
+  "platforms": [
+    {
+      "type": "twitch",
+      "handle": "DeadlySlob",
+      "url": "https://www.twitch.tv/deadlyslob",
+      "primary": true
+    },
+    {
+      "type": "youtube",
+      "handle": "DeadlySlob",
+      "url": "https://www.youtube.com/@deadlyslob",
+      "channelId": "UCvG50sPKoj869ml1jgA1RJg"
+    }
+  ],
+  "specialties": ["solo-pvp", "long-form", "challenge-runs"],
+  "games": ["escape-from-tarkov"],
+  "contentTypes": ["streams", "highlights"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "DeadlySlob es uno de los streamers más constantes de Tarkov solo PvP, con una serie diaria de \"Solo Raiding\" que documenta el viaje desde inicio de wipe hasta endgame con commentary técnico. Estadounidense, mezcla Tarkov con otros juegos pero mantiene cadencia diaria en Tarkov. Buen contrapunto a LVNDMARK: menos chad-tier mecánico, más decisión táctica y gestión de riesgo.",
+  "noteEn": "DeadlySlob is one of the most consistent solo PvP Tarkov streamers, with a daily \"Solo Raiding\" series documenting the journey from wipe start to endgame with technical commentary. American, mixes Tarkov with other games but maintains daily Tarkov cadence. A good counterpoint to LVNDMARK: less mechanical chad-tier, more tactical decision-making and risk management.",
+  "highlightsEs": [
+    "Serie \"Solo Raiding\" con day-by-day progress que documenta wipes enteros desde día 1.",
+    "Foco en decisión táctica y gestión de riesgo más que en aim raw — útil para jugadores que quieren mejorar gameplay sin tener reflejos de pro.",
+    "Streams largos en Twitch con highlights editados en YouTube — cubre ambos formatos.",
+    "Cobertura honest de bugs, gripes con balance y feedback de comunidad sin filtros."
+  ],
+  "highlightsEn": [
+    "\"Solo Raiding\" series with day-by-day progress documenting full wipes from day 1.",
+    "Focus on tactical decisions and risk management rather than raw aim — useful for players wanting to improve gameplay without pro-level reflexes.",
+    "Long Twitch streams with edited YouTube highlights — covers both formats.",
+    "Honest coverage of bugs, balance gripes, and unfiltered community feedback."
+  ],
+  "avatar": "/images/creators/deadlyslob-avatar.jpg",
+  "banner": "/images/creators/deadlyslob-banner.jpg"
+}

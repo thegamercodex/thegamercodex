@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "butcoffee-starting-strong-eft-2025",
+      "type": "video",
+      "title": "Beginner's Guide to Starting STRONG in Escape from Tarkov 1.0",
+      "creator": "ButCoffee",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=fUa-Q1Lhgps",
+      "youtubeId": "fUa-Q1Lhgps",
+      "language": "en",
+      "duration": "50:53",
+      "publishedDate": "2025-11-13",
+      "thumbnail": "https://i.ytimg.com/vi/fUa-Q1Lhgps/maxresdefault.jpg",
+      "noteEs": "Una de las guías más completas del lanzamiento 1.0: 50 minutos cubriendo prep mental, primera raid, hideout priorities y errores comunes que pierden gear evitable.",
+      "noteEn": "One of the most complete 1.0-launch guides: 50 minutes covering mental prep, first raid, hideout priorities, and common mistakes that lose avoidable gear."
+    },
+    {
+      "id": "airwingmarine-tips-they-dont-tell-you-eft-2025",
+      "type": "video",
+      "title": "Tarkov 1.0 Beginner to Pro: Tips They Don't Tell You",
+      "creator": "Airwingmarine",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ZxVu6J2gaE8",
+      "youtubeId": "ZxVu6J2gaE8",
+      "language": "en",
+      "duration": "16:02",
+      "publishedDate": "2025-12-08",
+      "thumbnail": "https://i.ytimg.com/vi/ZxVu6J2gaE8/maxresdefault.jpg",
+      "noteEs": "Tips de mecánicas ocultas y cambios de progresión post-1.0 que muchas guías brevemente cubren. Útil después de completar las primeras 5 raids para evitar trampas habituales.",
+      "noteEn": "Hidden mechanics and post-1.0 progression changes most guides only briefly cover. Useful after your first 5 raids to avoid common traps."
+    },
+    {
+      "id": "damontae-10-beginner-tips-eft-2026",
+      "type": "video",
+      "title": "10 Beginner Tips Every Tarkov Player Needs To Know 2026",
+      "creator": "Damontae Kxng",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=kdW-kjKwFqQ",
+      "youtubeId": "kdW-kjKwFqQ",
+      "language": "en",
+      "duration": "16:01",
+      "publishedDate": "2026-02-04",
+      "thumbnail": "https://i.ytimg.com/vi/kdW-kjKwFqQ/maxresdefault.jpg",
+      "noteEs": "Lista de tips concretos actualizada a 2026 con foco en quality-of-life y decisiones de pre-raid. Bueno como refresh para jugadores que vuelven después del lanzamiento.",
+      "noteEn": "Concrete tip list updated for 2026 focused on quality-of-life and pre-raid decisions. Good refresh for returning players post-launch."
+    },
+    {
+      "id": "happytogame-pve-first-10-raids-eft-2026",
+      "type": "video",
+      "title": "Tarkov PVE Beginner's Guide | First 10 Raids Survival",
+      "creator": "Happy To Game",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=RIUR3E10xcg",
+      "youtubeId": "RIUR3E10xcg",
+      "language": "en",
+      "duration": "6:02",
+      "publishedDate": "2026-01-24",
+      "thumbnail": "https://i.ytimg.com/vi/RIUR3E10xcg/maxresdefault.jpg",
+      "noteEs": "Guía específica para el modo PvE de 1.0 con foco en Ground Zero y las primeras 10 raids. Ideal si arrancas por el modo cooperativo en vez de PvP directo.",
+      "noteEn": "Specific guide for 1.0 PvE mode focused on Ground Zero and first 10 raids. Ideal if you start in co-op mode instead of straight PvP."
+    },
+    {
+      "id": "realfer-guia-basica-nuevo-wipe-eft-2024",
+      "type": "video",
+      "title": "GUÍA BÁSICA DEL NUEVO WIPE en ESCAPE FROM TARKOV",
+      "creator": "The_real_feR",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=TkZkEUxy-C0",
+      "youtubeId": "TkZkEUxy-C0",
+      "language": "es",
+      "duration": "22:31",
+      "publishedDate": "2024-12-26",
+      "thumbnail": "https://i.ytimg.com/vi/TkZkEUxy-C0/maxresdefault.jpg",
+      "noteEs": "Una de las pocas guías de wipe en español con cobertura sólida. Pre-1.0 pero los principios de prep mental, gestión de roubles y prioridades de quest siguen vigentes.",
+      "noteEn": "One of the few solid Spanish-language wipe guides. Pre-1.0 but the principles of mental prep, rouble management, and quest priorities still apply."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tarkov-wiki-gg-vs-tarkov-fandom-wiki",
+  "toolIds": ["tarkov-wiki-gg", "tarkov-fandom-wiki"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-06-01",
+  "verdictEs": "wiki.gg si quieres el mismo contenido sin ads invasivos. Fandom si Google te llevó ahí y no quieres cambiar.",
+  "verdictEn": "wiki.gg if you want the same content without invasive ads. Fandom if Google sent you there and you don't want to switch.",
+  "useCases": [
+    {
+      "labelEs": "Leer artículos largos sin distracciones publicitarias",
+      "labelEn": "Read long articles without ad distractions",
+      "winner": "tarkov-wiki-gg",
+      "reasonEs": "Sin display ads ni autoplay videos — la razón principal de la migración.",
+      "reasonEn": "No display ads or autoplay videos — the main reason for the migration."
+    },
+    {
+      "labelEs": "Buscar info rápida desde Google",
+      "labelEn": "Quick Google search for info",
+      "winner": "tarkov-fandom-wiki",
+      "reasonEs": "Sigue siendo el top result en SEO; aterrizas directo desde búsqueda.",
+      "reasonEn": "Still the top SEO result; you land directly from search."
+    },
+    {
+      "labelEs": "Contribuir con edits o nuevos artículos",
+      "labelEn": "Contribute edits or new articles",
+      "winner": "tarkov-wiki-gg",
+      "reasonEs": "La community editorial activa migró a wiki.gg en 2023.",
+      "reasonEn": "The active editorial community migrated to wiki.gg in 2023."
+    },
+    {
+      "labelEs": "Acceder a artículos legacy de mecánicas removidas",
+      "labelEn": "Access legacy articles on removed mechanics",
+      "winner": "tarkov-fandom-wiki",
+      "reasonEs": "Archivo histórico más completo de versiones antiguas que el wiki.gg no migró todo.",
+      "reasonEn": "More complete historical archive of old versions; wiki.gg didn't migrate everything."
+    },
+    {
+      "labelEs": "Performance de carga de página",
+      "labelEn": "Page load performance",
+      "winner": "tarkov-wiki-gg",
+      "reasonEs": "Sin tracking JS pesado de Fandom; carga significativamente más rápido.",
+      "reasonEn": "Without Fandom's heavy tracking JS, loads significantly faster."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pestily",
+  "name": "Pestily",
+  "realName": "Sherman",
+  "country": "AU",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2017,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "Pestily",
+      "url": "https://www.youtube.com/@Pestily",
+      "channelId": "UC142-qvFgwSS6UIU-fFCd6w",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "Pestily",
+      "url": "https://www.twitch.tv/pestily"
+    }
+  ],
+  "specialties": ["raids", "guides", "hideout", "long-form"],
+  "games": ["escape-from-tarkov"],
+  "contentTypes": ["streams", "long-form", "guides"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Pestily es el referente longevo de Escape from Tarkov en habla inglesa. Australiano con background militar, lleva años produciendo el formato \"Raid\" — playthroughs comentados que combinan gameplay y enseñanza pedagógica de mecánicas. Su contenido es lento y profundo, ideal para quien recién entra y quiere entender por qué pasa cada cosa, no solo qué hacer. Battlestate Games lo ha tenido en consideración consistentemente y ha aparecido en TarkovTV oficial.",
+  "noteEn": "Pestily is the longest-standing English-language Escape from Tarkov reference. Australian with a military background, he's spent years producing the \"Raid\" format — commented playthroughs that combine gameplay with pedagogical mechanic teaching. His content is slow and deep, ideal for someone just starting who wants to understand why things happen, not just what to do. Battlestate Games has consistently regarded him and he's appeared on official TarkovTV.",
+  "highlightsEs": [
+    "Creador de la serie \"Raid\", playthroughs largos con enseñanza embebida — el formato canónico de Tarkov en YouTube.",
+    "Background militar real que aplica a callouts, callsigns y disciplina táctica que se nota en su gameplay.",
+    "Aparece regularmente en TarkovTV oficial, lo que indica relación de confianza con Battlestate Games.",
+    "Cubre wipes enteros con series \"Hardcore\" donde arranca desde cero y documenta el viaje completo a Kappa."
+  ],
+  "highlightsEn": [
+    "Creator of the \"Raid\" series, long playthroughs with embedded teaching — the canonical Tarkov YouTube format.",
+    "Real military background that applies to callouts, callsigns, and tactical discipline visible in his gameplay.",
+    "Appears regularly on official TarkovTV, indicating a trust relationship with Battlestate Games.",
+    "Covers full wipes with \"Hardcore\" series where he starts from scratch and documents the full Kappa run."
+  ],
+  "avatar": "/images/creators/pestily-avatar.jpg",
+  "banner": "/images/creators/pestily-banner.jpg"
+}

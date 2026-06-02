@@ -1,0 +1,42 @@
+{
+  "id": "eroktic",
+  "name": "Eroktic",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "joinedYear": 2014,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "Eroktic",
+      "url": "https://www.youtube.com/@Eroktic",
+      "channelId": "UCHmvQlYVHbkm4oKkgqezgIg",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "Eroktic",
+      "url": "https://www.twitch.tv/eroktic"
+    }
+  ],
+  "specialties": ["guides", "tips", "long-form"],
+  "games": ["escape-from-tarkov"],
+  "contentTypes": ["videos", "streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Eroktic es uno de los creadores hispanohablantes con más años cubriendo Tarkov desde la beta cerrada. Su canal de YouTube tiene biblioteca extensa de guides de wipes pasados, lo que sirve de archivo histórico, plus contenido fresco con cada parche grande. Tono pausado y didáctico — más cerca del formato Pestily que del entertainment puro.",
+  "noteEn": "Eroktic is one of the Spanish-speaking creators with the most years covering Tarkov since closed beta. His YouTube channel has an extensive library of past-wipe guides serving as historical archive, plus fresh content with each major patch. Measured, didactic tone — closer to the Pestily format than pure entertainment.",
+  "highlightsEs": [
+    "Archivo histórico de guides desde wipes tempranos — útil para contextualizar cambios de balance.",
+    "Foco en explicación pedagógica con timing pausado para que principiantes asimilen mecánicas.",
+    "Cobertura de parches grandes con análisis editorial en español.",
+    "Twitch como espacio para Q&A y feedback de comunidad sobre dudas específicas."
+  ],
+  "highlightsEn": [
+    "Historical guide archive from early wipes — useful to contextualize balance changes.",
+    "Focus on pedagogical explanation with measured timing so beginners absorb mechanics.",
+    "Big-patch coverage with editorial analysis in Spanish.",
+    "Twitch as a space for Q&A and community feedback on specific doubts."
+  ],
+  "avatar": "/images/creators/eroktic-avatar.jpg",
+  "banner": "/images/creators/eroktic-banner.jpg"
+}

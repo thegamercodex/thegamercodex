@@ -1,0 +1,80 @@
+{
+  "category": "quest-and-hideout",
+  "resources": [
+    {
+      "id": "lvndmark-icebreaker-tasks-unlock-map-eft-2026",
+      "type": "video",
+      "title": "Completing ICEBREAKER tasks and FULLY unlocking the map - Escape From Tarkov",
+      "creator": "LVNDMARK",
+      "creatorId": "lvndmark",
+      "url": "https://www.youtube.com/watch?v=LFtSQe4AUX4",
+      "youtubeId": "LFtSQe4AUX4",
+      "language": "en",
+      "duration": "54:27",
+      "publishedDate": "2026-05-30",
+      "thumbnail": "https://i.ytimg.com/vi/LFtSQe4AUX4/maxresdefault.jpg",
+      "noteEs": "LVNDMARK trabaja todas las tasks del evento Icebreaker para desbloquear el mapa completo. Orden eficiente, decisiones de gear por task y dónde priorizar para no perder tiempo.",
+      "noteEn": "LVNDMARK works through every Icebreaker event task to fully unlock the map. Efficient order, per-task gear decisions, and where to prioritize so you don't waste time."
+    },
+    {
+      "id": "pestily-icebreaker-boss-farming-pt2-eft-2026",
+      "type": "video",
+      "title": "FARMING ICE BREAKER BOSS PT2 ! HOME FROM HOSPITAL",
+      "creator": "Pestily",
+      "creatorId": "pestily",
+      "url": "https://www.youtube.com/watch?v=7eR4a9k3Gds",
+      "youtubeId": "7eR4a9k3Gds",
+      "language": "en",
+      "duration": "4:38:29",
+      "publishedDate": "2026-05-28",
+      "thumbnail": "https://i.ytimg.com/vi/7eR4a9k3Gds/maxresdefault.jpg",
+      "noteEs": "Pestily farmea repetidamente al boss del evento Icebreaker en stream largo, mostrando approaches, fails y ajustes hasta consolidar una rutina confiable. Pedagogía Tarkov clásica.",
+      "noteEn": "Pestily repeatedly farms the Icebreaker event boss in a long stream, showing approaches, failures, and adjustments until consolidating a reliable routine. Classic Tarkov pedagogy."
+    },
+    {
+      "id": "jessekazam-icebreaker-day-3-event-quests-eft-2026",
+      "type": "video",
+      "title": "Icebreaker Day 3! Working on Event Quests - Escape From Tarkov",
+      "creator": "JesseKazam",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=TmB5-s5_VJI",
+      "youtubeId": "TmB5-s5_VJI",
+      "language": "en",
+      "duration": "11:54:59",
+      "publishedDate": "2026-05-27",
+      "thumbnail": "https://i.ytimg.com/vi/TmB5-s5_VJI/maxresdefault.jpg",
+      "noteEs": "JesseKazam dedica un stream completo a las event quests del Icebreaker en el día 3 del parche. Demuestra cómo se priorizan objetivos cuando la community aún descubre patrones.",
+      "noteEn": "JesseKazam dedicates a full stream to Icebreaker event quests on day 3 of the patch. Demonstrates how to prioritize objectives when the community is still discovering patterns."
+    },
+    {
+      "id": "jessekazam-figuring-out-kill-wedge-eft-2026",
+      "type": "video",
+      "title": "Figuring Out How To Kill Wedge - Escape From Tarkov",
+      "creator": "JesseKazam",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=tA-_uMwZYTo",
+      "youtubeId": "tA-_uMwZYTo",
+      "language": "en",
+      "duration": "9:07:28",
+      "publishedDate": "2026-05-28",
+      "thumbnail": "https://i.ytimg.com/vi/tA-_uMwZYTo/maxresdefault.jpg",
+      "noteEs": "Stream dedicado a descubrir cómo matar a Wedge, uno de los bosses del evento Icebreaker. Útil para entender el proceso de discovery en bosses nuevos antes de que existan guides estables.",
+      "noteEn": "Stream dedicated to figuring out how to kill Wedge, one of the Icebreaker event bosses. Useful to understand the discovery process for new bosses before stable guides exist."
+    },
+    {
+      "id": "jessekazam-complete-icebreaker-today-eft-2026",
+      "type": "video",
+      "title": "We Will Complete Icebreaker Today! - Escape From Tarkov",
+      "creator": "JesseKazam",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=hv1LeVrSy_A",
+      "youtubeId": "hv1LeVrSy_A",
+      "language": "en",
+      "duration": "10:40:46",
+      "publishedDate": "2026-05-26",
+      "thumbnail": "https://i.ytimg.com/vi/hv1LeVrSy_A/maxresdefault.jpg",
+      "noteEs": "Intento de completar todo el evento Icebreaker en una sesión. Demuestra el time commitment real necesario para clearear contenido temporal cuando recién sale.",
+      "noteEn": "Attempt to complete the entire Icebreaker event in one session. Demonstrates the real time commitment needed to clear timed content right after release."
+    }
+  ]
+}

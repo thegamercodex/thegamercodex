@@ -5,7 +5,7 @@
 
 ## Resumen
 
-24 juegos · 406 tools · 116 creators · 122 categorías · 610 resources items · 103 comparisons
+25 juegos · 423 tools · 120 creators · 127 categorías · 635 resources items · 110 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
@@ -17,6 +17,7 @@
 | `dota-2` | Dota 2 | 15 | 5 | 5 | 25 | 0 |
 | `elden-ring` | Elden Ring | 17 | 5 | 5 | 25 | 7 |
 | `elden-ring-nightreign` | Elden Ring Nightreign | 12 | 5 | 5 | 25 | 7 |
+| `escape-from-tarkov` | Escape from Tarkov | 17 | 4 | 5 | 25 | 7 |
 | `final-fantasy-xiv` | Final Fantasy XIV | 17 | 5 | 5 | 25 | 5 |
 | `genshin-impact` | Genshin Impact | 26 | 5 | 6 | 30 | 6 |
 | `honkai-star-rail` | Honkai: Star Rail | 16 | 3 | 5 | 25 | 3 |
@@ -155,6 +156,21 @@
 - `relic-guides` — 5 items
 
 **Comparisons (7)**: `fextralife-nightreign-vs-game8-nightreign` (flagship), `mobalytics-nightreign-vs-fextralife-nightreign` (short), `mobalytics-nightreign-vs-nightreign-calculator` (short), `mobalytics-nightreign-vs-relics-pro` (flagship), `nightreign-map-router-vs-map-labels-nightreign` (short), `nightreign-seamless-coop-vs-fun-is-allowed` (short), `relics-pro-vs-nightreign-calculator` (short)
+
+### Escape from Tarkov (`escape-from-tarkov`)
+
+**Tools (17)**: EFT Ammo Builder (`eft-ammo-builder`), EFT Monster Ammo Chart (`eft-monster`), Map Genie: Escape from Tarkov (`mapgenie-tarkov`), RatScanner (`ratscanner`), Single Player Tarkov (SPT) (`sp-tarkov`), SPT Forge (`spt-forge`), Tarkov Advisor (`tarkov-advisor`), Tarkov.dev (`tarkov-dev`), Escape from Tarkov Discord (`tarkov-discord`), Escape from Tarkov Wiki (Fandom) (`tarkov-fandom-wiki`), Tarkov Market (`tarkov-market`), r/EscapefromTarkov (`tarkov-subreddit`), What Time Is It In Tarkov Right Now (`tarkov-time`), TarkovTracker (`tarkov-tracker`), Escape from Tarkov Wiki (wiki.gg) (`tarkov-wiki-gg`), TarkovHead (`tarkovhead`), Totov Builder (`totov-builder`)
+
+**Creators (4)**: DeadlySlob (`deadlyslob`), Eroktic (`eroktic`), LVNDMARK (`lvndmark`), Pestily (`pestily`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `loadout-and-meta` — 5 items
+- `map-guides` — 5 items
+- `patch-and-events` — 5 items
+- `quest-and-hideout` — 5 items
+
+**Comparisons (7)**: `tarkov-dev-vs-tarkov-wiki-gg` (flagship), `tarkov-dev-vs-tarkovhead` (short), `tarkov-discord-vs-tarkov-subreddit` (short), `tarkov-market-vs-tarkov-dev` (short), `tarkov-tracker-vs-tarkov-advisor` (flagship), `tarkov-wiki-gg-vs-tarkov-fandom-wiki` (short), `totov-builder-vs-eft-ammo-builder` (short)
 
 ### Final Fantasy XIV (`final-fantasy-xiv`)
 

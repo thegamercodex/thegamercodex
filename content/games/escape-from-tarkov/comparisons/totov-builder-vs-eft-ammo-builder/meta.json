@@ -1,0 +1,46 @@
+{
+  "id": "totov-builder-vs-eft-ammo-builder",
+  "toolIds": ["totov-builder", "eft-ammo-builder"],
+  "category": "loadout",
+  "depth": "short",
+  "lastVerified": "2026-06-01",
+  "verdictEs": "Totov Builder si quieres filtros por trader level y open-source. EFT Ammo Builder si empiezas el loadout desde la munición hacia el arma.",
+  "verdictEn": "Totov Builder if you want trader-level filters and open-source. EFT Ammo Builder if you start the loadout from ammo toward the weapon.",
+  "useCases": [
+    {
+      "labelEs": "Armar build con filtros estrictos por nivel de trader",
+      "labelEn": "Build with strict trader-level filters",
+      "winner": "totov-builder",
+      "reasonEs": "Filtra mods bloqueados por trader rep real del jugador — feature único.",
+      "reasonEn": "Filters mods locked by the player's real trader rep — unique feature."
+    },
+    {
+      "labelEs": "Decidir arma a partir del ammo que quieres disparar",
+      "labelEn": "Pick a weapon based on the ammo you want to fire",
+      "winner": "eft-ammo-builder",
+      "reasonEs": "El flujo natural empieza por ammo y muestra armas compatibles.",
+      "reasonEn": "The natural flow starts with ammo and shows compatible weapons."
+    },
+    {
+      "labelEs": "Exportar preset para compartir con team",
+      "labelEn": "Export a preset to share with the team",
+      "winner": "totov-builder",
+      "reasonEs": "Export JSON con todo el build, incluyendo body armor y rig.",
+      "reasonEn": "JSON export with the full build, including body armor and rig."
+    },
+    {
+      "labelEs": "Comparar penetración entre calibres rápido",
+      "labelEn": "Quick penetration comparison between calibers",
+      "winner": "eft-ammo-builder",
+      "reasonEs": "UI orientada a ballistic stats por familia de calibre.",
+      "reasonEn": "UI oriented to ballistic stats per caliber family."
+    },
+    {
+      "labelEs": "Contribuir o auditar el código",
+      "labelEn": "Contribute to or audit the code",
+      "winner": "totov-builder",
+      "reasonEs": "Open-source en GitHub bajo GPL-3.0; EFT Ammo Builder es closed-source.",
+      "reasonEn": "Open-source on GitHub under GPL-3.0; EFT Ammo Builder is closed-source."
+    }
+  ]
+}

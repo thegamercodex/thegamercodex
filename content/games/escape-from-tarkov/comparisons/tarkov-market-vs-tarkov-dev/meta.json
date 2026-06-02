@@ -1,0 +1,46 @@
+{
+  "id": "tarkov-market-vs-tarkov-dev",
+  "toolIds": ["tarkov-market", "tarkov-dev"],
+  "category": "economy",
+  "depth": "short",
+  "lastVerified": "2026-06-01",
+  "verdictEs": "Tarkov Market para flipping, alerts y histórico de precios. Tarkov.dev para precio actual junto con todo lo demás del item.",
+  "verdictEn": "Tarkov Market for flipping, alerts, and price history. Tarkov.dev for current price along with everything else about the item.",
+  "useCases": [
+    {
+      "labelEs": "Alertas de precio cuando un item baja de un umbral",
+      "labelEn": "Price alerts when an item drops below a threshold",
+      "winner": "tarkov-market",
+      "reasonEs": "Sistema de alerts con notificaciones push en mobile que tarkov.dev no tiene.",
+      "reasonEn": "Alert system with mobile push notifications that tarkov.dev doesn't have."
+    },
+    {
+      "labelEs": "Ver precio actual rápido junto con stats del item",
+      "labelEn": "Quick current price along with item stats",
+      "winner": "tarkov-dev",
+      "reasonEs": "Página del item combina precio con recetas, tasks y links — un solo lugar.",
+      "reasonEn": "Item page combines price with recipes, tasks, and links — one place."
+    },
+    {
+      "labelEs": "Histórico de precios de 7-30 días para timing",
+      "labelEn": "7-30 day price history for timing",
+      "winner": "tarkov-market",
+      "reasonEs": "Gráficos de evolución por item que tarkov.dev no expone visualmente.",
+      "reasonEn": "Per-item evolution charts that tarkov.dev doesn't expose visually."
+    },
+    {
+      "labelEs": "API para datos en tu propia tool",
+      "labelEn": "API for data in your own tool",
+      "winner": "tarkov-dev",
+      "reasonEs": "GraphQL pública gratis; Tarkov Market tiene API pero más limitada.",
+      "reasonEn": "Free public GraphQL; Tarkov Market has an API but more limited."
+    },
+    {
+      "labelEs": "Comparar barter trade vs venta a trader",
+      "labelEn": "Compare barter trade vs trader sale",
+      "winner": "tarkov-market",
+      "reasonEs": "Sección dedicada a margen de barters que tarkov.dev no especializa.",
+      "reasonEn": "Section dedicated to barter margin that tarkov.dev doesn't specialize in."
+    }
+  ]
+}

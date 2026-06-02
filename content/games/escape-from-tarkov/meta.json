@@ -1,0 +1,148 @@
+{
+  "id": "escape-from-tarkov",
+  "name": "Escape from Tarkov",
+  "shortName": "Tarkov",
+  "developer": "Battlestate Games",
+  "releaseYear": 2025,
+  "officialUrl": "https://www.escapefromtarkov.com/",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/3932890/Escape_from_Tarkov/",
+      "appId": "3932890",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "epic",
+      "url": "https://store.epicgames.com/en-US/p/escape-from-tarkov",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["edition-upgrades", "stash-size", "dlc"],
+    "payToWin": true,
+    "noteEs": "Compra única (~$45 USD por la Standard Edition) con ediciones superiores (Left Behind, Prepare for Escape, Edge of Darkness, Unheard Edition) que dan más stash, mejores items iniciales, trader rep extra y, en el caso de Unheard, acceso a PvE coop privado. Las ediciones premium son la principal queja de pay-to-win: stash más grande y starter gear funcionan como ventaja material directa. Tras el lanzamiento de 1.0 en noviembre 2025 sumó Steam y Epic, manteniendo la venta directa en el launcher de Battlestate Games. Sin season pass ni battle pass — el modelo de ingresos sigue siendo la compra de ediciones.",
+    "noteEn": "One-time purchase (~$45 USD for the Standard Edition) with higher tiers (Left Behind, Prepare for Escape, Edge of Darkness, Unheard Edition) that grant larger stash, better starter items, extra trader rep, and — in Unheard's case — access to private PvE co-op. The premium editions are the main pay-to-win complaint: bigger stash and starter gear are direct material advantages. After the 1.0 launch in November 2025 it added Steam and Epic, while still selling through the Battlestate Games launcher. No season pass, no battle pass — the revenue model remains edition upgrades."
+  },
+  "platforms": ["windows"],
+  "genres": ["fps"],
+  "theme": {
+    "primary": "#7a5a2e",
+    "secondary": "#1a1814",
+    "accent": "#e89a3c",
+    "background": "#0b0a08",
+    "text": "#e8dcc8"
+  },
+  "logo": "/images/games/escape-from-tarkov-logo.png",
+  "heroImage": "/images/games/escape-from-tarkov-hero.webp",
+  "toolCategories": [
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Bases de datos, wikis e índices con stats de items, recetas de hideout, quests y rutas de trader",
+      "descriptionEn": "Databases, wikis, and indexes with item stats, hideout recipes, quests, and trader routes",
+      "icon": "📚"
+    },
+    {
+      "id": "maps",
+      "nameEs": "Mapas",
+      "nameEn": "Maps",
+      "descriptionEs": "Mapas interactivos con loot spawns, extracts, llaves y rutas por raid",
+      "descriptionEn": "Interactive maps with loot spawns, extracts, keys, and routes per raid",
+      "icon": "🗺️"
+    },
+    {
+      "id": "economy",
+      "nameEs": "Economía",
+      "nameEn": "Economy",
+      "descriptionEs": "Trackers de precios del flea market, márgenes de barter y monitoreo de la economía del wipe",
+      "descriptionEn": "Flea market price trackers, barter margins, and wipe economy monitoring",
+      "icon": "💰"
+    },
+    {
+      "id": "quest-tracking",
+      "nameEs": "Quests y Hideout",
+      "nameEn": "Quests & Hideout",
+      "descriptionEs": "Trackers de tasks y módulos del hideout que calculan items necesarios y coordinan progreso de team",
+      "descriptionEn": "Task and hideout module trackers that calculate required items and coordinate team progress",
+      "icon": "✅"
+    },
+    {
+      "id": "loadout",
+      "nameEs": "Loadouts y Armas",
+      "nameEn": "Loadouts & Weapons",
+      "descriptionEs": "Builders de armas, ammo charts y planificadores de gear para preparar raids con margen de costo",
+      "descriptionEn": "Weapon builders, ammo charts, and gear planners to prep raids with a cost margin",
+      "icon": "🔫"
+    },
+    {
+      "id": "companions",
+      "nameEs": "Companion",
+      "nameEn": "Companion",
+      "descriptionEs": "Overlays e indicadores externos que corren mientras estás en raid sin tocar archivos del juego",
+      "descriptionEn": "Overlays and external indicators that run while you're in raid without touching game files",
+      "icon": "📱"
+    },
+    {
+      "id": "modding",
+      "nameEs": "Single Player y Modding",
+      "nameEn": "Single Player & Modding",
+      "descriptionEs": "Single Player Tarkov y su ecosistema de mods para correr Tarkov offline con bots o coop privado",
+      "descriptionEn": "Single Player Tarkov and its mod ecosystem to run Tarkov offline with bots or private co-op",
+      "icon": "🧩"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial y subreddit donde la comunidad de Tarkov coordina raids, reporta bugs y discute meta",
+      "descriptionEn": "Official Discord and subreddit where the Tarkov community coordinates raids, reports bugs, and discusses meta",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos para sobrevivir tus primeras raids: cómo no morir en el primer minuto, mapas seguros y básico del flea",
+      "descriptionEn": "Resources to survive your first raids: how not to die in the first minute, safe maps, and flea basics",
+      "icon": "🌱"
+    },
+    {
+      "id": "map-guides",
+      "nameEs": "Guías de Mapas",
+      "nameEn": "Map Guides",
+      "descriptionEs": "Walkthroughs por mapa con spawns, extracts, rutas de loot y zonas calientes",
+      "descriptionEn": "Per-map walkthroughs with spawns, extracts, loot routes, and hot zones",
+      "icon": "🧭"
+    },
+    {
+      "id": "quest-and-hideout",
+      "nameEs": "Quests y Hideout",
+      "nameEn": "Quests & Hideout",
+      "descriptionEs": "Guías de tasks específicas, orden óptimo de quests por trader y prioridades de módulos del hideout",
+      "descriptionEn": "Guides for specific tasks, optimal quest order per trader, and hideout module priorities",
+      "icon": "📋"
+    },
+    {
+      "id": "loadout-and-meta",
+      "nameEs": "Loadouts y Meta",
+      "nameEn": "Loadouts & Meta",
+      "descriptionEs": "Builds de armas por presupuesto, meta ammo, gear y picks por nivel de trader del wipe actual",
+      "descriptionEn": "Weapon builds by budget, meta ammo, gear, and picks by trader level for the current wipe",
+      "icon": "📊"
+    },
+    {
+      "id": "patch-and-events",
+      "nameEs": "Parches y Eventos",
+      "nameEn": "Patches & Events",
+      "descriptionEs": "Cobertura de parches, eventos de temporada, ajustes de balance y la story campaign post-1.0",
+      "descriptionEn": "Patch coverage, seasonal events, balance changes, and the post-1.0 story campaign",
+      "icon": "📰"
+    }
+  ]
+}

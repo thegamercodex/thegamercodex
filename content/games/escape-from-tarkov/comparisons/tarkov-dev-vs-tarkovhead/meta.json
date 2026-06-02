@@ -1,0 +1,46 @@
+{
+  "id": "tarkov-dev-vs-tarkovhead",
+  "toolIds": ["tarkov-dev", "tarkovhead"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-06-01",
+  "verdictEs": "Tarkov.dev como base de datos pura. TarkovHead cuando quieres quests cross-linked a guides y recaps editoriales de TarkovTV.",
+  "verdictEn": "Tarkov.dev as a pure database. TarkovHead when you want quests cross-linked to guides and editorial recaps of TarkovTV.",
+  "useCases": [
+    {
+      "labelEs": "Consulta rápida de datos crudos",
+      "labelEn": "Fast raw data lookup",
+      "winner": "tarkov-dev",
+      "reasonEs": "Minimalista y rápido, sin layout editorial extra.",
+      "reasonEn": "Minimalist and fast, without extra editorial layout."
+    },
+    {
+      "labelEs": "Quest panel con guides linkeadas",
+      "labelEn": "Quest panel with linked guides",
+      "winner": "tarkovhead",
+      "reasonEs": "TarkovHead conecta visualmente quests con video guides y mapas.",
+      "reasonEn": "TarkovHead visually connects quests with video guides and maps."
+    },
+    {
+      "labelEs": "Recap de TarkovTV streams oficiales",
+      "labelEn": "Recap of official TarkovTV streams",
+      "winner": "tarkovhead",
+      "reasonEs": "Section dedicada a resumir anuncios de BSG por escrito.",
+      "reasonEn": "Dedicated section recapping BSG announcements in writing."
+    },
+    {
+      "labelEs": "API programática para tu propia tool",
+      "labelEn": "Programmatic API for your own tool",
+      "winner": "tarkov-dev",
+      "reasonEs": "GraphQL pública gratis; TarkovHead no expone API equivalente.",
+      "reasonEn": "Free public GraphQL; TarkovHead has no equivalent API."
+    },
+    {
+      "labelEs": "Velocidad de actualización post-parche",
+      "labelEn": "Post-patch update speed",
+      "winner": "tarkov-dev",
+      "reasonEs": "Updates en horas vía community; TarkovHead suele tener lag.",
+      "reasonEn": "Updates in hours via community; TarkovHead tends to lag."
+    }
+  ]
+}

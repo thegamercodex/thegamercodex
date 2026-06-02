@@ -1,0 +1,42 @@
+{
+  "id": "lvndmark",
+  "name": "LVNDMARK",
+  "country": "NL",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2018,
+  "platforms": [
+    {
+      "type": "twitch",
+      "handle": "LVNDMARK",
+      "url": "https://www.twitch.tv/lvndmark",
+      "primary": true
+    },
+    {
+      "type": "youtube",
+      "handle": "LVNDMARK",
+      "url": "https://www.youtube.com/@lvndmark",
+      "channelId": "UCOhsgjMEyldgS04MiP2x-zA"
+    }
+  ],
+  "specialties": ["pvp", "aim", "high-skill"],
+  "games": ["escape-from-tarkov"],
+  "contentTypes": ["streams", "highlights"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "LVNDMARK es el streamer top de Tarkov por horas vistas según métricas de Twitch (más de 120,000 horas en una semana típica). Su contenido es PvP puro con un nivel de gunplay y reacción que la mayoría de jugadores no replica nunca. No es educativo per se — es performance — pero ver cómo procesa información en raid es lección por imitación. Holandés, principalmente en Twitch con highlights en YouTube.",
+  "noteEn": "LVNDMARK is the top Tarkov streamer by watched hours according to Twitch metrics (over 120,000 hours in a typical week). His content is pure PvP with a gunplay and reaction level most players never replicate. Not educational per se — it's performance — but watching how he processes information in raid is a lesson through imitation. Dutch, mainly on Twitch with YouTube highlights.",
+  "highlightsEs": [
+    "Top streamer de Tarkov por viewership consistente — referencia obligada para gameplay PvP de élite.",
+    "Highlights de YouTube curated por third parties suelen ser la primera exposición casual a su skill ceiling.",
+    "Setup y settings son referencia común en la comunidad — muchos buscan replicar su sensitivity y keybinds.",
+    "Especializado en \"chad\" runs: gear pesado, agresión, y resolución de fights donde otros se mueren."
+  ],
+  "highlightsEn": [
+    "Top Tarkov streamer by consistent viewership — a required reference for elite PvP gameplay.",
+    "Third-party-curated YouTube highlights are usually the first casual exposure to his skill ceiling.",
+    "Setup and settings are a common community reference — many seek to replicate his sensitivity and keybinds.",
+    "Specialized in \"chad\" runs: heavy gear, aggression, and resolving fights where others die."
+  ],
+  "avatar": "/images/creators/lvndmark-avatar.jpg",
+  "banner": "/images/creators/lvndmark-banner.jpg"
+}

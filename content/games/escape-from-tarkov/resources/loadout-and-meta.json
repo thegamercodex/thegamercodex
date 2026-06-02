@@ -1,0 +1,80 @@
+{
+  "category": "loadout-and-meta",
+  "resources": [
+    {
+      "id": "gigabeef-weapons-new-way-eft-2026",
+      "type": "video",
+      "title": "You'll NEVER Build Tarkov Weapons The Same Way Again...",
+      "creator": "Gigabeef",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=XM8hWHOocw8",
+      "youtubeId": "XM8hWHOocw8",
+      "language": "en",
+      "duration": "20:33",
+      "publishedDate": "2026-05-27",
+      "thumbnail": "https://i.ytimg.com/vi/XM8hWHOocw8/maxresdefault.jpg",
+      "noteEs": "Gigabeef analiza cambios meta en cómo armar weapons post-1.0: prioridades de mod, balance de ergonomía vs recoil y por qué algunas builds que eran S-tier dejaron de serlo.",
+      "noteEn": "Gigabeef analyzes post-1.0 meta changes in how to build weapons: mod priorities, ergo-vs-recoil balance, and why some S-tier builds aren't anymore."
+    },
+    {
+      "id": "lvndmark-aa12-shotgun-icebreaker-eft-2026",
+      "type": "video",
+      "title": "Is taking the AA-12 Shotgun to Icebreaker a good idea - Escape From Tarkov",
+      "creator": "LVNDMARK",
+      "creatorId": "lvndmark",
+      "url": "https://www.youtube.com/watch?v=7uK3fiUJC-w",
+      "youtubeId": "7uK3fiUJC-w",
+      "language": "en",
+      "duration": "34:09",
+      "publishedDate": "2026-05-31",
+      "thumbnail": "https://i.ytimg.com/vi/7uK3fiUJC-w/maxresdefault.jpg",
+      "noteEs": "Test empírico del AA-12 (shotgun automática) como pick para el contenido Icebreaker. LVNDMARK valida si la teoría funciona en práctica con dispersión, daño por slot y rituales de munición.",
+      "noteEn": "Empirical test of the AA-12 (automatic shotgun) as a pick for Icebreaker content. LVNDMARK validates whether theory works in practice with spread, damage per slot, and ammo handling."
+    },
+    {
+      "id": "lvndmark-pkm-icebreaker-eft-2026",
+      "type": "video",
+      "title": "The PKM works SURPRISINGLY WELL on Icebreaker - Escape From Tarkov",
+      "creator": "LVNDMARK",
+      "creatorId": "lvndmark",
+      "url": "https://www.youtube.com/watch?v=mL4a-2gv8v8",
+      "youtubeId": "mL4a-2gv8v8",
+      "language": "en",
+      "duration": "28:19",
+      "publishedDate": "2026-05-30",
+      "thumbnail": "https://i.ytimg.com/vi/mL4a-2gv8v8/maxresdefault.jpg",
+      "noteEs": "Sorpresa de meta: la PKM (light machine gun pesada) resulta efectiva en el escenario Icebreaker. Análisis de por qué un loadout antes considerado meme se vuelve viable según el mapa.",
+      "noteEn": "Meta surprise: the PKM (heavy LMG) turns out effective in the Icebreaker scenario. Analysis of why a previously meme loadout becomes viable depending on the map."
+    },
+    {
+      "id": "lvndmark-money-per-raid-icebreaker-eft-2026",
+      "type": "video",
+      "title": "How Much MONEY Can I Make in 1 RAID on ICEBREAKER? - Escape From Tarkov",
+      "creator": "LVNDMARK",
+      "creatorId": "lvndmark",
+      "url": "https://www.youtube.com/watch?v=DvmdKF_tiSc",
+      "youtubeId": "DvmdKF_tiSc",
+      "language": "en",
+      "duration": "24:37",
+      "publishedDate": "2026-05-31",
+      "thumbnail": "https://i.ytimg.com/vi/DvmdKF_tiSc/maxresdefault.jpg",
+      "noteEs": "Análisis económico: cuánto rouble se puede sacar de una raid efectiva en el escenario Icebreaker. Útil para calibrar expectativas y decidir si el mapa vale el riesgo según tu nivel.",
+      "noteEn": "Economic analysis: how many roubles can be earned from an effective raid in the Icebreaker scenario. Useful to calibrate expectations and decide if the map is worth the risk at your level."
+    },
+    {
+      "id": "gigabeef-pay-to-win-tarkov-eft-2026",
+      "type": "video",
+      "title": "We Need To Talk About Pay To Win Again In Tarkov...",
+      "creator": "Gigabeef",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=SoMUwqKTv4c",
+      "youtubeId": "SoMUwqKTv4c",
+      "language": "en",
+      "duration": "10:40",
+      "publishedDate": "2026-05-23",
+      "thumbnail": "https://i.ytimg.com/vi/SoMUwqKTv4c/maxresdefault.jpg",
+      "noteEs": "Análisis crítico del modelo pay-to-win de Tarkov post-1.0, particularmente con las ediciones premium y stash size. Lectura honesta del debate de monetización en la comunidad.",
+      "noteEn": "Critical analysis of Tarkov's post-1.0 pay-to-win model, particularly with premium editions and stash size. Honest read on the community's monetization debate."
+    }
+  ]
+}

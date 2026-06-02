@@ -1,0 +1,46 @@
+{
+  "id": "tarkov-dev-vs-tarkov-wiki-gg",
+  "toolIds": ["tarkov-dev", "tarkov-wiki-gg"],
+  "category": "reference",
+  "depth": "flagship",
+  "lastVerified": "2026-06-01",
+  "verdictEs": "Tarkov.dev si quieres datos actualizados al instante y una API. Tarkov Wiki (wiki.gg) si quieres lore, context narrativo y artículos largos sobre mecánicas.",
+  "verdictEn": "Tarkov.dev if you want instantly-updated data and an API. Tarkov Wiki (wiki.gg) if you want lore, narrative context, and long articles on mechanics.",
+  "useCases": [
+    {
+      "labelEs": "Buscar precio actual de venta de un item",
+      "labelEn": "Look up the current sell price of an item",
+      "winner": "tarkov-dev",
+      "reasonEs": "Tarkov.dev refresca precios del flea en horas; el wiki tarda semanas.",
+      "reasonEn": "Tarkov.dev refreshes flea prices in hours; the wiki takes weeks."
+    },
+    {
+      "labelEs": "Leer la historia y lore de un trader",
+      "labelEn": "Read a trader's background and lore",
+      "winner": "tarkov-wiki-gg",
+      "reasonEs": "El wiki tiene artículos editoriales con contexto narrativo que tarkov.dev no incluye.",
+      "reasonEn": "The wiki has editorial articles with narrative context that tarkov.dev doesn't include."
+    },
+    {
+      "labelEs": "Consultar requisitos exactos de una task FIR",
+      "labelEn": "Check exact FIR requirements for a task",
+      "winner": "tarkov-dev",
+      "reasonEs": "Datos estructurados con deeplinks a items, traders y prerequisitos relacionados.",
+      "reasonEn": "Structured data with deep links to related items, traders, and prerequisites."
+    },
+    {
+      "labelEs": "Investigar mecánicas históricas removidas o cambiadas",
+      "labelEn": "Research removed or changed historic mechanics",
+      "winner": "tarkov-wiki-gg",
+      "reasonEs": "El wiki documenta cambios y mecánicas removidas; tarkov.dev solo refleja el state actual.",
+      "reasonEn": "The wiki documents changes and removed mechanics; tarkov.dev only reflects the current state."
+    },
+    {
+      "labelEs": "Construir tu propia tool encima de los datos del juego",
+      "labelEn": "Build your own tool on top of game data",
+      "winner": "tarkov-dev",
+      "reasonEs": "API GraphQL pública y gratuita; el wiki no expone datos programáticos.",
+      "reasonEn": "Free public GraphQL API; the wiki doesn't expose programmatic data."
+    }
+  ]
+}

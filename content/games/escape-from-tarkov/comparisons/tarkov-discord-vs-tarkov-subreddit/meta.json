@@ -1,0 +1,46 @@
+{
+  "id": "tarkov-discord-vs-tarkov-subreddit",
+  "toolIds": ["tarkov-discord", "tarkov-subreddit"],
+  "category": "community",
+  "depth": "short",
+  "lastVerified": "2026-06-01",
+  "verdictEs": "Discord para conversación real-time, LFG y anuncios oficiales. Subreddit para discusión async profunda, drama meta y clips virales.",
+  "verdictEn": "Discord for real-time conversation, LFG, and official announcements. Subreddit for async deep discussion, meta drama, and viral clips.",
+  "useCases": [
+    {
+      "labelEs": "Buscar partners de raid ahora mismo",
+      "labelEn": "Find raid partners right now",
+      "winner": "tarkov-discord",
+      "reasonEs": "Canales de LFG con conversación en vivo y respuesta inmediata.",
+      "reasonEn": "LFG channels with live conversation and immediate response."
+    },
+    {
+      "labelEs": "Discusión profunda y archivable sobre balance",
+      "labelEn": "Deep archivable discussion on balance",
+      "winner": "tarkov-subreddit",
+      "reasonEs": "Threading nativo permite arguments largos searchable después.",
+      "reasonEn": "Native threading allows long searchable arguments later."
+    },
+    {
+      "labelEs": "Recibir anuncios oficiales de BSG primero",
+      "labelEn": "Get official BSG announcements first",
+      "winner": "tarkov-discord",
+      "reasonEs": "Battlestate publica en sus canales antes que en otras plataformas.",
+      "reasonEn": "Battlestate posts in its channels before other platforms."
+    },
+    {
+      "labelEs": "Compartir clip viral y conseguir alcance",
+      "labelEn": "Share a viral clip and get reach",
+      "winner": "tarkov-subreddit",
+      "reasonEs": "Karma system + algoritmo de Reddit dan alcance natural a contenido bueno.",
+      "reasonEn": "Karma system + Reddit's algorithm naturally amplify good content."
+    },
+    {
+      "labelEs": "Reportar bug y conseguir tracción rápida",
+      "labelEn": "Report a bug and get fast traction",
+      "winner": "tarkov-subreddit",
+      "reasonEs": "Posts virales en el subreddit han causado hotfixes BSG en horas.",
+      "reasonEn": "Viral posts on the subreddit have caused BSG hotfixes in hours."
+    }
+  ]
+}
