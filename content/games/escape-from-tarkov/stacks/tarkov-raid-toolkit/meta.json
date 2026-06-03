@@ -1,0 +1,32 @@
+{
+  "id": "tarkov-raid-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "tarkov-dev",
+      "roleEs": "La referencia todo-en-uno: items, quests, barters, hideout y datos del flea, mantenida por la comunidad.",
+      "roleEn": "The all-in-one reference: items, quests, barters, hideout, and flea data, community-maintained."
+    },
+    {
+      "toolId": "tarkov-market",
+      "roleEs": "Precios del flea market en tiempo real para saber qué vale la pena vender, comprar o lootear.",
+      "roleEn": "Real-time flea market prices to know what's worth selling, buying, or looting."
+    },
+    {
+      "toolId": "tarkov-tracker",
+      "roleEs": "Seguimiento de progreso de quests y hideout, con qué items guardar para tareas futuras.",
+      "roleEn": "Quest and hideout progress tracking, including which items to keep for future tasks."
+    },
+    {
+      "toolId": "mapgenie-tarkov",
+      "roleEs": "Mapas interactivos con extracts, spawns, loot y ubicaciones de quest por mapa.",
+      "roleEn": "Interactive maps with extracts, spawns, loot, and quest locations per map."
+    },
+    {
+      "toolId": "totov-builder",
+      "roleEs": "Armado y comparación de gun builds para optimizar daño, ergonomía y costo antes del raid.",
+      "roleEn": "Gun build creation and comparison to optimize damage, ergonomics, and cost before the raid."
+    }
+  ]
+}

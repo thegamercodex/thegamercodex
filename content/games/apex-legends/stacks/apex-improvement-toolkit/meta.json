@@ -1,0 +1,32 @@
+{
+  "id": "apex-improvement-toolkit",
+  "category": "improvement",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "apex-tracker-gg",
+      "roleEs": "Tu match history, stats por leyenda y arma, y el tracking de rank a lo largo de la temporada.",
+      "roleEn": "Your match history, stats by legend and weapon, and rank tracking across the season."
+    },
+    {
+      "toolId": "prosettings-apex",
+      "roleEs": "Configuración, sensibilidad y setup de los pros, para partir de una base probada en vez de adivinar.",
+      "roleEn": "Pro configuration, sensitivity, and setup, so you start from a proven baseline instead of guessing."
+    },
+    {
+      "toolId": "sens-converter-apex",
+      "roleEs": "Convierte tu sensibilidad desde otro shooter para mantener la misma memoria muscular en Apex.",
+      "roleEn": "Converts your sensitivity from another shooter to keep the same muscle memory in Apex."
+    },
+    {
+      "toolId": "drybear-ttk-calculator",
+      "roleEs": "Calcula el TTK de cada arma para elegir el loadout más eficiente según el rango de pelea.",
+      "roleEn": "Calculates each weapon's TTK to pick the most efficient loadout for the fight range."
+    },
+    {
+      "toolId": "apex-legends-status",
+      "roleEs": "Estado del juego en vivo: rotación de mapas de ranked y pubs, y predicción de qué mapa viene.",
+      "roleEn": "Live game status: ranked and pubs map rotation, and a prediction of which map is next."
+    }
+  ]
+}

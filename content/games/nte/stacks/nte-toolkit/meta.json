@@ -1,0 +1,32 @@
+{
+  "id": "nte-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "prydwen-nte",
+      "roleEs": "Guías de personaje y tier lists: con quién combina cada uno y qué priorizar al construirlo.",
+      "roleEn": "Character guides and tier lists: who each one combines with and what to prioritize when building them."
+    },
+    {
+      "toolId": "nte-guide",
+      "roleEs": "Guías generales y de progresión para orientarte en el juego desde temprano.",
+      "roleEn": "General and progression guides to orient yourself in the game early on."
+    },
+    {
+      "toolId": "zero-luck-nte",
+      "roleEs": "Builds y theorycraft más profundo para optimizar a tus personajes principales.",
+      "roleEn": "Deeper builds and theorycraft to optimize your main characters."
+    },
+    {
+      "toolId": "interactive-map-nte",
+      "roleEs": "Mapa interactivo para encontrar coleccionables, recursos y puntos de interés del mundo.",
+      "roleEn": "Interactive map to find collectibles, resources, and points of interest in the world."
+    },
+    {
+      "toolId": "nte-wiki-tools",
+      "roleEs": "Herramientas de tracking de gacha y banners para planear tus tiradas y seguir el pity.",
+      "roleEn": "Gacha and banner tracking tools to plan your pulls and follow pity."
+    }
+  ]
+}

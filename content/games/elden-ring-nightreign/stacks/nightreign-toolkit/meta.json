@@ -1,0 +1,32 @@
+{
+  "id": "nightreign-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "mobalytics-nightreign",
+      "roleEs": "Guías de Nightfarer y tier lists: qué personaje jugar, qué build armar y cómo abordar cada jefe.",
+      "roleEn": "Nightfarer guides and tier lists: which character to play, what build to run, and how to approach each boss."
+    },
+    {
+      "toolId": "relics-pro",
+      "roleEs": "Planificación y optimización de relics para sacarle el máximo a las pasivas de tu personaje.",
+      "roleEn": "Relic planning and optimization to get the most out of your character's passives."
+    },
+    {
+      "toolId": "nightreign-calculator",
+      "roleEs": "Calculadora de stats y daño para comparar setups con números en vez de a ojo.",
+      "roleEn": "Stats and damage calculator to compare setups with numbers instead of by eye."
+    },
+    {
+      "toolId": "nightreign-map-router",
+      "roleEs": "Rutas óptimas del mapa por expedición, para maximizar runas y preparación antes del jefe final.",
+      "roleEn": "Optimal map routes per expedition, to maximize runes and prep before the final boss."
+    },
+    {
+      "toolId": "fextralife-nightreign",
+      "roleEs": "La wiki de referencia: personajes, jefes, items y mecánicas cuando necesitas consultar algo puntual.",
+      "roleEn": "The reference wiki: characters, bosses, items, and mechanics when you need to look something up."
+    }
+  ]
+}

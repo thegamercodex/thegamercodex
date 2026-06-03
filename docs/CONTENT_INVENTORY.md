@@ -5,35 +5,35 @@
 
 ## Resumen
 
-25 juegos · 423 tools · 120 creators · 127 categorías · 635 resources items · 131 comparisons
+25 juegos · 423 tools · 120 creators · 127 categorías · 635 resources items · 131 comparisons · 25 stacks
 
-| Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
-|---|---|---:|---:|---:|---:|---:|
-| `apex-legends` | Apex Legends | 13 | 5 | 5 | 25 | 5 |
-| `counter-strike-2` | Counter-Strike 2 | 17 | 5 | 5 | 25 | 4 |
-| `cyberpunk-2077` | Cyberpunk 2077 | 17 | 5 | 5 | 25 | 3 |
-| `destiny-2` | Destiny 2 | 14 | 5 | 5 | 25 | 3 |
-| `diablo-4` | Diablo IV | 24 | 4 | 5 | 25 | 9 |
-| `dota-2` | Dota 2 | 15 | 5 | 5 | 25 | 3 |
-| `elden-ring` | Elden Ring | 17 | 5 | 5 | 25 | 7 |
-| `elden-ring-nightreign` | Elden Ring Nightreign | 12 | 5 | 5 | 25 | 7 |
-| `escape-from-tarkov` | Escape from Tarkov | 17 | 4 | 5 | 25 | 7 |
-| `final-fantasy-xiv` | Final Fantasy XIV | 17 | 5 | 5 | 25 | 5 |
-| `genshin-impact` | Genshin Impact | 26 | 5 | 6 | 30 | 6 |
-| `honkai-star-rail` | Honkai: Star Rail | 16 | 3 | 5 | 25 | 3 |
-| `last-epoch` | Last Epoch | 17 | 5 | 5 | 25 | 10 |
-| `league-of-legends` | League of Legends | 17 | 5 | 5 | 25 | 4 |
-| `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 |
-| `nte` | Neverness to Everness | 12 | 5 | 5 | 25 | 4 |
-| `palworld` | Palworld | 17 | 5 | 5 | 25 | 4 |
-| `path-of-exile` | Path of Exile | 19 | 5 | 5 | 25 | 7 |
-| `path-of-exile-2` | Path of Exile 2 | 21 | 5 | 5 | 25 | 8 |
-| `rust` | Rust | 16 | 4 | 5 | 25 | 5 |
-| `skyrim` | The Elder Scrolls V: Skyrim | 21 | 5 | 5 | 25 | 5 |
-| `valheim` | Valheim | 16 | 5 | 5 | 25 | 4 |
-| `valorant` | Valorant | 17 | 5 | 5 | 25 | 4 |
-| `windrose` | Windrose | 14 | 5 | 5 | 25 | 4 |
-| `world-of-warcraft` | World of Warcraft | 18 | 5 | 6 | 30 | 5 |
+| Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons | Stacks |
+|---|---|---:|---:|---:|---:|---:|---:|
+| `apex-legends` | Apex Legends | 13 | 5 | 5 | 25 | 5 | 1 |
+| `counter-strike-2` | Counter-Strike 2 | 17 | 5 | 5 | 25 | 4 | 1 |
+| `cyberpunk-2077` | Cyberpunk 2077 | 17 | 5 | 5 | 25 | 3 | 1 |
+| `destiny-2` | Destiny 2 | 14 | 5 | 5 | 25 | 3 | 1 |
+| `diablo-4` | Diablo IV | 24 | 4 | 5 | 25 | 9 | 1 |
+| `dota-2` | Dota 2 | 15 | 5 | 5 | 25 | 3 | 1 |
+| `elden-ring` | Elden Ring | 17 | 5 | 5 | 25 | 7 | 1 |
+| `elden-ring-nightreign` | Elden Ring Nightreign | 12 | 5 | 5 | 25 | 7 | 1 |
+| `escape-from-tarkov` | Escape from Tarkov | 17 | 4 | 5 | 25 | 7 | 1 |
+| `final-fantasy-xiv` | Final Fantasy XIV | 17 | 5 | 5 | 25 | 5 | 1 |
+| `genshin-impact` | Genshin Impact | 26 | 5 | 6 | 30 | 6 | 1 |
+| `honkai-star-rail` | Honkai: Star Rail | 16 | 3 | 5 | 25 | 3 | 1 |
+| `last-epoch` | Last Epoch | 17 | 5 | 5 | 25 | 10 | 1 |
+| `league-of-legends` | League of Legends | 17 | 5 | 5 | 25 | 4 | 1 |
+| `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 | 1 |
+| `nte` | Neverness to Everness | 12 | 5 | 5 | 25 | 4 | 1 |
+| `palworld` | Palworld | 17 | 5 | 5 | 25 | 4 | 1 |
+| `path-of-exile` | Path of Exile | 19 | 5 | 5 | 25 | 7 | 1 |
+| `path-of-exile-2` | Path of Exile 2 | 21 | 5 | 5 | 25 | 8 | 1 |
+| `rust` | Rust | 16 | 4 | 5 | 25 | 5 | 1 |
+| `skyrim` | The Elder Scrolls V: Skyrim | 21 | 5 | 5 | 25 | 5 | 1 |
+| `valheim` | Valheim | 16 | 5 | 5 | 25 | 4 | 1 |
+| `valorant` | Valorant | 17 | 5 | 5 | 25 | 4 | 1 |
+| `windrose` | Windrose | 14 | 5 | 5 | 25 | 4 | 1 |
+| `world-of-warcraft` | World of Warcraft | 18 | 5 | 6 | 30 | 5 | 1 |
 
 ## Por juego
 
@@ -52,6 +52,8 @@
 
 **Comparisons (5)**: `apex-legends-wiki-vs-liquipedia-apex` (short), `apex-tracker-gg-vs-apex-legends-status` (flagship), `apexseasons-weapon-stats-vs-drybear-ttk-calculator` (short), `blitz-apex-vs-stryda-apex` (short), `prosettings-apex-vs-sens-converter-apex` (short)
 
+**Stacks (1)**: `apex-improvement-toolkit` (5 tools)
+
 ### Counter-Strike 2 (`counter-strike-2`)
 
 **Tools (17)**: Aim Botz (`aim-botz`), CS.MONEY (`cs-money`), Counter-Strike 2 Community Discord (`cs2-discord`), r/GlobalOffensive (`cs2-subreddit`), CSGOSTASH (`csgostash`), CSNADES.gg (`csnades-gg`), CS Stats (`csstats-gg`), ESEA (`esea`), Faceit (`faceit`), HLTV.org (`hltv`), HLTV Live Matches (`hltv-live-matches`), Leetify (`leetify`), Liquipedia Counter-Strike (`liquipedia-cs`), scope.gg (`scope-gg`), Simple Radar (`simple-radar`), Steam Community Market (`steam-community-market`), Tracker.gg CS2 (`tracker-gg-cs2`)
@@ -66,6 +68,8 @@
 - `patch-coverage` — 5 items
 
 **Comparisons (4)**: `faceit-vs-esea` (short), `hltv-vs-liquipedia-cs` (short), `leetify-vs-csstats-gg` (short), `scope-gg-vs-leetify` (short)
+
+**Stacks (1)**: `cs2-improvement-toolkit` (5 tools)
 
 ### Cyberpunk 2077 (`cyberpunk-2077`)
 
@@ -82,6 +86,8 @@
 
 **Comparisons (3)**: `cyber-engine-tweaks-vs-red4ext` (short), `official-build-planner-vs-nukes-and-dragons` (short), `vortex-mod-manager-vs-redmod` (short)
 
+**Stacks (1)**: `cyberpunk-modding-toolkit` (6 tools)
+
 ### Destiny 2 (`destiny-2`)
 
 **Tools (14)**: Braytech (`braytech`), D2 Checklist (`d2-checklist`), D2 Foundry (`d2-foundry`), Destiny Recipes (`destiny-recipes`), Destiny Tracker (`destiny-tracker`), Destiny 2 Discord (r/DestinyTheGame) (`destiny2-discord`), r/DestinyTheGame (`destiny2-subreddit`), Destiny Item Manager (`dim`), Ishtar Collective (`ishtar-collective`), light.gg (`light-gg`), Raid Report (`raid-report`), The100.io (`the100`), Trials Report (`trials-report`), Where Is Xur (`where-is-xur`)
@@ -96,6 +102,8 @@
 - `season-overviews` — 5 items
 
 **Comparisons (3)**: `dim-vs-braytech` (short), `light-gg-vs-d2-foundry` (short), `trials-report-vs-destiny-tracker` (short)
+
+**Stacks (1)**: `destiny-2-endgame-toolkit` (5 tools)
 
 ### Diablo IV (`diablo-4`)
 
@@ -112,6 +120,8 @@
 
 **Comparisons (9)**: `d4builds-overlay-vs-mobalytics-d4-overlay` (short), `d4builds-vs-d4-planner` (short), `d4paragon-vs-d4-planner` (short), `diablo-trade-vs-traderie-d4` (short), `diablo4-dad-vs-diablo4codex` (short), `helltides-vs-diablo4-life` (short), `maxroll-d4-vs-mobalytics-d4` (flagship), `mobalytics-d4-vs-icy-veins-d4` (short), `wowhead-d4-vs-fextralife-d4` (short)
 
+**Stacks (1)**: `diablo-4-toolkit` (6 tools)
+
 ### Dota 2 (`dota-2`)
 
 **Tools (15)**: datdota (`datdota`), DOTA 2 Replay Manager (`dota-2-replay-manager`), Dota 2 Wiki (`dota-2-wiki`), Dota Coach (`dota-coach`), Dota Plus (`dota-plus`), Dota 2 Community Discord (`dota2-discord`), r/DotA2 (`dota2-subreddit`), Dota2ProTracker (`dota2protracker`), Dotabuff (`dotabuff`), DOTAFire (`dotafire`), DotaPicker (`dotapicker`), DotaPlus by Overwolf (`dotaplus-overwolf`), Liquipedia Dota 2 (`liquipedia-dota-2`), OpenDota (`opendota`), STRATZ (`stratz`)
@@ -126,6 +136,8 @@
 - `ranked-improvement` — 5 items
 
 **Comparisons (3)**: `dota2protracker-vs-dotafire` (short), `dotabuff-vs-stratz` (short), `opendota-vs-stratz` (short)
+
+**Stacks (1)**: `dota-2-toolkit` (5 tools)
 
 ### Elden Ring (`elden-ring`)
 
@@ -142,6 +154,8 @@
 
 **Comparisons (7)**: `eip-build-planner-vs-mugenmonkey-eldenring` (flagship), `eip-build-planner-vs-tarnished-dev` (short), `elden-ring-reforged-vs-the-convergence` (flagship), `fextralife-eldenring-vs-eldenring-wiki-gg` (short), `mapgenie-eldenring-vs-atlasforge-eldenring` (short), `mugenmonkey-eldenring-vs-er-inventory-emilia` (short), `tarnished-dev-vs-er-inventory-emilia` (short)
 
+**Stacks (1)**: `elden-ring-toolkit` (5 tools)
+
 ### Elden Ring Nightreign (`elden-ring-nightreign`)
 
 **Tools (12)**: Elden Ring Nightreign Official Discord (`eldenring-nightreign-discord`), Fextralife Nightreign Wiki (`fextralife-nightreign`), Fun is Allowed - Mod Overhaul for Solos and Duos (`fun-is-allowed`), Game8 Nightreign Wiki (`game8-nightreign`), Map Labels (Seed Overlay Tool) (`map-labels-nightreign`), Mobalytics (Nightreign) (`mobalytics-nightreign`), Nexus Mods (Nightreign) (`nexus-mods-nightreign`), Nightreign Calculator (`nightreign-calculator`), Nightreign Map Router (`nightreign-map-router`), Seamless Co-op (Nightreign) (`nightreign-seamless-coop`), r/Nightreign (`nightreign-subreddit`), Relics.pro (`relics-pro`)
@@ -156,6 +170,8 @@
 - `relic-guides` — 5 items
 
 **Comparisons (7)**: `fextralife-nightreign-vs-game8-nightreign` (flagship), `mobalytics-nightreign-vs-fextralife-nightreign` (short), `mobalytics-nightreign-vs-nightreign-calculator` (short), `mobalytics-nightreign-vs-relics-pro` (flagship), `nightreign-map-router-vs-map-labels-nightreign` (short), `nightreign-seamless-coop-vs-fun-is-allowed` (short), `relics-pro-vs-nightreign-calculator` (short)
+
+**Stacks (1)**: `nightreign-toolkit` (5 tools)
 
 ### Escape from Tarkov (`escape-from-tarkov`)
 
@@ -172,6 +188,8 @@
 
 **Comparisons (7)**: `tarkov-dev-vs-tarkov-wiki-gg` (flagship), `tarkov-dev-vs-tarkovhead` (short), `tarkov-discord-vs-tarkov-subreddit` (short), `tarkov-market-vs-tarkov-dev` (short), `tarkov-tracker-vs-tarkov-advisor` (flagship), `tarkov-wiki-gg-vs-tarkov-fandom-wiki` (short), `totov-builder-vs-eft-ammo-builder` (short)
 
+**Stacks (1)**: `tarkov-raid-toolkit` (5 tools)
+
 ### Final Fantasy XIV (`final-fantasy-xiv`)
 
 **Tools (17)**: Advanced Combat Tracker (`advanced-combat-tracker`), Akhmorning (`akhmorning`), Eorzea Collection (`eorzea-collection`), Etro (`etro`), Final Fantasy Logs (`fflogs`), Final Fantasy XIV Community Discord (`ffxiv-discord`), r/ffxiv (`ffxiv-subreddit`), FFXIV Collect (`ffxivcollect`), Gamer Escape's FFXIV Wiki (`gamerescape`), Garland Tools (`garland-tools`), The Lodestone (`lodestone`), Mogboard (`mogboard`), FFXIV Teamcraft (`teamcraft`), The Balance (`the-balance`), Universalis (`universalis`), XIVAnalysis (`xivanalysis`), XIVLauncher (`xivlauncher`)
@@ -186,6 +204,8 @@
 - `raid-guides` — 5 items
 
 **Comparisons (5)**: `eorzea-collection-vs-ffxivcollect` (short), `fflogs-vs-xivanalysis` (flagship), `garland-tools-vs-gamerescape` (short), `the-balance-vs-akhmorning` (short), `universalis-vs-mogboard` (short)
+
+**Stacks (1)**: `ffxiv-raider-toolkit` (6 tools)
 
 ### Genshin Impact (`genshin-impact`)
 
@@ -203,6 +223,8 @@
 
 **Comparisons (6)**: `gcsim-vs-akasha-system` (short), `genshin-optimizer-vs-aspirine` (flagship), `honey-hunter-world-vs-hoyowiki` (short), `hoyolab-map-vs-appsample-genshin-map` (short), `keqing-mains-vs-game8-genshin` (flagship), `seelie-me-vs-genshin-center` (short)
 
+**Stacks (1)**: `genshin-optimization-toolkit` (6 tools)
+
 ### Honkai: Star Rail (`honkai-star-rail`)
 
 **Tools (16)**: Enka.Network HSR (`enka-network-hsr`), Fribbels HSR Optimizer (`fribbels-hsr-optimizer`), Game8 HSR (`game8-hsr`), Honey Hunter World — Star Rail (`honey-hunter-world-hsr`), HoYoLAB (`hoyolab-hsr`), Honkai: Star Rail Official Discord (`hsr-discord`), r/HonkaiStarRail (`hsr-subreddit`), HSR Wish Simulator (`hsr-wish-simulator`), Icy Veins HSR (`icy-veins-hsr`), KQM Honkai: Star Rail (`kqm-hsr`), MD✦C Calculator (`md-c-calculator`), Prydwen Institute (`prydwen-hsr`), Honkai: Star Rail Interactive Map (`star-rail-map-appsample`), Star Rail Station (`star-rail-station`), StarGuide (`starguide`), Honkai: Star Rail Wiki (Fandom) (`starrail-fandom-wiki`)
@@ -217,6 +239,8 @@
 - `patch-coverage` — 5 items
 
 **Comparisons (3)**: `honey-hunter-world-hsr-vs-starrail-fandom-wiki` (short), `prydwen-hsr-vs-game8-hsr` (short), `star-rail-station-vs-hsr-wish-simulator` (short)
+
+**Stacks (1)**: `hsr-optimization-toolkit` (6 tools)
 
 ### Last Epoch (`last-epoch`)
 
@@ -233,6 +257,8 @@
 
 **Comparisons (10)**: `arpg-timeline-vs-lastepoch-dev-tracker` (short), `cheatsheet-monster-le-vs-lastepoch-info` (short), `lastepoch-discord-vs-lastepoch-forums` (short), `lastepoch-discord-vs-lastepoch-subreddit` (short), `lastepoch-fandom-vs-lastepoch-wiki` (short), `lastepoch-info-vs-lastepoch-fandom` (short), `maxroll-le-vs-arreatsummit-le` (short), `maxroll-le-vs-icy-veins-le` (short), `maxroll-le-vs-lastepochtools` (flagship), `path-of-building-le-vs-lastepochtools` (short)
 
+**Stacks (1)**: `last-epoch-toolkit` (5 tools)
+
 ### League of Legends (`league-of-legends`)
 
 **Tools (17)**: Blitz.gg (`blitz-gg`), ChampionMastery.gg (`championmastery-gg`), Gol.gg (`gol-gg`), League of Graphs (`league-of-graphs`), Leaguepedia (`leaguepedia`), League of Legends Community Discord (`lol-discord`), r/leagueoflegends (`lol-subreddit`), League of Legends Wiki (`lol-wiki`), Lolalytics (`lolalytics`), LoLDraftAI (`loldraftai`), Mobalytics (`mobalytics`), OP.GG (`op-gg`), Oracle's Elixir (`oracles-elixir`), Porofessor (`porofessor`), Probuild.gg (`probuild-gg`), Probuilds.net (`probuilds-net`), U.GG (`u-gg`)
@@ -247,6 +273,8 @@
 - `ranked-improvement` — 5 items
 
 **Comparisons (4)**: `blitz-gg-vs-op-gg` (short), `op-gg-vs-mobalytics` (short), `probuilds-net-vs-u-gg` (short), `u-gg-vs-op-gg` (short)
+
+**Stacks (1)**: `lol-climb-toolkit` (5 tools)
 
 ### No Man's Sky (`no-mans-sky`)
 
@@ -263,6 +291,8 @@
 
 **Comparisons (5)**: `assistant-nms-vs-nms-fandom-wiki` (short), `nms-coordinate-exchange-vs-nms-galactic-atlas` (short), `nms-fandom-wiki-vs-nmscd` (flagship), `nms-save-editor-vs-nomnom-save-editor` (short), `reddit-nomanssky-vs-nms-discord` (short)
 
+**Stacks (1)**: `no-mans-sky-toolkit` (5 tools)
+
 ### Neverness to Everness (`nte`)
 
 **Tools (12)**: Game8 Neverness to Everness (`game8-nte`), GameWith NTE (`gamewith-nte`), Interactive Map App (NTE) (`interactive-map-nte`), Neverness Nav (`neverness-nav`), Neverness to Everness Wiki (Fandom) (`nte-fandom-wiki`), NTE Guide (`nte-guide`), NTE Global Official Discord (`nte-official-discord`), r/NevernessToEverness (`nte-subreddit`), NTE Wiki Tools (`nte-wiki-tools`), NTEGame (`ntegame`), Prydwen Institute (`prydwen-nte`), Zero Luck (`zero-luck-nte`)
@@ -277,6 +307,8 @@
 - `patch-coverage` — 5 items
 
 **Comparisons (4)**: `game8-nte-vs-gamewith-nte` (short), `nte-official-discord-vs-nte-subreddit` (short), `prydwen-nte-vs-nte-guide` (flagship), `zero-luck-nte-vs-nte-guide` (short)
+
+**Stacks (1)**: `nte-toolkit` (5 tools)
 
 ### Palworld (`palworld`)
 
@@ -293,6 +325,8 @@
 
 **Comparisons (4)**: `palbreed-ai-vs-xgaming-breeding-calculator` (short), `palworld-gg-vs-paldb-cc` (short), `palworld-pal-editor-vs-palworld-save-pal` (flagship), `palworld-thgl-vs-palworld-gg` (short)
 
+**Stacks (1)**: `palworld-toolkit` (5 tools)
+
 ### Path of Exile (`path-of-exile`)
 
 **Tools (19)**: Awakened PoE Trade (`awakened-poe-trade`), Craft of Exile (`craft-of-exile`), Exile Leveling (`exile-leveling`), Exilence CE (`exilence-ce`), FilterBlade (`filterblade`), Hideout Showcase (`hideout-showcase`), Maxroll (`maxroll`), Path of Building Community (`path-of-building`), Path of Exile Discord (comunidad) (`poe-discord`), PoE Filter (`poe-filter`), PoeLab (`poe-lab`), poe.ninja (`poe-ninja`), PoE Regex (`poe-regex`), r/pathofexile (`poe-subreddit`), Path of Exile Trade (`poe-trade-official`), Path of Exile Wiki (`poe-wiki`), PoEDB (`poedb`), PoEPlanner (`poeplanner`), The Forbidden Trove (`tft`)
@@ -307,6 +341,8 @@
 - `trading-guides` — 5 items
 
 **Comparisons (7)**: `awakened-poe-trade-vs-poe-trade-official` (flagship), `exilence-ce-vs-poe-ninja` (short), `filterblade-vs-poe-filter` (short), `maxroll-vs-poe-wiki` (short), `path-of-building-vs-poeplanner` (flagship), `poe-trade-official-vs-tft` (short), `poe-wiki-vs-poedb` (flagship)
+
+**Stacks (1)**: `ultimate-poe-toolkit` (6 tools)
 
 ### Path of Exile 2 (`path-of-exile-2`)
 
@@ -323,6 +359,8 @@
 
 **Comparisons (8)**: `craft-of-exile-vs-path-of-crafting` (short), `exiled-exchange-2-vs-poe-overlay` (short), `exiled-exchange-2-vs-sidekick` (short), `maxroll-vs-mobalytics` (short), `path-of-building-vs-poeplanner` (flagship), `poe-ninja-vs-poe2-scout` (short), `poe-trade-official-vs-tft` (short), `poe2-wiki-vs-poe2db` (flagship)
 
+**Stacks (1)**: `ultimate-poe2-toolkit` (6 tools)
+
 ### Rust (`rust`)
 
 **Tools (16)**: BattleMetrics (`battlemetrics`), Carbon (`carbon`), Codefling (`codefling`), Corrosion Hour (`corrosion-hour`), FORTIFY (`fortify`), Just-Wiped (`just-wiped`), Oxide / uMod (`oxide-umod`), Rust Official Discord (`rust-discord`), Rust+ (`rust-plus`), r/playrust (`rust-subreddit`), RustEdit (`rustedit`), RustHelp (`rusthelp`), RustLab (`rustlab`), RustMaps (`rustmaps`), rustplusplus (`rustplusplus`), Rustrician (`rustrician`)
@@ -337,6 +375,8 @@
 - `server-admin-and-mods` — 5 items
 
 **Comparisons (5)**: `battlemetrics-vs-just-wiped` (short), `oxide-umod-vs-carbon` (flagship), `rust-plus-vs-rustplusplus` (short), `rustlab-vs-corrosion-hour` (short), `rustmaps-vs-rustedit` (short)
+
+**Stacks (1)**: `rust-toolkit` (6 tools)
 
 ### The Elder Scrolls V: Skyrim (`skyrim`)
 
@@ -353,6 +393,8 @@
 
 **Comparisons (5)**: `loot-vs-sseedit` (short), `mod-organizer-2-vs-vortex-mod-manager` (flagship), `nukes-and-dragons-vs-skyrim-builds` (short), `synthesis-vs-sseedit` (flagship), `wabbajack-vs-mod-organizer-2` (short)
 
+**Stacks (1)**: `skyrim-modding-toolkit` (6 tools)
+
 ### Valheim (`valheim`)
 
 **Tools (16)**: BepInExPack Valheim (`bepinex-valheim`), Better Continents (`better-continents`), Gale Mod Manager (`gale-mod-manager`), Jotunn — The Valheim Library (`jotunn`), Nexus Mods (Valheim) (`nexus-mods-valheim`), PlanBuild (`planbuild`), r2modman (`r2modman`), Thunderstore Mod Manager (`thunderstore-mod-manager`), Thunderstore (Valheim) (`thunderstore-valheim`), Valheim Official Discord (`valheim-discord`), Valheim Wiki (Fandom) (`valheim-fandom-wiki`), Valheim World Generator (`valheim-map-world`), Valheim Official Site (`valheim-official-site`), Valheim Plus (Grantapher fork) (`valheim-plus`), r/valheim (`valheim-subreddit`), Valheimians (`valheimians`)
@@ -367,6 +409,8 @@
 - `progression-and-bosses` — 5 items
 
 **Comparisons (4)**: `gale-mod-manager-vs-thunderstore-mod-manager` (short), `nexus-mods-valheim-vs-thunderstore-valheim` (short), `r2modman-vs-gale-mod-manager` (flagship), `r2modman-vs-thunderstore-mod-manager` (short)
+
+**Stacks (1)**: `valheim-modding-toolkit` (6 tools)
 
 ### Valorant (`valorant`)
 
@@ -383,6 +427,8 @@
 
 **Comparisons (4)**: `aim-lab-vs-kovaaks` (short), `blitz-gg-vs-tracker-gg` (short), `tracker-gg-vs-mobalytics` (short), `vlr-gg-vs-thespike-gg` (short)
 
+**Stacks (1)**: `valorant-improvement-toolkit` (5 tools)
+
 ### Windrose (`windrose`)
 
 **Tools (14)**: Calculators.games — Windrose (`calculators-games`), Fextralife Windrose Wiki (`fextralife-windrose-wiki`), Nexus Mods — Windrose (`nexus-mods-windrose`), PCGamingWiki — Windrose (`pcgamingwiki-windrose`), Simple Mod Loader And Console Enabler (`simple-mod-loader`), Vercadi Mod Manager (`vercadi-mod-manager`), Windrose DB (`windrose-db`), Windrose Official Discord (`windrose-discord`), Windrose Gaming Tools (`windrose-gaming-tools`), Windrose Mod Manager (CertiFried) (`windrose-mod-manager`), r/Windrose (`windrose-subreddit`), Windrose.tools (`windrose-tools`), Windrose Wiki (`windrose-wiki`), WSE Project — Windrose Save Editor and ItemDB (`wse-save-editor`)
@@ -397,6 +443,8 @@
 - `naval-and-ships` — 5 items
 
 **Comparisons (4)**: `windrose-mod-manager-vs-vercadi-mod-manager` (short), `windrose-tools-vs-calculators-games` (short), `windrose-tools-vs-windrose-gaming-tools` (short), `windrose-wiki-vs-fextralife-windrose-wiki` (short)
+
+**Stacks (1)**: `windrose-toolkit` (5 tools)
 
 ### World of Warcraft (`world-of-warcraft`)
 
@@ -413,3 +461,5 @@
 - `raid-guides` — 5 items
 
 **Comparisons (5)**: `curseforge-vs-wago-io` (flagship), `icy-veins-vs-archon-gg` (short), `raidbots-vs-bloodmallet` (short), `wowanalyzer-vs-wipefest` (short), `wowhead-vs-warcraft-wiki` (flagship)
+
+**Stacks (1)**: `wow-endgame-toolkit` (6 tools)

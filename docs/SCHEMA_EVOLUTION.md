@@ -309,7 +309,9 @@ La subcarpeta por juego mantiene la misma flat-structure simple dentro de cada j
 
 **Contenido inicial**: 3 stacks (`path-of-exile/ultimate-poe-toolkit`, `world-of-warcraft/wow-endgame-toolkit`, `league-of-legends/lol-climb-toolkit`).
 
-**Migración**: aditivo, no rompe nada. Games sin carpeta `stacks/` simplemente no exponen la sección ni la ruta (`getStackIds` retorna `[]`, `generateStaticParams` no genera páginas, el hub omite el tab). `scripts/generate-inventory.mjs` todavía NO cuenta stacks — pendiente extenderlo si el tipo crece.
+**Migración**: aditivo, no rompe nada. Games sin carpeta `stacks/` simplemente no exponen la sección ni la ruta (`getStackIds` retorna `[]`, `generateStaticParams` no genera páginas, el hub omite el tab). `scripts/generate-inventory.mjs` cuenta stacks (columna "Stacks" en la tabla + sección por juego).
+
+**Actualización 2026-06-03**: poblados los 25 juegos del catálogo con un stack cada uno (25 stacks totales). `generate-inventory.mjs` extendido para contarlos.
 
 **Migración**: hecha en este commit vía script Node que parsea cada `meta.json`, valida JSON post-edit y preserva el resto del formato del archivo. Si un nuevo game llega con un género fuera de la lista canónica, el lint manual (revisión humana) debe rechazarlo o mapearlo antes del merge.
 

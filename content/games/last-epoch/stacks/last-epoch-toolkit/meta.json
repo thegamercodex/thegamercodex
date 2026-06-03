@@ -1,0 +1,32 @@
+{
+  "id": "last-epoch-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "maxroll-le",
+      "roleEs": "Guías de build editoriales con leveling y endgame, ideales para arrancar un cycle con un plan claro.",
+      "roleEn": "Editorial build guides with leveling and endgame, ideal for starting a cycle with a clear plan."
+    },
+    {
+      "toolId": "lastepochtools",
+      "roleEs": "El planner de builds y base de datos central: árbol de pasivas, skills e items en una sola herramienta.",
+      "roleEn": "The central build planner and database: passive tree, skills, and items in a single tool."
+    },
+    {
+      "toolId": "path-of-building-le",
+      "roleEs": "El fork de Path of Building para Last Epoch: simulación detallada de DPS y defensas.",
+      "roleEn": "The Path of Building fork for Last Epoch: detailed DPS and defense simulation."
+    },
+    {
+      "toolId": "lastepoch-info",
+      "roleEs": "Base de datos de items, uniques y afijos para buscar exactamente qué perseguir.",
+      "roleEn": "Database of items, uniques, and affixes to look up exactly what to chase."
+    },
+    {
+      "toolId": "arpg-timeline",
+      "roleEs": "Fechas de cycles y eventos: cuándo arranca el contenido nuevo para planear tu vuelta.",
+      "roleEn": "Cycle and event dates: when new content starts, to plan your return."
+    }
+  ]
+}

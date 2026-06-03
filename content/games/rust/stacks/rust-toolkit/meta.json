@@ -1,0 +1,37 @@
+{
+  "id": "rust-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "just-wiped",
+      "roleEs": "Encontrar servidores por horario de wipe: filtra por tamaño, región y cuándo resetean para elegir bien.",
+      "roleEn": "Find servers by wipe schedule: filter by size, region, and reset time to pick the right one."
+    },
+    {
+      "toolId": "battlemetrics",
+      "roleEs": "Tracking de servidores y jugadores: población histórica, búsqueda de players y estado en vivo.",
+      "roleEn": "Server and player tracking: historical population, player search, and live status."
+    },
+    {
+      "toolId": "rustmaps",
+      "roleEs": "Previsualiza el mapa del servidor antes de entrar: monumentos, recursos y rutas, por seed.",
+      "roleEn": "Preview the server map before joining: monuments, resources, and routes, by seed."
+    },
+    {
+      "toolId": "rustlab",
+      "roleEs": "Referencia de crafteo, tablas de loot y costos de raid para tomar decisiones informadas.",
+      "roleEn": "Crafting reference, loot tables, and raid costs for making informed decisions."
+    },
+    {
+      "toolId": "fortify",
+      "roleEs": "Diseña bases y planea defensa o raid antes de gastar recursos construyendo en el servidor.",
+      "roleEn": "Design bases and plan defense or raids before spending resources building on the server."
+    },
+    {
+      "toolId": "rust-plus",
+      "roleEs": "App companion oficial: alarmas de smart devices, mapa del servidor y mensajería desde el teléfono.",
+      "roleEn": "Official companion app: smart device alarms, server map, and messaging from your phone."
+    }
+  ]
+}

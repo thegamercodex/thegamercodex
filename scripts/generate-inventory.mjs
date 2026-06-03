@@ -79,6 +79,19 @@ async function inventoryGame(gameId) {
     }),
   );
 
+  const stackIds = await listDirs(path.join(gameDir, "stacks"));
+  const stacks = await Promise.all(
+    stackIds.map(async (id) => {
+      const meta = await readJson(
+        path.join(gameDir, "stacks", id, "meta.json"),
+      );
+      return {
+        id,
+        items: Array.isArray(meta.items) ? meta.items.length : 0,
+      };
+    }),
+  );
+
   return {
     id: gameId,
     name: gameMeta.name ?? gameId,
@@ -86,6 +99,7 @@ async function inventoryGame(gameId) {
     creators,
     resources,
     comparisons,
+    stacks,
   };
 }
 
@@ -130,12 +144,21 @@ function formatGameSection(game) {
   }`);
   lines.push("");
 
+  lines.push(`**Stacks (${game.stacks.length})**: ${
+    game.stacks.length === 0
+      ? "_(none)_"
+      : game.stacks
+          .map((s) => `\`${s.id}\` (${s.items} tools)`)
+          .join(", ")
+  }`);
+  lines.push("");
+
   return lines.join("\n");
 }
 
 function formatSummaryRow(game) {
   const resourceTotal = game.resources.reduce((sum, r) => sum + r.count, 0);
-  return `| \`${game.id}\` | ${game.name} | ${game.tools.length} | ${game.creators.length} | ${game.resources.length} | ${resourceTotal} | ${game.comparisons.length} |`;
+  return `| \`${game.id}\` | ${game.name} | ${game.tools.length} | ${game.creators.length} | ${game.resources.length} | ${resourceTotal} | ${game.comparisons.length} | ${game.stacks.length} |`;
 }
 
 async function run() {
@@ -157,8 +180,9 @@ async function run() {
         acc.items +
         g.resources.reduce((sum, r) => sum + r.count, 0),
       comparisons: acc.comparisons + g.comparisons.length,
+      stacks: acc.stacks + g.stacks.length,
     }),
-    { tools: 0, creators: 0, categories: 0, items: 0, comparisons: 0 },
+    { tools: 0, creators: 0, categories: 0, items: 0, comparisons: 0, stacks: 0 },
   );
 
   const lines = [];
@@ -172,11 +196,11 @@ async function run() {
   lines.push("## Resumen");
   lines.push("");
   lines.push(
-    `${games.length} juegos · ${totals.tools} tools · ${totals.creators} creators · ${totals.categories} categorías · ${totals.items} resources items · ${totals.comparisons} comparisons`,
+    `${games.length} juegos · ${totals.tools} tools · ${totals.creators} creators · ${totals.categories} categorías · ${totals.items} resources items · ${totals.comparisons} comparisons · ${totals.stacks} stacks`,
   );
   lines.push("");
-  lines.push("| Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |");
-  lines.push("|---|---|---:|---:|---:|---:|---:|");
+  lines.push("| Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons | Stacks |");
+  lines.push("|---|---|---:|---:|---:|---:|---:|---:|");
   for (const g of games) lines.push(formatSummaryRow(g));
   lines.push("");
   lines.push("## Por juego");
@@ -187,7 +211,7 @@ async function run() {
   await writeFile(outputPath, output, "utf8");
 
   console.log(
-    `Inventory written to ${path.relative(cwd, outputPath)} — ${games.length} games, ${totals.tools} tools, ${totals.creators} creators, ${totals.items} resources, ${totals.comparisons} comparisons`,
+    `Inventory written to ${path.relative(cwd, outputPath)} — ${games.length} games, ${totals.tools} tools, ${totals.creators} creators, ${totals.items} resources, ${totals.comparisons} comparisons, ${totals.stacks} stacks`,
   );
 }
 

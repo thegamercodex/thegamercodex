@@ -1,0 +1,32 @@
+{
+  "id": "no-mans-sky-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "assistant-nms",
+      "roleEs": "Companion con árboles de crafteo, recetas y refinería: qué necesitas y cómo conseguirlo.",
+      "roleEn": "Companion with crafting trees, recipes, and refiner data: what you need and how to get it."
+    },
+    {
+      "toolId": "nms-fandom-wiki",
+      "roleEs": "La enciclopedia: mecánicas, especies, tecnología y guías de las actualizaciones del juego.",
+      "roleEn": "The encyclopedia: mechanics, species, technology, and guides for the game's updates."
+    },
+    {
+      "toolId": "nms-coordinate-exchange",
+      "roleEs": "Compartir y encontrar sistemas, planetas y bases por coordenadas, el corazón social del juego.",
+      "roleEn": "Share and find systems, planets, and bases by coordinates, the social heart of the game."
+    },
+    {
+      "toolId": "nexusmods-nms",
+      "roleEs": "El hub de mods para quality of life, visuales y ajustes que el juego base no incluye.",
+      "roleEn": "The mod hub for quality of life, visuals, and tweaks the base game doesn't include."
+    },
+    {
+      "toolId": "nomnom-save-editor",
+      "roleEs": "Editor de saves para arreglar problemas, ajustar inventario o recuperar progreso perdido.",
+      "roleEn": "Save editor to fix issues, adjust inventory, or recover lost progress."
+    }
+  ]
+}

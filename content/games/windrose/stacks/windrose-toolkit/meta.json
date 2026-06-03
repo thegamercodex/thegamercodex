@@ -1,0 +1,32 @@
+{
+  "id": "windrose-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "windrose-mod-manager",
+      "roleEs": "El gestor de mods dedicado: instala, actualiza y organiza tus mods sin tocar archivos a mano.",
+      "roleEn": "The dedicated mod manager: installs, updates, and organizes your mods without touching files by hand."
+    },
+    {
+      "toolId": "windrose-tools",
+      "roleEs": "Herramientas de planificación y build para diseñar tu personaje y setup antes de jugar.",
+      "roleEn": "Planning and build tools to design your character and setup before playing."
+    },
+    {
+      "toolId": "windrose-db",
+      "roleEs": "Base de datos de items, builds y datos del juego para consultar exactamente qué perseguir.",
+      "roleEn": "Database of items, builds, and game data to look up exactly what to chase."
+    },
+    {
+      "toolId": "windrose-wiki",
+      "roleEs": "La wiki de referencia: mecánicas, contenido y guías para resolver dudas concretas.",
+      "roleEn": "The reference wiki: mechanics, content, and guides to resolve specific questions."
+    },
+    {
+      "toolId": "nexus-mods-windrose",
+      "roleEs": "El hub de mods de la comunidad para quality of life, contenido y ajustes extra.",
+      "roleEn": "The community mod hub for quality of life, content, and extra tweaks."
+    }
+  ]
+}
