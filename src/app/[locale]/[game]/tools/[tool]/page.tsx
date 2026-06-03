@@ -14,6 +14,7 @@ import {
   Star,
 } from "lucide-react";
 import { Link } from "@/i18n/navigation";
+import { AlternativesSection } from "@/components/AlternativesSection";
 import { BrokenLinkButton } from "@/components/BrokenLinkButton";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { MobileGameBackBar } from "@/components/MobileGameBackBar";
@@ -211,6 +212,17 @@ export default async function ToolPage({ params }: PageParams) {
 
   const hasGameLogo =
     Boolean(game.logo) && publicExists(game.logo);
+
+  const comparisonByToolId = new Map(
+    toolComparisons.map(({ comparison, otherTool }) => [
+      otherTool.id,
+      comparison.id,
+    ]),
+  );
+  const alternativeEntries = alternatives.map((altTool) => ({
+    tool: altTool,
+    comparisonId: comparisonByToolId.get(altTool.id),
+  }));
 
   const faq = faqJsonLd(tool, game, loc, {
     alternativeNames: alternatives.map((a) => a.name),
@@ -414,6 +426,14 @@ export default async function ToolPage({ params }: PageParams) {
           )}
 
           {content && <MarkdownContent source={content} />}
+
+          <AlternativesSection
+            gameId={game.id}
+            gameName={game.name}
+            toolName={tool.name}
+            alternatives={alternativeEntries}
+            locale={loc}
+          />
 
           {visibleScreenshots.length > 0 && (
             <section className="mt-12 border-t border-border pt-10">
