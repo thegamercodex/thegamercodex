@@ -21,9 +21,11 @@ import {
   getCreators,
   getGame,
   getGames,
+  getStacks,
   getTools,
 } from "@/lib/content";
 import { ComparisonCard } from "@/components/ComparisonCard";
+import { StackCard } from "@/components/StackCard";
 import { categoryName } from "@/lib/categories";
 import { jsonLdScript, videoGameJsonLd } from "@/lib/jsonld";
 import { hasNewsSources } from "@/lib/news";
@@ -80,15 +82,16 @@ export default async function GamePage({ params }: PageParams) {
   setRequestLocale(locale);
   const loc = locale as Locale;
 
-  let game, tools, creators, resourceCollections, comparisons, allGames;
+  let game, tools, creators, resourceCollections, comparisons, stacks, allGames;
   try {
-    [game, tools, creators, resourceCollections, comparisons, allGames] =
+    [game, tools, creators, resourceCollections, comparisons, stacks, allGames] =
       await Promise.all([
         getGame(gameId),
         getTools(gameId),
         getCreators(gameId),
         getAllResources(gameId),
         getComparisons(gameId),
+        getStacks(gameId),
         getGames(),
       ]);
   } catch {
@@ -114,6 +117,12 @@ export default async function GamePage({ params }: PageParams) {
       return a && b ? { comparison: c, toolA: a, toolB: b } : null;
     })
     .filter((x): x is { comparison: typeof comparisons[number]; toolA: typeof tools[number]; toolB: typeof tools[number] } => x !== null);
+  const resolvedStacks = stacks.map((stack) => ({
+    stack,
+    toolNames: stack.items
+      .map((item) => toolsById.get(item.toolId)?.name)
+      .filter((n): n is string => Boolean(n)),
+  }));
   const toolLogos: Record<string, boolean> = {};
   for (const tool of tools) {
     toolLogos[tool.id] =
@@ -123,12 +132,17 @@ export default async function GamePage({ params }: PageParams) {
 
   const showNews = hasNewsSources(game);
   const tNews = await getTranslations("news");
+  const tStack = await getTranslations("stack");
 
   const tabs = [
     tools.length > 0 && { id: "tools", label: t("toolsHeading") },
     resolvedComparisons.length > 0 && {
       id: "comparisons",
       label: t("comparisonsHeading"),
+    },
+    resolvedStacks.length > 0 && {
+      id: "stacks",
+      label: t("stacksHeading"),
     },
     showNews && { id: "news", label: tNews("title") },
     creators.length > 0 && { id: "creators", label: t("creatorsHeading") },
@@ -215,6 +229,37 @@ export default async function GamePage({ params }: PageParams) {
                   />
                 ))}
               </div>
+            </div>
+          </section>
+        )}
+
+        {resolvedStacks.length > 0 && (
+          <section
+            id="stacks"
+            className="scroll-mt-32 border-b border-border py-12"
+          >
+            <div className="mb-6 flex items-baseline justify-between">
+              <h2 className="text-2xl font-semibold tracking-tight">
+                {t("stacksHeading")}
+              </h2>
+              <span className="text-sm text-muted-foreground">
+                {resolvedStacks.length}
+              </span>
+            </div>
+            <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
+              {resolvedStacks.map(({ stack, toolNames }) => (
+                <StackCard
+                  key={stack.id}
+                  gameId={game.id}
+                  stack={stack}
+                  toolNames={toolNames}
+                  locale={loc}
+                  eyebrowLabel={tStack("eyebrow")}
+                  toolCountLabel={tStack("toolCount", {
+                    count: stack.items.length,
+                  })}
+                />
+              ))}
             </div>
           </section>
         )}

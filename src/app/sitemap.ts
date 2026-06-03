@@ -3,6 +3,7 @@ import {
   getComparisons,
   getCreators,
   getGames,
+  getStacks,
   getTools,
   getAllResources,
 } from "@/lib/content";
@@ -56,12 +57,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       buildEntry(`/${game.id}`, { changeFrequency: "weekly", priority: 0.9 }),
     );
 
-    const [tools, creators, resourceCollections, comparisons] = await Promise.all([
-      getTools(game.id),
-      getCreators(game.id),
-      getAllResources(game.id),
-      getComparisons(game.id),
-    ]);
+    const [tools, creators, resourceCollections, comparisons, stacks] =
+      await Promise.all([
+        getTools(game.id),
+        getCreators(game.id),
+        getAllResources(game.id),
+        getComparisons(game.id),
+        getStacks(game.id),
+      ]);
 
     for (const tool of tools) {
       entries.push(
@@ -86,6 +89,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       entries.push(
         buildEntry(`/${game.id}/compare/${comparison.id}`, {
           lastModified: comparison.lastVerified ?? undefined,
+          changeFrequency: "monthly",
+          priority: 0.75,
+        }),
+      );
+    }
+
+    for (const stack of stacks) {
+      entries.push(
+        buildEntry(`/${game.id}/stacks/${stack.id}`, {
+          lastModified: stack.lastVerified ?? undefined,
           changeFrequency: "monthly",
           priority: 0.75,
         }),

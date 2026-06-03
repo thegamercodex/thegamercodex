@@ -1,0 +1,37 @@
+{
+  "id": "ultimate-poe-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "path-of-building",
+      "roleEs": "El planificador de builds. Acá diseñas y validas todo antes de gastar un solo divine en el juego.",
+      "roleEn": "The build planner. You design and validate everything here before spending a single divine in-game."
+    },
+    {
+      "toolId": "maxroll",
+      "roleEs": "Guías editoriales de builds completas escritas por jugadores top, ideales para elegir y arrancar una liga.",
+      "roleEn": "Editorial full build guides written by top players, ideal for picking and starting a league."
+    },
+    {
+      "toolId": "poe-ninja",
+      "roleEs": "El pulso de la economía y el meta: precios de ítems, builds populares y qué se está jugando esta liga.",
+      "roleEn": "The pulse of the economy and meta: item prices, popular builds, and what's being played this league."
+    },
+    {
+      "toolId": "awakened-poe-trade",
+      "roleEs": "Price checking instantáneo dentro del juego con un atajo de teclado, sin alt-tabear al navegador.",
+      "roleEn": "Instant in-game price checking with a hotkey, no alt-tabbing to the browser."
+    },
+    {
+      "toolId": "craft-of-exile",
+      "roleEs": "Simulador de crafteo para planear cómo armar tu gear y estimar costos antes de quemar currency real.",
+      "roleEn": "Crafting simulator to plan how to build your gear and estimate costs before burning real currency."
+    },
+    {
+      "toolId": "filterblade",
+      "roleEs": "Editor visual de loot filters para que solo veas en el piso lo que de verdad te importa.",
+      "roleEn": "Visual loot filter editor so you only see what actually matters on the ground."
+    }
+  ]
+}

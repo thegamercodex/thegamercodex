@@ -286,5 +286,30 @@ La subcarpeta por juego mantiene la misma flat-structure simple dentro de cada j
 - `src/types/index.ts` — `GameMeta.genres: string[]` queda igual; la restricción es por convención no por tipo, para permitir agregar géneros nuevos sin TS migration
 - `src/lib/similar-games.ts` — filter de `online`/`free-to-play` queda como defensa contra futuras adiciones inconsistentes
 
+### 2026-06-03 - Nuevo tipo de contenido: Tool Stacks
+
+**Cambio**: agregado un nuevo tipo de contenido **Stack** (bundles curados de tools para un objetivo/workflow, ej: "El toolkit completo de Path of Exile"). Vive en `content/games/<game>/stacks/<stack-id>/` con la misma estructura que comparisons: `meta.json` + `es.md` + `en.md`. Se auto-descubre por directorio (sin índice).
+
+**Nuevos tipos** (`src/types/index.ts`):
+- `StackItem` — `{ toolId, roleEs, roleEn }` (el rol editorial de cada tool dentro del stack).
+- `StackMeta` — `{ id, category?, lastVerified, items: StackItem[] }`.
+- `Stack extends StackMeta` — agrega `titleEs/En`, `descriptionEs/En`, `contentEs/En` (del frontmatter/body de los `.md`, igual que `Comparison`).
+
+**Schema de `meta.json`**: `id` (= nombre de carpeta), `category` (opcional, string libre tipo `all-in-one`/`endgame`/`improvement`, no renderizado por ahora), `lastVerified` (YYYY-MM-DD), `items[]` (tools en orden de uso, cada una con `roleEs`/`roleEn`). El title/description traducibles van en el frontmatter de `es.md`/`en.md`, NO en `meta.json` (mismo patrón que comparisons).
+
+**Archivos afectados**:
+- `src/types/index.ts` — nuevos `StackItem`, `StackMeta`, `Stack`.
+- `src/lib/content.ts` — nuevos `getStackIds()`, `getStacks()`, `getStack()` (mirror de los de comparison).
+- `src/lib/jsonld.ts` — nuevo `stackJsonLd()` → `CollectionPage` con `ItemList` de `SoftwareApplication`.
+- `src/app/[locale]/[game]/stacks/[stack]/page.tsx` — nueva ruta de detalle (`generateStaticParams` por game × stack × locale).
+- `src/components/StackCard.tsx` — nuevo card para el listado del hub.
+- `src/app/[locale]/[game]/page.tsx` — sección `#stacks` condicional + tab en `GameTabNav`.
+- `src/app/sitemap.ts` — entries `/[game]/stacks/[stack]` (priority 0.75, monthly).
+- `messages/{es,en}.json` — nuevo namespace `stack.*` + `game.stacksHeading`.
+
+**Contenido inicial**: 3 stacks (`path-of-exile/ultimate-poe-toolkit`, `world-of-warcraft/wow-endgame-toolkit`, `league-of-legends/lol-climb-toolkit`).
+
+**Migración**: aditivo, no rompe nada. Games sin carpeta `stacks/` simplemente no exponen la sección ni la ruta (`getStackIds` retorna `[]`, `generateStaticParams` no genera páginas, el hub omite el tab). `scripts/generate-inventory.mjs` todavía NO cuenta stacks — pendiente extenderlo si el tipo crece.
+
 **Migración**: hecha en este commit vía script Node que parsea cada `meta.json`, valida JSON post-edit y preserva el resto del formato del archivo. Si un nuevo game llega con un género fuera de la lista canónica, el lint manual (revisión humana) debe rechazarlo o mapearlo antes del merge.
 

@@ -1,0 +1,32 @@
+{
+  "id": "lol-climb-toolkit",
+  "category": "improvement",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "u-gg",
+      "roleEs": "Builds, runas y counters optimizados por campeón y por rango, antes de cada partida.",
+      "roleEn": "Optimized builds, runes, and counters by champion and rank, before each game."
+    },
+    {
+      "toolId": "op-gg",
+      "roleEs": "Tu match history, win rate y el scouting de oponentes y compañeros del lobby.",
+      "roleEn": "Your match history, win rate, and scouting of lobby opponents and teammates."
+    },
+    {
+      "toolId": "porofessor",
+      "roleEs": "Análisis del lobby en vivo: matchups, tips de carril y win conditions durante champ select.",
+      "roleEn": "Live lobby analysis: matchups, lane tips, and win conditions during champ select."
+    },
+    {
+      "toolId": "mobalytics",
+      "roleEs": "Coaching estructurado con el GPI: identifica en qué dimensión de tu juego estás flojo.",
+      "roleEn": "Structured coaching with the GPI: pinpoints which dimension of your play is weak."
+    },
+    {
+      "toolId": "probuilds-net",
+      "roleEs": "Qué construyen los pros ahora mismo, útil para adelantarte al meta en parches nuevos.",
+      "roleEn": "What pros are building right now, useful to get ahead of the meta on new patches."
+    }
+  ]
+}

@@ -10,6 +10,8 @@ import type {
   GameMeta,
   Locale,
   ResourceCollection,
+  Stack,
+  StackMeta,
   Tool,
   ToolMeta,
 } from "@/types";
@@ -199,6 +201,41 @@ export async function getComparison(
   const [es, en] = await Promise.all([
     readMarkdown<ComparisonFrontmatter>(path.join(dir, "es.md")),
     readMarkdown<ComparisonFrontmatter>(path.join(dir, "en.md")),
+  ]);
+  return {
+    ...meta,
+    titleEs: es.data.title ?? "",
+    titleEn: en.data.title ?? "",
+    descriptionEs: es.data.description ?? "",
+    descriptionEn: en.data.description ?? "",
+    contentEs: es.content,
+    contentEn: en.content,
+  };
+}
+
+interface StackFrontmatter {
+  title?: string;
+  description?: string;
+}
+
+export async function getStackIds(gameId: string): Promise<string[]> {
+  return listDirs(path.join(GAMES_ROOT, gameId, "stacks"));
+}
+
+export async function getStacks(gameId: string): Promise<Stack[]> {
+  const ids = await getStackIds(gameId);
+  return Promise.all(ids.map((id) => getStack(gameId, id)));
+}
+
+export async function getStack(
+  gameId: string,
+  stackId: string,
+): Promise<Stack> {
+  const dir = path.join(GAMES_ROOT, gameId, "stacks", stackId);
+  const meta = await readJson<StackMeta>(path.join(dir, "meta.json"));
+  const [es, en] = await Promise.all([
+    readMarkdown<StackFrontmatter>(path.join(dir, "es.md")),
+    readMarkdown<StackFrontmatter>(path.join(dir, "en.md")),
   ]);
   return {
     ...meta,

@@ -7,6 +7,7 @@ import type {
   Locale,
   Resource,
   ResourceCategory,
+  Stack,
   Tool,
 } from "@/types";
 
@@ -285,6 +286,45 @@ export function faqJsonLd(
       name: q,
       acceptedAnswer: { "@type": "Answer", text: a },
     })),
+  };
+}
+
+export function stackJsonLd(
+  stack: Stack,
+  tools: Tool[],
+  game: Game,
+  locale: Locale,
+): JsonLd {
+  const title = locale === "es" ? stack.titleEs : stack.titleEn;
+  const description =
+    locale === "es" ? stack.descriptionEs : stack.descriptionEn;
+  return {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: title,
+    description,
+    url: absoluteUrl(`/${locale}/${game.id}/stacks/${stack.id}`),
+    inLanguage: locale,
+    isPartOf: {
+      "@type": "WebSite",
+      name: SITE_NAME,
+      url: `${siteUrl()}/${locale}`,
+    },
+    mainEntity: {
+      "@type": "ItemList",
+      numberOfItems: tools.length,
+      itemListElement: tools.map((tool, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        item: {
+          "@type": "SoftwareApplication",
+          name: tool.name,
+          url: absoluteUrl(`/${locale}/${game.id}/tools/${tool.id}`),
+          applicationCategory: "GameApplication",
+          isAccessibleForFree: tool.free,
+        },
+      })),
+    },
   };
 }
 

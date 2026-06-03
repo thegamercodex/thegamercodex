@@ -306,3 +306,28 @@ export interface Comparison extends ComparisonMeta {
   contentEs: string;
   contentEn: string;
 }
+
+/** Una tool dentro de un stack, con su rol editorial en el workflow. */
+export interface StackItem {
+  toolId: string;
+  roleEs: string;
+  roleEn: string;
+}
+
+export interface StackMeta {
+  id: string;
+  /** Agrupación opcional (ej: "endgame", "improvement"). */
+  category?: string;
+  lastVerified: string;
+  /** Tools del stack en orden de uso/importancia. */
+  items: StackItem[];
+}
+
+export interface Stack extends StackMeta {
+  titleEs: string;
+  titleEn: string;
+  descriptionEs: string;
+  descriptionEn: string;
+  contentEs: string;
+  contentEn: string;
+}

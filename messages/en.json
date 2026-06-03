@@ -173,7 +173,8 @@
     "officialSite": "Official site",
     "resourceCount": "{count, plural, one {# resource} other {# resources}}",
     "backToHub": "Back to {game}",
-    "similarGames": "If you like {game}, try these too"
+    "similarGames": "If you like {game}, try these too",
+    "stacksHeading": "Tool stacks"
   },
   "tool": {
     "goToTool": "Go to tool",
@@ -271,6 +272,16 @@
     "yes": "Yes",
     "no": "No",
     "dash": "—"
+  },
+  "stack": {
+    "eyebrow": "Tool stack",
+    "breadcrumb": "Stacks",
+    "includedHeading": "What's in this stack",
+    "toolCount": "{count, plural, one {# tool} other {# tools}}",
+    "lastVerifiedLabel": "Last verified",
+    "relatedHeading": "Other {game} stacks",
+    "free": "Free",
+    "official": "Official"
   },
   "resources": {
     "noResources": "No resources in this category yet.",

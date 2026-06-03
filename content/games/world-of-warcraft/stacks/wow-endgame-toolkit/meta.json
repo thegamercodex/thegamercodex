@@ -1,0 +1,37 @@
+{
+  "id": "wow-endgame-toolkit",
+  "category": "endgame",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "icy-veins",
+      "roleEs": "Guías de clase y spec con rotaciones, talentos y prioridad de stats actualizadas cada parche.",
+      "roleEn": "Class and spec guides with rotations, talents, and stat priorities updated every patch."
+    },
+    {
+      "toolId": "raidbots",
+      "roleEs": "Simula tu DPS y corre Droptimizer para saber qué pieza es realmente un upgrade, sin adivinar.",
+      "roleEn": "Sim your DPS and run Droptimizer to know which piece is actually an upgrade, no guessing."
+    },
+    {
+      "toolId": "warcraft-logs",
+      "roleEs": "Sube tus logs y analiza parse, uptime y errores encuentro por encuentro contra el resto del mundo.",
+      "roleEn": "Upload your logs and analyze parse, uptime, and mistakes fight by fight against the rest of the world."
+    },
+    {
+      "toolId": "wowanalyzer",
+      "roleEs": "Análisis automático por encuentro que detecta fugas concretas de tu rotación y cooldowns.",
+      "roleEn": "Automated per-fight analysis that flags concrete leaks in your rotation and cooldowns."
+    },
+    {
+      "toolId": "raider-io",
+      "roleEs": "Score de Mythic+, historial de keys y la herramienta estándar para armar y encontrar grupos.",
+      "roleEn": "Mythic+ score, key history, and the standard tool for building and finding groups."
+    },
+    {
+      "toolId": "wowhead",
+      "roleEs": "La base de datos enciclopédica: ítems, quests, mecánicas de jefes y guías para todo el endgame.",
+      "roleEn": "The encyclopedic database: items, quests, boss mechanics, and guides for all of endgame."
+    }
+  ]
+}

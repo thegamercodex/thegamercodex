@@ -173,7 +173,8 @@
     "officialSite": "Sitio oficial",
     "resourceCount": "{count, plural, one {# recurso} other {# recursos}}",
     "backToHub": "Volver a {game}",
-    "similarGames": "Si te gusta {game}, prueba también"
+    "similarGames": "Si te gusta {game}, prueba también",
+    "stacksHeading": "Stacks de herramientas"
   },
   "tool": {
     "goToTool": "Ir a la herramienta",
@@ -271,6 +272,16 @@
     "yes": "Sí",
     "no": "No",
     "dash": "—"
+  },
+  "stack": {
+    "eyebrow": "Stack de herramientas",
+    "breadcrumb": "Stacks",
+    "includedHeading": "Qué incluye este stack",
+    "toolCount": "{count, plural, one {# herramienta} other {# herramientas}}",
+    "lastVerifiedLabel": "Última verificación",
+    "relatedHeading": "Otros stacks de {game}",
+    "free": "Gratis",
+    "official": "Oficial"
   },
   "resources": {
     "noResources": "Aún no hay recursos en esta categoría.",
