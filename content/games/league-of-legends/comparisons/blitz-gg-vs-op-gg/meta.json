@@ -1,0 +1,32 @@
+{
+  "id": "blitz-gg-vs-op-gg",
+  "toolIds": ["blitz-gg", "op-gg"],
+  "category": "match-history",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Usa OP.GG cuando solo quieres consultar match history desde el navegador sin instalar nada: rank, stats por champion, tier lists y scouting puntual. Usa Blitz.gg cuando quieres que una desktop app te asista activamente durante el juego con auto-import de builds y runas, overlay y dashboard post-partida, aceptando el cliente pesado, el paywall agresivo y la telemetría amplia.",
+  "verdictEn": "Use OP.GG when you only want to look up match history from the browser without installing anything: rank, per-champion stats, tier lists, and quick scouting. Use Blitz.gg when you want a desktop app to actively assist you in-game with one-click build/rune import, overlay, and post-game dashboard, accepting the heavy client, aggressive paywall, and broad telemetry.",
+  "useCases": [
+    {
+      "labelEs": "Consultar rank y stats post-partida sin instalar nada",
+      "labelEn": "Check rank and post-game stats without installing anything",
+      "winner": "op-gg",
+      "reasonEs": "OP.GG es web-first: ingresas un Riot ID y ves perfil completo sin descarga, login ni overlay corriendo en segundo plano.",
+      "reasonEn": "OP.GG is web-first: enter a Riot ID and get a full profile with no download, login, or background overlay."
+    },
+    {
+      "labelEs": "Auto-importar builds y runas al cliente en champ select",
+      "labelEn": "Auto-import builds and runes into the client during champ select",
+      "winner": "blitz-gg",
+      "reasonEs": "Blitz detecta tu pick y envía build y runas directo al cliente con un click; OP.GG no se integra con el cliente para importar.",
+      "reasonEn": "Blitz detects your pick and pushes build and runes straight into the client in one click; OP.GG doesn't integrate with the client to import."
+    },
+    {
+      "labelEs": "Checkear tier lists del patch actual y scout antes de jugar",
+      "labelEn": "Check current-patch tier lists and scout before playing",
+      "winner": "op-gg",
+      "reasonEs": "OP.GG tiene tier lists por rol y rango más la cobertura de regiones más amplia del ecosistema, accesible al instante desde el navegador.",
+      "reasonEn": "OP.GG has tier lists by role and rank plus the broadest regional coverage in the ecosystem, instantly accessible from the browser."
+    }
+  ]
+}

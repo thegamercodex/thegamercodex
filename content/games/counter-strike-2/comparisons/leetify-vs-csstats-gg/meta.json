@@ -1,0 +1,32 @@
+{
+  "id": "leetify-vs-csstats-gg",
+  "toolIds": ["leetify", "csstats-gg"],
+  "category": "match-history",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Usa Leetify cuando quieres feedback de coaching que te diga qué arreglar (aim, utility, trades) comparado contra el rango superior, asumiendo que pagarás Pro para el valor real. Usa CS Stats cuando solo quieres un lookup rápido de KDA, win rate por mapa y evolución de ELO sin login, sin cliente desktop y sin suscripción.",
+  "verdictEn": "Use Leetify when you want coaching feedback that tells you what to fix (aim, utility, trades) benchmarked against the rank above you, assuming you'll pay Pro for the real value. Use CS Stats when you just want a quick lookup of KDA, per-map win rate, and ELO evolution with no login, no desktop client, and no subscription.",
+  "useCases": [
+    {
+      "labelEs": "Saber qué debilidad arreglar para subir de rango",
+      "labelEn": "Figure out which weakness to fix to rank up",
+      "winner": "leetify",
+      "reasonEs": "Leetify puntúa por categoría y marca tu delta vs el rango superior; CS Stats da números pero no opinión accionable.",
+      "reasonEn": "Leetify scores by category and flags your delta vs the rank above; CS Stats gives numbers but no actionable opinion."
+    },
+    {
+      "labelEs": "Mirar tu KDA, win rate por mapa y rank en cinco segundos",
+      "labelEn": "Check your KDA, per-map win rate, and rank in five seconds",
+      "winner": "csstats-gg",
+      "reasonEs": "Pegas tu Steam ID y ves todo sin login, sin cliente desktop ni paywall; Leetify exige cuenta y setup antes de mostrar algo.",
+      "reasonEn": "Paste your Steam ID and see everything with no login, desktop client, or paywall; Leetify requires an account and setup before showing anything."
+    },
+    {
+      "labelEs": "Scoutear rápido los últimos matches de un teammate u oponente",
+      "labelEn": "Quickly scout a teammate's or opponent's recent matches",
+      "winner": "csstats-gg",
+      "reasonEs": "Solo necesitas su Steam ID para ver historial y stats; Leetify se apoya en cuentas conectadas y demos procesadas.",
+      "reasonEn": "You only need their Steam ID to see history and stats; Leetify leans on connected accounts and processed demos."
+    }
+  ]
+}

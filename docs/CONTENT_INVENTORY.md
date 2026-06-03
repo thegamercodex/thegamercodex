@@ -1,20 +1,20 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-06-02
+> Última generación: 2026-06-03
 
 ## Resumen
 
-25 juegos · 423 tools · 120 creators · 127 categorías · 635 resources items · 110 comparisons
+25 juegos · 423 tools · 120 creators · 127 categorías · 635 resources items · 131 comparisons
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons |
 |---|---|---:|---:|---:|---:|---:|
 | `apex-legends` | Apex Legends | 13 | 5 | 5 | 25 | 5 |
-| `counter-strike-2` | Counter-Strike 2 | 17 | 5 | 5 | 25 | 0 |
-| `cyberpunk-2077` | Cyberpunk 2077 | 17 | 5 | 5 | 25 | 0 |
-| `destiny-2` | Destiny 2 | 14 | 5 | 5 | 25 | 0 |
+| `counter-strike-2` | Counter-Strike 2 | 17 | 5 | 5 | 25 | 4 |
+| `cyberpunk-2077` | Cyberpunk 2077 | 17 | 5 | 5 | 25 | 3 |
+| `destiny-2` | Destiny 2 | 14 | 5 | 5 | 25 | 3 |
 | `diablo-4` | Diablo IV | 24 | 4 | 5 | 25 | 9 |
-| `dota-2` | Dota 2 | 15 | 5 | 5 | 25 | 0 |
+| `dota-2` | Dota 2 | 15 | 5 | 5 | 25 | 3 |
 | `elden-ring` | Elden Ring | 17 | 5 | 5 | 25 | 7 |
 | `elden-ring-nightreign` | Elden Ring Nightreign | 12 | 5 | 5 | 25 | 7 |
 | `escape-from-tarkov` | Escape from Tarkov | 17 | 4 | 5 | 25 | 7 |
@@ -22,7 +22,7 @@
 | `genshin-impact` | Genshin Impact | 26 | 5 | 6 | 30 | 6 |
 | `honkai-star-rail` | Honkai: Star Rail | 16 | 3 | 5 | 25 | 3 |
 | `last-epoch` | Last Epoch | 17 | 5 | 5 | 25 | 10 |
-| `league-of-legends` | League of Legends | 17 | 5 | 5 | 25 | 0 |
+| `league-of-legends` | League of Legends | 17 | 5 | 5 | 25 | 4 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 |
 | `nte` | Neverness to Everness | 12 | 5 | 5 | 25 | 4 |
 | `palworld` | Palworld | 17 | 5 | 5 | 25 | 4 |
@@ -31,7 +31,7 @@
 | `rust` | Rust | 16 | 4 | 5 | 25 | 5 |
 | `skyrim` | The Elder Scrolls V: Skyrim | 21 | 5 | 5 | 25 | 5 |
 | `valheim` | Valheim | 16 | 5 | 5 | 25 | 4 |
-| `valorant` | Valorant | 17 | 5 | 5 | 25 | 0 |
+| `valorant` | Valorant | 17 | 5 | 5 | 25 | 4 |
 | `windrose` | Windrose | 14 | 5 | 5 | 25 | 4 |
 | `world-of-warcraft` | World of Warcraft | 18 | 5 | 6 | 30 | 5 |
 
@@ -65,7 +65,7 @@
 - `map-guides` — 5 items
 - `patch-coverage` — 5 items
 
-**Comparisons (0)**: _(none)_
+**Comparisons (4)**: `faceit-vs-esea` (short), `hltv-vs-liquipedia-cs` (short), `leetify-vs-csstats-gg` (short), `scope-gg-vs-leetify` (short)
 
 ### Cyberpunk 2077 (`cyberpunk-2077`)
 
@@ -80,7 +80,7 @@
 - `modding-guides` — 5 items
 - `patch-and-update-overviews` — 5 items
 
-**Comparisons (0)**: _(none)_
+**Comparisons (3)**: `cyber-engine-tweaks-vs-red4ext` (short), `official-build-planner-vs-nukes-and-dragons` (short), `vortex-mod-manager-vs-redmod` (short)
 
 ### Destiny 2 (`destiny-2`)
 
@@ -95,7 +95,7 @@
 - `raid-guides` — 5 items
 - `season-overviews` — 5 items
 
-**Comparisons (0)**: _(none)_
+**Comparisons (3)**: `dim-vs-braytech` (short), `light-gg-vs-d2-foundry` (short), `trials-report-vs-destiny-tracker` (short)
 
 ### Diablo IV (`diablo-4`)
 
@@ -125,7 +125,7 @@
 - `patch-coverage` — 5 items
 - `ranked-improvement` — 5 items
 
-**Comparisons (0)**: _(none)_
+**Comparisons (3)**: `dota2protracker-vs-dotafire` (short), `dotabuff-vs-stratz` (short), `opendota-vs-stratz` (short)
 
 ### Elden Ring (`elden-ring`)
 
@@ -246,7 +246,7 @@
 - `patch-coverage` — 5 items
 - `ranked-improvement` — 5 items
 
-**Comparisons (0)**: _(none)_
+**Comparisons (4)**: `blitz-gg-vs-op-gg` (short), `op-gg-vs-mobalytics` (short), `probuilds-net-vs-u-gg` (short), `u-gg-vs-op-gg` (short)
 
 ### No Man's Sky (`no-mans-sky`)
 
@@ -381,7 +381,7 @@
 - `patch-coverage` — 5 items
 - `ranked-improvement` — 5 items
 
-**Comparisons (0)**: _(none)_
+**Comparisons (4)**: `aim-lab-vs-kovaaks` (short), `blitz-gg-vs-tracker-gg` (short), `tracker-gg-vs-mobalytics` (short), `vlr-gg-vs-thespike-gg` (short)
 
 ### Windrose (`windrose`)
 

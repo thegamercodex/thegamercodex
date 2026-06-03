@@ -1,0 +1,32 @@
+{
+  "id": "scope-gg-vs-leetify",
+  "toolIds": ["scope-gg", "leetify"],
+  "category": "demo-analysis",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "scope.gg cuando tu cuello de botella es utility y quieres ver tus smokes, flashes y molotovs reproducidos en un replay 2D para entender qué falló y cuándo. Leetify cuando buscas un primer pase de coaching estructurado: scores por categoría (aim, positioning, trades) comparados contra el rango superior para saber qué arreglar primero.",
+  "verdictEn": "scope.gg when your bottleneck is utility and you want to watch your smokes, flashes, and molotovs replayed in a 2D viewer to understand what failed and when. Leetify when you want a first structured coaching pass: per-category scores (aim, positioning, trades) benchmarked against the rank above so you know what to fix first.",
+  "useCases": [
+    {
+      "labelEs": "Entender por qué tus smokes y flashes fallan",
+      "labelEn": "Understand why your smokes and flashes fail",
+      "winner": "scope-gg",
+      "reasonEs": "El replay 2D hace visible el timing y la trayectoria de cada utility; Leetify solo da un score agregado de utility usage.",
+      "reasonEn": "The 2D replay makes the timing and trajectory of each utility visible; Leetify only gives an aggregate utility-usage score."
+    },
+    {
+      "labelEs": "Saber qué debilidad atacar primero para subir de rango",
+      "labelEn": "Know which weakness to attack first to climb ranks",
+      "winner": "leetify",
+      "reasonEs": "Leetify puntúa aim, positioning y trade efficiency contra el rango superior y señala el déficit concreto; scope.gg no prioriza por ti.",
+      "reasonEn": "Leetify scores aim, positioning, and trade efficiency against the rank above and flags the concrete deficit; scope.gg doesn't prioritize for you."
+    },
+    {
+      "labelEs": "Seguir tu progreso a lo largo de semanas o temporadas",
+      "labelEn": "Track your progress across weeks or seasons",
+      "winner": "leetify",
+      "reasonEs": "Leetify tiene dashboard agregado con gráficos históricos por categoría; scope.gg está centrado en el replay match a match.",
+      "reasonEn": "Leetify has an aggregated dashboard with historical per-category graphs; scope.gg is centered on match-by-match replay."
+    }
+  ]
+}

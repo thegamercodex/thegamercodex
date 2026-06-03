@@ -1,0 +1,32 @@
+{
+  "id": "op-gg-vs-mobalytics",
+  "toolIds": ["op-gg", "mobalytics"],
+  "category": "match-history",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "OP.GG cuando solo necesitas consultar rapido: rank, match history, scout de oponentes y tier lists del patch, sin login ni instalacion. Mobalytics cuando tu objetivo es mejorar de forma estructurada: el GPI diagnostica que areas trabajar y propone un plan, a cambio de crear cuenta y tolerar una capa pedagogica que en la consulta puntual sobra.",
+  "verdictEn": "OP.GG when you just need a fast lookup: rank, match history, opponent scouting, and current-patch tier lists, with no login or install. Mobalytics when your goal is structured improvement: the GPI diagnoses which areas to work on and proposes a plan, in exchange for creating an account and tolerating a pedagogical layer that's overhead for a quick check.",
+  "useCases": [
+    {
+      "labelEs": "Revisar el rank o el perfil de un amigo de un vistazo",
+      "labelEn": "Check a friend's rank or profile at a glance",
+      "winner": "op-gg",
+      "reasonEs": "OP.GG abre el perfil sin login ni instalacion; Mobalytics exige crear cuenta y conectar Riot ID antes de mostrar nada.",
+      "reasonEn": "OP.GG opens the profile with no login or install; Mobalytics requires creating an account and connecting a Riot ID before showing anything."
+    },
+    {
+      "labelEs": "Saber que tengo que mejorar para subir de elo",
+      "labelEn": "Figure out what to improve to climb in elo",
+      "winner": "mobalytics",
+      "reasonEs": "El GPI descompone tu performance en 8 areas y marca las prioritarias; OP.GG muestra que paso pero no por que pierdes.",
+      "reasonEn": "The GPI breaks your performance into 8 areas and flags the priorities; OP.GG shows what happened but not why you lose."
+    },
+    {
+      "labelEs": "Scoutear el champion pool de un oponente en champ select",
+      "labelEn": "Scout an opponent's champion pool during champ select",
+      "winner": "op-gg",
+      "reasonEs": "Pegas el Riot ID y ves picks recientes y win rate al instante; Mobalytics no esta pensado para consultar cuentas ajenas rapido.",
+      "reasonEn": "Paste the Riot ID and see recent picks and win rate instantly; Mobalytics isn't built for fast lookups of other people's accounts."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "dim-vs-braytech",
+  "toolIds": ["dim", "braytech"],
+  "category": "loadout-planning",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "DIM para gestionar activamente tu inventario: mover gear, armar loadouts y limpiar el vault. Braytech para auditar tu progresión: vendor checklists, triumphs y collections. No compiten de frente; muchos jugadores usan ambas en la misma sesión.",
+  "verdictEn": "DIM for actively managing your inventory: moving gear, building loadouts, and cleaning the vault. Braytech for auditing your progression: vendor checklists, triumphs, and collections. They don't compete head-on; many players run both in the same session.",
+  "useCases": [
+    {
+      "labelEs": "Armar y equipar loadouts por actividad",
+      "labelEn": "Build and equip loadouts per activity",
+      "winner": "dim",
+      "reasonEs": "DIM tiene loadout builder, optimizer y transferencia de gear con un click; Braytech no gestiona inventario.",
+      "reasonEn": "DIM has a loadout builder, optimizer, and one-click gear transfer; Braytech doesn't manage inventory."
+    },
+    {
+      "labelEs": "Ver qué triumphs o vendor items te faltan esta semana",
+      "labelEn": "See which triumphs or vendor items you're missing this week",
+      "winner": "braytech",
+      "reasonEs": "Braytech consolida vendor checklists, triumph progress y collections en una pantalla; DIM no cubre tracking de progresión.",
+      "reasonEn": "Braytech consolidates vendor checklists, triumph progress, and collections in one screen; DIM doesn't cover progression tracking."
+    },
+    {
+      "labelEs": "Limpiar duplicados y desensamblar gear viejo en bulk",
+      "labelEn": "Clean duplicates and shard old gear in bulk",
+      "winner": "dim",
+      "reasonEs": "La sintaxis de búsqueda de DIM (is:dupe, tags) y el bulk shard hacen esto en segundos; Braytech no toca el inventario.",
+      "reasonEn": "DIM's search syntax (is:dupe, tags) and bulk shard do this in seconds; Braytech doesn't touch the inventory."
+    }
+  ]
+}

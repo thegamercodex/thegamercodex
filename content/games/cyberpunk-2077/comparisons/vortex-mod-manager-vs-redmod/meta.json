@@ -1,0 +1,32 @@
+{
+  "id": "vortex-mod-manager-vs-redmod",
+  "toolIds": ["vortex-mod-manager", "redmod"],
+  "category": "modding-tools",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Vortex es un mod manager: instala, ordena y desinstala cualquier mod de Cyberpunk 2077 desde Nexus con un click, sin importar su tipo. REDmod es el sistema oficial de CD Projekt RED: integrado al launcher, conserva achievements y sobrevive a los patches, pero solo cubre animaciones, sonidos y scripts redscript. No compiten de frente; resuelven capas distintas y suelen usarse juntas.",
+  "verdictEn": "Vortex is a mod manager: it installs, orders, and uninstalls any Cyberpunk 2077 mod from Nexus in one click, regardless of type. REDmod is CD Projekt RED's official system: launcher-integrated, keeps achievements enabled, and survives patches, but only covers animations, sounds, and redscript. They don't compete head-on; they solve different layers and are often used together.",
+  "useCases": [
+    {
+      "labelEs": "Manejar 10-30 mods de tipos distintos sin perder el orden",
+      "labelEn": "Manage 10-30 mods of different types without losing track",
+      "winner": "vortex-mod-manager",
+      "reasonEs": "Vortex es el source-of-truth de qué mods están instalados, dónde viven y cómo se ordenan; REDmod solo gestiona su propio subset en la carpeta mods\\.",
+      "reasonEn": "Vortex is the source-of-truth for what's installed, where it lives, and how it's ordered; REDmod only manages its own subset in the mods\\ folder."
+    },
+    {
+      "labelEs": "Modear conservando los achievements de Steam",
+      "labelEn": "Mod while keeping Steam achievements enabled",
+      "winner": "redmod",
+      "reasonEs": "REDmod corre dentro del runtime soportado por CDPR y no dispara las protecciones que desactivan los logros, cosa que el stack inyectado (CET/RED4ext) sí hace.",
+      "reasonEn": "REDmod runs inside CDPR's supported runtime and doesn't trip the protections that disable achievements, unlike the injected CET/RED4ext stack."
+    },
+    {
+      "labelEs": "Seguir jugando con mods justo después de un patch del juego",
+      "labelEn": "Keep playing modded right after a game patch",
+      "winner": "redmod",
+      "reasonEs": "CDPR mantiene REDmod, así que sobrevive a los updates; Vortex sigue funcionando como manager pero los mods inyectados que gestiona pueden tardar 24-72h en actualizarse.",
+      "reasonEn": "CDPR maintains REDmod, so it survives updates; Vortex still works as a manager but the injected mods it handles can take 24-72h to update."
+    }
+  ]
+}

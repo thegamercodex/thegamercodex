@@ -1,0 +1,32 @@
+{
+  "id": "aim-lab-vs-kovaaks",
+  "toolIds": ["aim-lab", "kovaaks"],
+  "category": "aim-training",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Aim Lab si recién empiezas con aim training: es free, corre en Steam, Epic y consolas, y tiene mejor onboarding con presets calibrados a Valorant. KovaaK's cuando ya tienes base (50-100 horas) y quieres profundidad: librería community-made enorme, benchmarks Voltaic y routines de pros, a cambio de ~$10 one-time y solo en Windows.",
+  "verdictEn": "Aim Lab if you're just starting with aim training: it's free, runs on Steam, Epic, and consoles, and has friendlier onboarding with Valorant-calibrated presets. KovaaK's once you have a base (50-100 hours) and want depth: a huge community-made library, Voltaic benchmarks, and pro-designed routines, in exchange for a ~$10 one-time price and Windows-only support.",
+  "useCases": [
+    {
+      "labelEs": "Empezar a entrenar aim por primera vez",
+      "labelEn": "Start training aim for the first time",
+      "winner": "aim-lab",
+      "reasonEs": "Es free, tiene onboarding linear y presets de Valorant listos; KovaaK's abruma a principiantes con scenarios no curados.",
+      "reasonEn": "It's free, has linear onboarding and ready Valorant presets; KovaaK's overwhelms beginners with uncurated scenarios."
+    },
+    {
+      "labelEs": "Entrenar en PS5 o Xbox",
+      "labelEn": "Train on PS5 or Xbox",
+      "winner": "aim-lab",
+      "reasonEs": "Aim Lab corre en consolas; KovaaK's es solo Windows y no tiene versión de consola.",
+      "reasonEn": "Aim Lab runs on consoles; KovaaK's is Windows-only with no console version."
+    },
+    {
+      "labelEs": "Grindear con benchmarks competitivos y routines de pros",
+      "labelEn": "Grind with competitive benchmarks and pro routines",
+      "winner": "kovaaks",
+      "reasonEs": "Tiene los benchmarks Voltaic y miles de scenarios community-made que Aim Lab no ofrece a esa profundidad.",
+      "reasonEn": "It has Voltaic benchmarks and thousands of community-made scenarios Aim Lab doesn't offer at that depth."
+    }
+  ]
+}

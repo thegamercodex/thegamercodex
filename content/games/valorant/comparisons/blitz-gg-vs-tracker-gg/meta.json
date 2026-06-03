@@ -1,0 +1,32 @@
+{
+  "id": "blitz-gg-vs-tracker-gg",
+  "toolIds": ["blitz-gg", "tracker-gg"],
+  "category": "match-history",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Blitz.gg para info en tiempo real durante la partida: su overlay desktop muestra picks, tier lists y stats del lobby en agent select sin alt-tab. Tracker.gg para análisis post-partida en el browser: match history profundo, win rate por agente y mapa, y comparativas por percentil contra tu rango. Suelen usarse juntas: una resuelve el momento de jugar, la otra el de revisar.",
+  "verdictEn": "Blitz.gg for real-time info during the match: its desktop overlay surfaces picks, tier lists, and lobby stats in agent select without alt-tabbing. Tracker.gg for post-match analysis in the browser: deep match history, win rate by agent and map, and percentile comparisons against your rank. They tend to pair up: one covers the moment of playing, the other the moment of reviewing.",
+  "useCases": [
+    {
+      "labelEs": "Ver picks y tier list durante el agent select",
+      "labelEn": "See picks and tier list during agent select",
+      "winner": "blitz-gg",
+      "reasonEs": "El overlay de Blitz muestra comp suggestions y tier lists sobre el cliente en los 25 segundos de lock-in; Tracker.gg es web-only y obliga a alt-tab.",
+      "reasonEn": "Blitz's overlay shows comp suggestions and tier lists over the client during the 25-second lock-in; Tracker.gg is web-only and forces an alt-tab."
+    },
+    {
+      "labelEs": "Analizar tu win rate por agente y mapa a lo largo del act",
+      "labelEn": "Analyze your win rate by agent and map across the act",
+      "winner": "tracker-gg",
+      "reasonEs": "Tracker.gg da match history completo con filtros por modo, agente y mapa más comparativas por percentil que Blitz no profundiza.",
+      "reasonEn": "Tracker.gg gives full match history with filters by mode, agent, and map plus percentile comparisons that Blitz doesn't go deep on."
+    },
+    {
+      "labelEs": "Revisar el perfil de un oponente en el pre-game lobby",
+      "labelEn": "Check an opponent's profile in the pre-game lobby",
+      "winner": "tracker-gg",
+      "reasonEs": "Tracker.gg permite buscar el Riot ID del rival y ver su agent pool, K/D y mapas fuertes con datos comunitarios más completos.",
+      "reasonEn": "Tracker.gg lets you search the rival's Riot ID and see their agent pool, K/D, and strong maps with more complete community data."
+    }
+  ]
+}

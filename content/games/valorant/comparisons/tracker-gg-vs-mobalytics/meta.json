@@ -1,0 +1,32 @@
+{
+  "id": "tracker-gg-vs-mobalytics",
+  "toolIds": ["tracker-gg", "mobalytics"],
+  "category": "match-history",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Tracker.gg para medir tu performance con datos crudos: win rate por agente, percentiles por rango, match history profundo y lookup de oponentes. Mobalytics para aprender a jugar con contenido editorial: guías por agente, lineups por mapa y tier lists explicadas. Una mide lo que pasó; la otra te enseña qué hacer.",
+  "verdictEn": "Tracker.gg to measure your performance with raw data: win rate by agent, percentiles by rank, deep match history, and opponent lookup. Mobalytics to learn how to play with editorial content: agent guides, per-map lineups, and explained tier lists. One measures what happened; the other teaches you what to do.",
+  "useCases": [
+    {
+      "labelEs": "Revisar tendencias de tu carrera y comparar contra tu rango",
+      "labelEn": "Review your career trends and compare against your rank",
+      "winner": "tracker-gg",
+      "reasonEs": "Tracker.gg tiene match history profundo, percentiles por rango y filtros por mapa/agente que Mobalytics no iguala en su dashboard liviano.",
+      "reasonEn": "Tracker.gg has deep match history, rank percentiles, and map/agent filters that Mobalytics doesn't match in its lightweight dashboard."
+    },
+    {
+      "labelEs": "Aprender un agente nuevo desde cero",
+      "labelEn": "Learn a new agent from scratch",
+      "winner": "mobalytics",
+      "reasonEs": "Las páginas de agente de Mobalytics cubren kit, rol, sinergias y mapas con contenido editorial; Tracker.gg solo da numeros sin explicar como jugar.",
+      "reasonEn": "Mobalytics agent pages cover kit, role, synergies, and maps with editorial content; Tracker.gg only gives numbers without explaining how to play."
+    },
+    {
+      "labelEs": "Stalkear el perfil de un oponente en el pre-game lobby",
+      "labelEn": "Scout an opponent's profile in the pre-game lobby",
+      "winner": "tracker-gg",
+      "reasonEs": "Tracker.gg expone agent pool, K/D y mapas fuertes de cualquier perfil publico; Mobalytics no se enfoca en lookup de otros jugadores.",
+      "reasonEn": "Tracker.gg exposes any public profile's agent pool, K/D, and strong maps; Mobalytics doesn't focus on looking up other players."
+    }
+  ]
+}

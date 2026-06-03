@@ -1,0 +1,32 @@
+{
+  "id": "light-gg-vs-d2-foundry",
+  "toolIds": ["light-gg", "d2-foundry"],
+  "category": "weapon-stats",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "light.gg para appraisear un drop rápido: catálogo completo, god rolls votados por la comunidad y vendor rolls. D2 Foundry para cuando necesitas el número exacto: TTK y daño contra un target específico con matemática expuesta. Casi siempre se usan en flujo, no como rivales.",
+  "verdictEn": "light.gg for quickly appraising a drop: full catalog, community-voted god rolls, and vendor rolls. D2 Foundry for when you need the exact number: TTK and damage against a specific target with the math exposed. They're almost always used in a flow, not as rivals.",
+  "useCases": [
+    {
+      "labelEs": "Decidir si guardas o desensamblas un arma que acaba de dropear",
+      "labelEn": "Decide whether to keep or shard a weapon that just dropped",
+      "winner": "light-gg",
+      "reasonEs": "light.gg muestra el god roll comunitario al instante para comparar tu roll perk por perk.",
+      "reasonEn": "light.gg shows the community god roll instantly so you can compare your roll perk by perk."
+    },
+    {
+      "labelEs": "Saber cuánto daño o TTK hace un roll contra un target concreto",
+      "labelEn": "Know the exact damage or TTK of a roll against a specific target",
+      "winner": "d2-foundry",
+      "reasonEs": "D2 Foundry calcula daño por bullet, TTK y falloff contra Major, Champion o Guardian con resilience X.",
+      "reasonEn": "D2 Foundry computes damage per bullet, TTK, and falloff against a Major, Champion, or Guardian at resilience X."
+    },
+    {
+      "labelEs": "Buscar todas las armas que pueden dropear con un perk concreto",
+      "labelEn": "Find every weapon that can drop with a specific perk",
+      "winner": "light-gg",
+      "reasonEs": "El filtro de la base de datos de light.gg cubre todo el pool de armas; D2 Foundry no es un buscador de catálogo.",
+      "reasonEn": "light.gg's database filter covers the whole weapon pool; D2 Foundry isn't a catalog browser."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cyber-engine-tweaks-vs-red4ext",
+  "toolIds": ["cyber-engine-tweaks", "red4ext"],
+  "category": "modding-tools",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "No es una verdadera disyuntiva: la mayoría de setups de modding instalan ambas. CET es la capa de scripting Lua con consola interactiva, ideal para mods Lua y debug in-game; RED4ext es la capa nativa C++ invisible sobre la que se montan TweakXL, ArchiveXL y Codeware. Si un mod pide solo una, instala esa; si modeas en serio, terminas con las dos.",
+  "verdictEn": "Not a real either-or: most modding setups install both. CET is the Lua scripting layer with an interactive console, ideal for Lua mods and in-game debugging; RED4ext is the invisible native C++ layer that TweakXL, ArchiveXL, and Codeware build on. If a mod asks for only one, install that one; if you mod seriously, you end up with both.",
+  "useCases": [
+    {
+      "labelEs": "Correr un mod Lua y diagnosticarlo con consola in-game",
+      "labelEn": "Run a Lua mod and debug it with an in-game console",
+      "winner": "cyber-engine-tweaks",
+      "reasonEs": "CET aporta el runtime de Lua, el overlay con consola y el panel de Logs; RED4ext no tiene UI ni intérprete Lua.",
+      "reasonEn": "CET provides the Lua runtime, the console overlay, and the Logs panel; RED4ext has no UI or Lua interpreter."
+    },
+    {
+      "labelEs": "Habilitar TweakXL, ArchiveXL o Codeware",
+      "labelEn": "Enable TweakXL, ArchiveXL, or Codeware",
+      "winner": "red4ext",
+      "reasonEs": "Esas dependencias intermedias son plugins C++ que cargan sobre RED4ext, no sobre la capa Lua de CET.",
+      "reasonEn": "Those intermediate dependencies are C++ plugins that load on top of RED4ext, not on CET's Lua layer."
+    },
+    {
+      "labelEs": "Escribir un mod nativo C++ con acceso profundo y rendimiento",
+      "labelEn": "Write a native C++ mod with deep access and performance",
+      "winner": "red4ext",
+      "reasonEs": "RED4ext expone wrappers tipados a funciones internas del engine para plugins compilados; CET solo expone Lua.",
+      "reasonEn": "RED4ext exposes typed wrappers to internal engine functions for compiled plugins; CET only exposes Lua."
+    }
+  ]
+}

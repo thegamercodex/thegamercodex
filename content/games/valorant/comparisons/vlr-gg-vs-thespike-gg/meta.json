@@ -1,0 +1,32 @@
+{
+  "id": "vlr-gg-vs-thespike-gg",
+  "toolIds": ["vlr-gg", "thespike-gg"],
+  "category": "pro-esports",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "VLR.gg cuando necesitas datos: resultados en vivo, stats de jugadores por mapa y agente, calendario y brackets de VCT. The Spike cuando quieres entender el porqué: recaps editoriales, rumores de transferencias y análisis de meta escritos con voz propia. VLR responde qué pasó; The Spike explica qué significa.",
+  "verdictEn": "VLR.gg when you need data: live results, player stats by map and agent, VCT calendar and brackets. The Spike when you want the why: editorial recaps, transfer rumors, and meta analysis written with a clear voice. VLR answers what happened; The Spike explains what it means.",
+  "useCases": [
+    {
+      "labelEs": "Consultar stats de un pro por mapa o agente",
+      "labelEn": "Look up a pro's stats by map or agent",
+      "winner": "vlr-gg",
+      "reasonEs": "VLR tiene páginas de jugador con K/D, ACS y win rate por agente desde el lanzamiento; The Spike no maneja datos granulares.",
+      "reasonEn": "VLR has player pages with K/D, ACS, and win rate by agent since launch; The Spike doesn't handle granular data."
+    },
+    {
+      "labelEs": "Entender por qué un cambio de roster importa",
+      "labelEn": "Understand why a roster move matters",
+      "winner": "thespike-gg",
+      "reasonEs": "The Spike contextualiza el movimiento y la dinámica de meta; VLR solo documenta que ocurrió.",
+      "reasonEn": "The Spike contextualizes the move and the meta dynamics; VLR only documents that it happened."
+    },
+    {
+      "labelEs": "Seguir el calendario y resultados de VCT día a día",
+      "labelEn": "Follow VCT calendar and results day to day",
+      "winner": "vlr-gg",
+      "reasonEs": "VLR muestra scoreboards en vivo y resultados a los minutos de terminar el partido; The Spike publica recaps despues, no en tiempo real.",
+      "reasonEn": "VLR shows live scoreboards and results within minutes of a match ending; The Spike publishes recaps afterward, not in real time."
+    }
+  ]
+}

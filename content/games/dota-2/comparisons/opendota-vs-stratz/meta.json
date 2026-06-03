@@ -1,0 +1,32 @@
+{
+  "id": "opendota-vs-stratz",
+  "toolIds": ["opendota", "stratz"],
+  "category": "match-history",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "OpenDota cuando quieres data raw, auditable y queryable: parsing profundo de replays, SQL Explorer y la API que casi todas las tools de Dota 2 terminan integrando. STRATZ cuando quieres que la data te diga qué mejorar: dashboard personalizado, predicciones AI y app mobile nativa. La primera es la opción del builder; la segunda, la del jugador que busca feedback con UX moderna.",
+  "verdictEn": "OpenDota when you want raw, auditable, queryable data: deep replay parsing, the SQL Explorer, and the API almost every Dota 2 tool eventually integrates with. STRATZ when you want the data to tell you what to improve: personalized dashboard, AI predictions, and a native mobile app. The first is the builder's pick; the second, the player who wants feedback with modern UX.",
+  "useCases": [
+    {
+      "labelEs": "Construir una tool, bot u overlay sobre la data de Dota 2",
+      "labelEn": "Build a tool, bot, or overlay on top of Dota 2 data",
+      "winner": "opendota",
+      "reasonEs": "Su API es el estándar de-facto del ecosistema, con 50K llamadas gratis al mes y un replay parser open-source que muchas tools reutilizan.",
+      "reasonEn": "Its API is the ecosystem's de-facto standard, with 50K free calls per month and an open-source replay parser many tools reuse."
+    },
+    {
+      "labelEs": "Recibir sugerencias de qué mejorar después de una partida",
+      "labelEn": "Get suggestions on what to improve after a match",
+      "winner": "stratz",
+      "reasonEs": "Interpreta la data en lugar de solo mostrarla: MMR Estimator, breakdowns AI y alertas sobre patrones que correlacionan con derrotas.",
+      "reasonEn": "It interprets the data instead of just displaying it: MMR Estimator, AI breakdowns, and alerts on patterns that correlate with losses."
+    },
+    {
+      "labelEs": "Responder una pregunta concreta del meta con una query custom",
+      "labelEn": "Answer a specific meta question with a custom query",
+      "winner": "opendota",
+      "reasonEs": "El SQL Explorer corre consultas arbitrarias sobre la base pública de partidas; STRATZ solo muestra los cortes que su UI decide exponer.",
+      "reasonEn": "The SQL Explorer runs arbitrary queries on the public match database; STRATZ only shows the cuts its UI chooses to expose."
+    }
+  ]
+}

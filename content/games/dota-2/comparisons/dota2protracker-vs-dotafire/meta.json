@@ -1,0 +1,32 @@
+{
+  "id": "dota2protracker-vs-dotafire",
+  "toolIds": ["dota2protracker", "dotafire"],
+  "category": "hero-builds",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Dota2ProTracker para el qué del meta actual: top items y skill orders extraídos de partidas en 7000+ MMR y pro, listos para consultar en 30 segundos antes de poner queue. DOTAFire para el por qué: guías escritas long-form de la comunidad que explican el razonamiento estratégico de cada decisión. Lo ideal es usar las dos: aprende los fundamentos en DOTAFire y valida las builds actuales en D2PT.",
+  "verdictEn": "Dota2ProTracker for the what of the current meta: top items and skill orders pulled from 7000+ MMR and pro matches, ready to check in 30 seconds before queuing. DOTAFire for the why: long-form community-written guides that explain the strategic reasoning behind each decision. Ideally use both: learn fundamentals on DOTAFire and validate current builds on D2PT.",
+  "useCases": [
+    {
+      "labelEs": "Chequear las builds e items actuales antes de poner queue",
+      "labelEn": "Check current builds and items before queuing",
+      "winner": "dota2protracker",
+      "reasonEs": "D2PT destila el meta de alto MMR en top-items y skill order que se consultan en 30 segundos; DOTAFire requiere leer una guía completa.",
+      "reasonEn": "D2PT distills the high-MMR meta into top items and skill order you can check in 30 seconds; DOTAFire requires reading a full guide."
+    },
+    {
+      "labelEs": "Entender por qué una build funciona y aprender un héroe en profundidad",
+      "labelEn": "Understand why a build works and learn a hero in depth",
+      "winner": "dotafire",
+      "reasonEs": "Las guías de DOTAFire explican el razonamiento de lane phase, items y matchups; D2PT muestra el qué pero no el por qué.",
+      "reasonEn": "DOTAFire guides explain lane-phase reasoning, items, and matchups; D2PT shows the what but not the why."
+    },
+    {
+      "labelEs": "Adaptarse rápido en los días siguientes a un parche grande",
+      "labelEn": "Adapt quickly in the days after a big patch",
+      "winner": "dota2protracker",
+      "reasonEs": "D2PT muestra cómo se adapta el alto MMR en pocos días; las guías escritas de DOTAFire pueden tardar semanas en actualizarse.",
+      "reasonEn": "D2PT shows how high MMR adapts within days; DOTAFire's written guides can take weeks to update."
+    }
+  ]
+}

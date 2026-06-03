@@ -1,0 +1,32 @@
+{
+  "id": "faceit-vs-esea",
+  "toolIds": ["faceit", "esea"],
+  "category": "competitive-platform",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Faceit para matchmaking competitivo cotidiano: tier free jugable, base masiva, anti-cheat actualizado y queue rápida en la mayoría de regiones. ESEA para ligas estructuradas por temporada con divisiones y promotion/relegation, o si ya tienes una cuenta legacy con historial. Ambas son hoy del mismo dueño (ESL FACEIT Group), pero el foco activo migró a Faceit.",
+  "verdictEn": "Faceit for day-to-day competitive matchmaking: playable free tier, massive base, up-to-date anti-cheat, and fast queue in most regions. ESEA for structured season leagues with divisions and promotion/relegation, or if you already hold a legacy account with history. Both are now owned by ESL FACEIT Group, but the active focus migrated to Faceit.",
+  "useCases": [
+    {
+      "labelEs": "Empezar CS2 competitivo serio en 2026 sin pagar de entrada",
+      "labelEn": "Start serious CS2 competitive in 2026 without paying upfront",
+      "winner": "faceit",
+      "reasonEs": "El tier free de Faceit permite matchmaking ilimitado; ESEA exige suscripción paga para jugar.",
+      "reasonEn": "Faceit's free tier allows unlimited matchmaking; ESEA requires a paid subscription to play."
+    },
+    {
+      "labelEs": "Competir en formato liga por temporada con divisiones y ascensos",
+      "labelEn": "Compete in a season-based league with divisions and promotion",
+      "winner": "esea",
+      "reasonEs": "ESEA mantiene su formato Open-Intermediate-Main-Premier con calendar fijo y promotion/relegation que Faceit no replica.",
+      "reasonEn": "ESEA keeps its Open-Intermediate-Main-Premier format with a fixed calendar and promotion/relegation that Faceit doesn't replicate."
+    },
+    {
+      "labelEs": "Encontrar partida rápida con anti-cheat actualizado fuera de horario pico",
+      "labelEn": "Find a fast match with up-to-date anti-cheat outside peak hours",
+      "winner": "faceit",
+      "reasonEs": "La base masiva de Faceit y FACEIT AC más actualizado ganan donde la base activa de ESEA es chica.",
+      "reasonEn": "Faceit's massive base and more up-to-date FACEIT AC win where ESEA's active base is small."
+    }
+  ]
+}

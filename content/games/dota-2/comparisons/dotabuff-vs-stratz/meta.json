@@ -1,0 +1,32 @@
+{
+  "id": "dotabuff-vs-stratz",
+  "toolIds": ["dotabuff", "stratz"],
+  "category": "match-history",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Dotabuff para lookup rápido, scouting en champ select y el dataset más amplio del ecosistema con una UI familiar. STRATZ cuando quieres insights interpretativos, dashboards personalizados, predicciones AI y una app mobile nativa. Ambas son web apps gratuitas con un Plus de ~$3.50/mes, así que muchos jugadores comprometidos terminan usando las dos.",
+  "verdictEn": "Dotabuff for quick lookup, champ-select scouting, and the broadest dataset in the ecosystem with a familiar UI. STRATZ when you want interpretive insights, personalized dashboards, AI predictions, and a native mobile app. Both are free web apps with a ~$3.50/month Plus tier, so many committed players end up using both.",
+  "useCases": [
+    {
+      "labelEs": "Scoutear a un oponente o teammate en champ select",
+      "labelEn": "Scout an opponent or teammate in champ select",
+      "winner": "dotabuff",
+      "reasonEs": "El lookup por nombre o Steam ID es directo y familiar, ideal para el contexto de 30 segundos antes de una partida.",
+      "reasonEn": "Name or Steam ID lookup is direct and familiar, ideal for the 30-second context before a match."
+    },
+    {
+      "labelEs": "Recibir sugerencias de qué mejorar y predicciones de partida",
+      "labelEn": "Get improvement suggestions and match predictions",
+      "winner": "stratz",
+      "reasonEs": "STRATZ interpreta la data con insights AI, MMR Estimator y predicciones de win probability; Dotabuff solo muestra los números.",
+      "reasonEn": "STRATZ interprets the data with AI insights, an MMR Estimator, and win-probability predictions; Dotabuff just shows the numbers."
+    },
+    {
+      "labelEs": "Revisar stats desde el teléfono después de jugar",
+      "labelEn": "Check stats from your phone after playing",
+      "winner": "stratz",
+      "reasonEs": "STRATZ tiene app nativa para iOS y Android con notificaciones de partidas terminadas; Dotabuff es solo web.",
+      "reasonEn": "STRATZ has a native iOS and Android app with finished-match notifications; Dotabuff is web-only."
+    }
+  ]
+}

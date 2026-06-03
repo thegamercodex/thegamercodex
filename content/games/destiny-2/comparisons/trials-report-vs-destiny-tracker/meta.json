@@ -1,0 +1,32 @@
+{
+  "id": "trials-report-vs-destiny-tracker",
+  "toolIds": ["trials-report", "destiny-tracker"],
+  "category": "player-tracking",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Trials Report cuando juegas Trials of Osiris con ambición flawless y quieres matchup analysis del fireteam enemigo en tiempo real. Destiny Tracker cuando quieres un panorama amplio de tus stats en todos los modos (Crucible, Gambit, PvE) con match history y leaderboards. La primera es profunda en un modo; la segunda es general en todo el juego.",
+  "verdictEn": "Trials Report when you play Trials of Osiris with flawless ambition and want real-time matchup analysis of the enemy fireteam. Destiny Tracker when you want a broad overview of your stats across every mode (Crucible, Gambit, PvE) with match history and leaderboards. The former goes deep on one mode; the latter goes wide across the whole game.",
+  "useCases": [
+    {
+      "labelEs": "Analizar al fireteam enemigo antes de un round de Trials",
+      "labelEn": "Analyze the enemy fireteam before a Trials round",
+      "winner": "trials-report",
+      "reasonEs": "Su matchup tool carga el historial del trio rival apenas el match empieza; Destiny Tracker no tiene esa integracion automatica por fireteam.",
+      "reasonEn": "Its matchup tool loads the rival trio's history as soon as the match starts; Destiny Tracker has no automatic per-fireteam integration."
+    },
+    {
+      "labelEs": "Revisar tu K/D y match history en Crucible regular, Gambit e Iron Banner",
+      "labelEn": "Review your K/D and match history across regular Crucible, Gambit, and Iron Banner",
+      "winner": "destiny-tracker",
+      "reasonEs": "Cubre todos los modos con match history detallado y filtros; Trials Report solo cubre Trials of Osiris.",
+      "reasonEn": "It covers every mode with detailed match history and filters; Trials Report only covers Trials of Osiris."
+    },
+    {
+      "labelEs": "Ver el meta de armas del fin de semana de Trials",
+      "labelEn": "Check the weekend weapon meta in Trials",
+      "winner": "trials-report",
+      "reasonEs": "Filtra weapon usage especificamente por el modo Trials; Destiny Tracker muestra tendencias mas generales por modo y patch.",
+      "reasonEn": "It filters weapon usage specifically by the Trials mode; Destiny Tracker shows broader trends by mode and patch."
+    }
+  ]
+}

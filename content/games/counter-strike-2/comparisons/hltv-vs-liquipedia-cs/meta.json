@@ -1,0 +1,32 @@
+{
+  "id": "hltv-vs-liquipedia-cs",
+  "toolIds": ["hltv", "liquipedia-cs"],
+  "category": "esports-stats",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "HLTV cuando quieres lo que pasa hoy: rankings semanales, news, demos descargables y el HLTV Rating que la escena usa para hablar de jugadores. Liquipedia cuando necesitas estructura factual: formato exacto de un torneo, prize pool detallado o historial limpio de transfers de un equipo. La mayoría de fans serios usa ambas.",
+  "verdictEn": "HLTV when you want what's happening today: weekly rankings, news, downloadable demos, and the HLTV Rating the scene uses to talk about players. Liquipedia when you need factual structure: a tournament's exact format, detailed prize pool, or a clean transfer history for a team. Most serious fans use both.",
+  "useCases": [
+    {
+      "labelEs": "Seguir rankings semanales y el rating de un jugador",
+      "labelEn": "Follow weekly rankings and a player's rating",
+      "winner": "hltv",
+      "reasonEs": "El Top 30 y el HLTV Rating 2.1 son la referencia compartida de la escena; Liquipedia no calcula rating propio.",
+      "reasonEn": "The Top 30 and HLTV Rating 2.1 are the scene's shared reference; Liquipedia computes no proprietary rating."
+    },
+    {
+      "labelEs": "Consultar el formato exacto y prize pool de un torneo histórico",
+      "labelEn": "Look up a historical tournament's exact format and prize pool",
+      "winner": "liquipedia-cs",
+      "reasonEs": "Los artículos enciclopédicos con infoboxes y brackets entregan el dato limpio; en HLTV llegas antes a una news que a la estructura.",
+      "reasonEn": "Encyclopedic articles with infoboxes and brackets deliver clean data; on HLTV you reach a news post faster than the structure."
+    },
+    {
+      "labelEs": "Descargar la demo de una partida profesional para estudiarla",
+      "labelEn": "Download a pro match demo to study it",
+      "winner": "hltv",
+      "reasonEs": "Cada partida importante en HLTV tiene su demo .dem descargable; Liquipedia documenta resultados pero no aloja demos.",
+      "reasonEn": "Every important match on HLTV has a downloadable .dem demo; Liquipedia documents results but doesn't host demos."
+    }
+  ]
+}

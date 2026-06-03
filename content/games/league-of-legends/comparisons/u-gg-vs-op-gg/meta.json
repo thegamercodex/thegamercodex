@@ -1,0 +1,32 @@
+{
+  "id": "u-gg-vs-op-gg",
+  "toolIds": ["u-gg", "op-gg"],
+  "category": "champion-builds",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "U.GG cuando la pregunta empieza por un campeón: qué construir, qué runas, qué counters para este matchup. OP.GG cuando empieza por una cuenta: revisar tu match history, scoutear teammates u oponentes, o trackear progreso de rank. Se solapan en tier lists y stats por champion, pero cada una optimiza una entrada distinta.",
+  "verdictEn": "U.GG when the question starts with a champion: what to build, which runes, which counters for this matchup. OP.GG when it starts with an account: reviewing your match history, scouting teammates or opponents, or tracking rank progress. They overlap on tier lists and per-champion stats, but each optimizes a different entry point.",
+  "useCases": [
+    {
+      "labelEs": "Consultar la build y runas óptimas de un campeón en el patch actual",
+      "labelEn": "Look up a champion's optimal build and runes for the current patch",
+      "winner": "u-gg",
+      "reasonEs": "La entrada natural de U.GG es el campeón: buscas pick + rol y obtienes items, runas y orden de habilidades en una vista única.",
+      "reasonEn": "U.GG's natural entry is the champion: search pick + role and get items, runes, and skill order in a single view."
+    },
+    {
+      "labelEs": "Revisar tu match history o scoutear una cuenta en champ select",
+      "labelEn": "Review your match history or scout an account in champ select",
+      "winner": "op-gg",
+      "reasonEs": "OP.GG es el tracker de summoner de facto, con perfil enriquecido y detalle por partida que U.GG solo cubre de forma complementaria.",
+      "reasonEn": "OP.GG is the de-facto summoner tracker, with an enriched profile and per-match detail that U.GG only covers as a complementary feature."
+    },
+    {
+      "labelEs": "Consultar stats agregados en una región pequeña (LAS, LAN, OCE, BR)",
+      "labelEn": "Check aggregated stats in a small region (LAS, LAN, OCE, BR)",
+      "winner": "op-gg",
+      "reasonEs": "Ambas tienen gaps fuera de KR/NA/EUW, pero OP.GG ofrece la cobertura de regiones más amplia del ecosistema.",
+      "reasonEn": "Both have gaps outside KR/NA/EUW, but OP.GG offers the broadest regional coverage in the ecosystem."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "official-build-planner-vs-nukes-and-dragons",
+  "toolIds": ["official-build-planner", "nukes-and-dragons"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Official Build Planner cuando quieres la fuente autoritativa siempre alineada al patch vigente o necesitas planear en español. Nukes & Dragons cuando iteras varios builds candidatos y valoras una UI con los 5 árboles lado a lado para comparar variantes rápido.",
+  "verdictEn": "Official Build Planner when you want the authoritative source always aligned to the current patch or need to plan in Spanish. Nukes & Dragons when you iterate over several candidate builds and value a UI with all 5 trees side-by-side to compare variants fast.",
+  "useCases": [
+    {
+      "labelEs": "Planear tu primer build con la info más actualizada al patch",
+      "labelEn": "Plan your first build with the most patch-current data",
+      "winner": "official-build-planner",
+      "reasonEs": "CD Projekt RED lo actualiza día uno cuando sale un patch; Nukes & Dragons puede tardar 1-2 semanas.",
+      "reasonEn": "CD Projekt RED updates it day one when a patch drops; Nukes & Dragons can lag 1-2 weeks."
+    },
+    {
+      "labelEs": "Comparar varias variantes de build rápido antes de gastar un Tarot Card",
+      "labelEn": "Compare several build variants fast before spending a Tarot Card",
+      "winner": "nukes-and-dragons",
+      "reasonEs": "Su layout con los 5 árboles lado a lado y sliders fluidos hace la iteración menos friccionada.",
+      "reasonEn": "Its side-by-side layout of all 5 trees and fluid sliders make iteration less friction-heavy."
+    },
+    {
+      "labelEs": "Planear en español sin pelear con nombres de perks en inglés",
+      "labelEn": "Plan in Spanish without fighting English perk names",
+      "winner": "official-build-planner",
+      "reasonEs": "El planner oficial es multilenguaje e incluye español; Nukes & Dragons es solo inglés.",
+      "reasonEn": "The official planner is multilingual and includes Spanish; Nukes & Dragons is English-only."
+    }
+  ]
+}

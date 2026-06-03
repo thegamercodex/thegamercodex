@@ -1,0 +1,32 @@
+{
+  "id": "probuilds-net-vs-u-gg",
+  "toolIds": ["probuilds-net", "u-gg"],
+  "category": "probuilds",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Probuilds.net para ver qué construyeron los pros en sus partidas reales recientes, especialmente en patches recién salidos donde la data agregada aún no estabiliza. U.GG para la build optimizada de tu rango, con runas, counters y tier lists en una vista limpia. La mayoría de jugadores vive en U.GG y abre Probuilds.net solo para adelantarse al meta.",
+  "verdictEn": "Probuilds.net to see what pros actually built in their recent real matches, especially on freshly shipped patches where aggregated data hasn't stabilized yet. U.GG for the optimized build for your rank, with runes, counters, and tier lists in a clean view. Most players live in U.GG and open Probuilds.net only to get ahead of the meta.",
+  "useCases": [
+    {
+      "labelEs": "Saber qué construir en un champion para tu rango",
+      "labelEn": "Know what to build on a champion for your rank",
+      "winner": "u-gg",
+      "reasonEs": "U.GG agrega millones de partidas filtrables por rango y rol, mientras que Probuilds.net solo muestra builds de Challenger que no siempre escalan.",
+      "reasonEn": "U.GG aggregates millions of games filterable by rank and role, while Probuilds.net only shows Challenger builds that don't always scale."
+    },
+    {
+      "labelEs": "Adelantarse al meta en los primeros días de un patch nuevo",
+      "labelEn": "Get ahead of the meta in the first days of a new patch",
+      "winner": "probuilds-net",
+      "reasonEs": "Probuilds.net muestra qué experimentan los pros horas después de cada partida, antes de que la data agregada de U.GG acumule sample suficiente.",
+      "reasonEn": "Probuilds.net shows what pros are experimenting with hours after each match, before U.GG's aggregated data accumulates enough sample."
+    },
+    {
+      "labelEs": "Estudiar runas, counters y tier list de tu rol antes de jugar ranked",
+      "labelEn": "Study runes, counters, and your role's tier list before playing ranked",
+      "winner": "u-gg",
+      "reasonEs": "U.GG concentra builds, runas importables, matchups y tier lists en un solo sitio; Probuilds.net no hace análisis de counters ni tier lists.",
+      "reasonEn": "U.GG concentrates builds, importable runes, matchups, and tier lists in one place; Probuilds.net does no counter analysis or tier lists."
+    }
+  ]
+}
