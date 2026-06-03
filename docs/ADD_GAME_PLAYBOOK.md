@@ -12,7 +12,7 @@ El usuario **revisa todo al final desde la web**. No pidas confirmación item po
 
 1. **`docs/RULES.md` completo** — convenciones de código, schema, editorial conventions de game .md / tool .md, reglas de batch.
 2. **`docs/SCHEMA_EVOLUTION.md`** — historial de cambios al schema. Si tu trabajo cambia un type, agregás entrada al final.
-3. **`src/types/index.ts`** — fuente de verdad. Antes de cada fase verificá `Tool`, `Creator`, `Resource`, `GameMeta`, `Theme`, `Platform`, `PlatformLink`, `PlaylistRef`, `MultiGame`, `CreatedBy`, los unions `ToolType`, `Difficulty`, `ResourceType`, `MonetizationModel`, `StorePlatform`.
+3. **`src/types/index.ts`** — fuente de verdad. Antes de cada fase verificá `Tool`, `Creator`, `Resource`, `GameMeta`, `Theme`, `Platform`, `PlatformLink`, `PlaylistRef`, `MultiGame`, `CreatedBy`, `ComparisonMeta`, `StackMeta`/`StackItem`, los unions `ToolType`, `Difficulty`, `ResourceType`, `MonetizationModel`, `StorePlatform`.
 4. **`content/games/path-of-exile-2/`** — template de referencia más reciente (estructura completa: meta.json, es.md, en.md, tools/, creators/, resources/). Replicá la estructura.
 
 Recordatorios cruzados:
@@ -450,7 +450,77 @@ Después de escribir todos los .md y meta.json, correr el grep de `docs/RULES.md
 
 ---
 
-## Phase 5 — Cierre
+## Phase 5 — Tool Stacks (mínimo: 1 por juego)
+
+Un **stack** es un bundle curado de tools que el jugador usa **juntas** para un objetivo end-to-end ("El toolkit completo de X"), no las "mejores" tools sueltas. Es un eje editorial que explota el concepto "Codex" (biblioteca curada) y captura intent de búsqueda tipo *"best X toolkit"*. Cada stack tiene su ruta SEO (`/[game]/stacks/<id>`), aparece en el game hub con cards + tab, y enlaza internamente a cada tool — baja el bounce de las tool pages.
+
+### 5A — Diseñar el/los stack(s)
+
+- El criterio es **complementariedad**, no popularidad: cada tool del stack cubre una **capa distinta** del workflow (planificación, economía, referencia, análisis, etc.). 5-6 tools es el sweet spot.
+- **Todas las tools del stack deben existir ya** en `content/games/<game-id>/tools/`. Un stack **orquesta** tools existentes; no introduce nuevas. Si querés una tool que no está, agregala en Phase 1C primero.
+- El **ángulo** se adapta al género (mirá un stack existente del género más cercano como template):
+  - **ARPG / gacha** → "toolkit de optimización" (build planner + economía/db + simulador + referencia). Ej: `path-of-exile`, `genshin-impact`, `honkai-star-rail`.
+  - **MMO** → "toolkit de endgame/raider" (guías + sim/optimizer + logs + referencia). Ej: `world-of-warcraft`, `final-fantasy-xiv`.
+  - **FPS / MOBA** → "toolkit para mejorar / subir de rango" (aim/setup + stats/tracking + coaching + lineups). Ej: `valorant`, `counter-strike-2`, `league-of-legends`.
+  - **Single-player modeable** → "toolkit de modding" (gestor + frameworks base + hub de mods). Ej: `skyrim`, `cyberpunk-2077`, `valheim`.
+  - **Survival / sandbox** → adaptado (base planning, server tools, referencia). Ej: `rust`, `palworld`.
+- **Mínimo 1 stack por juego.** Juegos grandes pueden tener 2 (uno "completo" + uno temático), pero no es obligatorio.
+
+### 5B — Estructura de archivos
+
+Por cada stack, en `content/games/<game-id>/stacks/<stack-id>/`:
+
+```
+meta.json    ← StackMeta type completo
+es.md        ← frontmatter (title, description) + body markdown
+en.md        ← idem
+```
+
+### 5C — Schema (ver `src/types/index.ts → StackMeta`)
+
+```json
+{
+  "id": "<stack-id>",
+  "category": "all-in-one",
+  "lastVerified": "YYYY-MM-DD",
+  "items": [
+    {
+      "toolId": "<existing-tool-id>",
+      "roleEs": "Qué aporta esta tool al stack (su rol en el workflow), 1 frase.",
+      "roleEn": "What this tool contributes to the stack (its role in the workflow), 1 sentence."
+    }
+  ]
+}
+```
+
+- `items[]`: en **orden de uso/importancia** — el primero es el "core" del stack.
+- `roleEs`/`roleEn`: describen **qué aporta la tool al stack**, no qué es la tool (eso ya vive en su análisis). Ej: *"El optimizador de artefactos. El core: te dice qué piezas equipar para maximizar el daño."*
+- `category`: string libre y opcional (`all-in-one` / `endgame` / `improvement` / `modding` …). Hoy no se renderiza; sirve de metadato.
+- `title`/`description` traducibles van en el **frontmatter de los `.md`**, NO en `meta.json` (mismo patrón que comparisons).
+
+### 5D — Body markdown
+
+Frontmatter:
+```
+---
+title: El toolkit completo de <Game>   (o "de endgame", "para subir de rango", etc.)
+description: 1-2 frases que resumen qué cubre el stack y para quién.
+---
+```
+
+Estructura típica (~40-60 líneas):
+1. **Intro**: qué logra el stack y para quién; por qué el juego "exige" herramientas externas.
+2. **"El flujo" / "Cómo se usa"**: narrá el workflow conectando las tools **en orden**, con sus nombres en bold.
+3. **"Por qué estas N"**: bullets que agrupan las tools por la capa que cubren (`Planificación → X + Y`, `Economía → Z`).
+4. **Cierre**: complementariedad + la frase "cada herramienta tiene su análisis completo en el codex".
+
+### 5E — Spanish neutro lint
+
+Correr el grep de `docs/RULES.md → "Español neutro"` sobre `content/games/<game-id>/stacks/` (incluyendo los `roleEs` de los `meta.json`). El voseo se cuela MUCHO acá (`sabés`/`querés`/`podés`/`armás`/`calculás`) — limpiar todo match antes de cerrar.
+
+---
+
+## Phase 6 — Cierre
 
 1. **Build**: `PATH="/Users/gersoncarcamo/.nvm/versions/node/v22.22.2/bin:$PATH" npx next build` debe pasar sin errores. Si falla, fixear y reportar.
 2. **Inventory**: `npm run inventory` para regenerar `docs/CONTENT_INVENTORY.md` con los nuevos counts.
@@ -463,6 +533,7 @@ Después de escribir todos los .md y meta.json, correr el grep de `docs/RULES.md
    - Creators agregados (5 / cuáles / channelIds verificados / avatares descargados ok)
    - Resources agregados por categoría (5 cada una)
    - Comparisons agregadas (cuántas, qué pares, depth de cada una; flaggear explícitamente si quedó por debajo del mínimo de 7 y por qué)
+   - Stacks agregados (cuántos, qué id y cuántas tools cada uno; mínimo 1)
    - News page activa (auto-derive de Steam o `newsFeeds[]` agregado)
    - Cualquier cosa que **no** se pudo cerrar y por qué
 

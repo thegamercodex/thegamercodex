@@ -239,6 +239,14 @@ Cada tool tiene `es.md` y `en.md` con análisis editorial. Estructura estándar 
 
 **Idiomas**: `es.md` y `en.md` mantienen estructura paralela (mismas secciones, mismo orden). El contenido se traduce, no se calca: cada idioma puede tener idioms y referencias adaptadas.
 
+## Editorial conventions para comparisons y stacks
+
+Dos tipos de contenido adicionales que viven por juego, ambos con `meta.json` + `es.md` + `en.md` y auto-descubiertos por directorio. El **how-to completo** (schema, estructura de archivos, ejemplos) está en `docs/ADD_GAME_PLAYBOOK.md` (Phase 4 comparisons, Phase 5 stacks). Reglas invariantes:
+
+- **Comparisons** (`content/games/<game>/comparisons/<a-vs-b>/`): head-to-head entre dos tools del mismo cluster. `meta.json` lleva `toolIds[2]`, `verdict`, `useCases[]`; el `title`/`description` van en el frontmatter de los `.md`. Mínimo recomendado por juego: 7 pares. `winner` de cada useCase debe ser uno de los dos `toolIds`.
+- **Stacks** (`content/games/<game>/stacks/<id>/`): bundle curado de 5-6 tools que se usan **juntas** para un objetivo end-to-end ("El toolkit completo de X"), no las "mejores" sueltas. `meta.json` lleva `items[]` (`{toolId, roleEs, roleEn}`, en orden de uso); `title`/`description` en el frontmatter de los `.md`. **Todas las tools del stack deben existir ya** en `tools/` — un stack orquesta, no introduce tools. Mínimo: 1 stack por juego.
+- Ambos: español neutro obligatorio (correr el grep antes de cerrar — el voseo se cuela mucho en este texto editorial extenso), y `lastVerified` con la fecha de hoy.
+
 ## Verificación de tools nuevas (VirusTotal)
 
 Antes de agregar una tool al codex, validar la confiabilidad del dominio:
@@ -334,7 +342,7 @@ Si el entry es muy corto y no querés escribir bilingüe, podés poner el body e
 
 ## Indexing post-merge a main
 
-El sitemap.xml es dinámico y Google descubre URLs nuevas por su cuenta en días-semanas. Pero cuando se mergea a main un **game nuevo**, vale la pena hacer submit manual del game hub en Google Search Console para acelerar indexing del batch entero (~20+ URLs: hub + tools + comparisons).
+El sitemap.xml es dinámico y Google descubre URLs nuevas por su cuenta en días-semanas. Pero cuando se mergea a main un **game nuevo**, vale la pena hacer submit manual del game hub en Google Search Console para acelerar indexing del batch entero (~20+ URLs: hub + tools + comparisons + stacks).
 
 **Después de mergear un game nuevo a `main` y confirmar deploy en producción**, en el reporte de cierre de Claude incluir dos links clickeables:
 
@@ -343,7 +351,7 @@ El sitemap.xml es dinámico y Google descubre URLs nuevas por su cuenta en días
 
 **No usar** el deep link a `/inspect` con `id` prellenado (`.../search-console/inspect?resource_id=...&id=...`) — Google strippea los query params en el redirect de auth y devuelve 404. El dashboard link sí abre la property correcta y queda 1 paste extra para inspeccionar el hub.
 
-Google crawlea internamente desde el hub a tools/comparisons/resources, así que con 1 submit cubrís el batch entero. No es necesario submitir cada URL individual.
+Google crawlea internamente desde el hub a tools/comparisons/stacks/resources, así que con 1 submit cubrís el batch entero. No es necesario submitir cada URL individual.
 
 **Yandex** (mantiene tráfico significativo según analytics): submit equivalente en `https://webmaster.yandex.com/sites/`. Opcional pero baja el lag de discovery en ese referrer.
 
