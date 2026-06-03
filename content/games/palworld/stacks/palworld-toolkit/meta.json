@@ -1,0 +1,32 @@
+{
+  "id": "palworld-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "palworld-gg",
+      "roleEs": "El Paldex y referencia principal: stats de cada Pal, ubicaciones, drops y skills, todo en un lugar.",
+      "roleEn": "The Paldex and main reference: each Pal's stats, locations, drops, and skills, all in one place."
+    },
+    {
+      "toolId": "palworld-base-planner",
+      "roleEs": "Diseña la disposición de tu base —estructuras y asignación de Pals— antes de construirla en el juego.",
+      "roleEn": "Design your base layout —structures and Pal assignments— before building it in-game."
+    },
+    {
+      "toolId": "xgaming-breeding-calculator",
+      "roleEs": "Calcula combinaciones de breeding para conseguir el Pal con las pasivas que buscas.",
+      "roleEn": "Calculates breeding combinations to get the Pal with the passives you want."
+    },
+    {
+      "toolId": "paldb-cc",
+      "roleEs": "Base de datos detallada de Pals, items, recetas y datos técnicos para consultas profundas.",
+      "roleEn": "Detailed database of Pals, items, recipes, and technical data for deep lookups."
+    },
+    {
+      "toolId": "nexus-mods-palworld",
+      "roleEs": "El hub de mods para quality of life, contenido y ajustes que el juego base no ofrece.",
+      "roleEn": "The mod hub for quality of life, content, and tweaks the base game doesn't offer."
+    }
+  ]
+}

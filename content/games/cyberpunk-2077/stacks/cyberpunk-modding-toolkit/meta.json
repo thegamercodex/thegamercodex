@@ -1,0 +1,37 @@
+{
+  "id": "cyberpunk-modding-toolkit",
+  "category": "modding",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "vortex-mod-manager",
+      "roleEs": "El gestor de mods: instala, organiza y resuelve dependencias desde un solo lugar en vez de copiar archivos a mano.",
+      "roleEn": "The mod manager: installs, organizes, and resolves dependencies from one place instead of copying files by hand."
+    },
+    {
+      "toolId": "cyber-engine-tweaks",
+      "roleEs": "La capa de scripting Lua con consola in-game; la base sobre la que corren los mods Lua.",
+      "roleEn": "The Lua scripting layer with an in-game console; the base most Lua mods run on."
+    },
+    {
+      "toolId": "red4ext",
+      "roleEs": "La capa nativa C++ sobre la que cargan TweakXL, ArchiveXL y otras dependencias intermedias.",
+      "roleEn": "The native C++ layer that TweakXL, ArchiveXL, and other intermediate dependencies load on."
+    },
+    {
+      "toolId": "archive-xl",
+      "roleEs": "Carga de assets nuevos (ropa, items, NPCs) sin reemplazar archivos base del juego.",
+      "roleEn": "Loads new assets (clothing, items, NPCs) without replacing the game's base files."
+    },
+    {
+      "toolId": "tweak-xl",
+      "roleEs": "Edición de la TweakDB para cambiar stats, precios y balance de forma compatible entre mods.",
+      "roleEn": "Edits the TweakDB to change stats, prices, and balance in a mod-compatible way."
+    },
+    {
+      "toolId": "native-settings-ui",
+      "roleEs": "Menú de settings in-game donde los mods exponen sus opciones, sin editar archivos de config.",
+      "roleEn": "An in-game settings menu where mods expose their options, no config-file editing."
+    }
+  ]
+}

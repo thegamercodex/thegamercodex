@@ -1,0 +1,37 @@
+{
+  "id": "skyrim-modding-toolkit",
+  "category": "modding",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "mod-organizer-2",
+      "roleEs": "El gestor de mods estándar: perfiles aislados, orden de carga visual y una carpeta de juego que nunca se ensucia.",
+      "roleEn": "The standard mod manager: isolated profiles, visual load order, and a game folder that never gets dirty."
+    },
+    {
+      "toolId": "nexus-mods-skyrim",
+      "roleEs": "El hub principal de mods: de aquí sale casi todo lo que vas a instalar, con versiones y dependencias claras.",
+      "roleEn": "The main mod hub: nearly everything you install comes from here, with clear versions and dependencies."
+    },
+    {
+      "toolId": "skse64",
+      "roleEs": "El Script Extender que requieren la mayoría de los mods avanzados; sin él, medio ecosistema no arranca.",
+      "roleEn": "The Script Extender most advanced mods require; without it, half the ecosystem won't run."
+    },
+    {
+      "toolId": "skyui",
+      "roleEs": "El rework de la interfaz y base del menú MCM, dependencia de incontables mods con opciones configurables.",
+      "roleEn": "The UI rework and base of the MCM menu, a dependency of countless mods with configurable options."
+    },
+    {
+      "toolId": "loot",
+      "roleEs": "Ordena automáticamente tu load order siguiendo reglas de la comunidad para evitar conflictos obvios.",
+      "roleEn": "Automatically sorts your load order using community rules to avoid obvious conflicts."
+    },
+    {
+      "toolId": "sseedit",
+      "roleEs": "Limpieza de plugins y resolución manual de conflictos cuando dos mods tocan lo mismo.",
+      "roleEn": "Plugin cleaning and manual conflict resolution when two mods touch the same thing."
+    }
+  ]
+}

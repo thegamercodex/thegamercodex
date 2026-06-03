@@ -1,0 +1,32 @@
+{
+  "id": "elden-ring-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "eip-build-planner",
+      "roleEs": "Planner de builds: reparte stats, planea equipo y arma tu personaje objetivo antes de invertir runas.",
+      "roleEn": "Build planner: distribute stats, plan gear, and build your target character before investing runes."
+    },
+    {
+      "toolId": "fextralife-eldenring",
+      "roleEs": "La wiki de referencia: items, jefes, ubicaciones y walkthrough para cuando te atascas.",
+      "roleEn": "The reference wiki: items, bosses, locations, and walkthrough for when you get stuck."
+    },
+    {
+      "toolId": "mapgenie-eldenring",
+      "roleEs": "Mapa interactivo con ubicaciones marcables de items, jefes y secretos en todo el mundo abierto.",
+      "roleEn": "Interactive map with checkable locations of items, bosses, and secrets across the open world."
+    },
+    {
+      "toolId": "mugenmonkey-eldenring",
+      "roleEs": "Armado y comparación rápida de builds para experimentar y compartir setups con la comunidad.",
+      "roleEn": "Quick build creation and comparison to experiment with and share setups with the community."
+    },
+    {
+      "toolId": "seamless-coop",
+      "roleEs": "Mod de co-op sin restricciones para jugar toda la campaña con amigos sin invasiones ni límites de zona.",
+      "roleEn": "Unrestricted co-op mod to play the whole campaign with friends, no invasions or area limits."
+    }
+  ]
+}

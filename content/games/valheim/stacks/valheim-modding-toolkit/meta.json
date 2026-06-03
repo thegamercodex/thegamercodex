@@ -1,0 +1,37 @@
+{
+  "id": "valheim-modding-toolkit",
+  "category": "modding",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "r2modman",
+      "roleEs": "El gestor de mods con perfiles: instala, actualiza y aísla tus mods sin tocar la carpeta del juego.",
+      "roleEn": "The profile-based mod manager: installs, updates, and isolates your mods without touching the game folder."
+    },
+    {
+      "toolId": "thunderstore-valheim",
+      "roleEs": "El repositorio principal de mods de Valheim, de donde r2modman descarga todo.",
+      "roleEn": "The main Valheim mod repository, where r2modman downloads everything from."
+    },
+    {
+      "toolId": "bepinex-valheim",
+      "roleEs": "El framework base que casi todos los mods requieren; sin él no carga nada.",
+      "roleEn": "The base framework nearly every mod requires; without it nothing loads."
+    },
+    {
+      "toolId": "planbuild",
+      "roleEs": "Herramienta para diseñar construcciones complejas y pegarlas en el mundo, ideal para bases grandes.",
+      "roleEn": "Tool to design complex builds and paste them into the world, ideal for large bases."
+    },
+    {
+      "toolId": "valheim-map-world",
+      "roleEs": "Previsualiza tu seed y planea exploración: ubicaciones de biomas, jefes y puntos de interés.",
+      "roleEn": "Preview your seed and plan exploration: biome, boss, and point-of-interest locations."
+    },
+    {
+      "toolId": "valheim-fandom-wiki",
+      "roleEs": "La enciclopedia: recetas, materiales, jefes y mecánicas para no farmear a ciegas.",
+      "roleEn": "The encyclopedia: recipes, materials, bosses, and mechanics so you don't farm blindly."
+    }
+  ]
+}
