@@ -11,7 +11,7 @@ La secuencia natural empieza **antes** de que arranque la liga. Eliges una build
 
 Una vez dentro del juego, **poe.ninja** se vuelve tu segundo monitor: te dice qué builds están funcionando, cuánto vale cada ítem y hacia dónde se mueve la economía. Para no abrir el navegador cada vez que encuentras algo, **Awakened PoE Trade** te da el precio de cualquier ítem con un atajo de teclado sin salir del juego.
 
-Cuando ya estás en endgame y querés armar tu propio gear, **Craft of Exile** te deja simular el crafteo y estimar cuánta currency vas a gastar antes de arriesgarla de verdad. Y durante toda la liga, **FilterBlade** mantiene tu loot filter afinado para que el piso solo te muestre lo que vale la pena recoger.
+Cuando ya estás en endgame y quieres armar tu propio gear, **Craft of Exile** te deja simular el crafteo y estimar cuánta currency vas a gastar antes de arriesgarla de verdad. Y durante toda la liga, **FilterBlade** mantiene tu loot filter afinado para que el piso solo te muestre lo que vale la pena recoger.
 
 ## Por qué estas seis
 
@@ -22,4 +22,4 @@ Cada una resuelve una capa distinta del juego y ninguna reemplaza a otra:
 - **Crafteo** → Craft of Exile
 - **Calidad de vida** → FilterBlade
 
-Podés jugar PoE con menos, pero este es el set que la mayoría de los jugadores comprometidos terminan teniendo abierto cada liga. Cada herramienta tiene su análisis completo en el codex si querés profundizar en alguna antes de adoptarla.
+Puedes jugar PoE con menos, pero este es el set que la mayoría de los jugadores comprometidos terminan teniendo abierto cada liga. Cada herramienta tiene su análisis completo en el codex si quieres profundizar en alguna antes de adoptarla.

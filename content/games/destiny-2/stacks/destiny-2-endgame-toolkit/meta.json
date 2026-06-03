@@ -1,0 +1,32 @@
+{
+  "id": "destiny-2-endgame-toolkit",
+  "category": "endgame",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "dim",
+      "roleEs": "El gestor de inventario y loadouts. El core: mueve gear entre personajes y arma builds sin entrar al juego.",
+      "roleEn": "The inventory and loadout manager. The core: moves gear between characters and builds loadouts without logging in."
+    },
+    {
+      "toolId": "light-gg",
+      "roleEs": "La base de datos de armas: god rolls de la comunidad, perks posibles y para qué sirve cada cosa.",
+      "roleEn": "The weapon database: community god rolls, possible perks, and what each thing is for."
+    },
+    {
+      "toolId": "d2-foundry",
+      "roleEs": "Simulador de perks de armas: probá combinaciones de perks y mira cómo cambian las stats antes de farmear.",
+      "roleEn": "Weapon perk simulator: test perk combinations and see how stats change before farming."
+    },
+    {
+      "toolId": "braytech",
+      "roleEs": "Tracking de progresión: triumphs, catalysts, colecciones y objetivos pendientes por personaje.",
+      "roleEn": "Progression tracking: triumphs, catalysts, collections, and pending objectives per character."
+    },
+    {
+      "toolId": "d2-checklist",
+      "roleEs": "Checklist semanal: qué actividades, bounties y pinnacles te faltan antes del reset.",
+      "roleEn": "Weekly checklist: which activities, bounties, and pinnacles you're missing before reset."
+    }
+  ]
+}

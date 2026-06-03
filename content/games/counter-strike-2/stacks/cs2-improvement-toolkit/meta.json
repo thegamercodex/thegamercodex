@@ -1,0 +1,32 @@
+{
+  "id": "cs2-improvement-toolkit",
+  "category": "improvement",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "leetify",
+      "roleEs": "Análisis automático de tus partidas que te dice exactamente qué mejorar: aim, utility, trades y posicionamiento.",
+      "roleEn": "Automated analysis of your matches that tells you exactly what to improve: aim, utility, trades, and positioning."
+    },
+    {
+      "toolId": "scope-gg",
+      "roleEs": "Revisión profunda de demos con heatmaps y análisis ronda por ronda para entender tus errores recurrentes.",
+      "roleEn": "Deep demo review with heatmaps and round-by-round analysis to understand your recurring mistakes."
+    },
+    {
+      "toolId": "csstats-gg",
+      "roleEs": "Tracking de rank, stats por mapa y evolución de tu desempeño en el tiempo, sin instalar nada.",
+      "roleEn": "Rank tracking, per-map stats, and how your performance evolves over time, with nothing to install."
+    },
+    {
+      "toolId": "aim-botz",
+      "roleEs": "El mapa de workshop estándar para calentar antes de jugar y entrenar aim y control de spray.",
+      "roleEn": "The standard workshop map to warm up before playing and train aim and spray control."
+    },
+    {
+      "toolId": "csnades-gg",
+      "roleEs": "Librería de lineups de smokes, flashes y molotovs por mapa, para dejar de improvisar la utility.",
+      "roleEn": "Library of smoke, flash, and molotov lineups by map, so you stop improvising your utility."
+    }
+  ]
+}

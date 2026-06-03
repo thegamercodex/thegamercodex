@@ -1,0 +1,32 @@
+{
+  "id": "dota-2-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "dotabuff",
+      "roleEs": "El hub de stats y match history: tu desempeño, win rate por héroe y scouting de oponentes.",
+      "roleEn": "The stats and match history hub: your performance, per-hero win rate, and opponent scouting."
+    },
+    {
+      "toolId": "stratz",
+      "roleEs": "Insights interpretativos: predicciones AI, sugerencias de mejora y dashboards personalizados con app mobile.",
+      "roleEn": "Interpretive insights: AI predictions, improvement suggestions, and personalized dashboards with a mobile app."
+    },
+    {
+      "toolId": "dotapicker",
+      "roleEs": "Counter-picking en draft: qué héroes responden bien al enemigo y cuáles evitar en este matchup.",
+      "roleEn": "Draft counter-picking: which heroes answer the enemy well and which to avoid in this matchup."
+    },
+    {
+      "toolId": "dota2protracker",
+      "roleEs": "Qué construyen y skillean los pros en cada héroe ahora mismo, con builds e ítems actualizados.",
+      "roleEn": "What pros build and skill on each hero right now, with up-to-date item and skill builds."
+    },
+    {
+      "toolId": "dota-coach",
+      "roleEs": "Coaching in-game vía overlay: tips por héroe, timings de runas y recordatorios durante la partida.",
+      "roleEn": "In-game coaching via overlay: per-hero tips, rune timings, and reminders during the match."
+    }
+  ]
+}

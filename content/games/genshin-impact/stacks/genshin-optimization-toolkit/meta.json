@@ -1,0 +1,37 @@
+{
+  "id": "genshin-optimization-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "genshin-optimizer",
+      "roleEs": "El optimizador de artefactos. El core del stack: te dice qué piezas equipar para maximizar el daño de cada personaje.",
+      "roleEn": "The artifact optimizer. The core of the stack: tells you which pieces to equip to maximize each character's damage."
+    },
+    {
+      "toolId": "kqm-team-compendium",
+      "roleEs": "Guías de equipos theorycrafteadas por KQM: qué personajes combinan, rotaciones y por qué.",
+      "roleEn": "Theorycrafted team guides by KQM: which characters combine, rotations, and why."
+    },
+    {
+      "toolId": "gcsim",
+      "roleEs": "Simulador de rotaciones para comparar el DPS real de equipos completos antes de invertir recursos.",
+      "roleEn": "Rotation simulator to compare the real DPS of full teams before investing resources."
+    },
+    {
+      "toolId": "akasha-system",
+      "roleEs": "Leaderboards de daño como referencia: cuánto debería pegar tu personaje con un build similar al tuyo.",
+      "roleEn": "Damage leaderboards as a reference: how much your character should hit with a build similar to yours."
+    },
+    {
+      "toolId": "enka-network",
+      "roleEs": "Showcase para revisar y compartir builds directamente desde tu perfil in-game, sin capturas manuales.",
+      "roleEn": "Showcase to review and share builds straight from your in-game profile, no manual screenshots."
+    },
+    {
+      "toolId": "seelie-me",
+      "roleEs": "Planner de materiales y ascensión: qué farmear y cuándo para llegar a los builds que planeaste.",
+      "roleEn": "Materials and ascension planner: what to farm and when to reach the builds you planned."
+    }
+  ]
+}

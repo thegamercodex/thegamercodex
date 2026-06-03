@@ -7,7 +7,7 @@ Subir de elo en League of Legends rara vez es cuestión de jugar más partidas: 
 
 ## El ciclo de una partida
 
-**Antes de jugar**, abres **U.GG** para ver la build, runas y counters optimizados de tu campeón en tu rango, y **OP.GG** para revisar tu propio historial y, si querés, scoutear a los jugadores del lobby. Llegas a champ select sabiendo qué esperar.
+**Antes de jugar**, abres **U.GG** para ver la build, runas y counters optimizados de tu campeón en tu rango, y **OP.GG** para revisar tu propio historial y, si quieres, scoutear a los jugadores del lobby. Llegas a champ select sabiendo qué esperar.
 
 **Durante champ select y la partida**, **Porofessor** analiza el lobby en vivo: te da el matchup de tu carril, tips concretos y las win conditions de la composición. Es la capa de información en tiempo real que U.GG y OP.GG no cubren.
 
