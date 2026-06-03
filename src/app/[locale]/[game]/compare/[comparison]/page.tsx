@@ -242,8 +242,21 @@ export default async function ComparisonPage({ params }: PageParams) {
     categories.get(comparison.category) &&
     categoryName(categories.get(comparison.category)!, loc);
 
+  // Related comparisons: priorizar las que comparten una tool con la actual
+  // (ej. en dotabuff-vs-stratz, surfacear primero opendota-vs-stratz). Enlace
+  // topical más tight = menos bounce en las páginas de comparison (top tráfico).
+  // V8 ordena estable, así que los empates conservan el orden de directorio.
+  const currentToolIds = new Set(comparison.toolIds);
   const relatedAll = await getComparisons(gameId);
-  const related = relatedAll.filter((c) => c.id !== comparison.id).slice(0, 4);
+  const related = relatedAll
+    .filter((c) => c.id !== comparison.id)
+    .map((c) => ({
+      c,
+      shared: c.toolIds.filter((id) => currentToolIds.has(id)).length,
+    }))
+    .sort((a, b) => b.shared - a.shared)
+    .slice(0, 4)
+    .map((x) => x.c);
 
   const tools: [Tool, Tool] = [toolA, toolB];
   const hasGameLogo =
