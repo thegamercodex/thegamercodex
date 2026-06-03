@@ -1,7 +1,7 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-06-01
+> Última generación: 2026-06-02
 
 ## Resumen
 
