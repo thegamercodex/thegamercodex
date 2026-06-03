@@ -32,7 +32,7 @@ import {
 import type { MultiGameRef } from "@/types";
 import { categoriesById, categoryName, humanize } from "@/lib/categories";
 import { parseDateOnly } from "@/lib/format";
-import { jsonLdScript, softwareApplicationJsonLd } from "@/lib/jsonld";
+import { faqJsonLd, jsonLdScript, softwareApplicationJsonLd } from "@/lib/jsonld";
 import type { Locale, Tool, ToolCategory } from "@/types";
 
 interface PageParams {
@@ -212,12 +212,19 @@ export default async function ToolPage({ params }: PageParams) {
   const hasGameLogo =
     Boolean(game.logo) && publicExists(game.logo);
 
+  const faq = faqJsonLd(tool, game, loc, {
+    alternativeNames: alternatives.map((a) => a.name),
+  });
+  const jsonLd = [softwareApplicationJsonLd(tool, game, loc), faq].filter(
+    (x): x is NonNullable<typeof x> => Boolean(x),
+  );
+
   return (
     <div className="mx-auto w-full max-w-6xl px-6 pb-20 pt-6 sm:pt-10 lg:pb-10">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: jsonLdScript(softwareApplicationJsonLd(tool, game, loc)),
+          __html: jsonLdScript(jsonLd),
         }}
       />
       <nav
