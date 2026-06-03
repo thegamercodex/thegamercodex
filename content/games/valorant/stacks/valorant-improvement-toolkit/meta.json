@@ -1,0 +1,32 @@
+{
+  "id": "valorant-improvement-toolkit",
+  "category": "improvement",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "aim-lab",
+      "roleEs": "Entrenamiento de aim con presets calibrados a Valorant, para calentar y mejorar la puntería de forma medible.",
+      "roleEn": "Aim training with Valorant-calibrated presets, to warm up and improve aim measurably."
+    },
+    {
+      "toolId": "prosettings",
+      "roleEs": "Settings, sensibilidad y crosshairs de los pros, para partir de una base probada en vez de adivinar.",
+      "roleEn": "Pro settings, sensitivity, and crosshairs, so you start from a proven baseline instead of guessing."
+    },
+    {
+      "toolId": "valoplant",
+      "roleEs": "Lineups de habilidades por mapa: dónde tirar smokes, flashes y molotovs para no improvisar la utility.",
+      "roleEn": "Per-map ability lineups: where to throw smokes, flashes, and molotovs so you don't improvise utility."
+    },
+    {
+      "toolId": "tracker-gg",
+      "roleEs": "Tu match history, win rate por agente y mapa, y el scouting de oponentes del lobby.",
+      "roleEn": "Your match history, win rate by agent and map, and scouting of lobby opponents."
+    },
+    {
+      "toolId": "mobalytics",
+      "roleEs": "Guías por agente y coaching estructurado para saber en qué dimensión de tu juego enfocarte.",
+      "roleEn": "Per-agent guides and structured coaching to know which dimension of your play to focus on."
+    }
+  ]
+}

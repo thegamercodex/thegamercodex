@@ -1,0 +1,37 @@
+{
+  "id": "ffxiv-raider-toolkit",
+  "category": "endgame",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "the-balance",
+      "roleEs": "La fuente comunitaria de guías de job: rotaciones, openers y prioridades por trabajo, mantenida por theorycrafters.",
+      "roleEn": "The community source of job guides: rotations, openers, and priorities per job, maintained by theorycrafters."
+    },
+    {
+      "toolId": "etro",
+      "roleEs": "El planner de gear sets y BiS: armas tu equipo objetivo y calculas stats antes de farmearlo.",
+      "roleEn": "The gear set and BiS planner: build your target gear and calculate stats before farming it."
+    },
+    {
+      "toolId": "fflogs",
+      "roleEs": "Logs de combate: parse, uptime y rankings por encuentro para medir tu rendimiento contra el resto.",
+      "roleEn": "Combat logs: parse, uptime, and per-fight rankings to measure your performance against everyone else."
+    },
+    {
+      "toolId": "xivanalysis",
+      "roleEs": "Análisis automático por pelea que señala errores concretos de rotación y uso de cooldowns.",
+      "roleEn": "Automated per-fight analysis that flags concrete rotation and cooldown mistakes."
+    },
+    {
+      "toolId": "teamcraft",
+      "roleEs": "Crafting y gathering: listas de materiales, rutas de farmeo y todo lo necesario para autoabastecerte.",
+      "roleEn": "Crafting and gathering: material lists, farming routes, and everything to supply yourself."
+    },
+    {
+      "toolId": "xivlauncher",
+      "roleEs": "Launcher alternativo con plugins de calidad de vida que aceleran el login y el día a día.",
+      "roleEn": "Alternative launcher with quality-of-life plugins that speed up login and daily play."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "hsr-optimization-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "fribbels-hsr-optimizer",
+      "roleEs": "El optimizador de relics. El core del stack: importa tu inventario y calcula qué piezas maximizan a cada personaje.",
+      "roleEn": "The relic optimizer. The core of the stack: imports your inventory and calculates which pieces maximize each character."
+    },
+    {
+      "toolId": "prydwen-hsr",
+      "roleEs": "Guías de personajes y tier lists: con quién juega cada uno, qué relics y light cones priorizar.",
+      "roleEn": "Character guides and tier lists: who each one plays with, which relics and light cones to prioritize."
+    },
+    {
+      "toolId": "kqm-hsr",
+      "roleEs": "Theorycraft profundo: guías detalladas, mecánicas y math para entender el porqué de cada decisión.",
+      "roleEn": "Deep theorycraft: detailed guides, mechanics, and math to understand the why behind each decision."
+    },
+    {
+      "toolId": "md-c-calculator",
+      "roleEs": "Calculadora de daño para comparar setups y rotaciones con números, no a ojo.",
+      "roleEn": "Damage calculator to compare setups and rotations with numbers, not by eye."
+    },
+    {
+      "toolId": "hoyolab-hsr",
+      "roleEs": "Herramientas de cuenta oficiales: progreso, check-in diario y datos sincronizados desde el juego.",
+      "roleEn": "Official account tools: progress, daily check-in, and data synced from the game."
+    },
+    {
+      "toolId": "enka-network-hsr",
+      "roleEs": "Showcase para revisar y compartir builds desde tu perfil in-game, y para importarlos al optimizador.",
+      "roleEn": "Showcase to review and share builds from your in-game profile, and to import them into the optimizer."
+    }
+  ]
+}

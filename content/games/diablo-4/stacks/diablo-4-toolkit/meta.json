@@ -1,0 +1,37 @@
+{
+  "id": "diablo-4-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "maxroll-d4",
+      "roleEs": "El planner de builds y guías editoriales: el core para diseñar y seguir una build de temporada paso a paso.",
+      "roleEn": "The build planner and editorial guides: the core for designing and following a season build step by step."
+    },
+    {
+      "toolId": "mobalytics-d4",
+      "roleEs": "Tier lists y guías de build con UX limpia, útil para decidir qué clase y build jugar al inicio de temporada.",
+      "roleEn": "Tier lists and build guides with clean UX, useful for deciding which class and build to play at season start."
+    },
+    {
+      "toolId": "d4builds",
+      "roleEs": "Base de builds creadas por la comunidad, ideal para encontrar variantes y experimentos fuera del meta.",
+      "roleEn": "Community-created build database, ideal for finding variants and off-meta experiments."
+    },
+    {
+      "toolId": "helltides",
+      "roleEs": "Tracker en vivo de Helltides, World Bosses y Legion Events para no perderte el contenido cronometrado.",
+      "roleEn": "Live tracker for Helltides, World Bosses, and Legion Events so you don't miss timed content."
+    },
+    {
+      "toolId": "diablo-trade",
+      "roleEs": "El marketplace para comprar y vender ítems, clave para completar tu build sin depender solo de drops.",
+      "roleEn": "The marketplace to buy and sell items, key to completing your build without relying only on drops."
+    },
+    {
+      "toolId": "wowhead-d4",
+      "roleEs": "La base de datos enciclopédica: ítems, aspectos, mecánicas y guías de referencia para todo el juego.",
+      "roleEn": "The encyclopedic database: items, aspects, mechanics, and reference guides for the whole game."
+    }
+  ]
+}
