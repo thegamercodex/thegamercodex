@@ -1,0 +1,39 @@
+{
+  "id": "warframe-market-vs-semlar",
+  "toolIds": ["warframe-market", "semlar"],
+  "category": "trading-economy",
+  "depth": "short",
+  "lastVerified": "2026-06-04",
+  "verdictEs": "Warframe Market para comprar y vender efectivamente cualquier item, mod o set. Semlar específicamente para evaluar y tasar rivens antes de tradearlos, donde su Riven Calculator y guía de precios no tienen equivalente en el mercado general.",
+  "verdictEn": "Warframe Market to actually buy and sell any item, mod or set. Semlar specifically to evaluate and price rivens before trading them, where its Riven Calculator and price guide have no equivalent in the general marketplace.",
+  "useCases": [
+    {
+      "labelEs": "Comprar o vender cualquier item, mod o set Prime",
+      "labelEn": "Buy or sell any item, mod or Prime set",
+      "winner": "warframe-market",
+      "reasonEs": "Warframe Market es el mercado general con órdenes en vivo de todo lo tradeable; Semlar no es donde se cierra la transacción.",
+      "reasonEn": "Warframe Market is the general marketplace with live orders for everything tradeable; Semlar isn't where the transaction closes."
+    },
+    {
+      "labelEs": "Evaluar qué tan bueno es el roll de un riven",
+      "labelEn": "Evaluate how good a riven's roll is",
+      "winner": "semlar",
+      "reasonEs": "La Riven Calculator de Semlar te muestra el rango de stats posible y dónde cae tu roll; Warframe Market solo lista precios.",
+      "reasonEn": "Semlar's Riven Calculator shows you the possible stat range and where your roll falls; Warframe Market only lists prices."
+    },
+    {
+      "labelEs": "Tasar un riven antes de comprarlo o venderlo",
+      "labelEn": "Price a riven before buying or selling it",
+      "winner": "semlar",
+      "reasonEs": "La guía de precios crowdsourced de Semlar da referencia para rivens, más difíciles de valuar que un item común.",
+      "reasonEn": "Semlar's crowd-sourced price guide gives a reference for rivens, which are harder to value than a common item."
+    },
+    {
+      "labelEs": "Ver precios de mercado de partes Prime y arcanes",
+      "labelEn": "Check market prices for Prime parts and arcanes",
+      "winner": "warframe-market",
+      "reasonEs": "Para items estándar, Warframe Market tiene los listados en vivo más completos del ecosistema.",
+      "reasonEn": "For standard items, Warframe Market has the most complete live listings in the ecosystem."
+    }
+  ]
+}

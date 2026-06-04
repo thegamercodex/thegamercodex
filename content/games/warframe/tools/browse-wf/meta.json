@@ -1,0 +1,29 @@
+{
+  "id": "browse-wf",
+  "name": "browse.wf",
+  "shortName": "browse.wf",
+  "taglineEs": "Explorador de data cruda del juego para theorycrafters — números exactos del manifest",
+  "taglineEn": "Raw game-data explorer for theorycrafters — exact numbers from the manifest",
+  "url": "https://browse.wf/",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/calamity-inc/browse.wf",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["data", "reference", "theorycraft", "rivens", "advanced"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/warframe/browse-wf-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["warframe-wiki", "warframe-drop-tables"],
+  "alternatives": ["warframe-wiki"],
+  "createdBy": {
+    "name": "Calamity Inc",
+    "url": "https://github.com/calamity-inc"
+  }
+}

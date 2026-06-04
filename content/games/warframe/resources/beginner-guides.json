@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "tipsy-warframe-beginner-guide-ep1-2025",
+      "type": "video",
+      "title": "Warframe Beginner Guide: New to Warframe? Start Here! | Episode 1",
+      "creator": "Tipsy",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=fwI6RW6mrgM",
+      "youtubeId": "fwI6RW6mrgM",
+      "language": "en",
+      "duration": "30:17",
+      "publishedDate": "2025-01-24",
+      "thumbnail": "https://i.ytimg.com/vi/fwI6RW6mrgM/maxresdefault.jpg",
+      "noteEs": "Episodio 1 de una serie de principiantes 2025 prolija y estructurada. Ideal como primera parada para quien arranca de cero y quiere un camino de onboarding ordenado en lugar de saltar entre videos sueltos.",
+      "noteEn": "Episode 1 of a polished, structured 2025 beginner series. Ideal as a first stop for absolute newcomers who want an ordered onboarding path instead of jumping between scattered videos."
+    },
+    {
+      "id": "iflynn-warframe-start-return-right-way-2025",
+      "type": "video",
+      "title": "How To Start (Or Return To) WARFRAME the RIGHT WAY! 2025",
+      "creator": "iFlynn",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=pjVBhMdoTo8",
+      "youtubeId": "pjVBhMdoTo8",
+      "language": "en",
+      "duration": "18:12",
+      "publishedDate": "2025-06-24",
+      "thumbnail": "https://i.ytimg.com/vi/pjVBhMdoTo8/maxresdefault.jpg",
+      "noteEs": "Overview directo y sin relleno de cómo arrancar o volver al juego de la forma correcta, de un creator de Warframe de larga confianza. Sirve tanto para jugadores nuevos como para los que vuelven tras un parón.",
+      "noteEn": "A tight, no-fluff overview of how to start or return to the game the right way, from a long-trusted Warframe creator. Works for both brand-new and returning players."
+    },
+    {
+      "id": "knightmareframe-warframe-new-player-intro-2026",
+      "type": "video",
+      "title": "WARFRAME New Player Introduction Guide!",
+      "creator": "KnightmareFrame",
+      "creatorId": "knightmare-frame",
+      "url": "https://www.youtube.com/watch?v=F1MERAouOxk",
+      "youtubeId": "F1MERAouOxk",
+      "language": "en",
+      "duration": "12:07",
+      "publishedDate": "2026-05-27",
+      "thumbnail": "https://i.ytimg.com/vi/F1MERAouOxk/maxresdefault.jpg",
+      "noteEs": "Intro concisa para jugadores nuevos, muy reciente (mayo 2026), de uno de los canales de guías más respetados de la comunidad. Al ser actual, refleja los sistemas vigentes del juego sin desinformación de versiones viejas.",
+      "noteEn": "Concise new-player intro, very recent (May 2026), from one of the community's most respected guide channels. Being current, it reflects the game's live systems without outdated misinformation."
+    },
+    {
+      "id": "ichal-suri-warframe-guia-principiantes-2025",
+      "type": "video",
+      "title": "Warframe Guía para Principiantes | Cómo Empezar y No Perderte | Paso a Paso",
+      "creator": "Ichal Suri",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=B5qk1P8UKqQ",
+      "youtubeId": "B5qk1P8UKqQ",
+      "language": "es",
+      "duration": "8:07",
+      "publishedDate": "2025-08-10",
+      "thumbnail": "https://i.ytimg.com/vi/B5qk1P8UKqQ/maxresdefault.jpg",
+      "noteEs": "Guía corta en español, paso a paso, para que un jugador nuevo no se pierda en las primeras horas. Formato compacto (8 minutos), ideal como orientación rápida para hispanohablantes antes de meterse en guías largas.",
+      "noteEn": "Short Spanish-language step-by-step guide so a new player doesn't get lost in the first hours. Compact format (8 minutes), ideal as quick orientation for Spanish speakers before diving into longer guides."
+    },
+    {
+      "id": "expertdrah-warframe-guia-definitiva-empezar-2025",
+      "type": "video",
+      "title": "La GUIA DEFINITIVA para empezar a jugar WARFRAME",
+      "creator": "ExpertDrah",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=2-TQUkwNvUY",
+      "youtubeId": "2-TQUkwNvUY",
+      "language": "es",
+      "duration": "25:34",
+      "publishedDate": "2025-06-27",
+      "thumbnail": "https://i.ytimg.com/vi/2-TQUkwNvUY/maxresdefault.jpg",
+      "noteEs": "Guía de inicio en español más extensa y completa (~25 minutos), para hispanohablantes que quieren profundidad desde el día 1. Complementa a la guía corta de Ichal Suri con más contexto y detalle.",
+      "noteEn": "More extensive, complete Spanish starter guide (~25 minutes), for Spanish speakers who want depth from day 1. Complements Ichal Suri's short guide with more context and detail."
+    }
+  ]
+}

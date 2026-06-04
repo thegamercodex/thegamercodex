@@ -1,0 +1,80 @@
+{
+  "category": "endgame-guides",
+  "resources": [
+    {
+      "id": "warframeflo-warframe-steel-path-guide-2025",
+      "type": "video",
+      "title": "The ULTIMATE Guide to Steelpath In Warframe",
+      "creator": "WarframeFlo",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=aXLQ70qUaXM",
+      "youtubeId": "aXLQ70qUaXM",
+      "language": "en",
+      "duration": "17:28",
+      "publishedDate": "2025-09-26",
+      "thumbnail": "https://i.ytimg.com/vi/aXLQ70qUaXM/maxresdefault.jpg",
+      "noteEs": "Guía completa de entrada a Steel Path: cómo desbloquearlo, cómo prepararse y qué esperar. Steel Path es la puerta al endgame de dificultad — el punto donde las builds y las herramientas del codex se vuelven necesarias.",
+      "noteEn": "Complete Steel Path entry guide: how to unlock it, how to prep and what to expect. Steel Path is the gateway to difficulty endgame — the point where the codex's builds and tools become necessary."
+    },
+    {
+      "id": "forsakenidol-warframe-eidolon-guide-2025",
+      "type": "video",
+      "title": "Warframe Eidolon Guide (2025) - How to Lure Handle",
+      "creator": "ForsakenIdol",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=sHdSVf2kYcs",
+      "youtubeId": "sHdSVf2kYcs",
+      "language": "en",
+      "duration": "43:26",
+      "publishedDate": "2025-04-21",
+      "thumbnail": "https://i.ytimg.com/vi/sHdSVf2kYcs/maxresdefault.jpg",
+      "noteEs": "Guía profunda de caza de Eidolons de un especialista dedicado, centrada en el manejo de lures — la parte más difícil de los runs Tridolon. Para quien quiere entrar a una de las actividades de plata más rentables del juego.",
+      "noteEn": "Deep Eidolon-hunting guide from a dedicated specialist, focused on lure handling — the trickiest part of Tridolon runs. For those who want to break into one of the game's most profitable plat activities."
+    },
+    {
+      "id": "gaz-ttv-warframe-profit-taker-chroma-2025",
+      "type": "video",
+      "title": "[WARFRAME] 2025 Profit Taker Chroma (Updated For New Meta) Full Loadout Guide | Techrot Encore",
+      "creator": "Gaz TTV",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=xcbQ2Jlr0jI",
+      "youtubeId": "xcbQ2Jlr0jI",
+      "language": "en",
+      "duration": "13:08",
+      "publishedDate": "2025-04-21",
+      "thumbnail": "https://i.ytimg.com/vi/xcbQ2Jlr0jI/maxresdefault.jpg",
+      "noteEs": "Loadout de Chroma para Profit-Taker actualizado al meta vigente. Es el setup estándar para el orb heist de Orb Vallis, una de las mejores fuentes recurrentes de platinum y créditos del endgame.",
+      "noteEn": "Updated Profit-Taker Chroma loadout for the current meta. It's the standard setup for the Orb Vallis orb heist, one of the best recurring sources of platinum and credits in endgame."
+    },
+    {
+      "id": "aloo-pc-warframe-elite-deep-archimedea-2026",
+      "type": "video",
+      "title": "WARFRAME: BEST ETA BUILD 2026 PT.2 | Elite Deep Archimedea | Aloo PC",
+      "creator": "Aloo pc",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=4bI4uQ3NYoQ",
+      "youtubeId": "4bI4uQ3NYoQ",
+      "language": "en",
+      "duration": "29:04",
+      "publishedDate": "2026-02-09",
+      "thumbnail": "https://i.ytimg.com/vi/4bI4uQ3NYoQ/maxresdefault.jpg",
+      "noteEs": "Guía 2026 de build y clear para Elite Deep Archimedea, el endgame profundo nacido de Whispers in the Walls. Es el contenido semanal más difícil del juego actual — clave para quien busca el techo de dificultad.",
+      "noteEn": "2026 build-and-clear guide for Elite Deep Archimedea, the deep endgame born from Whispers in the Walls. It's the hardest weekly content in the current game — key for those chasing the difficulty ceiling."
+    },
+    {
+      "id": "weazel-warframe-archon-shards-guide-2025",
+      "type": "video",
+      "title": "Warframe ULTIMATE Archon Shards Guide 2025!",
+      "creator": "Weazel",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=nNOQ1GUElno",
+      "youtubeId": "nNOQ1GUElno",
+      "language": "en",
+      "duration": "11:47",
+      "publishedDate": "2025-06-11",
+      "thumbnail": "https://i.ytimg.com/vi/nNOQ1GUElno/maxresdefault.jpg",
+      "noteEs": "Guía de Archon Shards, la capa de min-maxing del endgame profundo (Archon Hunts y mejoras de shards). Explica qué shards farmear y cómo slotearlos para exprimir el techo de tus builds.",
+      "noteEn": "Archon Shards guide, the deep-endgame min-maxing layer (Archon Hunts and shard upgrades). It explains which shards to farm and how to slot them to squeeze the ceiling out of your builds."
+    }
+  ]
+}

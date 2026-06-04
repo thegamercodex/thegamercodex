@@ -1,0 +1,39 @@
+{
+  "id": "warframe-hub-vs-cephalon-navis",
+  "toolIds": ["warframe-hub", "cephalon-navis"],
+  "category": "worldstate-timers",
+  "depth": "short",
+  "lastVerified": "2026-06-04",
+  "verdictEs": "Warframe Hub para el estado del mundo en el navegador o escritorio. Cephalon Navis para tenerlo en el celular con push notifications reales cuando estás lejos del PC.",
+  "verdictEn": "Warframe Hub for the world state in the browser or desktop. Cephalon Navis to have it on your phone with real push notifications when you're away from the PC.",
+  "useCases": [
+    {
+      "labelEs": "Consultar el estado del mundo en el navegador",
+      "labelEn": "Check the world state in the browser",
+      "winner": "warframe-hub",
+      "reasonEs": "Warframe Hub es la versión web/escritorio, cómoda como segundo monitor mientras juegas en PC.",
+      "reasonEn": "Warframe Hub is the web/desktop version, handy as a second monitor while you play on PC."
+    },
+    {
+      "labelEs": "Recibir push notifications de Baro o ciclos en el celular",
+      "labelEn": "Get push notifications for Baro or cycles on your phone",
+      "winner": "cephalon-navis",
+      "reasonEs": "Navis es una app de Android con push del sistema; te avisa aunque no tengas el PC ni el browser abiertos.",
+      "reasonEn": "Navis is an Android app with system push; it alerts you even without the PC or browser open."
+    },
+    {
+      "labelEs": "Mirar timers lejos de la computadora",
+      "labelEn": "Check timers away from the computer",
+      "winner": "cephalon-navis",
+      "reasonEs": "Al ser app mobile, Navis es la opción nativa para consultar el estado del mundo on-the-go.",
+      "reasonEn": "Being a mobile app, Navis is the native option to check the world state on the go."
+    },
+    {
+      "labelEs": "Tener el panorama completo en una pantalla grande",
+      "labelEn": "Have the full overview on a large screen",
+      "winner": "warframe-hub",
+      "reasonEs": "El dashboard de Warframe Hub aprovecha mejor una pantalla de escritorio para ver todo junto.",
+      "reasonEn": "Warframe Hub's dashboard makes better use of a desktop screen to see everything together."
+    }
+  ]
+}

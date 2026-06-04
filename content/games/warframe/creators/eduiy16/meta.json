@@ -1,0 +1,47 @@
+{
+  "id": "eduiy16",
+  "name": "eduiy16",
+  "country": "Latam",
+  "languages": ["es"],
+  "active": true,
+  "joinedYear": 2016,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@eduiy16",
+      "url": "https://www.youtube.com/@eduiy16",
+      "channelId": "UC-BIEXRTfgLty4jIWtuIPbw",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "eduiy16",
+      "url": "https://www.twitch.tv/eduiy16"
+    },
+    {
+      "type": "twitter",
+      "handle": "@eduiy16",
+      "url": "https://twitter.com/eduiy16"
+    }
+  ],
+  "specialties": ["build-guides", "farming-guides", "beginner-guides", "news-patch"],
+  "games": ["warframe"],
+  "contentTypes": ["videos", "guides", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Uno de los creators de Warframe en español más establecidos, Warframe Creator/Partner oficial desde hace años. Su canal se enfoca en builds de warframes y armas, guías de eventos y farmeo, tips y cobertura de updates — efectivamente el hub hispano de 'cómo armo/farmeo X'. De larga trayectoria y actividad constante, es la referencia obvia para players hispanohablantes que quieren guías prácticas.",
+  "noteEn": "One of the most established Spanish-language Warframe creators, an official Warframe Creator/Partner for years. His channel focuses on warframe and weapon builds, event and farming guides, tips and update coverage — effectively the Spanish-language hub for 'how do I build/farm X'. Long-running and consistently active, he's the obvious reference for Spanish-speaking players who want practical guides.",
+  "highlightsEs": [
+    "Guías de builds de warframes y armas en español",
+    "Guías de eventos y farmeo eficiente",
+    "Cobertura de updates y tips para la comunidad hispana",
+    "Larga trayectoria como Partner oficial de Warframe"
+  ],
+  "highlightsEn": [
+    "Warframe and weapon build guides in Spanish",
+    "Event and efficient farming guides",
+    "Update coverage and tips for the Spanish-speaking community",
+    "Long tenure as an official Warframe Partner"
+  ],
+  "avatar": "/images/creators/eduiy16-avatar.jpg",
+  "banner": "/images/creators/eduiy16-banner.jpg"
+}

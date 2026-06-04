@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-06-03
+> Última generación: 2026-06-04
 
 ## Resumen
 
-26 juegos · 439 tools · 125 creators · 132 categorías · 660 resources items · 140 comparisons · 26 stacks
+27 juegos · 456 tools · 130 creators · 137 categorías · 685 resources items · 148 comparisons · 27 stacks
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons | Stacks |
 |---|---|---:|---:|---:|---:|---:|---:|
@@ -33,6 +33,7 @@
 | `skyrim` | The Elder Scrolls V: Skyrim | 21 | 5 | 5 | 25 | 5 | 1 |
 | `valheim` | Valheim | 16 | 5 | 5 | 25 | 4 | 1 |
 | `valorant` | Valorant | 17 | 5 | 5 | 25 | 4 | 1 |
+| `warframe` | Warframe | 17 | 5 | 5 | 25 | 8 | 1 |
 | `windrose` | Windrose | 14 | 5 | 5 | 25 | 4 | 1 |
 | `world-of-warcraft` | World of Warcraft | 18 | 5 | 6 | 30 | 5 | 1 |
 
@@ -70,7 +71,7 @@
 
 **Comparisons (5)**: `faceit-vs-esea` (short), `hltv-vs-liquipedia-cs` (short), `leetify-vs-csstats-gg` (short), `scope-gg-vs-leetify` (short), `tracker-gg-cs2-vs-csstats-gg` (short)
 
-**Stacks (1)**: `cs2-improvement-toolkit` (5 tools)
+**Stacks (1)**: `cs2-improvement-toolkit` (6 tools)
 
 ### Cyberpunk 2077 (`cyberpunk-2077`)
 
@@ -446,6 +447,23 @@
 **Comparisons (4)**: `aim-lab-vs-kovaaks` (short), `blitz-gg-vs-tracker-gg` (short), `tracker-gg-vs-mobalytics` (short), `vlr-gg-vs-thespike-gg` (short)
 
 **Stacks (1)**: `valorant-improvement-toolkit` (5 tools)
+
+### Warframe (`warframe`)
+
+**Tools (17)**: AlecaFrame (`alecaframe`), browse.wf (`browse-wf`), Cephalon Navis (`cephalon-navis`), Overframe (`overframe`), Profit-Taker Analytics (`profit-taker-analytics`), RE:FRAMED (`reframed`), Semlar (`semlar`), Tenno Tools (`tenno-tools`), Warframe Damage Calculator (`warframe-damage-calc`), Warframe Official Discord (`warframe-discord`), WFCD Drop Data (`warframe-drop-data`), Official Drop Tables (`warframe-drop-tables`), Warframe Hub (`warframe-hub`), Warframe Market (`warframe-market`), r/Warframe (`warframe-subreddit`), WARFRAME Wiki (`warframe-wiki`), WFInfo (`wfinfo`)
+
+**Creators (5)**: Brozime (`brozime`), eduiy16 (`eduiy16`), gerrerossj4 (`gerrerossj4`), KnightmareFrame (`knightmare-frame`), TheKengineer (`the-kengineer`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `build-guides` — 5 items
+- `endgame-guides` — 5 items
+- `farming-guides` — 5 items
+- `news-and-updates` — 5 items
+
+**Comparisons (8)**: `alecaframe-vs-wfinfo` (flagship), `overframe-vs-reframed` (flagship), `overframe-vs-warframe-damage-calc` (short), `warframe-drop-tables-vs-warframe-drop-data` (short), `warframe-hub-vs-cephalon-navis` (short), `warframe-hub-vs-tenno-tools` (short), `warframe-market-vs-semlar` (short), `warframe-wiki-vs-browse-wf` (short)
+
+**Stacks (1)**: `ultimate-warframe-toolkit` (6 tools)
 
 ### Windrose (`windrose`)
 

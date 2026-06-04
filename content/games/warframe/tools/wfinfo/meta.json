@@ -1,0 +1,30 @@
+{
+  "id": "wfinfo",
+  "name": "WFInfo",
+  "shortName": "WFInfo",
+  "taglineEs": "Lee la pantalla de recompensas de relic y te dice qué agarrar — en plata y ducats",
+  "taglineEn": "Reads the relic reward screen and tells you what to grab — in plat and ducats",
+  "url": "https://wfinfo.warframestat.us/",
+  "category": "overlay-companion",
+  "type": "overlay",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/WFCD/WFinfo",
+  "license": "Apache-2.0",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["overlay", "relics", "fissures", "prime", "open-source", "essential"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["alecaframe", "warframe-market"],
+  "alternatives": ["alecaframe"],
+  "createdBy": {
+    "name": "Warframe Community Developers (WFCD)",
+    "url": "https://github.com/WFCD"
+  }
+}

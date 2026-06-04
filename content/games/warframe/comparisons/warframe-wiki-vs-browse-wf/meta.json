@@ -1,0 +1,39 @@
+{
+  "id": "warframe-wiki-vs-browse-wf",
+  "toolIds": ["warframe-wiki", "browse-wf"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-06-04",
+  "verdictEs": "WARFRAME Wiki para entender mecánicas con contexto y explicación humana. browse.wf para el valor crudo exacto del game data cuando el resumen de la wiki no alcanza para theorycraft de precisión.",
+  "verdictEn": "WARFRAME Wiki to understand mechanics with context and human explanation. browse.wf for the exact raw game-data value when the wiki's summary isn't enough for precision theorycraft.",
+  "useCases": [
+    {
+      "labelEs": "Entender cómo funciona una mecánica",
+      "labelEn": "Understand how a mechanic works",
+      "winner": "warframe-wiki",
+      "reasonEs": "La wiki explica status, scaling y sinergias con contexto humano; browse.wf da números crudos sin explicación.",
+      "reasonEn": "The wiki explains status, scaling and synergies with human context; browse.wf gives raw numbers with no explanation."
+    },
+    {
+      "labelEs": "Obtener el valor interno exacto de una stat o mod",
+      "labelEn": "Get the exact internal value of a stat or mod",
+      "winner": "browse-wf",
+      "reasonEs": "browse.wf resuelve el manifest del juego con los valores exactos, sin redondeos ni interpretación de editores.",
+      "reasonEn": "browse.wf resolves the game manifest with exact values, with no rounding or editor interpretation."
+    },
+    {
+      "labelEs": "Planear quests y ver requisitos sin spoilearse",
+      "labelEn": "Plan quests and see requirements without spoilers",
+      "winner": "warframe-wiki",
+      "reasonEs": "La wiki documenta el orden, requisitos y recompensas de las quests de forma legible; browse.wf no es para eso.",
+      "reasonEn": "The wiki documents quest order, requirements and rewards readably; browse.wf isn't for that."
+    },
+    {
+      "labelEs": "Verificar un número dudoso para theorycraft de precisión",
+      "labelEn": "Verify a dubious number for precision theorycraft",
+      "winner": "browse-wf",
+      "reasonEs": "Cuando una wiki puede tener un dato desactualizado o redondeado, browse.wf da la fuente cruda exacta.",
+      "reasonEn": "When a wiki might have an outdated or rounded figure, browse.wf gives the exact raw source."
+    }
+  ]
+}

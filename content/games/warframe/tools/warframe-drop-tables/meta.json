@@ -1,0 +1,28 @@
+{
+  "id": "warframe-drop-tables",
+  "name": "Official Drop Tables",
+  "shortName": "Drop Tables",
+  "taglineEs": "Las tablas de drop oficiales de DE — la verdad de tierra de toda probabilidad",
+  "taglineEn": "DE's official drop tables — the ground truth of every drop rate",
+  "url": "https://www.warframe.com/droptables",
+  "category": "reference",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["drops", "reference", "official", "probabilities", "relics"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/warframe/warframe-drop-tables-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["warframe-drop-data", "warframe-wiki"],
+  "alternatives": ["warframe-drop-data"],
+  "createdBy": {
+    "name": "Digital Extremes",
+    "url": "https://www.warframe.com/"
+  }
+}

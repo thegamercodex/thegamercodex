@@ -1,0 +1,30 @@
+{
+  "id": "cephalon-navis",
+  "name": "Cephalon Navis",
+  "shortName": "Navis",
+  "taglineEs": "App de Android para el estado del mundo on-the-go con push notifications",
+  "taglineEn": "Android app for on-the-go world state with push notifications",
+  "url": "https://play.google.com/store/apps/details?id=com.cephalon.navis",
+  "category": "worldstate-timers",
+  "type": "mobile-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/WFCD/navis",
+  "license": "MIT",
+  "platforms": ["android"],
+  "languages": ["en"],
+  "tags": ["worldstate", "timers", "mobile", "notifications", "open-source"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/warframe/cephalon-navis-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["warframe-hub", "tenno-tools"],
+  "alternatives": ["warframe-hub"],
+  "createdBy": {
+    "name": "WFCD / SlayerOrnstein",
+    "url": "https://github.com/WFCD/navis"
+  }
+}

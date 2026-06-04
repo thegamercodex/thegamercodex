@@ -1,0 +1,155 @@
+{
+  "id": "warframe",
+  "name": "Warframe",
+  "shortName": "Warframe",
+  "developer": "Digital Extremes",
+  "releaseYear": 2013,
+  "officialUrl": "https://www.warframe.com",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/230410/Warframe/",
+      "appId": "230410",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "epic",
+      "url": "https://store.epicgames.com/en-US/p/warframe",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/product/UP2097-PPSA01737_00-WARFRAMEPS500000",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-US/games/store/warframe/BPS3XF74B9V1/0001",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "nintendo",
+      "url": "https://www.nintendo.com/us/store/products/warframe-switch/",
+      "model": "free-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "free-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["premium-currency", "cosmetic", "warframe-slots", "weapon-slots", "boosters", "prime-access"],
+    "payToWin": false,
+    "noteEs": "Free-to-play completo: todo el contenido jugable (warframes, armas, misiones) se consigue jugando. La moneda premium (Platinum) se compra con dinero real pero también se obtiene comerciando con otros jugadores, así que un jugador activo puede acceder a cosméticos y slots sin gastar. Lo único exclusivamente pago es la conveniencia (boosters, slots extra) y el acceso anticipado a Prime gear vía Prime Access. No hay power buyable que no se pueda farmear.",
+    "noteEn": "Fully free-to-play: all playable content (warframes, weapons, missions) is earned in-game. The premium currency (Platinum) is bought with real money but also earned by trading with other players, so an active player can access cosmetics and slots without spending. The only strictly paid things are convenience (boosters, extra slots) and early access to Prime gear via Prime Access. No buyable power that can't be farmed."
+  },
+  "platforms": ["windows", "playstation", "xbox", "switch", "ios", "android"],
+  "genres": ["arpg", "fps"],
+  "theme": {
+    "primary": "#243843",
+    "secondary": "#162029",
+    "accent": "#48cabf",
+    "background": "#090e12",
+    "text": "#e6edf2"
+  },
+  "logo": "/images/games/warframe-logo.png",
+  "heroImage": "/images/games/warframe-hero.webp",
+  "toolCategories": [
+    {
+      "id": "build-planning",
+      "nameEs": "Planificación de Builds",
+      "nameEn": "Build Planning",
+      "descriptionEs": "Herramientas para diseñar, simular y comparar builds de warframes y armas",
+      "descriptionEn": "Tools to design, simulate and compare warframe and weapon builds",
+      "icon": "🧮"
+    },
+    {
+      "id": "trading-economy",
+      "nameEs": "Comercio y Economía",
+      "nameEn": "Trading & Economy",
+      "descriptionEs": "Price-check, listados y valuación de items, rivens y sets en el mercado de jugadores",
+      "descriptionEn": "Price-check, listings and valuation of items, rivens and sets on the player market",
+      "icon": "💰"
+    },
+    {
+      "id": "overlay-companion",
+      "nameEs": "Overlays y Apps Companion",
+      "nameEn": "Overlays & Companion Apps",
+      "descriptionEs": "Herramientas de escritorio que leen el juego para mostrar info en vivo (valor de relics, inventario, foundry)",
+      "descriptionEn": "Desktop tools that read the game to surface live info (relic values, inventory, foundry)",
+      "icon": "🖥️"
+    },
+    {
+      "id": "worldstate-timers",
+      "nameEs": "Estado del Mundo y Timers",
+      "nameEn": "World State & Timers",
+      "descriptionEs": "Rastrea fissures, ciclos día/noche, Baro, Nightwave, sorties y eventos en tiempo real",
+      "descriptionEn": "Track fissures, day/night cycles, Baro, Nightwave, sorties and events in real time",
+      "icon": "🌐"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia y Data",
+      "nameEn": "Reference & Data",
+      "descriptionEs": "Wikis, drop tables y consulta de datos crudos del juego",
+      "descriptionEn": "Wikis, drop tables and raw game-data lookups",
+      "icon": "📚"
+    },
+    {
+      "id": "endgame-tooling",
+      "nameEs": "Endgame y Análisis de Runs",
+      "nameEn": "Endgame & Run Analysis",
+      "descriptionEs": "Herramientas especializadas para boss runs y optimización de alto nivel",
+      "descriptionEn": "Specialized tools for boss runs and high-end optimization",
+      "icon": "🏆"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Los puntos de entrada a la comunidad: Discord oficial y subreddit",
+      "descriptionEn": "The community entry points: official Discord and subreddit",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para empezar a jugar Warframe",
+      "descriptionEn": "Essential resources to start playing Warframe",
+      "icon": "🌱"
+    },
+    {
+      "id": "news-and-updates",
+      "nameEs": "Noticias y Updates",
+      "nameEn": "News & Updates",
+      "descriptionEs": "Cobertura y explicaciones de los updates y patches recientes de Warframe",
+      "descriptionEn": "Coverage and explainers of recent Warframe updates and patches",
+      "icon": "📰"
+    },
+    {
+      "id": "build-guides",
+      "nameEs": "Guías de Builds",
+      "nameEn": "Build Guides",
+      "descriptionEs": "Builds destacadas de warframes y armas por arquetipo",
+      "descriptionEn": "Featured warframe and weapon builds by archetype",
+      "icon": "🛡️"
+    },
+    {
+      "id": "farming-guides",
+      "nameEs": "Guías de Farmeo",
+      "nameEn": "Farming Guides",
+      "descriptionEs": "Cómo farmear recursos, relics, créditos y platinum eficientemente",
+      "descriptionEn": "How to farm resources, relics, credits and platinum efficiently",
+      "icon": "⛏️"
+    },
+    {
+      "id": "endgame-guides",
+      "nameEs": "Guías de Endgame",
+      "nameEn": "Endgame Guides",
+      "descriptionEs": "Steel Path, Eidolons, Profit-Taker, Deep Archimedea y demás contenido de alto nivel",
+      "descriptionEn": "Steel Path, Eidolons, Profit-Taker, Deep Archimedea and other high-end content",
+      "icon": "👹"
+    }
+  ]
+}

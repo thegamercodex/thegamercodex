@@ -1,0 +1,46 @@
+{
+  "id": "brozime",
+  "name": "Brozime",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Brozime",
+      "url": "https://www.youtube.com/@Brozime",
+      "channelId": "UCJ6-So7ndDeeYdudPIbhCiA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "Brozime",
+      "url": "https://www.twitch.tv/brozime"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Brozime",
+      "url": "https://twitter.com/Brozime"
+    }
+  ],
+  "specialties": ["theorycraft", "build-guides", "news-patch", "variety"],
+  "games": ["warframe"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Uno de los creators más reconocidos de Warframe, conocido por contenido opinado y de análisis profundo: breakdowns de devstreams, reviews de frames y armas, discusiones de tier y roundups de 'mejor gear'. Es además streamer de Twitch de formato largo, y su canal mezcla Warframe con otros juegos, lo que le da un ángulo de variety y personalidad más que de tutorial puro. Para quien quiere opinión fundamentada sobre el estado del juego y qué vale la pena, Brozime es referencia.",
+  "noteEn": "One of Warframe's most recognized creators, known for opinionated, deep-dive content: devstream breakdowns, frame and weapon reviews, tier discussions and 'best gear' roundups. He's also a long-form Twitch streamer, and his channel mixes Warframe with other games, giving it a variety/personality angle rather than pure tutorials. For those who want grounded opinion on the state of the game and what's worth it, Brozime is a reference.",
+  "highlightsEs": [
+    "Breakdowns de devstreams y patches explicando los cambios que vienen",
+    "Reviews y tier takes de frames y armas con opinión fuerte",
+    "Roundups de mejor gear y misiones para preparar updates",
+    "Streams de Twitch de formato largo de forma regular"
+  ],
+  "highlightsEn": [
+    "Devstream and patch breakdowns explaining upcoming changes",
+    "Frame and weapon reviews and tier takes with strong opinions",
+    "Best-gear and mission roundups to prep for updates",
+    "Regular long-form Twitch streams"
+  ],
+  "avatar": "/images/creators/brozime-avatar.jpg",
+  "banner": "/images/creators/brozime-banner.jpg"
+}

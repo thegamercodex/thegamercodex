@@ -1,0 +1,27 @@
+{
+  "id": "warframe-subreddit",
+  "name": "r/Warframe",
+  "shortName": "r/Warframe",
+  "taglineEs": "El subreddit del juego — noticias, guías, discusión y reacción de la comunidad",
+  "taglineEn": "The game's subreddit — news, guides, discussion and community reaction",
+  "url": "https://www.reddit.com/r/Warframe/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "android", "ios"],
+  "languages": ["en"],
+  "tags": ["community", "reddit", "news", "discussion"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["warframe-discord"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "r/Warframe community"
+  }
+}

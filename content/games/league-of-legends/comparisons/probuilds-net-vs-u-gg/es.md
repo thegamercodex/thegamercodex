@@ -32,6 +32,6 @@ Ninguna de las dos explica el razonamiento estadístico en profundidad; para eso
 - **Consultar runas, counters y tier list antes de ranked** → U.GG. Todo en un sitio; Probuilds.net no hace counters ni tier lists.
 - **Estudiar a un pro específico o copiar su estilo** → Probuilds.net. Filtras por nombre y ves su rotación de picks y builds.
 - **Comparar cómo construyen las distintas ligas (LCK vs LEC vs LPL)** → Probuilds.net, que indexa por liga y región.
-- **Querés español y una experiencia mobile decente** → U.GG, por idiomas y UX moderna.
+- **Quieres español y una experiencia mobile decente** → U.GG, por idiomas y UX moderna.
 
 Son complementarias: U.GG como referencia diaria de qué construir en tu rango, Probuilds.net como ventana al meta competitivo cuando un patch recién sale o cuando quieres ver qué hizo un pro en una partida concreta.

@@ -1,0 +1,46 @@
+{
+  "id": "knightmare-frame",
+  "name": "KnightmareFrame",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@KnightmareFrame",
+      "url": "https://www.youtube.com/@KnightmareFrame",
+      "channelId": "UC9BVPiqY_Dc3hbcmDKatazA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "KnightmareFrame",
+      "url": "https://www.twitch.tv/knightmareframe"
+    },
+    {
+      "type": "twitter",
+      "handle": "@KnightmareFrame",
+      "url": "https://twitter.com/KnightmareFrame"
+    }
+  ],
+  "specialties": ["news-patch", "beginner-guides", "build-guides", "variety"],
+  "games": ["warframe"],
+  "contentTypes": ["videos", "live-streams", "guides"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Canal de alto output que cubre noticias de Warframe, breakdowns de updates, tips de quality-of-life y guías accesibles pensadas para ayudar a progresar sin abrumarse. El tono es amigable para principiantes pero igual útil para players que vuelven, lo que lo convierte en una buena fuente para mantenerse al día y para onboarding. Si buscas 'qué cambió y cómo me hace la vida más fácil', KnightmareFrame es punto de entrada.",
+  "noteEn": "A high-output channel covering Warframe news, update breakdowns, quality-of-life tips and approachable guides built to help players progress without getting overwhelmed. The tone is beginner-friendly while still useful for returning players, making it a good source for keeping up with the game and for onboarding. If you're looking for 'what changed and how it makes my life easier', KnightmareFrame is an entry point.",
+  "highlightsEs": [
+    "Cobertura frecuente de noticias, updates y reacciones a patches",
+    "Tips amigables para principiantes y videos de QoL para facilitar el juego",
+    "Guías de builds y farmeo para el contenido vigente",
+    "Streams de Twitch en paralelo a YouTube"
+  ],
+  "highlightsEn": [
+    "Frequent news, update coverage and patch reactions",
+    "Beginner-friendly tips and QoL videos to make the game easier",
+    "Build and farming guides for current content",
+    "Twitch streaming alongside YouTube"
+  ],
+  "avatar": "/images/creators/knightmare-frame-avatar.jpg",
+  "banner": "/images/creators/knightmare-frame-banner.jpg"
+}

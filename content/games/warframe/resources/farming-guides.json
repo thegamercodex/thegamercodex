@@ -1,0 +1,80 @@
+{
+  "category": "farming-guides",
+  "resources": [
+    {
+      "id": "the-kengineer-warframe-new-relics-fast-2025",
+      "type": "video",
+      "title": "How to get new relics FAST | Warframe",
+      "creator": "TheKengineer",
+      "creatorId": "the-kengineer",
+      "url": "https://www.youtube.com/watch?v=JQCw-spZQgc",
+      "youtubeId": "JQCw-spZQgc",
+      "language": "en",
+      "duration": "9:46",
+      "publishedDate": "2025-02-18",
+      "thumbnail": "https://i.ytimg.com/vi/JQCw-spZQgc/maxresdefault.jpg",
+      "noteEs": "Guía de adquisición de relics de un creator centrado en mecánicas y muy respetado. Es la base del prime farming: conseguir las relics correctas rápido antes de abrirlas en fissures.",
+      "noteEn": "Relic acquisition guide from a highly respected, mechanics-focused creator. It's the foundation of prime farming: getting the right relics fast before cracking them in fissures."
+    },
+    {
+      "id": "grind-hard-squad-warframe-relic-farming-2025",
+      "type": "video",
+      "title": "THE BEST NEW ALTERNATIVE RELIC FARMING METHOD + NEW BEST RELIC FARMER WARFRAME IN 2025",
+      "creator": "Grind Hard Squad",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=qqHnhbV-W7A",
+      "youtubeId": "qqHnhbV-W7A",
+      "language": "en",
+      "duration": "8:58",
+      "publishedDate": "2025-11-06",
+      "thumbnail": "https://i.ytimg.com/vi/qqHnhbV-W7A/maxresdefault.jpg",
+      "noteEs": "Método alternativo reciente de farmeo de relics más el mejor frame para hacerlo. Tips de eficiencia del meta actual que complementan la guía de adquisición de TheKengineer.",
+      "noteEn": "Recent alternative relic-farming method plus the best frame to do it. Current-meta efficiency tips that complement TheKengineer's acquisition guide."
+    },
+    {
+      "id": "warframeflo-warframe-credits-farming-2025",
+      "type": "video",
+      "title": "The ULTIMATE Guide to Farming MILLIONS Of CREDITS In Warframe",
+      "creator": "WarframeFlo",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=MqZMzwW23_Q",
+      "youtubeId": "MqZMzwW23_Q",
+      "language": "en",
+      "duration": "13:40",
+      "publishedDate": "2025-10-07",
+      "thumbnail": "https://i.ytimg.com/vi/MqZMzwW23_Q/maxresdefault.jpg",
+      "noteEs": "Guía completa de farmeo de créditos, cubriendo los mejores nodos y métodos. Los créditos son un cuello de botella constante para todos los jugadores — desde craftear hasta subir mods.",
+      "noteEn": "Complete credit-farming guide covering the best nodes and methods. Credits are a constant bottleneck for all players — from crafting to ranking up mods."
+    },
+    {
+      "id": "pupsker-warframe-prime-prep-platinum-2025",
+      "type": "video",
+      "title": "New Prime Warframe Release Prep Guide! Farm The Warframe Or Sell It For Platinum!",
+      "creator": "Pupsker",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=WnKbvPGmYEE",
+      "youtubeId": "WnKbvPGmYEE",
+      "language": "en",
+      "duration": "7:50",
+      "publishedDate": "2025-08-16",
+      "thumbnail": "https://i.ytimg.com/vi/WnKbvPGmYEE/maxresdefault.jpg",
+      "noteEs": "Guía para prepararse ante el lanzamiento de un nuevo Prime: decidir si farmearlo o venderlo por platinum. Práctica para aprovechar la ventana de precios altos que sigue a cada Prime Access.",
+      "noteEn": "Guide to prepping for a new Prime release: deciding whether to farm it or sell it for platinum. Practical for capitalizing on the high-price window that follows each Prime Access."
+    },
+    {
+      "id": "tipsy-warframe-platinum-trade-credits-ep5-2025",
+      "type": "video",
+      "title": "Warframe Beginner Guide 2025: How to Farm Platinum, Trade, get Credits and Beast Friends | Episode 5",
+      "creator": "Tipsy",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=E7oWb2gbLnw",
+      "youtubeId": "E7oWb2gbLnw",
+      "language": "en",
+      "duration": "30:33",
+      "publishedDate": "2025-05-09",
+      "thumbnail": "https://i.ytimg.com/vi/E7oWb2gbLnw/maxresdefault.jpg",
+      "noteEs": "Primer extenso de platinum, trading y créditos pensado para jugadores más nuevos. Hace de puente entre la audiencia principiante y el farmeo serio: cómo generar economía sin pagar.",
+      "noteEn": "Long-form platinum, trading and credit primer aimed at newer players. It bridges the beginner audience and serious farming: how to generate economy without paying."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "warframe-wiki",
+  "name": "WARFRAME Wiki",
+  "shortName": "Wiki",
+  "taglineEs": "La wiki oficial endorsada por DE — la referencia de todo item, mecánica y quest",
+  "taglineEn": "The DE-endorsed official wiki — the reference for every item, mechanic and quest",
+  "url": "https://wiki.warframe.com/",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "reference", "drops", "mechanics", "quests", "essential"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/warframe/warframe-wiki-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["warframe-drop-data", "browse-wf"],
+  "alternatives": ["browse-wf"],
+  "createdBy": {
+    "name": "WARFRAME Wiki community",
+    "url": "https://wiki.warframe.com/"
+  }
+}

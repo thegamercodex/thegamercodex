@@ -1,0 +1,41 @@
+{
+  "id": "the-kengineer",
+  "name": "TheKengineer",
+  "country": "UK",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@TheKengineer",
+      "url": "https://www.youtube.com/@TheKengineer",
+      "channelId": "UCiED7CqmvQSsSHUiQ42EWbw",
+      "primary": true
+    },
+    {
+      "type": "twitter",
+      "handle": "@TheKengineer",
+      "url": "https://twitter.com/TheKengineer"
+    }
+  ],
+  "specialties": ["theorycraft", "mechanics-explainers", "build-guides"],
+  "games": ["warframe"],
+  "contentTypes": ["videos", "guides"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Uno de los theorycrafters más respetados de la comunidad de Warframe, conocido por contenido riguroso y centrado en mecánicas: cómo funcionan de verdad los sistemas —daño, scaling, mods, interacciones de habilidades—. Sus videos suelen revisitar frames infravalorados para mostrar su fuerza oculta, y opina en debates de balance con razonamiento detallado en lugar de tier talk superficial. Para entender el porqué de las cosas, no solo el qué, es la referencia.",
+  "noteEn": "One of the most respected theorycrafters in the Warframe community, known for rigorous, mechanics-first content: how systems actually work —damage, scaling, mods, ability interactions—. His videos frequently revisit underrated frames to show their hidden strength, and he weighs in on balance debates with detailed reasoning rather than surface-level tier talk. For understanding the why, not just the what, he's the reference.",
+  "highlightsEs": [
+    "Explainers profundos de mecánicas y scaling de daño",
+    "Spotlights de frames que muestran cómo hacer brillar a los off-meta",
+    "Comentario de análisis sobre cambios de balance recientes o propuestos",
+    "Build breakdowns fundamentados en cómo funciona la matemática"
+  ],
+  "highlightsEn": [
+    "Deep explainers on mechanics and damage scaling",
+    "Frame spotlights showing how to make off-meta frames shine",
+    "Analysis commentary on recent or proposed balance changes",
+    "Build breakdowns grounded in how the math works"
+  ],
+  "avatar": "/images/creators/the-kengineer-avatar.jpg",
+  "banner": "/images/creators/the-kengineer-banner.jpg"
+}

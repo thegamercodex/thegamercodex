@@ -1,0 +1,28 @@
+{
+  "id": "warframe-market",
+  "name": "Warframe Market",
+  "shortName": "WF Market",
+  "taglineEs": "El hub de trading entre jugadores — la fuente de precios de toda la economía",
+  "taglineEn": "The player-to-player trading hub — the price source for the whole economy",
+  "url": "https://warframe.market/",
+  "category": "trading-economy",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "android", "ios"],
+  "languages": ["en", "es"],
+  "tags": ["trading", "economy", "market", "prices", "rivens", "essential"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/warframe/warframe-market-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["semlar", "alecaframe", "wfinfo"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Warframe Market",
+    "url": "https://warframe.market/"
+  }
+}

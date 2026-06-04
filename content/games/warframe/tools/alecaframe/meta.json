@@ -1,0 +1,28 @@
+{
+  "id": "alecaframe",
+  "name": "AlecaFrame",
+  "shortName": "AlecaFrame",
+  "taglineEs": "El overlay companion todo-en-uno: relics, inventario, foundry, rivens y analytics",
+  "taglineEn": "The all-in-one companion overlay: relics, inventory, foundry, rivens and analytics",
+  "url": "https://alecaframe.com/",
+  "category": "overlay-companion",
+  "type": "overlay",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["overlay", "inventory", "rivens", "foundry", "analytics", "trading"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/warframe/alecaframe-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["wfinfo", "warframe-market"],
+  "alternatives": ["wfinfo"],
+  "createdBy": {
+    "name": "Alejandro Cabrerizo",
+    "url": "https://alecaframe.com/"
+  }
+}

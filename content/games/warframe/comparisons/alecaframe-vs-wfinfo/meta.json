@@ -1,0 +1,46 @@
+{
+  "id": "alecaframe-vs-wfinfo",
+  "toolIds": ["alecaframe", "wfinfo"],
+  "category": "overlay-companion",
+  "depth": "flagship",
+  "lastVerified": "2026-06-04",
+  "verdictEs": "WFInfo si solo quieres el price-check de recompensas de relic: gratis, open source, liviano y sin pedir nada. AlecaFrame si quieres una suite companion completa que además gestione inventario, foundry, rivens y trading, a costa de ser más pesada y cerrar los analytics avanzados detrás de Patreon.",
+  "verdictEn": "WFInfo if you only want relic-reward price-checking: free, open source, lightweight and asking nothing. AlecaFrame if you want a full companion suite that also manages inventory, foundry, rivens and trading, at the cost of being heavier and closing advanced analytics behind Patreon.",
+  "useCases": [
+    {
+      "labelEs": "Elegir la mejor recompensa de relic en un fissure",
+      "labelEn": "Pick the best relic reward in a fissure",
+      "winner": "wfinfo",
+      "reasonEs": "Es la función central de WFInfo, gratis y de propósito único; lo hace perfecto sin el overhead de una suite completa.",
+      "reasonEn": "It's WFInfo's core function, free and single-purpose; it does it perfectly without the overhead of a full suite."
+    },
+    {
+      "labelEs": "Gestionar inventario y listar en Warframe Market en un click",
+      "labelEn": "Manage inventory and list on Warframe Market in one click",
+      "winner": "alecaframe",
+      "reasonEs": "AlecaFrame lee tu inventario y publica ventas al mercado sin copiar nombres a mano; WFInfo no gestiona inventario.",
+      "reasonEn": "AlecaFrame reads your inventory and posts sales to the market without copying names by hand; WFInfo doesn't manage inventory."
+    },
+    {
+      "labelEs": "Querer una tool open source y auditable",
+      "labelEn": "Wanting an open-source, auditable tool",
+      "winner": "wfinfo",
+      "reasonEs": "WFInfo es open source bajo Apache-2.0; AlecaFrame no expone su código, lo que pesa para quien corre software que lee la pantalla.",
+      "reasonEn": "WFInfo is open source under Apache-2.0; AlecaFrame doesn't expose its code, which matters for those running screen-reading software."
+    },
+    {
+      "labelEs": "Cazar y evaluar rivens con analytics de mercado",
+      "labelEn": "Sniping and evaluating rivens with market analytics",
+      "winner": "alecaframe",
+      "reasonEs": "El explorador de rivens y las analytics de AlecaFrame no tienen equivalente en WFInfo, que solo cubre relics.",
+      "reasonEn": "AlecaFrame's riven explorer and analytics have no equivalent in WFInfo, which only covers relics."
+    },
+    {
+      "labelEs": "Correr algo liviano sin Overwolf ni Patreon",
+      "labelEn": "Running something lightweight without Overwolf or Patreon",
+      "winner": "wfinfo",
+      "reasonEs": "WFInfo es un overlay liviano y gratuito; AlecaFrame depende de Overwolf y cierra sus features avanzadas tras Patreon.",
+      "reasonEn": "WFInfo is a lightweight, free overlay; AlecaFrame depends on Overwolf and gates its advanced features behind Patreon."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "warframe-discord",
+  "name": "Warframe Official Discord",
+  "shortName": "Discord",
+  "taglineEs": "El servidor oficial de Digital Extremes — anuncios, LFG, trading y soporte",
+  "taglineEn": "Digital Extremes' official server — announcements, LFG, trading and support",
+  "url": "https://discord.com/invite/playwarframe",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows", "macos", "android", "ios"],
+  "languages": ["en"],
+  "tags": ["community", "discord", "lfg", "trading", "official"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["warframe-subreddit"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Digital Extremes",
+    "url": "https://www.warframe.com/"
+  }
+}

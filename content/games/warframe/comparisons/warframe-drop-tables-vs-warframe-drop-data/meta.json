@@ -1,0 +1,39 @@
+{
+  "id": "warframe-drop-tables-vs-warframe-drop-data",
+  "toolIds": ["warframe-drop-tables", "warframe-drop-data"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-06-04",
+  "verdictEs": "Official Drop Tables como la verdad de tierra cruda y autoritativa de DE. WFCD Drop Data para consultar esos mismos números de forma rápida y buscable en el día a día.",
+  "verdictEn": "Official Drop Tables as DE's raw, authoritative ground truth. WFCD Drop Data to query those same numbers quickly and searchably day to day.",
+  "useCases": [
+    {
+      "labelEs": "Buscar rápido dónde dropea un item",
+      "labelEn": "Quickly search where an item drops",
+      "winner": "warframe-drop-data",
+      "reasonEs": "Drop Data indexa los números oficiales con búsqueda en dos direcciones; los drop tables oficiales no tienen buscador cómodo.",
+      "reasonEn": "Drop Data indexes the official numbers with two-way search; the official drop tables have no convenient search."
+    },
+    {
+      "labelEs": "Verificar la probabilidad oficial exacta sin intermediarios",
+      "labelEn": "Verify the exact official probability with no intermediaries",
+      "winner": "warframe-drop-tables",
+      "reasonEs": "Los drop tables oficiales son la fuente que genera DE; son el árbitro final cuando hay duda.",
+      "reasonEn": "The official drop tables are the source DE generates; they're the final arbiter when in doubt."
+    },
+    {
+      "labelEs": "Comparar fuentes de un mismo item para elegir la más eficiente",
+      "labelEn": "Compare sources of the same item to pick the most efficient",
+      "winner": "warframe-drop-data",
+      "reasonEs": "Su interfaz buscable facilita comparar dónde cae un item; en la fuente oficial eso es scroll y Ctrl+F.",
+      "reasonEn": "Its searchable interface makes comparing where an item falls easy; in the official source that's scrolling and Ctrl+F."
+    },
+    {
+      "labelEs": "Consultar contenido recién parchado antes que los mirrors sincronicen",
+      "labelEn": "Check just-patched content before mirrors sync",
+      "winner": "warframe-drop-tables",
+      "reasonEs": "La fuente oficial se actualiza en origen; un mirror puede tener lag hasta sincronizar tras un update grande.",
+      "reasonEn": "The official source updates at origin; a mirror can lag until it syncs after a big update."
+    }
+  ]
+}

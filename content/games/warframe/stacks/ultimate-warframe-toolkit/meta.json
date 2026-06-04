@@ -1,0 +1,37 @@
+{
+  "id": "ultimate-warframe-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-04",
+  "items": [
+    {
+      "toolId": "warframe-wiki",
+      "roleEs": "La referencia. Consultas qué necesitas, dónde dropea y cómo funciona cada mecánica antes de moverte.",
+      "roleEn": "The reference. You look up what you need, where it drops and how each mechanic works before you move."
+    },
+    {
+      "toolId": "overframe",
+      "roleEs": "La planificación. Diseñas la build del warframe y el arma, y revisas la tier list de Helminth para los subsumes.",
+      "roleEn": "The planning. You design the warframe and weapon build, and check the Helminth tier list for subsumes."
+    },
+    {
+      "toolId": "warframe-hub",
+      "roleEs": "Los timers. Ves qué fissures, bounties y ciclos están activos ahora para farmear las partes en el momento óptimo.",
+      "roleEn": "The timers. You see which fissures, bounties and cycles are live now to farm the parts at the optimal moment."
+    },
+    {
+      "toolId": "wfinfo",
+      "roleEs": "El overlay de relics. Durante los fissures, te dice al instante qué recompensa agarrar por su valor en plata y ducats.",
+      "roleEn": "The relic overlay. During fissures, it instantly tells you which reward to grab by its plat and ducat value."
+    },
+    {
+      "toolId": "warframe-market",
+      "roleEs": "La economía. Vendes los duplicados y compras las partes y mods que te faltan a precio de mercado.",
+      "roleEn": "The economy. You sell duplicates and buy the parts and mods you're missing at market price."
+    },
+    {
+      "toolId": "alecaframe",
+      "roleEs": "El pegamento. Gestiona inventario, timers de foundry y listados al mercado en un click sobre todo lo demás.",
+      "roleEn": "The glue. It manages inventory, foundry timers and one-click market listings on top of everything else."
+    }
+  ]
+}

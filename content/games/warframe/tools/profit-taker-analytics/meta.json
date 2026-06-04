@@ -1,0 +1,29 @@
+{
+  "id": "profit-taker-analytics",
+  "name": "Profit-Taker Analytics",
+  "shortName": "PT Analytics",
+  "taglineEs": "Parser de runs de Profit-Taker fase por fase — para speedrunners y squad leaders",
+  "taglineEn": "Phase-by-phase Profit-Taker run parser — for speedrunners and squad leaders",
+  "url": "https://github.com/Basiiii/Profit-Taker-Analytics",
+  "category": "endgame-tooling",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Basiiii/Profit-Taker-Analytics",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["endgame", "profit-taker", "speedrun", "analysis", "open-source"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["alecaframe"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Basiiii",
+    "url": "https://github.com/Basiiii"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "semlar",
+  "name": "Semlar",
+  "shortName": "Semlar",
+  "taglineEs": "El toolbox de rivens: grados, precios y un montón de calculadoras de nicho",
+  "taglineEn": "The riven toolbox: grades, prices and a pile of niche calculators",
+  "url": "https://semlar.com/",
+  "category": "trading-economy",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["rivens", "calculators", "economy", "ducats", "theorycraft"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/warframe/semlar-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["warframe-market", "overframe"],
+  "alternatives": ["warframe-market"],
+  "createdBy": {
+    "name": "Semlar",
+    "url": "https://semlar.com/"
+  }
+}

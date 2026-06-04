@@ -1,0 +1,30 @@
+{
+  "id": "warframe-drop-data",
+  "name": "WFCD Drop Data",
+  "shortName": "Drop Data",
+  "taglineEs": "Buscador amigable sobre las drop tables oficiales — 'qué dropea X' al instante",
+  "taglineEn": "Friendly search over the official drop tables — 'what drops X' instantly",
+  "url": "https://drops.warframestat.us/",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/WFCD/warframe-drop-data",
+  "license": "MIT",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["drops", "reference", "search", "relics", "open-source"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["warframe-drop-tables", "warframe-wiki"],
+  "alternatives": ["warframe-drop-tables"],
+  "createdBy": {
+    "name": "Warframe Community Developers (WFCD)",
+    "url": "https://github.com/WFCD"
+  }
+}

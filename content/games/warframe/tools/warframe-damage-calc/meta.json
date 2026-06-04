@@ -1,0 +1,28 @@
+{
+  "id": "warframe-damage-calc",
+  "name": "Warframe Damage Calculator",
+  "shortName": "Damage Calc",
+  "taglineEs": "Calculadora de DPS dedicada — modela daño por disparo, multishot, crit y rivens",
+  "taglineEn": "Dedicated DPS calculator — models per-shot damage, multishot, crit and rivens",
+  "url": "https://warframe-damage.com/",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["dps", "damage", "theorycraft", "rivens", "weapons"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/warframe/warframe-damage-calc-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["overframe", "warframe-wiki"],
+  "alternatives": ["overframe"],
+  "createdBy": {
+    "name": "warframe-damage.com",
+    "url": "https://warframe-damage.com/"
+  }
+}

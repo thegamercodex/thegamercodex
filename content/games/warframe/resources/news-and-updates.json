@@ -1,0 +1,80 @@
+{
+  "category": "news-and-updates",
+  "resources": [
+    {
+      "id": "brozime-warframe-devstream-195-breakdown-2026",
+      "type": "video",
+      "title": "TWO New Warframes NEXT UPDATE | Devstream 195 Breakdown",
+      "creator": "Brozime",
+      "creatorId": "brozime",
+      "url": "https://www.youtube.com/watch?v=ebi4_L2yYKw",
+      "youtubeId": "ebi4_L2yYKw",
+      "language": "en",
+      "duration": "18:20",
+      "publishedDate": "2026-04-24",
+      "thumbnail": "https://i.ytimg.com/vi/ebi4_L2yYKw/maxresdefault.jpg",
+      "noteEs": "Breakdown del Devstream 195 cubriendo los dos frames que vienen y el roadmap 2026, con la mirada crítica y analítica de Brozime. Buen punto para entender qué se viene antes de que llegue.",
+      "noteEn": "Devstream 195 breakdown covering the two upcoming frames and the 2026 roadmap, with Brozime's critical, analytical take. A good way to understand what's coming before it lands."
+    },
+    {
+      "id": "gaz-ttv-warframe-shadowgrapher-patch-notes-2026",
+      "type": "video",
+      "title": "COMPLAINERS GOT VOLT NERFED? SHADOWGRAPHER Patch Notes Overview / New Cosmetics Showcase In Warframe",
+      "creator": "Gaz TTV",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=3UhPvkhXpfA",
+      "youtubeId": "3UhPvkhXpfA",
+      "language": "en",
+      "duration": "27:00",
+      "publishedDate": "2026-03-25",
+      "thumbnail": "https://i.ytimg.com/vi/3UhPvkhXpfA/maxresdefault.jpg",
+      "noteEs": "Overview completo de los patch notes del Update 42 'The Shadowgrapher' el mismo día de su lanzamiento, incluyendo cambios de balance y cosméticos nuevos. Útil para asimilar un parche grande de un vistazo.",
+      "noteEn": "Full patch-notes overview of Update 42 'The Shadowgrapher' on its launch day, including balance changes and new cosmetics. Useful for digesting a big patch at a glance."
+    },
+    {
+      "id": "kyaii-warframe-old-peace-patch-notes-2025",
+      "type": "video",
+      "title": "This Update Is INSANE! | Warframe: The Old Peace Patch Notes Review",
+      "creator": "kyaii",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=JooqlO6hyM4",
+      "youtubeId": "JooqlO6hyM4",
+      "language": "en",
+      "duration": "14:01",
+      "publishedDate": "2025-12-10",
+      "thumbnail": "https://i.ytimg.com/vi/JooqlO6hyM4/maxresdefault.jpg",
+      "noteEs": "Review del día de lanzamiento del Update 41 'The Old Peace' (el frame Uriel, quest y modo nuevos). Buen explainer del drop de contenido mayor anterior para quien se quiere poner al día.",
+      "noteEn": "Launch-day review of Update 41 'The Old Peace' (the Uriel frame, new quest and mode). A good explainer of the prior major content drop for anyone catching up."
+    },
+    {
+      "id": "grind-hard-squad-warframe-farm-better-update-2026",
+      "type": "video",
+      "title": "This Farm Got EVEN BETTER (somehow) After the Recent Update! | Warframe 2026",
+      "creator": "Grind Hard Squad",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=xIwqNFfvUNk",
+      "youtubeId": "xIwqNFfvUNk",
+      "language": "en",
+      "duration": "8:18",
+      "publishedDate": "2026-02-15",
+      "thumbnail": "https://i.ytimg.com/vi/xIwqNFfvUNk/maxresdefault.jpg",
+      "noteEs": "Pieza corta sobre cómo un parche reciente mejoró un farmeo clave. Conecta las noticias con su impacto accionable: no solo qué cambió, sino qué hacer al respecto ahora.",
+      "noteEn": "Short piece on how a recent patch improved a key farm. It connects news to actionable impact: not just what changed, but what to do about it now."
+    },
+    {
+      "id": "swagbraham-warframe-old-peace-explained-2026",
+      "type": "video",
+      "title": "Warframe The Old Peace Update Explained | Honest Summary",
+      "creator": "Swagbraham",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=FdPPFGdPdtw",
+      "youtubeId": "FdPPFGdPdtw",
+      "language": "en",
+      "duration": "11:02",
+      "publishedDate": "2026-01-06",
+      "thumbnail": "https://i.ytimg.com/vi/FdPPFGdPdtw/maxresdefault.jpg",
+      "noteEs": "Resumen honesto y conciso del Update 'The Old Peace' (Uriel, quest y modos nuevos), desde otro ángulo distinto a la review del día de lanzamiento. Bueno para una segunda opinión equilibrada del parche.",
+      "noteEn": "Honest, concise summary of 'The Old Peace' update (Uriel, new quest and modes), from an angle different to the launch-day review. Good for a balanced second opinion on the patch."
+    }
+  ]
+}

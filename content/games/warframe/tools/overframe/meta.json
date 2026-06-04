@@ -1,0 +1,28 @@
+{
+  "id": "overframe",
+  "name": "Overframe",
+  "shortName": "Overframe",
+  "taglineEs": "La base de datos de builds de la comunidad — diseña, compara y vota loadouts",
+  "taglineEn": "The community build database — design, compare and vote on loadouts",
+  "url": "https://overframe.gg/",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["builds", "theorycraft", "mods", "tier-lists", "helminth", "essential"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/warframe/overframe-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["reframed", "warframe-damage-calc", "warframe-wiki"],
+  "alternatives": ["reframed"],
+  "createdBy": {
+    "name": "Overframe",
+    "url": "https://overframe.gg/"
+  }
+}

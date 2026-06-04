@@ -1,0 +1,46 @@
+{
+  "id": "overframe-vs-reframed",
+  "toolIds": ["overframe", "reframed"],
+  "category": "build-planning",
+  "depth": "flagship",
+  "lastVerified": "2026-06-04",
+  "verdictEs": "Overframe si quieres el estándar consolidado: la mayor base de builds, votos de la comunidad y tier lists de referencia. RE:FRAMED si quieres una interfaz limpia y moderna para armar loadouts sin el ruido de ads, votos y comentarios.",
+  "verdictEn": "Overframe if you want the consolidated standard: the largest build database, community votes and reference tier lists. RE:FRAMED if you want a clean, modern interface to build loadouts without the noise of ads, votes and comments.",
+  "useCases": [
+    {
+      "labelEs": "Ver qué builds usa la comunidad y comparar por votos",
+      "labelEn": "See what builds the community uses and compare by votes",
+      "winner": "overframe",
+      "reasonEs": "Overframe tiene años de builds publicadas y el sistema de votos más activo, así que encuentras qué funciona de verdad con curación comunitaria.",
+      "reasonEn": "Overframe has years of published builds and the most active voting system, so you find what actually works with community curation."
+    },
+    {
+      "labelEs": "Planear subsumes de Helminth",
+      "labelEn": "Plan Helminth subsumes",
+      "winner": "overframe",
+      "reasonEs": "La tier list de habilidades de Helminth de Overframe es referencia de la comunidad para decidir qué habilidad inyectar en cada frame.",
+      "reasonEn": "Overframe's Helminth ability tier list is the community reference for deciding which ability to inject into each frame."
+    },
+    {
+      "labelEs": "Armar un loadout sin distracciones, con interfaz limpia",
+      "labelEn": "Build a loadout distraction-free, with a clean interface",
+      "winner": "reframed",
+      "reasonEs": "RE:FRAMED prioriza un diseño minimalista sin ads ni secciones de votos; para quien encuentra a Overframe saturado, es más cómodo.",
+      "reasonEn": "RE:FRAMED prioritizes a minimalist design with no ads or vote sections; for those who find Overframe cluttered, it's more comfortable."
+    },
+    {
+      "labelEs": "Compartir un loadout completo con un link simple",
+      "labelEn": "Share a full loadout with a simple link",
+      "winner": "reframed",
+      "reasonEs": "RE:FRAMED está pensado como loadout builder de autor: armar, guardar y pasar el link es directo y sin ruido.",
+      "reasonEn": "RE:FRAMED is built as an authoring loadout builder: build, save and pass the link is direct and noise-free."
+    },
+    {
+      "labelEs": "Encontrar builds para un frame apenas sale un Prime nuevo",
+      "labelEn": "Find builds the moment a new Prime releases",
+      "winner": "overframe",
+      "reasonEs": "Por volumen de usuarios, Overframe se puebla de builds de contenido nuevo mucho más rápido que RE:FRAMED.",
+      "reasonEn": "By user volume, Overframe fills with builds for new content far faster than RE:FRAMED."
+    }
+  ]
+}

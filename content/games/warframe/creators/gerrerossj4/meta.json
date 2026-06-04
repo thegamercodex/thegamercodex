@@ -1,0 +1,36 @@
+{
+  "id": "gerrerossj4",
+  "name": "gerrerossj4",
+  "country": "Latam",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@gerrerossj4",
+      "url": "https://www.youtube.com/@gerrerossj4",
+      "channelId": "UCzIVYdCwbR_Xsl_r4OTnGpg",
+      "primary": true
+    }
+  ],
+  "specialties": ["lore", "theorycraft", "news-patch", "variety"],
+  "games": ["warframe"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["intermediate"],
+  "noteEs": "Creator de Warframe en español con un ángulo distinto al de los canales de builds: explainers de lore, análisis narrativo, teorías y piezas de opinión sobre el estado del juego. Eso lo convierte en un buen complemento a eduiy16 — análisis e historia más que builds y farmeo. Actividad constante y enfoque en el porqué del universo de Warframe.",
+  "noteEn": "A Spanish-language Warframe creator with an angle distinct from build channels: lore explainers, narrative analysis, theories and opinion pieces on the state of the game. That makes him a good complement to eduiy16 — analysis and storytelling rather than builds and farming. Consistently active, with a focus on the why of the Warframe universe.",
+  "highlightsEs": [
+    "Videos de lore y análisis narrativo en español",
+    "Piezas de opinión y discusión sobre la dirección del juego",
+    "Contenido de teorías y deep dives del universo Warframe",
+    "Uploads recientes y constantes"
+  ],
+  "highlightsEn": [
+    "Lore and narrative-analysis videos in Spanish",
+    "Opinion and discussion pieces on the game's direction",
+    "Theory content and Warframe-universe deep dives",
+    "Recent and consistent uploads"
+  ],
+  "avatar": "/images/creators/gerrerossj4-avatar.jpg",
+  "banner": "/images/creators/gerrerossj4-banner.jpg"
+}

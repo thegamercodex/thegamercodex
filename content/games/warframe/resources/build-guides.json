@@ -1,0 +1,80 @@
+{
+  "category": "build-guides",
+  "resources": [
+    {
+      "id": "xh-warframe-saryn-prime-steel-path-2025",
+      "type": "video",
+      "title": "Immortal Guide to Saryn Prime - Endgame Steel Path",
+      "creator": "XH",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=g0zF8OlnD7g",
+      "youtubeId": "g0zF8OlnD7g",
+      "language": "en",
+      "duration": "13:31",
+      "publishedDate": "2025-03-13",
+      "thumbnail": "https://i.ytimg.com/vi/g0zF8OlnD7g/maxresdefault.jpg",
+      "noteEs": "Build de Saryn Prime para Steel Path enfocada en nuke de área y supervivencia. Saryn es uno de los frames de clear de hordas más usados; buena base para quien quiere borrar mapas en endgame.",
+      "noteEn": "Saryn Prime build for Steel Path focused on AoE nuke and survivability. Saryn is one of the most-used horde-clear frames; a solid base for clearing maps in endgame."
+    },
+    {
+      "id": "hunkpain-warframe-wisp-prime-build-2025",
+      "type": "video",
+      "title": "WISP PRIME BUILD | LEVEL 9999 Void Cascade Steel Path DESTROYER!",
+      "creator": "Hunkpain Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=9-pywijiTWs",
+      "youtubeId": "9-pywijiTWs",
+      "language": "en",
+      "duration": "26:57",
+      "publishedDate": "2025-11-06",
+      "thumbnail": "https://i.ytimg.com/vi/9-pywijiTWs/maxresdefault.jpg",
+      "noteEs": "Build híbrida de soporte y DPS para Wisp Prime apuntada a Steel Path de nivel extremo. Cubre un arquetipo distinto al de Saryn — buff de squad más daño sostenido — para contenido de level cap.",
+      "noteEn": "Support/DPS hybrid build for Wisp Prime aimed at extreme-level Steel Path. It covers a different archetype than Saryn — squad buffing plus sustained damage — for level-cap content."
+    },
+    {
+      "id": "mhblacky-warframe-dante-build-2025",
+      "type": "video",
+      "title": "Warframe NERFED Dante... Now he's BETTER than EVER!",
+      "creator": "MHBlacky",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=2TIfMJuiCAE",
+      "youtubeId": "2TIfMJuiCAE",
+      "language": "en",
+      "duration": "16:06",
+      "publishedDate": "2025-04-16",
+      "thumbnail": "https://i.ytimg.com/vi/2TIfMJuiCAE/maxresdefault.jpg",
+      "noteEs": "Build de Dante post-nerf con foco en overguard y nuke de slash. Relevante porque parte del rebalance y muestra el setup óptimo actual de un frame que sigue siendo top tier.",
+      "noteEn": "Post-nerf Dante build focused on overguard and slash nuke. Relevant because it addresses the rebalance and shows the current optimal setup of a frame that remains top tier."
+    },
+    {
+      "id": "o-dawg-warframe-revenant-prime-tank-2025",
+      "type": "video",
+      "title": "The UNKILLABLE Revenant Prime! | Steel Path Tank Build | WARFRAME 2025",
+      "creator": "O Dawg",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=FUM9RSRlgOA",
+      "youtubeId": "FUM9RSRlgOA",
+      "language": "en",
+      "duration": "14:05",
+      "publishedDate": "2025-11-14",
+      "thumbnail": "https://i.ytimg.com/vi/FUM9RSRlgOA/maxresdefault.jpg",
+      "noteEs": "Build tank de Revenant Prime para Steel Path apoyada en su Mesmer Skin (invulnerabilidad). Es el frame de 'no me puedo morir' por excelencia — ideal para jugadores que quieren sobrevivir contenido alto sin pensar mucho en defensas.",
+      "noteEn": "Revenant Prime tank build for Steel Path leaning on his Mesmer Skin (invincibility). It's the quintessential 'I can't die' frame — ideal for players who want to survive high content without overthinking defenses."
+    },
+    {
+      "id": "hunkpain-warframe-octavia-prime-build-2025",
+      "type": "video",
+      "title": "Ultimate Octavia Prime Build for Level Cap 9999 Steel Path [Warframe]",
+      "creator": "Hunkpain Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=8lkGx_h1FfI",
+      "youtubeId": "8lkGx_h1FfI",
+      "language": "en",
+      "duration": "19:43",
+      "publishedDate": "2025-01-08",
+      "thumbnail": "https://i.ytimg.com/vi/8lkGx_h1FfI/maxresdefault.jpg",
+      "noteEs": "Build de Octavia Prime para level cap (Mallet/Resonator) en Steel Path. Cubre el arquetipo de nuke escalable más fuerte del juego — daño que crece con el nivel enemigo — distinto a los otros frames de la lista.",
+      "noteEn": "Octavia Prime level-cap build (Mallet/Resonator) for Steel Path. It covers the strongest scaling-nuke archetype in the game — damage that grows with enemy level — distinct from the other frames in this list."
+    }
+  ]
+}

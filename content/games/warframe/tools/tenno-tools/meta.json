@@ -1,0 +1,28 @@
+{
+  "id": "tenno-tools",
+  "name": "Tenno Tools",
+  "shortName": "Tenno Tools",
+  "taglineEs": "Tracker del mundo con notificaciones: alertas, invasiones, sorties y actividades",
+  "taglineEn": "World tracker with notifications: alerts, invasions, sorties and activities",
+  "url": "https://tenno.tools/",
+  "category": "worldstate-timers",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["worldstate", "timers", "notifications", "alerts", "sorties"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/warframe/tenno-tools-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["warframe-hub", "cephalon-navis"],
+  "alternatives": ["warframe-hub"],
+  "createdBy": {
+    "name": "Tenno Tools",
+    "url": "https://tenno.tools/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "reframed",
+  "name": "RE:FRAMED",
+  "shortName": "RE:FRAMED",
+  "taglineEs": "Loadout builder limpio y moderno — la alternativa prolija a Overframe",
+  "taglineEn": "Clean, modern loadout builder — the tidy alternative to Overframe",
+  "url": "https://reframed.site/",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["builds", "loadouts", "theorycraft", "modding"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-04",
+  "logo": "/images/tools/warframe/reframed-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["overframe", "warframe-damage-calc"],
+  "alternatives": ["overframe"],
+  "createdBy": {
+    "name": "RE:FRAMED",
+    "url": "https://reframed.site/"
+  }
+}

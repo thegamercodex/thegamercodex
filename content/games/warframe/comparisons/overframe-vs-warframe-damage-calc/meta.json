@@ -1,0 +1,39 @@
+{
+  "id": "overframe-vs-warframe-damage-calc",
+  "toolIds": ["overframe", "warframe-damage-calc"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-06-04",
+  "verdictEs": "Overframe para planificar la build completa (warframe + arma + sinergias) y copiar builds de la comunidad. Warframe Damage Calculator para exprimir el DPS exacto de un arma con riven incluido.",
+  "verdictEn": "Overframe to plan the full build (warframe + weapon + synergies) and copy community builds. Warframe Damage Calculator to squeeze a weapon's exact DPS with the riven included.",
+  "useCases": [
+    {
+      "labelEs": "Planear una build completa de warframe",
+      "labelEn": "Plan a full warframe build",
+      "winner": "overframe",
+      "reasonEs": "Overframe cubre warframe, armas, companion y sinergias en una vista; el Damage Calc solo modela daño de armas.",
+      "reasonEn": "Overframe covers warframe, weapons, companion and synergies in one view; the Damage Calc only models weapon damage."
+    },
+    {
+      "labelEs": "Calcular el DPS exacto de un arma con riven",
+      "labelEn": "Calculate a weapon's exact DPS with a riven",
+      "winner": "warframe-damage-calc",
+      "reasonEs": "El Damage Calc modela la fórmula completa (multishot, crit, status, riven) con más precisión que el simulador de Overframe.",
+      "reasonEn": "The Damage Calc models the full formula (multishot, crit, status, riven) more precisely than Overframe's simulator."
+    },
+    {
+      "labelEs": "Copiar una build probada de la comunidad",
+      "labelEn": "Copy a proven community build",
+      "winner": "overframe",
+      "reasonEs": "Overframe tiene la base de builds votadas; el Damage Calc no es un repositorio de builds compartidas.",
+      "reasonEn": "Overframe has the voted build database; the Damage Calc isn't a shared-build repository."
+    },
+    {
+      "labelEs": "Comparar el techo de daño entre dos armas",
+      "labelEn": "Compare the damage ceiling between two weapons",
+      "winner": "warframe-damage-calc",
+      "reasonEs": "Para min-maxeo de daño puro, el Damage Calc da el número final exacto que necesitas para decidir.",
+      "reasonEn": "For pure damage min-maxing, the Damage Calc gives the exact final number you need to decide."
+    }
+  ]
+}

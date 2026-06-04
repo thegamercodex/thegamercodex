@@ -1,0 +1,39 @@
+{
+  "id": "warframe-hub-vs-tenno-tools",
+  "toolIds": ["warframe-hub", "tenno-tools"],
+  "category": "worldstate-timers",
+  "depth": "short",
+  "lastVerified": "2026-06-04",
+  "verdictEs": "Warframe Hub si quieres el dashboard panorámico completo del estado del mundo de un vistazo. Tenno Tools si lo que buscas son notificaciones activas para no perderte contenido con tiempo límite.",
+  "verdictEn": "Warframe Hub if you want the full panoramic world-state dashboard at a glance. Tenno Tools if what you want is active notifications so you don't miss time-limited content.",
+  "useCases": [
+    {
+      "labelEs": "Ver todo el estado del mundo de un vistazo",
+      "labelEn": "See the whole world state at a glance",
+      "winner": "warframe-hub",
+      "reasonEs": "Warframe Hub es el dashboard panorámico: ciclos, fissures, sortie, Baro y Nightwave en una sola pantalla.",
+      "reasonEn": "Warframe Hub is the panoramic dashboard: cycles, fissures, sortie, Baro and Nightwave on a single screen."
+    },
+    {
+      "labelEs": "Recibir alertas cuando aparece una invasión o recompensa",
+      "labelEn": "Get alerts when an invasion or reward appears",
+      "winner": "tenno-tools",
+      "reasonEs": "Tenno Tools se enfoca en notificaciones de browser para avisarte sin que tengas que estar revisando.",
+      "reasonEn": "Tenno Tools focuses on browser notifications to alert you without you having to keep checking."
+    },
+    {
+      "labelEs": "Chequear el ciclo día/noche de Cetus o Vallis",
+      "labelEn": "Check the Cetus or Vallis day/night cycle",
+      "winner": "warframe-hub",
+      "reasonEs": "El detalle de ciclos de Warframe Hub es más completo para decidir cuándo pescar, minar o cazar.",
+      "reasonEn": "Warframe Hub's cycle detail is more complete for deciding when to fish, mine or hunt."
+    },
+    {
+      "labelEs": "No perder contenido time-gated sin abrir la página",
+      "labelEn": "Not miss time-gated content without opening the page",
+      "winner": "tenno-tools",
+      "reasonEs": "Su fuerte son las alertas configurables; Warframe Hub es informativo pero requiere que lo abras.",
+      "reasonEn": "Its strength is configurable alerts; Warframe Hub is informative but requires you to open it."
+    }
+  ]
+}
