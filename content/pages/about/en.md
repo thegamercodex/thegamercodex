@@ -5,7 +5,7 @@ description: A curated directory of gaming tools and resources, built by one gam
 
 ## What it is
 
-TheGamerCodex is a curated compendium of tools, creators, and resources for gamers. New games join the catalog once we've played them deeply enough to have informed opinions. Every entry is hand-reviewed: each tool is evaluated, each creator is picked for the quality of their output, each resource is there because it earns the click.
+TheGamerCodex is a curated compendium of tools, creators, and resources for gamers. Every entry is hand-reviewed: each tool is evaluated, each creator is picked for the quality of their output, each resource is there because it earns the click.
 
 ## Who's behind it
 

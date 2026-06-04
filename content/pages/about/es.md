@@ -5,7 +5,7 @@ description: Un directorio curado de herramientas y recursos de gaming, hecho po
 
 ## Qué es
 
-TheGamerCodex es un compendio curado de herramientas, creadores y recursos para gamers. Sumamos juegos cuando los probamos lo suficiente como para opinar con criterio. Todo el contenido se revisa a mano: cada herramienta se evalúa, cada creador se elige por la calidad de su contenido, cada recurso aparece porque vale el clic.
+TheGamerCodex es un compendio curado de herramientas, creadores y recursos para gamers. Todo el contenido se revisa a mano: cada herramienta se evalúa, cada creador se elige por la calidad de su contenido, cada recurso aparece porque vale el clic.
 
 ## Quién está detrás
 
