@@ -19,7 +19,9 @@ Mapa rápido de secciones:
 
 ## Qué es
 
-TheGamerCodex es un directorio web curado de herramientas y recursos para gamers, construido como un compendio (codex) de información organizada por juego. Cubre 9 juegos (Counter-Strike 2, Destiny 2, Dota 2, Genshin Impact, League of Legends, Path of Exile, Path of Exile 2, Valorant, World of Warcraft) y está diseñado para escalar a más. Ver `docs/CONTENT_INVENTORY.md` para el inventario actualizado.
+TheGamerCodex es un directorio web curado de herramientas y recursos para gamers, construido como un compendio (codex) de información organizada por juego. Está diseñado para escalar a muchos juegos.
+
+> **Fuente de verdad del catálogo**: `content/games/` (los directorios que existen ahí *son* el catálogo). Para conteos y desglose por juego (tools, creators, resources), `docs/CONTENT_INVENTORY.md` (autogenerado por `npm run inventory`). Este archivo NO enumera los juegos ni su cantidad a propósito — cualquier número aquí envejecería. Para responder "cuántos/cuáles juegos" o "qué tools tiene X", leer la fuente de verdad, nunca esta prosa.
 
 ## Stack Técnico
 
@@ -292,7 +294,7 @@ Movido a **`docs/RULES.md` → "Código"**.
 
 Para el inventario completo y actualizado (juegos, tools, creators, resources con conteos), ver **`docs/CONTENT_INVENTORY.md`** — autogenerado por `npm run inventory`. La fuente de verdad es `content/games/`; el doc se regenera tras cada cambio.
 
-Resumen de alto nivel: 9 juegos publicados con catálogo curado bilingüe ES/EN — Counter-Strike 2, Destiny 2, Dota 2, Genshin Impact, League of Legends, Path of Exile, Path of Exile 2, Valorant, World of Warcraft. Cada juego tiene 12-20 tools, 5 creators y 5-6 categorías de resources con ~25-30 items.
+Resumen de alto nivel: catálogo curado bilingüe ES/EN. Cada juego tiene típicamente 12-26 tools, 3-5 creators y 5-6 categorías de resources con ~25-30 items. Para la cantidad de juegos vigente y el desglose por juego, leer `docs/CONTENT_INVENTORY.md` (o `content/games/`) — no se replica aquí para no envejecer.
 
 Los assets visuales (logos, screenshots, avatars) pueden faltar para tools/creators recién agregados — los componentes hacen fallback a inicial cuando no existe el archivo.
 
