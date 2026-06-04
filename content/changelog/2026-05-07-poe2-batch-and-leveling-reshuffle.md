@@ -2,8 +2,8 @@
 date: 2026-05-07
 titleEs: "Catálogo PoE 2 ampliado y reorganización del leveling"
 titleEn: "Expanded PoE 2 catalog and leveling tools reshuffled"
-summaryEs: "Sumamos 6 herramientas curadas a PoE 2 (incluyendo PoE 2 Scout, POE Overlay y Sidekick), movimos Exile Leveling a su catálogo PoE 1 maduro, y reemplazamos su slot PoE 2 con poe2-leveling.com."
-summaryEn: "Added 6 curated PoE 2 tools (including PoE 2 Scout, POE Overlay, and Sidekick), moved Exile Leveling to its mature PoE 1 catalog, and replaced its PoE 2 slot with poe2-leveling.com."
+summaryEs: "Sumamos 6 herramientas curadas a PoE 2, movimos Exile Leveling a su catálogo PoE 1 maduro y reemplazamos su slot PoE 2 con poe2-leveling.com."
+summaryEn: "Added 6 curated PoE 2 tools, moved Exile Leveling to its mature PoE 1 catalog, and replaced its PoE 2 slot with poe2-leveling.com."
 gameAdded: null
 events:
   - type: tool

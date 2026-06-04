@@ -2,98 +2,98 @@
 date: 2026-05-13
 titleEs: "Primer batch de comparativas: 7 en PoE, 8 en PoE 2"
 titleEn: "First batch of comparisons: 7 in PoE, 8 in PoE 2"
-summaryEs: "Estrenamos un nuevo tipo de contenido: comparativas head-to-head entre herramientas, con veredicto editorial, tabla side-by-side y matriz de casos de uso. Arrancamos con 15 comparativas — 4 flagships (~1800 palabras cada una) y 11 cortas (~700). Cobertura: 7 comparativas en PoE y 8 en PoE 2, cubriendo todas las categorías relevantes (trading, build planning, reference, crafting, filters, economía). Cada comparativa aparece como sección propia en la página del juego y como chip visible en cada tool involucrada."
-summaryEn: "Shipping a new content type: head-to-head tool comparisons with editorial verdict, side-by-side table, and use-case matrix. Starting with 15 comparisons — 4 flagships (~1800 words each) and 11 shorts (~700). Coverage: 7 comparisons in PoE and 8 in PoE 2, spanning every relevant category (trading, build planning, reference, crafting, filters, economy). Each comparison surfaces as a dedicated section on the game page and as a chip visible on each tool involved."
+summaryEs: "Estrenamos las comparativas head-to-head entre herramientas, con veredicto editorial, tabla side-by-side y matriz de casos de uso. 15 comparativas (4 flagships, 11 cortas): 7 en PoE y 8 en PoE 2, cubriendo trading, build planning, reference, crafting, filters y economía."
+summaryEn: "Shipping head-to-head tool comparisons with editorial verdict, side-by-side table, and use-case matrix. 15 comparisons (4 flagships, 11 shorts): 7 in PoE and 8 in PoE 2, spanning trading, build planning, reference, crafting, filters, and economy."
 gameAdded: null
 events:
   - type: comparison
     action: added
     name: "Awakened PoE Trade vs Path of Exile Trade"
     gameId: path-of-exile
-    noteEs: "Flagship: ~1800 palabras. APT para el ciclo rápido de play-and-check con hotkeys; sitio oficial para búsquedas precisas, live alerts y trade desde cualquier dispositivo."
-    noteEn: "Flagship: ~1800 words. APT for fast play-and-check via hotkeys; official site for precise searches, live alerts, and trading from any device."
+    noteEs: "Trading: APT para el ciclo rápido play-and-check con hotkeys vs sitio oficial para búsquedas precisas y live alerts. Flagship."
+    noteEn: "Trading: APT for fast play-and-check via hotkeys vs official site for precise searches and live alerts. Flagship."
   - type: comparison
     action: added
     name: "Path of Building vs PoEPlanner"
     gameId: path-of-exile
-    noteEs: "Flagship: ~1800 palabras. PoB para profundidad matemática y trabajo serio sobre builds; PoEPlanner para atlas tree planning, sharing rápido y acceso web sin instalación."
-    noteEn: "Flagship: ~1800 words. PoB for math depth and serious build work; PoEPlanner for atlas tree planning, fast sharing, and web access with no install."
+    noteEs: "Build planning: PoB para profundidad matemática vs PoEPlanner para atlas tree, sharing rápido y acceso web sin instalar. Flagship."
+    noteEn: "Build planning: PoB for math depth vs PoEPlanner for atlas tree, fast sharing, and no-install web access. Flagship."
   - type: comparison
     action: added
     name: "PoE Wiki vs PoEDB"
     gameId: path-of-exile
-    noteEs: "Flagship: ~1800 palabras. Wiki para entender mecánicas y leer lore; PoEDB para datos exactos datamineados del cliente (mod tiers, drop tables, monster stats)."
-    noteEn: "Flagship: ~1800 words. Wiki for understanding mechanics and reading lore; PoEDB for exact datamined client data (mod tiers, drop tables, monster stats)."
+    noteEs: "Reference: Wiki para mecánicas y lore vs PoEDB para datos exactos datamineados (mod tiers, drop tables, stats). Flagship."
+    noteEn: "Reference: Wiki for mechanics and lore vs PoEDB for exact datamined data (mod tiers, drop tables, stats). Flagship."
   - type: comparison
     action: added
     name: "FilterBlade vs PoE Filter"
     gameId: path-of-exile
-    noteEs: "Corta: ~700 palabras. FilterBlade para el filter completo y mantenido (NeverSink); PoE Filter para minimalismo y respeto a la estética visual original."
-    noteEn: "Short: ~700 words. FilterBlade for the complete maintained filter (NeverSink); PoE Filter for minimalism and respect for the original visual aesthetic."
+    noteEs: "Filters: FilterBlade para el filter completo y mantenido (NeverSink) vs PoE Filter por minimalismo y estética original."
+    noteEn: "Filters: FilterBlade for the complete maintained filter (NeverSink) vs PoE Filter for minimalism and original aesthetic."
   - type: comparison
     action: added
     name: "Exilence CE vs poe.ninja"
     gameId: path-of-exile
-    noteEs: "Corta: ~700 palabras. poe.ninja para mercado completo y meta de builds; Exilence CE para trackear tu portfolio personal: net worth y profit por hora."
-    noteEn: "Short: ~700 words. poe.ninja for whole-market data and build meta; Exilence CE for tracking your personal portfolio: net worth and profit per hour."
+    noteEs: "Economía: poe.ninja para mercado completo y meta vs Exilence CE para tu portfolio personal (net worth, profit por hora)."
+    noteEn: "Economy: poe.ninja for whole-market data and meta vs Exilence CE for your personal portfolio (net worth, profit/hour)."
   - type: comparison
     action: added
     name: "Path of Exile Trade vs TFT"
     gameId: path-of-exile
-    noteEs: "Corta: ~700 palabras. Sitio oficial para ítems individuales con búsqueda directa; TFT para bulk currency, services, carries y mirror crafts con sistema de reputación."
-    noteEn: "Short: ~700 words. Official site for individual items via direct search; TFT for bulk currency, services, carries, and mirror crafts with a reputation system."
+    noteEs: "Trading: sitio oficial para ítems individuales vs TFT para bulk currency, services y carries con reputación."
+    noteEn: "Trading: official site for individual items vs TFT for bulk currency, services, and carries with reputation."
   - type: comparison
     action: added
     name: "Maxroll vs PoE Wiki"
     gameId: path-of-exile
-    noteEs: "Corta: ~700 palabras. Maxroll para guías editoriales de builds completas; PoE Wiki para entender mecánicas, lore y consultar info enciclopédica."
-    noteEn: "Short: ~700 words. Maxroll for editorial build guides; PoE Wiki for understanding mechanics, lore, and encyclopedic lookups."
+    noteEs: "Guías: Maxroll para guías editoriales de builds vs PoE Wiki para mecánicas, lore e info enciclopédica."
+    noteEn: "Guides: Maxroll for editorial build guides vs PoE Wiki for mechanics, lore, and encyclopedic lookups."
   - type: comparison
     action: added
     name: "Exiled Exchange 2 vs Sidekick"
     gameId: path-of-exile-2
-    noteEs: "Corta: ~700 palabras. EE2 como sucesor espiritual de Awakened PoE Trade en PoE 2; Sidekick para multi-game (PoE 1 y 2) y warnings de mods peligrosos en maps."
-    noteEn: "Short: ~700 words. EE2 as Awakened PoE Trade's spiritual successor in PoE 2; Sidekick for multi-game (PoE 1 and 2) and dangerous map mod warnings."
+    noteEs: "Trading: EE2 como sucesor de Awakened PoE Trade en PoE 2 vs Sidekick multi-game con warnings de mods peligrosos."
+    noteEn: "Trading: EE2 as Awakened PoE Trade's successor in PoE 2 vs Sidekick multi-game with dangerous map mod warnings."
   - type: comparison
     action: added
     name: "Path of Building vs PoEPlanner (PoE 2)"
     gameId: path-of-exile-2
-    noteEs: "Flagship: ~1800 palabras. PoB 2 para profundidad matemática y cálculo de DPS sobre builds reales; PoEPlanner para atlas tree, sharing rápido y acceso web. Caveat: PoB 2 todavía es una fork community en maduración."
-    noteEn: "Flagship: ~1800 words. PoB 2 for math depth and DPS calculation on real builds; PoEPlanner for atlas tree, fast sharing, and web access. Caveat: PoB 2 is still a maturing community fork."
+    noteEs: "Build planning: PoB 2 para profundidad y DPS vs PoEPlanner para atlas tree y web. Caveat: PoB 2 es fork en maduración. Flagship."
+    noteEn: "Build planning: PoB 2 for depth and DPS vs PoEPlanner for atlas tree and web. Caveat: PoB 2 is a maturing fork. Flagship."
   - type: comparison
     action: added
     name: "PoE 2 Wiki vs PoE 2 DB"
     gameId: path-of-exile-2
-    noteEs: "Flagship: ~1800 palabras. Wiki para artículos editoriales sobre mecánicas, classes y lore de PoE 2; PoE 2 DB para datos exactos datamineados (mod tiers, drop tables, monster stats)."
-    noteEn: "Flagship: ~1800 words. Wiki for editorial articles on PoE 2 mechanics, classes, and lore; PoE 2 DB for exact datamined data (mod tiers, drop tables, monster stats)."
+    noteEs: "Reference: Wiki para artículos sobre mecánicas, classes y lore vs PoE 2 DB para datos datamineados exactos. Flagship."
+    noteEn: "Reference: Wiki for articles on mechanics, classes, and lore vs PoE 2 DB for exact datamined data. Flagship."
   - type: comparison
     action: added
     name: "Exiled Exchange 2 vs POE Overlay"
     gameId: path-of-exile-2
-    noteEs: "Corta: ~700 palabras. EE2 minimal y focalizado solo en price-check; POE Overlay como toolkit más amplio con historial de mercado y servicios integrados."
-    noteEn: "Short: ~700 words. EE2 minimal and focused only on price-check; POE Overlay as a broader toolkit with market history and integrated services."
+    noteEs: "Trading: EE2 minimal y solo price-check vs POE Overlay como toolkit amplio con historial de mercado y servicios."
+    noteEn: "Trading: EE2 minimal and price-check only vs POE Overlay as a broad toolkit with market history and services."
   - type: comparison
     action: added
     name: "Craft of Exile vs Path of Crafting"
     gameId: path-of-exile-2
-    noteEs: "Corta: ~700 palabras. CoE con modelo de probabilidades maduro heredado de PoE 1; Path of Crafting nativo de PoE 2 con mod pools en tiempo real."
-    noteEn: "Short: ~700 words. CoE with mature probability model inherited from PoE 1; Path of Crafting PoE 2-native with real-time mod pools."
+    noteEs: "Crafting: CoE con modelo de probabilidades maduro de PoE 1 vs Path of Crafting nativo de PoE 2 con mod pools en vivo."
+    noteEn: "Crafting: CoE with PoE 1's mature probability model vs Path of Crafting PoE 2-native with real-time mod pools."
   - type: comparison
     action: added
     name: "poe.ninja vs PoE 2 Scout"
     gameId: path-of-exile-2
-    noteEs: "Corta: ~700 palabras. poe.ninja como estándar consolidado con build browser; PoE 2 Scout como alternativa open source nativa de PoE 2."
-    noteEn: "Short: ~700 words. poe.ninja as consolidated standard with build browser; PoE 2 Scout as open-source PoE 2-native alternative."
+    noteEs: "Economía: poe.ninja como estándar con build browser vs PoE 2 Scout como alternativa open source nativa."
+    noteEn: "Economy: poe.ninja as standard with build browser vs PoE 2 Scout as an open-source native alternative."
   - type: comparison
     action: added
     name: "Maxroll vs Mobalytics"
     gameId: path-of-exile-2
-    noteEs: "Corta: ~700 palabras. Maxroll con guías editoriales firmadas y autoridad de la comunidad; Mobalytics con build hub PoE 2-focused y planner web integrado."
-    noteEn: "Short: ~700 words. Maxroll with signed editorial guides and community authority; Mobalytics with PoE 2-focused build hub and integrated web planner."
+    noteEs: "Guías: Maxroll con guías editoriales firmadas vs Mobalytics con build hub PoE 2 y planner web integrado."
+    noteEn: "Guides: Maxroll with signed editorial guides vs Mobalytics with PoE 2 build hub and integrated web planner."
   - type: comparison
     action: added
     name: "Path of Exile 2 Trade vs TFT"
     gameId: path-of-exile-2
-    noteEs: "Corta: ~700 palabras. Sitio oficial de PoE 2 trade para ítems individuales; TFT para bulk currency, services y carries (con volumen menor que en PoE 1 pero igual el hub principal)."
-    noteEn: "Short: ~700 words. Official PoE 2 trade site for individual items; TFT for bulk currency, services, and carries (lower volume than PoE 1 but still the main hub)."
+    noteEs: "Trading: sitio oficial de PoE 2 para ítems individuales vs TFT para bulk currency, services y carries."
+    noteEn: "Trading: official PoE 2 site for individual items vs TFT for bulk currency, services, and carries."
 ---

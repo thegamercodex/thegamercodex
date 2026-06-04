@@ -22,7 +22,7 @@ events:
     action: added
     name: "World of Warcraft"
     gameId: world-of-warcraft
-    noteEs: "15 herramientas, 5 creators (incluyendo Liquid como guild de RWF), 30 recursos cubriendo Midnight Season 1."
+    noteEs: "15 herramientas, 5 creators (incluye Liquid como guild de RWF), 30 recursos de Midnight Season 1."
     noteEn: "15 tools, 5 creators (including Liquid as the RWF guild), 30 resources covering Midnight Season 1."
   - type: game
     action: added
@@ -34,7 +34,7 @@ events:
     action: added
     name: "Counter-Strike 2"
     gameId: counter-strike-2
-    noteEs: "15 herramientas, 5 creators, 25 recursos cubriendo el regreso de Cache y el rework Animgraph 2."
+    noteEs: "15 herramientas, 5 creators, 25 recursos del regreso de Cache y el rework Animgraph 2."
     noteEn: "15 tools, 5 creators, 25 resources covering Cache's return and the Animgraph 2 rework."
   - type: game
     action: added
