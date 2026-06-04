@@ -1,10 +1,10 @@
 {
   "id": "tracker-gg",
-  "name": "Tracker.gg Valorant",
+  "name": "Tracker.gg — League of Legends",
   "shortName": "Tracker.gg",
-  "taglineEs": "Stats por jugador, leaderboards globales y match history para Valorant",
-  "taglineEn": "Per-player stats, global leaderboards, and match history for Valorant",
-  "url": "https://tracker.gg/valorant",
+  "taglineEs": "Stats por jugador, leaderboards globales y match history de LoL dentro de la red Tracker Network",
+  "taglineEn": "Per-player stats, global leaderboards, and LoL match history inside the Tracker Network",
+  "url": "https://tracker.gg/lol",
   "category": "match-history",
   "type": "web-app",
   "official": false,
@@ -21,23 +21,22 @@
     "stats",
     "match-history",
     "leaderboards",
-    "k-d",
-    "agent-stats",
-    "essential"
+    "champion-stats"
   ],
-  "essential": true,
+  "essential": false,
   "difficulty": "beginner",
-  "lastVerified": "2026-06-02",
+  "lastVerified": "2026-06-03",
   "logo": "/images/tools/common/tracker-gg-logo.jpg",
   "screenshots": [],
   "videos": [],
   "relatedTools": [
-    "blitz-gg",
-    "valorbuff"
+    "op-gg",
+    "u-gg"
   ],
   "alternatives": [
-    "blitz-gg",
-    "valorbuff"
+    "op-gg",
+    "u-gg",
+    "league-of-graphs"
   ],
   "createdBy": {
     "name": "Tracker Network",
@@ -59,12 +58,12 @@
         "url": "https://destinytracker.com"
       },
       {
-        "gameId": "marvel-rivals",
-        "url": "https://tracker.gg/marvel-rivals"
+        "gameId": "valorant",
+        "url": "https://tracker.gg/valorant"
       },
       {
-        "gameId": "league-of-legends",
-        "url": "https://tracker.gg/lol"
+        "gameId": "marvel-rivals",
+        "url": "https://tracker.gg/marvel-rivals"
       }
     ]
   }

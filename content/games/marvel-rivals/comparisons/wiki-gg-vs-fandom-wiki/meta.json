@@ -1,0 +1,46 @@
+{
+  "id": "wiki-gg-vs-fandom-wiki",
+  "toolIds": ["wiki-gg", "fandom-wiki"],
+  "category": "reference",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Marvel Rivals Wiki en wiki.gg para el uso diario: interfaz limpia, pocos ads y community-run, ideal para lookups rápidos de héroes, habilidades y mapas. Marvel Rivals Wiki en Fandom cuando wiki.gg no tiene la página: cobertura más amplia, profundidad de lore y omnipresencia en Google, a cambio de muchos ads y una interfaz recargada. wiki.gg es tu daily driver; Fandom es la red de seguridad para breadth.",
+  "verdictEn": "Marvel Rivals Wiki on wiki.gg for daily use: clean interface, light ads, community-run, ideal for fast lookups of heroes, abilities, and maps. Marvel Rivals Wiki on Fandom when wiki.gg lacks the page: broader coverage, lore depth, and Google ubiquity, in exchange for heavy ads and a cluttered interface. wiki.gg is your daily driver; Fandom is the safety net for breadth.",
+  "useCases": [
+    {
+      "labelEs": "Consultar rápido las habilidades de un héroe",
+      "labelEn": "Quickly check a hero's abilities",
+      "winner": "wiki-gg",
+      "reasonEs": "Su interfaz limpia y con pocos ads carga rápido y deja leer sin distracciones; Fandom intercala bloques de publicidad que entorpecen el lookup.",
+      "reasonEn": "Its clean, light-ad interface loads fast and lets you read without distraction; Fandom interleaves ad blocks that slow the lookup."
+    },
+    {
+      "labelEs": "Profundizar en el lore y el trasfondo de un personaje",
+      "labelEn": "Dig into a character's lore and background",
+      "winner": "fandom-wiki",
+      "reasonEs": "Fandom tiene la cobertura de lore más amplia y conecta con su ecosistema Marvel; wiki.gg prioriza datos de juego sobre trasfondo narrativo.",
+      "reasonEn": "Fandom has the broadest lore coverage and connects to its Marvel ecosystem; wiki.gg prioritizes game data over narrative background."
+    },
+    {
+      "labelEs": "Encontrar una página de un tema nicho o reciente",
+      "labelEn": "Find a page on a niche or recent topic",
+      "winner": "fandom-wiki",
+      "reasonEs": "Por su tamaño y SEO, Fandom suele tener la página que wiki.gg aún no creó y aparece primero en Google.",
+      "reasonEn": "By size and SEO, Fandom often has the page wiki.gg hasn't created yet and ranks first on Google."
+    },
+    {
+      "labelEs": "Leer largo sin adblocker en el celular",
+      "labelEn": "Read long-form without an adblocker on mobile",
+      "winner": "wiki-gg",
+      "reasonEs": "wiki.gg es ad-light y se mantiene legible en mobile sin bloqueador; Fandom sin adblocker en el celular es frustrante.",
+      "reasonEn": "wiki.gg is ad-light and stays readable on mobile without a blocker; Fandom without an adblocker on mobile is frustrating."
+    },
+    {
+      "labelEs": "Hacer una página tu referencia fija del día a día",
+      "labelEn": "Make one page your fixed day-to-day reference",
+      "winner": "wiki-gg",
+      "reasonEs": "Su diseño limpio y consistente la vuelve más cómoda como pestaña abierta todo el tiempo; Fandom cansa la vista con su clutter.",
+      "reasonEn": "Its clean, consistent design makes it more comfortable as an always-open tab; Fandom's clutter tires the eyes."
+    }
+  ]
+}

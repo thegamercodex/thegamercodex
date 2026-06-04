@@ -1,0 +1,46 @@
+{
+  "id": "rivalsmeta-vs-marvelrivals-gg",
+  "toolIds": ["rivalsmeta", "marvelrivals-gg"],
+  "category": "hero-stats",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "RivalsMeta si quieres números crudos y stats agregadas: win rates, pick rates, leaderboards y la data del meta sin maquillar. MarvelRivals.gg si quieres tier lists digeribles cortadas por rank bracket más wiki, builds y news en un solo lugar.",
+  "verdictEn": "RivalsMeta if you want raw numbers and aggregate stats: win rates, pick rates, leaderboards, and the meta data unfiltered. MarvelRivals.gg if you want digestible tier lists sliced by rank bracket plus wiki, builds, and news in one place.",
+  "useCases": [
+    {
+      "labelEs": "Ver números crudos y stats agregadas del meta",
+      "labelEn": "See raw numbers and aggregate meta stats",
+      "winner": "rivalsmeta",
+      "reasonEs": "RivalsMeta es un agregador de datos puro: win rates, pick rates y leaderboards sin la capa editorial de una tier list curada.",
+      "reasonEn": "RivalsMeta is a pure data aggregator: win rates, pick rates, and leaderboards without the editorial layer of a curated tier list."
+    },
+    {
+      "labelEs": "Tier list digerible cortada por rank bracket",
+      "labelEn": "Digestible tier list sliced by rank bracket",
+      "winner": "marvelrivals-gg",
+      "reasonEs": "MarvelRivals.gg presenta tier lists filtradas por rango de forma fácil de leer; RivalsMeta te da los números pero no esa síntesis lista para consumir.",
+      "reasonEn": "MarvelRivals.gg presents tier lists filtered by rank in an easy-to-read way; RivalsMeta gives you the numbers but not that ready-to-consume synthesis."
+    },
+    {
+      "labelEs": "Consultar wiki, builds y news en un solo lugar",
+      "labelEn": "Check wiki, builds, and news in one place",
+      "winner": "marvelrivals-gg",
+      "reasonEs": "MarvelRivals.gg empaqueta wiki, builds y noticias junto a las tier lists; RivalsMeta se enfoca en stats y no cubre ese contenido.",
+      "reasonEn": "MarvelRivals.gg bundles wiki, builds, and news next to the tier lists; RivalsMeta focuses on stats and doesn't cover that content."
+    },
+    {
+      "labelEs": "Sacar tus propias conclusiones desde la data",
+      "labelEn": "Draw your own conclusions from the data",
+      "winner": "rivalsmeta",
+      "reasonEs": "Si prefieres mirar los stats crudos y decidir por tu cuenta en vez de seguir una tier list editorial, RivalsMeta te da la materia prima sin filtros.",
+      "reasonEn": "If you prefer to look at raw stats and decide for yourself rather than follow an editorial tier list, RivalsMeta gives you the unfiltered raw material."
+    },
+    {
+      "labelEs": "Una primera parada para jugadores nuevos",
+      "labelEn": "A first stop for new players",
+      "winner": "marvelrivals-gg",
+      "reasonEs": "Para alguien que recién empieza, las tier lists por bracket más la wiki y los builds de MarvelRivals.gg son más accesibles que una pared de números.",
+      "reasonEn": "For someone just starting, MarvelRivals.gg's per-bracket tier lists plus wiki and builds are more accessible than a wall of numbers."
+    }
+  ]
+}

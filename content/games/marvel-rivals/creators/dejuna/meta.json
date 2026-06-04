@@ -1,0 +1,36 @@
+{
+  "id": "dejuna",
+  "name": "dejuna",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@dejuna1",
+      "url": "https://www.youtube.com/@dejuna1",
+      "channelId": "UCyiVR4Ou-VmNQ3JNvGKrseQ",
+      "primary": true
+    }
+  ],
+  "specialties": ["skins", "cosmetics", "news", "leaks", "twitch-drops"],
+  "games": ["marvel-rivals"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Cubre el lado cosmético y de live-service de Marvel Rivals: skins nuevas, contenido del battle pass, Twitch Drops y noticias de roadmap y leaks. Es un carril editorial distinto al de los canales de gameplay y meta: es para jugadores que coleccionan, persiguen skins gratis y quieren saber qué viene, más que tier lists. Un buen complemento que redondea la cobertura de noticias con foco en cosméticos.",
+  "noteEn": "Covers the cosmetic and live-service side of Marvel Rivals: new skins, battle-pass content, Twitch Drops, and roadmap and leak news. It's a distinct editorial lane from the gameplay and meta channels: it's for players who collect, chase free skins, and want to know what's coming, rather than tier lists. A good complement that rounds out the directory's news coverage with a cosmetics focus.",
+  "highlightsEs": [
+    "Cobertura dedicada de skins, cosméticos y battle pass",
+    "Walkthroughs de Twitch Drops y eventos de skins gratis",
+    "Noticias de roadmap, contenido próximo y leaks",
+    "Uploads diarios que mantienen frescas las noticias de cosméticos"
+  ],
+  "highlightsEn": [
+    "Dedicated coverage of skins, cosmetics, and the battle pass",
+    "Twitch Drops and free-skin event walkthroughs",
+    "Roadmap, upcoming-content, and leak news",
+    "Daily uploads that keep cosmetic news fresh"
+  ],
+  "avatar": "/images/creators/dejuna-avatar.jpg",
+  "banner": "/images/creators/dejuna-banner.jpg"
+}

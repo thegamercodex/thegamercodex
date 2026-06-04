@@ -1,0 +1,41 @@
+{
+  "id": "necros",
+  "name": "Necros",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@NecrosOW",
+      "url": "https://www.youtube.com/@NecrosOW",
+      "channelId": "UCAKuhQ3obS6kZe3gHmKq71Q",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "Necros",
+      "url": "https://www.twitch.tv/necros"
+    }
+  ],
+  "specialties": ["meta-analysis", "tier-lists", "hero-rankings", "high-elo-gameplay", "duelist-play"],
+  "games": ["marvel-rivals"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Uno de los creators de high elo más reconocidos de Marvel Rivals, conocido por su juego de Spider-Man y dive duelists en el tope de la ladder. Su contenido es competitivo: lecturas del meta, tier lists colaborativas donde varios pros rankean a cada héroe por temporada, y gameplay de rango Celestial/Eternity. Para jugadores intermedios y avanzados que quieren entender el meta desde la perspectiva de quienes lo juegan al más alto nivel.",
+  "noteEn": "One of the most recognized high-elo Marvel Rivals creators, known for his Spider-Man and dive-duelist play at the top of the ladder. His content is competitive: meta reads, collaborative tier lists where several pros rank every hero each season, and Celestial/Eternity-rank gameplay. For intermediate and advanced players who want to understand the meta from the perspective of those playing it at the highest level.",
+  "highlightsEs": [
+    "Tier lists colaborativas 'Rank EVERY HERO' por temporada con otros top players",
+    "Gameplay de Spider-Man y dive duelists en high elo",
+    "Streams diarios en Twitch además del canal de YouTube",
+    "Presencia frecuente en los debates de meta de la comunidad competitiva"
+  ],
+  "highlightsEn": [
+    "Collaborative 'Rank EVERY HERO' season tier lists with other top players",
+    "High-elo Spider-Man and dive-duelist gameplay",
+    "Daily Twitch streams alongside the YouTube channel",
+    "Frequent presence in the competitive community's meta debates"
+  ],
+  "avatar": "/images/creators/necros-avatar.jpg",
+  "banner": "/images/creators/necros-banner.jpg"
+}

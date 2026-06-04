@@ -1,0 +1,80 @@
+{
+  "category": "hero-guides",
+  "resources": [
+    {
+      "id": "necros-gambit-combos-ability-breakdown-marvel-rivals-2025",
+      "type": "video",
+      "title": "I Got To Play GAMBIT Early! (Combos, Tips And Ability Breakdown)",
+      "creator": "Necros",
+      "creatorId": "necros",
+      "url": "https://www.youtube.com/watch?v=DKlkBWwqw14",
+      "youtubeId": "DKlkBWwqw14",
+      "language": "en",
+      "duration": "13:13",
+      "publishedDate": "2025-11-12",
+      "thumbnail": "https://i.ytimg.com/vi/DKlkBWwqw14/maxresdefault.jpg",
+      "noteEs": "Necros desglosa el kit de Gambit con acceso temprano: combos, uso de cada habilidad y como sacarle valor. Si quieres aprender al strategist desde su llegada, este es el punto de partida.",
+      "noteEn": "Necros breaks down Gambit's kit from early access: combos, how each ability works and how to extract value. If you want to learn the strategist from launch, this is the starting point."
+    },
+    {
+      "id": "dash-sk-ultimate-spider-man-guide-marvel-rivals-2025",
+      "type": "video",
+      "title": "ULTIMATE Marvel Rivals Spider-Man Guide: Combos, Tech, Matchups and more! (Season 5 And Beyond!)",
+      "creator": "Dash SK",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=W6Vqcqa1eqc",
+      "youtubeId": "W6Vqcqa1eqc",
+      "language": "en",
+      "duration": "13:14",
+      "publishedDate": "2025-12-04",
+      "thumbnail": "https://i.ytimg.com/vi/W6Vqcqa1eqc/maxresdefault.jpg",
+      "noteEs": "Spider-Man es el duelist con mayor skill cap del juego. Esta guia cubre combos, tech de movimiento y matchups, actualizada para Season 5 y posteriores. Para quien quiera dominar al heroe mas mecanico.",
+      "noteEn": "Spider-Man is the highest skill-cap duelist in the game. This guide covers combos, movement tech and matchups, updated for Season 5 and beyond. For anyone aiming to master the most mechanical hero."
+    },
+    {
+      "id": "paz-thor-comprehensive-guide-marvel-rivals-2026",
+      "type": "video",
+      "title": "Thor Guide | The BEST Comprehensive Guide to THOR in Marvel Rivals",
+      "creator": "Paz",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=_F5nOfRLy8A",
+      "youtubeId": "_F5nOfRLy8A",
+      "language": "en",
+      "duration": "23:29",
+      "publishedDate": "2026-01-06",
+      "thumbnail": "https://i.ytimg.com/vi/_F5nOfRLy8A/maxresdefault.jpg",
+      "noteEs": "Guia integral del vanguard Thor actualizada tras varios cambios de balance: gestion de su recurso, agresion segura y como liderar la frontline. Recomendada para quien quiera tankear con presion ofensiva.",
+      "noteEn": "A comprehensive guide to the Thor vanguard, updated after several balance changes: resource management, safe aggression and how to lead the frontline. Recommended for anyone wanting to tank with offensive pressure."
+    },
+    {
+      "id": "kublizee-mantis-strategist-guide-marvel-rivals-2025",
+      "type": "video",
+      "title": "Learn To Play Mantis - Marvel Rivals Strategist Guide",
+      "creator": "Kublizee",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=m-ayJBJ7EdU",
+      "youtubeId": "m-ayJBJ7EdU",
+      "language": "en",
+      "duration": "20:48",
+      "publishedDate": "2025-01-12",
+      "thumbnail": "https://i.ytimg.com/vi/m-ayJBJ7EdU/maxresdefault.jpg",
+      "noteEs": "Guia de la strategist Mantis: como sembrar y gastar sus energias, priorizar curaciones y aprovechar su boost de dano. Evergreen para entender a una de las soportes mas completas del roster.",
+      "noteEn": "A guide to the Mantis strategist: how to bank and spend her energy, prioritize heals and leverage her damage boost. Evergreen for understanding one of the most complete supports on the roster."
+    },
+    {
+      "id": "marvel-rivals-merchant-daredevil-combo-guide-marvel-rivals-2025",
+      "type": "video",
+      "title": "Daredevil Best Crosshair, Settings, And Combo Tips | Marvel Rivals",
+      "creator": "Marvel Rivals Merchant",
+      "creatorId": "marvel-rivals-merchant",
+      "url": "https://www.youtube.com/watch?v=xSh2IW3QejA",
+      "youtubeId": "xSh2IW3QejA",
+      "language": "en",
+      "duration": "8:54",
+      "publishedDate": "2025-10-10",
+      "thumbnail": "https://i.ytimg.com/vi/xSh2IW3QejA/maxresdefault.jpg",
+      "noteEs": "Guia concentrada de Daredevil: crosshair, settings y los combos clave para sacarle el maximo. Formato corto y al grano, ideal para aprender al heroe en una sentada.",
+      "noteEn": "A focused Daredevil guide: crosshair, settings and the key combos to get the most out of him. Short, to-the-point format, ideal for learning the hero in one sitting."
+    }
+  ]
+}

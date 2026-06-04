@@ -100,6 +100,7 @@ Sin matches = limpio. Cualquier match es un bug y bloquea el commit. Cuando apar
   - `nexusmods.com/*` (y `www.nexusmods.com/*`) → `"logo": "/images/tools/common/nexusmods-logo.svg"`
   - `mobalytics.gg/*` → `"logo": "/images/tools/common/mobalytics-logo.png"` (presente en LoL, Valorant, PoE 2, D4 — 5 entries)
   - `discord.com/invite/*` (Discord oficial servers) → `"logo": "/images/tools/common/discord-logo.png"` (presente en 6+ entries)
+  - `tracker.gg/*` (y propiedades de Tracker Network: `apex.tracker.gg`, `destinytracker.com`) → `"logo": "/images/tools/common/tracker-gg-logo.jpg"` (presente en Valorant, CS2, Apex, Destiny 2, Marvel Rivals, LoL — 6 entries)
 - El criterio para mover un logo a `common/` es que **se repita en 3+ tools**. Marcas con presencia única se mantienen como logo per-tool.
 - Tool ids son únicos globalmente (entre creators y entre tools), pero al colocarse bajo un game subfolder de assets el riesgo de colisión queda absorbido por el path completo. Si una tool aparece en múltiples juegos vía `multiGame`, los otros games referencian el path de su game primario (no se duplican los archivos).
 - Otros tipos de asset (game hero/logo, creator avatar/banner) **no usan subcarpetas** — viven flat en `games/` y `creators/` respectivamente. La regla de subcarpeta es solo para tools por el volumen alto.

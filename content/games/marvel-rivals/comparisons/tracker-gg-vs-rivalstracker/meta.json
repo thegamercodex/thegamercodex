@@ -1,0 +1,46 @@
+{
+  "id": "tracker-gg-vs-rivalstracker",
+  "toolIds": ["tracker-gg", "rivalstracker"],
+  "category": "match-tracking",
+  "depth": "flagship",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Tracker.gg si quieres una marca madura con overlay de Overwolf para stats en vivo durante la partida, leaderboards globales a gran escala y una sola cuenta que te sirva en muchos juegos. RivalsTracker si quieres una experiencia limpia, enfocada solo en Marvel Rivals, sin clutter de otros juegos ni cliente de escritorio.",
+  "verdictEn": "Tracker.gg if you want a mature brand with an Overwolf overlay for live in-match stats, large-scale global leaderboards, and one account that works across many games. RivalsTracker if you want a clean, Marvel-Rivals-only experience with no clutter from other games and no desktop client.",
+  "useCases": [
+    {
+      "labelEs": "Ver stats en vivo durante la partida sin alt-tab",
+      "labelEn": "See live stats mid-match without alt-tabbing",
+      "winner": "tracker-gg",
+      "reasonEs": "Tracker.gg tiene un overlay de Overwolf que muestra tu performance y la del lobby en tiempo real encima del juego. RivalsTracker es solo web, así que tienes que salir a revisar.",
+      "reasonEn": "Tracker.gg has an Overwolf overlay that shows your performance and the lobby's in real time over the game. RivalsTracker is web-only, so you have to tab out to check."
+    },
+    {
+      "labelEs": "Una experiencia limpia y enfocada solo en Marvel Rivals",
+      "labelEn": "A clean experience focused only on Marvel Rivals",
+      "winner": "rivalstracker",
+      "reasonEs": "RivalsTracker existe únicamente para Marvel Rivals, así que su UX no tiene navegación ni ads de otros juegos compitiendo por tu atención. Tracker.gg arrastra el chrome de su catálogo multi-juego.",
+      "reasonEn": "RivalsTracker exists solely for Marvel Rivals, so its UX has no navigation or ads from other games competing for your attention. Tracker.gg carries the chrome of its multi-game catalog."
+    },
+    {
+      "labelEs": "Competir en leaderboards globales a gran escala",
+      "labelEn": "Compete on large-scale global leaderboards",
+      "winner": "tracker-gg",
+      "reasonEs": "La base de usuarios masiva de Tracker.gg alimenta leaderboards globales y por región más poblados. Los rankings de RivalsTracker son más chicos por su alcance acotado.",
+      "reasonEn": "Tracker.gg's massive user base feeds more populated global and regional leaderboards. RivalsTracker's rankings are smaller given its narrower reach."
+    },
+    {
+      "labelEs": "Una sola cuenta que sirva en varios juegos",
+      "labelEn": "One account that works across several games",
+      "winner": "tracker-gg",
+      "reasonEs": "Si ya usas Tracker.gg para Valorant, CS2, Apex o Destiny, sumar Marvel Rivals es la misma cuenta y la misma UI. RivalsTracker solo cubre este juego.",
+      "reasonEn": "If you already use Tracker.gg for Valorant, CS2, Apex, or Destiny, adding Marvel Rivals is the same account and same UI. RivalsTracker only covers this game."
+    },
+    {
+      "labelEs": "Hero analytics y distribución de rango sin distracciones",
+      "labelEn": "Hero analytics and rank distribution without distractions",
+      "winner": "rivalstracker",
+      "reasonEs": "RivalsTracker organiza profiles, hero analytics y rank distribution de forma directa y sin clutter. La página de Marvel Rivals en Tracker.gg comparte plantilla con otros juegos y se siente menos a medida.",
+      "reasonEn": "RivalsTracker lays out profiles, hero analytics, and rank distribution directly and without clutter. Tracker.gg's Marvel Rivals page shares a template with other games and feels less tailored."
+    }
+  ]
+}

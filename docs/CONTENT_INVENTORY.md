@@ -5,12 +5,12 @@
 
 ## Resumen
 
-25 juegos · 423 tools · 120 creators · 127 categorías · 635 resources items · 131 comparisons · 25 stacks
+26 juegos · 439 tools · 125 creators · 132 categorías · 660 resources items · 140 comparisons · 26 stacks
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons | Stacks |
 |---|---|---:|---:|---:|---:|---:|---:|
 | `apex-legends` | Apex Legends | 13 | 5 | 5 | 25 | 5 | 1 |
-| `counter-strike-2` | Counter-Strike 2 | 17 | 5 | 5 | 25 | 4 | 1 |
+| `counter-strike-2` | Counter-Strike 2 | 17 | 5 | 5 | 25 | 5 | 1 |
 | `cyberpunk-2077` | Cyberpunk 2077 | 17 | 5 | 5 | 25 | 3 | 1 |
 | `destiny-2` | Destiny 2 | 14 | 5 | 5 | 25 | 3 | 1 |
 | `diablo-4` | Diablo IV | 24 | 4 | 5 | 25 | 9 | 1 |
@@ -22,7 +22,8 @@
 | `genshin-impact` | Genshin Impact | 26 | 5 | 6 | 30 | 6 | 1 |
 | `honkai-star-rail` | Honkai: Star Rail | 16 | 3 | 5 | 25 | 3 | 1 |
 | `last-epoch` | Last Epoch | 17 | 5 | 5 | 25 | 10 | 1 |
-| `league-of-legends` | League of Legends | 17 | 5 | 5 | 25 | 4 | 1 |
+| `league-of-legends` | League of Legends | 18 | 5 | 5 | 25 | 4 | 1 |
+| `marvel-rivals` | Marvel Rivals | 15 | 5 | 5 | 25 | 8 | 1 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 | 1 |
 | `nte` | Neverness to Everness | 12 | 5 | 5 | 25 | 4 | 1 |
 | `palworld` | Palworld | 17 | 5 | 5 | 25 | 4 | 1 |
@@ -67,7 +68,7 @@
 - `map-guides` — 5 items
 - `patch-coverage` — 5 items
 
-**Comparisons (4)**: `faceit-vs-esea` (short), `hltv-vs-liquipedia-cs` (short), `leetify-vs-csstats-gg` (short), `scope-gg-vs-leetify` (short)
+**Comparisons (5)**: `faceit-vs-esea` (short), `hltv-vs-liquipedia-cs` (short), `leetify-vs-csstats-gg` (short), `scope-gg-vs-leetify` (short), `tracker-gg-cs2-vs-csstats-gg` (short)
 
 **Stacks (1)**: `cs2-improvement-toolkit` (5 tools)
 
@@ -261,7 +262,7 @@
 
 ### League of Legends (`league-of-legends`)
 
-**Tools (17)**: Blitz.gg (`blitz-gg`), ChampionMastery.gg (`championmastery-gg`), Gol.gg (`gol-gg`), League of Graphs (`league-of-graphs`), Leaguepedia (`leaguepedia`), League of Legends Community Discord (`lol-discord`), r/leagueoflegends (`lol-subreddit`), League of Legends Wiki (`lol-wiki`), Lolalytics (`lolalytics`), LoLDraftAI (`loldraftai`), Mobalytics (`mobalytics`), OP.GG (`op-gg`), Oracle's Elixir (`oracles-elixir`), Porofessor (`porofessor`), Probuild.gg (`probuild-gg`), Probuilds.net (`probuilds-net`), U.GG (`u-gg`)
+**Tools (18)**: Blitz.gg (`blitz-gg`), ChampionMastery.gg (`championmastery-gg`), Gol.gg (`gol-gg`), League of Graphs (`league-of-graphs`), Leaguepedia (`leaguepedia`), League of Legends Community Discord (`lol-discord`), r/leagueoflegends (`lol-subreddit`), League of Legends Wiki (`lol-wiki`), Lolalytics (`lolalytics`), LoLDraftAI (`loldraftai`), Mobalytics (`mobalytics`), OP.GG (`op-gg`), Oracle's Elixir (`oracles-elixir`), Porofessor (`porofessor`), Probuild.gg (`probuild-gg`), Probuilds.net (`probuilds-net`), Tracker.gg — League of Legends (`tracker-gg`), U.GG (`u-gg`)
 
 **Creators (5)**: Caedrel (`caedrel`), LS (`ls`), Necrit (`necrit`), Skill Capped (`skill-capped`), Werlyb (`werlyb`)
 
@@ -275,6 +276,23 @@
 **Comparisons (4)**: `blitz-gg-vs-op-gg` (short), `op-gg-vs-mobalytics` (short), `probuilds-net-vs-u-gg` (short), `u-gg-vs-op-gg` (short)
 
 **Stacks (1)**: `lol-climb-toolkit` (5 tools)
+
+### Marvel Rivals (`marvel-rivals`)
+
+**Tools (15)**: Blitz.gg (Marvel Rivals) (`blitz-gg`), Counterwatch (`counterwatch`), Crosshair Hub (Marvel Rivals) (`crosshairhub`), Marvel Rivals Wiki (Fandom) (`fandom-wiki`), Marvel Rivals Official Discord (`marvel-rivals-discord`), r/marvelrivals (`marvel-rivals-subreddit`), MarvelRivals.gg (`marvelrivals-gg`), Mobalytics (Marvel Rivals) (`mobalytics`), ProSettings.net (Marvel Rivals) (`prosettings`), RivalsCounters (`rivalscounters`), RivalsDB (`rivalsdb`), RivalsMeta (`rivalsmeta`), RivalsTracker (`rivalstracker`), Tracker.gg (Marvel Rivals) (`tracker-gg`), Marvel Rivals Wiki (wiki.gg) (`wiki-gg`)
+
+**Creators (5)**: Coach Mills (`coach-mills`), dejuna (`dejuna`), Marvel Rivals Insider (`marvel-rivals-insider`), Marvel Rivals Merchant (`marvel-rivals-merchant`), Necros (`necros`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `hero-guides` — 5 items
+- `meta-and-tier-lists` — 5 items
+- `news-and-updates` — 5 items
+- `ranked-guides` — 5 items
+
+**Comparisons (8)**: `counterwatch-vs-rivalscounters` (flagship), `mobalytics-vs-marvelrivals-gg` (short), `prosettings-vs-crosshairhub` (short), `rivalsmeta-vs-blitz-gg` (short), `rivalsmeta-vs-marvelrivals-gg` (short), `rivalstracker-vs-rivalsdb` (short), `tracker-gg-vs-rivalstracker` (flagship), `wiki-gg-vs-fandom-wiki` (short)
+
+**Stacks (1)**: `ultimate-marvel-rivals-toolkit` (6 tools)
 
 ### No Man's Sky (`no-mans-sky`)
 

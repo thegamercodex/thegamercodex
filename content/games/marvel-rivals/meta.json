@@ -1,0 +1,150 @@
+{
+  "id": "marvel-rivals",
+  "name": "Marvel Rivals",
+  "shortName": "Rivals",
+  "developer": "NetEase Games",
+  "releaseYear": 2024,
+  "officialUrl": "https://www.marvelrivals.com",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/2767030/Marvel_Rivals/",
+      "appId": "2767030",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "epic",
+      "url": "https://store.epicgames.com/p/marvel-rivals-182004",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10010451",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-US/games/store/marvel-rivals/9n8pmw7qmd3d",
+      "model": "free-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "free-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["cosmetic", "battle-pass", "skins", "emotes"],
+    "payToWin": false,
+    "noteEs": "Free-to-play sin pay-to-win: cada héroe se desbloquea jugando y las compras son puramente cosméticas (skins, emotes y un battle pass que no expira al terminar la temporada). La moneda premium Lattice se compra con dinero real; los Units y Chrono Tokens se ganan jugando.",
+    "noteEn": "Free-to-play with no pay-to-win: every hero unlocks through play and purchases are purely cosmetic (skins, emotes, and a battle pass that doesn't expire when the season ends). The premium Lattice currency is bought with real money; Units and Chrono Tokens are earned by playing."
+  },
+  "platforms": ["windows", "playstation", "xbox"],
+  "genres": ["fps"],
+  "theme": {
+    "primary": "#e62429",
+    "secondary": "#16161a",
+    "accent": "#f0b323",
+    "background": "#0c0c0e",
+    "text": "#f4ede4"
+  },
+  "logo": "/images/games/marvel-rivals-logo.png",
+  "heroImage": "/images/games/marvel-rivals-hero.webp",
+  "toolCategories": [
+    {
+      "id": "match-tracking",
+      "nameEs": "Seguimiento de Partidas",
+      "nameEn": "Match Tracking",
+      "descriptionEs": "Perfiles de jugador, historial de partidas y estadísticas personales",
+      "descriptionEn": "Player profiles, match history, and personal stats",
+      "icon": "📈"
+    },
+    {
+      "id": "hero-stats",
+      "nameEs": "Estadísticas de Héroes",
+      "nameEn": "Hero Stats",
+      "descriptionEs": "Win rates, pick rates, tier lists y meta por rango",
+      "descriptionEn": "Win rates, pick rates, tier lists, and meta by rank",
+      "icon": "📊"
+    },
+    {
+      "id": "team-comp",
+      "nameEs": "Composición y Counters",
+      "nameEn": "Team Comp & Counters",
+      "descriptionEs": "Counter-picks, sinergias y armado de equipos",
+      "descriptionEn": "Counter-picks, synergies, and team building",
+      "icon": "🛡️"
+    },
+    {
+      "id": "hero-guides",
+      "nameEs": "Guías de Héroes",
+      "nameEn": "Hero Guides",
+      "descriptionEs": "Guías de héroes, fundamentos y cómo jugar cada personaje",
+      "descriptionEn": "Hero guides, fundamentals, and how to play each character",
+      "icon": "📖"
+    },
+    {
+      "id": "pro-settings",
+      "nameEs": "Configuración Pro",
+      "nameEn": "Pro Settings",
+      "descriptionEs": "Sensibilidad, eDPI, gear y códigos de mira de pros y creators",
+      "descriptionEn": "Sensitivity, eDPI, gear, and crosshair codes from pros and creators",
+      "icon": "🎯"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis y bases de datos de héroes, habilidades y team-ups",
+      "descriptionEn": "Wikis and databases of heroes, abilities, and team-ups",
+      "icon": "📚"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial y subreddit principal del juego",
+      "descriptionEn": "Official Discord and the game's main subreddit",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para empezar a jugar Marvel Rivals",
+      "descriptionEn": "Essential resources to start playing Marvel Rivals",
+      "icon": "🌱"
+    },
+    {
+      "id": "hero-guides",
+      "nameEs": "Guías de Héroes",
+      "nameEn": "Hero Guides",
+      "descriptionEs": "Cómo jugar héroes específicos por rol: Vanguard, Duelist y Strategist",
+      "descriptionEn": "How to play specific heroes by role: Vanguard, Duelist, and Strategist",
+      "icon": "🦸"
+    },
+    {
+      "id": "meta-and-tier-lists",
+      "nameEs": "Meta y Tier Lists",
+      "nameEn": "Meta & Tier Lists",
+      "descriptionEs": "Análisis del meta, tier lists y qué héroes son fuertes cada temporada",
+      "descriptionEn": "Meta analysis, tier lists, and which heroes are strong each season",
+      "icon": "⚖️"
+    },
+    {
+      "id": "ranked-guides",
+      "nameEs": "Guías de Ranked",
+      "nameEn": "Ranked Guides",
+      "descriptionEs": "Cómo subir de rango: fundamentos, hábitos competitivos y errores comunes",
+      "descriptionEn": "How to climb: fundamentals, competitive habits, and common mistakes",
+      "icon": "🏆"
+    },
+    {
+      "id": "news-and-updates",
+      "nameEs": "Noticias y Actualizaciones",
+      "nameEn": "News & Updates",
+      "descriptionEs": "Cobertura de cada temporada, parches, héroes nuevos y eventos",
+      "descriptionEn": "Coverage of each season, patches, new heroes, and events",
+      "icon": "📰"
+    }
+  ]
+}

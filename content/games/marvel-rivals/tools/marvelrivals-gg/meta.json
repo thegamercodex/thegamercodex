@@ -1,0 +1,27 @@
+{
+  "id": "marvelrivals-gg",
+  "name": "MarvelRivals.gg",
+  "shortName": "MarvelRivals.gg",
+  "taglineEs": "Tier lists por rol y rango, más wiki, builds y noticias en un solo sitio",
+  "taglineEn": "Role- and rank-specific tier lists, plus wiki, builds, and news in one place",
+  "url": "https://marvelrivals.gg",
+  "category": "hero-stats",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["tier-list", "meta", "builds", "wiki", "news"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/marvel-rivals/marvelrivals-gg-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["rivalsmeta", "mobalytics"],
+  "alternatives": ["rivalsmeta", "blitz-gg"],
+  "createdBy": {
+    "name": "MarvelRivals.gg"
+  }
+}

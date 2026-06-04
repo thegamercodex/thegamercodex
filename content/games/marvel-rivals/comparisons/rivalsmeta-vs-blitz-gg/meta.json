@@ -1,0 +1,46 @@
+{
+  "id": "rivalsmeta-vs-blitz-gg",
+  "toolIds": ["rivalsmeta", "blitz-gg"],
+  "category": "hero-stats",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "RivalsMeta si quieres profundidad de datos específicos de Marvel Rivals: win y pick rates, tier list, team comps, map stats y skin DB. Blitz.gg si ya lo usas para otros juegos y solo quieres una lectura rápida del tier list con su app de escritorio.",
+  "verdictEn": "RivalsMeta if you want depth of Marvel-Rivals-specific data: win and pick rates, tier list, team comps, map stats, and a skin DB. Blitz.gg if you already use it for other games and just want a quick tier-list read with its desktop app.",
+  "useCases": [
+    {
+      "labelEs": "Profundidad de datos agregados de Marvel Rivals",
+      "labelEn": "Depth of aggregate Marvel Rivals data",
+      "winner": "rivalsmeta",
+      "reasonEs": "RivalsMeta está dedicado solo a este juego, con win/pick rates, team comps y map stats que Blitz no cubre con esa granularidad.",
+      "reasonEn": "RivalsMeta is dedicated only to this game, with win/pick rates, team comps, and map stats that Blitz doesn't cover at that granularity."
+    },
+    {
+      "labelEs": "Lectura rápida del tier list si ya usas Blitz",
+      "labelEn": "Quick tier-list read if you already use Blitz",
+      "winner": "blitz-gg",
+      "reasonEs": "Si Blitz ya está en tu rutina para otros juegos, su sección de Marvel Rivals te da un tier read sin aprender una herramienta nueva.",
+      "reasonEn": "If Blitz is already in your routine for other games, its Marvel Rivals section gives you a tier read without learning a new tool."
+    },
+    {
+      "labelEs": "Investigar team comps y sinergias",
+      "labelEn": "Research team comps and synergies",
+      "winner": "rivalsmeta",
+      "reasonEs": "RivalsMeta agrega data de team comps y combinaciones que funcionan; la sección de Marvel Rivals de Blitz es más liviana y se queda en el tier list.",
+      "reasonEn": "RivalsMeta aggregates team-comp data and combinations that work; Blitz's Marvel Rivals section is lighter and stops at the tier list."
+    },
+    {
+      "labelEs": "Tener una app de escritorio integrada",
+      "labelEn": "Have an integrated desktop app",
+      "winner": "blitz-gg",
+      "reasonEs": "Blitz ofrece un cliente de escritorio multi-juego; RivalsMeta es solo web y no tiene app dedicada.",
+      "reasonEn": "Blitz offers a multi-game desktop client; RivalsMeta is web-only with no dedicated app."
+    },
+    {
+      "labelEs": "Consultar map stats y skin DB",
+      "labelEn": "Look up map stats and a skin DB",
+      "winner": "rivalsmeta",
+      "reasonEs": "RivalsMeta incluye estadísticas por mapa y una base de skins; son features específicas de Marvel Rivals que Blitz no replica.",
+      "reasonEn": "RivalsMeta includes per-map stats and a skin database; these are Marvel-Rivals-specific features Blitz doesn't replicate."
+    }
+  ]
+}

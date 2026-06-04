@@ -1,0 +1,41 @@
+{
+  "id": "coach-mills",
+  "name": "Coach Mills",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Coach_Mills",
+      "url": "https://www.youtube.com/@Coach_Mills",
+      "channelId": "UCd4C1vhkjdzaWWgnjVkLNaw",
+      "primary": true
+    },
+    {
+      "type": "twitter",
+      "handle": "@CoachMillsOW",
+      "url": "https://x.com/CoachMillsOW"
+    }
+  ],
+  "specialties": ["improvement", "coaching", "climbing", "fundamentals", "all-roles"],
+  "games": ["marvel-rivals"],
+  "contentTypes": ["videos", "live-streams", "guides"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Ex-coach de Overwatch que se pasó a contenido de mejora para Marvel Rivals, apuntado explícitamente a ayudar a jugadores nuevos del género a aprender fundamentos y subir de rango. Sus videos cubren hábitos de pros, errores comunes, picks para low elo y coaching estilo VOD review en los tres roles. El canal de referencia para principiantes y jugadores estancados que quieren mejorar de verdad, no solo ver gameplay de alto nivel.",
+  "noteEn": "An ex-Overwatch coach who moved into Marvel Rivals improvement content, aimed explicitly at helping players new to the genre learn fundamentals and climb ranked. His videos cover pro habits, common mistakes, low-elo picks, and VOD-review-style coaching across all three roles. The go-to channel for beginners and plateaued players who want to actually improve, not just watch high-level gameplay.",
+  "highlightsEs": [
+    "Sesiones de coaching por rol (Vanguard, Duelist, Strategist) revisando jugadores reales",
+    "Guías de hábitos de pros y reglas no escritas para subir rápido",
+    "Desgloses de los errores más comunes que ve como coach",
+    "Recomendaciones de héroes para subir desde rangos bajos"
+  ],
+  "highlightsEn": [
+    "Role-by-role coaching sessions (Vanguard, Duelist, Strategist) reviewing real players",
+    "Pro-habits and unwritten-rules guides for climbing fast",
+    "Breakdowns of the most common mistakes he sees as a coach",
+    "Hero recommendations for climbing out of low ranks"
+  ],
+  "avatar": "/images/creators/coach-mills-avatar.jpg",
+  "banner": "/images/creators/coach-mills-banner.jpg"
+}

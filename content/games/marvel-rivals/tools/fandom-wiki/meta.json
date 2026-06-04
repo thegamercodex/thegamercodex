@@ -1,0 +1,28 @@
+{
+  "id": "fandom-wiki",
+  "name": "Marvel Rivals Wiki (Fandom)",
+  "shortName": "Fandom Wiki",
+  "taglineEs": "La wiki comunitaria más extensa: máxima cobertura de héroes, lore y mapas",
+  "taglineEn": "The largest community wiki: maximum coverage of heroes, lore, and maps",
+  "url": "https://marvelrivals.fandom.com",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "heroes", "lore", "maps", "abilities"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/common/fandom-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["wiki-gg"],
+  "alternatives": ["wiki-gg"],
+  "createdBy": {
+    "name": "Fandom",
+    "url": "https://www.fandom.com"
+  }
+}

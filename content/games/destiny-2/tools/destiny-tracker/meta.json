@@ -10,8 +10,12 @@
   "official": false,
   "free": true,
   "openSource": false,
-  "platforms": ["web"],
-  "languages": ["en"],
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
   "tags": [
     "stats",
     "match-history",
@@ -22,13 +26,44 @@
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-06-02",
-  "logo": "/images/tools/destiny-2/destiny-tracker-logo.jpg",
+  "logo": "/images/tools/common/tracker-gg-logo.jpg",
   "screenshots": [],
   "videos": [],
-  "relatedTools": ["raid-report", "trials-report"],
-  "alternatives": ["raid-report", "trials-report"],
+  "relatedTools": [
+    "raid-report",
+    "trials-report"
+  ],
+  "alternatives": [
+    "raid-report",
+    "trials-report"
+  ],
   "createdBy": {
     "name": "Tracker Network",
     "url": "https://tracker.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      {
+        "gameId": "apex-legends",
+        "url": "https://apex.tracker.gg"
+      },
+      {
+        "gameId": "counter-strike-2",
+        "url": "https://tracker.gg/cs2"
+      },
+      {
+        "gameId": "valorant",
+        "url": "https://tracker.gg/valorant"
+      },
+      {
+        "gameId": "marvel-rivals",
+        "url": "https://tracker.gg/marvel-rivals"
+      },
+      {
+        "gameId": "league-of-legends",
+        "url": "https://tracker.gg/lol"
+      }
+    ]
   }
 }

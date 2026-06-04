@@ -1,0 +1,28 @@
+{
+  "id": "wiki-gg",
+  "name": "Marvel Rivals Wiki (wiki.gg)",
+  "shortName": "wiki.gg",
+  "taglineEs": "Wiki independiente y liviana de anuncios: héroes, habilidades, mapas y team-ups",
+  "taglineEn": "Independent, ad-light wiki: heroes, abilities, maps, and team-ups",
+  "url": "https://marvelrivals.wiki.gg",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "heroes", "abilities", "team-ups", "maps"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/common/wiki-gg-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["fandom-wiki", "rivalsmeta"],
+  "alternatives": ["fandom-wiki"],
+  "createdBy": {
+    "name": "wiki.gg",
+    "url": "https://wiki.gg"
+  }
+}

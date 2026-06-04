@@ -1,0 +1,46 @@
+{
+  "id": "mobalytics-vs-marvelrivals-gg",
+  "toolIds": ["mobalytics", "marvelrivals-gg"],
+  "category": "hero-guides",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Mobalytics cuando quieres aprender a pilotear un héroe: guías editoriales de cómo jugarlo, fundamentos, estrategia y builds estructurados que te enseñan el porqué. MarvelRivals.gg cuando quieres saber qué está fuerte y consultarlo rápido: tier lists por rank bracket, wiki, builds y noticias en un solo bundle de referencia. Mobalytics te enseña a jugar; MarvelRivals.gg te dice qué es meta y te deja buscarlo al instante.",
+  "verdictEn": "Mobalytics when you want to learn to pilot a hero: editorial how-to-play guides, fundamentals, strategy, and structured builds that teach you the why. MarvelRivals.gg when you want to know what's strong and look it up fast: rank-bracket tier lists, wiki, builds, and news in one reference bundle. Mobalytics teaches you to play; MarvelRivals.gg tells you what's meta and lets you look it up instantly.",
+  "useCases": [
+    {
+      "labelEs": "Aprender a jugar bien un héroe nuevo",
+      "labelEn": "Learn to play a new hero well",
+      "winner": "mobalytics",
+      "reasonEs": "Sus guías editoriales explican fundamentos, posicionamiento y combos paso a paso; MarvelRivals.gg te dice qué es fuerte pero no te enseña a pilotearlo.",
+      "reasonEn": "Its editorial guides explain fundamentals, positioning, and combos step by step; MarvelRivals.gg tells you what's strong but doesn't teach you to pilot it."
+    },
+    {
+      "labelEs": "Ver qué héroes son meta en tu rank",
+      "labelEn": "See which heroes are meta in your rank",
+      "winner": "marvelrivals-gg",
+      "reasonEs": "Sus tier lists por rank bracket te muestran qué rinde a tu nivel; Mobalytics se enfoca en cómo jugar, no en rankear el meta por bracket.",
+      "reasonEn": "Its rank-bracket tier lists show what performs at your level; Mobalytics focuses on how to play, not on ranking the meta by bracket."
+    },
+    {
+      "labelEs": "Consultar rápido una build o un dato en medio de la sesión",
+      "labelEn": "Quickly look up a build or fact mid-session",
+      "winner": "marvelrivals-gg",
+      "reasonEs": "Su bundle de wiki + builds + tier list resuelve consultas rápidas sin leer un artículo entero; Mobalytics pide más tiempo de lectura.",
+      "reasonEn": "Its wiki + builds + tier list bundle resolves quick lookups without reading a full article; Mobalytics asks for more reading time."
+    },
+    {
+      "labelEs": "Entender el porqué detrás de una estrategia",
+      "labelEn": "Understand the why behind a strategy",
+      "winner": "mobalytics",
+      "reasonEs": "Su contenido editorial explica el razonamiento de cada decisión; MarvelRivals.gg da el qué pero rara vez el porqué.",
+      "reasonEn": "Its editorial content explains the reasoning behind each decision; MarvelRivals.gg gives the what but rarely the why."
+    },
+    {
+      "labelEs": "Ponerte al día con noticias y cambios de balance",
+      "labelEn": "Catch up on news and balance changes",
+      "winner": "marvelrivals-gg",
+      "reasonEs": "Incluye una sección de noticias dentro del mismo bundle; Mobalytics se centra en guías, no en cobertura de actualizaciones.",
+      "reasonEn": "It includes a news section within the same bundle; Mobalytics centers on guides, not update coverage."
+    }
+  ]
+}

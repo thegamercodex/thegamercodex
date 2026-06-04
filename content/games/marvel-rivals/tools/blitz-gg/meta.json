@@ -1,0 +1,35 @@
+{
+  "id": "blitz-gg",
+  "name": "Blitz.gg (Marvel Rivals)",
+  "shortName": "Blitz.gg",
+  "taglineEs": "Tier lists y desgloses de estadísticas de héroes de una marca multi-juego conocida",
+  "taglineEn": "Tier lists and hero stat breakdowns from a well-known multi-game brand",
+  "url": "https://blitz.gg/marvel-rivals",
+  "category": "hero-stats",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows"],
+  "languages": ["en"],
+  "tags": ["tier-list", "hero-stats", "win-rates", "builds"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/marvel-rivals/blitz-gg-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["rivalsmeta", "marvelrivals-gg"],
+  "alternatives": ["rivalsmeta", "marvelrivals-gg"],
+  "createdBy": {
+    "name": "Blitz",
+    "url": "https://blitz.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "league-of-legends", "url": "https://blitz.gg/lol" },
+      { "gameId": "valorant", "url": "https://blitz.gg/valorant" }
+    ]
+  }
+}

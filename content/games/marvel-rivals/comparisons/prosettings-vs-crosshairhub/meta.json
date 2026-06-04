@@ -1,0 +1,46 @@
+{
+  "id": "prosettings-vs-crosshairhub",
+  "toolIds": ["prosettings", "crosshairhub"],
+  "category": "pro-settings",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "ProSettings.net cuando quieres el panorama completo: sensitivity, eDPI, DPI, mouse, monitor y gear de pros y creators en una base consultable. Crosshair Hub cuando lo único que buscas es importar un reticle: base de códigos de crosshair por héroe que copias y pegas in-game. ProSettings te da el setup entero y qué corren los pros; Crosshair Hub resuelve un solo paso, el del crosshair, sin rodeos.",
+  "verdictEn": "ProSettings.net when you want the full picture: sensitivity, eDPI, DPI, mouse, monitor, and gear of pros and creators in a searchable database. Crosshair Hub when all you want is to import a reticle: a database of per-hero crosshair codes you copy and paste in-game. ProSettings gives you the whole setup and what pros run; Crosshair Hub solves one step, the crosshair, with no detours.",
+  "useCases": [
+    {
+      "labelEs": "Configurar tu sensitivity y eDPI desde cero",
+      "labelEn": "Set up your sensitivity and eDPI from scratch",
+      "winner": "prosettings",
+      "reasonEs": "ProSettings lista sensitivity, DPI y eDPI de pros para que tengas un punto de partida realista; Crosshair Hub no toca sensitivity.",
+      "reasonEn": "ProSettings lists pros' sensitivity, DPI, and eDPI so you have a realistic starting point; Crosshair Hub doesn't touch sensitivity."
+    },
+    {
+      "labelEs": "Importar un crosshair por héroe in-game",
+      "labelEn": "Import a per-hero crosshair in-game",
+      "winner": "crosshairhub",
+      "reasonEs": "Su base de códigos copiables por héroe resuelve exactamente eso en segundos; ProSettings se centra en sensitivity y gear, no en códigos de reticle.",
+      "reasonEn": "Its database of copyable per-hero codes solves exactly that in seconds; ProSettings centers on sensitivity and gear, not reticle codes."
+    },
+    {
+      "labelEs": "Decidir qué mouse o monitor comprar",
+      "labelEn": "Decide which mouse or monitor to buy",
+      "winner": "prosettings",
+      "reasonEs": "Su base de gear muestra qué hardware corren los pros; Crosshair Hub no cubre periféricos.",
+      "reasonEn": "Its gear database shows what hardware pros run; Crosshair Hub doesn't cover peripherals."
+    },
+    {
+      "labelEs": "Probar varios reticles rápido hasta encontrar el tuyo",
+      "labelEn": "Try several reticles fast until you find yours",
+      "winner": "crosshairhub",
+      "reasonEs": "Está enfocado solo en crosshairs, así iteras y comparas códigos sin ruido; en ProSettings el crosshair es un dato más entre muchos.",
+      "reasonEn": "It's focused only on crosshairs, so you iterate and compare codes without noise; on ProSettings the crosshair is one data point among many."
+    },
+    {
+      "labelEs": "Copiar el setup completo de un pro específico",
+      "labelEn": "Copy a specific pro's full setup",
+      "winner": "prosettings",
+      "reasonEs": "ProSettings reúne sensitivity, gear y config de cada pro en una página; Crosshair Hub solo cubre la parte del crosshair.",
+      "reasonEn": "ProSettings gathers each pro's sensitivity, gear, and config on one page; Crosshair Hub only covers the crosshair part."
+    }
+  ]
+}

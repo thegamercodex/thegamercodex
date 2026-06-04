@@ -1,0 +1,35 @@
+{
+  "id": "mobalytics",
+  "name": "Mobalytics (Marvel Rivals)",
+  "shortName": "Mobalytics",
+  "taglineEs": "Guías de héroes, fundamentos y tier lists con foco editorial para aprender a jugar",
+  "taglineEn": "Hero guides, fundamentals, and tier lists with an editorial focus on learning to play",
+  "url": "https://mobalytics.gg/marvel-rivals",
+  "category": "hero-guides",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["hero-guides", "fundamentals", "tier-list", "team-comps", "essential"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/common/mobalytics-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["rivalsmeta", "marvelrivals-gg"],
+  "alternatives": ["marvelrivals-gg", "blitz-gg"],
+  "createdBy": {
+    "name": "Mobalytics",
+    "url": "https://mobalytics.gg"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "league-of-legends", "url": "https://mobalytics.gg/lol" },
+      { "gameId": "valorant", "url": "https://mobalytics.gg/valorant" }
+    ]
+  }
+}

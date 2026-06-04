@@ -1,0 +1,80 @@
+{
+  "category": "news-and-updates",
+  "resources": [
+    {
+      "id": "necros-devil-dinosaur-early-marvel-rivals-2026",
+      "type": "video",
+      "title": "I Played DEVIL DINOSAUR EARLY! Every Ability & Combo Explained",
+      "creator": "Necros",
+      "creatorId": "necros",
+      "url": "https://www.youtube.com/watch?v=SQIKRiq48Ws",
+      "youtubeId": "SQIKRiq48Ws",
+      "language": "en",
+      "duration": "13:50",
+      "publishedDate": "2026-05-13",
+      "thumbnail": "https://i.ytimg.com/vi/SQIKRiq48Ws/maxresdefault.jpg",
+      "noteEs": "Necros prueba a Devil Dinosaur antes del lanzamiento de la Season 8 y explica cada habilidad y combo del nuevo Vanguard. Buen primer vistazo al hero 50.",
+      "noteEn": "Necros plays Devil Dinosaur ahead of the Season 8 launch and explains every ability and combo of the new Vanguard. A good first look at hero 50."
+    },
+    {
+      "id": "dejuna-alchemax-headquarters-map-marvel-rivals-2026",
+      "type": "video",
+      "title": "First Look at Alchemax Headquarters Map - Marvel Rivals",
+      "creator": "dejuna | Marvel Rivals",
+      "creatorId": "dejuna",
+      "url": "https://www.youtube.com/watch?v=my127AZYVag",
+      "youtubeId": "my127AZYVag",
+      "language": "en",
+      "duration": "13:04",
+      "publishedDate": "2026-05-28",
+      "thumbnail": "https://i.ytimg.com/vi/my127AZYVag/maxresdefault.jpg",
+      "noteEs": "dejuna recorre Alchemax Headquarters, el nuevo mapa de Doom Match que llego a la Season 8. Muestra el layout y los puntos clave antes de que lo juegues.",
+      "noteEn": "dejuna tours Alchemax Headquarters, the new Doom Match map added in Season 8. It shows the layout and key spots before you jump in."
+    },
+    {
+      "id": "coach-mills-creators-leaving-marvel-rivals-2026",
+      "type": "video",
+      "title": "Creators are Leaving Marvel Rivals",
+      "creator": "Coach_Mills",
+      "creatorId": "coach-mills",
+      "url": "https://www.youtube.com/watch?v=A6o4OuloXBk",
+      "youtubeId": "A6o4OuloXBk",
+      "language": "en",
+      "duration": "23:09",
+      "publishedDate": "2026-05-29",
+      "thumbnail": "https://i.ytimg.com/vi/A6o4OuloXBk/maxresdefault.jpg",
+      "noteEs": "Coach Mills cubre el estado de la comunidad en la Season 8 y por que varios creadores se estan alejando del juego. Contexto util sobre la salud del titulo.",
+      "noteEn": "Coach Mills covers the state of the community in Season 8 and why several creators are stepping away from the game. Useful context on the game's health."
+    },
+    {
+      "id": "sadot-the-gamer-cyclops-reveal-marvel-rivals-2026",
+      "type": "video",
+      "title": "Marvel Rivals Every Cyclops Reveal You Need To Know + NEW Costumes",
+      "creator": "Sadot The Gamer",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=UpEeB1ExrIE",
+      "youtubeId": "UpEeB1ExrIE",
+      "language": "en",
+      "duration": "6:25",
+      "publishedDate": "2026-06-02",
+      "thumbnail": "https://i.ytimg.com/vi/UpEeB1ExrIE/maxresdefault.jpg",
+      "noteEs": "Resumen de todo lo revelado sobre Cyclops, el hero que llega en la Season 8.5, mas las nuevas costumes. Te pone al dia antes del parche de mitad de temporada.",
+      "noteEn": "A roundup of everything revealed about Cyclops, the hero arriving in Season 8.5, plus the new costumes. It gets you up to speed before the mid-season patch."
+    },
+    {
+      "id": "cozy-rivals-devil-dinosaur-gameplay-first-look-marvel-rivals-2026",
+      "type": "video",
+      "title": "First Look at Devil Dinosaur's Gameplay | Every Ability Explained | New Vanguard | Marvel Rivals",
+      "creator": "Cozy Rivals",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=O_GNiR7xXJo",
+      "youtubeId": "O_GNiR7xXJo",
+      "language": "en",
+      "duration": "8:57",
+      "publishedDate": "2026-05-12",
+      "thumbnail": "https://i.ytimg.com/vi/O_GNiR7xXJo/maxresdefault.jpg",
+      "noteEs": "Primer vistazo al gameplay de Devil Dinosaur con cada habilidad explicada al detalle. Resumen rapido para entender al nuevo Vanguard de la Season 8.",
+      "noteEn": "A first look at Devil Dinosaur's gameplay with every ability explained in detail. A quick rundown to understand the new Season 8 Vanguard."
+    }
+  ]
+}

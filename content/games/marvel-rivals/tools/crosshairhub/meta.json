@@ -1,0 +1,27 @@
+{
+  "id": "crosshairhub",
+  "name": "Crosshair Hub (Marvel Rivals)",
+  "shortName": "Crosshair Hub",
+  "taglineEs": "Base de códigos de mira por héroe para copiar e importar dentro del juego",
+  "taglineEn": "Database of per-hero crosshair codes to copy and import in-game",
+  "url": "https://crosshairhub.com/marvel-rivals",
+  "category": "pro-settings",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["crosshair", "reticle", "codes", "settings"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/marvel-rivals/crosshairhub-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["prosettings"],
+  "alternatives": ["prosettings"],
+  "createdBy": {
+    "name": "Crosshair Hub"
+  }
+}

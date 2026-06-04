@@ -32,7 +32,7 @@
   "essential": false,
   "difficulty": "beginner",
   "lastVerified": "2026-06-02",
-  "logo": "/images/tools/counter-strike-2/tracker-gg-cs2-logo.jpg",
+  "logo": "/images/tools/common/tracker-gg-logo.jpg",
   "screenshots": [
     {
       "url": "/images/tools/counter-strike-2/tracker-gg-cs2-ss-1.png"
@@ -52,5 +52,30 @@
   "createdBy": {
     "name": "Tracker Network",
     "url": "https://tracker.gg/about"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      {
+        "gameId": "apex-legends",
+        "url": "https://apex.tracker.gg"
+      },
+      {
+        "gameId": "destiny-2",
+        "url": "https://destinytracker.com"
+      },
+      {
+        "gameId": "valorant",
+        "url": "https://tracker.gg/valorant"
+      },
+      {
+        "gameId": "marvel-rivals",
+        "url": "https://tracker.gg/marvel-rivals"
+      },
+      {
+        "gameId": "league-of-legends",
+        "url": "https://tracker.gg/lol"
+      }
+    ]
   }
 }

@@ -1,0 +1,46 @@
+{
+  "id": "tracker-gg-cs2-vs-csstats-gg",
+  "toolIds": ["tracker-gg-cs2", "csstats-gg"],
+  "category": "match-history",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Usa CS Stats si quieres el tracker de CS2 más rápido y nativo: lookup por Steam ID sin login, integración con ESEA y la familiaridad que tiene la comunidad de CS. Usa Tracker.gg CS2 si ya vives en la red Tracker Network por Valorant, Apex o Marvel Rivals y quieres tus stats de CS2 bajo la misma cuenta, con interfaz en tu idioma.",
+  "verdictEn": "Use CS Stats if you want the fastest, most CS-native tracker: Steam ID lookup with no login, ESEA integration, and the familiarity the CS community already has. Use Tracker.gg CS2 if you already live in the Tracker Network through Valorant, Apex, or Marvel Rivals and want your CS2 stats under the same account, with a UI in your language.",
+  "useCases": [
+    {
+      "labelEs": "Lookup rápido de tu match history sin login",
+      "labelEn": "Quick match-history lookup with no login",
+      "winner": "csstats-gg",
+      "reasonEs": "Pegas tu Steam ID y ves KDA, win rate por mapa y ELO al instante, sin cuenta. Tracker.gg CS2 funciona pero su valor real aparece cuando enlazas la cuenta de la red.",
+      "reasonEn": "Paste your Steam ID and see KDA, per-map win rate, and ELO instantly, no account. Tracker.gg CS2 works but its real value shows up when you link the network account."
+    },
+    {
+      "labelEs": "Consolidar tus stats con otros juegos que ya trackeas",
+      "labelEn": "Consolidate your stats with other games you already track",
+      "winner": "tracker-gg-cs2",
+      "reasonEs": "Si ya usas Tracker Network para Valorant, Apex o Marvel Rivals, tienes CS2 bajo la misma cuenta y la misma app. CS Stats es solo CS.",
+      "reasonEn": "If you already use Tracker Network for Valorant, Apex, or Marvel Rivals, you get CS2 under the same account and app. CS Stats is CS only."
+    },
+    {
+      "labelEs": "Integración con ESEA y datos específicos de CS",
+      "labelEn": "ESEA integration and CS-specific data",
+      "winner": "csstats-gg",
+      "reasonEs": "CS Stats integra datos de ESEA y está construido alrededor de las mecánicas de CS. Tracker.gg CS2 es una sección dentro de una plataforma multi-juego.",
+      "reasonEn": "CS Stats pulls in ESEA data and is built around CS mechanics. Tracker.gg CS2 is a section inside a multi-game platform."
+    },
+    {
+      "labelEs": "Interfaz en tu idioma",
+      "labelEn": "Interface in your language",
+      "winner": "tracker-gg-cs2",
+      "reasonEs": "Tracker.gg CS2 ofrece la UI en varios idiomas (es, pt, fr, de, ja, ko). CS Stats está en inglés.",
+      "reasonEn": "Tracker.gg CS2 offers the UI in several languages (es, pt, fr, de, ja, ko). CS Stats is English-only."
+    },
+    {
+      "labelEs": "Familiaridad y adopción en la comunidad de CS2",
+      "labelEn": "Familiarity and adoption in the CS2 community",
+      "winner": "csstats-gg",
+      "reasonEs": "CS Stats es uno de los trackers que la comunidad de CS efectivamente usa y linkea; Tracker.gg tiene menos tracción específica en CS2.",
+      "reasonEn": "CS Stats is one of the trackers the CS community actually uses and links; Tracker.gg has less CS2-specific traction."
+    }
+  ]
+}

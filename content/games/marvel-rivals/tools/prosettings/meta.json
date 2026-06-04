@@ -1,0 +1,35 @@
+{
+  "id": "prosettings",
+  "name": "ProSettings.net (Marvel Rivals)",
+  "shortName": "ProSettings",
+  "taglineEs": "Base de datos de sensibilidad, eDPI, gear y configuraciones de pros y creators",
+  "taglineEn": "Database of sensitivity, eDPI, gear, and settings from pros and creators",
+  "url": "https://prosettings.net/lists/marvel-rivals/",
+  "category": "pro-settings",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["sensitivity", "edpi", "gear", "pro-settings"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/marvel-rivals/prosettings-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["crosshairhub", "tracker-gg"],
+  "alternatives": ["crosshairhub"],
+  "createdBy": {
+    "name": "ProSettings.net",
+    "url": "https://prosettings.net"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "counter-strike-2", "url": "https://prosettings.net/lists/cs2/" },
+      { "gameId": "valorant", "url": "https://prosettings.net/lists/valorant/" }
+    ]
+  }
+}

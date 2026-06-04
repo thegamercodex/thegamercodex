@@ -1,0 +1,37 @@
+{
+  "id": "ultimate-marvel-rivals-toolkit",
+  "category": "improvement",
+  "lastVerified": "2026-06-03",
+  "items": [
+    {
+      "toolId": "mobalytics",
+      "roleEs": "El punto de partida: guías de héroes y fundamentos para aprender a pilotar bien cada personaje, no solo a saber cuál es fuerte.",
+      "roleEn": "The starting point: hero guides and fundamentals to actually learn how to pilot each character well, not just which one is strong."
+    },
+    {
+      "toolId": "rivalsmeta",
+      "roleEs": "El pulso del meta: win rates, pick rates y tier lists para saber qué se está jugando esta temporada y qué vale la pena aprender.",
+      "roleEn": "The meta pulse: win rates, pick rates, and tier lists to know what's being played this season and what's worth learning."
+    },
+    {
+      "toolId": "counterwatch",
+      "roleEs": "La capa de draft: qué counterea a qué y cómo armar la comp, con predicción de win chance en vivo mientras eliges en la partida.",
+      "roleEn": "The draft layer: what counters what and how to build the comp, with live win-chance prediction while you pick mid-match."
+    },
+    {
+      "toolId": "tracker-gg",
+      "roleEs": "El espejo: trackea tus propias partidas y stats para ver dónde mejoras de verdad, con overlay in-game opcional.",
+      "roleEn": "The mirror: track your own matches and stats to see where you're actually improving, with an optional in-game overlay."
+    },
+    {
+      "toolId": "prosettings",
+      "roleEs": "La base mecánica: sensibilidad, eDPI y gear de pros como punto de partida para afinar tu propio setup.",
+      "roleEn": "The mechanical base: pro sensitivity, eDPI, and gear as a starting reference to dial in your own setup."
+    },
+    {
+      "toolId": "wiki-gg",
+      "roleEs": "La referencia: habilidades exactas, números y Team-Up combos cuando necesitas el dato preciso sin opiniones.",
+      "roleEn": "The reference: exact abilities, numbers, and Team-Up combos when you need the precise data with no opinions."
+    }
+  ]
+}

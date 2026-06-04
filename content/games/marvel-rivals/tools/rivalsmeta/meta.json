@@ -1,0 +1,27 @@
+{
+  "id": "rivalsmeta",
+  "name": "RivalsMeta",
+  "shortName": "RivalsMeta",
+  "taglineEs": "El hub de meta: win rates, pick rates, tier lists y leaderboards de Marvel Rivals",
+  "taglineEn": "The meta hub: win rates, pick rates, tier lists, and leaderboards for Marvel Rivals",
+  "url": "https://rivalsmeta.com",
+  "category": "hero-stats",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["win-rates", "pick-rates", "tier-list", "leaderboards", "team-comps", "essential"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/marvel-rivals/rivalsmeta-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["tracker-gg", "counterwatch"],
+  "alternatives": ["blitz-gg", "marvelrivals-gg"],
+  "createdBy": {
+    "name": "RivalsMeta"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "marvel-rivals-merchant",
+  "name": "Marvel Rivals Merchant",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@MarvelRivalsMerchant",
+      "url": "https://www.youtube.com/@MarvelRivalsMerchant",
+      "channelId": "UCtyygqXwJK5NhAnbqAjh9SQ",
+      "primary": true
+    }
+  ],
+  "specialties": ["hero-guides", "crosshair-settings", "ability-tips", "builds", "pve-guides"],
+  "games": ["marvel-rivals"],
+  "contentTypes": ["videos", "guides"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Canal dedicado a guías de héroes específicos: settings de crosshair, tips de habilidades y desgloses de builds héroe por héroe, además de contenido PvE como peleas de bosses ocultos. El formato es práctico y enfocado en un personaje a la vez, no comentario de meta. Ideal cuando eliges un héroe nuevo y quieres una referencia concreta de cómo configurarlo y jugarlo.",
+  "noteEn": "A channel dedicated to per-hero guides: crosshair settings, ability tips, and hero-by-hero build breakdowns, plus PvE content like hidden boss fights. The format is practical and focused on one character at a time, not meta commentary. Ideal when you pick up a new hero and want a concrete reference for how to set it up and play it.",
+  "highlightsEs": [
+    "Videos de crosshair y tips de habilidades por héroe, incluyendo las adiciones más recientes",
+    "Guías de 'mejor build' por personaje",
+    "Contenido PvE y de bosses ocultos (como la pelea de Kingpin)",
+    "Enfoque beginner-friendly de un solo héroe que complementa a los canales de meta"
+  ],
+  "highlightsEn": [
+    "Per-hero crosshair and ability-tip videos, including the newest additions",
+    "'Best build' guides per character",
+    "PvE and hidden-boss content (like the Kingpin fight)",
+    "Beginner-friendly single-hero focus that complements meta channels"
+  ],
+  "avatar": "/images/creators/marvel-rivals-merchant-avatar.jpg",
+  "banner": "/images/creators/marvel-rivals-merchant-banner.jpg"
+}

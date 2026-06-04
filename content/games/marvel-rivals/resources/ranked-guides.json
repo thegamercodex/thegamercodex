@@ -1,0 +1,80 @@
+{
+  "category": "ranked-guides",
+  "resources": [
+    {
+      "id": "coach-mills-ultimate-positioning-guide-marvel-rivals-2025",
+      "type": "video",
+      "title": "The ULTIMATE Positioning Guide for Marvel Rivals (stop throwing) | Tanks, DPS, Support",
+      "creator": "Coach_Mills",
+      "creatorId": "coach-mills",
+      "url": "https://www.youtube.com/watch?v=uoVIj7O_cg4",
+      "youtubeId": "uoVIj7O_cg4",
+      "language": "en",
+      "duration": "19:34",
+      "publishedDate": "2025-12-27",
+      "thumbnail": "https://i.ytimg.com/vi/uoVIj7O_cg4/maxresdefault.jpg",
+      "noteEs": "Coach Mills explica el posicionamiento por rol para que dejes de regalar muertes y empieces a subir de rank. Fundamento evergreen que no caduca con cada patch.",
+      "noteEn": "Coach Mills breaks down positioning by role so you stop feeding and start climbing. Evergreen fundamentals that don't expire with each patch."
+    },
+    {
+      "id": "notoriousdub-perfect-positioning-guide-marvel-rivals-2026",
+      "type": "video",
+      "title": "Get PERFECT Positioning! (IN-DEPTH GUIDE) Marvel Rivals Positioning Guide",
+      "creator": "NotoriousDuB",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Ccv61AWY7SU",
+      "youtubeId": "Ccv61AWY7SU",
+      "language": "en",
+      "duration": "16:54",
+      "publishedDate": "2026-04-10",
+      "thumbnail": "https://i.ytimg.com/vi/Ccv61AWY7SU/maxresdefault.jpg",
+      "noteEs": "Guia a profundidad sobre como leer angulos, cobertura y lineas de vision para sobrevivir mas y pelear desde ventaja. Util para cualquier rol que quiera climbear.",
+      "noteEn": "An in-depth guide on reading angles, cover, and sightlines to survive longer and fight from advantage. Useful for any role looking to climb."
+    },
+    {
+      "id": "esidi-25-ranked-tips-climb-fast-marvel-rivals-2026",
+      "type": "video",
+      "title": "25 Ranked Tips & Tricks to Climb Fast | Marvel Rivals",
+      "creator": "Esidi",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=yqpmMotKN8M",
+      "youtubeId": "yqpmMotKN8M",
+      "language": "en",
+      "duration": "15:51",
+      "publishedDate": "2026-01-17",
+      "thumbnail": "https://i.ytimg.com/vi/yqpmMotKN8M/maxresdefault.jpg",
+      "noteEs": "Esidi condensa 25 habitos competitivos y errores comunes que frenan tu subida en ranked. Formato rapido para mejorar tu mentalidad de queue.",
+      "noteEn": "Esidi packs 25 competitive habits and common mistakes that stall your ranked climb. A fast-paced format to sharpen your queue mindset."
+    },
+    {
+      "id": "nugnugtv-devil-dinosaur-ranked-guide-marvel-rivals-2026",
+      "type": "video",
+      "title": "Ultimate Devil Dinosaur Guide To Crushing Marvel Rivals Season 8 Ranked",
+      "creator": "NugnugTV",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=kvkORnAhoA4",
+      "youtubeId": "kvkORnAhoA4",
+      "language": "en",
+      "duration": "15:14",
+      "publishedDate": "2026-05-14",
+      "thumbnail": "https://i.ytimg.com/vi/kvkORnAhoA4/maxresdefault.jpg",
+      "noteEs": "Guia enfocada en el Vanguard nuevo de la Season 8: como jugar Devil Dinosaur para ganar partidas en ranked. Buen ejemplo de climbing especifico por hero.",
+      "noteEn": "A guide focused on the new Season 8 Vanguard: how to play Devil Dinosaur to win ranked games. A good example of hero-specific climbing advice."
+    },
+    {
+      "id": "cozy-rivals-best-worst-heroes-low-high-rank-marvel-rivals-2026",
+      "type": "video",
+      "title": "NEW BEST and WORST Heroes in Marvel Rivals | Low & High Rank Tier List | Season 8",
+      "creator": "Cozy Rivals",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=nOjwqhoEGpA",
+      "youtubeId": "nOjwqhoEGpA",
+      "language": "en",
+      "duration": "1:01:45",
+      "publishedDate": "2026-05-23",
+      "thumbnail": "https://i.ytimg.com/vi/nOjwqhoEGpA/maxresdefault.jpg",
+      "noteEs": "Cozy Rivals desglosa que heroes rinden mejor en low rank frente a high rank en la Season 8, con consejo de climbing por rol. Te ayuda a elegir picks que suben.",
+      "noteEn": "Cozy Rivals breaks down which heroes perform best in low rank versus high rank in Season 8, with role-by-role climbing advice. Helps you pick heroes that climb."
+    }
+  ]
+}

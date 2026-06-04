@@ -1,0 +1,27 @@
+{
+  "id": "marvel-rivals-subreddit",
+  "name": "r/marvelrivals",
+  "shortName": "Subreddit",
+  "taglineEs": "El subreddit principal: discusión, noticias, clips y megathreads de la comunidad",
+  "taglineEn": "The main subreddit: discussion, news, clips, and community megathreads",
+  "url": "https://www.reddit.com/r/marvelrivals/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "android", "ios"],
+  "languages": ["en"],
+  "tags": ["reddit", "community", "discussion", "news"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["marvel-rivals-discord"],
+  "alternatives": ["marvel-rivals-discord"],
+  "createdBy": {
+    "name": "r/marvelrivals community"
+  }
+}

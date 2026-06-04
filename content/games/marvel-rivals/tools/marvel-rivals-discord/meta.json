@@ -1,0 +1,28 @@
+{
+  "id": "marvel-rivals-discord",
+  "name": "Marvel Rivals Official Discord",
+  "shortName": "Discord Oficial",
+  "taglineEs": "El servidor oficial de NetEase: noticias de parches, LFG y comunidad",
+  "taglineEn": "NetEase's official server: patch news, LFG, and community",
+  "url": "https://discord.com/invite/marvelrivals",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows", "macos", "android", "ios"],
+  "languages": ["en"],
+  "tags": ["discord", "community", "official", "lfg", "news"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["marvel-rivals-subreddit"],
+  "alternatives": ["marvel-rivals-subreddit"],
+  "createdBy": {
+    "name": "NetEase Games",
+    "url": "https://www.marvelrivals.com"
+  }
+}

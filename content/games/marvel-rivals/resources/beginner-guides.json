@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "dazs-perfect-beginners-guide-marvel-rivals-2025",
+      "type": "video",
+      "title": "The PERFECT Marvel Rivals Beginners Guide!",
+      "creator": "Dazs",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=gAXj12pRPEw",
+      "youtubeId": "gAXj12pRPEw",
+      "language": "en",
+      "duration": "31:42",
+      "publishedDate": "2025-01-29",
+      "thumbnail": "https://i.ytimg.com/vi/gAXj12pRPEw/maxresdefault.jpg",
+      "noteEs": "Guia completa de 30+ minutos para tu primer dia: como funciona el juego, los modos, los tres roles y los fundamentos que necesitas antes de entrar a tu primera partida. Ideal si nunca tocaste un hero shooter.",
+      "noteEn": "A 30+ minute all-in-one guide for day one: how the game works, the modes, the three roles and the fundamentals you need before your first match. Ideal if you've never touched a hero shooter."
+    },
+    {
+      "id": "arekkz-gaming-ultimate-beginners-guide-marvel-rivals-2024",
+      "type": "video",
+      "title": "Marvel Rivals ULTIMATE Beginners Guide, Tips & Tricks!",
+      "creator": "Arekkz Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=AIR7n6lkFug",
+      "youtubeId": "AIR7n6lkFug",
+      "language": "en",
+      "duration": "20:36",
+      "publishedDate": "2024-12-14",
+      "thumbnail": "https://i.ytimg.com/vi/AIR7n6lkFug/maxresdefault.jpg",
+      "noteEs": "Repaso ordenado de tips y trucos esenciales para arrancar: seleccion de heroe, team-ups, objetivos y errores comunes. Evergreen para entender la base del juego desde cero.",
+      "noteEn": "A clean rundown of essential starting tips and tricks: hero selection, team-ups, objectives and common mistakes. Evergreen for grasping the game's foundation from scratch."
+    },
+    {
+      "id": "mstz-bootman-10-mistakes-new-players-marvel-rivals-2024",
+      "type": "video",
+      "title": "10 Mistakes New Players in Marvel Rivals",
+      "creator": "mstz bootman",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=se6Nr2ebDXs",
+      "youtubeId": "se6Nr2ebDXs",
+      "language": "en",
+      "duration": "16:40",
+      "publishedDate": "2024-12-09",
+      "thumbnail": "https://i.ytimg.com/vi/se6Nr2ebDXs/maxresdefault.jpg",
+      "noteEs": "Recorre los 10 errores mas comunes de principiantes (positioning malo, perseguir kills, guardar el ultimate de mas) y como corregirlos. Util para dejar de perder partidas por habitos basicos.",
+      "noteEn": "Walks through the 10 most common beginner mistakes (bad positioning, chasing kills, hoarding your ultimate) and how to fix them. Useful for stopping losses caused by basic habits."
+    },
+    {
+      "id": "esidi-100-tips-and-tricks-marvel-rivals-2025",
+      "type": "video",
+      "title": "100 Marvel Rivals Tips and Tricks - LEARN EVERYTHING",
+      "creator": "Esidi",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=tUPRZxpdxkc",
+      "youtubeId": "tUPRZxpdxkc",
+      "language": "en",
+      "duration": "20:17",
+      "publishedDate": "2025-04-01",
+      "thumbnail": "https://i.ytimg.com/vi/tUPRZxpdxkc/maxresdefault.jpg",
+      "noteEs": "Cien tips rapidos que cubren settings, mecanicas escondidas, interacciones de heroes y trucos de mapa. Buena segunda parada cuando ya conoces lo basico y quieres detalles que la mayoria ignora.",
+      "noteEn": "One hundred quick tips covering settings, hidden mechanics, hero interactions and map tricks. A great second stop once you know the basics and want details most players miss."
+    },
+    {
+      "id": "marvel-rivals-merchant-black-cat-beginner-ability-tips-marvel-rivals-2026",
+      "type": "video",
+      "title": "Marvel Rivals Black Cat Best Crosshair Settings & Beginner Ability Tips",
+      "creator": "Marvel Rivals Merchant",
+      "creatorId": "marvel-rivals-merchant",
+      "url": "https://www.youtube.com/watch?v=5bDqgPeRxhA",
+      "youtubeId": "5bDqgPeRxhA",
+      "language": "en",
+      "duration": "8:27",
+      "publishedDate": "2026-04-17",
+      "thumbnail": "https://i.ytimg.com/vi/5bDqgPeRxhA/maxresdefault.jpg",
+      "noteEs": "Ejemplo concreto de como aprender un heroe nuevo desde cero: crosshair recomendado, settings y uso basico de habilidades de Black Cat. Te muestra el flujo que aplica a cualquier personaje que recien empieces.",
+      "noteEn": "A concrete example of learning a new hero from scratch: recommended crosshair, settings and basic ability usage for Black Cat. Shows you the workflow that applies to any character you're just picking up."
+    }
+  ]
+}

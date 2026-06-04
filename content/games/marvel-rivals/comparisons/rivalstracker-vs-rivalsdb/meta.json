@@ -1,0 +1,46 @@
+{
+  "id": "rivalstracker-vs-rivalsdb",
+  "toolIds": ["rivalstracker", "rivalsdb"],
+  "category": "match-tracking",
+  "depth": "short",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "RivalsTracker si lo tuyo es el perfil personal: tu match history, tus hero analytics y dónde caes en la rank distribution. RivalsDB si vives en los leaderboards y quieres tablas de estadísticas de héroes por rango. Se solapan bastante, así que para muchos es una elección de preferencia o de segunda fuente.",
+  "verdictEn": "RivalsTracker if you're about the personal profile: your match history, your hero analytics, and where you fall in the rank distribution. RivalsDB if you live in leaderboards and want per-rank hero stat tables. They overlap a lot, so for many it's a preference or second-source choice.",
+  "useCases": [
+    {
+      "labelEs": "Revisar tu match history y progreso personal",
+      "labelEn": "Review your match history and personal progress",
+      "winner": "rivalstracker",
+      "reasonEs": "RivalsTracker está construido alrededor del player profile: historial de partidas, hero analytics propios y evolución de rank. Es lo primero que ves al entrar.",
+      "reasonEn": "RivalsTracker is built around the player profile: match history, your own hero analytics, and rank evolution. It's the first thing you see on arrival."
+    },
+    {
+      "labelEs": "Consultar tablas de stats de héroes por rango",
+      "labelEn": "Look up per-rank hero stat tables",
+      "winner": "rivalsdb",
+      "reasonEs": "RivalsDB se especializa en estadísticas por rango: win y pick rate de cada héroe filtrados por tier de rank, en tablas pensadas para comparar.",
+      "reasonEn": "RivalsDB specializes in per-rank stats: each hero's win and pick rate filtered by rank tier, in tables built for comparison."
+    },
+    {
+      "labelEs": "Escalar leaderboards y ver el top de jugadores",
+      "labelEn": "Climb leaderboards and see the top players",
+      "winner": "rivalsdb",
+      "reasonEs": "Los leaderboards son el corazón de RivalsDB, con rankings detallados de los mejores jugadores. En RivalsTracker existen pero no son el foco principal.",
+      "reasonEn": "Leaderboards are the heart of RivalsDB, with detailed rankings of the top players. In RivalsTracker they exist but aren't the main focus."
+    },
+    {
+      "labelEs": "Ver dónde caes en la distribución de rangos",
+      "labelEn": "See where you fall in the rank distribution",
+      "winner": "rivalstracker",
+      "reasonEs": "RivalsTracker presenta la rank distribution de forma clara y centrada en tu posición, no solo como dato agregado abstracto.",
+      "reasonEn": "RivalsTracker presents rank distribution clearly and centered on your position, not just as an abstract aggregate figure."
+    },
+    {
+      "labelEs": "Tener una segunda fuente para cruzar datos",
+      "labelEn": "Have a second source to cross-check data",
+      "winner": "rivalsdb",
+      "reasonEs": "Como ambas dependen de datos públicos, tener RivalsDB al lado de RivalsTracker ayuda a contrastar cuando una página parece tener un dato raro o desactualizado.",
+      "reasonEn": "Since both rely on public data, having RivalsDB alongside RivalsTracker helps cross-check when one page seems to have an odd or stale figure."
+    }
+  ]
+}

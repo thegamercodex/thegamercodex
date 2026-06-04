@@ -1,0 +1,36 @@
+{
+  "id": "marvel-rivals-insider",
+  "name": "Marvel Rivals Insider",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@MarvelRivalsInsider",
+      "url": "https://www.youtube.com/@MarvelRivalsInsider",
+      "channelId": "UCn_yx_CeBUhglFGcZCpPFtA",
+      "primary": true
+    }
+  ],
+  "specialties": ["news", "patch-coverage", "community-highlights", "shorts", "commentary"],
+  "games": ["marvel-rivals"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Canal de noticias y comunidad de alta frecuencia que publica varias veces al día sobre parches, reacciones de balance, clips de la comunidad y qué está pasando en Rivals ahora mismo. El formato tira a shorts y comentario rápido más que a guías largas. Para jugadores que quieren mantenerse al día con el ciclo de noticias y la conversación de la comunidad entre parches.",
+  "noteEn": "A high-frequency news and community channel posting several times a day on patches, balance reactions, community clips, and what's happening in Rivals right now. The format leans toward shorts and fast commentary rather than long-form guides. For players who want to stay current with the news cycle and community conversation between patches.",
+  "highlightsEs": [
+    "Varios uploads diarios — la señal de actividad más fuerte del roster",
+    "Reacciones de parches y seguimiento de nerfs/buffs",
+    "Highlights de clips de la comunidad y cobertura en formato shorts",
+    "Mantiene a la audiencia al día con el ciclo rápido de temporada a temporada"
+  ],
+  "highlightsEn": [
+    "Several daily uploads — the strongest activity signal in the roster",
+    "Patch reactions and nerf/buff tracking",
+    "Community clip highlights and shorts-format coverage",
+    "Keeps the audience current with the fast season-to-season cycle"
+  ],
+  "avatar": "/images/creators/marvel-rivals-insider-avatar.jpg",
+  "banner": "/images/creators/marvel-rivals-insider-banner.jpg"
+}

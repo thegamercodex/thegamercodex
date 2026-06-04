@@ -1,0 +1,27 @@
+{
+  "id": "rivalscounters",
+  "name": "RivalsCounters",
+  "shortName": "RivalsCounters",
+  "taglineEs": "Counters por héroe y armador de comp: mete el equipo rival y arma la respuesta",
+  "taglineEn": "Per-hero counters and a team builder: input the enemy team and build the answer",
+  "url": "https://rivalscounters.com",
+  "category": "team-comp",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["counter-picks", "team-builder", "matchups"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/marvel-rivals/rivalscounters-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["counterwatch", "rivalsmeta"],
+  "alternatives": ["counterwatch"],
+  "createdBy": {
+    "name": "RivalsCounters"
+  }
+}

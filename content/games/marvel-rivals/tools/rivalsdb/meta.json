@@ -1,0 +1,27 @@
+{
+  "id": "rivalsdb",
+  "name": "RivalsDB",
+  "shortName": "RivalsDB",
+  "taglineEs": "Tracker con foco en leaderboards y estadísticas de héroes por rango",
+  "taglineEn": "Tracker focused on leaderboards and per-rank hero statistics",
+  "url": "https://www.rivalsdb.gg",
+  "category": "match-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["leaderboards", "player-profiles", "hero-stats"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/marvel-rivals/rivalsdb-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["tracker-gg", "rivalsmeta"],
+  "alternatives": ["tracker-gg", "rivalstracker"],
+  "createdBy": {
+    "name": "RivalsDB"
+  }
+}

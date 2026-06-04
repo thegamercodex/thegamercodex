@@ -1,0 +1,46 @@
+{
+  "id": "counterwatch-vs-rivalscounters",
+  "toolIds": ["counterwatch", "rivalscounters"],
+  "category": "team-comp",
+  "depth": "flagship",
+  "lastVerified": "2026-06-03",
+  "verdictEs": "Counterwatch cuando quieres profundidad: matchup scores por héroe, predicción de win-chance en vivo mientras armas la comp, stats por mapa, mejores duos, tier list y una app de escritorio para counter-pickear en medio de la partida. RivalsCounters cuando quieres velocidad: es solo Marvel Rivals, más simple, y responde rápido \"qué le gana a X\" con un team builder que sugiere una comp contra el equipo enemigo. Counterwatch te da el panorama completo; RivalsCounters te da una respuesta directa sin fricción.",
+  "verdictEn": "Counterwatch when you want depth: per-hero matchup scores, live win-chance prediction as you build the comp, map stats, best duos, a tier list, and a desktop app for counter-picking mid-match. RivalsCounters when you want speed: it's Marvel Rivals-only, simpler, and answers \"what beats X\" fast with a team builder that suggests a comp against the enemy team. Counterwatch gives you the full picture; RivalsCounters gives you a direct answer with no friction.",
+  "useCases": [
+    {
+      "labelEs": "Counter-pickear en vivo durante el hero select",
+      "labelEn": "Counter-pick live during hero select",
+      "winner": "counterwatch",
+      "reasonEs": "Su app de escritorio te deja ajustar la comp y leer la win-chance sin salir del juego; RivalsCounters es web-only y te obliga a saltar a otra ventana.",
+      "reasonEn": "Its desktop app lets you adjust the comp and read win-chance without leaving the game; RivalsCounters is web-only and forces you to switch windows."
+    },
+    {
+      "labelEs": "Buscar rápido qué héroe le gana a uno enemigo",
+      "labelEn": "Quickly look up which hero beats an enemy one",
+      "winner": "rivalscounters",
+      "reasonEs": "Su lookup enfocado \"mejores y peores counters de X\" responde de inmediato sin pedirte armar nada; Counterwatch tiene más capas antes de llegar a la respuesta.",
+      "reasonEn": "Its focused \"best and worst counters of X\" lookup answers instantly without asking you to build anything; Counterwatch has more layers before the answer."
+    },
+    {
+      "labelEs": "Decidir tu pick según el mapa que toca",
+      "labelEn": "Decide your pick based on the current map",
+      "winner": "counterwatch",
+      "reasonEs": "Counterwatch incluye stats por mapa que RivalsCounters no maneja, así sabes si tu pick rinde en esa rotación.",
+      "reasonEn": "Counterwatch includes per-map stats that RivalsCounters doesn't handle, so you know if your pick performs on that rotation."
+    },
+    {
+      "labelEs": "Aprender el ecosistema de counters siendo nuevo",
+      "labelEn": "Learn the counter ecosystem as a newcomer",
+      "winner": "rivalscounters",
+      "reasonEs": "Su interfaz simple y enfocada en MR no abruma; un principiante entiende \"esto le gana a esto\" sin perderse entre tier lists, duos y predicciones.",
+      "reasonEn": "Its simple, MR-only interface doesn't overwhelm; a beginner grasps \"this beats that\" without getting lost among tier lists, duos, and predictions."
+    },
+    {
+      "labelEs": "Armar una comp completa y medir su probabilidad de ganar",
+      "labelEn": "Build a full comp and gauge its win probability",
+      "winner": "counterwatch",
+      "reasonEs": "La predicción de win-chance en vivo y los mejores duos te dejan optimizar la comp entera; RivalsCounters sugiere counters pero no proyecta una probabilidad.",
+      "reasonEn": "Live win-chance prediction and best duos let you optimize the whole comp; RivalsCounters suggests counters but doesn't project a probability."
+    }
+  ]
+}

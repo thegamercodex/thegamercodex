@@ -1,0 +1,33 @@
+{
+  "id": "counterwatch",
+  "name": "Counterwatch",
+  "shortName": "Counterwatch",
+  "taglineEs": "Counter-picker y armador de equipos con predicción de win chance en vivo",
+  "taglineEn": "Counter-picker and team builder with live win-chance prediction",
+  "url": "https://counterwatch.gg",
+  "category": "team-comp",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows"],
+  "languages": ["en"],
+  "tags": ["counter-picks", "team-builder", "matchups", "map-stats", "essential"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/marvel-rivals/counterwatch-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["rivalscounters", "rivalsmeta"],
+  "alternatives": ["rivalscounters"],
+  "createdBy": {
+    "name": "Counterwatch"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "overwatch", "url": "https://www.counterwatch.gg/stats/overwatch" }
+    ]
+  }
+}

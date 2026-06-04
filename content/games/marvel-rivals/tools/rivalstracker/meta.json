@@ -1,0 +1,27 @@
+{
+  "id": "rivalstracker",
+  "name": "RivalsTracker",
+  "shortName": "RivalsTracker",
+  "taglineEs": "Tracker dedicado a Marvel Rivals: perfiles, analíticas de héroes y distribución de rangos",
+  "taglineEn": "Marvel Rivals-only tracker: profiles, hero analytics, and rank distribution",
+  "url": "https://rivalstracker.com",
+  "category": "match-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["match-history", "player-profiles", "hero-analytics", "rank-distribution"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-03",
+  "logo": "/images/tools/marvel-rivals/rivalstracker-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["tracker-gg", "rivalsmeta"],
+  "alternatives": ["tracker-gg", "rivalsdb"],
+  "createdBy": {
+    "name": "RivalsTracker"
+  }
+}
