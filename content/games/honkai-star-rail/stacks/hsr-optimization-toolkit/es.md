@@ -1,5 +1,5 @@
 ---
-title: El toolkit de optimización de Honkai: Star Rail
+title: "El toolkit de optimización de Honkai: Star Rail"
 description: Las seis herramientas que llevan tu cuenta de HSR de funcional a optimizada — optimizar relics, seguir guías de personaje, calcular daño y comparar builds. El stack del jugador que theorycraftea.
 ---
 
