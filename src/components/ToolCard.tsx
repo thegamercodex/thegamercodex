@@ -5,6 +5,7 @@ import { Link } from "@/i18n/navigation";
 import { categoryName } from "@/lib/categories";
 import { isRecentlyVerified } from "@/lib/format";
 import { FavoriteButton } from "./FavoriteButton";
+import { ToolShortcutButton } from "./ToolShortcutButton";
 import type { Locale, Tool, ToolCategory } from "@/types";
 
 interface ToolCardProps {
@@ -30,10 +31,10 @@ export function ToolCard({
 
   return (
     <div className="relative">
-      <FavoriteButton
-        entry={{ type: "tool", id: tool.id, gameId }}
-        className="absolute right-2 top-2 z-10"
-      />
+      <div className="absolute right-2 top-2 z-10 flex items-center gap-1.5">
+        <ToolShortcutButton url={tool.url} />
+        <FavoriteButton entry={{ type: "tool", id: tool.id, gameId }} />
+      </div>
     <Link
       href={`/${gameId}/tools/${tool.id}`}
       className={`group flex flex-col gap-3 rounded-xl border p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-[var(--game-accent,var(--color-accent))]/60 hover:bg-muted/70 ${
@@ -59,7 +60,7 @@ export function ToolCard({
             initial
           )}
         </div>
-        <div className="min-w-0 flex-1">
+        <div className="min-w-0 flex-1 pr-16">
           <div className="flex items-center gap-1.5">
             <h3 className="truncate text-sm font-semibold leading-tight">
               {tool.name}

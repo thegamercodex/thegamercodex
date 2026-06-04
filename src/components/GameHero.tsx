@@ -2,18 +2,42 @@ import Image from "next/image";
 import { ArrowUpRight } from "lucide-react";
 import { getTranslations } from "next-intl/server";
 import { humanize } from "@/lib/categories";
-import type { Game, Locale } from "@/types";
+import type { Game, Locale, MonetizationModel, StorePlatform } from "@/types";
 
 interface GameHeroProps {
   game: Game;
   locale: Locale;
 }
 
+const storeName: Record<StorePlatform, string> = {
+  steam: "Steam",
+  epic: "Epic Games",
+  gog: "GOG",
+  playstation: "PlayStation Store",
+  xbox: "Xbox",
+  nintendo: "Nintendo eShop",
+  battlenet: "Battle.net",
+  origin: "EA App",
+  uplay: "Ubisoft Connect",
+  "riot-client": "Riot Client",
+  "app-store": "App Store",
+  "google-play": "Google Play",
+};
+
+const monetizationToken: Record<MonetizationModel, string> = {
+  "free-to-play": "text-emerald-400 border-emerald-500/50",
+  "buy-to-play": "text-highlight border-highlight/60",
+  subscription: "text-sky-400 border-sky-500/50",
+  freemium: "text-emerald-400 border-emerald-500/50",
+};
+
 export async function GameHero({ game, locale }: GameHeroProps) {
   const t = await getTranslations("game");
+  const tMon = await getTranslations("monetization");
   const tagline = locale === "es" ? game.taglineEs : game.taglineEn;
   const summary = locale === "es" ? game.summaryEs : game.summaryEn;
   const { theme } = game;
+  const model = game.monetization.model;
 
   return (
     <section className="border-b border-border">
@@ -120,8 +144,13 @@ export async function GameHero({ game, locale }: GameHeroProps) {
               {summary}
             </p>
           )}
-          {game.genres.length > 0 && (
+          {(game.genres.length > 0 || model) && (
             <div className="flex flex-wrap items-center gap-2">
+              <span
+                className={`rounded-md border bg-background/40 px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wide ${monetizationToken[model]}`}
+              >
+                {tMon(model)}
+              </span>
               {game.genres.map((genre) => (
                 <span
                   key={genre}
@@ -137,7 +166,7 @@ export async function GameHero({ game, locale }: GameHeroProps) {
               ))}
             </div>
           )}
-          <div>
+          <div className="flex flex-wrap items-center gap-2.5">
             <a
               href={game.officialUrl}
               target="_blank"
@@ -151,6 +180,23 @@ export async function GameHero({ game, locale }: GameHeroProps) {
               {t("officialSite")}
               <ArrowUpRight className="h-4 w-4" />
             </a>
+            {game.stores.map((store) => (
+              <a
+                key={`${store.platform}-${store.url}`}
+                href={store.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group inline-flex items-center gap-1.5 rounded-md border px-3 py-2 text-sm font-medium transition-all duration-150 hover:-translate-y-0.5"
+                style={{
+                  borderColor: `${theme.accent}40`,
+                  color: `${theme.text}cc`,
+                  background: `${theme.secondary}80`,
+                }}
+              >
+                {storeName[store.platform]}
+                <ArrowUpRight className="h-3.5 w-3.5 opacity-50 transition-opacity group-hover:opacity-100" />
+              </a>
+            ))}
           </div>
         </div>
       </div>

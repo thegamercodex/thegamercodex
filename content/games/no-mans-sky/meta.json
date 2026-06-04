@@ -13,18 +13,13 @@
       "model": "buy-to-play"
     },
     {
-      "platform": "epic",
-      "url": "https://store.epicgames.com/en-US/p/no-mans-sky",
-      "model": "buy-to-play"
-    },
-    {
       "platform": "gog",
       "url": "https://www.gog.com/en/game/no_mans_sky",
       "model": "buy-to-play"
     },
     {
       "platform": "playstation",
-      "url": "https://store.playstation.com/en-us/product/UP4040-CUSA03952_00-NOMANSSKY0000000",
+      "url": "https://store.playstation.com/en-us/product/UP2034-PPSA02110_00-NOMANSSKYHG00001",
       "model": "buy-to-play"
     },
     {

@@ -11,11 +11,6 @@
       "url": "https://store.steampowered.com/app/3932890/Escape_from_Tarkov/",
       "appId": "3932890",
       "model": "buy-to-play"
-    },
-    {
-      "platform": "epic",
-      "url": "https://store.epicgames.com/en-US/p/escape-from-tarkov",
-      "model": "buy-to-play"
     }
   ],
   "monetization": {
