@@ -4,6 +4,7 @@ import { BrandImage } from "@/components/BrandImage";
 import { GameExplorer } from "@/components/GameExplorer";
 import { StatsStrip } from "@/components/StatsStrip";
 import { getGames } from "@/lib/content";
+import { getGameAddedDates, getEarliestChangelogDate } from "@/lib/changelog";
 import { jsonLdScript, websiteJsonLd } from "@/lib/jsonld";
 import type { Locale } from "@/types";
 
@@ -35,6 +36,13 @@ export default async function HomePage({
   const t = await getTranslations("home");
   const games = await getGames();
   const loc = locale as Locale;
+
+  // When each game was added to the codex (from the changelog), used for sorting.
+  const rawDates = getGameAddedDates();
+  const fallbackDate = getEarliestChangelogDate() ?? "1970-01-01";
+  const addedDates: Record<string, string> = Object.fromEntries(
+    games.map((g) => [g.id, rawDates[g.id] ?? fallbackDate]),
+  );
 
   return (
     <main className="mx-auto w-full max-w-6xl flex-1 px-6 pb-24">
@@ -80,7 +88,7 @@ export default async function HomePage({
       </section>
 
       <section id="games" className="scroll-mt-24 pt-4">
-        <GameExplorer games={games} locale={loc} />
+        <GameExplorer games={games} locale={loc} addedDates={addedDates} />
       </section>
     </main>
   );

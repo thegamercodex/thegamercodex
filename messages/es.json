@@ -100,7 +100,12 @@
     "viewList": "Ver como lista",
     "lastVerified": "Verificada",
     "searchGamesPlaceholder": "Buscar juegos por nombre, género o palabra clave…",
-    "matchCountGames": "{count, plural, =0 {sin juegos} one {# juego} other {# juegos}}"
+    "matchCountGames": "{count, plural, =0 {sin juegos} one {# juego} other {# juegos}}",
+    "sortBy": "Ordenar por",
+    "sortDateDesc": "Recientes primero",
+    "sortDateAsc": "Antiguos primero",
+    "sortNameAsc": "Nombre (A–Z)",
+    "sortNameDesc": "Nombre (Z–A)"
   },
   "theme": {
     "label": "Tema",

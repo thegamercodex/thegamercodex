@@ -151,6 +151,36 @@ export function getMostRecentChangelogDate(): string | null {
 }
 
 /**
+ * Maps each gameId to the date it was added to the codex (`YYYY-MM-DD`), derived
+ * from the changelog's `type: game, action: added` events — the source of truth.
+ * When a game appears in more than one entry, the earliest date wins. Games with
+ * no such event are simply absent; callers should fall back to {@link getEarliestChangelogDate}.
+ */
+export function getGameAddedDates(): Record<string, string> {
+  const entries = getChangelogEntries();
+  const dates: Record<string, string> = {};
+  for (const entry of entries) {
+    for (const ev of entry.events) {
+      if (ev.type === "game" && ev.action === "added" && ev.gameId) {
+        const current = dates[ev.gameId];
+        if (!current || entry.date < current) dates[ev.gameId] = entry.date;
+      }
+    }
+  }
+  return dates;
+}
+
+/** Earliest changelog date overall — the codex launch. Null when no entries exist. */
+export function getEarliestChangelogDate(): string | null {
+  const entries = getChangelogEntries();
+  let earliest: string | null = null;
+  for (const entry of entries) {
+    if (earliest === null || entry.date < earliest) earliest = entry.date;
+  }
+  return earliest;
+}
+
+/**
  * Days elapsed between today and the most recent changelog entry.
  * Returns null when there is no changelog yet.
  */

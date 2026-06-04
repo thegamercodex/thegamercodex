@@ -100,7 +100,12 @@
     "viewList": "List view",
     "lastVerified": "Verified",
     "searchGamesPlaceholder": "Search games by name, genre, or keyword…",
-    "matchCountGames": "{count, plural, =0 {no games} one {# game} other {# games}}"
+    "matchCountGames": "{count, plural, =0 {no games} one {# game} other {# games}}",
+    "sortBy": "Sort by",
+    "sortDateDesc": "Newest first",
+    "sortDateAsc": "Oldest first",
+    "sortNameAsc": "Name (A–Z)",
+    "sortNameDesc": "Name (Z–A)"
   },
   "theme": {
     "label": "Theme",

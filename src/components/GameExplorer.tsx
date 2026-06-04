@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 import Fuse from "fuse.js";
-import { Search, X } from "lucide-react";
+import { Search, X, ArrowUpDown, ChevronDown } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { GameCard } from "./GameCard";
 import type { Game, Locale, MonetizationModel } from "@/types";
@@ -10,7 +10,11 @@ import type { Game, Locale, MonetizationModel } from "@/types";
 interface GameExplorerProps {
   games: Game[];
   locale: Locale;
+  /** gameId -> date added to the codex (YYYY-MM-DD), for date sorting. */
+  addedDates: Record<string, string>;
 }
+
+type SortKey = "date-desc" | "date-asc" | "name-asc" | "name-desc";
 
 const CANONICAL_GENRES = [
   "arpg",
@@ -43,7 +47,7 @@ const MONETIZATION_MODELS: MonetizationModel[] = [
   "freemium",
 ];
 
-export function GameExplorer({ games, locale }: GameExplorerProps) {
+export function GameExplorer({ games, locale, addedDates }: GameExplorerProps) {
   const t = useTranslations("filters");
   const tMon = useTranslations("monetization");
 
@@ -52,6 +56,7 @@ export function GameExplorer({ games, locale }: GameExplorerProps) {
   const [selectedMonetization, setSelectedMonetization] = useState<
     Set<MonetizationModel>
   >(new Set());
+  const [sort, setSort] = useState<SortKey>("date-desc");
 
   const fuse = useMemo(
     () =>
@@ -104,6 +109,28 @@ export function GameExplorer({ games, locale }: GameExplorerProps) {
     });
   }, [query, fuse, games, selectedGenres, selectedMonetization]);
 
+  const sorted = useMemo(() => {
+    const arr = [...filtered];
+    const byNameAsc = (a: Game, b: Game) => a.name.localeCompare(b.name);
+    const dateOf = (g: Game) => addedDates[g.id] ?? "";
+    switch (sort) {
+      case "name-asc":
+        arr.sort(byNameAsc);
+        break;
+      case "name-desc":
+        arr.sort((a, b) => byNameAsc(b, a));
+        break;
+      case "date-asc":
+        arr.sort((a, b) => dateOf(a).localeCompare(dateOf(b)) || byNameAsc(a, b));
+        break;
+      case "date-desc":
+      default:
+        arr.sort((a, b) => dateOf(b).localeCompare(dateOf(a)) || byNameAsc(a, b));
+        break;
+    }
+    return arr;
+  }, [filtered, sort, addedDates]);
+
   const toggleGenre = (genre: string) => {
     setSelectedGenres((prev) => {
       const next = new Set(prev);
@@ -131,28 +158,52 @@ export function GameExplorer({ games, locale }: GameExplorerProps) {
   return (
     <div className="space-y-6">
       <div className="flex flex-col gap-3">
-        <div className="relative">
-          <Search
-            className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-foreground-subtle"
-            aria-hidden
-          />
-          <input
-            type="search"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            placeholder={t("searchGamesPlaceholder")}
-            className="w-full rounded-lg border border-border bg-muted/40 py-2 pl-9 pr-9 text-sm placeholder:text-foreground-subtle focus:border-accent/60 focus:outline-none focus:ring-1 focus:ring-accent/40"
-          />
-          {query && (
-            <button
-              type="button"
-              onClick={() => setQuery("")}
-              aria-label={t("clear")}
-              className="absolute right-2 top-1/2 -translate-y-1/2 rounded p-1 text-foreground-subtle hover:text-foreground"
+        <div className="flex flex-col gap-2 sm:flex-row sm:items-center">
+          <div className="relative flex-1">
+            <Search
+              className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-foreground-subtle"
+              aria-hidden
+            />
+            <input
+              type="search"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              placeholder={t("searchGamesPlaceholder")}
+              className="w-full rounded-lg border border-border bg-muted/40 py-2 pl-9 pr-9 text-sm placeholder:text-foreground-subtle focus:border-accent/60 focus:outline-none focus:ring-1 focus:ring-accent/40"
+            />
+            {query && (
+              <button
+                type="button"
+                onClick={() => setQuery("")}
+                aria-label={t("clear")}
+                className="absolute right-2 top-1/2 -translate-y-1/2 rounded p-1 text-foreground-subtle hover:text-foreground"
+              >
+                <X className="h-3.5 w-3.5" />
+              </button>
+            )}
+          </div>
+
+          <div className="relative shrink-0 sm:w-56">
+            <ArrowUpDown
+              className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-foreground-subtle"
+              aria-hidden
+            />
+            <select
+              value={sort}
+              onChange={(e) => setSort(e.target.value as SortKey)}
+              aria-label={t("sortBy")}
+              className="w-full cursor-pointer appearance-none rounded-lg border border-border bg-muted/40 py-2 pl-9 pr-8 text-sm text-foreground focus:border-accent/60 focus:outline-none focus:ring-1 focus:ring-accent/40"
             >
-              <X className="h-3.5 w-3.5" />
-            </button>
-          )}
+              <option value="date-desc">{t("sortDateDesc")}</option>
+              <option value="date-asc">{t("sortDateAsc")}</option>
+              <option value="name-asc">{t("sortNameAsc")}</option>
+              <option value="name-desc">{t("sortNameDesc")}</option>
+            </select>
+            <ChevronDown
+              className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-foreground-subtle"
+              aria-hidden
+            />
+          </div>
         </div>
 
         <div className="flex flex-wrap items-center gap-1.5">
@@ -213,13 +264,13 @@ export function GameExplorer({ games, locale }: GameExplorerProps) {
         )}
       </div>
 
-      {filtered.length === 0 ? (
+      {sorted.length === 0 ? (
         <p className="rounded-lg border border-border bg-muted/40 p-6 text-center text-sm text-foreground-muted">
           {t("noResults")}
         </p>
       ) : (
         <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-          {filtered.map((game) => (
+          {sorted.map((game) => (
             <GameCard key={game.id} game={game} locale={locale} />
           ))}
         </div>
