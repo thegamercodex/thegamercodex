@@ -307,7 +307,24 @@ gameAdded: "diablo-4"      # opcional; matchea un game id. Activa el badge "Nuev
 ---
 ```
 
-**Body bilingüe**: usar fences `<!-- es -->` y `<!-- en -->`. Sintaxis convencional [Keep a Changelog](https://keepachangelog.com): secciones **Añadido**, **Cambiado**, **Arreglado**, **Removido**.
+**Formato corto (obligatorio)**: las entries se leen de un vistazo, no son un dump. Mantener todo conciso:
+
+- **`summaryEs`/`summaryEn`**: 1–2 frases, **máx ~280 caracteres**. Incluir solo: nombre del juego/release, developer (si es game-added), un descriptor corto, y los counts headline (tools / creators / resources / comparativas / stack). **NO** enumerar tool por tool ni meter fechas de launch, revenue, appIds, etc. en el summary.
+- **`events[]`** (opcional, para releases con varias adiciones): array que representa el delta del release y se renderiza como lista estructurada. Cada event:
+  ```yaml
+  events:
+    - type: game            # game | comparison | tool | creator | stack | moved
+      action: added         # added | removed | updated | moved
+      name: "Diablo 4"      # nombre legible; acá vive el keyword surface (no en el summary)
+      gameId: diablo-4
+      noteEs: "12 tools en 6 categorías, 5 creators, 25 resources, 7 comparativas y un stack."
+      noteEn: "12 tools across 6 categories, 5 creators, 25 resources, 7 comparisons, and a stack."
+  ```
+  - **`noteEs`/`noteEn`**: **una línea cada una** (~140 chars; el note del event `game` puede llegar a ~180 para cubrir categorías + counts). Para `type: comparison`, usar el patrón compacto `"Categoría: A vs B — distinción corta"`.
+  - Los `name`/`gameId`/`type`/`action` son la parte estructural — los nombres de tools y comparativas van **ahí**, no enumerados en el summary.
+- **Referencia canónica**: `content/changelog/2026-06-03-marvel-rivals-added.md` (summary ~240 chars + notas de una línea). Igualar esa densidad.
+
+**Body bilingüe** (opcional, solo si la entry necesita prosa extra más allá del summary + events): usar fences `<!-- es -->` y `<!-- en -->`. Sintaxis convencional [Keep a Changelog](https://keepachangelog.com): secciones **Añadido**, **Cambiado**, **Arreglado**, **Removido**.
 
 ```markdown
 <!-- es -->
