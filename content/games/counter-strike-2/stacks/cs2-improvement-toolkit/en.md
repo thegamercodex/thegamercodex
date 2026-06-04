@@ -1,9 +1,9 @@
 ---
 title: The CS2 improvement toolkit
-description: Five tools that cover the improvement cycle in Counter-Strike 2 — warm up, play, analyze, and fix. The stack for climbing ranks with data instead of blind hours.
+description: Six tools that cover the improvement cycle in Counter-Strike 2 — warm up, play, analyze, and fix. The stack for climbing ranks with data instead of blind hours.
 ---
 
-In Counter-Strike 2, hours played don't guarantee improvement. What improves you is training the right things, reviewing your matches, and fixing concrete mistakes. The problem is the game gives you none of those three layers: no feedback, no analysis, no structured practice. This five-tool stack adds them for free and covers the full cycle.
+In Counter-Strike 2, hours played don't guarantee improvement. What improves you is training the right things, reviewing your matches, and fixing concrete mistakes. The problem is the game gives you none of those three layers: no feedback, no analysis, no structured practice. This six-tool stack adds them for free and covers the full cycle.
 
 ## The improvement cycle
 
@@ -13,7 +13,9 @@ In Counter-Strike 2, hours played don't guarantee improvement. What improves you
 
 Above it all, **CS Stats** gives you the long-term picture: your rank, per-map stats, and how your performance evolves week to week, so you know whether what you're practicing is working. And for utility —where many rounds are lost— **CSNades.gg** gives you the smoke, flash, and molotov lineups by map so you stop improvising.
 
-## Why these five
+**In-match**, **Simple Radar** adds the visual-clarity layer: it replaces the default radar with a more readable one —better contrast, clearer callouts— so you read the minimap at a glance. It's a small install but it improves your awareness round to round without touching gameplay.
+
+## Why these six
 
 Each attacks a part of the cycle without overlapping:
 
@@ -22,5 +24,6 @@ Each attacks a part of the cycle without overlapping:
 - **Deep demo analysis** → Scope.gg
 - **Progress tracking** → CS Stats
 - **Per-map utility** → CSNades.gg
+- **Radar visual clarity** → Simple Radar
 
 This isn't a stack for relaxed play; it's for the player who wants to climb with method. Each tool has its full analysis in the codex.

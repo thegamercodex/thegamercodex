@@ -27,6 +27,11 @@
       "toolId": "csnades-gg",
       "roleEs": "Librería de lineups de smokes, flashes y molotovs por mapa, para dejar de improvisar la utility.",
       "roleEn": "Library of smoke, flash, and molotov lineups by map, so you stop improvising your utility."
+    },
+    {
+      "toolId": "simple-radar",
+      "roleEs": "La capa de claridad visual: reemplaza el radar default por uno más legible para que proceses la info del minimap más rápido en plena partida.",
+      "roleEn": "The visual-clarity layer: replaces the default radar with a more readable one so you process minimap info faster mid-round."
     }
   ]
 }

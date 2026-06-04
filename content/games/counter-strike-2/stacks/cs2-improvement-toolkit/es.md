@@ -1,9 +1,9 @@
 ---
 title: El toolkit para mejorar en CS2
-description: Cinco herramientas que cubren el ciclo de mejora en Counter-Strike 2 — calentar, jugar, analizar y corregir. El stack para subir de rank con datos en vez de horas a ciegas.
+description: Seis herramientas que cubren el ciclo de mejora en Counter-Strike 2 — calentar, jugar, analizar y corregir. El stack para subir de rank con datos en vez de horas a ciegas.
 ---
 
-En Counter-Strike 2 las horas jugadas no garantizan mejorar. Lo que mejora es entrenar lo correcto, revisar tus partidas y corregir errores concretos. El problema es que el juego no te da ninguna de esas tres capas: ni feedback, ni análisis, ni práctica estructurada. Este stack de cinco herramientas las agrega sin costo y cubre el ciclo completo.
+En Counter-Strike 2 las horas jugadas no garantizan mejorar. Lo que mejora es entrenar lo correcto, revisar tus partidas y corregir errores concretos. El problema es que el juego no te da ninguna de esas tres capas: ni feedback, ni análisis, ni práctica estructurada. Este stack de seis herramientas las agrega sin costo y cubre el ciclo completo.
 
 ## El ciclo de mejora
 
@@ -13,7 +13,9 @@ En Counter-Strike 2 las horas jugadas no garantizan mejorar. Lo que mejora es en
 
 Por encima de todo, **CS Stats** te da el panorama de largo plazo: tu rank, stats por mapa y cómo evoluciona tu desempeño semana a semana, así sabes si lo que estás practicando funciona. Y para la utility —donde se pierden muchas rondas— **CSNades.gg** te da los lineups de smokes, flashes y molotovs por mapa para que dejes de improvisar.
 
-## Por qué estas cinco
+**Dentro de la partida**, **Simple Radar** suma la capa de claridad visual: reemplaza el radar default por uno más legible —mejor contraste, callouts más visibles— para que leas el minimap de un vistazo. Es un cambio chico de instalar pero que mejora tu awareness ronda a ronda sin tocar el gameplay.
+
+## Por qué estas seis
 
 Cada una ataca una parte del ciclo sin solaparse:
 
@@ -22,5 +24,6 @@ Cada una ataca una parte del ciclo sin solaparse:
 - **Análisis profundo de demos** → Scope.gg
 - **Tracking de progreso** → CS Stats
 - **Utility por mapa** → CSNades.gg
+- **Claridad visual del radar** → Simple Radar
 
 No es un stack para jugar relajado; es para el que quiere subir de rank con método. Cada herramienta tiene su análisis completo en el codex.
