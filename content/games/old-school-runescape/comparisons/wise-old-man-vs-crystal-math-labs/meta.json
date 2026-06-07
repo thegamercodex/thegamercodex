@@ -1,0 +1,46 @@
+{
+  "id": "wise-old-man-vs-crystal-math-labs",
+  "toolIds": ["wise-old-man", "crystal-math-labs"],
+  "category": "xp-tracking",
+  "depth": "short",
+  "lastVerified": "2026-06-05",
+  "verdictEs": "Wise Old Man si quieres el tracker moderno y mantenido activamente: UI limpia, plugin de RuneLite, bot de Discord y competiciones de clan. Crystal Math Labs si valoras el registro histórico más profundo del juego — es el tracker original que inventó el EHP — aunque su UI es vieja. Usuarios nuevos van a WOM; puristas de EHP e historial largo van a CML.",
+  "verdictEn": "Wise Old Man if you want the modern, actively maintained tracker: clean UI, RuneLite plugin, Discord bot, and clan competitions. Crystal Math Labs if you value the deepest historical record in the game — it's the original tracker that invented EHP — even if its UI is dated. New users go to WOM; EHP purists and long-history accounts go to CML.",
+  "useCases": [
+    {
+      "labelEs": "Empezar a trackear como jugador nuevo",
+      "labelEn": "Starting to track as a new player",
+      "winner": "wise-old-man",
+      "reasonEs": "La UI moderna de WOM y el plugin de RuneLite hacen que el onboarding sea de minutos, sin curva de aprendizaje.",
+      "reasonEn": "WOM's modern UI and RuneLite plugin make onboarding a matter of minutes, with no learning curve."
+    },
+    {
+      "labelEs": "Consultar XP histórica de hace 10 años de una cuenta",
+      "labelEn": "Pulling 10-year historical XP data for an account",
+      "winner": "crystal-math-labs",
+      "reasonEs": "CML tiene el dataset histórico más largo y completo del juego por ser el tracker original; cuentas viejas tienen registros que ningún otro tracker posee.",
+      "reasonEn": "CML has the longest, most complete historical dataset in the game as the original tracker; old accounts have records no other tracker holds."
+    },
+    {
+      "labelEs": "Correr una competición de clan con leaderboard en vivo",
+      "labelEn": "Running a clan competition with a live leaderboard",
+      "winner": "wise-old-man",
+      "reasonEs": "WOM tiene competiciones nativas y un bot de Discord que automatiza anuncios y resultados — CML no apunta a este caso.",
+      "reasonEn": "WOM has native competitions and a Discord bot that automates announcements and results — CML doesn't target this case."
+    },
+    {
+      "labelEs": "Referencia histórica de EHP como concepto de origen",
+      "labelEn": "Historical EHP reference as the origin concept",
+      "winner": "crystal-math-labs",
+      "reasonEs": "CML pionereó el EHP; es la fuente de origen del concepto y mantiene el registro de eficiencia de más largo alcance.",
+      "reasonEn": "CML pioneered EHP; it's the origin source of the concept and holds the longest-reaching efficiency record."
+    },
+    {
+      "labelEs": "Mantener el roster de un clan actualizado solo",
+      "labelEn": "Keeping a clan roster updated automatically",
+      "winner": "wise-old-man",
+      "reasonEs": "El plugin de RuneLite y el bot de WOM actualizan a los miembros automáticamente; el tracking de name changes mantiene el roster limpio.",
+      "reasonEn": "WOM's RuneLite plugin and bot update members automatically; name change tracking keeps the roster clean."
+    }
+  ]
+}

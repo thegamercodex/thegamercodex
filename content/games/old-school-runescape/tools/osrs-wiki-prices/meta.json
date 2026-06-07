@@ -1,0 +1,30 @@
+{
+  "id": "osrs-wiki-prices",
+  "name": "OSRS Wiki Real-time Prices",
+  "shortName": "Wiki Prices",
+  "taglineEs": "El feed de precios del Grand Exchange del OSRS Wiki, mantenido por Weirdgloop y nutrido por jugadores con RuneLite. La fuente de datos gratuita y abierta que alimenta a otras tools.",
+  "taglineEn": "The OSRS Wiki's Grand Exchange price feed, maintained by Weirdgloop and fed by RuneLite players. The free, open data source that powers other tools.",
+  "url": "https://prices.runescape.wiki",
+  "category": "economy",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": null,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["prices", "grand-exchange", "data-source", "api", "weirdgloop", "runelite", "free"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/old-school-runescape/osrs-wiki-prices-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["ge-tracker", "osrs-exchange"],
+  "alternatives": ["ge-tracker", "osrs-exchange"],
+  "createdBy": {
+    "name": "Weirdgloop",
+    "url": "https://weirdgloop.org"
+  }
+}

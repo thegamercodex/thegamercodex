@@ -1,0 +1,29 @@
+{
+  "id": "temple-osrs",
+  "name": "TempleOSRS",
+  "shortName": "Temple",
+  "taglineEs": "Sitio de tracking y estadísticas de OSRS con datos profundos: EHP/EHB, drop logs, collection log, competencias y herramientas de clan.",
+  "taglineEn": "OSRS tracking and statistics site with deep data: maintained EHP/EHB rates, drop logs, collection log tracking, competitions and clan tools.",
+  "url": "https://templeosrs.com",
+  "category": "xp-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["xp-tracking", "ehp", "ehb", "collection-log", "drop-log", "competitions", "groups"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/old-school-runescape/temple-osrs-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["wise-old-man", "crystal-math-labs"],
+  "alternatives": ["wise-old-man", "crystal-math-labs"],
+  "createdBy": {
+    "name": "TempleOSRS"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "category": "money-making",
+  "resources": [
+    {
+      "id": "flippingoldschool-0gp-from-scratch-osrs",
+      "type": "video",
+      "title": "How Much Money Can I Make from Scratch Starting with 0 GP?",
+      "creator": "FlippingOldschool",
+      "creatorId": "flippingoldschool",
+      "url": "https://www.youtube.com/watch?v=6psGmtyqHXY",
+      "youtubeId": "6psGmtyqHXY",
+      "language": "en",
+      "duration": "3:22:42",
+      "publishedDate": "2026-05-31",
+      "thumbnail": "https://i.ytimg.com/vi/6psGmtyqHXY/maxresdefault.jpg",
+      "noteEs": "Reto de hacer dinero desde 0 GP que muestra en la práctica métodos de early game y cómo escalar el bankroll. Útil para ver el money making en acción, no solo en teoría.",
+      "noteEn": "A from-scratch 0 GP money-making challenge that shows early-game methods in practice and how to scale a bankroll. Great for seeing money making in action, not just in theory."
+    },
+    {
+      "id": "flippingoldschool-15-powerful-items-osrs",
+      "type": "video",
+      "title": "15 Powerful Items You Didn't Know Existed in OSRS!",
+      "creator": "FlippingOldschool",
+      "creatorId": "flippingoldschool",
+      "url": "https://www.youtube.com/watch?v=XPhzFVqyAvI",
+      "youtubeId": "XPhzFVqyAvI",
+      "language": "en",
+      "duration": "14:54",
+      "publishedDate": "2026-05-22",
+      "thumbnail": "https://i.ytimg.com/vi/XPhzFVqyAvI/maxresdefault.jpg",
+      "noteEs": "Recorrido por items poco conocidos con usos potentes en la economía y el día a día. Buen complemento para entender qué buscar al flippear y al optimizar tu cuenta.",
+      "noteEn": "A rundown of lesser-known items with powerful uses in the economy and daily play. A good complement for understanding what to look for when flipping and optimizing your account."
+    },
+    {
+      "id": "patyfatycake-early-game-money-makers-osrs",
+      "type": "video",
+      "title": "The Best OSRS Early Game Money Makers 2025",
+      "creator": "Patyfatycake",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=X2saj5nBUfE",
+      "youtubeId": "X2saj5nBUfE",
+      "language": "en",
+      "duration": "22:57",
+      "publishedDate": "2025-08-04",
+      "thumbnail": "https://i.ytimg.com/vi/X2saj5nBUfE/maxresdefault.jpg",
+      "noteEs": "Selección de los mejores métodos de gold por hora para cuentas de bajo nivel, con requisitos accesibles. Pensado para juntar tus primeros millones sin endgame.",
+      "noteEn": "A pick of the best gold-per-hour methods for low-level accounts with accessible requirements. Aimed at earning your first few million without endgame content."
+    },
+    {
+      "id": "kaoz-testing-wiki-money-makers-osrs",
+      "type": "video",
+      "title": "Testing OSRS Wiki Money Makers In 2025",
+      "creator": "Kaoz OSRS",
+      "creatorId": "kaoz-osrs",
+      "url": "https://www.youtube.com/watch?v=LeU63S5He-4",
+      "youtubeId": "LeU63S5He-4",
+      "language": "en",
+      "duration": "19:49",
+      "publishedDate": "2025-02-24",
+      "thumbnail": "https://i.ytimg.com/vi/LeU63S5He-4/maxresdefault.jpg",
+      "noteEs": "Prueba en vivo de los gp/hr que la wiki promete para varios métodos, contrastando teoría contra realidad. Útil para elegir métodos con expectativas realistas.",
+      "noteEn": "A live test of the gp/hr the wiki promises for several methods, comparing theory against reality. Useful for picking methods with realistic expectations."
+    },
+    {
+      "id": "kaoz-175-money-making-methods-osrs",
+      "type": "video",
+      "title": "175 OSRS Money Making Methods - AFK, PvM, Skilling, Bosses, F2P, & More!",
+      "creator": "Kaoz OSRS",
+      "creatorId": "kaoz-osrs",
+      "url": "https://www.youtube.com/watch?v=IQ3tOFlegNU",
+      "youtubeId": "IQ3tOFlegNU",
+      "language": "en",
+      "duration": "41:09",
+      "publishedDate": "2022-10-24",
+      "thumbnail": "https://i.ytimg.com/vi/IQ3tOFlegNU/maxresdefault.jpg",
+      "noteEs": "Catálogo masivo de 175 métodos de dinero organizados por tipo: AFK, PvM, skilling, bosses y F2P. Sirve como índice para encontrar uno que encaje con tu cuenta.",
+      "noteEn": "A massive catalog of 175 money-making methods organized by type: AFK, PvM, skilling, bosses, and F2P. Works as an index to find one that fits your account."
+    }
+  ]
+}

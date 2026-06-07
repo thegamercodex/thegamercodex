@@ -1,0 +1,46 @@
+{
+  "id": "wise-old-man-vs-temple-osrs",
+  "toolIds": ["wise-old-man", "temple-osrs"],
+  "category": "xp-tracking",
+  "depth": "flagship",
+  "lastVerified": "2026-06-05",
+  "verdictEs": "Wise Old Man si quieres el tracker moderno por default: UI limpia, plugin de RuneLite y bot de Discord que actualizan stats solos, competiciones Skill/Boss of the Week y tracking de clan sin fricción. TEMPLE OSRS si eres power user y quieres la data más profunda: rates de EHP/EHB mantenidos activamente, drop logs y tracking de collection log que WOM no cubre.",
+  "verdictEn": "Wise Old Man if you want the modern default tracker: clean UI, a RuneLite plugin and Discord bot that auto-update stats, Skill/Boss of the Week competitions, and frictionless clan tracking. TEMPLE OSRS if you're a power user who wants the deepest data: actively maintained EHP/EHB rates, drop logs, and collection log tracking that WOM doesn't cover.",
+  "useCases": [
+    {
+      "labelEs": "Correr una competición Skill of the Week de tu clan",
+      "labelEn": "Running your clan's Skill of the Week competition",
+      "winner": "wise-old-man",
+      "reasonEs": "WOM tiene competiciones nativas con leaderboard en vivo, y el bot de Discord postea el progreso y los resultados en tu servidor sin trabajo manual.",
+      "reasonEn": "WOM has native competitions with a live leaderboard, and the Discord bot posts progress and results to your server with no manual work."
+    },
+    {
+      "labelEs": "Seguir tu progreso de collection log",
+      "labelEn": "Tracking your collection log progress",
+      "winner": "temple-osrs",
+      "reasonEs": "TEMPLE asumió gran parte de lo que hacía collectionlog.net y trackea el collection log entry por entry — algo que WOM no cubre.",
+      "reasonEn": "TEMPLE took over much of what collectionlog.net did and tracks the collection log entry by entry — something WOM doesn't cover."
+    },
+    {
+      "labelEs": "Auto-actualizar tus stats desde RuneLite mientras juegas",
+      "labelEn": "Auto-updating your stats from RuneLite while you play",
+      "winner": "wise-old-man",
+      "reasonEs": "El plugin de RuneLite de WOM es el más pulido del ecosistema: actualiza tu perfil al loguear sin que tengas que tocar la web.",
+      "reasonEn": "WOM's RuneLite plugin is the most polished in the ecosystem: it updates your profile on login without you ever opening the site."
+    },
+    {
+      "labelEs": "Ver drop logs detallados de tus runs de boss",
+      "labelEn": "Viewing detailed drop logs from your boss runs",
+      "winner": "temple-osrs",
+      "reasonEs": "TEMPLE registra drops por boss con totales y rates, una capa de data que WOM no expone.",
+      "reasonEn": "TEMPLE records drops per boss with totals and rates, a data layer WOM doesn't expose."
+    },
+    {
+      "labelEs": "Onboarding rápido para un jugador nuevo o un clan casual",
+      "labelEn": "Quick onboarding for a new player or a casual clan",
+      "winner": "wise-old-man",
+      "reasonEs": "La UI moderna de WOM y las integraciones plug-and-play hacen que empezar a trackear sea cuestión de minutos, sin curva de aprendizaje.",
+      "reasonEn": "WOM's modern UI and plug-and-play integrations make starting to track a matter of minutes, with no learning curve."
+    }
+  ]
+}

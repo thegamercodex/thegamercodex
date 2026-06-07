@@ -1,0 +1,30 @@
+{
+  "id": "osrs-wiki-dps-calc",
+  "name": "OSRS Wiki DPS Calculator",
+  "shortName": "Wiki DPS Calc",
+  "taglineEs": "La calculadora de DPS canónica de OSRS, mantenida por Weirdgloop: arma un loadout y obtén max hit, accuracy, DPS y time-to-kill exactos.",
+  "taglineEn": "The canonical OSRS DPS calculator maintained by Weirdgloop: build a loadout and get exact max hit, accuracy, DPS and time-to-kill.",
+  "url": "https://dps.osrs.wiki",
+  "category": "combat-gear",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/weirdgloop/osrs-dps-calc",
+  "license": "GPL-3.0",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["dps", "max-hit", "loadout", "combat", "wiki", "open-source"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/old-school-runescape/osrs-wiki-dps-calc-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["gearscape", "osrs-best-in-slot", "osrs-wiki"],
+  "alternatives": ["gearscape", "osrs-best-in-slot"],
+  "createdBy": {
+    "name": "Weirdgloop",
+    "url": "https://weirdgloop.org"
+  }
+}

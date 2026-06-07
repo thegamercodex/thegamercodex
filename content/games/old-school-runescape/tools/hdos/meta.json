@@ -1,0 +1,30 @@
+{
+  "id": "hdos",
+  "name": "HDOS",
+  "shortName": "HDOS",
+  "taglineEs": "Cliente standalone aprobado por Jagex que emula el look RuneScape HD de 2008 con render nativo en alta definicion y mayor view distance.",
+  "taglineEn": "Jagex-approved standalone client that emulates the 2008 RuneScape HD look with native high-definition rendering and extended view distance.",
+  "url": "https://hdos.dev",
+  "category": "clients",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["windows", "macos", "linux"],
+  "languages": ["en"],
+  "tags": ["client", "hd-graphics", "performance", "jagex-approved"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/old-school-runescape/hdos-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["runelite"],
+  "alternatives": ["runelite"],
+  "createdBy": {
+    "name": "HDOS Team",
+    "url": "https://hdos.dev"
+  }
+}

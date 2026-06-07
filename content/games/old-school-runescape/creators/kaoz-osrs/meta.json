@@ -1,0 +1,42 @@
+{
+  "id": "kaoz-osrs",
+  "name": "Kaoz OSRS",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2019,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@KaozOSRS",
+      "url": "https://www.youtube.com/@KaozOSRS",
+      "channelId": "UClfDeEJO8mZCNOsM1xC9TRQ",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "money-making",
+    "bossing-guides",
+    "skilling-guides",
+    "updates-news"
+  ],
+  "games": ["old-school-runescape"],
+  "contentTypes": ["videos", "guides"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Un creator generalista de guías de OSRS con uploads muy frecuentes y un catálogo enorme que cubre las tres caras del juego: money making, skilling y bossing. Es conocido por sus índices masivos —\"175 métodos de dinero\", la \"bossing ladder\" anual, los métodos AFK por skill— que funcionan como referencia rápida cuando no sabes qué hacer a continuación. Su valor está en la amplitud y la actualización constante: cuando cambia el meta, Kaoz suele tener un video al día siguiente.",
+  "noteEn": "A generalist OSRS guide creator with very frequent uploads and a huge catalog covering all three faces of the game: money making, skilling, and bossing. He's known for his massive index videos —\"175 money-making methods,\" the yearly \"bossing ladder,\" the best AFK method per skill— that work as a quick reference when you don't know what to do next. His value is breadth and constant updating: when the meta shifts, Kaoz usually has a video the next day.",
+  "highlightsEs": [
+    "Índices masivos de money making y bossing ladders anuales",
+    "Cobertura de skilling, dinero y PvM en un solo canal",
+    "Uploads muy frecuentes, reacciona rápido a cambios del meta",
+    "Buen punto de partida para decidir \"qué hago ahora\""
+  ],
+  "highlightsEn": [
+    "Massive money-making indexes and yearly bossing ladders",
+    "Skilling, money, and PvM coverage on a single channel",
+    "Very frequent uploads, reacts fast to meta changes",
+    "A good starting point to decide \"what do I do now\""
+  ],
+  "avatar": "/images/creators/kaoz-osrs-avatar.jpg",
+  "banner": "/images/creators/kaoz-osrs-banner.jpg"
+}

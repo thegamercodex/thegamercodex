@@ -1,0 +1,43 @@
+{
+  "id": "flippingoldschool",
+  "name": "FlippingOldschool",
+  "realName": "TraderSteve",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2016,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@FlippingOldschool",
+      "url": "https://www.youtube.com/@FlippingOldschool",
+      "channelId": "UCIi4nY4YuOYUJEg8XLM0vQw",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "economy",
+    "flipping",
+    "money-making",
+    "grand-exchange"
+  ],
+  "games": ["old-school-runescape"],
+  "contentTypes": ["videos", "guides"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "El creator que domina el nicho de la economía en OSRS. Conocido como TraderSteve, su proyecto central es maxear una cuenta haciendo dinero exclusivamente con flipping en el Grand Exchange, documentado en uploads consistentes de varios videos por semana. Más allá de las series, sus guías enseñan los fundamentos del flipping y el merching: cómo leer márgenes, qué items mover, cómo escalar capital. Si la pregunta es \"cómo hago gold sin grindear contenido\", FlippingOldschool es el referente.",
+  "noteEn": "The creator who dominates the economy niche in OSRS. Known as TraderSteve, his central project is maxing an account by making money exclusively through Grand Exchange flipping, documented in consistent uploads of several videos per week. Beyond the series, his guides teach the fundamentals of flipping and merching: how to read margins, which items to move, how to scale capital. If the question is \"how do I make gold without grinding content,\" FlippingOldschool is the reference.",
+  "highlightsEs": [
+    "Proyecto de maxear una cuenta solo con flipping en el GE",
+    "Uploads consistentes de varios videos por semana",
+    "Guías de fundamentos: márgenes, merching y escalado de capital",
+    "El nicho de economía y money making cubierto a fondo"
+  ],
+  "highlightsEn": [
+    "Project to max an account purely through GE flipping",
+    "Consistent uploads of several videos per week",
+    "Fundamentals guides: margins, merching, and capital scaling",
+    "The economy and money-making niche covered in depth"
+  ],
+  "avatar": "/images/creators/flippingoldschool-avatar.jpg",
+  "banner": "/images/creators/flippingoldschool-banner.jpg"
+}

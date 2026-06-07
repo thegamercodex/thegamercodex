@@ -1,0 +1,30 @@
+{
+  "id": "wise-old-man",
+  "name": "Wise Old Man",
+  "shortName": "WOM",
+  "taglineEs": "Tracker de progreso open source para OSRS con XP, EHP, EHB, competencias y un plugin oficial de RuneLite que actualiza tus stats solo.",
+  "taglineEn": "Open-source OSRS progress tracker covering XP, EHP, EHB, competitions and an official RuneLite plugin that auto-updates your stats.",
+  "url": "https://wiseoldman.net",
+  "category": "xp-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/wise-old-man/wise-old-man",
+  "license": "MIT",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["xp-tracking", "ehp", "ehb", "competitions", "runelite", "open-source", "groups"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/old-school-runescape/wise-old-man-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["temple-osrs", "crystal-math-labs", "runelite"],
+  "alternatives": ["temple-osrs", "crystal-math-labs"],
+  "createdBy": {
+    "name": "Wise Old Man",
+    "url": "https://wiseoldman.net"
+  }
+}

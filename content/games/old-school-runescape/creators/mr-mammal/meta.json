@@ -1,0 +1,42 @@
+{
+  "id": "mr-mammal",
+  "name": "Mr Mammal",
+  "country": "GB",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2017,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Mr_Mammal",
+      "url": "https://www.youtube.com/@Mr_Mammal",
+      "channelId": "UCEFGzRg4i7bBdoO-gORJEzw",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "clue-scrolls",
+    "ironman",
+    "series",
+    "chill-guides"
+  ],
+  "games": ["old-school-runescape"],
+  "contentTypes": ["videos", "series"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "El creator de OSRS para el contenido de ritmo tranquilo. Mr Mammal es conocido por sus clue scrolls, sus series de Ironman de larga duración (como su saga \"Farmers\") y un estilo relajado que funciona tanto de guía como de compañía de fondo. No persigue la optimización máxima ni el hype del endgame: muestra el lado coleccionista y exploratorio del juego, ese que disfruta el proceso. Para el jugador que busca contenido OSRS sin la intensidad del PvM tryhard, es una de las voces más queridas.",
+  "noteEn": "The OSRS creator for relaxed-pace content. Mr Mammal is known for his clue scrolls, his long-running Ironman series (like his \"Farmers\" saga), and a laid-back style that works both as a guide and as background company. He doesn't chase maximum optimization or endgame hype: he shows the collector's and explorer's side of the game, the one that enjoys the process. For the player looking for OSRS content without the intensity of PvM tryharding, he's one of the most beloved voices.",
+  "highlightsEs": [
+    "Contenido de clue scrolls y collection log",
+    "Series de Ironman de larga duración (saga \"Farmers\")",
+    "Estilo relajado, ideal como guía o compañía de fondo",
+    "El lado coleccionista y exploratorio del juego"
+  ],
+  "highlightsEn": [
+    "Clue scroll and collection log content",
+    "Long-running Ironman series (the \"Farmers\" saga)",
+    "Laid-back style, ideal as a guide or background company",
+    "The collector's and explorer's side of the game"
+  ],
+  "avatar": "/images/creators/mr-mammal-avatar.jpg",
+  "banner": "/images/creators/mr-mammal-banner.jpg"
+}

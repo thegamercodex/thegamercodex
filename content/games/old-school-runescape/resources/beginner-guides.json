@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "theoatrix-starter-guide-osrs",
+      "type": "video",
+      "title": "A Beginner's Guide To Old School RuneScape (OSRS Starter Guide)",
+      "creator": "Theoatrix OSRS",
+      "creatorId": "theoatrix-osrs",
+      "url": "https://www.youtube.com/watch?v=9YFTgB78bDY",
+      "youtubeId": "9YFTgB78bDY",
+      "language": "en",
+      "duration": "24:23",
+      "publishedDate": "2025-02-22",
+      "thumbnail": "https://i.ytimg.com/vi/9YFTgB78bDY/maxresdefault.jpg",
+      "noteEs": "Guía de arranque completa para cuentas nuevas: qué hacer al salir de Tutorial Island, primeras prioridades y cómo armar un plan de progresión. Ideal si nunca tocaste OSRS.",
+      "noteEn": "A complete starter guide for fresh accounts: what to do after Tutorial Island, early priorities, and how to build a progression plan. Perfect if you've never played OSRS."
+    },
+    {
+      "id": "protoxx-beginners-guide-osrs",
+      "type": "video",
+      "title": "A beginners guide to Runescape (2024)",
+      "creator": "Protoxx",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=WHlQ3RZ4eTw",
+      "youtubeId": "WHlQ3RZ4eTw",
+      "language": "en",
+      "duration": "21:47",
+      "publishedDate": "2024-10-28",
+      "thumbnail": "https://i.ytimg.com/vi/WHlQ3RZ4eTw/maxresdefault.jpg",
+      "noteEs": "Recorrido para principiantes que cubre lo esencial del early game: dinero, quests útiles y achievement diaries. Pensado para que un jugador nuevo no pierda horas.",
+      "noteEn": "A beginner walkthrough covering the early-game essentials: money, useful quests, and achievement diaries. Built so a new player doesn't waste hours."
+    },
+    {
+      "id": "wildmudkip-complete-beginner-osrs",
+      "type": "video",
+      "title": "COMPLETE beginner's guide to Old School Runescape",
+      "creator": "WildMudkip",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=amQGds9_ins",
+      "youtubeId": "amQGds9_ins",
+      "language": "en",
+      "duration": "40:07",
+      "publishedDate": "2024-02-22",
+      "thumbnail": "https://i.ytimg.com/vi/amQGds9_ins/maxresdefault.jpg",
+      "noteEs": "Guía larga y detallada que acompaña una cuenta nueva paso a paso por el early y mid game. Útil cuando quieres una referencia exhaustiva en un solo video.",
+      "noteEn": "A long, detailed guide that walks a fresh account step by step through the early and mid game. Useful when you want one exhaustive reference in a single video."
+    },
+    {
+      "id": "j1mmy-new-players-misguided-osrs",
+      "type": "video",
+      "title": "New Runescape Players Are Being Misguided (#3)",
+      "creator": "J1mmy",
+      "creatorId": "j1mmy",
+      "url": "https://www.youtube.com/watch?v=LWHCxGdSRDU",
+      "youtubeId": "LWHCxGdSRDU",
+      "language": "en",
+      "duration": "31:47",
+      "publishedDate": "2025-08-31",
+      "thumbnail": "https://i.ytimg.com/vi/LWHCxGdSRDU/maxresdefault.jpg",
+      "noteEs": "Una mirada crítica a los malos consejos que reciben los jugadores nuevos, con un enfoque más relajado sobre cómo disfrutar el juego sin obsesionarse con la eficiencia.",
+      "noteEn": "A critical look at the bad advice new players get, with a more laid-back take on enjoying the game without obsessing over efficiency."
+    },
+    {
+      "id": "theoatrix-101-tips-tricks-osrs",
+      "type": "video",
+      "title": "101 Tips & Tricks for OSRS (2026 Edition)",
+      "creator": "Theoatrix OSRS",
+      "creatorId": "theoatrix-osrs",
+      "url": "https://www.youtube.com/watch?v=dh5mMXDxGFk",
+      "youtubeId": "dh5mMXDxGFk",
+      "language": "en",
+      "duration": "18:19",
+      "publishedDate": "2026-05-16",
+      "thumbnail": "https://i.ytimg.com/vi/dh5mMXDxGFk/maxresdefault.jpg",
+      "noteEs": "101 tips rápidos que cubren atajos, quality of life y trucos que ahorran tiempo en todo el juego. Sirve tanto para principiantes como para volver tras una pausa.",
+      "noteEn": "101 quick tips covering shortcuts, quality-of-life features, and time-saving tricks across the whole game. Great for beginners and for players returning after a break."
+    }
+  ]
+}

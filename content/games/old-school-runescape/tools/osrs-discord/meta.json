@@ -1,0 +1,49 @@
+{
+  "id": "osrs-discord",
+  "name": "Old School RuneScape Discord",
+  "shortName": "Discord OSRS",
+  "taglineEs": "Discord oficial de Old School RuneScape: anuncios de Jagex, discusión en vivo, ayuda entre jugadores y línea directa con el equipo de desarrollo",
+  "taglineEn": "Official Old School RuneScape Discord: Jagex announcements, live discussion, peer help, and a direct line to the dev team",
+  "url": "https://discord.com/invite/osrs",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": [
+    "web",
+    "windows",
+    "macos",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "discord",
+    "community",
+    "official",
+    "announcements",
+    "discussion"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "osrs-subreddit"
+  ],
+  "alternatives": [
+    "osrs-subreddit"
+  ],
+  "createdBy": {
+    "name": "Jagex",
+    "url": "https://oldschool.runescape.com"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "runelite-vs-hdos",
+  "toolIds": ["runelite", "hdos"],
+  "category": "clients",
+  "depth": "flagship",
+  "lastVerified": "2026-06-05",
+  "verdictEs": "RuneLite si quieres el estándar de facto: más de mil plugins, quality-of-life profundo, Quest Helper, tile markers y tracking de cuentas. HDOS si la prioridad son los gráficos y el rendimiento: HD nativo, mayor view distance y más FPS que RuneLite con el plugin 117HD. No son excluyentes; muchos jugadores tienen los dos instalados y alternan según la sesión.",
+  "verdictEn": "RuneLite if you want the de facto standard: 1,000+ plugins, deep quality-of-life, Quest Helper, tile markers, and account tracking. HDOS if graphics and performance are the priority: native HD, greater view distance, and higher FPS than RuneLite running the 117HD plugin. They're not mutually exclusive; many players keep both installed and switch depending on the session.",
+  "useCases": [
+    {
+      "labelEs": "Aprender un boss nuevo con tile markers",
+      "labelEn": "Learning a new boss with tile markers",
+      "winner": "runelite",
+      "reasonEs": "RuneLite trae tile markers, ground markers y plugins de prayer/attack timing que convierten el aprendizaje de mecánicas en algo guiado. HDOS no tiene un ecosistema de plugins comparable para marcar tiles ni overlays de combate.",
+      "reasonEn": "RuneLite ships tile markers, ground markers, and prayer/attack-timing plugins that turn mechanic learning into a guided process. HDOS lacks a comparable plugin ecosystem for marking tiles or combat overlays."
+    },
+    {
+      "labelEs": "Maximizar FPS con la estética HD",
+      "labelEn": "Maximizing FPS on the HD aesthetic",
+      "winner": "hdos",
+      "reasonEs": "El render HD de HDOS es nativo, no un plugin sobre un cliente Java. En la práctica eso significa más FPS y frametimes más estables que RuneLite con 117HD activado, con la misma estética de alta definición.",
+      "reasonEn": "HDOS renders HD natively rather than as a plugin layered over a Java client. In practice that means higher FPS and steadier frametimes than RuneLite with 117HD enabled, at the same high-definition look."
+    },
+    {
+      "labelEs": "Workflow de quality-of-life basado en plugins",
+      "labelEn": "Plugin-driven quality-of-life workflow",
+      "winner": "runelite",
+      "reasonEs": "Con más de mil plugins en el Plugin Hub (XP overlays, drop tracking, inventory setups, menu swaps), RuneLite te deja armar un workflow a medida que HDOS no puede igualar por diseño.",
+      "reasonEn": "With 1,000+ plugins on the Plugin Hub (XP overlays, drop tracking, inventory setups, menu swaps), RuneLite lets you build a tailored workflow that HDOS can't match by design."
+    },
+    {
+      "labelEs": "Equipo de gama baja que aun quiere HD",
+      "labelEn": "Low-spec machine that still wants HD",
+      "winner": "hdos",
+      "reasonEs": "Si tu equipo no rinde bien con RuneLite + 117HD pero quieres gráficos HD, el render nativo de HDOS suele dar mejor framerate y mayor view distance con menos overhead. Es la opción cuando el hardware es justo.",
+      "reasonEn": "If your machine struggles with RuneLite + 117HD but you still want HD graphics, HDOS's native renderer usually delivers a better framerate and greater view distance with less overhead. It's the pick when hardware is tight."
+    },
+    {
+      "labelEs": "Tracking de cuenta y Quest Helper",
+      "labelEn": "Account tracking and Quest Helper",
+      "winner": "runelite",
+      "reasonEs": "RuneLite integra con Wise Old Man y TempleOSRS para tracking de XP y bosses, y el plugin Quest Helper guía cada quest paso a paso. HDOS no ofrece estas integraciones ni asistencia de quests.",
+      "reasonEn": "RuneLite integrates with Wise Old Man and TempleOSRS for XP and boss tracking, and the Quest Helper plugin walks you through every quest step by step. HDOS offers neither these integrations nor quest assistance."
+    }
+  ]
+}

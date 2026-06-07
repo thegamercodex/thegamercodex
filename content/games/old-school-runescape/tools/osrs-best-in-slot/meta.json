@@ -1,0 +1,29 @@
+{
+  "id": "osrs-best-in-slot",
+  "name": "OSRS Best in Slot",
+  "shortName": "OSRS BiS",
+  "taglineEs": "Calculadora de DPS y best-in-slot de OSRS: carga tu RSN, auto-equipa el mejor gear y compara los tres estilos contra cualquier boss.",
+  "taglineEn": "OSRS DPS and best-in-slot calculator: load your RSN, auto-equip the best gear and compare all three styles against any boss.",
+  "url": "https://www.osrsbestinslot.com",
+  "category": "combat-gear",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["dps", "best-in-slot", "hiscores", "auto-equip", "combat"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/old-school-runescape/osrs-best-in-slot-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["osrs-wiki-dps-calc", "gearscape"],
+  "alternatives": ["osrs-wiki-dps-calc", "gearscape"],
+  "createdBy": {
+    "name": "OSRS Best in Slot"
+  }
+}

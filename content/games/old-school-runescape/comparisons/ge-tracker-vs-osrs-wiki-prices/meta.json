@@ -1,0 +1,46 @@
+{
+  "id": "ge-tracker-vs-osrs-wiki-prices",
+  "toolIds": ["ge-tracker", "osrs-wiki-prices"],
+  "category": "economy",
+  "depth": "short",
+  "lastVerified": "2026-06-05",
+  "verdictEs": "GE Tracker es una suite de flipping completa con alertas, calculadoras de margen con GE tax, watchlists y app móvil, pero las features avanzadas están detrás de la suscripción GE Tracker Gold. Wiki Prices es el feed de precios real-time gratuito, abierto y autoritativo de Weirdgloop — la misma fuente que GE Tracker usa por debajo. Si quieres tooling de flipping y pagas la sub, GE Tracker; si solo quieres el precio de un item gratis y de la fuente canónica, Wiki Prices.",
+  "verdictEn": "GE Tracker is a full flipping suite with alerts, margin calculators that account for GE tax, watchlists, and a mobile app, but the advanced features sit behind the GE Tracker Gold subscription. Wiki Prices is Weirdgloop's free, open, authoritative real-time price feed — the same source GE Tracker pulls from underneath. If you want flipping tooling and will pay the sub, GE Tracker; if you just want an item's price for free from the canonical source, Wiki Prices.",
+  "useCases": [
+    {
+      "labelEs": "Configurar alertas de precio y seguir márgenes todo el día",
+      "labelEn": "Setting price alerts and tracking margins all day",
+      "winner": "ge-tracker",
+      "reasonEs": "GE Tracker ofrece dump/price alerts, watchlists y calculadoras de margen y profit que ya descuentan la GE tax. Wiki Prices muestra precios y gráficos, pero no tiene alertas ni herramientas de flipping de ese tipo.",
+      "reasonEn": "GE Tracker offers dump/price alerts, watchlists, and margin and profit calculators that already subtract the GE tax. Wiki Prices shows prices and graphs but has no alerts or flipping tooling of that kind."
+    },
+    {
+      "labelEs": "Solo chequear el precio actual de un item gratis",
+      "labelEn": "Just checking an item's current price for free",
+      "winner": "osrs-wiki-prices",
+      "reasonEs": "Wiki Prices te da el precio real-time y un gráfico histórico sin paywall ni cuenta. Para un price check rápido es más directo que abrir una suite de flipping cuyas mejores partes están detrás de la sub.",
+      "reasonEn": "Wiki Prices gives you the real-time price and a historical graph with no paywall or account. For a quick price check it's more direct than opening a flipping suite whose best parts are behind the sub."
+    },
+    {
+      "labelEs": "Querer la fuente de precios autoritativa que usan otros tools",
+      "labelEn": "Wanting the authoritative price source other tools use",
+      "winner": "osrs-wiki-prices",
+      "reasonEs": "Wiki Prices (prices.runescape.wiki, de Weirdgloop) es el feed canónico crowdsourceado desde RuneLite que alimenta a muchas herramientas, incluido GE Tracker. Si quieres la fuente original sin intermediario, esta es.",
+      "reasonEn": "Wiki Prices (prices.runescape.wiki, by Weirdgloop) is the canonical feed crowdsourced from RuneLite that powers many tools, GE Tracker included. If you want the original source with no middleman, this is it."
+    },
+    {
+      "labelEs": "Buscar oportunidades de flip con margen y volumen estimados",
+      "labelEn": "Hunting flip opportunities with estimated margin and volume",
+      "winner": "ge-tracker",
+      "reasonEs": "GE Tracker presenta listas de items ordenadas por margen potencial, ROI y volumen, pensadas para encontrar flips rápido. Wiki Prices te da los datos crudos pero no arma esa vista de oportunidades.",
+      "reasonEn": "GE Tracker presents item lists ranked by potential margin, ROI, and volume, built to surface flips fast. Wiki Prices gives you the raw data but doesn't assemble that opportunity view."
+    },
+    {
+      "labelEs": "Consultar precios desde el teléfono sin pagar nada",
+      "labelEn": "Checking prices from your phone without paying anything",
+      "winner": "osrs-wiki-prices",
+      "reasonEs": "Wiki Prices es una web responsive y gratuita que abre bien en el navegador del teléfono. GE Tracker tiene app móvil, pero las features que la hacen valer la pena viven detrás de GE Tracker Gold.",
+      "reasonEn": "Wiki Prices is a free, responsive site that opens fine in a phone browser. GE Tracker has a mobile app, but the features that make it worthwhile live behind GE Tracker Gold."
+    }
+  ]
+}

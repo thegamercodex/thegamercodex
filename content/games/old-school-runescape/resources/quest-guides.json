@@ -1,0 +1,80 @@
+{
+  "category": "quest-guides",
+  "resources": [
+    {
+      "id": "slayermusiq1-dragon-slayer-2-osrs",
+      "type": "video",
+      "title": "[OSRS] Dragon Slayer 2 quest guide",
+      "creator": "Slayermusiq1",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=4BMb3Zwzk_U",
+      "youtubeId": "4BMb3Zwzk_U",
+      "language": "en",
+      "duration": "1:51:06",
+      "publishedDate": "2018-01-07",
+      "thumbnail": "https://i.ytimg.com/vi/4BMb3Zwzk_U/maxresdefault.jpg",
+      "noteEs": "Walkthrough completo de Dragon Slayer II, la quest grandmaster que desbloquea la Myths' Cape y mejoras clave. Slayermusiq1 es la referencia canónica para guías de quests en OSRS.",
+      "noteEn": "A full walkthrough of Dragon Slayer II, the grandmaster quest that unlocks the Myths' Cape and key upgrades. Slayermusiq1 is the canonical reference for OSRS quest guides."
+    },
+    {
+      "id": "goingcrazy201-song-of-the-elves-osrs",
+      "type": "video",
+      "title": "OSRS - Song of the Elves Quest Guide",
+      "creator": "GoingCrazy201",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=2pXBGz0y9sc",
+      "youtubeId": "2pXBGz0y9sc",
+      "language": "en",
+      "duration": "2:36:28",
+      "publishedDate": "2019-07-29",
+      "thumbnail": "https://i.ytimg.com/vi/2pXBGz0y9sc/maxresdefault.jpg",
+      "noteEs": "Guía paso a paso de Song of the Elves, la quest final de la serie élfica que desbloquea Prifddinas. Detallada de principio a fin, ideal para no perderse en sus puzzles.",
+      "noteEn": "A step-by-step guide to Song of the Elves, the final quest in the elf series that unlocks Prifddinas. Detailed from start to finish, ideal for not getting lost in its puzzles."
+    },
+    {
+      "id": "slayermusiq1-monkey-madness-2-osrs",
+      "type": "video",
+      "title": "Updated Monkey Madness 2 quest guide",
+      "creator": "Slayermusiq1",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=D5MaAAHnaJQ",
+      "youtubeId": "D5MaAAHnaJQ",
+      "language": "en",
+      "duration": "1:52:52",
+      "publishedDate": "2024-10-15",
+      "thumbnail": "https://i.ytimg.com/vi/D5MaAAHnaJQ/maxresdefault.jpg",
+      "noteEs": "Guía actualizada de Monkey Madness II, quest grandmaster que desbloquea Kruk's Dungeon y el royal seed pod. Versión reciente con los cambios más nuevos incorporados.",
+      "noteEn": "An updated guide to Monkey Madness II, the grandmaster quest that unlocks Kruk's Dungeon and the royal seed pod. A recent version with the latest changes folded in."
+    },
+    {
+      "id": "timaeus-monkey-madness-1-hd-osrs",
+      "type": "video",
+      "title": "[OSRS HD Quest Guide] Monkey Madness 1",
+      "creator": "Timaeus OSRS",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Q5F1BrAwzIM",
+      "youtubeId": "Q5F1BrAwzIM",
+      "language": "en",
+      "duration": "1:30:15",
+      "publishedDate": "2025-05-09",
+      "thumbnail": "https://i.ytimg.com/vi/Q5F1BrAwzIM/maxresdefault.jpg",
+      "noteEs": "Guía en HD de Monkey Madness I, requisito para varias quests posteriores y desbloqueo de la dragon scimitar. Producción clara con timestamps para seguir cada sección.",
+      "noteEn": "An HD guide to Monkey Madness I, a requirement for several later quests and the unlock for the dragon scimitar. Clean production with timestamps to follow each section."
+    },
+    {
+      "id": "timaeus-recipe-for-disaster-final-battle-osrs",
+      "type": "video",
+      "title": "[OSRS HD Quest Guide] Recipe For Disaster: The Final Battle",
+      "creator": "Timaeus OSRS",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=vmXr9LndmHY",
+      "youtubeId": "vmXr9LndmHY",
+      "language": "en",
+      "duration": "21:54",
+      "publishedDate": "2025-07-17",
+      "thumbnail": "https://i.ytimg.com/vi/vmXr9LndmHY/maxresdefault.jpg",
+      "noteEs": "Guía de la batalla final de Recipe for Disaster contra el Culinaromancer, una de las quests más recompensadas del juego (desbloquea los Barrows gloves). Enfocada en superar el combate.",
+      "noteEn": "A guide to the Recipe for Disaster final battle against the Culinaromancer, one of the most rewarding quests in the game (it unlocks the Barrows gloves). Focused on beating the fight."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "category": "skilling-guides",
+  "resources": [
+    {
+      "id": "theoatrix-1-99-mining-osrs",
+      "type": "video",
+      "title": "Theoatrix's 1-99 Mining Guide (OSRS 2026)",
+      "creator": "Theoatrix OSRS",
+      "creatorId": "theoatrix-osrs",
+      "url": "https://www.youtube.com/watch?v=6cSEZKEcXSg",
+      "youtubeId": "6cSEZKEcXSg",
+      "language": "en",
+      "duration": "29:06",
+      "publishedDate": "2026-03-28",
+      "thumbnail": "https://i.ytimg.com/vi/6cSEZKEcXSg/maxresdefault.jpg",
+      "noteEs": "Guía actualizada de Mining 1-99 con los métodos más rápidos de XP por hora, opciones AFK y rutas de ironman. Referencia sólida para planear todo el grind.",
+      "noteEn": "An updated 1-99 Mining guide with the fastest XP-per-hour methods, AFK options, and ironman routes. A solid reference for planning the whole grind."
+    },
+    {
+      "id": "theoatrix-1-99-runecrafting-osrs",
+      "type": "video",
+      "title": "Theoatrix's 1-99 Runecrafting Guide (OSRS)",
+      "creator": "Theoatrix OSRS",
+      "creatorId": "theoatrix-osrs",
+      "url": "https://www.youtube.com/watch?v=hqX9X7KAIK4",
+      "youtubeId": "hqX9X7KAIK4",
+      "language": "en",
+      "duration": "29:19",
+      "publishedDate": "2025-08-23",
+      "thumbnail": "https://i.ytimg.com/vi/hqX9X7KAIK4/maxresdefault.jpg",
+      "noteEs": "Guía completa de Runecrafting 1-99, una de las skills más tediosas del juego, con los métodos más eficientes y los que también dan profit. Imprescindible antes de empezar.",
+      "noteEn": "A complete 1-99 Runecrafting guide, one of the grindiest skills in the game, with the most efficient methods and the ones that also turn a profit. A must-watch before starting."
+    },
+    {
+      "id": "kaoz-1-99-fishing-osrs",
+      "type": "video",
+      "title": "1-99 Fishing Guide 2026 - NEW Methods & Exp Rates + Irons (OSRS)",
+      "creator": "Kaoz OSRS",
+      "creatorId": "kaoz-osrs",
+      "url": "https://www.youtube.com/watch?v=l86xrSWbebk",
+      "youtubeId": "l86xrSWbebk",
+      "language": "en",
+      "duration": "19:59",
+      "publishedDate": "2026-05-11",
+      "thumbnail": "https://i.ytimg.com/vi/l86xrSWbebk/maxresdefault.jpg",
+      "noteEs": "Guía reciente de Fishing 1-99 con tasas de XP actualizadas, métodos nuevos y variantes para ironman. Buena para decidir entre velocidad y AFK según tu estilo.",
+      "noteEn": "A recent 1-99 Fishing guide with updated XP rates, new methods, and ironman variants. Good for choosing between speed and AFK depending on your playstyle."
+    },
+    {
+      "id": "boomepiclive-ultimate-1-99-agility-osrs",
+      "type": "video",
+      "title": "THE ULTIMATE 1-99 Agility Guide 2025 [OSRS]",
+      "creator": "Boom Epic Live",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=_-mU3pDYL4k",
+      "youtubeId": "_-mU3pDYL4k",
+      "language": "en",
+      "duration": "14:11",
+      "publishedDate": "2024-09-06",
+      "thumbnail": "https://i.ytimg.com/vi/_-mU3pDYL4k/maxresdefault.jpg",
+      "noteEs": "Guía concisa de Agility 1-99 que cubre rooftops, Hallowed Sepulchre y los métodos más rápidos por nivel. Útil para una de las skills más temidas por los jugadores.",
+      "noteEn": "A concise 1-99 Agility guide covering rooftops, the Hallowed Sepulchre, and the fastest methods per level. Useful for one of the most dreaded skills in the game."
+    },
+    {
+      "id": "kaoz-best-afk-method-per-skill-osrs",
+      "type": "video",
+      "title": "The BEST AFK Method Per Skill In OSRS (Mobile Friendly 2026)",
+      "creator": "Kaoz OSRS",
+      "creatorId": "kaoz-osrs",
+      "url": "https://www.youtube.com/watch?v=o9iJOi742co",
+      "youtubeId": "o9iJOi742co",
+      "language": "en",
+      "duration": "17:39",
+      "publishedDate": "2026-04-20",
+      "thumbnail": "https://i.ytimg.com/vi/o9iJOi742co/maxresdefault.jpg",
+      "noteEs": "Repaso del mejor método AFK para cada skill, ideal para entrenar mientras haces otra cosa o juegas en mobile. Perfecto para subir niveles con mínimo esfuerzo.",
+      "noteEn": "A rundown of the best AFK method for each skill, ideal for training while doing something else or playing on mobile. Perfect for leveling up with minimal effort."
+    }
+  ]
+}

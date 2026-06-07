@@ -1,0 +1,42 @@
+{
+  "id": "j1mmy",
+  "name": "J1mmy",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2012,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@J1mmy",
+      "url": "https://www.youtube.com/@J1mmy",
+      "channelId": "UCqCg6nlsQdulY4W1-peSjsQ",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "entertainment",
+    "series",
+    "challenge-accounts",
+    "documentary"
+  ],
+  "games": ["old-school-runescape"],
+  "contentTypes": ["videos", "series"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "El lado entretenimiento de OSRS, con producción de nivel documental. J1mmy es reconocido por su humor y su edición, que mantienen al espectador enganchado incluso durante los grindeos más largos. Sus series y videos de formato largo —retos de cuenta, exploraciones del juego, documentales sobre la escala de RuneScape— convierten la experiencia de OSRS en algo digerible y divertido incluso para quien no juega. No es un canal de guías: es el que ves para enamorarte del juego o reírte de él.",
+  "noteEn": "The entertainment side of OSRS, with documentary-level production. J1mmy is known for his humor and editing, which keep the viewer hooked even through the longest grinds. His series and long-form videos —account challenges, game explorations, documentaries about the scale of RuneScape— turn the OSRS experience into something digestible and fun even for someone who doesn't play. It's not a guides channel: it's the one you watch to fall in love with the game or laugh at it.",
+  "highlightsEs": [
+    "Series y documentales de formato largo con edición de alto nivel",
+    "Humor que sostiene incluso los grindeos más largos",
+    "Retos de cuenta y exploraciones de la escala del juego",
+    "La puerta de entrada entretenida al universo OSRS"
+  ],
+  "highlightsEn": [
+    "Long-form series and documentaries with high-level editing",
+    "Humor that carries even the longest grinds",
+    "Account challenges and explorations of the game's scale",
+    "The entertaining gateway into the OSRS universe"
+  ],
+  "avatar": "/images/creators/j1mmy-avatar.jpg",
+  "banner": "/images/creators/j1mmy-banner.jpg"
+}

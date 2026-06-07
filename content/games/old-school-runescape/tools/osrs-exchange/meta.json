@@ -1,0 +1,29 @@
+{
+  "id": "osrs-exchange",
+  "name": "OSRS Exchange",
+  "shortName": "OSRS Exchange",
+  "taglineEs": "Rastreador gratuito de precios del Grand Exchange de OSRS con tendencias de mercado y un flip finder para detectar márgenes altos, sin paywall.",
+  "taglineEn": "Free OSRS Grand Exchange price tracker with market trends and a flip finder for spotting high-margin flips, no paywall.",
+  "url": "https://www.osrs.exchange",
+  "category": "economy",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["flipping", "grand-exchange", "prices", "margins", "flip-finder", "free"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/old-school-runescape/osrs-exchange-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["ge-tracker", "osrs-wiki-prices"],
+  "alternatives": ["ge-tracker", "osrs-wiki-prices"],
+  "createdBy": {
+    "name": "OSRS Exchange"
+  }
+}

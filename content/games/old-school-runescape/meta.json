@@ -1,0 +1,137 @@
+{
+  "id": "old-school-runescape",
+  "name": "Old School RuneScape",
+  "shortName": "OSRS",
+  "developer": "Jagex",
+  "releaseYear": 2013,
+  "officialUrl": "https://oldschool.runescape.com",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/1343370/Old_School_RuneScape/",
+      "appId": "1343370",
+      "model": "freemium"
+    }
+  ],
+  "monetization": {
+    "model": "freemium",
+    "hasInGamePurchases": true,
+    "purchaseTypes": [
+      "membership",
+      "bonds",
+      "cosmetics"
+    ],
+    "payToWin": false,
+    "noteEs": "Modelo free-to-play con membresía opcional. La versión gratis da acceso a un subconjunto del juego (23 áreas F2P, 17 skills limitadas); la membresía mensual (~$13 USD) desbloquea el grueso del contenido: la mayoría de las quests, skills, bossing y zonas. Los Bonds son items comprables con dinero real que se canjean por membresía y se pueden intercambiar in-game por gold a precio de mercado, lo cual permite financiar la membresía jugando o comprar tiempo de juego con dinero, pero no vende power directamente. Jagex vende cosméticos vía un sistema separado, mantenido deliberadamente fuera del gameplay. No es pay-to-win: el progreso se gana con horas de juego, no con la tarjeta de crédito, y la comunidad vota activamente para mantener esa línea.",
+    "noteEn": "Free-to-play model with optional membership. The free version grants access to a subset of the game (23 F2P areas, 17 limited skills); the monthly membership (~$13 USD) unlocks the bulk of the content: most quests, skills, bossing, and zones. Bonds are real-money items redeemable for membership that can be traded in-game for gold at market price, letting players fund membership by playing or buy game time with cash, but they don't sell power directly. Jagex sells cosmetics through a separate system kept deliberately out of gameplay. It's not pay-to-win: progress is earned through playtime, not a credit card, and the community actively votes to keep that line."
+  },
+  "platforms": [
+    "windows",
+    "macos",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "genres": ["mmo"],
+  "theme": {
+    "primary": "#5a4a2c",
+    "secondary": "#2a2317",
+    "accent": "#f0a830",
+    "background": "#14110a",
+    "text": "#e8dcc0"
+  },
+  "logo": "/images/games/old-school-runescape-logo.png",
+  "heroImage": "/images/games/old-school-runescape-hero.webp",
+  "toolCategories": [
+    {
+      "id": "clients",
+      "nameEs": "Clientes y plugins",
+      "nameEn": "Clients & plugins",
+      "descriptionEs": "Clientes de tercera parte aprobados por Jagex con quality-of-life, plugins y mejoras gráficas sobre el cliente oficial.",
+      "descriptionEn": "Jagex-approved third-party clients with quality-of-life features, plugins, and graphical upgrades over the official client.",
+      "icon": "🖥️"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Wikis y mapas",
+      "nameEn": "Wikis & maps",
+      "descriptionEs": "La wiki canónica y herramientas de mapa con datos de items, monstruos, quests, drops, ubicaciones y mecánicas.",
+      "descriptionEn": "The canonical wiki and map tools with data on items, monsters, quests, drops, locations, and mechanics.",
+      "icon": "📚"
+    },
+    {
+      "id": "xp-tracking",
+      "nameEs": "Tracking de XP y progreso",
+      "nameEn": "XP & progress tracking",
+      "descriptionEs": "Sitios que registran tu XP, eficiencia (EHP/EHB), boss kills, drops y collection log, con competiciones y grupos.",
+      "descriptionEn": "Sites that track your XP, efficiency (EHP/EHB), boss kills, drops, and collection log, with competitions and groups.",
+      "icon": "📈"
+    },
+    {
+      "id": "combat-gear",
+      "nameEs": "Calculadoras de combate y gear",
+      "nameEn": "Combat & gear calculators",
+      "descriptionEs": "Calculadoras de DPS, max hit y best-in-slot para optimizar loadouts contra cada jefe y monstruo.",
+      "descriptionEn": "DPS, max hit, and best-in-slot calculators to optimize loadouts against each boss and monster.",
+      "icon": "⚔️"
+    },
+    {
+      "id": "economy",
+      "nameEs": "Economía y flipping",
+      "nameEn": "Economy & flipping",
+      "descriptionEs": "Precios en tiempo real del Grand Exchange, márgenes de flipping y análisis de mercado para hacer gold.",
+      "descriptionEn": "Real-time Grand Exchange prices, flipping margins, and market analysis to make gold.",
+      "icon": "💰"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial y subreddit: discusión, ayuda entre jugadores y reacción a updates.",
+      "descriptionEn": "Official Discord and subreddit: discussion, peer help, and reaction to updates.",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para principiantes",
+      "nameEn": "Beginner guides",
+      "descriptionEs": "Por dónde empezar: cuenta nueva, primeras quests, qué entrenar primero y errores comunes.",
+      "descriptionEn": "Where to start: new account, first quests, what to train first, and common mistakes.",
+      "icon": "🎓"
+    },
+    {
+      "id": "money-making",
+      "nameEs": "Métodos de dinero",
+      "nameEn": "Money making",
+      "descriptionEs": "Métodos de gold por hora para cada nivel de cuenta: AFK, intensivos, F2P y de alto riesgo.",
+      "descriptionEn": "Gold-per-hour methods for every account level: AFK, intensive, F2P, and high-risk.",
+      "icon": "💰"
+    },
+    {
+      "id": "skilling-guides",
+      "nameEs": "Guías de skilling",
+      "nameEn": "Skilling guides",
+      "descriptionEs": "Rutas de entrenamiento eficientes por skill: rápido vs barato, métodos AFK y XP por hora.",
+      "descriptionEn": "Efficient training routes per skill: fast vs cheap, AFK methods, and XP per hour.",
+      "icon": "⛏️"
+    },
+    {
+      "id": "bossing-guides",
+      "nameEs": "Guías de bossing",
+      "nameEn": "Bossing guides",
+      "descriptionEs": "PvM de principio a fin: gear progression, mecánicas, métodos y guías para principiantes de cada jefe.",
+      "descriptionEn": "PvM from start to finish: gear progression, mechanics, methods, and beginner guides for each boss.",
+      "icon": "🐉"
+    },
+    {
+      "id": "quest-guides",
+      "nameEs": "Guías de quests",
+      "nameEn": "Quest guides",
+      "descriptionEs": "Walkthroughs de quests, la ruta de quest óptima y los grandes hitos de questing del juego.",
+      "descriptionEn": "Quest walkthroughs, the optimal quest route, and the game's big questing milestones.",
+      "icon": "📜"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "gearscape",
+  "name": "GearScape",
+  "shortName": "GearScape",
+  "taglineEs": "Calculadora de DPS de OSRS que ademas busca por ti el mejor gear setup para cualquier NPC segun presupuesto, stats y estilo de combate.",
+  "taglineEn": "OSRS DPS calculator that also searches for you: it recommends the best gear setup for any NPC based on budget, stats and combat style.",
+  "url": "https://gearscape.net",
+  "category": "combat-gear",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["dps", "gear-finder", "best-setup", "combat", "budget"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/old-school-runescape/gearscape-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["osrs-wiki-dps-calc", "osrs-best-in-slot"],
+  "alternatives": ["osrs-wiki-dps-calc", "osrs-best-in-slot"],
+  "createdBy": {
+    "name": "GearScape"
+  }
+}

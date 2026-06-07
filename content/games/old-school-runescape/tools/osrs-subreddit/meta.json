@@ -1,0 +1,44 @@
+{
+  "id": "osrs-subreddit",
+  "name": "r/2007scape",
+  "shortName": "r/2007scape",
+  "taglineEs": "El subreddit principal de Old School RuneScape: reacciones a updates, debates de polls, memes, fan art y el pulso sin filtro de la comunidad",
+  "taglineEn": "The main Old School RuneScape subreddit: update reactions, poll debates, memes, fan art, and the community's unfiltered pulse",
+  "url": "https://www.reddit.com/r/2007scape/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "reddit",
+    "community",
+    "discussion",
+    "polls",
+    "memes"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "osrs-discord"
+  ],
+  "alternatives": [
+    "osrs-discord"
+  ],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/2007scape/about"
+  }
+}

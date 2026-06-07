@@ -1,0 +1,46 @@
+{
+  "id": "temple-osrs-vs-crystal-math-labs",
+  "toolIds": ["temple-osrs", "crystal-math-labs"],
+  "category": "xp-tracking",
+  "depth": "short",
+  "lastVerified": "2026-06-05",
+  "verdictEs": "TEMPLE OSRS si quieres data-density con features modernas: collection log tracking, drop logs y rates de EHP/EHB mantenidos activamente. Crystal Math Labs si valoras la profundidad histórica y el linaje del EHP — es el tracker original que inventó el concepto y tiene el registro de más largo alcance. Ambos son para power users; eligen entre features mantenidas o historial profundo.",
+  "verdictEn": "TEMPLE OSRS if you want data density with modern features: collection log tracking, drop logs, and actively maintained EHP/EHB rates. Crystal Math Labs if you value historical depth and the EHP lineage — it's the original tracker that invented the concept and holds the longest-reaching record. Both are for power users; you're choosing between maintained features or deep history.",
+  "useCases": [
+    {
+      "labelEs": "Seguir tu progreso de collection log",
+      "labelEn": "Tracking your collection log progress",
+      "winner": "temple-osrs",
+      "reasonEs": "TEMPLE trackea el collection log entry por entry tras asumir gran parte de lo que hacía collectionlog.net; CML no cubre esto.",
+      "reasonEn": "TEMPLE tracks the collection log entry by entry after taking over much of what collectionlog.net did; CML doesn't cover this."
+    },
+    {
+      "labelEs": "Consultar XP histórica de hace una década",
+      "labelEn": "Pulling a decade of historical XP",
+      "winner": "crystal-math-labs",
+      "reasonEs": "CML es el tracker original y mantiene el dataset histórico de más largo alcance del juego; cuentas viejas tienen registros que TEMPLE no posee.",
+      "reasonEn": "CML is the original tracker and holds the game's longest-reaching historical dataset; old accounts have records TEMPLE doesn't hold."
+    },
+    {
+      "labelEs": "Revisar drop logs detallados de tus runs de boss",
+      "labelEn": "Reviewing detailed drop logs from your boss runs",
+      "winner": "temple-osrs",
+      "reasonEs": "TEMPLE registra drops por boss con totales y rates observados, una capa de data que CML no expone.",
+      "reasonEn": "TEMPLE records drops per boss with totals and observed rates, a data layer CML doesn't expose."
+    },
+    {
+      "labelEs": "Referenciar el EHP como concepto de origen",
+      "labelEn": "Referencing EHP as the origin concept",
+      "winner": "crystal-math-labs",
+      "reasonEs": "CML pionereó el EHP; es la fuente de origen del concepto y el punto de referencia histórico de eficiencia.",
+      "reasonEn": "CML pioneered EHP; it's the origin source of the concept and the historical efficiency reference point."
+    },
+    {
+      "labelEs": "Trabajar con rates de EHP/EHB que reflejan el meta actual",
+      "labelEn": "Working with EHP/EHB rates that reflect the current meta",
+      "winner": "temple-osrs",
+      "reasonEs": "TEMPLE mantiene sus rates de EHP/EHB activamente y los ajusta cuando los métodos meta cambian de eficiencia.",
+      "reasonEn": "TEMPLE maintains its EHP/EHB rates actively and adjusts them when meta methods change in efficiency."
+    }
+  ]
+}

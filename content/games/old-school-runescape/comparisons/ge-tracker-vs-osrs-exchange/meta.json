@@ -1,0 +1,46 @@
+{
+  "id": "ge-tracker-vs-osrs-exchange",
+  "toolIds": ["ge-tracker", "osrs-exchange"],
+  "category": "economy",
+  "depth": "short",
+  "lastVerified": "2026-06-05",
+  "verdictEs": "Ambos son trackers orientados al flipping con precios live de la Grand Exchange. GE Tracker tiene más features (alertas, watchlists, calculadoras con GE tax, app móvil) pero es freemium: lo avanzado está detrás de GE Tracker Gold. OSRS Exchange es un flip finder gratuito, más liviano y sin paywall. Flipper de alto volumen dispuesto a pagar la sub, GE Tracker; flipper casual o con presupuesto que no quiere pagar, OSRS Exchange.",
+  "verdictEn": "Both are flipping-oriented trackers with live Grand Exchange prices. GE Tracker has more features (alerts, watchlists, calculators with GE tax, mobile app) but is freemium: the advanced stuff is behind GE Tracker Gold. OSRS Exchange is a free, lighter flip finder with no paywall. A high-volume flipper willing to pay the sub, GE Tracker; a casual or budget flipper who won't pay, OSRS Exchange.",
+  "useCases": [
+    {
+      "labelEs": "Flippear con presupuesto sin pagar una suscripción",
+      "labelEn": "Flipping on a budget without paying a sub",
+      "winner": "osrs-exchange",
+      "reasonEs": "OSRS Exchange encuentra flips de margen alto totalmente gratis, sin tier de pago. GE Tracker tiene un free tier, pero las herramientas que de verdad ayudan a flippear están detrás de GE Tracker Gold.",
+      "reasonEn": "OSRS Exchange surfaces high-margin flips entirely for free, with no paid tier. GE Tracker has a free tier, but the tools that actually help you flip are behind GE Tracker Gold."
+    },
+    {
+      "labelEs": "Configurar alertas y seguir un portafolio de flips activos",
+      "labelEn": "Setting alerts and tracking an active flip portfolio",
+      "winner": "ge-tracker",
+      "reasonEs": "Las watchlists, los dump/price alerts y las calculadoras de profit con GE tax de GE Tracker están hechas para gestionar muchos flips a la vez. OSRS Exchange es más simple y no cubre ese tracking sostenido.",
+      "reasonEn": "GE Tracker's watchlists, dump/price alerts, and GE-tax profit calculators are built to manage many flips at once. OSRS Exchange is simpler and doesn't cover that sustained tracking."
+    },
+    {
+      "labelEs": "Empezar a flippear sin curva de aprendizaje",
+      "labelEn": "Getting into flipping with no learning curve",
+      "winner": "osrs-exchange",
+      "reasonEs": "OSRS Exchange es liviano: abres el flip finder y ves márgenes sin configurar nada. La suite completa de GE Tracker tiene más paneles y opciones, lo cual abruma cuando recién arrancas.",
+      "reasonEn": "OSRS Exchange is lightweight: open the flip finder and see margins without setting anything up. GE Tracker's full suite has more panels and options, which overwhelms when you're just starting."
+    },
+    {
+      "labelEs": "Analizar gráficos detallados y consultar desde el teléfono",
+      "labelEn": "Reading detailed graphs and checking from your phone",
+      "winner": "ge-tracker",
+      "reasonEs": "GE Tracker incluye gráficos de item detallados y app móvil para revisar flips fuera del PC. OSRS Exchange se enfoca en encontrar flips y ofrece menos profundidad de análisis y herramientas móviles.",
+      "reasonEn": "GE Tracker includes detailed item graphs and a mobile app to review flips away from the PC. OSRS Exchange focuses on finding flips and offers less analysis depth and fewer mobile tools."
+    },
+    {
+      "labelEs": "Probar el flipping sin comprometer dinero real",
+      "labelEn": "Trying flipping without committing real money",
+      "winner": "osrs-exchange",
+      "reasonEs": "Como OSRS Exchange es 100% gratis, puedes evaluar si el flipping te sirve sin pagar. Para sacarle el jugo a GE Tracker terminas necesitando GE Tracker Gold, y eso es un costo recurrente.",
+      "reasonEn": "Because OSRS Exchange is 100% free, you can test whether flipping is for you without paying. To get the most out of GE Tracker you end up needing GE Tracker Gold, which is a recurring cost."
+    }
+  ]
+}

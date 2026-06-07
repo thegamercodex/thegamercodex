@@ -1,0 +1,29 @@
+{
+  "id": "ge-tracker",
+  "name": "GE Tracker",
+  "shortName": "GE Tracker",
+  "taglineEs": "Suite freemium de flipping para OSRS: precios en vivo, calculadoras de margen con tax, watchlists y alertas, con las funciones avanzadas tras una suscripción.",
+  "taglineEn": "Freemium OSRS flipping suite: live prices, margin calculators with GE tax, watchlists and alerts, with the advanced features locked behind a subscription.",
+  "url": "https://www.ge-tracker.com",
+  "category": "economy",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web", "ios", "android"],
+  "languages": ["en"],
+  "tags": ["flipping", "grand-exchange", "prices", "margins", "alerts", "freemium", "premium-available"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/old-school-runescape/ge-tracker-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["osrs-exchange", "osrs-wiki-prices"],
+  "alternatives": ["osrs-exchange", "osrs-wiki-prices"],
+  "createdBy": {
+    "name": "GE Tracker"
+  }
+}

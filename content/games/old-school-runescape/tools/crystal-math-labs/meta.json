@@ -1,0 +1,29 @@
+{
+  "id": "crystal-math-labs",
+  "name": "Crystal Math Labs",
+  "shortName": "CML",
+  "taglineEs": "El tracker de XP original de OSRS y creador del EHP, con el registro histórico de ganancias de XP más largo de los tres trackers.",
+  "taglineEn": "The original OSRS XP tracker and creator of EHP, holding the longest-running historical XP-gain dataset of the three trackers.",
+  "url": "https://crystalmathlabs.com",
+  "category": "xp-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["xp-tracking", "ehp", "history", "records", "competitions"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/old-school-runescape/crystal-math-labs-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["wise-old-man", "temple-osrs"],
+  "alternatives": ["wise-old-man", "temple-osrs"],
+  "createdBy": {
+    "name": "Crystal Math Labs"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "osrs-wiki-dps-calc-vs-gearscape",
+  "toolIds": ["osrs-wiki-dps-calc", "gearscape"],
+  "category": "combat-gear",
+  "depth": "short",
+  "lastVerified": "2026-06-05",
+  "verdictEs": "OSRS Wiki DPS Calc es la calculadora canónica: open-source, mantenida por Weirdgloop y con la misma combat math en la que confía toda la comunidad. Tú armas el loadout y ella lo puntúa con precisión. GearScape va un paso más allá: además de calcular DPS, busca por ti el mejor setup para un NPC según tu presupuesto, stats y estilo. Para precisión y confianza absoluta, Wiki DPS Calc; para que te diga qué ponerte contra un boss con un budget dado, GearScape.",
+  "verdictEn": "OSRS Wiki DPS Calc is the canonical calculator: open-source, maintained by Weirdgloop, and running the same combat math the whole community trusts. You build the loadout and it scores it precisely. GearScape goes a step further: on top of calculating DPS, it searches for the best setup against an NPC based on your budget, stats and style. For precision and full trust, Wiki DPS Calc; to be told what to wear against a boss on a given budget, GearScape.",
+  "useCases": [
+    {
+      "labelEs": "Exprimir el DPS exacto para un setup serio de raid",
+      "labelEn": "Squeezing exact DPS for a serious raid setup",
+      "winner": "osrs-wiki-dps-calc",
+      "reasonEs": "Cuando cada décima de DPS cuenta, quieres la combat math canónica. Wiki DPS Calc usa las fórmulas verificadas del wiki y es open-source, así que el número que ves es el número en el que confía toda la meta.",
+      "reasonEn": "When every fraction of DPS counts, you want the canonical combat math. Wiki DPS Calc uses the wiki's verified formulas and is open-source, so the number you see is the number the whole meta trusts."
+    },
+    {
+      "labelEs": "\"¿Qué me pongo contra este boss?\" con un budget acotado",
+      "labelEn": "\"What do I wear against this boss?\" on a tight budget",
+      "winner": "gearscape",
+      "reasonEs": "GearScape recorre el espacio de items por ti y recomienda el mejor setup dado tu presupuesto y stats. No tienes que conocer el BiS de memoria: le das el NPC y el budget y te devuelve el gear.",
+      "reasonEn": "GearScape walks the item space for you and recommends the best setup given your budget and stats. You don't need to know the BiS by heart: give it the NPC and the budget and it returns the gear."
+    },
+    {
+      "labelEs": "Comparar dos loadouts que ya armaste a mano",
+      "labelEn": "Comparing two loadouts you already built by hand",
+      "winner": "osrs-wiki-dps-calc",
+      "reasonEs": "Si ya sabes qué piezas quieres comparar, el scoring manual y preciso de Wiki DPS Calc es ideal: cargas cada loadout, ajustas prayers, potions y estilo, y ves el DPS y el time-to-kill lado a lado.",
+      "reasonEn": "If you already know which pieces you want to compare, Wiki DPS Calc's precise manual scoring is ideal: load each loadout, tweak prayers, potions and style, and see DPS and time-to-kill side by side."
+    },
+    {
+      "labelEs": "Descubrir un upgrade de gear que no se te había ocurrido",
+      "labelEn": "Discovering a gear upgrade you hadn't considered",
+      "winner": "gearscape",
+      "reasonEs": "Como GearScape busca en todo el espacio de items, suele sugerir combinaciones que un jugador no probaría manualmente. Es la herramienta para encontrar el mejor setup, no solo para puntuar el que ya tienes en mente.",
+      "reasonEn": "Because GearScape searches the whole item space, it often surfaces combos a player wouldn't try by hand. It's the tool for finding the best setup, not just scoring the one you already had in mind."
+    },
+    {
+      "labelEs": "Confiar en la math para una decisión de gear muy ajustada",
+      "labelEn": "Trusting the math on a razor-thin gear decision",
+      "winner": "osrs-wiki-dps-calc",
+      "reasonEs": "Cuando dos opciones están casi empatadas y necesitas certeza, la naturaleza open-source y la procedencia desde el equipo del wiki hacen de Wiki DPS Calc la fuente autoritativa. Cualquiera puede auditar cómo se calcula el número.",
+      "reasonEn": "When two options are nearly tied and you need certainty, the open-source nature and provenance from the wiki team make Wiki DPS Calc the authoritative source. Anyone can audit how the number is computed."
+    }
+  ]
+}

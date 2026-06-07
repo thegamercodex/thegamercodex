@@ -1,0 +1,49 @@
+{
+  "id": "osrs-wiki",
+  "name": "OSRS Wiki",
+  "shortName": "OSRS Wiki",
+  "taglineEs": "La wiki canónica de Old School RuneScape: items, monstruos, quests, drops, mapas, calculadoras y guías; la referencia primaria del juego",
+  "taglineEn": "The canonical Old School RuneScape wiki: items, monsters, quests, drops, maps, calculators, and guides; the game's primary reference",
+  "url": "https://oldschool.runescape.wiki",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "github": null,
+  "license": null,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "wiki",
+    "database",
+    "guides",
+    "maps",
+    "drops",
+    "quests",
+    "calculators",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/old-school-runescape/osrs-wiki-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "explvs-map",
+    "osrs-wiki-dps-calc",
+    "osrs-wiki-prices"
+  ],
+  "alternatives": [
+    "explvs-map"
+  ],
+  "createdBy": {
+    "name": "Weirdgloop",
+    "url": "https://weirdgloop.org"
+  }
+}

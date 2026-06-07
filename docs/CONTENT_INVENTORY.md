@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-06-04
+> Última generación: 2026-06-07
 
 ## Resumen
 
-27 juegos · 456 tools · 130 creators · 137 categorías · 685 resources items · 148 comparisons · 27 stacks
+28 juegos · 471 tools · 135 creators · 142 categorías · 710 resources items · 156 comparisons · 28 stacks
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons | Stacks |
 |---|---|---:|---:|---:|---:|---:|---:|
@@ -26,6 +26,7 @@
 | `marvel-rivals` | Marvel Rivals | 15 | 5 | 5 | 25 | 8 | 1 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 | 1 |
 | `nte` | Neverness to Everness | 12 | 5 | 5 | 25 | 4 | 1 |
+| `old-school-runescape` | Old School RuneScape | 15 | 5 | 5 | 25 | 8 | 1 |
 | `palworld` | Palworld | 17 | 5 | 5 | 25 | 4 | 1 |
 | `path-of-exile` | Path of Exile | 19 | 5 | 5 | 25 | 7 | 1 |
 | `path-of-exile-2` | Path of Exile 2 | 21 | 5 | 5 | 25 | 8 | 1 |
@@ -328,6 +329,23 @@
 **Comparisons (4)**: `game8-nte-vs-gamewith-nte` (short), `nte-official-discord-vs-nte-subreddit` (short), `prydwen-nte-vs-nte-guide` (flagship), `zero-luck-nte-vs-nte-guide` (short)
 
 **Stacks (1)**: `nte-toolkit` (5 tools)
+
+### Old School RuneScape (`old-school-runescape`)
+
+**Tools (15)**: Crystal Math Labs (`crystal-math-labs`), Explv's Map (`explvs-map`), GE Tracker (`ge-tracker`), GearScape (`gearscape`), HDOS (`hdos`), OSRS Best in Slot (`osrs-best-in-slot`), Old School RuneScape Discord (`osrs-discord`), OSRS Exchange (`osrs-exchange`), r/2007scape (`osrs-subreddit`), OSRS Wiki (`osrs-wiki`), OSRS Wiki DPS Calculator (`osrs-wiki-dps-calc`), OSRS Wiki Real-time Prices (`osrs-wiki-prices`), RuneLite (`runelite`), TempleOSRS (`temple-osrs`), Wise Old Man (`wise-old-man`)
+
+**Creators (5)**: FlippingOldschool (`flippingoldschool`), J1mmy (`j1mmy`), Kaoz OSRS (`kaoz-osrs`), Mr Mammal (`mr-mammal`), Theoatrix OSRS (`theoatrix-osrs`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `bossing-guides` — 5 items
+- `money-making` — 5 items
+- `quest-guides` — 5 items
+- `skilling-guides` — 5 items
+
+**Comparisons (8)**: `ge-tracker-vs-osrs-exchange` (short), `ge-tracker-vs-osrs-wiki-prices` (short), `osrs-wiki-dps-calc-vs-gearscape` (short), `osrs-wiki-dps-calc-vs-osrs-best-in-slot` (short), `runelite-vs-hdos` (flagship), `temple-osrs-vs-crystal-math-labs` (short), `wise-old-man-vs-crystal-math-labs` (short), `wise-old-man-vs-temple-osrs` (flagship)
+
+**Stacks (1)**: `osrs-account-toolkit` (5 tools)
 
 ### Palworld (`palworld`)
 

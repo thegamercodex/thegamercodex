@@ -1,0 +1,42 @@
+{
+  "id": "theoatrix-osrs",
+  "name": "Theoatrix OSRS",
+  "country": "AU",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2016,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Theoatrix",
+      "url": "https://www.youtube.com/@Theoatrix",
+      "channelId": "UCRz8rJ-SHTC0LfpdCXHxzMA",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "skilling-guides",
+    "efficiency",
+    "beginner-guides",
+    "account-progression"
+  ],
+  "games": ["old-school-runescape"],
+  "contentTypes": ["videos", "guides"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "El creator de referencia para skilling y eficiencia en OSRS. Sus guías de 1-99 por skill, sus videos de \"qué hacer en cada nivel\" y sus rutas de progresión de cuenta son material de consulta obligado para cualquiera que quiera entrenar de forma óptima sin perder horas. Su estilo es calmado, estructurado y data-driven: nada de hype, solo el método más eficiente explicado con claridad. Para un jugador nuevo o de nivel medio que se pregunta \"y ahora qué entreno\", Theoatrix es la primera parada.",
+  "noteEn": "The reference creator for skilling and efficiency in OSRS. His 1-99 guides per skill, his \"what to do at each level\" videos, and his account-progression routes are mandatory reference material for anyone who wants to train optimally without wasting hours. His style is calm, structured, and data-driven: no hype, just the most efficient method explained clearly. For a new or mid-level player wondering \"what do I train now,\" Theoatrix is the first stop.",
+  "highlightsEs": [
+    "Guías definitivas de 1-99 para prácticamente cada skill",
+    "Series \"Optimal Quest Guide\" y de progresión de cuenta",
+    "Enfoque en eficiencia: rápido vs barato, métodos AFK, XP por hora",
+    "Tono claro y didáctico, ideal para principiantes y nivel medio"
+  ],
+  "highlightsEn": [
+    "Definitive 1-99 guides for practically every skill",
+    "\"Optimal Quest Guide\" and account-progression series",
+    "Efficiency focus: fast vs cheap, AFK methods, XP per hour",
+    "Clear, instructional tone, ideal for beginners and mid-level players"
+  ],
+  "avatar": "/images/creators/theoatrix-osrs-avatar.jpg",
+  "banner": "/images/creators/theoatrix-osrs-banner.jpg"
+}

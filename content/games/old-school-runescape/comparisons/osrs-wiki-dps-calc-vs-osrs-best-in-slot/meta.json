@@ -1,0 +1,46 @@
+{
+  "id": "osrs-wiki-dps-calc-vs-osrs-best-in-slot",
+  "toolIds": ["osrs-wiki-dps-calc", "osrs-best-in-slot"],
+  "category": "combat-gear",
+  "depth": "short",
+  "lastVerified": "2026-06-05",
+  "verdictEs": "OSRS Wiki DPS Calc es la calculadora canónica: open-source, math del wiki en la que confía la comunidad, control manual total y sin necesidad de cuenta. OSRS Best in Slot es la de menor fricción: cargas tu RSN desde los hiscores, auto-equipa el BiS y compara los tres estilos al instante, ideal para principiantes aunque es menos autoritativa y vive de publicidad. Para precisión y control, Wiki DPS Calc; para velocidad y conveniencia de principiante, OSRS Best in Slot.",
+  "verdictEn": "OSRS Wiki DPS Calc is the canonical calculator: open-source, wiki math the community trusts, full manual control and no account needed. OSRS Best in Slot is the lowest-friction one: load your RSN from the hiscores, it auto-equips the BiS and compares all three styles instantly, great for beginners though less authoritative and ad-supported. For precision and control, Wiki DPS Calc; for speed and beginner convenience, OSRS Best in Slot.",
+  "useCases": [
+    {
+      "labelEs": "Un jugador nuevo que no conoce sus propios stats",
+      "labelEn": "A brand-new player who doesn't know their own stats",
+      "winner": "osrs-best-in-slot",
+      "reasonEs": "Cargas tu RSN y OSRS Best in Slot auto-rellena tus combat stats desde los hiscores y auto-equipa el BiS. No necesitas saber tus niveles ni el gear meta de memoria: ves max hit, hit chance y DPS al instante.",
+      "reasonEn": "Load your RSN and OSRS Best in Slot auto-fills your combat stats from the hiscores and auto-equips the BiS. You don't need to know your levels or the meta gear by heart: you see max hit, hit chance and DPS instantly."
+    },
+    {
+      "labelEs": "Confiar en la math para una decisión de gear ajustada",
+      "labelEn": "Trusting the math on a tight gear decision",
+      "winner": "osrs-wiki-dps-calc",
+      "reasonEs": "La Wiki DPS Calc es open-source y la mantiene el equipo del wiki, así que es la fuente autoritativa cuando dos opciones están casi empatadas. Cualquiera puede auditar el cálculo; OSRS Best in Slot no ofrece esa transparencia.",
+      "reasonEn": "The Wiki DPS Calc is open-source and maintained by the wiki team, making it the authoritative source when two options are nearly tied. Anyone can audit the calculation; OSRS Best in Slot offers no such transparency."
+    },
+    {
+      "labelEs": "Ver rápido qué estilo pega más contra un boss",
+      "labelEn": "Quickly seeing which style hits hardest against a boss",
+      "winner": "osrs-best-in-slot",
+      "reasonEs": "OSRS Best in Slot compara los tres estilos de combate a la vez con tu BiS auto-equipado, así que de un vistazo sabes si te conviene melee, ranged o magic contra ese objetivo, sin armar tres loadouts a mano.",
+      "reasonEn": "OSRS Best in Slot compares all three combat styles at once with your auto-equipped BiS, so at a glance you know whether melee, ranged or magic is best against that target, without building three loadouts by hand."
+    },
+    {
+      "labelEs": "Ajustar prayers, potions y switches con precisión",
+      "labelEn": "Fine-tuning prayers, potions and switches precisely",
+      "winner": "osrs-wiki-dps-calc",
+      "reasonEs": "La Wiki DPS Calc te da control manual total sobre cada variable del loadout, así que puedes modelar combinaciones exactas de prayers, potions y switches que la auto-equipación de OSRS Best in Slot no expone con el mismo detalle.",
+      "reasonEn": "The Wiki DPS Calc gives full manual control over every loadout variable, so you can model exact prayer, potion and switch combinations that OSRS Best in Slot's auto-equip doesn't expose in the same detail."
+    },
+    {
+      "labelEs": "Calcular sin cuenta y sin anuncios de por medio",
+      "labelEn": "Calculating with no account and no ads in the way",
+      "winner": "osrs-wiki-dps-calc",
+      "reasonEs": "La Wiki DPS Calc no necesita tu RSN ni ninguna cuenta y, al ser del wiki, no está saturada de publicidad. OSRS Best in Slot es cómoda pero más ad-supported y se apoya en cargar tu RSN para su mejor experiencia.",
+      "reasonEn": "The Wiki DPS Calc needs no RSN and no account, and being a wiki tool it isn't cluttered with ads. OSRS Best in Slot is convenient but more ad-supported and leans on loading your RSN for its best experience."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "category": "bossing-guides",
+  "resources": [
+    {
+      "id": "kaoz-bossing-progression-beginner-to-pro-osrs",
+      "type": "video",
+      "title": "Bossing Progression In OSRS - Beginner To Pro!",
+      "creator": "Kaoz OSRS",
+      "creatorId": "kaoz-osrs",
+      "url": "https://www.youtube.com/watch?v=wOJ7CYk_Xrs",
+      "youtubeId": "wOJ7CYk_Xrs",
+      "language": "en",
+      "duration": "24:09",
+      "publishedDate": "2026-02-23",
+      "thumbnail": "https://i.ytimg.com/vi/wOJ7CYk_Xrs/maxresdefault.jpg",
+      "noteEs": "Ruta de progresión de bossing de principio a fin, ordenando los bosses por dificultad y gear necesario. Ideal para saber por dónde empezar en PvM y qué sigue.",
+      "noteEn": "A bossing progression path from start to finish, ordering bosses by difficulty and required gear. Ideal for knowing where to start in PvM and what comes next."
+    },
+    {
+      "id": "kaoz-2025-bossing-ladder-pvm-bible-osrs",
+      "type": "video",
+      "title": "2025 Bossing Ladder For OSRS - The PVM Bible",
+      "creator": "Kaoz OSRS",
+      "creatorId": "kaoz-osrs",
+      "url": "https://www.youtube.com/watch?v=CYabVOcnehc",
+      "youtubeId": "CYabVOcnehc",
+      "language": "en",
+      "duration": "51:59",
+      "publishedDate": "2025-09-01",
+      "thumbnail": "https://i.ytimg.com/vi/CYabVOcnehc/maxresdefault.jpg",
+      "noteEs": "Escalera de bossing detallada que cubre cada boss en orden con su gear y estrategia. Referencia larga para planear toda tu carrera de PvM en un solo video.",
+      "noteEn": "A detailed bossing ladder covering each boss in order with its gear and strategy. A long reference for planning your entire PvM career in a single video."
+    },
+    {
+      "id": "ricecup-noobs-pvm-bible-early-goals-osrs",
+      "type": "video",
+      "title": "Noob's PVM Bible: Early Goals Guide for Bossing (Normal & Ironman) | OSRS",
+      "creator": "RiceCup",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=2fLruklkk4U",
+      "youtubeId": "2fLruklkk4U",
+      "language": "en",
+      "duration": "59:09",
+      "publishedDate": "2021-03-20",
+      "thumbnail": "https://i.ytimg.com/vi/2fLruklkk4U/maxresdefault.jpg",
+      "noteEs": "Guía clásica de PvM para nuevos en bossing, con metas tempranas para cuentas normales e ironman. Evergreen: sigue siendo una base sólida para empezar a aprender bosses.",
+      "noteEn": "A classic PvM guide for those new to bossing, with early goals for normal and ironman accounts. Evergreen and still a solid foundation for learning bosses."
+    },
+    {
+      "id": "ricecup-noobs-pvm-bible-boss-progression-osrs",
+      "type": "video",
+      "title": "Noob's PVM Bible: Boss Progression Guide & Index (Main & Ironman) | OSRS",
+      "creator": "RiceCup",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=xjm7KqbWb3w",
+      "youtubeId": "xjm7KqbWb3w",
+      "language": "en",
+      "duration": "1:20:55",
+      "publishedDate": "2023-01-01",
+      "thumbnail": "https://i.ytimg.com/vi/xjm7KqbWb3w/maxresdefault.jpg",
+      "noteEs": "Índice extenso de progresión de bosses con secciones para main e ironman, organizado para consultar boss por boss. Útil como referencia de gear y orden a largo plazo.",
+      "noteEn": "An extensive boss progression index with sections for main and ironman, organized to look up boss by boss. Useful as a long-term gear and ordering reference."
+    },
+    {
+      "id": "smithytv-top-10-easy-bosses-pvm-ladder-osrs",
+      "type": "video",
+      "title": "Top 10 Easy Bosses to Start PvMing in OSRS! (PvM Ladder Entry Level)",
+      "creator": "SmithyTV",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ThzNSNxduOY",
+      "youtubeId": "ThzNSNxduOY",
+      "language": "en",
+      "duration": "31:42",
+      "publishedDate": "2025-03-12",
+      "thumbnail": "https://i.ytimg.com/vi/ThzNSNxduOY/maxresdefault.jpg",
+      "noteEs": "Los 10 bosses más accesibles para dar tus primeros pasos en PvM, con requisitos bajos y buenas recompensas. Perfecto para perder el miedo a empezar a bossear.",
+      "noteEn": "The 10 most accessible bosses to take your first steps in PvM, with low requirements and good rewards. Perfect for getting over the fear of starting to boss."
+    }
+  ]
+}

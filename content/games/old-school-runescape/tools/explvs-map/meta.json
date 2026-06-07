@@ -1,0 +1,30 @@
+{
+  "id": "explvs-map",
+  "name": "Explv's Map",
+  "shortName": "Explv's Map",
+  "taglineEs": "Mapa del mundo de OSRS interactivo basado en Leaflet con coordenadas, region IDs y herramientas para definir areas, paths y posiciones.",
+  "taglineEn": "Leaflet-based interactive OSRS world map with coordinates, region IDs, and tools to define areas, paths, and positions.",
+  "url": "https://explv.github.io",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Explv/Explv.github.io",
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["map", "navigation", "coordinates", "open-source"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/old-school-runescape/explvs-map-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["osrs-wiki"],
+  "alternatives": ["osrs-wiki"],
+  "createdBy": {
+    "name": "Explv",
+    "url": "https://github.com/Explv"
+  }
+}

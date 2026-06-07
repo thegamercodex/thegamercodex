@@ -1,0 +1,49 @@
+{
+  "id": "runelite",
+  "name": "RuneLite",
+  "shortName": "RuneLite",
+  "taglineEs": "El cliente open source aprobado por Jagex con más de mil plugins de quality-of-life; el estándar de facto para jugar Old School RuneScape",
+  "taglineEn": "The open-source, Jagex-approved client with 1,000+ quality-of-life plugins; the de facto standard for playing Old School RuneScape",
+  "url": "https://runelite.net",
+  "category": "clients",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/runelite/runelite",
+  "license": "BSD-2-Clause",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "client",
+    "plugins",
+    "quality-of-life",
+    "open-source",
+    "jagex-approved",
+    "essential"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-05",
+  "logo": "/images/tools/old-school-runescape/runelite-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "hdos",
+    "wise-old-man",
+    "osrs-wiki-prices"
+  ],
+  "alternatives": [
+    "hdos"
+  ],
+  "createdBy": {
+    "name": "RuneLite Team",
+    "url": "https://runelite.net"
+  }
+}

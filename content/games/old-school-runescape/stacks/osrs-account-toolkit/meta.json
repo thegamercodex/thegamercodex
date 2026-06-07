@@ -1,0 +1,32 @@
+{
+  "id": "osrs-account-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-05",
+  "items": [
+    {
+      "toolId": "runelite",
+      "roleEs": "El cliente sobre el que se juega todo. La base del stack: integra el tracking, los precios del GE y los overlays que el resto de las herramientas alimenta.",
+      "roleEn": "The client everything runs on. The base of the stack: it integrates the tracking, GE prices, and overlays that the rest of the tools feed."
+    },
+    {
+      "toolId": "osrs-wiki",
+      "roleEs": "La referencia que responde el \"qué hago\": drops, métodos de dinero, requisitos de quest y la ruta de quest óptima.",
+      "roleEn": "The reference that answers \"what do I do\": drops, money-making methods, quest requirements, and the optimal quest route."
+    },
+    {
+      "toolId": "wise-old-man",
+      "roleEs": "El tracker que mide tu progreso —XP, EHP, boss kills— y convierte tu cuenta en estadísticas comparables y objetivos concretos.",
+      "roleEn": "The tracker that measures your progress —XP, EHP, boss kills— and turns your account into comparable stats and concrete goals."
+    },
+    {
+      "toolId": "osrs-wiki-dps-calc",
+      "roleEs": "La calculadora que decide qué loadout llevar a cada jefe: max hit, accuracy y DPS antes de morir probando en vivo.",
+      "roleEn": "The calculator that decides which loadout to bring to each boss: max hit, accuracy, and DPS before dying by trial in-game."
+    },
+    {
+      "toolId": "ge-tracker",
+      "roleEs": "La capa de economía: precios en vivo, márgenes y alertas para financiar todo lo demás haciendo gold.",
+      "roleEn": "The economy layer: live prices, margins, and alerts to fund everything else by making gold."
+    }
+  ]
+}
