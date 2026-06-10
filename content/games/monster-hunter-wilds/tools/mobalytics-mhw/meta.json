@@ -1,0 +1,36 @@
+{
+  "id": "mobalytics-mhw",
+  "name": "Mobalytics MH Wilds",
+  "shortName": "Mobalytics",
+  "taglineEs": "Build planner de Monster Hunter Wilds dentro de la plataforma Mobalytics: crea y comparte sets con una UI pulida, integrada con sus guías y tier lists por arma",
+  "taglineEn": "Monster Hunter Wilds build planner inside the Mobalytics platform: create and share sets with a polished UI, integrated with its per-weapon guides and tier lists",
+  "url": "https://mobalytics.gg/mhw",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-planner", "guides", "tier-lists", "platform", "polished-ui"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/common/mobalytics-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["maxroll-mhw", "wildsbuilder", "game8-mhwilds"],
+  "alternatives": ["maxroll-mhw"],
+  "createdBy": {
+    "name": "Mobalytics",
+    "url": "https://mobalytics.gg/"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "league-of-legends", "url": "https://mobalytics.gg/lol" },
+      { "gameId": "diablo-4", "url": "https://mobalytics.gg/diablo-4" }
+    ]
+  }
+}

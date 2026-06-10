@@ -1,0 +1,29 @@
+{
+  "id": "wildsbuilder",
+  "name": "WildsBuilder",
+  "shortName": "WildsBuilder",
+  "taglineEs": "Set builder independiente y rápido para MH Wilds: armas tú las equipas, las skills y decoraciones las resuelve la herramienta, y compartes el set con un link — sin cuenta, todo guardado en tu browser",
+  "taglineEn": "Fast independent set builder for MH Wilds: you pick the weapon, it solves skills and decorations, and you share the set with a link — no account, everything stored in your browser",
+  "url": "https://wildsbuilder.com/",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["set-builder", "armor-skills", "decorations", "share-link", "no-account"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/monster-hunter-wilds/wildsbuilder-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mhwilds-hub", "rayleon-mhwilds", "maxroll-mhw"],
+  "alternatives": ["mhwilds-hub", "rayleon-mhwilds"],
+  "createdBy": {
+    "name": "WildsBuilder",
+    "url": "https://wildsbuilder.com/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fextralife-mhwilds",
+  "name": "Fextralife Wiki MH Wilds",
+  "shortName": "Fextralife",
+  "taglineEs": "Wiki comunitaria de MH Wilds en Fextralife: páginas de monstruos con weakness charts, locations, equipo y lore, con el estilo colaborativo de foro que caracteriza a sus wikis",
+  "taglineEn": "Community MH Wilds wiki on Fextralife: monster pages with weakness charts, locations, gear, and lore, in the collaborative forum style its wikis are known for",
+  "url": "https://monsterhunterwilds.wiki.fextralife.com/",
+  "category": "database",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "weakness-charts", "locations", "lore", "community-edited"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/common/fextralife-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["game8-mhwilds", "kiranico-mhwilds", "atlasforge"],
+  "alternatives": ["game8-mhwilds", "kiranico-mhwilds"],
+  "createdBy": {
+    "name": "Fextralife",
+    "url": "https://fextralife.com/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "wildsbuilder-vs-rayleon-mhwilds",
+  "toolIds": ["wildsbuilder", "rayleon-mhwilds"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-06-09",
+  "verdictEs": "WildsBuilder si quieres un set limpio rápido y compartirlo. Rayleon si quieres ver todas las combinaciones posibles y elegir tú. Uno te da una solución; el otro, el espacio entero de soluciones.",
+  "verdictEn": "WildsBuilder if you want a clean set fast and to share it. Rayleon if you want to see every possible combination and pick yourself. One gives you a solution; the other, the entire solution space.",
+  "useCases": [
+    {
+      "labelEs": "Obtener un set funcional rápido",
+      "labelEn": "Get a functional set fast",
+      "winner": "wildsbuilder",
+      "reasonEs": "WildsBuilder propone una solución limpia de inmediato. Rayleon devuelve todas las combinaciones, lo que es más de lo que necesitas si solo quieres un set.",
+      "reasonEn": "WildsBuilder proposes one clean solution right away. Rayleon returns every combination, which is more than you need if you just want a set."
+    },
+    {
+      "labelEs": "Ver todas las combinaciones que cumplen unas skills",
+      "labelEn": "See every combination that meets a set of skills",
+      "winner": "rayleon-mhwilds",
+      "reasonEs": "Rayleon enumera el espacio completo de soluciones ordenado por criterios. WildsBuilder se enfoca en una propuesta, no en la enumeración exhaustiva.",
+      "reasonEn": "Rayleon enumerates the full solution space sorted by criteria. WildsBuilder focuses on one proposal, not exhaustive enumeration."
+    },
+    {
+      "labelEs": "Maximizar slots libres eligiendo entre opciones",
+      "labelEn": "Maximize free slots by choosing among options",
+      "winner": "rayleon-mhwilds",
+      "reasonEs": "Rayleon ordena las soluciones por slots libres para que elijas la mejor. WildsBuilder no expone todo el set de alternativas para comparar.",
+      "reasonEn": "Rayleon sorts solutions by free slots so you pick the best. WildsBuilder doesn't expose the full set of alternatives to compare."
+    },
+    {
+      "labelEs": "Compartir el set con un amigo por link",
+      "labelEn": "Share the set with a friend via link",
+      "winner": "wildsbuilder",
+      "reasonEs": "WildsBuilder genera un link para compartir el build directamente. Rayleon es una herramienta de búsqueda, no de distribución.",
+      "reasonEn": "WildsBuilder generates a link to share the build directly. Rayleon is a search tool, not a distribution one."
+    },
+    {
+      "labelEs": "Confirmar si una combinación de skills altas es posible",
+      "labelEn": "Confirm whether a combination of high-level skills is possible",
+      "winner": "rayleon-mhwilds",
+      "reasonEs": "La búsqueda exhaustiva de Rayleon te dice si existe alguna solución y cuáles son. WildsBuilder puede no encontrar el caso límite si su heurística se queda en la primera respuesta.",
+      "reasonEn": "Rayleon's exhaustive search tells you whether any solution exists and which ones. WildsBuilder may miss the edge case if its heuristic stops at the first answer."
+    }
+  ]
+}

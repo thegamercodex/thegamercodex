@@ -1,0 +1,46 @@
+{
+  "id": "wildsbuilder-vs-mhwilds-hub",
+  "toolIds": ["wildsbuilder", "mhwilds-hub"],
+  "category": "build-planning",
+  "depth": "flagship",
+  "lastVerified": "2026-06-09",
+  "verdictEs": "WildsBuilder si tu prioridad es armar y compartir sets rápido. MH Wilds Hub si quieres ver el daño estimado del set en el mismo flujo. El primero es velocidad; el segundo, armado + verificación de daño en un solo lugar.",
+  "verdictEn": "WildsBuilder if your priority is building and sharing sets fast. MH Wilds Hub if you want to see the set's estimated damage in the same flow. The former is speed; the latter, building + damage verification in one place.",
+  "useCases": [
+    {
+      "labelEs": "Armar y compartir un set lo más rápido posible",
+      "labelEn": "Build and share a set as fast as possible",
+      "winner": "wildsbuilder",
+      "reasonEs": "WildsBuilder está optimizado para resolver y compartir con un link, sin cuenta y sin pasos extra. MH Wilds Hub agrega la capa de daño que ralentiza el armado puro.",
+      "reasonEn": "WildsBuilder is optimized to solve and share with a link, no account and no extra steps. MH Wilds Hub adds the damage layer that slows down pure assembly."
+    },
+    {
+      "labelEs": "Verificar si un cambio de skill sube el daño",
+      "labelEn": "Verify whether a skill swap raises damage",
+      "winner": "mhwilds-hub",
+      "reasonEs": "MH Wilds Hub muestra el daño estimado junto al set y se actualiza al cambiar una decoración. WildsBuilder no calcula daño, solo arma.",
+      "reasonEn": "MH Wilds Hub shows estimated damage next to the set and updates when you change a decoration. WildsBuilder doesn't calculate damage, only builds."
+    },
+    {
+      "labelEs": "Reproducir pieza por pieza un set de una guía",
+      "labelEn": "Reproduce a set from a guide piece by piece",
+      "winner": "wildsbuilder",
+      "reasonEs": "El flujo directo de WildsBuilder hace la reproducción rápida y sin distracciones. La interfaz más densa de MH Wilds Hub agrega fricción para una tarea puramente de armado.",
+      "reasonEn": "WildsBuilder's direct flow makes reproduction fast and distraction-free. MH Wilds Hub's denser interface adds friction for a purely assembly task."
+    },
+    {
+      "labelEs": "Comparar dos sets por daño antes de farmear",
+      "labelEn": "Compare two sets by damage before farming",
+      "winner": "mhwilds-hub",
+      "reasonEs": "MH Wilds Hub permite armar dos variantes y leer el daño estimado de cada una sin abrir otra herramienta. WildsBuilder obliga a llevar los sets a una calculadora aparte.",
+      "reasonEn": "MH Wilds Hub lets you build two variants and read each one's estimated damage without opening another tool. WildsBuilder forces you to take the sets to a separate calculator."
+    },
+    {
+      "labelEs": "Pasarle un build a un amigo con un link",
+      "labelEn": "Hand a build to a friend with a link",
+      "winner": "wildsbuilder",
+      "reasonEs": "Compartir con link es el core de WildsBuilder y funciona sin cuenta. MH Wilds Hub sirve para compartir, pero su fuerte es el armado con feedback de daño, no la distribución.",
+      "reasonEn": "Link sharing is WildsBuilder's core and works without an account. MH Wilds Hub can share, but its strength is building with damage feedback, not distribution."
+    }
+  ]
+}

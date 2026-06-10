@@ -1,0 +1,30 @@
+{
+  "id": "mhwilds-calculator",
+  "name": "MH Wilds Calculator",
+  "shortName": "Wilds Calc",
+  "taglineEs": "Calculadora de daño open-source para MH Wilds: modela la fórmula completa (motion values, affinity, elemento, skills) para comparar armas y sets con números reales",
+  "taglineEn": "Open-source damage calculator for MH Wilds: models the full formula (motion values, affinity, element, skills) to compare weapons and sets with real numbers",
+  "url": "https://mhwilds-calculator.netlify.app/",
+  "category": "damage-calculator",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/chanleyou/mhwilds-calculator",
+  "license": "MIT",
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["damage-calculator", "motion-values", "open-source", "theorycrafting", "weapon-comparison"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/monster-hunter-wilds/mhwilds-calculator-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mathhunter", "mhwilds-hub", "kiranico-mhwilds"],
+  "alternatives": ["mathhunter"],
+  "createdBy": {
+    "name": "chanleyou",
+    "url": "https://github.com/chanleyou/mhwilds-calculator"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mhwilds-hub",
+  "name": "MH Wilds Hub",
+  "shortName": "Wilds Hub",
+  "taglineEs": "Set builder y calculadora de daño en una sola web: arma el set y ve el daño estimado del mismo flujo, sin saltar entre dos herramientas",
+  "taglineEn": "Set builder and damage calculator in one site: build the set and see estimated damage in the same flow, without jumping between two tools",
+  "url": "https://mhwildshub.com/",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["set-builder", "damage-calculator", "armor-skills", "decorations", "all-in-one"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/monster-hunter-wilds/mhwilds-hub-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["wildsbuilder", "rayleon-mhwilds", "mhwilds-calculator"],
+  "alternatives": ["wildsbuilder", "rayleon-mhwilds"],
+  "createdBy": {
+    "name": "MH Wilds Hub",
+    "url": "https://mhwildshub.com/"
+  }
+}

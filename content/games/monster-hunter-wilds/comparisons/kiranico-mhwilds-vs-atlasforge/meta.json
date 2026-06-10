@@ -1,0 +1,46 @@
+{
+  "id": "kiranico-mhwilds-vs-atlasforge",
+  "toolIds": ["kiranico-mhwilds", "atlasforge"],
+  "category": "database",
+  "depth": "short",
+  "lastVerified": "2026-06-09",
+  "verdictEs": "Kiranico si necesitas el dato más exacto y exhaustivo. AtlasForge si quieres mapa interactivo, database y planner integrados en un flujo. Precisión de datos vs integración cómoda.",
+  "verdictEn": "Kiranico if you need the most exact, exhaustive data. AtlasForge if you want an interactive map, database, and planner integrated in one flow. Data precision vs convenient integration.",
+  "useCases": [
+    {
+      "labelEs": "Conseguir el dato más exacto al decimal",
+      "labelEn": "Get the most exact data to the decimal",
+      "winner": "kiranico-mhwilds",
+      "reasonEs": "Kiranico es la fuente datamineada más exacta y exhaustiva. AtlasForge es más amplio pero no busca ser la database de mayor precisión.",
+      "reasonEn": "Kiranico is the most exact, exhaustive datamined source. AtlasForge is broader but doesn't aim to be the highest-precision database."
+    },
+    {
+      "labelEs": "Localizar un recurso o monstruo en el mapa",
+      "labelEn": "Locate a resource or monster on the map",
+      "winner": "atlasforge",
+      "reasonEs": "AtlasForge tiene mapa interactivo con filtros de endemic life, collectibles y monstruos. Kiranico no incluye mapa.",
+      "reasonEn": "AtlasForge has an interactive map with filters for endemic life, collectibles, and monsters. Kiranico has no map."
+    },
+    {
+      "labelEs": "Drop rates precisos para planear el farming",
+      "labelEn": "Precise drop rates to plan farming",
+      "winner": "kiranico-mhwilds",
+      "reasonEs": "Kiranico lista el porcentaje exacto por método. AtlasForge muestra los drops pero la precisión cruda es el dominio de Kiranico.",
+      "reasonEn": "Kiranico lists the exact percentage per method. AtlasForge shows drops, but raw precision is Kiranico's domain."
+    },
+    {
+      "labelEs": "Planear una ruta de farming integrando mapa y datos",
+      "labelEn": "Plan a farming route integrating map and data",
+      "winner": "atlasforge",
+      "reasonEs": "AtlasForge conecta database, mapa y planner en un mismo sitio, ideal para armar una sesión de farmeo. Kiranico es solo datos, sin esa integración.",
+      "reasonEn": "AtlasForge connects database, map, and planner in one site, ideal for assembling a farming session. Kiranico is data only, without that integration."
+    },
+    {
+      "labelEs": "Motion values para alimentar una calculadora",
+      "labelEn": "Motion values to feed a calculator",
+      "winner": "kiranico-mhwilds",
+      "reasonEs": "Kiranico es la fuente primaria de motion values y datos técnicos crudos. AtlasForge no apunta a ese nivel de detalle técnico.",
+      "reasonEn": "Kiranico is the primary source of motion values and raw technical data. AtlasForge doesn't aim at that level of technical detail."
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-06-07
+> Última generación: 2026-06-10
 
 ## Resumen
 
-28 juegos · 471 tools · 135 creators · 142 categorías · 710 resources items · 156 comparisons · 28 stacks
+29 juegos · 488 tools · 140 creators · 147 categorías · 735 resources items · 163 comparisons · 29 stacks
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons | Stacks |
 |---|---|---:|---:|---:|---:|---:|---:|
@@ -24,6 +24,7 @@
 | `last-epoch` | Last Epoch | 17 | 5 | 5 | 25 | 10 | 1 |
 | `league-of-legends` | League of Legends | 18 | 5 | 5 | 25 | 4 | 1 |
 | `marvel-rivals` | Marvel Rivals | 15 | 5 | 5 | 25 | 8 | 1 |
+| `monster-hunter-wilds` | Monster Hunter Wilds | 17 | 5 | 5 | 25 | 7 | 1 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 | 1 |
 | `nte` | Neverness to Everness | 12 | 5 | 5 | 25 | 4 | 1 |
 | `old-school-runescape` | Old School RuneScape | 15 | 5 | 5 | 25 | 8 | 1 |
@@ -295,6 +296,23 @@
 **Comparisons (8)**: `counterwatch-vs-rivalscounters` (flagship), `mobalytics-vs-marvelrivals-gg` (short), `prosettings-vs-crosshairhub` (short), `rivalsmeta-vs-blitz-gg` (short), `rivalsmeta-vs-marvelrivals-gg` (short), `rivalstracker-vs-rivalsdb` (short), `tracker-gg-vs-rivalstracker` (flagship), `wiki-gg-vs-fandom-wiki` (short)
 
 **Stacks (1)**: `ultimate-marvel-rivals-toolkit` (6 tools)
+
+### Monster Hunter Wilds (`monster-hunter-wilds`)
+
+**Tools (17)**: AtlasForge (`atlasforge`), Fextralife Wiki MH Wilds (`fextralife-mhwilds`), Fluffy Mod Manager (`fluffy-mod-manager`), Game8 MH Wilds (`game8-mhwilds`), HunterPie (`hunterpie`), Kiranico (`kiranico-mhwilds`), Math Hunter (`mathhunter`), Maxroll MH Wilds (`maxroll-mhw`), MH Wilds Calculator (`mhwilds-calculator`), Monster Hunter Wilds Discord (oficial) (`mhwilds-discord`), MH Wilds Hub (`mhwilds-hub`), r/MonsterHunterWilds (`mhwilds-subreddit`), Mobalytics MH Wilds (`mobalytics-mhw`), Nexus Mods MH Wilds (`nexusmods-mhwilds`), Rayleon Armour Builder (`rayleon-mhwilds`), REFramework (`reframework`), WildsBuilder (`wildsbuilder`)
+
+**Creators (5)**: Arekkz Gaming (`arekkz-gaming`), Erulaz (`erulaz`), leondrummer (`leondrummer`), Phemeto (`phemeto`), Team Darkside (`team-darkside`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `endgame-guides` — 5 items
+- `monster-guides` — 5 items
+- `title-update-coverage` — 5 items
+- `weapon-guides` — 5 items
+
+**Comparisons (7)**: `game8-mhwilds-vs-fextralife-mhwilds` (short), `kiranico-mhwilds-vs-atlasforge` (short), `kiranico-mhwilds-vs-game8-mhwilds` (short), `maxroll-mhw-vs-mobalytics-mhw` (short), `mhwilds-calculator-vs-mathhunter` (short), `wildsbuilder-vs-mhwilds-hub` (flagship), `wildsbuilder-vs-rayleon-mhwilds` (short)
+
+**Stacks (1)**: `mhwilds-hunter-toolkit` (6 tools)
 
 ### No Man's Sky (`no-mans-sky`)
 

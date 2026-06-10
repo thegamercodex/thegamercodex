@@ -1,0 +1,38 @@
+{
+  "id": "leondrummer",
+  "name": "leondrummer",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@leondrummer",
+      "url": "https://www.youtube.com/@leondrummer",
+      "channelId": "UCZ9N6sd7NfvGwQfoan_BzGQ",
+      "primary": true
+    }
+  ],
+  "specialties": ["meta-builds", "weapon-guides", "tier-lists", "guides"],
+  "games": ["monster-hunter-wilds"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "leondrummer se enfoca en builds META para todas las armas de Monster Hunter Wilds, actualizadas patch a patch. Su serie de sets por arma es una de las referencias en español para quien quiere ir directo al grano: qué equipar ahora mismo en cada arma según el Title Update vigente. Contenido orientado a optimización, claro y al día.",
+  "noteEn": "leondrummer focuses on META builds for every Monster Hunter Wilds weapon, updated patch by patch. His per-weapon set series is one of the Spanish-language references for those who want to cut to the chase: what to equip right now on each weapon according to the current Title Update. Optimization-oriented content, clear and up to date.",
+  "highlightsEs": [
+    "Builds META por arma, actualizadas Title Update a Title Update",
+    "Serie de referencia en español para optimización de sets",
+    "Contenido directo: qué equipar ahora en cada arma",
+    "Cobertura de las 14 armas de Wilds",
+    "Orientado a jugadores intermedios y avanzados"
+  ],
+  "highlightsEn": [
+    "Per-weapon META builds, updated Title Update by Title Update",
+    "Reference Spanish-language series for set optimization",
+    "Direct content: what to equip now on each weapon",
+    "Coverage of all 14 Wilds weapons",
+    "Aimed at intermediate and advanced players"
+  ],
+  "avatar": "/images/creators/leondrummer-avatar.jpg",
+  "banner": "/images/creators/leondrummer-banner.jpg"
+}

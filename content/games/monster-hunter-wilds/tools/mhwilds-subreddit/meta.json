@@ -1,0 +1,29 @@
+{
+  "id": "mhwilds-subreddit",
+  "name": "r/MonsterHunterWilds",
+  "shortName": "r/MHWilds",
+  "taglineEs": "Subreddit principal de Monster Hunter Wilds: reacciones a Title Updates, debates de meta, dudas de novatos, screenshots de cazas y el pulso diario de la comunidad del juego",
+  "taglineEn": "Main Monster Hunter Wilds subreddit: Title Update reactions, meta debates, newbie questions, hunt screenshots, and the daily pulse of the game's community",
+  "url": "https://www.reddit.com/r/MonsterHunterWilds/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["reddit", "community", "discussion", "title-update-reactions", "meta-debates"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mhwilds-discord"],
+  "alternatives": ["mhwilds-discord"],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/MonsterHunterWilds/about"
+  }
+}

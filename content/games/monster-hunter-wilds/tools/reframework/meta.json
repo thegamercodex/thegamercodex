@@ -1,0 +1,30 @@
+{
+  "id": "reframework",
+  "name": "REFramework",
+  "shortName": "REFramework",
+  "taglineEs": "Framework de modding open-source para juegos RE Engine, incluido MH Wilds: API de scripting en Lua que habilita overlays, QoL mods y herramientas de la comunidad",
+  "taglineEn": "Open-source modding framework for RE Engine games, including MH Wilds: a Lua scripting API that enables overlays, QoL mods, and community tools",
+  "url": "https://github.com/praydog/REFramework",
+  "category": "overlays-mods",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/praydog/REFramework",
+  "license": "MIT",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["modding-framework", "lua-scripting", "re-engine", "foundation", "qol-mods"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["hunterpie", "fluffy-mod-manager", "nexusmods-mhwilds"],
+  "alternatives": ["fluffy-mod-manager"],
+  "createdBy": {
+    "name": "praydog",
+    "url": "https://github.com/praydog/REFramework"
+  }
+}

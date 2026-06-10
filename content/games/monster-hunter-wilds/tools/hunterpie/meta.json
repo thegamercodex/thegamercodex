@@ -1,0 +1,30 @@
+{
+  "id": "hunterpie",
+  "name": "HunterPie",
+  "shortName": "HunterPie",
+  "taglineEs": "Overlay y companion open-source para MH Wilds: monster HP, daño en tiempo real, timers de crown y Discord Rich Presence sobre el cliente de PC — la referencia de overlays de la saga",
+  "taglineEn": "Open-source overlay and companion for MH Wilds: monster HP, real-time damage, crown timers, and Discord Rich Presence over the PC client — the series' overlay reference",
+  "url": "https://www.nexusmods.com/monsterhunterwilds/mods/1945",
+  "category": "overlays-mods",
+  "type": "overlay",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Haato3o/HunterPie",
+  "license": "MIT",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["overlay", "monster-hp", "damage-meter", "discord-rich-presence", "companion"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["reframework", "nexusmods-mhwilds", "fluffy-mod-manager"],
+  "alternatives": ["reframework"],
+  "createdBy": {
+    "name": "Haato3o",
+    "url": "https://github.com/Haato3o/HunterPie"
+  }
+}

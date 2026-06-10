@@ -5,6 +5,7 @@ import {
   ExternalLink,
   Gamepad2,
   Heart,
+  Layers,
   Rss,
   Scale,
   Sparkles,
@@ -60,6 +61,7 @@ const TYPE_ICONS: Record<ChangelogEventType, typeof Wrench> = {
   game: Gamepad2,
   resource: BookOpen,
   comparison: Scale,
+  stack: Layers,
 };
 
 const ACTION_COLORS: Record<string, string> = {

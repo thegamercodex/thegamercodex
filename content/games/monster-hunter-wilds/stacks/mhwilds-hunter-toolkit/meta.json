@@ -1,0 +1,37 @@
+{
+  "id": "mhwilds-hunter-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-09",
+  "items": [
+    {
+      "toolId": "maxroll-mhw",
+      "roleEs": "El hub editorial: builds meta explicados por arma y guías de farming. El core para decidir qué armar y por qué antes de tocar nada más.",
+      "roleEn": "The editorial hub: explained per-weapon meta builds and farming guides. The core for deciding what to build and why before touching anything else."
+    },
+    {
+      "toolId": "wildsbuilder",
+      "roleEs": "El set builder: resuelve qué armadura y decoraciones cumplen tus skills y te deja compartir el set con un link. La capa de armado.",
+      "roleEn": "The set builder: solves which armor and decorations meet your skills and lets you share the set with a link. The assembly layer."
+    },
+    {
+      "toolId": "mhwilds-calculator",
+      "roleEs": "La verificación de daño: modela la fórmula para confirmar con números si tu set rinde más que otro. La capa de optimización.",
+      "roleEn": "The damage check: models the formula to confirm with numbers whether your set outperforms another. The optimization layer."
+    },
+    {
+      "toolId": "kiranico-mhwilds",
+      "roleEs": "La fuente de datos: hitzones exactos, drop rates y motion values. El dato crudo que alimenta tanto el armado como la calculadora.",
+      "roleEn": "The data source: exact hitzones, drop rates, and motion values. The raw data that feeds both the build and the calculator."
+    },
+    {
+      "toolId": "atlasforge",
+      "roleEs": "El mapa: localiza monstruos, materiales y endemic life para planear rutas de farming eficientes. La capa de logística.",
+      "roleEn": "The map: locates monsters, materials, and endemic life to plan efficient farming routes. The logistics layer."
+    },
+    {
+      "toolId": "hunterpie",
+      "roleEs": "El overlay in-game: monster HP y daño en tiempo real para verificar en la cacería que el plan funciona. La capa de feedback en vivo.",
+      "roleEn": "The in-game overlay: real-time monster HP and damage to verify mid-hunt that the plan works. The live-feedback layer."
+    }
+  ]
+}

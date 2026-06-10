@@ -1,0 +1,38 @@
+{
+  "id": "phemeto",
+  "name": "Phemeto",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Phemeto",
+      "url": "https://www.youtube.com/@Phemeto",
+      "channelId": "UCWinJaYAlxI9LjGmFofiuwg",
+      "primary": true
+    }
+  ],
+  "specialties": ["weapon-guides", "combos", "technique", "tutorials"],
+  "games": ["monster-hunter-wilds"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Phemeto se especializa en tutoriales de armas en profundidad: combos, frame data práctico, cómo usar Focus Mode y wounds con cada arma, y por qué una rotación rinde más que otra. Es el canal al que ir cuando ya elegiste arma y quieres dominarla de verdad, no solo copiar un set. Su enfoque es técnico pero explicado con claridad.",
+  "noteEn": "Phemeto specializes in in-depth weapon tutorials: combos, practical frame data, how to use Focus Mode and wounds with each weapon, and why one rotation outperforms another. It's the channel to go to once you've picked a weapon and want to truly master it, not just copy a set. His approach is technical but clearly explained.",
+  "highlightsEs": [
+    "Tutoriales de armas en profundidad, combo por combo",
+    "Explica Focus Mode y wounds aplicados a cada arma",
+    "Enfoque técnico pero didáctico",
+    "Ideal para dominar un arma, no solo copiar sets",
+    "Contenido de optimización de técnica, no solo de gear"
+  ],
+  "highlightsEn": [
+    "In-depth weapon tutorials, combo by combo",
+    "Explains Focus Mode and wounds applied to each weapon",
+    "Technical but didactic approach",
+    "Ideal for mastering a weapon, not just copying sets",
+    "Technique-optimization content, not just gear"
+  ],
+  "avatar": "/images/creators/phemeto-avatar.jpg",
+  "banner": "/images/creators/phemeto-banner.jpg"
+}

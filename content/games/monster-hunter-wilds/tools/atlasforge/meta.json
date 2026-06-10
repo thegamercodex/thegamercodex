@@ -1,0 +1,29 @@
+{
+  "id": "atlasforge",
+  "name": "AtlasForge",
+  "shortName": "AtlasForge",
+  "taglineEs": "Recurso todo-en-uno para MH Wilds: mapa interactivo de monstruos, endemic life y collectibles, más database de items y build planner — el sitio que mezcla mapa, datos y armado",
+  "taglineEn": "All-in-one resource for MH Wilds: interactive map of monsters, endemic life, and collectibles, plus an item database and build planner — the site that blends map, data, and building",
+  "url": "https://atlasforge.gg/monster-hunter-wilds",
+  "category": "database",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["interactive-map", "database", "build-planner", "endemic-life", "collectibles"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/common/atlasforge-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["kiranico-mhwilds", "game8-mhwilds", "maxroll-mhw"],
+  "alternatives": ["kiranico-mhwilds", "game8-mhwilds"],
+  "createdBy": {
+    "name": "AtlasForge",
+    "url": "https://atlasforge.gg/"
+  }
+}

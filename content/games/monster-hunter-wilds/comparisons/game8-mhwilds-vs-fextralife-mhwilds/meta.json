@@ -1,0 +1,46 @@
+{
+  "id": "game8-mhwilds-vs-fextralife-mhwilds",
+  "toolIds": ["game8-mhwilds", "fextralife-mhwilds"],
+  "category": "database",
+  "depth": "short",
+  "lastVerified": "2026-06-09",
+  "verdictEs": "Game8 si quieres datos tabulares concisos y builds listos. Fextralife si prefieres el formato wiki clásico con comentarios de comunidad. Tabular y rápido vs colaborativo y conversacional.",
+  "verdictEn": "Game8 if you want concise tabular data and ready builds. Fextralife if you prefer the classic wiki format with community comments. Tabular and fast vs collaborative and conversational.",
+  "useCases": [
+    {
+      "labelEs": "Escanear datos en tablas rápido",
+      "labelEn": "Scan data in tables fast",
+      "winner": "game8-mhwilds",
+      "reasonEs": "Game8 es marcadamente tabular y conciso, fácil de escanear. Fextralife tiene más prosa y formato de foro que ralentiza la lectura rápida.",
+      "reasonEn": "Game8 is markedly tabular and concise, easy to scan. Fextralife has more prose and a forum format that slows quick reading."
+    },
+    {
+      "labelEs": "Tips y correcciones de otros jugadores",
+      "labelEn": "Tips and corrections from other players",
+      "winner": "fextralife-mhwilds",
+      "reasonEs": "Fextralife tiene comentarios de comunidad al pie de cada página, donde aparecen tips. Game8 no tiene ese hilo conversacional por página.",
+      "reasonEn": "Fextralife has community comments at the bottom of each page, where tips appear. Game8 doesn't have that conversational thread per page."
+    },
+    {
+      "labelEs": "Build meta listo por arma",
+      "labelEn": "A ready per-weapon meta build",
+      "winner": "game8-mhwilds",
+      "reasonEs": "Game8 mantiene builds por arma actualizados por patch. Fextralife se centra más en páginas de referencia que en curaduría de builds.",
+      "reasonEn": "Game8 keeps per-weapon builds updated per patch. Fextralife focuses more on reference pages than on build curation."
+    },
+    {
+      "labelEs": "Páginas de referencia familiares y lore",
+      "labelEn": "Familiar reference pages and lore",
+      "winner": "fextralife-mhwilds",
+      "reasonEs": "Fextralife usa el formato wiki clásico que muchos conocen de sus wikis de Souls, con notas de lore. Game8 es más utilitario y menos narrativo.",
+      "reasonEn": "Fextralife uses the classic wiki format many know from its Souls wikis, with lore notes. Game8 is more utilitarian and less narrative."
+    },
+    {
+      "labelEs": "Walkthrough estructurado de la campaña",
+      "labelEn": "A structured campaign walkthrough",
+      "winner": "game8-mhwilds",
+      "reasonEs": "Game8 tiene un walkthrough paso a paso bien estructurado. Fextralife cubre locations pero con menos guía secuencial.",
+      "reasonEn": "Game8 has a well-structured step-by-step walkthrough. Fextralife covers locations but with less sequential guidance."
+    }
+  ]
+}

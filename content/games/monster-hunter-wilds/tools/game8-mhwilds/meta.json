@@ -1,0 +1,29 @@
+{
+  "id": "game8-mhwilds",
+  "name": "Game8 MH Wilds",
+  "shortName": "Game8",
+  "taglineEs": "Wiki-guía exhaustiva de MH Wilds: builds por arma, armor set search, walkthrough, mapas y tablas de weakness — el recurso más completo en cobertura escrita, actualizado por patch",
+  "taglineEn": "Exhaustive wiki-guide for MH Wilds: per-weapon builds, armor set search, walkthrough, maps, and weakness tables — the most complete written-coverage resource, updated per patch",
+  "url": "https://game8.co/games/Monster-Hunter-Wilds",
+  "category": "database",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "builds", "walkthrough", "armor-set-search", "weakness-tables"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/monster-hunter-wilds/game8-mhwilds-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["fextralife-mhwilds", "kiranico-mhwilds", "maxroll-mhw"],
+  "alternatives": ["fextralife-mhwilds", "kiranico-mhwilds"],
+  "createdBy": {
+    "name": "Game8",
+    "url": "https://game8.co/"
+  }
+}

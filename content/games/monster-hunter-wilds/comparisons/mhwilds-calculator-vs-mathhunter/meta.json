@@ -1,0 +1,46 @@
+{
+  "id": "mhwilds-calculator-vs-mathhunter",
+  "toolIds": ["mhwilds-calculator", "mathhunter"],
+  "category": "damage-calculator",
+  "depth": "short",
+  "lastVerified": "2026-06-09",
+  "verdictEs": "MH Wilds Calculator si quieres una herramienta interactiva y open-source para comparar números. Math Hunter si quieres entender la teoría detrás del daño. Calculadora pura vs calculadora que enseña.",
+  "verdictEn": "MH Wilds Calculator if you want an interactive, open-source tool to compare numbers. Math Hunter if you want to understand the theory behind damage. Pure calculator vs calculator that teaches.",
+  "useCases": [
+    {
+      "labelEs": "Comparar dos sets con números interactivos",
+      "labelEn": "Compare two sets with interactive numbers",
+      "winner": "mhwilds-calculator",
+      "reasonEs": "MH Wilds Calculator está hecha para introducir setups y comparar el resultado al instante. Math Hunter es más fuerte en explicar que en la iteración interactiva pura.",
+      "reasonEn": "MH Wilds Calculator is built to input setups and compare the result instantly. Math Hunter is stronger at explaining than at pure interactive iteration."
+    },
+    {
+      "labelEs": "Entender por qué un set rinde más que otro",
+      "labelEn": "Understand why one set performs better than another",
+      "winner": "mathhunter",
+      "reasonEs": "Math Hunter documenta la fórmula y la teoría, así que no solo ves el número, entiendes la causa. MH Wilds Calculator da el resultado sin la capa pedagógica.",
+      "reasonEn": "Math Hunter documents the formula and the theory, so you don't just see the number, you understand the cause. MH Wilds Calculator gives the result without the pedagogical layer."
+    },
+    {
+      "labelEs": "Auditar exactamente cómo se calcula el daño",
+      "labelEn": "Audit exactly how damage is calculated",
+      "winner": "mhwilds-calculator",
+      "reasonEs": "MH Wilds Calculator es open-source: puedes revisar la fórmula en GitHub, abrir un issue o correrla localmente. Math Hunter explica pero no expone el código.",
+      "reasonEn": "MH Wilds Calculator is open-source: you can review the formula on GitHub, open an issue, or run it locally. Math Hunter explains but doesn't expose the code."
+    },
+    {
+      "labelEs": "Aprender la teoría del daño desde cero",
+      "labelEn": "Learn damage theory from scratch",
+      "winner": "mathhunter",
+      "reasonEs": "Math Hunter está pensada para enseñar: affinity efectiva, interacción de elemento y raw, por qué ciertas skills rinden más. MH Wilds Calculator asume que ya entiendes los inputs.",
+      "reasonEn": "Math Hunter is built to teach: effective affinity, element and raw interaction, why certain skills perform better. MH Wilds Calculator assumes you already understand the inputs."
+    },
+    {
+      "labelEs": "Iterar rápido cambiando una variable a la vez",
+      "labelEn": "Iterate fast by changing one variable at a time",
+      "winner": "mhwilds-calculator",
+      "reasonEs": "Su interfaz interactiva está optimizada para el bucle introducir-comparar-ajustar. Math Hunter mezcla calculadora con lectura, lo que ralentiza la iteración pura.",
+      "reasonEn": "Its interactive interface is optimized for the input-compare-adjust loop. Math Hunter mixes calculator with reading, which slows pure iteration."
+    }
+  ]
+}

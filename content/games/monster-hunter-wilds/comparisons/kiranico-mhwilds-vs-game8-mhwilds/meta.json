@@ -1,0 +1,46 @@
+{
+  "id": "kiranico-mhwilds-vs-game8-mhwilds",
+  "toolIds": ["kiranico-mhwilds", "game8-mhwilds"],
+  "category": "database",
+  "depth": "short",
+  "lastVerified": "2026-06-09",
+  "verdictEs": "Kiranico si necesitas el dato exacto y datamineado. Game8 si quieres una respuesta escrita, explicada y contextualizada. Fuente primaria de datos vs wiki-guía amigable.",
+  "verdictEn": "Kiranico if you need the exact, datamined figure. Game8 if you want a written, explained, contextualized answer. Primary data source vs friendly wiki-guide.",
+  "useCases": [
+    {
+      "labelEs": "Conseguir el hitzone exacto al decimal",
+      "labelEn": "Get the exact hitzone to the decimal",
+      "winner": "kiranico-mhwilds",
+      "reasonEs": "Kiranico da el hitzone value numérico datamineado. Game8 suele presentar weakness de forma más aproximada y legible, no el dato crudo exacto.",
+      "reasonEn": "Kiranico gives the datamined numeric hitzone value. Game8 usually presents weakness more approximately and readably, not the exact raw figure."
+    },
+    {
+      "labelEs": "Respuesta escrita y explicada a una duda concreta",
+      "labelEn": "A written, explained answer to a concrete question",
+      "winner": "game8-mhwilds",
+      "reasonEs": "Game8 está optimizado para responder preguntas con artículos claros. Kiranico da datos crudos sin la capa explicativa.",
+      "reasonEn": "Game8 is optimized to answer questions with clear articles. Kiranico gives raw data without the explanatory layer."
+    },
+    {
+      "labelEs": "Drop rates precisos para planear el farming",
+      "labelEn": "Precise drop rates to plan farming",
+      "winner": "kiranico-mhwilds",
+      "reasonEs": "Kiranico lista el porcentaje exacto por método de obtención. Game8 a veces resume los drops sin el porcentaje preciso.",
+      "reasonEn": "Kiranico lists the exact percentage per acquisition method. Game8 sometimes summarizes drops without the precise percentage."
+    },
+    {
+      "labelEs": "Build listo por arma con su explicación",
+      "labelEn": "A ready per-weapon build with its explanation",
+      "winner": "game8-mhwilds",
+      "reasonEs": "Game8 ofrece builds meta por arma con contexto. Kiranico es una database, no curaduría de builds.",
+      "reasonEn": "Game8 offers per-weapon meta builds with context. Kiranico is a database, not build curation."
+    },
+    {
+      "labelEs": "Motion values para alimentar una calculadora",
+      "labelEn": "Motion values to feed a calculator",
+      "winner": "kiranico-mhwilds",
+      "reasonEs": "Kiranico es la fuente primaria de motion values exactos. Game8 raramente expone ese dato técnico crudo.",
+      "reasonEn": "Kiranico is the primary source of exact motion values. Game8 rarely exposes that raw technical data."
+    }
+  ]
+}

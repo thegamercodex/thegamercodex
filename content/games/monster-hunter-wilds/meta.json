@@ -1,0 +1,129 @@
+{
+  "id": "monster-hunter-wilds",
+  "name": "Monster Hunter Wilds",
+  "shortName": "MH Wilds",
+  "developer": "Capcom",
+  "releaseYear": 2025,
+  "officialUrl": "https://www.monsterhunter.com/wilds/en-us/",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/",
+      "appId": "2246340",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/product/UP0102-PPSA07862_00-MHWILDSSTANDARD0",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "xbox",
+      "url": "https://www.xbox.com/en-US/games/store/monster-hunter-wilds/9NMT6XFN0LVD/0010",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["cosmetics", "character-edit-vouchers", "dlc-packs"],
+    "payToWin": false,
+    "noteEs": "Compra única (~$70 USD). Tiene una tienda de cosméticos (gestos, pendants, layered armor, decoración del Seikret) y character edit vouchers, todo opcional y puramente estético. Los Title Updates con monstruos, armas y eventos nuevos son gratuitos para todos. Sin nada que compre poder: el gear, las skills y las decoraciones salen del gameplay.",
+    "noteEn": "One-time purchase (~$70 USD). It has a cosmetics shop (gestures, pendants, layered armor, Seikret decor) and character edit vouchers, all optional and purely cosmetic. Title Updates with new monsters, weapons, and events are free for everyone. Nothing buys power: gear, skills, and decorations all come from gameplay."
+  },
+  "platforms": ["windows", "playstation", "xbox"],
+  "genres": ["arpg", "open-world"],
+  "theme": {
+    "primary": "#8a5a2b",
+    "secondary": "#17110a",
+    "accent": "#e0a73c",
+    "background": "#0d0906",
+    "text": "#ece0cc"
+  },
+  "logo": "/images/games/monster-hunter-wilds-logo.webp",
+  "heroImage": "/images/games/monster-hunter-wilds-hero.webp",
+  "toolCategories": [
+    {
+      "id": "build-planning",
+      "nameEs": "Planificación de Builds",
+      "nameEn": "Build Planning",
+      "descriptionEs": "Set builders y solvers que arman tu armadura, skills y decoraciones, y te dejan compartir el set pieza por pieza.",
+      "descriptionEn": "Set builders and solvers that assemble your armor, skills, and decorations, and let you share the set piece by piece.",
+      "icon": "🧮"
+    },
+    {
+      "id": "damage-calculator",
+      "nameEs": "Calculadoras de daño",
+      "nameEn": "Damage calculators",
+      "descriptionEs": "Calculadoras que modelan la fórmula de daño para comparar armas, motion values y combos de skills.",
+      "descriptionEn": "Calculators that model the damage formula to compare weapons, motion values, and skill combos.",
+      "icon": "➗"
+    },
+    {
+      "id": "database",
+      "nameEs": "Databases, mapas y wikis",
+      "nameEn": "Databases, maps & wikis",
+      "descriptionEs": "Bases de datos de monstruos, armas, items y decoraciones, mapas interactivos y wikis con weakness charts y drop rates.",
+      "descriptionEn": "Databases for monsters, weapons, items, and decorations, interactive maps, and wikis with weakness charts and drop rates.",
+      "icon": "📚"
+    },
+    {
+      "id": "overlays-mods",
+      "nameEs": "Overlays y mods",
+      "nameEn": "Overlays & mods",
+      "descriptionEs": "Overlays de daño y monster HP, frameworks de modding y gestores de mods para el cliente de PC.",
+      "descriptionEn": "Damage and monster-HP overlays, modding frameworks, and mod managers for the PC client.",
+      "icon": "🖥️"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Hubs de la comunidad: Discord oficial de Capcom y el subreddit del juego.",
+      "descriptionEn": "Community hubs: Capcom's official Discord and the game's subreddit.",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para principiantes",
+      "nameEn": "Beginner guides",
+      "descriptionEs": "Primeros pasos: elección de arma, mecánicas de Focus Mode y wounds, Seikret y el flujo de cacería.",
+      "descriptionEn": "First steps: weapon choice, Focus Mode and wound mechanics, the Seikret, and the hunt loop.",
+      "icon": "🎓"
+    },
+    {
+      "id": "weapon-guides",
+      "nameEs": "Guías de armas",
+      "nameEn": "Weapon guides",
+      "descriptionEs": "Combos, rotaciones y tutoriales por cada una de las 14 armas, de novato a optimización.",
+      "descriptionEn": "Combos, rotations, and tutorials for each of the 14 weapons, from novice to optimization.",
+      "icon": "⚔️"
+    },
+    {
+      "id": "endgame-guides",
+      "nameEs": "Guías de endgame",
+      "nameEn": "Endgame guides",
+      "descriptionEs": "Tempered monsters, Arch-tempered, decoration farming, talismans y sets meta de máximo daño.",
+      "descriptionEn": "Tempered monsters, Arch-tempered, decoration farming, talismans, and max-damage meta sets.",
+      "icon": "🔥"
+    },
+    {
+      "id": "title-update-coverage",
+      "nameEs": "Cobertura de Title Updates",
+      "nameEn": "Title Update coverage",
+      "descriptionEs": "Monstruos, armas y eventos nuevos de cada Title Update gratuito, con análisis de balance.",
+      "descriptionEn": "New monsters, weapons, and events from each free Title Update, with balance analysis.",
+      "icon": "🗓️"
+    },
+    {
+      "id": "monster-guides",
+      "nameEs": "Guías de monstruos",
+      "nameEn": "Monster guides",
+      "descriptionEs": "Weakness, patrones de ataque, breaks y estrategias por monstruo, incluyendo los tempered.",
+      "descriptionEn": "Weaknesses, attack patterns, breaks, and per-monster strategies, including tempered variants.",
+      "icon": "🐉"
+    }
+  ]
+}

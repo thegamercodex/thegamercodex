@@ -1,0 +1,29 @@
+{
+  "id": "mathhunter",
+  "name": "Math Hunter",
+  "shortName": "Math Hunter",
+  "taglineEs": "Calculadora de daño y recurso de teoría para MH Wilds: explica la fórmula, ofrece guías por arma y publica resúmenes meta para entender el porqué detrás de los números",
+  "taglineEn": "Damage calculator and theory resource for MH Wilds: explains the formula, offers per-weapon guides, and publishes meta summaries to understand the why behind the numbers",
+  "url": "https://www.mathhunter.ca/",
+  "category": "damage-calculator",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["damage-calculator", "damage-formula", "weapon-guides", "meta-summaries", "theory"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/monster-hunter-wilds/mathhunter-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mhwilds-calculator", "maxroll-mhw", "kiranico-mhwilds"],
+  "alternatives": ["mhwilds-calculator"],
+  "createdBy": {
+    "name": "Math Hunter",
+    "url": "https://www.mathhunter.ca/"
+  }
+}

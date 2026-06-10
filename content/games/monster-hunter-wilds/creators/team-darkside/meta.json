@@ -1,0 +1,38 @@
+{
+  "id": "team-darkside",
+  "name": "Team Darkside",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@TeamDarkside",
+      "url": "https://www.youtube.com/@TeamDarkside",
+      "channelId": "UCG8wOav28pu6mT9NXRlWohw",
+      "primary": true
+    }
+  ],
+  "specialties": ["speedruns", "meta-builds", "endgame", "optimization"],
+  "games": ["monster-hunter-wilds"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["advanced"],
+  "noteEs": "Team Darkside es referencia en el extremo competitivo de Monster Hunter: speedruns, time attacks y los sets meta de máximo daño que define la comunidad hardcore. Si quieres ver el techo real de un arma —la build óptima y la ejecución perfecta contra un tempered o Arch-tempered— este es el canal. No es para principiantes, es para quien busca el último 5% de optimización.",
+  "noteEn": "Team Darkside is a reference at Monster Hunter's competitive edge: speedruns, time attacks, and the max-damage meta sets the hardcore community defines. If you want to see a weapon's true ceiling—the optimal build and perfect execution against a tempered or Arch-tempered—this is the channel. It's not for beginners; it's for those chasing the last 5% of optimization.",
+  "highlightsEs": [
+    "Referencia de speedruns y time attacks de la saga",
+    "Sets meta de máximo daño definidos por la comunidad hardcore",
+    "Muestra el techo real de cada arma",
+    "Ejecución perfecta contra tempered y Arch-tempered",
+    "Para optimizadores que buscan el último 5%"
+  ],
+  "highlightsEn": [
+    "Reference for the series' speedruns and time attacks",
+    "Max-damage meta sets defined by the hardcore community",
+    "Shows the true ceiling of each weapon",
+    "Perfect execution against tempered and Arch-tempered",
+    "For optimizers chasing the last 5%"
+  ],
+  "avatar": "/images/creators/team-darkside-avatar.jpg",
+  "banner": "/images/creators/team-darkside-banner.jpg"
+}

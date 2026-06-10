@@ -351,7 +351,8 @@ Si el entry es muy corto y no querés escribir bilingüe, podés poner el body e
 ## Process
 
 - Antes de declarar un cambio "listo", **correr `npx next build`** y verificar que pasa sin errores.
-- Para cambios UI/frontend, también verificar visualmente (curl al dev server o refresh en browser). Si no se puede testear visualmente, decirlo explícitamente.
+- **Claude NUNCA levanta el dev server local** (`npm run dev` / `next dev`). Por algún motivo siempre se cuelga en este entorno. Si hace falta el server corriendo para verificar algo, pedirle al usuario que lo levante él (`! npm run dev` o lo corre por su cuenta) y avisar qué hay que mirar. Para validación que no requiere server interactivo, usar `npx next build`.
+- Para cambios UI/frontend, también verificar visualmente (refresh en browser con el server que levanta el usuario). Si no se puede testear visualmente, decirlo explícitamente.
 - **NO hacer commit/push automáticamente**. Pedir confirmación al usuario antes de cada commit/push.
 - Mensajes de commit: imperativos cortos en el subject; body explicando WHY (no WHAT — el diff dice el WHAT).
 - No usar emojis ni decoraciones en mensajes de commit, PRs, ni código.

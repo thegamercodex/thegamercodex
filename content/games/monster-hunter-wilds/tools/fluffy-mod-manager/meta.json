@@ -1,0 +1,29 @@
+{
+  "id": "fluffy-mod-manager",
+  "name": "Fluffy Mod Manager",
+  "shortName": "Fluffy",
+  "taglineEs": "Gestor de mods ligero para juegos RE Engine, incluido MH Wilds: instala, activa, desactiva y ordena mods sin tocar archivos del juego a mano — el estándar de la comunidad",
+  "taglineEn": "Lightweight mod manager for RE Engine games, including MH Wilds: install, enable, disable, and order mods without touching game files by hand — the community standard",
+  "url": "https://fluffyquack.com/",
+  "category": "overlays-mods",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["mod-manager", "re-engine", "install-mods", "load-order", "lightweight"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/monster-hunter-wilds/fluffy-mod-manager-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nexusmods-mhwilds", "reframework", "hunterpie"],
+  "alternatives": ["nexusmods-mhwilds"],
+  "createdBy": {
+    "name": "FluffyQuack",
+    "url": "https://fluffyquack.com/"
+  }
+}

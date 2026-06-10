@@ -1,0 +1,80 @@
+{
+  "category": "weapon-guides",
+  "resources": [
+    {
+      "id": "arekkz-great-sword-tutorial-mhwilds-2025",
+      "type": "video",
+      "title": "Monster Hunter Wilds | Great Sword Tutorial",
+      "creator": "Arekkz Gaming",
+      "creatorId": "arekkz-gaming",
+      "url": "https://www.youtube.com/watch?v=mhC1eHMnZzY",
+      "youtubeId": "mhC1eHMnZzY",
+      "language": "en",
+      "duration": "30:52",
+      "publishedDate": "2025-03-15",
+      "thumbnail": "https://i.ytimg.com/vi/mhC1eHMnZzY/maxresdefault.jpg",
+      "noteEs": "Tutorial completo de Great Sword por Arekkz: moveset, el nuevo combo de Focus Strike contra wounds y la ventana de True Charged Slash. Referencia clara para el arma de mayor daño por golpe.",
+      "noteEn": "Complete Great Sword tutorial by Arekkz: moveset, the new Focus Strike combo against wounds, and the True Charged Slash window. A clear reference for the highest single-hit-damage weapon."
+    },
+    {
+      "id": "ragegaming-ultimate-long-sword-guide-mhwilds-2025",
+      "type": "video",
+      "title": "Monster Hunter Wilds - Ultimate Long Sword Guide - Best Combos - Advanced Tutorial, Tips & Skills!",
+      "creator": "RageGamingVideos",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=zvcn-vcozMc",
+      "youtubeId": "zvcn-vcozMc",
+      "language": "en",
+      "duration": "28:14",
+      "publishedDate": "2025-03-13",
+      "thumbnail": "https://i.ytimg.com/vi/zvcn-vcozMc/maxresdefault.jpg",
+      "noteEs": "Guía avanzada de Long Sword: combos óptimos, gestión del Spirit Gauge y los counters que definen el arma. Profunda, para quien ya eligió Long Sword y quiere exprimir su DPS.",
+      "noteEn": "Advanced Long Sword guide: optimal combos, Spirit Gauge management, and the counters that define the weapon. Deep, for anyone who has already picked Long Sword and wants to squeeze its DPS."
+    },
+    {
+      "id": "ign-long-sword-guide-mhwilds-2025",
+      "type": "video",
+      "title": "Monster Hunter Wilds: Long Sword Guide",
+      "creator": "IGN",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=k6WtE74C_d4",
+      "youtubeId": "k6WtE74C_d4",
+      "language": "en",
+      "duration": "11:04",
+      "publishedDate": "2025-03-11",
+      "thumbnail": "https://i.ytimg.com/vi/k6WtE74C_d4/maxresdefault.jpg",
+      "noteEs": "Versión condensada de Long Sword por IGN: lo esencial del moveset y la rotación en 11 minutos. Buen punto medio entre el resumen rápido y la guía avanzada de 28 minutos.",
+      "noteEn": "Condensed Long Sword take by IGN: the moveset and rotation essentials in 11 minutes. A good middle ground between the quick rundown and the 28-minute advanced guide."
+    },
+    {
+      "id": "lightitupdan-great-sword-guide-mhwilds-2025",
+      "type": "video",
+      "title": "New ULTIMATE Weapon? GREAT SWORD Guide for Monster Hunter Wilds",
+      "creator": "LightItUpDan",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=DAmokSqdksA",
+      "youtubeId": "DAmokSqdksA",
+      "language": "en",
+      "duration": "5:19",
+      "publishedDate": "2025-02-09",
+      "thumbnail": "https://i.ytimg.com/vi/DAmokSqdksA/maxresdefault.jpg",
+      "noteEs": "Repaso rápido de Great Sword (5 minutos) desde la beta: el pitch corto del arma y su gameplan. Útil para decidir si el Great Sword es para ti antes de ver un tutorial largo.",
+      "noteEn": "Quick Great Sword rundown (5 minutes) from the beta: the weapon's short pitch and gameplan. Useful to decide whether Great Sword is for you before watching a long tutorial."
+    },
+    {
+      "id": "teamdarkside-long-sword-vs-at-arkveld-mhwilds-2026",
+      "type": "video",
+      "title": "Long Sword Speedrunner vs Arch Tempered Arkveld",
+      "creator": "Team Darkside",
+      "creatorId": "team-darkside",
+      "url": "https://www.youtube.com/watch?v=762JpXYinVc",
+      "youtubeId": "762JpXYinVc",
+      "language": "en",
+      "duration": "8:00",
+      "publishedDate": "2026-02-18",
+      "thumbnail": "https://i.ytimg.com/vi/762JpXYinVc/maxresdefault.jpg",
+      "noteEs": "El techo del Long Sword en manos de un speedrunner contra Arch Tempered Arkveld. No es tutorial sino demostración: muestra qué se ve la ejecución perfecta del arma en el endgame más duro.",
+      "noteEn": "The Long Sword ceiling in a speedrunner's hands against Arch Tempered Arkveld. Not a tutorial but a demonstration: it shows what the weapon's perfect execution looks like in the hardest endgame."
+    }
+  ]
+}

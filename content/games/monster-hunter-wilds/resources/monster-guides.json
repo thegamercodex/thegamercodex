@@ -1,0 +1,80 @@
+{
+  "category": "monster-guides",
+  "resources": [
+    {
+      "id": "xanmh-at-rey-dau-guide-mhwilds-2025",
+      "type": "video",
+      "title": "Arch Tempered Rey Dau Guide | MH Wilds",
+      "creator": "Xan MH",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=UzaPJWzHs-A",
+      "youtubeId": "UzaPJWzHs-A",
+      "language": "en",
+      "duration": "9:00",
+      "publishedDate": "2025-05-12",
+      "thumbnail": "https://i.ytimg.com/vi/UzaPJWzHs-A/maxresdefault.jpg",
+      "noteEs": "Guía enfocada de Arch Tempered Rey Dau: patrones de ataque, ventanas de punish y cómo gestionar sus fases eléctricas. Conciso y al grano para el primer Arch Tempered que mucha gente enfrenta.",
+      "noteEn": "Focused Arch Tempered Rey Dau guide: attack patterns, punish windows, and how to manage its electric phases. Concise and to the point for the first Arch Tempered many players face."
+    },
+    {
+      "id": "ragegaming-at-jin-dahaad-guide-mhwilds-2025",
+      "type": "video",
+      "title": "Monster Hunter Wilds - Arch Tempered Jin Dahaad Secret Unlocks, New Attacks, Easy Hunt & More Guide!",
+      "creator": "RageGamingVideos",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=eZhckwf5qjs",
+      "youtubeId": "eZhckwf5qjs",
+      "language": "en",
+      "duration": "14:36",
+      "publishedDate": "2025-12-24",
+      "thumbnail": "https://i.ytimg.com/vi/eZhckwf5qjs/maxresdefault.jpg",
+      "noteEs": "Cobertura de Arch Tempered Jin Dahaad: ataques nuevos, unlocks secretos y la estrategia para una caza limpia. RageGaming desglosa el fight con detalle y contexto de recompensas.",
+      "noteEn": "Arch Tempered Jin Dahaad coverage: new attacks, secret unlocks, and the strategy for a clean hunt. RageGaming breaks down the fight in detail with reward context."
+    },
+    {
+      "id": "nixzxin-at-nu-udra-under-10-mhwilds-2025",
+      "type": "video",
+      "title": "How to Defeat Arch Tempered Nu Udra in Under 10 Minutes - All Moves, Counters & Tips",
+      "creator": "Nixz Xin",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=k_KSoNjhAYE",
+      "youtubeId": "k_KSoNjhAYE",
+      "language": "en",
+      "duration": "9:12",
+      "publishedDate": "2025-11-01",
+      "thumbnail": "https://i.ytimg.com/vi/k_KSoNjhAYE/maxresdefault.jpg",
+      "noteEs": "Guía de Arch Tempered Nu Udra orientada a velocidad: todos sus moves, los counters clave y los tips para bajarlo en menos de 10 minutos. Para quien ya domina lo básico y quiere eficiencia.",
+      "noteEn": "Speed-oriented Arch Tempered Nu Udra guide: all its moves, the key counters, and tips to take it down in under 10 minutes. For those who already have the basics and want efficiency."
+    },
+    {
+      "id": "ragegaming-at-arkveld-new-monster-mhwilds-2026",
+      "type": "video",
+      "title": "Monster Hunter Wilds - ARCH TEMPERED ARKVELD IS A FULL NEW MONSTER - New Armor Review & Fight Guide!",
+      "creator": "RageGamingVideos",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=CCrObl998wU",
+      "youtubeId": "CCrObl998wU",
+      "language": "en",
+      "duration": "14:06",
+      "publishedDate": "2026-02-17",
+      "thumbnail": "https://i.ytimg.com/vi/CCrObl998wU/maxresdefault.jpg",
+      "noteEs": "Arch Tempered Arkveld tratado como un monstruo prácticamente nuevo: ataques rediseñados, review de la armadura nueva y guía del fight. El encuentro endgame insignia de Wilds.",
+      "noteEn": "Arch Tempered Arkveld treated as a practically new monster: reworked attacks, a review of the new armor, and a fight guide. Wilds' flagship endgame encounter."
+    },
+    {
+      "id": "sassyyariku-how-to-beat-at-arkveld-mhwilds-2026",
+      "type": "video",
+      "title": "How to beat Arch-Tempered Arkveld - Monster Hunter Wilds - AT Arkveld Guide",
+      "creator": "Sassy YariKu",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=98MtC4dxO3w",
+      "youtubeId": "98MtC4dxO3w",
+      "language": "en",
+      "duration": "15:02",
+      "publishedDate": "2026-02-22",
+      "thumbnail": "https://i.ytimg.com/vi/98MtC4dxO3w/maxresdefault.jpg",
+      "noteEs": "Segunda mirada a Arch Tempered Arkveld con foco en supervivencia: cómo leer y esquivar cada ataque paso a paso. Complementa el video de RageGaming con un enfoque más defensivo y didáctico.",
+      "noteEn": "A second look at Arch Tempered Arkveld focused on survival: how to read and dodge each attack step by step. It complements the RageGaming video with a more defensive, didactic approach."
+    }
+  ]
+}

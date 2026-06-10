@@ -315,3 +315,16 @@ La subcarpeta por juego mantiene la misma flat-structure simple dentro de cada j
 
 **Migración**: hecha en este commit vía script Node que parsea cada `meta.json`, valida JSON post-edit y preserva el resto del formato del archivo. Si un nuevo game llega con un género fuera de la lista canónica, el lint manual (revisión humana) debe rechazarlo o mapearlo antes del merge.
 
+### 2026-06-10 - `stack` como tipo de event del changelog
+
+**Cambio**: agregado `"stack"` al union `ChangelogEventType`. El changelog ya soportaba events de tipo `game`, `tool`, `creator`, `resource` y `comparison`; ahora también `stack`, para que una entry que agrega un game pueda listar su stack como event estructurado (igual que las comparativas) en vez de solo mencionarlo en el summary.
+
+**Razón**: al agregar Monster Hunter Wilds al changelog se usó un event `type: stack` (consistente con la convención de `docs/RULES.md → "Changelog"`, que ya listaba `stack` entre los tipos válidos). El código nunca había implementado ese tipo: el union no lo incluía, no había traducción en `eventTypes` ni ícono en `TYPE_ICONS`, así que el build de `/changelog` fallaba con `MISSING_MESSAGE: changelog.eventTypes.stack` y luego un render undefined. Esto alinea el código con la convención ya documentada.
+
+**Archivos afectados**:
+- `src/lib/changelog.ts` — `ChangelogEventType` extendido con `"stack"`.
+- `src/app/[locale]/changelog/page.tsx` — `TYPE_ICONS.stack = Layers` (ícono lucide `Layers`, import agregado).
+- `messages/{es,en}.json` — nueva clave `changelog.eventTypes.stack` ("Stack").
+
+**Migración**: aditivo, no rompe entries existentes. Las entries previas no usan `type: stack`; las nuevas pueden hacerlo. `ChangelogEventAction` no cambia (un stack se agrega/quita/actualiza con las acciones existentes).
+

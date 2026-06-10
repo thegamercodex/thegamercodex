@@ -1,0 +1,29 @@
+{
+  "id": "mhwilds-discord",
+  "name": "Monster Hunter Wilds Discord (oficial)",
+  "shortName": "Discord MHW",
+  "taglineEs": "Discord oficial de Capcom para Monster Hunter Wilds: anuncios first-party, eventos, LFG para cazas en grupo y channels por arma y por idioma — el servidor oficial del juego",
+  "taglineEn": "Capcom's official Monster Hunter Wilds Discord: first-party announcements, events, LFG for group hunts, and per-weapon and per-language channels — the game's official server",
+  "url": "https://discord.com/invite/mhwilds",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["discord"],
+  "languages": ["en"],
+  "tags": ["official", "discord", "capcom", "lfg", "announcements"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mhwilds-subreddit"],
+  "alternatives": ["mhwilds-subreddit"],
+  "createdBy": {
+    "name": "Capcom",
+    "url": "https://www.capcom.com/"
+  }
+}

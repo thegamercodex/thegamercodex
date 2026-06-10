@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "rurikhan-beginners-guide-mhwilds-2025",
+      "type": "video",
+      "title": "Monster Hunter Wilds Beginner's Guide - New Hunters Start Here!",
+      "creator": "Rurikhan",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=9S5MBW2GszU",
+      "youtubeId": "9S5MBW2GszU",
+      "language": "en",
+      "duration": "50:40",
+      "publishedDate": "2025-02-27",
+      "thumbnail": "https://i.ytimg.com/vi/9S5MBW2GszU/maxresdefault.jpg",
+      "noteEs": "Guía extensa que cubre todo lo que un nuevo cazador necesita: mecánicas, weapon choice, crafting, gathering y food buffs. Larga pero completa, ideal para sentar las bases antes de tu primera caza.",
+      "noteEn": "Long-form guide covering everything a new hunter needs: mechanics, weapon choice, crafting, gathering, and food buffs. Lengthy but complete, ideal for laying the foundation before your first hunt."
+    },
+    {
+      "id": "falloutplays-ultimate-beginners-guide-mhwilds-2025",
+      "type": "video",
+      "title": "The Ultimate Beginner's Guide to Monster Hunter Wilds",
+      "creator": "Fallout Plays",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=QkyvMfLOb78",
+      "youtubeId": "QkyvMfLOb78",
+      "language": "en",
+      "duration": "23:42",
+      "publishedDate": "2025-03-04",
+      "thumbnail": "https://i.ytimg.com/vi/QkyvMfLOb78/maxresdefault.jpg",
+      "noteEs": "Punto de entrada más conciso que la de Rurikhan: explica los sistemas centrales de Wilds (Focus Mode, wounds, Seikret) con buen ritmo. Buen primer video si quieres lo esencial sin una hora de duración.",
+      "noteEn": "A more concise entry point than Rurikhan's: it explains Wilds' core systems (Focus Mode, wounds, Seikret) at a good pace. A solid first video if you want the essentials without an hour of runtime."
+    },
+    {
+      "id": "falloutplays-what-weapon-should-you-main-mhwilds-2025",
+      "type": "video",
+      "title": "Monster Hunter Wilds: What Weapon Should You Main?",
+      "creator": "Fallout Plays",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=EQKwl5wswT0",
+      "youtubeId": "EQKwl5wswT0",
+      "language": "en",
+      "duration": "16:06",
+      "publishedDate": "2025-02-27",
+      "thumbnail": "https://i.ytimg.com/vi/EQKwl5wswT0/maxresdefault.jpg",
+      "noteEs": "La decisión más importante para un nuevo cazador es qué arma mainear. Este video repasa las 14 armas por estilo de juego y dificultad, para que elijas según cómo quieres jugar, no por moda.",
+      "noteEn": "The most important decision for a new hunter is which weapon to main. This video runs through the 14 weapons by playstyle and difficulty, so you choose based on how you want to play, not on hype."
+    },
+    {
+      "id": "poplove-complete-beginners-guide-mhwilds-2025",
+      "type": "video",
+      "title": "The Complete Beginner's Guide To Monster Hunter Wilds - Tips And Tricks Tutorial",
+      "creator": "Poplove Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=jFOViMGNG6w",
+      "youtubeId": "jFOViMGNG6w",
+      "language": "en",
+      "duration": "18:24",
+      "publishedDate": "2025-03-05",
+      "thumbnail": "https://i.ytimg.com/vi/jFOViMGNG6w/maxresdefault.jpg",
+      "noteEs": "Tips y trucos prácticos más allá de lo básico: detalles de quality-of-life, settings recomendados y mecánicas que el juego no explica bien. Buen complemento tras una guía introductoria.",
+      "noteEn": "Practical tips and tricks beyond the basics: quality-of-life details, recommended settings, and mechanics the game doesn't explain well. A good complement after an introductory guide."
+    },
+    {
+      "id": "pastorgainz-beginner-weapons-guide-mhwilds-2025",
+      "type": "video",
+      "title": "Monster Hunter Wilds – Ultimate Beginner Weapons Guide!",
+      "creator": "Pastorgainz Games",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=RIIOjldnGcM",
+      "youtubeId": "RIIOjldnGcM",
+      "language": "en",
+      "duration": "5:44",
+      "publishedDate": "2025-03-10",
+      "thumbnail": "https://i.ytimg.com/vi/RIIOjldnGcM/maxresdefault.jpg",
+      "noteEs": "Resumen rápido (menos de 6 minutos) de las armas más amigables para empezar y por qué. Si no quieres un video largo de weapon choice, este te da la recomendación directa.",
+      "noteEn": "Quick rundown (under 6 minutes) of the most beginner-friendly weapons and why. If you don't want a long weapon-choice video, this gives you the recommendation directly."
+    }
+  ]
+}

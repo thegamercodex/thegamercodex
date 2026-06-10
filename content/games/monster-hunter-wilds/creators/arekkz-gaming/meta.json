@@ -1,0 +1,38 @@
+{
+  "id": "arekkz-gaming",
+  "name": "Arekkz Gaming",
+  "country": "GB",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@ArekkzGaming",
+      "url": "https://www.youtube.com/@ArekkzGaming",
+      "channelId": "UC-zjH-e5XBzMpy_VtwIGRxQ",
+      "primary": true
+    }
+  ],
+  "specialties": ["news", "weapon-guides", "beginner-friendly", "broad-appeal"],
+  "games": ["monster-hunter-wilds"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Arekkz Gaming es uno de los canales de Monster Hunter más establecidos y de mayor alcance en inglés. Cubre la saga desde hace años con guías de armas, news, análisis de Title Updates y contenido para principiantes. Su tono es accesible y didáctico, ideal para quien arranca en Wilds y quiere un panorama claro antes de meterse en optimización profunda.",
+  "noteEn": "Arekkz Gaming is one of the most established and far-reaching Monster Hunter channels in English. He's covered the series for years with weapon guides, news, Title Update breakdowns, and beginner content. His tone is accessible and didactic, ideal for anyone starting Wilds who wants a clear picture before diving into deep optimization.",
+  "highlightsEs": [
+    "Uno de los canales de MH más grandes y veteranos en inglés",
+    "Guías de armas claras y orientadas a principiantes",
+    "Cobertura rápida de news y Title Updates",
+    "Tono didáctico, ideal para newcomers de Wilds",
+    "Años de trayectoria cubriendo la franquicia"
+  ],
+  "highlightsEn": [
+    "One of the largest and most veteran MH channels in English",
+    "Clear, beginner-oriented weapon guides",
+    "Fast news and Title Update coverage",
+    "Didactic tone, ideal for Wilds newcomers",
+    "Years of track record covering the franchise"
+  ],
+  "avatar": "/images/creators/arekkz-gaming-avatar.jpg",
+  "banner": "/images/creators/arekkz-gaming-banner.jpg"
+}

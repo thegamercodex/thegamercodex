@@ -1,0 +1,29 @@
+{
+  "id": "kiranico-mhwilds",
+  "name": "Kiranico",
+  "shortName": "Kiranico",
+  "taglineEs": "La database de datos crudos de referencia para MH Wilds: hitzones, drop rates, motion values, materiales y árboles de armas, datamineada y exacta — la fuente primaria de la comunidad",
+  "taglineEn": "The reference raw-data database for MH Wilds: hitzones, drop rates, motion values, materials, and weapon trees, datamined and exact — the community's primary source",
+  "url": "https://mhwilds.kiranico.com/",
+  "category": "database",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["database", "hitzones", "drop-rates", "motion-values", "datamine", "weapon-trees"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/monster-hunter-wilds/kiranico-mhwilds-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["atlasforge", "game8-mhwilds", "mhwilds-calculator"],
+  "alternatives": ["atlasforge", "game8-mhwilds"],
+  "createdBy": {
+    "name": "Kiranico",
+    "url": "https://kiranico.com/"
+  }
+}

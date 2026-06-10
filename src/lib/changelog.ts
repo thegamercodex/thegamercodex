@@ -20,7 +20,8 @@ export type ChangelogEventType =
   | "creator"
   | "game"
   | "resource"
-  | "comparison";
+  | "comparison"
+  | "stack";
 
 export type ChangelogEventAction = "added" | "changed" | "removed" | "moved";
 

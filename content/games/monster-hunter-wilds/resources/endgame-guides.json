@@ -1,0 +1,80 @@
+{
+  "category": "endgame-guides",
+  "resources": [
+    {
+      "id": "boomstick-endgame-guide-mhwilds-2025",
+      "type": "video",
+      "title": "Monster Hunter Wilds | ENDGAME GUIDE (Artian Weapons, Armor, Decoration Farming)",
+      "creator": "Boomstick Gaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=0V5WHPXaq40",
+      "youtubeId": "0V5WHPXaq40",
+      "language": "en",
+      "duration": "8:14",
+      "publishedDate": "2025-03-01",
+      "thumbnail": "https://i.ytimg.com/vi/0V5WHPXaq40/maxresdefault.jpg",
+      "noteEs": "Panorama del endgame de Wilds en 8 minutos: qué son las Artian weapons, cómo progresa la armadura y por dónde empieza el decoration farming. El mapa general para cuando terminas la campaña.",
+      "noteEn": "An overview of Wilds' endgame in 8 minutes: what Artian weapons are, how armor progresses, and where decoration farming begins. The big-picture map for when you finish the campaign."
+    },
+    {
+      "id": "arekkz-artian-weapon-tutorial-mhwilds-2025",
+      "type": "video",
+      "title": "Monster Hunter Wilds - Artian Weapon Tutorial",
+      "creator": "Arekkz Gaming",
+      "creatorId": "arekkz-gaming",
+      "url": "https://www.youtube.com/watch?v=yEcjOaFHGO4",
+      "youtubeId": "yEcjOaFHGO4",
+      "language": "en",
+      "duration": "9:34",
+      "publishedDate": "2025-04-01",
+      "thumbnail": "https://i.ytimg.com/vi/yEcjOaFHGO4/maxresdefault.jpg",
+      "noteEs": "Tutorial específico de Artian weapons por Arekkz: cómo se craftean, qué rolls buscar y cómo reforzarlas. El sistema de armas endgame de Wilds explicado con claridad.",
+      "noteEn": "A specific Artian weapon tutorial by Arekkz: how they're crafted, which rolls to chase, and how to reinforce them. Wilds' endgame weapon system explained clearly."
+    },
+    {
+      "id": "pwargaming-endgame-explained-mhwilds-2025",
+      "type": "video",
+      "title": "ENDGAME EXPLAINED! Artian / Farming / Melding HR Guide - Monster Hunter Wilds (MHWs)",
+      "creator": "PWARGaming",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=UWVBB-2Dy4w",
+      "youtubeId": "UWVBB-2Dy4w",
+      "language": "en",
+      "duration": "11:44",
+      "publishedDate": "2025-03-02",
+      "thumbnail": "https://i.ytimg.com/vi/UWVBB-2Dy4w/maxresdefault.jpg",
+      "noteEs": "Explica cómo encajan los sistemas de High Rank: Artian, farming de tempered, melding e investigaciones. Útil para entender el loop de progresión completo, no solo una pieza suelta.",
+      "noteEn": "Explains how the High Rank systems fit together: Artian, tempered farming, melding, and investigations. Useful for understanding the full progression loop, not just one isolated piece."
+    },
+    {
+      "id": "azurite-definitive-artian-endgame-mhwilds-2025",
+      "type": "video",
+      "title": "Monster Hunter Wilds - The Definitive Artian Weapon Endgame Guide",
+      "creator": "AzuriteTV",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=m5dyDmrsSDg",
+      "youtubeId": "m5dyDmrsSDg",
+      "language": "en",
+      "duration": "16:07",
+      "publishedDate": "2025-03-08",
+      "thumbnail": "https://i.ytimg.com/vi/m5dyDmrsSDg/maxresdefault.jpg",
+      "noteEs": "Guía profunda de Artian weapons: la matemática de los rolls, qué stats priorizar por arma y cómo no desperdiciar materiales. Para quien quiere el god roll, no solo un arma funcional.",
+      "noteEn": "A deep Artian weapon guide: the math of rolls, which stats to prioritize per weapon, and how not to waste materials. For those who want the god roll, not just a functional weapon."
+    },
+    {
+      "id": "teamdarkside-10000-damage-mhwilds-2026",
+      "type": "video",
+      "title": "So we managed to hit 10,000+ Damage in Wilds",
+      "creator": "Team Darkside",
+      "creatorId": "team-darkside",
+      "url": "https://www.youtube.com/watch?v=C3jHcGDIquQ",
+      "youtubeId": "C3jHcGDIquQ",
+      "language": "en",
+      "duration": "11:53",
+      "publishedDate": "2026-04-09",
+      "thumbnail": "https://i.ytimg.com/vi/C3jHcGDIquQ/maxresdefault.jpg",
+      "noteEs": "El extremo de la optimización: cómo se arma el setup que alcanza picos de más de 10,000 de daño. No es una build práctica para todos, pero muestra el techo teórico del sistema endgame.",
+      "noteEn": "The extreme of optimization: how the setup that reaches 10,000+ damage spikes comes together. Not a practical build for everyone, but it shows the theoretical ceiling of the endgame system."
+    }
+  ]
+}

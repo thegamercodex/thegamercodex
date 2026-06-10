@@ -1,0 +1,46 @@
+{
+  "id": "maxroll-mhw-vs-mobalytics-mhw",
+  "toolIds": ["maxroll-mhw", "mobalytics-mhw"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-06-09",
+  "verdictEs": "Maxroll si quieres theorycrafting profundo y builds meta explicados. Mobalytics si valoras una interfaz pulida y accesible para entrar sin fricción. Profundidad editorial vs experiencia de usuario.",
+  "verdictEn": "Maxroll if you want deep theorycrafting and explained meta builds. Mobalytics if you value a polished, accessible interface to get in without friction. Editorial depth vs user experience.",
+  "useCases": [
+    {
+      "labelEs": "Theorycrafting profundo y mantenimiento por patch",
+      "labelEn": "Deep theorycrafting and per-patch maintenance",
+      "winner": "maxroll-mhw",
+      "reasonEs": "Maxroll hereda la cultura de optimización de su comunidad ARPG y va más a fondo en builds y cambios por Title Update. Mobalytics prioriza presentación sobre profundidad.",
+      "reasonEn": "Maxroll inherits its ARPG community's optimization culture and goes deeper into builds and per-Title-Update changes. Mobalytics prioritizes presentation over depth."
+    },
+    {
+      "labelEs": "Entrar sin fricción siendo newcomer",
+      "labelEn": "Getting in without friction as a newcomer",
+      "winner": "mobalytics-mhw",
+      "reasonEs": "La UI pulida y consistente de Mobalytics es más amigable para quien recién llega. Maxroll tiene más volumen de información, que puede abrumar al principio.",
+      "reasonEn": "Mobalytics' polished, consistent UI is friendlier for newcomers. Maxroll has more information volume, which can overwhelm at first."
+    },
+    {
+      "labelEs": "Rutas de farming detalladas para conseguir piezas",
+      "labelEn": "Detailed farming routes to get pieces",
+      "winner": "maxroll-mhw",
+      "reasonEs": "Maxroll acompaña los builds con guías de farming concretas: qué cazar para cada pieza. Mobalytics se centra más en el planner y la tier list.",
+      "reasonEn": "Maxroll pairs builds with concrete farming guides: what to hunt for each piece. Mobalytics focuses more on the planner and the tier list."
+    },
+    {
+      "labelEs": "Ver rápido qué arma está fuerte en el patch",
+      "labelEn": "Quickly seeing which weapon is strong this patch",
+      "winner": "mobalytics-mhw",
+      "reasonEs": "La tier list clara y legible de Mobalytics responde la pregunta de un vistazo. Maxroll da el dato pero envuelto en más contexto editorial.",
+      "reasonEn": "Mobalytics' clear, readable tier list answers the question at a glance. Maxroll gives the data but wrapped in more editorial context."
+    },
+    {
+      "labelEs": "Builds meta explicados con su lógica",
+      "labelEn": "Meta builds explained with their logic",
+      "winner": "maxroll-mhw",
+      "reasonEs": "Maxroll explica por qué un build es bueno, no solo qué equipar. Mobalytics tiende a presentar el build con menos desarrollo del razonamiento.",
+      "reasonEn": "Maxroll explains why a build is good, not just what to equip. Mobalytics tends to present the build with less development of the reasoning."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "erulaz",
+  "name": "Erulaz",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@ErulazMH",
+      "url": "https://www.youtube.com/@ErulazMH",
+      "channelId": "UCxksxlKP1SnY7yK328IcuxA",
+      "primary": true
+    }
+  ],
+  "specialties": ["news", "builds", "efficiency", "guides"],
+  "games": ["monster-hunter-wilds"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Erulaz es uno de los referentes de Monster Hunter en español, con un canal centrado en eficiencia: news, guías, sets/builds y trucos para cazar mejor. Cubre Wilds con cadencia constante y un tono cercano, lo que lo vuelve un punto de entrada ideal para la comunidad hispana que prefiere contenido en su idioma sin perder profundidad.",
+  "noteEn": "Erulaz is one of the Spanish-language Monster Hunter references, with a channel focused on efficiency: news, guides, sets/builds, and tricks to hunt better. He covers Wilds at a steady cadence with an approachable tone, making him an ideal entry point for the Spanish-speaking community that prefers content in their language without losing depth.",
+  "highlightsEs": [
+    "Referente de Monster Hunter en español",
+    "Canal centrado en eficiencia y optimización de cacerías",
+    "News, guías y sets con cadencia constante",
+    "Tono cercano, ideal para la comunidad hispana",
+    "Cobertura sostenida de Wilds y sus Title Updates"
+  ],
+  "highlightsEn": [
+    "Spanish-language Monster Hunter reference",
+    "Channel focused on hunting efficiency and optimization",
+    "Steady-cadence news, guides, and sets",
+    "Approachable tone, ideal for the Spanish-speaking community",
+    "Sustained coverage of Wilds and its Title Updates"
+  ],
+  "avatar": "/images/creators/erulaz-avatar.jpg",
+  "banner": "/images/creators/erulaz-banner.jpg"
+}

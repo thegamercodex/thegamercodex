@@ -1,0 +1,29 @@
+{
+  "id": "nexusmods-mhwilds",
+  "name": "Nexus Mods MH Wilds",
+  "shortName": "Nexus Mods",
+  "taglineEs": "El repositorio central de mods de MH Wilds en PC: QoL, overlays, texturas, herramientas de modding y frameworks — el hub donde la comunidad publica y descubre mods",
+  "taglineEn": "The central MH Wilds mod repository on PC: QoL, overlays, textures, modding tools, and frameworks — the hub where the community publishes and discovers mods",
+  "url": "https://www.nexusmods.com/monsterhunterwilds",
+  "category": "overlays-mods",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "license": null,
+  "platforms": ["web", "windows"],
+  "languages": ["en"],
+  "tags": ["mod-repository", "qol-mods", "textures", "modding-tools", "community-hub"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-09",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["fluffy-mod-manager", "reframework", "hunterpie"],
+  "alternatives": ["fluffy-mod-manager"],
+  "createdBy": {
+    "name": "Nexus Mods",
+    "url": "https://www.nexusmods.com/"
+  }
+}

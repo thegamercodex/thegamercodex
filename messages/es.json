@@ -58,7 +58,8 @@
       "creator": "Creador",
       "game": "Juego",
       "resource": "Recurso",
-      "comparison": "Comparativa"
+      "comparison": "Comparativa",
+      "stack": "Stack"
     },
     "eventActions": {
       "added": "Agregado",
