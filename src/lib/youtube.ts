@@ -38,7 +38,7 @@ export async function getLatestVideos(
   const url = `${FEED_BASE}?${param}=${id}`;
 
   try {
-    const res = await fetch(url, { next: { revalidate: 21600 } });
+    const res = await fetch(url, { next: { revalidate: 172800 } });
     if (!res.ok) return [];
 
     const xml = await res.text();

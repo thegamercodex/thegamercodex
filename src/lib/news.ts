@@ -144,7 +144,7 @@ async function fetchSteamNews(appId: string, limit: number): Promise<NewsItem[]>
       `&appIdFilter=${appId}`;
 
     const res = await fetch(url, {
-      next: { revalidate: 21600 },
+      next: { revalidate: 172800 },
       headers: { Accept: "application/json" },
     });
     if (!res.ok) return [];
@@ -207,7 +207,7 @@ async function fetchYouTubeChannelNews(
   try {
     const res = await fetch(
       `https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`,
-      { next: { revalidate: 21600 } },
+      { next: { revalidate: 172800 } },
     );
     if (!res.ok) return [];
     const xml = await res.text();
@@ -242,7 +242,7 @@ async function fetchGenericRss(
   limit: number,
 ): Promise<NewsItem[]> {
   try {
-    const res = await fetch(feed.url, { next: { revalidate: 21600 } });
+    const res = await fetch(feed.url, { next: { revalidate: 172800 } });
     if (!res.ok) return [];
     const xml = await res.text();
     const parsed = parser.parse(xml);
@@ -363,7 +363,7 @@ async function fetchHoyoverseNews(
     const appHash = url.pathname.match(/\/app\/([a-f0-9]+)\//)?.[1] ?? "";
 
     const res = await fetch(url.toString(), {
-      next: { revalidate: 21600 },
+      next: { revalidate: 172800 },
       headers: { Accept: "application/json" },
     });
     if (!res.ok) return [];

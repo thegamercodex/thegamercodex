@@ -14,7 +14,7 @@ interface PageParams {
   params: Promise<{ locale: string; game: string }>;
 }
 
-export const revalidate = 21600;
+export const revalidate = 172800;
 
 export async function generateStaticParams() {
   const gameIds = await getGameIds();
