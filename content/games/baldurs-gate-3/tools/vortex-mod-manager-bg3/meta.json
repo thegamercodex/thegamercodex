@@ -1,0 +1,37 @@
+{
+  "id": "vortex-mod-manager-bg3",
+  "name": "Vortex (Baldur's Gate 3)",
+  "shortName": "Vortex",
+  "taglineEs": "El gestor oficial de Nexus con soporte para BG3 — instalación con un click y dependencias resueltas automáticamente",
+  "taglineEn": "Nexus Mods' official manager with BG3 support — one-click installs and auto-resolved dependencies",
+  "url": "https://www.nexusmods.com/site/mods/1",
+  "category": "mod-managers",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Nexus-Mods/Vortex",
+  "license": "GPL-3.0",
+  "platforms": ["windows"],
+  "languages": ["en", "es"],
+  "tags": ["mod-manager", "installer", "automation", "nexus"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["nexus-mods-bg3", "bg3-script-extender"],
+  "alternatives": ["bg3-mod-manager", "bg3-official-mod-support"],
+  "createdBy": {
+    "name": "Nexus Mods",
+    "url": "https://www.nexusmods.com"
+  },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "skyrim", "url": "https://www.nexusmods.com/site/mods/1" },
+      { "gameId": "cyberpunk-2077", "url": "https://www.nexusmods.com/site/mods/1" }
+    ]
+  }
+}

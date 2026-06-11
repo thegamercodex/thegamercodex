@@ -1,0 +1,27 @@
+{
+  "id": "bg3-compendium",
+  "name": "BG3 Compendium",
+  "shortName": "Compendium",
+  "taglineEs": "Planner con UI limpia para armar tu personaje, planear sets de inventario y guardar notas de la build",
+  "taglineEn": "Clean-UI planner to build your character, plan inventory sets, and save build notes",
+  "url": "https://bg3compendium.com/planner",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-planner", "inventory-sets", "notes", "character-builder"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/baldurs-gate-3/bg3-compendium-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["eip-build-planner", "gamefractal-planner", "bg3-wiki"],
+  "alternatives": ["eip-build-planner", "gamefractal-planner"],
+  "createdBy": {
+    "name": "BG3 Compendium"
+  }
+}

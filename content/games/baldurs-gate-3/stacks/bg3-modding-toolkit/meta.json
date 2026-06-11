@@ -1,0 +1,37 @@
+{
+  "id": "bg3-modding-toolkit",
+  "category": "modding",
+  "lastVerified": "2026-06-10",
+  "items": [
+    {
+      "toolId": "bg3-mod-manager",
+      "roleEs": "El core del stack: instala, ordena y exporta el load order de los mods .pak, y baja el Script Extender con un click.",
+      "roleEn": "The core of the stack: installs, sorts, and exports the .pak load order, and downloads the Script Extender in one click."
+    },
+    {
+      "toolId": "nexus-mods-bg3",
+      "roleEs": "La fuente de los mods: de aquí sale casi todo lo que vas a instalar, con versiones, requisitos y comments que avisan de compatibilidad.",
+      "roleEn": "The mod source: nearly everything you install comes from here, with versions, requirements, and comments flagging compatibility."
+    },
+    {
+      "toolId": "bg3-script-extender",
+      "roleEs": "El cimiento de los mods avanzados: el runtime hook que los mods con lógica real necesitan para correr.",
+      "roleEn": "The foundation of advanced mods: the runtime hook that mods with real logic need to run."
+    },
+    {
+      "toolId": "impui",
+      "roleEs": "El framework de UI: estabiliza la interfaz para que los mods de razas y clases muestren sus opciones sin romperse.",
+      "roleEn": "The UI framework: stabilizes the interface so race and class mods show their options without breaking."
+    },
+    {
+      "toolId": "mod-configuration-menu",
+      "roleEs": "El panel de configuración in-game: junta los settings de todos tus mods compatibles en un solo menú.",
+      "roleEn": "The in-game configuration panel: gathers the settings of all your compatible mods into one menu."
+    },
+    {
+      "toolId": "bg3-modding-wiki",
+      "roleEs": "El manual de referencia: la guía de load order y los tutoriales que evitan que el setup crashee en silencio.",
+      "roleEn": "The reference manual: the load order guide and tutorials that keep the setup from crashing silently."
+    }
+  ]
+}

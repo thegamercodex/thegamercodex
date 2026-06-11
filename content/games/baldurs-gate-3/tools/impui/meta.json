@@ -1,0 +1,28 @@
+{
+  "id": "impui",
+  "name": "ImpUI (ImprovedUI)",
+  "shortName": "ImpUI",
+  "taglineEs": "El framework de UI que estabiliza y extiende la interfaz — requisito de la mayoría de mods de razas y clases",
+  "taglineEn": "The UI framework that stabilizes and extends the interface — required by most race and class mods",
+  "url": "https://www.nexusmods.com/baldursgate3/mods/366",
+  "category": "modding-frameworks",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["ui-framework", "dependency", "races", "classes", "load-order-early"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["mod-configuration-menu", "bg3-script-extender", "bg3-mod-manager"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Aetherpoint / ImpUI Team",
+    "url": "https://www.nexusmods.com/baldursgate3/mods/366"
+  }
+}

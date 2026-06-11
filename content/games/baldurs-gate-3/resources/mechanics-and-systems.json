@@ -1,0 +1,72 @@
+{
+  "category": "mechanics-and-systems",
+  "resources": [
+    {
+      "id": "fextralife-combat-mechanics-miss-less-bg3-2023",
+      "type": "video",
+      "title": "Baldur's Gate 3 Guide to Combat Mechanics - How to Miss Less, and Win More!",
+      "creator": "Fextralife",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=BSLGMShwD-I",
+      "youtubeId": "BSLGMShwD-I",
+      "language": "en",
+      "duration": "13:30",
+      "publishedDate": "2023-08-06",
+      "thumbnail": "https://i.ytimg.com/vi/BSLGMShwD-I/maxresdefault.jpg",
+      "noteEs": "Explica el corazón del combate: cómo funcionan las tiradas de ataque, la ventaja, la altura y por qué fallas tanto al principio. Imprescindible para entender por qué un ataque acierta o no.",
+      "noteEn": "Explains the heart of combat: how attack rolls, advantage, and height work, and why you miss so much early on. Essential for understanding why an attack lands or not."
+    },
+    {
+      "id": "jumbopixel-7-essential-combat-tips-bg3-2023",
+      "type": "video",
+      "title": "Baldur's Gate 3 Combat Guide - 7 Essential Tips & Mechanics to DOMINATE",
+      "creator": "JumboPixel",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=JJbpssn2sw8",
+      "youtubeId": "JJbpssn2sw8",
+      "language": "en",
+      "duration": "12:37",
+      "publishedDate": "2023-08-10",
+      "thumbnail": "https://i.ytimg.com/vi/JJbpssn2sw8/maxresdefault.jpg",
+      "noteEs": "Siete mecánicas concretas que cambian cómo peleas: economía de acciones, uso del entorno, shove, surprise y más. Formato corto y aplicable de inmediato.",
+      "noteEn": "Seven concrete mechanics that change how you fight: action economy, environment use, shove, surprise, and more. Short format you can apply immediately."
+    },
+    {
+      "id": "wolfheartfps-ultimate-combat-guide-bg3-2023",
+      "type": "video",
+      "title": "Baldur's Gate 3 - Ultimate Beginner's Guide to Combat",
+      "creator": "WolfheartFPS",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=9Q32QXyX4_Y",
+      "youtubeId": "9Q32QXyX4_Y",
+      "language": "en",
+      "duration": "16:19",
+      "publishedDate": "2023-08-08",
+      "thumbnail": "https://i.ytimg.com/vi/9Q32QXyX4_Y/maxresdefault.jpg",
+      "noteEs": "Guía de combate orientada a quien viene de juegos de acción y choca con el sistema por turnos. Aterriza los fundamentos tácticos para dejar de improvisar.",
+      "noteEn": "A combat guide aimed at players coming from action games who bounce off the turn-based system. It grounds the tactical fundamentals so you stop improvising."
+    },
+    {
+      "id": "bg3wiki-gameplay-mechanics-reference",
+      "type": "guide",
+      "title": "Gameplay mechanics — bg3.wiki",
+      "creator": "bg3.wiki",
+      "creatorId": null,
+      "url": "https://bg3.wiki/wiki/Gameplay_mechanics",
+      "language": "en",
+      "noteEs": "La referencia escrita de las mecánicas del juego: condiciones, tiradas, acciones, reacciones y cómo se acumulan los modificadores. Para consultar el dato exacto cuando un video no alcanza.",
+      "noteEn": "The written reference for the game's mechanics: conditions, rolls, actions, reactions, and how modifiers stack. For looking up the exact data when a video isn't enough."
+    },
+    {
+      "id": "bg3wiki-difficulty-honour-mode-reference",
+      "type": "guide",
+      "title": "Difficulty & Honour Mode — bg3.wiki",
+      "creator": "bg3.wiki",
+      "creatorId": null,
+      "url": "https://bg3.wiki/wiki/Difficulty",
+      "language": "en",
+      "noteEs": "Qué cambia exactamente en cada dificultad y en Honour Mode: +2 a las tiradas enemigas, legendary actions, save único y permadeath. La referencia para entender contra qué peleas en la dificultad más dura.",
+      "noteEn": "What exactly changes at each difficulty and in Honour Mode: +2 to enemy rolls, legendary actions, single save, and permadeath. The reference for understanding what you're fighting on the hardest difficulty."
+    }
+  ]
+}

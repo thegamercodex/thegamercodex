@@ -1,0 +1,28 @@
+{
+  "id": "bg3-official-mod-support",
+  "name": "Official Mod Support (mod.io)",
+  "shortName": "Official Mods",
+  "taglineEs": "El gestor de mods in-game de Larian sobre mod.io — mods curados, cross-platform y los únicos que corren en consola",
+  "taglineEn": "Larian's in-game mod manager on mod.io — curated, cross-platform mods, and the only ones that run on console",
+  "url": "https://mod.io/g/baldursgate3",
+  "category": "mod-managers",
+  "type": "official-service",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows", "macos", "playstation", "xbox"],
+  "languages": ["en"],
+  "tags": ["official", "in-game", "console-mods", "mod.io", "cross-platform"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/baldurs-gate-3/bg3-official-mod-support-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bg3-mod-manager", "nexus-mods-bg3"],
+  "alternatives": ["bg3-mod-manager", "vortex-mod-manager-bg3"],
+  "createdBy": {
+    "name": "Larian Studios",
+    "url": "https://larian.com"
+  }
+}

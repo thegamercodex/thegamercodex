@@ -1,0 +1,28 @@
+{
+  "id": "gamefractal-planner",
+  "name": "GameFractal Character Builder",
+  "shortName": "GameFractal",
+  "taglineEs": "Builder de personaje con catálogo de items y boons, links compartibles y overlay opcional sobre el juego",
+  "taglineEn": "Character builder with an item and boon catalog, shareable links, and an optional in-game overlay",
+  "url": "https://baldursgate3.gamefractal.com/",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "windows"],
+  "languages": ["en"],
+  "tags": ["build-planner", "items", "overwolf-overlay", "shareable-builds"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/baldurs-gate-3/gamefractal-planner-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["eip-build-planner", "bg3-compendium", "map-genie-bg3"],
+  "alternatives": ["eip-build-planner", "bg3-compendium"],
+  "createdBy": {
+    "name": "GameFractal",
+    "url": "https://gamefractal.com"
+  }
+}

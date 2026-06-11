@@ -1,0 +1,46 @@
+{
+  "id": "bg3-wiki-vs-fextralife-bg3",
+  "toolIds": ["bg3-wiki", "fextralife-bg3"],
+  "category": "reference",
+  "depth": "flagship",
+  "lastVerified": "2026-06-10",
+  "verdictEs": "bg3.wiki para el dato exacto: mecánicas, números y wording precisos verificados por la comunidad. Fextralife para que te guíen: walkthroughs de quest, guías de compañeros, romances y un mapa interactivo en una sola wiki.",
+  "verdictEn": "bg3.wiki for the exact data: precise, community-verified mechanics, numbers, and wording. Fextralife to be guided: quest walkthroughs, companion and romance guides, and an interactive map in one wiki.",
+  "useCases": [
+    {
+      "labelEs": "Verificar cómo funciona exactamente una mecánica o interacción",
+      "labelEn": "Verifying exactly how a mechanic or interaction works",
+      "winner": "bg3-wiki",
+      "reasonEs": "bg3.wiki prioriza la precisión: documenta números exactos y diferencias con las reglas de mesa de D&D 5e.",
+      "reasonEn": "bg3.wiki prioritizes precision: it documents exact numbers and differences from D&D 5e tabletop rules."
+    },
+    {
+      "labelEs": "Avanzar una quest compleja paso a paso",
+      "labelEn": "Advancing a complex quest step by step",
+      "winner": "fextralife-bg3",
+      "reasonEs": "Los walkthroughs narrados de Fextralife están pensados para guiarte a través del contenido.",
+      "reasonEn": "Fextralife's narrated walkthroughs are built to guide you through the content."
+    },
+    {
+      "labelEs": "Consultar el wording exacto de un hechizo o el escalado de un item",
+      "labelEn": "Looking up a spell's exact wording or an item's scaling",
+      "winner": "bg3-wiki",
+      "reasonEs": "El detalle fino de datos es el fuerte de bg3.wiki, la fuente que la comunidad considera más confiable para precisar.",
+      "reasonEn": "Fine data detail is bg3.wiki's strength, the source the community considers most reliable for pinning things down."
+    },
+    {
+      "labelEs": "Gestionar romances y aprobación de compañeros en una primera partida",
+      "labelEn": "Managing romances and companion approval on a first playthrough",
+      "winner": "fextralife-bg3",
+      "reasonEs": "Fextralife tiene guías temáticas de compañeros y romance orientadas a guía, no solo datos sueltos.",
+      "reasonEn": "Fextralife has guide-oriented companion and romance pages, not just loose data."
+    },
+    {
+      "labelEs": "Orientarse en el mundo con un mapa interactivo",
+      "labelEn": "Orienting in the world with an interactive map",
+      "winner": "fextralife-bg3",
+      "reasonEs": "Fextralife integra un mapa interactivo dentro de la wiki; bg3.wiki es texto y datos, sin mapa navegable.",
+      "reasonEn": "Fextralife embeds an interactive map within the wiki; bg3.wiki is text and data, with no navigable map."
+    }
+  ]
+}

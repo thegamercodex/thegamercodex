@@ -1,0 +1,50 @@
+{
+  "id": "italianspartacus",
+  "name": "ItalianSpartacus",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2016,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@ItalianSpartacus",
+      "url": "https://www.youtube.com/@ItalianSpartacus",
+      "channelId": "UCUl_adPzC1h8--tD1Npay8Q",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "ItalianSpartacus",
+      "url": "https://www.twitch.tv/italianspartacus"
+    }
+  ],
+  "specialties": [
+    "build-guides",
+    "beginner-friendly",
+    "class-overviews",
+    "patch-coverage",
+    "accessible-optimization"
+  ],
+  "games": ["baldurs-gate-3"],
+  "contentTypes": ["videos", "guides", "build-breakdowns"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "ItalianSpartacus es uno de los canales de builds de BG3 más accesibles: guías claras, bien estructuradas y pensadas para que un jugador medio pueda ejecutar la build sin perderse. Cubre clases, multiclase y cambios de patch con un formato directo. Donde Cephalopocalypse profundiza en la teoría, ItalianSpartacus se enfoca en darte una build lista para usar y explicada paso a paso.",
+  "noteEn": "ItalianSpartacus is one of BG3's most accessible build channels: clear, well-structured guides meant to let an average player execute the build without getting lost. It covers classes, multiclassing, and patch changes in a direct format. Where Cephalopocalypse goes deep on theory, ItalianSpartacus focuses on handing you a ready-to-use build explained step by step.",
+  "highlightsEs": [
+    "Guías de build claras y fáciles de seguir para jugador medio",
+    "Cobertura de clases y multiclase con formato estructurado",
+    "Actualizaciones cuando un patch cambia el meta",
+    "Builds listas para ejecutar, explicadas paso a paso",
+    "Buen punto de entrada antes de saltar a theorycrafting profundo"
+  ],
+  "highlightsEn": [
+    "Clear, easy-to-follow build guides for the average player",
+    "Class and multiclass coverage in a structured format",
+    "Updates when a patch shifts the meta",
+    "Ready-to-execute builds explained step by step",
+    "Good entry point before jumping into deep theorycrafting"
+  ],
+  "avatar": "/images/creators/italianspartacus-avatar.jpg",
+  "banner": "/images/creators/italianspartacus-banner.jpg"
+}

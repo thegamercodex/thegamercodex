@@ -1,0 +1,28 @@
+{
+  "id": "eip-build-planner",
+  "name": "EIP Build Planner",
+  "shortName": "EIP Planner",
+  "taglineEs": "Planificador de personaje completo de EIP Gaming — razas, clases, multiclase, skills y hechizos en el browser",
+  "taglineEn": "EIP Gaming's full character planner — races, classes, multiclassing, skills, and spells in the browser",
+  "url": "https://eip.gg/bg3/build-planner/",
+  "category": "build-planning",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-planner", "multiclass", "character-builder", "party-planner"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/baldurs-gate-3/eip-build-planner-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["gamefractal-planner", "bg3-compendium", "bg3-wiki"],
+  "alternatives": ["gamefractal-planner", "bg3-compendium"],
+  "createdBy": {
+    "name": "EIP Gaming",
+    "url": "https://eip.gg"
+  }
+}

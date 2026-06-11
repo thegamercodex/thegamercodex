@@ -1,0 +1,46 @@
+{
+  "id": "eip-build-planner-vs-gamefractal-planner",
+  "toolIds": ["eip-build-planner", "gamefractal-planner"],
+  "category": "build-planning",
+  "depth": "flagship",
+  "lastVerified": "2026-06-10",
+  "verdictEs": "EIP Build Planner si quieres decidir rápido la estructura de clase, multiclase y hechizos con la entrada más simple. GameFractal si tu build gira en torno a equipo específico y quieres el catálogo de items integrado más el overlay sobre el juego.",
+  "verdictEn": "EIP Build Planner if you want to quickly decide class structure, multiclassing, and spells with the simplest entry. GameFractal if your build revolves around specific gear and you want the integrated item catalog plus the in-game overlay.",
+  "useCases": [
+    {
+      "labelEs": "Decidir rápido la columna vertebral de una build (clase, multiclase, feats)",
+      "labelEn": "Quickly decide a build's backbone (class, multiclass, feats)",
+      "winner": "eip-build-planner",
+      "reasonEs": "EIP es más liviano y directo: armas la progresión de nivel sin que el catálogo de items te distraiga.",
+      "reasonEn": "EIP is lighter and more direct: you build the level progression without the item catalog distracting you."
+    },
+    {
+      "labelEs": "Planear una build que depende de piezas de equipo concretas",
+      "labelEn": "Planning a build that depends on concrete gear pieces",
+      "winner": "gamefractal-planner",
+      "reasonEs": "El catálogo de items y boons de GameFractal deja incorporar el equipo a la build y ver su efecto, algo que EIP no cubre con la misma profundidad.",
+      "reasonEn": "GameFractal's item and boon catalog lets you fold gear into the build and see its effect, something EIP doesn't cover with the same depth."
+    },
+    {
+      "labelEs": "Tener la referencia de la build encima del juego mientras subes de nivel",
+      "labelEn": "Keeping the build reference on top of the game while leveling",
+      "winner": "gamefractal-planner",
+      "reasonEs": "La app de Overwolf de GameFractal funciona como overlay in-game; EIP es solo web y exige alt-tab.",
+      "reasonEn": "GameFractal's Overwolf app works as an in-game overlay; EIP is web-only and requires alt-tabbing."
+    },
+    {
+      "labelEs": "Planear la party completa de cuatro personajes",
+      "labelEn": "Planning the full four-character party",
+      "winner": "eip-build-planner",
+      "reasonEs": "EIP integra un party planner que deja diseñar los cuatro roles en conjunto sin solaparse.",
+      "reasonEn": "EIP integrates a party planner that lets you design all four roles together without overlap."
+    },
+    {
+      "labelEs": "Primer planner para alguien sin experiencia planeando builds",
+      "labelEn": "First planner for someone with no build-planning experience",
+      "winner": "eip-build-planner",
+      "reasonEs": "La curva de EIP es más suave; GameFractal suma poder con su catálogo pero también densidad que puede abrumar al inicio.",
+      "reasonEn": "EIP's curve is gentler; GameFractal adds power with its catalog but also density that can overwhelm at first."
+    }
+  ]
+}

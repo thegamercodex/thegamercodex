@@ -1,0 +1,60 @@
+{
+  "category": "modding-guides",
+  "resources": [
+    {
+      "id": "bg3wiki-installing-mods-guide",
+      "type": "guide",
+      "title": "Modding: Installing mods — bg3.wiki",
+      "creator": "bg3.wiki",
+      "creatorId": null,
+      "url": "https://bg3.wiki/wiki/Modding:Installing_mods",
+      "language": "en",
+      "noteEs": "La guía base para instalar mods en BG3: prerequisitos, carpeta de Mods, .pak files y el flujo con BG3 Mod Manager. El primer punto de lectura antes de modear nada.",
+      "noteEn": "The base guide to installing BG3 mods: prerequisites, the Mods folder, .pak files, and the BG3 Mod Manager flow. The first thing to read before modding anything."
+    },
+    {
+      "id": "bg3modding-community-install-bg3mm",
+      "type": "guide",
+      "title": "Install BG3MM (BG3 Mod Manager) — BG3 Modding Community Wiki",
+      "creator": "BG3 Modding Community",
+      "creatorId": null,
+      "url": "https://wiki.bg3.community/en/Tutorials/Mod-Use/Installation-Of-BG3MM",
+      "language": "en",
+      "noteEs": "Tutorial paso a paso para instalar y configurar BG3 Mod Manager desde la fuente oficial. La referencia canónica de la comunidad de modders, sin mirrors dudosos.",
+      "noteEn": "A step-by-step tutorial for installing and configuring BG3 Mod Manager from the official source. The modding community's canonical reference, with no dubious mirrors."
+    },
+    {
+      "id": "bg3modding-community-mod-types-install",
+      "type": "guide",
+      "title": "Mod Types and how to install them — BG3 Modding Community Wiki",
+      "creator": "BG3 Modding Community",
+      "creatorId": null,
+      "url": "https://wiki.bg3.community/en/Tutorials/Mod-Use/BG3-Mod-Types-and-how-to-install-them",
+      "language": "en",
+      "noteEs": "Explica que no todos los mods se instalan igual: .pak, native dll, replacers y frameworks tienen flujos distintos. Clave para entender por qué un mod no carga aunque lo hayas puesto bien.",
+      "noteEn": "Explains that not all mods install the same way: .pak, native dll, replacers, and frameworks have different flows. Key to understanding why a mod won't load even when you placed it right."
+    },
+    {
+      "id": "screenrant-how-to-install-bg3-mod-manager",
+      "type": "article",
+      "title": "How To Install (& Use) Baldur's Gate 3 Mod Manager",
+      "creator": "ScreenRant",
+      "creatorId": null,
+      "url": "https://screenrant.com/baldurs-gate-3-how-to-install-mods-manager/",
+      "language": "en",
+      "noteEs": "Guía editorial accesible para quien instala mods por primera vez: pasos de BG3 Mod Manager explicados sin asumir conocimiento técnico previo. Buen complemento a las wikis más densas.",
+      "noteEn": "An accessible editorial guide for first-time mod installers: BG3 Mod Manager steps explained without assuming prior technical knowledge. A good complement to the denser wikis."
+    },
+    {
+      "id": "ggrecon-best-bg3-mods-and-install",
+      "type": "article",
+      "title": "Best Baldur's Gate 3 mods & how to install them",
+      "creator": "GGRecon",
+      "creatorId": null,
+      "url": "https://www.ggrecon.com/guides/baldurs-gate-3-best-mods-download/",
+      "language": "en",
+      "noteEs": "Lista curada de mods recomendados junto con el proceso de instalación. Útil para decidir qué mods valen la pena una vez que ya sabes instalarlos.",
+      "noteEn": "A curated list of recommended mods alongside the installation process. Useful for deciding which mods are worth it once you already know how to install them."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "bg3-script-extender",
+  "name": "Baldur's Gate 3 Script Extender",
+  "shortName": "BG3SE",
+  "taglineEs": "El runtime hook de Norbyte que expone funciones internas del juego — dependencia base de los mods avanzados",
+  "taglineEn": "Norbyte's runtime hook exposing the game's internal functions — the base dependency of advanced mods",
+  "url": "https://github.com/Norbyte/bg3se",
+  "category": "modding-frameworks",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/Norbyte/bg3se",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["script-extender", "framework", "runtime-hook", "lua", "dependency"],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bg3-mod-manager", "mod-configuration-menu", "impui"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Norbyte",
+    "url": "https://github.com/Norbyte"
+  }
+}

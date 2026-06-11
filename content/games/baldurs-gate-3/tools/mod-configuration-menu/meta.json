@@ -1,0 +1,28 @@
+{
+  "id": "mod-configuration-menu",
+  "name": "Mod Configuration Menu",
+  "shortName": "MCM",
+  "taglineEs": "El menú in-game centralizado para configurar mods — library de la que dependen decenas de mods con opciones",
+  "taglineEn": "The centralized in-game menu to configure mods — a library dozens of configurable mods depend on",
+  "url": "https://www.nexusmods.com/baldursgate3/mods/9162",
+  "category": "modding-frameworks",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["framework", "config-menu", "in-game-ui", "library", "dependency"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["impui", "bg3-script-extender", "bg3-mod-manager"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Volitio / BG3 MCM Team",
+    "url": "https://www.nexusmods.com/baldursgate3/mods/9162"
+  }
+}

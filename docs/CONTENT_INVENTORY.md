@@ -5,11 +5,12 @@
 
 ## Resumen
 
-29 juegos · 488 tools · 140 creators · 147 categorías · 735 resources items · 163 comparisons · 29 stacks
+30 juegos · 504 tools · 145 creators · 152 categorías · 760 resources items · 170 comparisons · 31 stacks
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons | Stacks |
 |---|---|---:|---:|---:|---:|---:|---:|
 | `apex-legends` | Apex Legends | 13 | 5 | 5 | 25 | 5 | 1 |
+| `baldurs-gate-3` | Baldur's Gate 3 | 16 | 5 | 5 | 25 | 7 | 2 |
 | `counter-strike-2` | Counter-Strike 2 | 17 | 5 | 5 | 25 | 5 | 1 |
 | `cyberpunk-2077` | Cyberpunk 2077 | 17 | 5 | 5 | 25 | 3 | 1 |
 | `destiny-2` | Destiny 2 | 14 | 5 | 5 | 25 | 3 | 1 |
@@ -57,6 +58,23 @@
 **Comparisons (5)**: `apex-legends-wiki-vs-liquipedia-apex` (short), `apex-tracker-gg-vs-apex-legends-status` (flagship), `apexseasons-weapon-stats-vs-drybear-ttk-calculator` (short), `blitz-apex-vs-stryda-apex` (short), `prosettings-apex-vs-sens-converter-apex` (short)
 
 **Stacks (1)**: `apex-improvement-toolkit` (5 tools)
+
+### Baldur's Gate 3 (`baldurs-gate-3`)
+
+**Tools (16)**: BG3 Compendium (`bg3-compendium`), BG3 Mod Manager (`bg3-mod-manager`), BG3 Modding Community Wiki (`bg3-modding-wiki`), Official Mod Support (mod.io) (`bg3-official-mod-support`), Baldur's Gate 3 Script Extender (`bg3-script-extender`), r/BaldursGate3 (`bg3-subreddit`), bg3.wiki (`bg3-wiki`), EIP Build Planner (`eip-build-planner`), Baldur's Gate 3 Wiki (Fextralife) (`fextralife-bg3`), GameFractal Character Builder (`gamefractal-planner`), ImpUI (ImprovedUI) (`impui`), Larian Studios Official Discord (`larian-discord`), Map Genie: Baldur's Gate 3 (`map-genie-bg3`), Mod Configuration Menu (`mod-configuration-menu`), Nexus Mods (Baldur's Gate 3) (`nexus-mods-bg3`), Vortex (Baldur's Gate 3) (`vortex-mod-manager-bg3`)
+
+**Creators (5)**: Cephalopocalypse (`cephalopocalypse`), ItalianSpartacus (`italianspartacus`), Mortismal Gaming (`mortismal-gaming`), Proxy Gate Tactician (`proxy-gate-tactician`), TodoRPGs (`todorpgs`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `build-guides` — 5 items
+- `companion-and-story-guides` — 5 items
+- `mechanics-and-systems` — 5 items
+- `modding-guides` — 5 items
+
+**Comparisons (7)**: `bg3-mod-manager-vs-bg3-official-mod-support` (short), `bg3-mod-manager-vs-vortex-mod-manager-bg3` (short), `bg3-wiki-vs-fextralife-bg3` (flagship), `eip-build-planner-vs-bg3-compendium` (short), `eip-build-planner-vs-gamefractal-planner` (flagship), `gamefractal-planner-vs-bg3-compendium` (short), `vortex-mod-manager-bg3-vs-bg3-official-mod-support` (short)
+
+**Stacks (2)**: `bg3-first-playthrough-toolkit` (5 tools), `bg3-modding-toolkit` (6 tools)
 
 ### Counter-Strike 2 (`counter-strike-2`)
 

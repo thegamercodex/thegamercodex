@@ -1,0 +1,28 @@
+{
+  "id": "map-genie-bg3",
+  "name": "Map Genie: Baldur's Gate 3",
+  "shortName": "Map Genie",
+  "taglineEs": "Mapa interactivo con 3000+ ubicaciones por acto — waypoints, equipo único, secretos y progreso sincronizado",
+  "taglineEn": "Interactive map with 3,000+ locations per act — waypoints, unique gear, secrets, and synced progress",
+  "url": "https://mapgenie.io/baldurs-gate-3",
+  "category": "maps",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web", "android", "ios"],
+  "languages": ["en"],
+  "tags": ["map", "collectibles", "tracker", "exploration", "unique-gear"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/skyrim/map-genie-skyrim-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bg3-wiki", "fextralife-bg3"],
+  "alternatives": ["fextralife-bg3"],
+  "createdBy": {
+    "name": "Map Genie",
+    "url": "https://mapgenie.io"
+  }
+}

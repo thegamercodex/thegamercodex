@@ -1,0 +1,30 @@
+{
+  "id": "bg3-mod-manager",
+  "name": "BG3 Mod Manager",
+  "shortName": "BG3MM",
+  "taglineEs": "El gestor de mods de referencia en PC — ordena el load order, exporta a modsettings.lsx e instala el Script Extender",
+  "taglineEn": "The reference PC mod manager — sorts load order, exports to modsettings.lsx, and installs the Script Extender",
+  "url": "https://github.com/LaughingLeader/BG3ModManager",
+  "category": "mod-managers",
+  "type": "software",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/LaughingLeader/BG3ModManager",
+  "license": "MIT",
+  "platforms": ["windows"],
+  "languages": ["en"],
+  "tags": ["mod-manager", "load-order", "pak-mods", "script-extender"],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/common/github-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bg3-script-extender", "nexus-mods-bg3", "bg3-modding-wiki"],
+  "alternatives": ["vortex-mod-manager-bg3", "bg3-official-mod-support"],
+  "createdBy": {
+    "name": "LaughingLeader",
+    "url": "https://github.com/LaughingLeader"
+  }
+}

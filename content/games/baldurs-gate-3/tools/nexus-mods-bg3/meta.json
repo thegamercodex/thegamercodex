@@ -1,0 +1,28 @@
+{
+  "id": "nexus-mods-bg3",
+  "name": "Nexus Mods (Baldur's Gate 3)",
+  "shortName": "Nexus Mods",
+  "taglineEs": "El hub principal de mods de BG3 en PC — miles de mods con ratings, comments, versiones y dependencias claras",
+  "taglineEn": "The main PC BG3 mod hub — thousands of mods with ratings, comments, versions, and clear dependencies",
+  "url": "https://www.nexusmods.com/baldursgate3",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["mod-hub", "downloads", "community", "ratings", "nexus"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/common/nexusmods-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bg3-mod-manager", "vortex-mod-manager-bg3", "bg3-script-extender"],
+  "alternatives": ["bg3-official-mod-support"],
+  "createdBy": {
+    "name": "Nexus Mods",
+    "url": "https://www.nexusmods.com"
+  }
+}

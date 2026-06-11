@@ -1,0 +1,32 @@
+{
+  "id": "bg3-first-playthrough-toolkit",
+  "category": "playthrough",
+  "lastVerified": "2026-06-10",
+  "items": [
+    {
+      "toolId": "eip-build-planner",
+      "roleEs": "El punto de partida: planeas tu personaje y tu party antes de comprometerte con decisiones difíciles de revertir.",
+      "roleEn": "The starting point: you plan your character and party before committing to hard-to-reverse decisions."
+    },
+    {
+      "toolId": "fextralife-bg3",
+      "roleEs": "La guía narrada: walkthroughs de quest, compañeros y romances para no perderte ni romper contenido en la primera vuelta.",
+      "roleEn": "The narrated guide: quest, companion, and romance walkthroughs so you don't miss or break content on your first run."
+    },
+    {
+      "toolId": "bg3-wiki",
+      "roleEs": "La segunda pantalla de precisión: cuando dudas de cómo funciona una mecánica o un item, acá está el dato exacto.",
+      "roleEn": "The precision second screen: when you're unsure how a mechanic or item works, here's the exact data."
+    },
+    {
+      "toolId": "map-genie-bg3",
+      "roleEs": "El mapa de coleccionables: para no cerrar un acto dejando atrás equipo único que después no es accesible.",
+      "roleEn": "The collectibles map: so you don't close an act leaving behind unique gear that later becomes inaccessible."
+    },
+    {
+      "toolId": "bg3-subreddit",
+      "roleEs": "La comunidad: el lugar donde tu duda probablemente ya está respondida y donde pedir consejo de build o quest.",
+      "roleEn": "The community: where your question is probably already answered and where to ask for build or quest advice."
+    }
+  ]
+}

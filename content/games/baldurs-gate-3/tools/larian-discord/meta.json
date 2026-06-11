@@ -1,0 +1,28 @@
+{
+  "id": "larian-discord",
+  "name": "Larian Studios Official Discord",
+  "shortName": "Larian Discord",
+  "taglineEs": "El servidor oficial de Larian — anuncios de patches, soporte técnico y la comunidad central de BG3",
+  "taglineEn": "Larian's official server — patch announcements, tech support, and the central BG3 community",
+  "url": "https://discord.com/invite/larianstudios",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["community-hub", "news", "discord-server", "official", "support"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bg3-subreddit", "bg3-wiki"],
+  "alternatives": ["bg3-subreddit"],
+  "createdBy": {
+    "name": "Larian Studios",
+    "url": "https://larian.com"
+  }
+}

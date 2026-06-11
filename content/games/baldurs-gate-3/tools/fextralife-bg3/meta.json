@@ -1,0 +1,28 @@
+{
+  "id": "fextralife-bg3",
+  "name": "Baldur's Gate 3 Wiki (Fextralife)",
+  "shortName": "Fextralife",
+  "taglineEs": "Wiki con walkthroughs, guías de compañeros, mapa interactivo y builds — cobertura ancha orientada a guía",
+  "taglineEn": "Wiki with walkthroughs, companion guides, interactive map, and builds — broad, guide-oriented coverage",
+  "url": "https://baldursgate3.wiki.fextralife.com/Baldur's+Gate+3+Wiki",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "walkthrough", "companions", "interactive-map", "builds"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/common/fextralife-logo.svg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bg3-wiki", "map-genie-bg3"],
+  "alternatives": ["bg3-wiki"],
+  "createdBy": {
+    "name": "Fextralife",
+    "url": "https://fextralife.com"
+  }
+}

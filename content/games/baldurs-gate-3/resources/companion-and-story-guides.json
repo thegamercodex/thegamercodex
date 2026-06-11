@@ -1,0 +1,60 @@
+{
+  "category": "companion-and-story-guides",
+  "resources": [
+    {
+      "id": "fextralife-romance-guide-all-companions",
+      "type": "guide",
+      "title": "Romance Guide — all companions",
+      "creator": "Fextralife",
+      "creatorId": null,
+      "url": "https://baldursgate3.wiki.fextralife.com/Romance+Guide",
+      "language": "en",
+      "noteEs": "Guía de romance de cada companion: umbrales de aprobación, ventanas clave como la fiesta del refugio al final del Acto 1, y qué decisiones abren cada relación. La referencia para no perderte un romance por una elección equivocada.",
+      "noteEn": "A romance guide for every companion: approval thresholds, key windows like the refugee party at the end of Act 1, and which decisions open each relationship. The reference for not missing a romance over a wrong choice."
+    },
+    {
+      "id": "fextralife-companion-approval-guide",
+      "type": "guide",
+      "title": "Companion Approval Guide",
+      "creator": "Fextralife",
+      "creatorId": null,
+      "url": "https://baldursgate3.wiki.fextralife.com/Companion+Approval+Guide",
+      "language": "en",
+      "noteEs": "Cómo funciona la aprobación, la moneda oculta de las relaciones: qué valora cada companion y cómo subir o bajar su afinidad sin romper su arco. Útil para mantener al grupo contento en una run específica.",
+      "noteEn": "How approval works, the hidden currency of relationships: what each companion values and how to raise or lower their affinity without breaking their arc. Useful for keeping the party happy in a specific run."
+    },
+    {
+      "id": "bg3wiki-companions-recruitment-reference",
+      "type": "guide",
+      "title": "Companions — recruitment, classes & locations (bg3.wiki)",
+      "creator": "bg3.wiki",
+      "creatorId": null,
+      "url": "https://bg3.wiki/wiki/Companions",
+      "language": "en",
+      "noteEs": "Lista completa de los companions: dónde reclutarlos, su clase por defecto y su rol en el grupo. Para planear tu party sin perderte a nadie reclutable en cada acto.",
+      "noteEn": "The full companion list: where to recruit them, their default class, and their party role. For planning your party without missing anyone recruitable in each act."
+    },
+    {
+      "id": "bg3wiki-astarion-approval-reference",
+      "type": "guide",
+      "title": "Astarion's Approval — bg3.wiki",
+      "creator": "bg3.wiki",
+      "creatorId": null,
+      "url": "https://bg3.wiki/wiki/Astarion/Approval",
+      "language": "en",
+      "noteEs": "Ejemplo en detalle de cómo se documenta la aprobación de un companion: qué acciones suben o bajan la afinidad de Astarion punto por punto. Modelo de la precisión que ofrece bg3.wiki para cada personaje.",
+      "noteEn": "A detailed example of how a companion's approval is documented: which actions raise or lower Astarion's affinity point by point. A model of the precision bg3.wiki offers for each character."
+    },
+    {
+      "id": "pcgamer-all-romance-options-guide",
+      "type": "article",
+      "title": "All Baldur's Gate 3 romance options: who you can pursue",
+      "creator": "PC Gamer",
+      "creatorId": null,
+      "url": "https://www.pcgamer.com/baldurs-gate-3-romance-options-guide/",
+      "language": "en",
+      "noteEs": "Resumen editorial de todas las opciones de romance, con el contexto de quién puede cortejarse y los rasgos de cada personaje. Buena visión general antes de comprometerte con un arco concreto.",
+      "noteEn": "An editorial overview of all romance options, with the context of who can be pursued and each character's traits. A good big-picture read before committing to a specific arc."
+    }
+  ]
+}

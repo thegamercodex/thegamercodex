@@ -1,0 +1,137 @@
+{
+  "id": "baldurs-gate-3",
+  "name": "Baldur's Gate 3",
+  "shortName": "BG3",
+  "developer": "Larian Studios",
+  "releaseYear": 2023,
+  "officialUrl": "https://baldursgate3.game",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/",
+      "appId": "1086940",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "gog",
+      "url": "https://www.gog.com/game/baldurs_gate_iii",
+      "model": "buy-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/product/UP3526-PPSA14001_00-0507384846053057",
+      "model": "buy-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "buy-to-play",
+    "hasInGamePurchases": false,
+    "purchaseTypes": [],
+    "payToWin": false,
+    "noteEs": "Compra única (~$60 USD) que incluye el juego completo, sin microtransacciones, sin season pass y sin DLC de pago. Larian distribuyó actualizaciones grandes gratis (hasta Patch 8) que sumaron subclases, modos, cross-play y soporte oficial de mods. Es uno de los pocos AAA recientes sin economía de monetización post-compra.",
+    "noteEn": "One-time purchase (~$60 USD) including the full game, with no microtransactions, no season pass, and no paid DLC. Larian shipped large free updates (through Patch 8) adding subclasses, modes, cross-play, and official mod support. It's one of the few recent AAA titles with no post-purchase monetization economy."
+  },
+  "platforms": ["windows", "macos", "playstation", "xbox"],
+  "genres": ["arpg"],
+  "theme": {
+    "primary": "#7a2e2e",
+    "secondary": "#19120f",
+    "accent": "#d98841",
+    "background": "#0c0807",
+    "text": "#ece0cf"
+  },
+  "logo": "/images/games/baldurs-gate-3-logo.avif",
+  "heroImage": "/images/games/baldurs-gate-3-hero.webp",
+  "toolCategories": [
+    {
+      "id": "build-planning",
+      "nameEs": "Planificación de Builds",
+      "nameEn": "Build Planning",
+      "descriptionEs": "Planificadores de personaje para diseñar clases, multiclases y equipo antes de comprometerte en partida",
+      "descriptionEn": "Character planners to design classes, multiclassing, and gear before committing in-game",
+      "icon": "🧮"
+    },
+    {
+      "id": "mod-managers",
+      "nameEs": "Gestores de Mods",
+      "nameEn": "Mod Managers",
+      "descriptionEs": "Instalar, ordenar y administrar mods en BG3, del gestor community al soporte oficial in-game",
+      "descriptionEn": "Install, sort, and manage BG3 mods, from the community manager to official in-game support",
+      "icon": "🧩"
+    },
+    {
+      "id": "modding-frameworks",
+      "nameEs": "Frameworks de Modding",
+      "nameEn": "Modding Frameworks",
+      "descriptionEs": "Librerías base (Script Extender, UI, configuración) de las que dependen los mods avanzados",
+      "descriptionEn": "Base libraries (Script Extender, UI, configuration) that advanced mods depend on",
+      "icon": "🏗️"
+    },
+    {
+      "id": "maps",
+      "nameEs": "Mapas",
+      "nameEn": "Maps",
+      "descriptionEs": "Mapas interactivos para encontrar coleccionables, equipo único y secretos por acto",
+      "descriptionEn": "Interactive maps to find collectibles, unique gear, and secrets by act",
+      "icon": "🗺️"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis, bases de datos y hubs de mods con la información completa del juego",
+      "descriptionEn": "Wikis, databases, and mod hubs with the game's complete information",
+      "icon": "📚"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Servidores y foros donde la comunidad discute builds, quests y novedades",
+      "descriptionEn": "Servers and forums where the community discusses builds, quests, and news",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Lo esencial para empezar BG3: clases, reglas de D&D 5e y primeras decisiones",
+      "descriptionEn": "The essentials to start BG3: classes, D&D 5e rules, and early decisions",
+      "icon": "🌱"
+    },
+    {
+      "id": "build-guides",
+      "nameEs": "Guías de Builds",
+      "nameEn": "Build Guides",
+      "descriptionEs": "Builds por clase y multiclase, desde principiante hasta optimización para Honour Mode",
+      "descriptionEn": "Builds by class and multiclass, from beginner to Honour Mode optimization",
+      "icon": "🛡️"
+    },
+    {
+      "id": "mechanics-and-systems",
+      "nameEs": "Mecánicas y Sistemas",
+      "nameEn": "Mechanics & Systems",
+      "descriptionEs": "Cómo funcionan el combate por turnos, las tiradas, el ranged, la concentración y Honour Mode",
+      "descriptionEn": "How turn-based combat, dice rolls, ranged, concentration, and Honour Mode work",
+      "icon": "⚔️"
+    },
+    {
+      "id": "companion-and-story-guides",
+      "nameEs": "Compañeros e Historia",
+      "nameEn": "Companions & Story",
+      "descriptionEs": "Guías de compañeros, romances, finales y decisiones de quest con consecuencias",
+      "descriptionEn": "Guides for companions, romances, endings, and consequential quest decisions",
+      "icon": "🎭"
+    },
+    {
+      "id": "modding-guides",
+      "nameEs": "Guías de Modding",
+      "nameEn": "Modding Guides",
+      "descriptionEs": "Cómo instalar mods, ordenar el load order y armar un setup estable en BG3",
+      "descriptionEn": "How to install mods, sort load order, and build a stable BG3 setup",
+      "icon": "🔧"
+    }
+  ]
+}

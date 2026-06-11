@@ -1,0 +1,50 @@
+{
+  "id": "cephalopocalypse",
+  "name": "Cephalopocalypse",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2013,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Cephalopocalypse",
+      "url": "https://www.youtube.com/@Cephalopocalypse",
+      "channelId": "UCieQlcvyyk5208GxlVU43Rg",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "Cephalopocalypse",
+      "url": "https://www.twitch.tv/cephalopocalypse"
+    }
+  ],
+  "specialties": [
+    "build-theorycrafting",
+    "mechanics-deep-dives",
+    "honour-mode",
+    "single-class-optimization",
+    "rules-analysis"
+  ],
+  "games": ["baldurs-gate-3"],
+  "contentTypes": ["videos", "guides", "build-breakdowns"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Cephalopocalypse es una de las referencias de theorycrafting de Baldur's Gate 3: builds explicadas desde las reglas de D&D 5e que las sostienen, no solo desde el resultado. Su fuerte son los deep dives de mecánicas y las builds de clase única bien optimizadas, con un tono pausado y analítico. Es el canal al que recurrir cuando quieres entender por qué una build funciona, no solo copiarla.",
+  "noteEn": "Cephalopocalypse is one of Baldur's Gate 3's theorycrafting references: builds explained from the D&D 5e rules that hold them up, not just from the result. Their strength is mechanics deep dives and well-optimized single-class builds, with a calm, analytical tone. It's the channel to turn to when you want to understand why a build works, not just copy it.",
+  "highlightsEs": [
+    "Deep dives de mecánicas que explican el porqué detrás de cada interacción",
+    "Builds de clase única optimizadas, no solo multiclase de moda",
+    "Enfoque en Honour Mode y optimización seria",
+    "Análisis fundado en las reglas de D&D 5e bajo el juego",
+    "Tono analítico, ideal para entender en lugar de copiar"
+  ],
+  "highlightsEn": [
+    "Mechanics deep dives that explain the why behind each interaction",
+    "Optimized single-class builds, not just trendy multiclassing",
+    "Focus on Honour Mode and serious optimization",
+    "Analysis grounded in the D&D 5e rules under the game",
+    "Analytical tone, ideal for understanding rather than copying"
+  ],
+  "avatar": "/images/creators/cephalopocalypse-avatar.jpg",
+  "banner": "/images/creators/cephalopocalypse-banner.jpg"
+}

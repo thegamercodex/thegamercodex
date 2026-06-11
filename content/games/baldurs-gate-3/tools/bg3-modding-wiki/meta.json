@@ -1,0 +1,28 @@
+{
+  "id": "bg3-modding-wiki",
+  "name": "BG3 Modding Community Wiki",
+  "shortName": "Modding Wiki",
+  "taglineEs": "La referencia canónica para modear BG3 — load order, instalación de Script Extender y tutoriales de frameworks",
+  "taglineEn": "The canonical reference for modding BG3 — load order, Script Extender install, and framework tutorials",
+  "url": "https://wiki.bg3.community/",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["modding", "load-order", "tutorials", "documentation", "frameworks"],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/baldurs-gate-3/bg3-modding-wiki-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["bg3-mod-manager", "bg3-script-extender", "mod-configuration-menu"],
+  "alternatives": [],
+  "createdBy": {
+    "name": "BG3 Modding Community",
+    "url": "https://wiki.bg3.community"
+  }
+}
