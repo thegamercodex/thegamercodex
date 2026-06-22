@@ -1,0 +1,49 @@
+{
+  "id": "wutheringtools-vs-tethys",
+  "toolIds": [
+    "wutheringtools",
+    "tethys"
+  ],
+  "category": "damage-calculation",
+  "depth": "flagship",
+  "lastVerified": "2026-06-20",
+  "verdictEs": "WutheringTools para una respuesta práctica de daño y saber qué cambio mejora más en un Resonator, sin curva de aprendizaje. Tethys para comparar a fondo opciones —weapons, Sequences, substats— con el rigor que pide un theorycrafter.",
+  "verdictEn": "WutheringTools for a practical damage answer and to know which change improves a Resonator most, with no learning curve. Tethys to compare options in depth — weapons, Sequences, substats — with the rigor a theorycrafter wants.",
+  "useCases": [
+    {
+      "labelEs": "Saber cuánto daño hace mi build actual y qué pieza cambiar primero",
+      "labelEn": "Know how much my current build hits and which piece to swap first",
+      "winner": "wutheringtools",
+      "reasonEs": "WutheringTools da un output de daño accionable para un personaje concreto.",
+      "reasonEn": "WutheringTools gives an actionable damage output for a specific character."
+    },
+    {
+      "labelEs": "Comparar dos weapons a fondo para decidir cuál pullear",
+      "labelEn": "Compare two weapons in depth to decide which to pull",
+      "winner": "tethys",
+      "reasonEs": "Tethys está hecho para comparativas granulares entre opciones.",
+      "reasonEn": "Tethys is built for granular comparisons between options."
+    },
+    {
+      "labelEs": "Evaluar si subir de S0 a S1 vale la inversión",
+      "labelEn": "Evaluate whether going from S0 to S1 is worth the investment",
+      "winner": "tethys",
+      "reasonEs": "Tethys modela el aporte de cada Sequence con detalle.",
+      "reasonEn": "Tethys models each Sequence's contribution in detail."
+    },
+    {
+      "labelEs": "Optimización rápida y accionable sin aprender una herramienta nueva",
+      "labelEn": "Quick, actionable optimization without learning a new tool",
+      "winner": "wutheringtools",
+      "reasonEs": "WutheringTools prioriza resultados directos sobre flexibilidad.",
+      "reasonEn": "WutheringTools prioritizes direct results over flexibility."
+    },
+    {
+      "labelEs": "Priorizar qué substat aporta más daño marginal",
+      "labelEn": "Prioritize which substat adds the most marginal damage",
+      "winner": "tethys",
+      "reasonEs": "Tethys permite aislar el valor de cada substat con precisión.",
+      "reasonEn": "Tethys lets you isolate the value of each substat precisely."
+    }
+  ]
+}

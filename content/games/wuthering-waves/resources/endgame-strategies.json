@@ -1,0 +1,80 @@
+{
+  "category": "endgame-strategies",
+  "resources": [
+    {
+      "id": "dannycad-sigrika-qiuyuan-shorekeeper-rotation",
+      "type": "video",
+      "title": "Guide | Sigrika Qiuyuan Shorekeeper - Simple Rotation [Wuthering Waves]",
+      "creator": "DannyCAD",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ouQ_wIO7gJE",
+      "youtubeId": "ouQ_wIO7gJE",
+      "language": "en",
+      "duration": "5:32",
+      "publishedDate": "2026-03-20",
+      "thumbnail": "https://i.ytimg.com/vi/ouQ_wIO7gJE/maxresdefault.jpg",
+      "noteEs": "Rotación paso a paso del team meta de Tower of Adversity: Sigrika, Qiuyuan y Shorekeeper, el núcleo Aero de clears más rápidos de la temporada. Corto y al grano para ejecutar la rotación bien.",
+      "noteEn": "Step-by-step rotation for the meta Tower of Adversity team: Sigrika, Qiuyuan, and Shorekeeper, the Aero core behind the season's fastest clears. Short and to the point for executing the rotation cleanly."
+    },
+    {
+      "id": "dannycad-lucy-rebecca-mornye-rotation",
+      "type": "video",
+      "title": "Guide | Lucy Rebecca Mornye - Simple Rotation [Wuthering Waves]",
+      "creator": "DannyCAD",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=J2KY8imia2Q",
+      "youtubeId": "J2KY8imia2Q",
+      "language": "en",
+      "duration": "7:25",
+      "publishedDate": "2026-06-18",
+      "thumbnail": "https://i.ytimg.com/vi/J2KY8imia2Q/maxresdefault.jpg",
+      "noteEs": "Rotación del team del collab Cyberpunk (Lucy, Rebecca, Mornye) para endgame. Útil si pulleaste las collab units y quieres armar una comp funcional para Tower of Adversity sin adivinar.",
+      "noteEn": "Rotation for the Cyberpunk collab team (Lucy, Rebecca, Mornye) for endgame. Useful if you pulled the collab units and want a functional Tower of Adversity comp without guessing."
+    },
+    {
+      "id": "dannycad-hiyuki-lucilla-whimpering-wastes",
+      "type": "video",
+      "title": "S0R1 Hiyuki & Lucilla | Full Whiwa Rewards with The Mommy Duo | Wuthering Waves",
+      "creator": "DannyCAD",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=6DIlWkOOo2k",
+      "youtubeId": "6DIlWkOOo2k",
+      "language": "en",
+      "duration": "4:30",
+      "publishedDate": "2026-06-13",
+      "thumbnail": "https://i.ytimg.com/vi/6DIlWkOOo2k/maxresdefault.jpg",
+      "noteEs": "Clear de Whimpering Wastes para recompensas completas con Hiyuki y Lucilla a baja inversión (S0R1). Muestra que el otro modo de endgame rotativo es accesible sin un roster perfecto.",
+      "noteEn": "A Whimpering Wastes clear for full rewards with Hiyuki and Lucilla at low investment (S0R1). Shows the other rotating endgame mode is accessible without a perfect roster."
+    },
+    {
+      "id": "kageru-false-sovereign-hologram-clear",
+      "type": "video",
+      "title": "NOT ENDING STREAM UNTIL I BEAT THE FALSE SOVEREIGN HOLOGRAM",
+      "creator": "Kageru",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=NJN-QFJSIog",
+      "youtubeId": "NJN-QFJSIog",
+      "language": "en",
+      "duration": "1:16:38",
+      "publishedDate": "2026-04-21",
+      "thumbnail": "https://i.ytimg.com/vi/NJN-QFJSIog/maxresdefault.jpg",
+      "noteEs": "VOD de stream conquistando el Hologram False Sovereign, el endgame de boss-challenge que premia el dominio mecánico (dodge y parry). Útil para ver patrones del jefe y cómo se aprende a costa de intentos.",
+      "noteEn": "A stream VOD conquering the False Sovereign Hologram, the boss-challenge endgame that rewards mechanical mastery (dodge and parry). Useful for seeing boss patterns and how it's learned through attempts."
+    },
+    {
+      "id": "quirk-6-dps-worth-building-wuwa",
+      "type": "video",
+      "title": "6 DPS Characters You Won't Regret Building | Wuthering Waves",
+      "creator": "Quirk",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=_nork5GZzlY",
+      "youtubeId": "_nork5GZzlY",
+      "language": "en",
+      "duration": "11:39",
+      "publishedDate": "2026-06-16",
+      "thumbnail": "https://i.ytimg.com/vi/_nork5GZzlY/maxresdefault.jpg",
+      "noteEs": "Prioridad de inversión para endgame: qué seis DPS rinden de verdad en Tower of Adversity y Whimpering Wastes, para no quemar materiales en unidades que no escalan. Decisión clave antes de farmear Echoes.",
+      "noteEn": "Investment priority for endgame: which six DPS actually perform in Tower of Adversity and Whimpering Wastes, so you don't burn materials on units that don't scale. A key decision before farming Echoes."
+    }
+  ]
+}

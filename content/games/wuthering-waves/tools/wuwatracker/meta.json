@@ -1,0 +1,41 @@
+{
+  "id": "wuwatracker",
+  "name": "WuWaTracker",
+  "taglineEs": "Companion all-in-one: pity tracker, planner de materiales, timeline de eventos y stats",
+  "taglineEn": "All-in-one companion: pity tracker, material planner, event timeline, and stats",
+  "url": "https://wuwatracker.com/",
+  "category": "convene-tracking",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": true,
+  "github": "https://github.com/wuwatracker/wuwatracker",
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "pity-tracker",
+    "convene",
+    "planner",
+    "timeline",
+    "statistics"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/wuthering-waves/wuwatracker-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "qiqis-notebook",
+    "wuthering-gg"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "wuwatracker contributors",
+    "url": "https://github.com/wuwatracker"
+  }
+}

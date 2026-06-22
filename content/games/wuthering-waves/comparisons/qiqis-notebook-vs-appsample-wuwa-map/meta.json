@@ -1,0 +1,49 @@
+{
+  "id": "qiqis-notebook-vs-appsample-wuwa-map",
+  "toolIds": [
+    "qiqis-notebook",
+    "appsample-wuwa-map"
+  ],
+  "category": "exploration-maps",
+  "depth": "short",
+  "lastVerified": "2026-06-20",
+  "verdictEs": "Qiqi's Notebook para trackear el 100% con una checklist limpia, región por región. Appsample cuando un marker es confuso y necesitas la pista visual —fotos y comentarios— de la comunidad para encontrar el recolectable.",
+  "verdictEn": "Qiqi's Notebook to track 100% with a clean checklist, region by region. Appsample when a marker is confusing and you need the visual hint — photos and comments — from the community to find the collectible.",
+  "useCases": [
+    {
+      "labelEs": "Trackear progreso de recolectables con una checklist persistente",
+      "labelEn": "Track collectible progress with a persistent checklist",
+      "winner": "qiqis-notebook",
+      "reasonEs": "Qiqi's Notebook integra una función de checklist/notebook por región.",
+      "reasonEn": "Qiqi's Notebook integrates a per-region checklist/notebook feature."
+    },
+    {
+      "labelEs": "Resolver un collectible escondido con fotos de otros jugadores",
+      "labelEn": "Solve a hidden collectible with other players' photos",
+      "winner": "appsample-wuwa-map",
+      "reasonEs": "Appsample tiene comentarios y fotos de usuarios en cada marker.",
+      "reasonEn": "Appsample has user comments and photos on each marker."
+    },
+    {
+      "labelEs": "Limpiar una región nueva al 100% de forma ordenada",
+      "labelEn": "Clear a new region to 100% in an orderly way",
+      "winner": "qiqis-notebook",
+      "reasonEs": "Qiqi's Notebook es limpio y sin clutter para barrer regiones.",
+      "reasonEn": "Qiqi's Notebook is clean and clutter-free for sweeping regions."
+    },
+    {
+      "labelEs": "Confirmar la ubicación exacta de un marker ambiguo",
+      "labelEn": "Confirm the exact location of an ambiguous marker",
+      "winner": "appsample-wuwa-map",
+      "reasonEs": "La capa social de Appsample resuelve markers poco claros.",
+      "reasonEn": "Appsample's social layer resolves unclear markers."
+    },
+    {
+      "labelEs": "Interfaz rápida y sin distracciones para uso diario",
+      "labelEn": "Fast, distraction-free interface for daily use",
+      "winner": "qiqis-notebook",
+      "reasonEs": "Qiqi's Notebook prioriza velocidad y limpieza visual.",
+      "reasonEn": "Qiqi's Notebook prioritizes speed and visual cleanliness."
+    }
+  ]
+}

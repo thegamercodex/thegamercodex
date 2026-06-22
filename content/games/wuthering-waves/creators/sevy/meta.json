@@ -1,0 +1,51 @@
+{
+  "id": "sevy",
+  "name": "Sevy",
+  "country": "PH",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@sevyplays",
+      "url": "https://www.youtube.com/@sevyplays",
+      "channelId": "UC-2O84hJLKm8CqqsZygV-lA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "sevyplays",
+      "url": "https://www.twitch.tv/sevyplays"
+    },
+    {
+      "type": "twitter",
+      "handle": "@sevyplays",
+      "url": "https://twitter.com/sevyplays"
+    }
+  ],
+  "specialties": [
+    "character-showcases",
+    "casual-perspective",
+    "collab-coverage",
+    "f2p-friendly"
+  ],
+  "games": ["wuthering-waves"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Creator filipino que llega a Wuthering Waves desde el mundo de Genshin y lo cubre con tono casual y entusiasta. Su mix incluye showcases de Resonators nuevos, reacciones a colaboraciones como la de Cyberpunk 2077, primeras impresiones de versiones y comparaciones honestas entre WuWa y otros gacha. La perspectiva es accesible y F2P-friendly, sin asumir resources de whale. Buena entrada para quien viene de Genshin y quiere ver el juego desde los ojos de un jugador que también está aprendiendo.",
+  "noteEn": "Filipino creator who comes to Wuthering Waves from the Genshin world and covers it with a casual, enthusiastic tone. His mix includes new-Resonator showcases, reactions to collabs like the Cyberpunk 2077 one, version first impressions, and honest comparisons between WuWa and other gachas. The perspective is accessible and F2P-friendly, not assuming whale resources. A good entry point for Genshin transplants who want to see the game through the eyes of a player still learning it too.",
+  "highlightsEs": [
+    "Perspectiva casual y F2P-friendly desde un jugador ex-Genshin",
+    "Showcases de Resonators nuevos y primeras impresiones de versión",
+    "Cobertura de colaboraciones como Cyberpunk 2077",
+    "Comparaciones honestas entre WuWa y otros gacha"
+  ],
+  "highlightsEn": [
+    "Casual, F2P-friendly take from an ex-Genshin player",
+    "New-Resonator showcases and version first impressions",
+    "Coverage of collabs like Cyberpunk 2077",
+    "Honest comparisons between WuWa and other gachas"
+  ],
+  "avatar": "/images/creators/sevy-avatar.jpg",
+  "banner": "/images/creators/sevy-banner.jpg"
+}

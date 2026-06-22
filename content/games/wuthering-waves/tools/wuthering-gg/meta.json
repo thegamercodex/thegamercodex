@@ -1,0 +1,39 @@
+{
+  "id": "wuthering-gg",
+  "name": "Wuthering.gg",
+  "taglineEs": "Base de datos y wiki rapida de WuWa con mapa, Resonators, armas y Echoes",
+  "taglineEn": "Fast WuWa database and wiki with map, Resonators, weapons, and Echoes",
+  "url": "https://wuthering.gg/",
+  "category": "reference",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "database",
+    "wiki",
+    "map",
+    "resonators",
+    "echoes"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/wuthering-waves/wuthering-gg-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "encore-moe",
+    "game8-wuwa"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Wuthering.gg"
+  }
+}

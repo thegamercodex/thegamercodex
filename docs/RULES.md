@@ -350,8 +350,8 @@ Si el entry es muy corto y no querés escribir bilingüe, podés poner el body e
 
 ## Process
 
-- Antes de declarar un cambio "listo", **correr `npx next build`** y verificar que pasa sin errores.
-- **Claude NUNCA levanta el dev server local** (`npm run dev` / `next dev`). Por algún motivo siempre se cuelga en este entorno. Si hace falta el server corriendo para verificar algo, pedirle al usuario que lo levante él (`! npm run dev` o lo corre por su cuenta) y avisar qué hay que mirar. Para validación que no requiere server interactivo, usar `npx next build`.
+- **Claude NUNCA corre el build** (`npx next build` / `npm run build`). Se cuelga en este entorno. Cuando un cambio necesite verificación de build, **avisar al usuario para que lo corra él** (`! npm run build` o por su cuenta) e indicar qué hay que mirar. Dejar el cambio marcado como "pendiente de verificar build" en vez de declararlo "listo" por cuenta propia.
+- **Claude NUNCA levanta el dev server local** (`npm run dev` / `next dev`). Por algún motivo siempre se cuelga en este entorno. Si hace falta el server corriendo para verificar algo, pedirle al usuario que lo levante él (`! npm run dev` o lo corre por su cuenta) y avisar qué hay que mirar.
 - Para cambios UI/frontend, también verificar visualmente (refresh en browser con el server que levanta el usuario). Si no se puede testear visualmente, decirlo explícitamente.
 - **NO hacer commit/push automáticamente**. Pedir confirmación al usuario antes de cada commit/push.
 - Mensajes de commit: imperativos cortos en el subject; body explicando WHY (no WHAT — el diff dice el WHAT).

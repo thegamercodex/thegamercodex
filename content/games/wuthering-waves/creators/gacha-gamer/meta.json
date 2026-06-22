@@ -1,0 +1,46 @@
+{
+  "id": "gacha-gamer",
+  "name": "Gacha Gamer",
+  "country": "LT",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@GachaGamerYouTube",
+      "url": "https://www.youtube.com/@GachaGamerYouTube",
+      "channelId": "UC8BTtymnCZ7jTvt09cjPMwQ",
+      "primary": true
+    },
+    {
+      "type": "twitter",
+      "handle": "@GachaGamer",
+      "url": "https://twitter.com/GachaGamer"
+    }
+  ],
+  "specialties": [
+    "news",
+    "discussion",
+    "commentary",
+    "meta-analysis"
+  ],
+  "games": ["wuthering-waves"],
+  "contentTypes": ["videos"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Canal lituano centrado en noticias, opinión y análisis del ecosistema gacha, con Wuthering Waves y Genshin Impact como ejes. En lugar de guías de build paso a paso, su content es de discusión: hacia dónde va el meta, qué decisiones toma Kuro Games con cada versión, comparaciones entre juegos y reacciones a anuncios. Tono editorial fuerte y producción cuidada. Para quien quiere entender el contexto y las tendencias de WuWa más allá de los números, es un complemento útil a los canales de build puro.",
+  "noteEn": "Lithuanian channel focused on news, opinion, and analysis of the gacha ecosystem, with Wuthering Waves and Genshin Impact as anchors. Instead of step-by-step build guides, his content is discussion-driven: where the meta is heading, what decisions Kuro Games makes each version, cross-game comparisons, and reactions to announcements. Strong editorial tone and polished production. For anyone wanting to understand WuWa's context and trends beyond the numbers, a useful complement to pure-build channels.",
+  "highlightsEs": [
+    "Noticias y análisis del ecosistema gacha con foco en WuWa",
+    "Discusión de meta y decisiones de Kuro Games por versión",
+    "Comparaciones entre juegos y reacciones a anuncios",
+    "Tono editorial fuerte y producción cuidada"
+  ],
+  "highlightsEn": [
+    "Gacha ecosystem news and analysis focused on WuWa",
+    "Meta discussion and Kuro Games decisions per version",
+    "Cross-game comparisons and announcement reactions",
+    "Strong editorial tone and polished production"
+  ],
+  "avatar": "/images/creators/gacha-gamer-avatar.jpg",
+  "banner": "/images/creators/gacha-gamer-banner.jpg"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "iwintolose",
+  "name": "IWinToLose Gaming",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@IWinToLose",
+      "url": "https://www.youtube.com/@IWinToLose",
+      "channelId": "UCHMnsOPDgrjWvjHXZp-xvqg",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "character-showcases",
+    "tier-lists",
+    "team-building",
+    "endgame"
+  ],
+  "games": ["wuthering-waves"],
+  "contentTypes": ["videos", "guides"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Creator veterano de gacha que reparte su catálogo entre Genshin Impact y Wuthering Waves. En WuWa su fuerte son los videos de showcase y guía por Resonator: builds recomendadas, mejores Echoes, rotaciones y equipos óptimos, con testeo de daño antes de dar veredictos. También publica tier lists actualizadas por versión y análisis de cuánto rinde cada personaje en Tower of Adversity. Para quien planifica pulls y quiere exprimir el endgame, es una referencia clara y consistente.",
+  "noteEn": "Veteran gacha creator who splits his catalog between Genshin Impact and Wuthering Waves. In WuWa his strength is per-Resonator showcase and guide videos: recommended builds, best Echoes, rotations, and optimal teams, with damage testing before he gives verdicts. He also publishes version-updated tier lists and analysis of how each character performs in Tower of Adversity. For anyone planning pulls and looking to squeeze the endgame, a clear and consistent reference.",
+  "highlightsEs": [
+    "Showcases y guías detalladas por Resonator con testeo de daño",
+    "Tier lists actualizadas en cada versión",
+    "Enfoque en builds, Echoes y rotaciones óptimas",
+    "Cobertura de Tower of Adversity y endgame"
+  ],
+  "highlightsEn": [
+    "Detailed per-Resonator showcases and guides with damage testing",
+    "Tier lists refreshed each version",
+    "Focus on optimal builds, Echoes, and rotations",
+    "Tower of Adversity and endgame coverage"
+  ],
+  "avatar": "/images/creators/iwintolose-avatar.jpg",
+  "banner": "/images/creators/iwintolose-banner.jpg"
+}

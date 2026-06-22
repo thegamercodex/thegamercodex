@@ -1,0 +1,45 @@
+{
+  "id": "prydwen",
+  "name": "Prydwen Institute",
+  "shortName": "Prydwen",
+  "taglineEs": "Tier lists, builds de Resonators y guias de Echoes con el rigor editorial de Prydwen",
+  "taglineEn": "Resonator tier lists, builds, and Echo guides with Prydwen's editorial rigor",
+  "url": "https://www.prydwen.gg/wuthering-waves/",
+  "category": "character-builds",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "tier-list",
+    "builds",
+    "echoes",
+    "team-comps",
+    "guides"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/wuthering-waves/prydwen-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "game8-wuwa",
+    "mobalytics-wuwa",
+    "wuwabuilds"
+  ],
+  "alternatives": [
+    "game8-wuwa",
+    "mobalytics-wuwa"
+  ],
+  "createdBy": {
+    "name": "Prydwen Institute",
+    "url": "https://www.prydwen.gg/"
+  }
+}

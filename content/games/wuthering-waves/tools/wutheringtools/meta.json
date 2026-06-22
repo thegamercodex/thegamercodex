@@ -1,0 +1,41 @@
+{
+  "id": "wutheringtools",
+  "name": "WutheringTools",
+  "taglineEs": "Calculadora de dano y optimizador de builds con rotaciones para endgame",
+  "taglineEn": "Damage calculator and build optimizer with rotations for endgame",
+  "url": "https://www.wutheringtools.com/",
+  "category": "damage-calculation",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "damage-calculator",
+    "optimizer",
+    "rotations",
+    "dps",
+    "theorycraft"
+  ],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/wuthering-waves/wutheringtools-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "tethys",
+    "wuwabuilds"
+  ],
+  "alternatives": [
+    "tethys"
+  ],
+  "createdBy": {
+    "name": "WutheringTools"
+  }
+}

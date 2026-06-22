@@ -1,0 +1,80 @@
+{
+  "category": "lore-and-story",
+  "resources": [
+    {
+      "id": "sidneymar-lore-answers-everything-wuwa",
+      "type": "video",
+      "title": "The Lore Video That ANSWERS EVERYTHING In Wuthering Waves",
+      "creator": "Sidneymar",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=hDkT0VsTb0c",
+      "youtubeId": "hDkT0VsTb0c",
+      "language": "en",
+      "duration": "15:43",
+      "publishedDate": "2025-11-16",
+      "thumbnail": "https://i.ytimg.com/vi/hDkT0VsTb0c/maxresdefault.jpg",
+      "noteEs": "Explicación amplia del lore de Wuthering Waves: Solaris-3, el Lament, los Resonators y el rol del Rover. El mejor punto de entrada si la historia te perdió y quieres el panorama completo.",
+      "noteEn": "A broad explainer of Wuthering Waves lore: Solaris-3, the Lament, the Resonators, and the Rover's role. The best entry point if the story lost you and you want the full picture."
+    },
+    {
+      "id": "aru-hiseki-aemeath-lore-tragic-wuwa-31",
+      "type": "video",
+      "title": "The LORE of Aemeath Is TRAGIC | Wuthering Waves Lore & Theory Explained, Wuwa 3.1",
+      "creator": "Aru Hiseki",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=fk84NkgeNhI",
+      "youtubeId": "fk84NkgeNhI",
+      "language": "en",
+      "duration": "18:06",
+      "publishedDate": "2026-02-06",
+      "thumbnail": "https://i.ytimg.com/vi/fk84NkgeNhI/maxresdefault.jpg",
+      "noteEs": "Análisis de lore centrado en Aemeath y su trasfondo trágico, con teorías de la versión 3.1. Para quien ya entiende lo básico y quiere profundidad sobre un personaje concreto.",
+      "noteEn": "A lore deep-dive focused on Aemeath and her tragic backstory, with version 3.1 theories. For those who already grasp the basics and want depth on a specific character."
+    },
+    {
+      "id": "nexonix-25-story-explained-recap-wuwa",
+      "type": "video",
+      "title": "Wuthering Waves 2.5 Story Explained | Full Lore Recap",
+      "creator": "Nexonix",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=YdnK2nUEps0",
+      "youtubeId": "YdnK2nUEps0",
+      "language": "en",
+      "duration": "14:00",
+      "publishedDate": "2025-07-24",
+      "thumbnail": "https://i.ytimg.com/vi/YdnK2nUEps0/maxresdefault.jpg",
+      "noteEs": "Recap de la historia hasta la versión 2.5: cubre los eventos clave de la trama principal para ponerte al día sin tener que rejugar todas las quests. Buen catch-up antes de saltar al contenido nuevo.",
+      "noteEn": "A story recap through version 2.5: covers the key main-plot events to catch you up without replaying every quest. A good catch-up before jumping into newer content."
+    },
+    {
+      "id": "sevy-heartbreaking-quest-33-segue-reaction",
+      "type": "video",
+      "title": "THE MOST HEARTBREAKING QUEST IN WUTHERING WAVES (Wuthering Waves 3.3 Segue Reaction)",
+      "creator": "Sevy",
+      "creatorId": "sevy",
+      "url": "https://www.youtube.com/watch?v=q2zCZVl0vks",
+      "youtubeId": "q2zCZVl0vks",
+      "language": "en",
+      "duration": "1:52:14",
+      "publishedDate": "2026-05-28",
+      "thumbnail": "https://i.ytimg.com/vi/q2zCZVl0vks/maxresdefault.jpg",
+      "noteEs": "Playthrough con reacción de la quest Segue de la versión 3.3, uno de los momentos narrativos más fuertes del juego. Para vivir la historia con comentario en lugar de solo leer un resumen.",
+      "noteEn": "A reaction playthrough of the version 3.3 Segue quest, one of the game's strongest narrative beats. To experience the story with commentary instead of just reading a summary."
+    },
+    {
+      "id": "thedarkgosht-guia-temporada-soleada-wuwa-es",
+      "type": "video",
+      "title": "GUÍA TEMPORADA SOLEADA [misión secundaria] | WUTHERING WAVES en Español",
+      "creator": "TheDarkGosht",
+      "creatorId": "thedarkgosht",
+      "url": "https://www.youtube.com/watch?v=BLAFfGJwM2E",
+      "youtubeId": "BLAFfGJwM2E",
+      "language": "es",
+      "duration": "2:26",
+      "publishedDate": "2026-06-08",
+      "thumbnail": "https://i.ytimg.com/vi/BLAFfGJwM2E/maxresdefault.jpg",
+      "noteEs": "Guía en español de la misión secundaria Temporada Soleada: TheDarkGosht muestra cómo completarla paso a paso. Una de las pocas coberturas de quests de WuWa en español, útil para la comunidad hispana.",
+      "noteEn": "Spanish-language guide for the Sunny Season side quest: TheDarkGosht shows how to complete it step by step. One of the few WuWa quest coverages in Spanish, useful for the Hispanic community."
+    }
+  ]
+}

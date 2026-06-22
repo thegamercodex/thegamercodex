@@ -1,0 +1,52 @@
+{
+  "id": "mtashed",
+  "name": "Mtashed",
+  "realName": "Tash",
+  "country": "CA",
+  "languages": ["en"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@Mtashed",
+      "url": "https://www.youtube.com/@Mtashed",
+      "channelId": "UCI0fV325v5QniwVJ74PAVcA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "mtashed",
+      "url": "https://www.twitch.tv/mtashed"
+    },
+    {
+      "type": "twitter",
+      "handle": "@Mtashed",
+      "url": "https://twitter.com/Mtashed"
+    }
+  ],
+  "specialties": [
+    "f2p-friendly",
+    "beginner-guides",
+    "team-building",
+    "veteran-content"
+  ],
+  "games": ["wuthering-waves"],
+  "contentTypes": ["videos", "live-streams"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Veterano canadiense del scene gacha y de Destiny que cubre Wuthering Waves desde una perspectiva F2P. Su serie más conocida documenta cuentas nuevas jugadas sin gastar: a quién vale la pena hacer pull, cómo armar equipos competentes con recursos limitados y guías de inicio para quien llega tarde al juego. Tono honesto y accesible, sin asumir que el viewer es whale. Funciona como contraste a los canales de optimización pura y como puerta de entrada para principiantes que quieren progresar sin pagar.",
+  "noteEn": "Canadian gacha and Destiny scene veteran who covers Wuthering Waves from an F2P perspective. His best-known series documents fresh accounts played without spending: who's worth pulling, how to build competent teams on limited resources, and starter guides for late arrivals. Honest, accessible tone that doesn't assume the viewer is a whale. Works as a contrast to pure-optimization channels and as an entry point for beginners who want to progress without paying.",
+  "highlightsEs": [
+    "Perspectiva F2P con cuentas nuevas jugadas sin gastar",
+    "Guías de inicio para quien llega tarde al juego",
+    "Consejos de team building con recursos limitados",
+    "Tono honesto y accesible, combina YouTube y Twitch"
+  ],
+  "highlightsEn": [
+    "F2P perspective with fresh no-spend accounts",
+    "Starter guides for late arrivals to the game",
+    "Team-building tips on limited resources",
+    "Honest, accessible tone; combines YouTube and Twitch"
+  ],
+  "avatar": "/images/creators/mtashed-avatar.jpg",
+  "banner": "/images/creators/mtashed-banner.jpg"
+}

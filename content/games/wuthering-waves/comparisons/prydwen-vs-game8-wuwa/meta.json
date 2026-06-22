@@ -1,0 +1,49 @@
+{
+  "id": "prydwen-vs-game8-wuwa",
+  "toolIds": [
+    "prydwen",
+    "game8-wuwa"
+  ],
+  "category": "character-builds",
+  "depth": "short",
+  "lastVerified": "2026-06-20",
+  "verdictEs": "Prydwen para opinión y criterio: ¿vale la pena este Resonator y cómo lo armo bien? Game8 para datos exhaustivos y rápidos: materiales de ascensión, walkthroughs de eventos, códigos y bases de datos actualizadas al minuto.",
+  "verdictEn": "Prydwen for opinion and judgment: is this Resonator worth it and how do I build it well? Game8 for exhaustive, fast data: ascension materials, event walkthroughs, codes, and databases updated to the minute.",
+  "useCases": [
+    {
+      "labelEs": "Saber si un Resonator es bueno y por qué",
+      "labelEn": "Know whether a Resonator is good and why",
+      "winner": "prydwen",
+      "reasonEs": "Prydwen entrega una opinión razonada, no solo una tabla de stats.",
+      "reasonEn": "Prydwen delivers a reasoned opinion, not just a stat table."
+    },
+    {
+      "labelEs": "Buscar la lista exacta de materiales de ascensión de un personaje",
+      "labelEn": "Look up a character's exact ascension material list",
+      "winner": "game8-wuwa",
+      "reasonEs": "Game8 documenta cada material y cantidad con cobertura enciclopédica.",
+      "reasonEn": "Game8 documents every material and quantity with encyclopedic coverage."
+    },
+    {
+      "labelEs": "Walkthrough de un evento limitado paso a paso",
+      "labelEn": "Step-by-step walkthrough of a limited event",
+      "winner": "game8-wuwa",
+      "reasonEs": "Game8 publica walkthroughs de eventos casi al instante de salir.",
+      "reasonEn": "Game8 publishes event walkthroughs almost the moment they launch."
+    },
+    {
+      "labelEs": "Recomendación de build con razonamiento editorial",
+      "labelEn": "Build recommendation with editorial reasoning",
+      "winner": "prydwen",
+      "reasonEs": "Prydwen explica el porqué de cada elección de Echoes y weapon.",
+      "reasonEn": "Prydwen explains the why behind each Echo and weapon choice."
+    },
+    {
+      "labelEs": "Encontrar los códigos de redención vigentes ya",
+      "labelEn": "Find the currently active redemption codes now",
+      "winner": "game8-wuwa",
+      "reasonEs": "Game8 mantiene una página de códigos actualizada de forma constante.",
+      "reasonEn": "Game8 keeps a constantly updated codes page."
+    }
+  ]
+}

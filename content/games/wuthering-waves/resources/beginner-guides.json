@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "rhinne-if-i-started-wuwa-2026",
+      "type": "video",
+      "title": "If I Started Wuthering Waves in 2026, Here's What I'd Do",
+      "creator": "Rhinne",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=an2zLWQ2Z6U",
+      "youtubeId": "an2zLWQ2Z6U",
+      "language": "en",
+      "duration": "24:25",
+      "publishedDate": "2026-02-04",
+      "thumbnail": "https://i.ytimg.com/vi/an2zLWQ2Z6U/maxresdefault.jpg",
+      "noteEs": "Rhinne plantea la guía desde la perspectiva de empezar de cero en 2026: qué priorizar, qué Resonators iniciales valen la pena y cómo no desperdiciar Astrite en los primeros días. Buen anchor reflexivo para quien entra con el juego ya maduro.",
+      "noteEn": "Rhinne frames the guide from the angle of starting fresh in 2026: what to prioritize, which early Resonators are worth it, and how not to waste Astrite in your first days. A solid reflective anchor for entering a mature game."
+    },
+    {
+      "id": "drybeargamers-ultimate-beginner-wuwa-2026",
+      "type": "video",
+      "title": "ULTIMATE Beginner's Guide to Wuthering Waves w/ Timestamps (2026)",
+      "creator": "DrybearGamers",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=YZ7IAu6WPpc",
+      "youtubeId": "YZ7IAu6WPpc",
+      "language": "en",
+      "duration": "41:44",
+      "publishedDate": "2026-01-19",
+      "thumbnail": "https://i.ytimg.com/vi/YZ7IAu6WPpc/maxresdefault.jpg",
+      "noteEs": "La opción más exhaustiva del cluster: 40+ minutos con timestamps que cubren progresión, combate, Echoes y economía. Para quien quiere una sola fuente completa y no le molesta la duración.",
+      "noteEn": "The most exhaustive option in the cluster: 40+ minutes with timestamps covering progression, combat, Echoes, and economy. For players who want one complete source and don't mind the length."
+    },
+    {
+      "id": "quirk-only-beginner-guide-2026",
+      "type": "video",
+      "title": "The ONLY Beginner's Guide YOU Need in 2026! | Wuthering Waves",
+      "creator": "Quirk",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=62DgA9sFqXM",
+      "youtubeId": "62DgA9sFqXM",
+      "language": "en",
+      "duration": "9:02",
+      "publishedDate": "2026-06-08",
+      "thumbnail": "https://i.ytimg.com/vi/62DgA9sFqXM/maxresdefault.jpg",
+      "noteEs": "La opción más reciente y concisa: Quirk condensa lo esencial para arrancar en 9 minutos, ideal si no quieres una guía de 40. Actualizada a la versión 3.4.",
+      "noteEn": "The most recent and concise option: Quirk condenses the essentials to get started in 9 minutes, ideal if you don't want a 40-minute guide. Updated for version 3.4."
+    },
+    {
+      "id": "chiken-complete-beginner-f2p-wuwa",
+      "type": "video",
+      "title": "The Complete Beginner's Guide to Wuthering Waves (F2P)",
+      "creator": "Chiken",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=9PP7oNy7uXw",
+      "youtubeId": "9PP7oNy7uXw",
+      "language": "en",
+      "duration": "19:46",
+      "publishedDate": "2026-02-03",
+      "thumbnail": "https://i.ytimg.com/vi/9PP7oNy7uXw/maxresdefault.jpg",
+      "noteEs": "Versión F2P-friendly: Chiken construye el path asumiendo cero gasto, cubriendo qué Resonators free funcionan y cómo gestionar Astrite sin pagar. Complemento honesto a las guías de perspectiva whale.",
+      "noteEn": "F2P-friendly version: Chiken builds the path assuming zero spending, covering which free Resonators work and how to manage Astrite without paying. An honest complement to whale-perspective guides."
+    },
+    {
+      "id": "kageru-easiest-beginner-guide-wuwa-2026",
+      "type": "video",
+      "title": "EASIEST Wuthering Waves Beginner's Guide (2026)",
+      "creator": "Kageru",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=TUoeCCCINyM",
+      "youtubeId": "TUoeCCCINyM",
+      "language": "en",
+      "duration": "9:41",
+      "publishedDate": "2026-04-24",
+      "thumbnail": "https://i.ytimg.com/vi/TUoeCCCINyM/maxresdefault.jpg",
+      "noteEs": "Guía corta y digerible para quien se siente abrumado: Kageru reduce el onboarding a lo mínimo accionable sin perderse en detalles avanzados. Buena primera vista antes de profundizar.",
+      "noteEn": "A short, digestible guide for anyone feeling overwhelmed: Kageru reduces onboarding to the minimum actionable without getting lost in advanced detail. A good first pass before going deeper."
+    }
+  ]
+}

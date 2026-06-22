@@ -1,0 +1,42 @@
+{
+  "id": "wuwaflex",
+  "name": "WuWaFlex",
+  "taglineEs": "Plataforma de showcase para compartir y comparar builds de Resonators con la comunidad",
+  "taglineEn": "Showcase platform to share and compare Resonator builds with the community",
+  "url": "https://wuwaflex.com/",
+  "category": "echo-optimization",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "showcase",
+    "build-sharing",
+    "echoes",
+    "community",
+    "cards"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/wuthering-waves/wuwaflex-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "wuwabuilds",
+    "wavemate"
+  ],
+  "alternatives": [
+    "wuwabuilds",
+    "wavemate"
+  ],
+  "createdBy": {
+    "name": "WuWaFlex"
+  }
+}

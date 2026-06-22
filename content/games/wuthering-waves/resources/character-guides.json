@@ -1,0 +1,80 @@
+{
+  "category": "character-guides",
+  "resources": [
+    {
+      "id": "iwintolose-lucilla-guide-wuwa",
+      "type": "video",
+      "title": "ULTIMATE Lucilla Guide and Showcase! [Best Builds and MORE] Wuthering Waves",
+      "creator": "IWinToLose Gaming",
+      "creatorId": "iwintolose",
+      "url": "https://www.youtube.com/watch?v=P8q8q8GWO_w",
+      "youtubeId": "P8q8q8GWO_w",
+      "language": "en",
+      "duration": "19:27",
+      "publishedDate": "2026-06-12",
+      "thumbnail": "https://i.ytimg.com/vi/P8q8q8GWO_w/maxresdefault.jpg",
+      "noteEs": "Guía completa de Lucilla por IWinToLose: kit, mejores Echoes y Sonata, weapons, substats objetivo, teams y showcase de daño. Probado in-game, no solo teoría sobre el papel.",
+      "noteEn": "IWinToLose's complete Lucilla guide: kit, best Echoes and Sonata, weapons, target substats, teams, and a damage showcase. Tested in-game, not just paper theory."
+    },
+    {
+      "id": "iwintolose-rebecca-guide-wuwa-collab",
+      "type": "video",
+      "title": "ULTIMATE Rebecca Guide and Showcase! [Best Builds and MORE] Wuthering Waves Cyberpunk Collab",
+      "creator": "IWinToLose Gaming",
+      "creatorId": "iwintolose",
+      "url": "https://www.youtube.com/watch?v=qEcwLpsxhaA",
+      "youtubeId": "qEcwLpsxhaA",
+      "language": "en",
+      "duration": "20:16",
+      "publishedDate": "2026-06-07",
+      "thumbnail": "https://i.ytimg.com/vi/qEcwLpsxhaA/maxresdefault.jpg",
+      "noteEs": "Build completa de Rebecca, la Resonator del collab con Cyberpunk: Edgerunners (gratis para todos en 3.4). IWinToLose cubre Echoes, weapons y teams para sacarle el máximo a la unidad regalada.",
+      "noteEn": "Complete build for Rebecca, the Cyberpunk: Edgerunners collab Resonator (free for everyone in 3.4). IWinToLose covers Echoes, weapons, and teams to get the most out of the gifted unit."
+    },
+    {
+      "id": "quirk-lucy-complete-guide-wuwa",
+      "type": "video",
+      "title": "DON'T Build Lucy WRONG! Complete Lucy Guide - Echoes, Weapons And Teams | Wuthering Waves",
+      "creator": "Quirk",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=wJhf4S923-0",
+      "youtubeId": "wJhf4S923-0",
+      "language": "en",
+      "duration": "8:02",
+      "publishedDate": "2026-06-06",
+      "thumbnail": "https://i.ytimg.com/vi/wJhf4S923-0/maxresdefault.jpg",
+      "noteEs": "Guía concisa de Lucy (collab Cyberpunk, limitada 5-estrellas): Quirk va directo a los errores comunes de build y la configuración correcta de Echoes, weapons y teams en 8 minutos.",
+      "noteEn": "Concise Lucy guide (Cyberpunk collab limited 5-star): Quirk goes straight to common build mistakes and the correct Echo, weapon, and team setup in 8 minutes."
+    },
+    {
+      "id": "quirk-denia-complete-guide-wuwa",
+      "type": "video",
+      "title": "DON'T Build Denia WRONG! Complete Denia Guide - Full Kit, Build And Teams | Wuthering Waves",
+      "creator": "Quirk",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=eq9rF19lUpY",
+      "youtubeId": "eq9rF19lUpY",
+      "language": "en",
+      "duration": "9:28",
+      "publishedDate": "2026-05-19",
+      "thumbnail": "https://i.ytimg.com/vi/eq9rF19lUpY/maxresdefault.jpg",
+      "noteEs": "Guía de Denia: kit completo, build, Echoes y teams en formato directo. Útil para entender una unidad fuera del foco del collab y dónde encaja en el roster.",
+      "noteEn": "Denia guide: full kit, build, Echoes, and teams in a direct format. Useful for understanding a unit outside the collab spotlight and where she fits in the roster."
+    },
+    {
+      "id": "braxophone-carlotta-s0-build-wuwa",
+      "type": "video",
+      "title": "NEW BEST DPS! Full S0 Carlotta Guide & Build [Best Echoes, Weapons & Teams] - Wuthering Waves",
+      "creator": "Braxophone",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=PES1JInd0WE",
+      "youtubeId": "PES1JInd0WE",
+      "language": "en",
+      "duration": "16:54",
+      "publishedDate": "2025-01-01",
+      "thumbnail": "https://i.ytimg.com/vi/PES1JInd0WE/maxresdefault.jpg",
+      "noteEs": "Guía evergreen de Carlotta a Sequence 0: una de las DPS Glacio de referencia. Braxophone detalla Echoes, weapons F2P vs signature y teams. El kit no cambió, así que sigue vigente.",
+      "noteEn": "Evergreen S0 Carlotta guide: one of the benchmark Glacio DPS. Braxophone details Echoes, F2P vs signature weapons, and teams. Her kit hasn't changed, so it stays current."
+    }
+  ]
+}

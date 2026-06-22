@@ -1,0 +1,42 @@
+{
+  "id": "wuwa-subreddit",
+  "name": "r/WutheringWaves",
+  "shortName": "r/WutheringWaves",
+  "taglineEs": "Subreddit principal de Wuthering Waves: discusion de version, leaks, builds, fan art y debate de meta",
+  "taglineEn": "Main Wuthering Waves subreddit: version discussion, leaks, builds, fan art, and meta debate",
+  "url": "https://www.reddit.com/r/WutheringWaves/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "reddit",
+    "community",
+    "discussion",
+    "leaks",
+    "meta-debates"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "wuwa-discord"
+  ],
+  "alternatives": [
+    "wuwa-discord"
+  ],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/WutheringWaves/about"
+  }
+}

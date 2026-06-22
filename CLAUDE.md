@@ -300,7 +300,9 @@ Los assets visuales (logos, screenshots, avatars) pueden faltar para tools/creat
 
 ## Estado Actual del Código
 
-Pasos 1-7, 9 y 10 del roadmap de PROJECT.md completos. `next build` pasa con SSG + ISR (revalidate 6h en páginas de creator por el RSS de YouTube).
+Pasos 1-7, 9 y 10 del roadmap de PROJECT.md completos. El proyecto compila con SSG + ISR (revalidate 6h en páginas de creator por el RSS de YouTube).
+
+> **Claude NUNCA corre el build ni el dev server** (`next build` / `next dev`) en este entorno — ambos se cuelgan. Cuando un cambio necesite verificación de build/server, avisar al usuario para que lo corra él. Ver `docs/RULES.md → Process`.
 
 **Hecho**:
 - ✅ Setup base: `next-intl`, path alias `@/*`, tipos, `lib/content.ts`, `lib/markdown.ts`, `lib/categories.ts`, `lib/format.ts`, `lib/youtube.ts`.

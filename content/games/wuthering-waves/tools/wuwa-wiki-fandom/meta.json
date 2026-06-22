@@ -1,0 +1,43 @@
+{
+  "id": "wuwa-wiki-fandom",
+  "name": "Wuthering Waves Wiki (Fandom)",
+  "shortName": "WuWa Wiki",
+  "taglineEs": "Wiki comunitaria de WuWa con personajes, armas, quests, lore y mecanicas",
+  "taglineEn": "Community WuWa wiki with characters, weapons, quests, lore, and mechanics",
+  "url": "https://wutheringwaves.fandom.com/wiki/Wuthering_Waves_Wiki",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "wiki",
+    "lore",
+    "quests",
+    "reference",
+    "community"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/common/fandom-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "wuthering-gg",
+    "game8-wuwa"
+  ],
+  "alternatives": [
+    "wuthering-gg"
+  ],
+  "createdBy": {
+    "name": "Fandom community",
+    "url": "https://wutheringwaves.fandom.com/"
+  }
+}

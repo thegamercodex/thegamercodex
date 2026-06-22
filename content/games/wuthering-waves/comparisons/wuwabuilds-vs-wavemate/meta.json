@@ -1,0 +1,49 @@
+{
+  "id": "wuwabuilds-vs-wavemate",
+  "toolIds": [
+    "wuwabuilds",
+    "wavemate"
+  ],
+  "category": "echo-optimization",
+  "depth": "short",
+  "lastVerified": "2026-06-20",
+  "verdictEs": "WuWaBuilds si quieres el workbench completo de Echoes: escaneo OCR, builds editables, showcase y leaderboards. WaveMate si solo quieres puntuar un Echo rápido y saber al instante si vale la pena guardarlo.",
+  "verdictEn": "WuWaBuilds if you want the full Echo workbench: OCR scanning, editable builds, showcase, and leaderboards. WaveMate if you just want to score an Echo fast and instantly know whether it's worth keeping.",
+  "useCases": [
+    {
+      "labelEs": "Decidir al instante si un Echo recién dropeado vale la pena",
+      "labelEn": "Instantly decide whether a freshly dropped Echo is worth it",
+      "winner": "wavemate",
+      "reasonEs": "WaveMate va directo al scoring de un Echo sin overhead.",
+      "reasonEn": "WaveMate goes straight to scoring an Echo with no overhead."
+    },
+    {
+      "labelEs": "Construir y guardar builds completas editables de varios Resonators",
+      "labelEn": "Build and save complete editable builds for several Resonators",
+      "winner": "wuwabuilds",
+      "reasonEs": "WuWaBuilds guarda character cards editables y persistentes.",
+      "reasonEn": "WuWaBuilds saves editable, persistent character cards."
+    },
+    {
+      "labelEs": "Entender de forma transparente cómo se calcula el score de un Echo",
+      "labelEn": "Transparently understand how an Echo score is calculated",
+      "winner": "wavemate",
+      "reasonEs": "WaveMate muestra explícitamente cómo se reparten los puntos.",
+      "reasonEn": "WaveMate explicitly shows how the points are allotted."
+    },
+    {
+      "labelEs": "Generar showcase cards y subir a leaderboards",
+      "labelEn": "Generate showcase cards and submit to leaderboards",
+      "winner": "wuwabuilds",
+      "reasonEs": "WuWaBuilds integra showcase y leaderboards en el mismo flujo.",
+      "reasonEn": "WuWaBuilds integrates showcase and leaderboards in the same flow."
+    },
+    {
+      "labelEs": "Chequeo rápido de scoring desde el celular",
+      "labelEn": "Quick scoring check from your phone",
+      "winner": "wavemate",
+      "reasonEs": "WaveMate tiene sensación de app móvil ligera para chequeos al vuelo.",
+      "reasonEn": "WaveMate feels like a lightweight mobile app for on-the-fly checks."
+    }
+  ]
+}
