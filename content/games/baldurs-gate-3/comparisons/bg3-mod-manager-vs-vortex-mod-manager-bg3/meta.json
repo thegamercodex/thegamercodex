@@ -1,0 +1,46 @@
+{
+  "id": "bg3-mod-manager-vs-vortex-mod-manager-bg3",
+  "toolIds": ["bg3-mod-manager", "vortex-mod-manager-bg3"],
+  "category": "mod-managers",
+  "depth": "short",
+  "lastVerified": "2026-06-10",
+  "verdictEs": "BG3 Mod Manager si quieres el control fino del load order que asumen las guías de la comunidad. Vortex si ya gestionas varios juegos desde una sola app y prefieres la comodidad de la automatización de Nexus.",
+  "verdictEn": "BG3 Mod Manager if you want the fine load-order control community guides assume. Vortex if you already manage several games from one app and prefer the convenience of Nexus automation.",
+  "useCases": [
+    {
+      "labelEs": "Seguir guías de modding de BG3 al pie de la letra",
+      "labelEn": "Following BG3 modding guides to the letter",
+      "winner": "bg3-mod-manager",
+      "reasonEs": "Las guías de la comunidad están escritas pensando en BG3MM y su manejo del load order.",
+      "reasonEn": "Community guides are written with BG3MM and its load-order handling in mind."
+    },
+    {
+      "labelEs": "Gestionar mods de BG3 junto a Skyrim, Cyberpunk y otros",
+      "labelEn": "Managing BG3 mods alongside Skyrim, Cyberpunk, and others",
+      "winner": "vortex-mod-manager-bg3",
+      "reasonEs": "Vortex es multi-juego: centraliza toda tu biblioteca en una interfaz consistente.",
+      "reasonEn": "Vortex is multi-game: it centralizes your whole library in one consistent interface."
+    },
+    {
+      "labelEs": "Control fino y preciso sobre el orden de carga",
+      "labelEn": "Fine, precise control over load order",
+      "winner": "bg3-mod-manager",
+      "reasonEs": "BG3MM está afinado para las particularidades de BG3 y da control directo del orden de los .pak.",
+      "reasonEn": "BG3MM is tuned for BG3's quirks and gives direct control over .pak ordering."
+    },
+    {
+      "labelEs": "Instalación con un click y dependencias resueltas solas",
+      "labelEn": "One-click install with auto-resolved dependencies",
+      "winner": "vortex-mod-manager-bg3",
+      "reasonEs": "Vortex automatiza la descarga desde Nexus y propone el orden resolviendo dependencias.",
+      "reasonEn": "Vortex automates the Nexus download and proposes the order, resolving dependencies."
+    },
+    {
+      "labelEs": "Debuggear por qué un mod específico no carga",
+      "labelEn": "Debugging why a specific mod won't load",
+      "winner": "bg3-mod-manager",
+      "reasonEs": "La capa de abstracción de Vortex puede ocultar el conflicto; BG3MM expone el orden de forma más directa.",
+      "reasonEn": "Vortex's abstraction layer can hide the conflict; BG3MM exposes the order more directly."
+    }
+  ]
+}

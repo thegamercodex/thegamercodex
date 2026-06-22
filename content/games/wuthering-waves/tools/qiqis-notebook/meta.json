@@ -1,0 +1,41 @@
+{
+  "id": "qiqis-notebook",
+  "name": "Qiqi's Notebook",
+  "taglineEs": "Mapa interactivo con recolectables, Echoes y rutas de farmeo optimizadas",
+  "taglineEn": "Interactive map with collectibles, Echoes, and optimized farming routes",
+  "url": "https://qiqis-notebook.com/",
+  "category": "exploration-maps",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "interactive-map",
+    "collectibles",
+    "farming-routes",
+    "echoes",
+    "exploration"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/wuthering-waves/qiqis-notebook-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "appsample-wuwa-map",
+    "wuthering-gg"
+  ],
+  "alternatives": [
+    "appsample-wuwa-map"
+  ],
+  "createdBy": {
+    "name": "Qiqi's Notebook"
+  }
+}

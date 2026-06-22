@@ -1,0 +1,38 @@
+{
+  "id": "encore-moe",
+  "name": "Encore.moe",
+  "taglineEs": "Base de datos de recursos, voicelines y API de WuWa para la comunidad",
+  "taglineEn": "Database of WuWa resources, voicelines, and API for the community",
+  "url": "https://encore.moe/?lang=en",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "database",
+    "api",
+    "voicelines",
+    "resources",
+    "reference"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/wuthering-waves/encore-moe-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "wuthering-gg"
+  ],
+  "alternatives": [],
+  "createdBy": {
+    "name": "Encore.moe contributors"
+  }
+}

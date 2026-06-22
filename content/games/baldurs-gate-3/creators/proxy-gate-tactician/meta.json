@@ -1,0 +1,45 @@
+{
+  "id": "proxy-gate-tactician",
+  "name": "Proxy Gate Tactician",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2020,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@ProxyGateTactician",
+      "url": "https://www.youtube.com/@ProxyGateTactician",
+      "channelId": "UCp4JxrdaogJXcYxYLd-weHg",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "honour-mode-builds",
+    "tactician-strategies",
+    "min-maxing",
+    "class-tier-lists",
+    "combat-optimization"
+  ],
+  "games": ["baldurs-gate-3"],
+  "contentTypes": ["videos", "guides", "build-breakdowns", "tier-lists"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Proxy Gate Tactician se especializa en el extremo competitivo de BG3: builds optimizadas para Honour Mode y Tactician, min-maxing, tier lists de clase y estrategias de combate para las dificultades más duras. Es el canal para quien ya superó la curva básica y quiere exprimir cada punto de daño y supervivencia en las pruebas más exigentes del juego.",
+  "noteEn": "Proxy Gate Tactician specializes in BG3's competitive end: builds optimized for Honour Mode and Tactician, min-maxing, class tier lists, and combat strategies for the hardest difficulties. It's the channel for players past the basic curve who want to squeeze every point of damage and survivability out of the game's most demanding challenges.",
+  "highlightsEs": [
+    "Builds afinadas para Honour Mode y Tactician",
+    "Min-maxing y optimización de combate al detalle",
+    "Tier lists de clase y arquetipo",
+    "Estrategias para los encuentros más difíciles del juego",
+    "Orientado a jugador intermedio-avanzado que busca rendimiento"
+  ],
+  "highlightsEn": [
+    "Builds tuned for Honour Mode and Tactician",
+    "Min-maxing and combat optimization in detail",
+    "Class and archetype tier lists",
+    "Strategies for the game's hardest encounters",
+    "Aimed at the intermediate-to-advanced player chasing performance"
+  ],
+  "avatar": "/images/creators/proxy-gate-tactician-avatar.jpg",
+  "banner": "/images/creators/proxy-gate-tactician-banner.jpg"
+}

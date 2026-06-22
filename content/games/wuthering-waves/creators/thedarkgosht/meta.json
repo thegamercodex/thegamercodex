@@ -1,0 +1,41 @@
+{
+  "id": "thedarkgosht",
+  "name": "TheDarkGosht",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@TheDarkGosht",
+      "url": "https://www.youtube.com/@TheDarkGosht",
+      "channelId": "UCs2gp3hHTP12-ABExX-4B-w",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "playthroughs",
+    "guides",
+    "quest-walkthroughs",
+    "news"
+  ],
+  "games": ["wuthering-waves"],
+  "contentTypes": ["videos", "guides"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Creador en español dedicado a Wuthering Waves con una cadencia altísima: sube gameplay episódico de la historia principal casi a diario, además de guías de misiones secundarias, eventos y modos como Fantasías de las Mil Puertas. Su enfoque es de acompañamiento — ideal para seguir el juego en español, no perderse contenido temporal y resolver misiones sin recurrir a guías en inglés. También cubre el juego hermano NTE. Para la audiencia hispanohablante que quiere una voz constante y completa en su idioma, es una de las opciones más activas.",
+  "noteEn": "Spanish-language creator dedicated to Wuthering Waves with a very high cadence: he uploads episodic main-story gameplay almost daily, plus guides for side quests, events, and modes like Fantasies of the Thousand Gates. His approach is companion-style — ideal for following the game in Spanish, not missing time-limited content, and clearing quests without resorting to English guides. He also covers the sister game NTE. For Spanish-speaking audiences who want a steady, comprehensive voice in their language, one of the most active options.",
+  "highlightsEs": [
+    "Gameplay episódico de la historia principal casi a diario",
+    "Guías de misiones secundarias, eventos y modos temporales",
+    "Voz constante y completa en español para WuWa",
+    "Ideal para no perderse contenido temporal del juego"
+  ],
+  "highlightsEn": [
+    "Near-daily episodic main-story gameplay",
+    "Guides for side quests, events, and time-limited modes",
+    "Steady, comprehensive Spanish-language voice for WuWa",
+    "Ideal for not missing the game's time-limited content"
+  ],
+  "avatar": "/images/creators/thedarkgosht-avatar.jpg",
+  "banner": "/images/creators/thedarkgosht-banner.jpg"
+}

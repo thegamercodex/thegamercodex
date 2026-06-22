@@ -1,0 +1,28 @@
+{
+  "id": "bg3-subreddit",
+  "name": "r/BaldursGate3",
+  "shortName": "r/BaldursGate3",
+  "taglineEs": "El subreddit principal de BG3 — discusión de builds, screenshots, dudas de quest, reacciones a patches y memes",
+  "taglineEn": "The main BG3 subreddit — build discussion, screenshots, quest questions, patch reactions, and memes",
+  "url": "https://www.reddit.com/r/BaldursGate3/",
+  "category": "community",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["reddit", "community", "discussion", "help"],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/common/reddit-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["larian-discord", "bg3-wiki"],
+  "alternatives": ["larian-discord"],
+  "createdBy": {
+    "name": "Reddit community",
+    "url": "https://www.reddit.com/r/BaldursGate3/about"
+  }
+}

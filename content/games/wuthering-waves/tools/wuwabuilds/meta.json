@@ -1,0 +1,44 @@
+{
+  "id": "wuwabuilds",
+  "name": "WuWaBuilds",
+  "taglineEs": "Escanea tus Echoes con OCR, puntua builds y arma showcase cards de tus Resonators",
+  "taglineEn": "Scan your Echoes with OCR, score builds, and create showcase cards for your Resonators",
+  "url": "https://wuwa.build/",
+  "category": "echo-optimization",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "echo-scanner",
+    "ocr",
+    "build-cards",
+    "leaderboards",
+    "showcase"
+  ],
+  "essential": true,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/wuthering-waves/wuwabuilds-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "wuwaflex",
+    "wavemate",
+    "wutheringtools"
+  ],
+  "alternatives": [
+    "wuwaflex",
+    "wavemate"
+  ],
+  "createdBy": {
+    "name": "WuWaBuilds contributors",
+    "url": "https://wuwa.build/"
+  }
+}

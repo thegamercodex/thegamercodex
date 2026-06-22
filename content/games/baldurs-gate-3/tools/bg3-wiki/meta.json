@@ -1,0 +1,28 @@
+{
+  "id": "bg3-wiki",
+  "name": "bg3.wiki",
+  "shortName": "bg3.wiki",
+  "taglineEs": "La wiki community de BG3 — datos precisos de reglas, items, hechizos y mecánicas mantenidos por jugadores",
+  "taglineEn": "The community BG3 wiki — precise data on rules, items, spells, and mechanics maintained by players",
+  "url": "https://bg3.wiki/",
+  "category": "reference",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["wiki", "database", "rules", "items", "community"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-10",
+  "logo": "/images/tools/baldurs-gate-3/bg3-wiki-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["fextralife-bg3", "eip-build-planner", "map-genie-bg3"],
+  "alternatives": ["fextralife-bg3"],
+  "createdBy": {
+    "name": "bg3.wiki community",
+    "url": "https://bg3.wiki"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "vortex-mod-manager-bg3-vs-bg3-official-mod-support",
+  "toolIds": ["vortex-mod-manager-bg3", "bg3-official-mod-support"],
+  "category": "mod-managers",
+  "depth": "short",
+  "lastVerified": "2026-06-10",
+  "verdictEs": "Vortex para el catálogo completo de Nexus en PC con automatización y soporte multi-juego. El soporte oficial para modear en consola, empezar sin instalar nada y mantener los mods cross-platform.",
+  "verdictEn": "Vortex for the full Nexus catalog on PC with automation and multi-game support. Official support to mod on console, start without installing anything, and keep mods cross-platform.",
+  "useCases": [
+    {
+      "labelEs": "Modear en consola",
+      "labelEn": "Modding on console",
+      "winner": "bg3-official-mod-support",
+      "reasonEs": "El soporte oficial es la única vía soportada en PlayStation y Xbox; Vortex es solo PC.",
+      "reasonEn": "Official support is the only supported route on PlayStation and Xbox; Vortex is PC-only."
+    },
+    {
+      "labelEs": "Acceder al catálogo completo de Nexus en PC",
+      "labelEn": "Accessing the full Nexus catalog on PC",
+      "winner": "vortex-mod-manager-bg3",
+      "reasonEs": "Vortex trabaja con todo Nexus, mucho más amplio que el catálogo curado de mod.io.",
+      "reasonEn": "Vortex works with all of Nexus, far broader than mod.io's curated catalog."
+    },
+    {
+      "labelEs": "Empezar a modear sin instalar software externo",
+      "labelEn": "Starting to mod without installing external software",
+      "winner": "bg3-official-mod-support",
+      "reasonEs": "El gestor oficial vive dentro del juego; Vortex requiere instalar la app aparte.",
+      "reasonEn": "The official manager lives inside the game; Vortex requires installing the app separately."
+    },
+    {
+      "labelEs": "Gestionar BG3 junto a otros juegos modeados",
+      "labelEn": "Managing BG3 alongside other modded games",
+      "winner": "vortex-mod-manager-bg3",
+      "reasonEs": "Vortex centraliza el modding de toda tu biblioteca en una sola interfaz.",
+      "reasonEn": "Vortex centralizes modding for your whole library in a single interface."
+    },
+    {
+      "labelEs": "Mantener los mismos mods en PC y consola",
+      "labelEn": "Keeping the same mods on PC and console",
+      "winner": "bg3-official-mod-support",
+      "reasonEs": "Los mods aprobados en mod.io funcionan cross-platform; los de Nexus en Vortex no llegan a consola.",
+      "reasonEn": "mod.io-approved mods work cross-platform; Nexus mods in Vortex don't reach console."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "tethys",
+  "name": "Tethys.gg",
+  "shortName": "Tethys",
+  "taglineEs": "Calculos profundos y comparativas de builds para theorycrafters de WuWa",
+  "taglineEn": "Deep calculations and build comparisons for WuWa theorycrafters",
+  "url": "https://tethys.gg/",
+  "category": "damage-calculation",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "theorycraft",
+    "damage-calc",
+    "comparisons",
+    "advanced",
+    "dps"
+  ],
+  "essential": false,
+  "difficulty": "advanced",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/wuthering-waves/tethys-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "wutheringtools",
+    "wuwabuilds"
+  ],
+  "alternatives": [
+    "wutheringtools"
+  ],
+  "createdBy": {
+    "name": "Tethys.gg"
+  }
+}

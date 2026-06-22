@@ -1,0 +1,37 @@
+{
+  "id": "wuthering-waves-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-20",
+  "items": [
+    {
+      "toolId": "wuwabuilds",
+      "roleEs": "El banco de trabajo de Echoes. El core: escanea tus Echoes, los puntúa y arma las character cards que vas a optimizar.",
+      "roleEn": "The Echo workbench. The core: scans your Echoes, scores them, and builds the character cards you will optimize."
+    },
+    {
+      "toolId": "prydwen",
+      "roleEs": "La referencia editorial: qué Resonators valen la pena, qué Echoes y substats apuntar, y con quién juegan en cada team comp.",
+      "roleEn": "The editorial reference: which Resonators are worth it, which Echoes and substats to target, and who they pair with in each team comp."
+    },
+    {
+      "toolId": "wutheringtools",
+      "roleEs": "La calculadora de daño: valida cuánto pega tu build y qué cambio aporta más antes de invertir Waveplate en farmear.",
+      "roleEn": "The damage calculator: validates how hard your build hits and which change helps most before you spend Waveplate farming."
+    },
+    {
+      "toolId": "wuwatracker",
+      "roleEs": "El companion de planning: trackea tu pity de Convene, tu Waveplate y calcula los materiales de ascensión que te faltan.",
+      "roleEn": "The planning companion: tracks your Convene pity, your Waveplate, and computes the ascension materials you still need."
+    },
+    {
+      "toolId": "qiqis-notebook",
+      "roleEs": "El mapa con checklist: te dice dónde conseguir los materiales y Echoes que el planner marcó como pendientes.",
+      "roleEn": "The map with checklist: tells you where to get the materials and Echoes the planner flagged as pending."
+    },
+    {
+      "toolId": "wuthering-gg",
+      "roleEs": "La base de datos de consulta rápida: kits, weapons y stats de Echoes a mano cuando necesitas un dato sin abrir cinco pestañas.",
+      "roleEn": "The quick-lookup database: kits, weapons, and Echo stats on hand when you need a fact without opening five tabs."
+    }
+  ]
+}

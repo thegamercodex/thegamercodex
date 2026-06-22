@@ -1,0 +1,46 @@
+{
+  "id": "bg3-mod-manager-vs-bg3-official-mod-support",
+  "toolIds": ["bg3-mod-manager", "bg3-official-mod-support"],
+  "category": "mod-managers",
+  "depth": "short",
+  "lastVerified": "2026-06-10",
+  "verdictEs": "BG3 Mod Manager para el control total en PC, mods con Script Extender y el catálogo completo de Nexus. El soporte oficial de mods para empezar sin fricción, modear en consola y mantener todo cross-platform.",
+  "verdictEn": "BG3 Mod Manager for full PC control, Script Extender mods, and the complete Nexus catalog. Official mod support to start frictionless, mod on console, and keep everything cross-platform.",
+  "useCases": [
+    {
+      "labelEs": "Modear en PlayStation o Xbox",
+      "labelEn": "Modding on PlayStation or Xbox",
+      "winner": "bg3-official-mod-support",
+      "reasonEs": "El soporte oficial vía mod.io es la única vía de modding soportada en consola.",
+      "reasonEn": "Official support via mod.io is the only supported modding route on console."
+    },
+    {
+      "labelEs": "Usar mods que dependen de Script Extender",
+      "labelEn": "Using mods that depend on Script Extender",
+      "winner": "bg3-mod-manager",
+      "reasonEs": "BG3MM instala el Script Extender y maneja los mods avanzados que el catálogo oficial no admite.",
+      "reasonEn": "BG3MM installs the Script Extender and handles the advanced mods the official catalog doesn't allow."
+    },
+    {
+      "labelEs": "Empezar a modear sin configurar nada",
+      "labelEn": "Starting to mod without configuring anything",
+      "winner": "bg3-official-mod-support",
+      "reasonEs": "El gestor in-game deja buscar, instalar y activar desde el menú, sin apps externas.",
+      "reasonEn": "The in-game manager lets you search, install, and enable from the menu, with no external apps."
+    },
+    {
+      "labelEs": "Acceder al catálogo completo de mods de PC",
+      "labelEn": "Accessing the full PC mod catalog",
+      "winner": "bg3-mod-manager",
+      "reasonEs": "BG3MM trabaja con todo Nexus, mucho más amplio que el catálogo curado de mod.io.",
+      "reasonEn": "BG3MM works with all of Nexus, far broader than mod.io's curated catalog."
+    },
+    {
+      "labelEs": "Control fino del load order en un setup complejo",
+      "labelEn": "Fine load-order control in a complex setup",
+      "winner": "bg3-mod-manager",
+      "reasonEs": "El manejo de orden del gestor oficial es básico; BG3MM da el control que exigen los setups grandes.",
+      "reasonEn": "The official manager's order handling is basic; BG3MM gives the control big setups demand."
+    }
+  ]
+}

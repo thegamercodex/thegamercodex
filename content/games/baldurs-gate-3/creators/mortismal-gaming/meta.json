@@ -1,0 +1,46 @@
+{
+  "id": "mortismal-gaming",
+  "name": "Mortismal Gaming",
+  "realName": "Mortym",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2017,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@MortismalGaming",
+      "url": "https://www.youtube.com/@MortismalGaming",
+      "channelId": "UCEQ7KR9enYdQsB6kcMnw0NA",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "rpg-reviews",
+    "100-percent-completion",
+    "first-impressions",
+    "patch-coverage",
+    "long-form-analysis"
+  ],
+  "games": ["baldurs-gate-3"],
+  "contentTypes": ["videos", "reviews", "guides"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "Mortismal Gaming es un canal de reviews y cobertura de RPGs con una marca registrada: reseña los juegos después de completarlos al 100%, lo que da un peso distinto a su opinión. Para BG3 cubre reviews, primeras impresiones, análisis de patches y guías generales. Es el canal para una visión madura y completa del juego, más que para una build específica.",
+  "noteEn": "Mortismal Gaming is an RPG review and coverage channel with a trademark: it reviews games after completing them 100%, which gives its opinion a different weight. For BG3 it covers reviews, first impressions, patch analysis, and general guides. It's the channel for a mature, complete view of the game, rather than for a specific build.",
+  "highlightsEs": [
+    "Reviews hechas tras completar el juego al 100%",
+    "Cobertura de patches y novedades con perspectiva completa",
+    "Primeras impresiones útiles para decidir si comprar",
+    "Enfoque en el juego como RPG entero, no solo en builds",
+    "Tono mesurado y honesto, sin hype vacío"
+  ],
+  "highlightsEn": [
+    "Reviews made after completing the game 100%",
+    "Patch and update coverage with a complete perspective",
+    "First impressions useful for deciding whether to buy",
+    "Focus on the game as a whole RPG, not just builds",
+    "Measured, honest tone without empty hype"
+  ],
+  "avatar": "/images/creators/mortismal-gaming-avatar.jpg",
+  "banner": "/images/creators/mortismal-gaming-banner.jpg"
+}

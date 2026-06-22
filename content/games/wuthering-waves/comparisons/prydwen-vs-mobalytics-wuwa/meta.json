@@ -1,0 +1,49 @@
+{
+  "id": "prydwen-vs-mobalytics-wuwa",
+  "toolIds": [
+    "prydwen",
+    "mobalytics-wuwa"
+  ],
+  "category": "character-builds",
+  "depth": "flagship",
+  "lastVerified": "2026-06-20",
+  "verdictEs": "Prydwen si quieres la opinión más rigurosa y detallada por Resonator —ratings, sets de Echoes, substats objetivo y team comps con razonamiento. Mobalytics si quieres guías accesibles y digestibles que expliquen el porqué sin ahogarte en data, ideales para empezar.",
+  "verdictEn": "Prydwen if you want the most rigorous, detailed take per Resonator — ratings, Echo sets, target substats, and team comps with reasoning. Mobalytics if you want accessible, digestible guides that explain the why without drowning you in data, ideal for getting started.",
+  "useCases": [
+    {
+      "labelEs": "Decidir si vale la pena invertir en un Resonator nuevo",
+      "labelEn": "Decide whether a new Resonator is worth investing in",
+      "winner": "prydwen",
+      "reasonEs": "Prydwen publica ratings detallados por contenido y explica el razonamiento detrás de cada nota.",
+      "reasonEn": "Prydwen publishes detailed per-content ratings and explains the reasoning behind each grade."
+    },
+    {
+      "labelEs": "Entender team building básico (hypercarry vs quick-swap) desde cero",
+      "labelEn": "Understand basic team building (hypercarry vs quick-swap) from scratch",
+      "winner": "mobalytics-wuwa",
+      "reasonEs": "Mobalytics arma guías editoriales explicativas pensadas para el jugador que recién entiende la mecánica.",
+      "reasonEn": "Mobalytics builds explanatory editorial guides aimed at players just learning the mechanic."
+    },
+    {
+      "labelEs": "Ver sets de Echoes, main stats y substats objetivo exactos por personaje",
+      "labelEn": "See exact Echo sets, main stats, and target substats per character",
+      "winner": "prydwen",
+      "reasonEs": "Las páginas de Prydwen detallan Sonata effects, main stats por slot y prioridad de substats.",
+      "reasonEn": "Prydwen's pages detail Sonata effects, main stats per slot, and substat priority."
+    },
+    {
+      "labelEs": "Guía de reroll rápida al empezar la cuenta",
+      "labelEn": "Quick reroll guide when starting an account",
+      "winner": "mobalytics-wuwa",
+      "reasonEs": "Mobalytics tiene una reroll guide curada y directa para los primeros pulls.",
+      "reasonEn": "Mobalytics has a curated, direct reroll guide for your first pulls."
+    },
+    {
+      "labelEs": "Comparar el techo de varios Resonators para Tower of Adversity",
+      "labelEn": "Compare the ceiling of several Resonators for Tower of Adversity",
+      "winner": "prydwen",
+      "reasonEs": "La tier list de Prydwen está segmentada por contenido de endgame, no es una sola lista plana.",
+      "reasonEn": "Prydwen's tier list is segmented by endgame content, not a single flat list."
+    }
+  ]
+}

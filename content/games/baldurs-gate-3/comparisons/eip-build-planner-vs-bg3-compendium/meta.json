@@ -1,0 +1,46 @@
+{
+  "id": "eip-build-planner-vs-bg3-compendium",
+  "toolIds": ["eip-build-planner", "bg3-compendium"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-06-10",
+  "verdictEs": "EIP Build Planner para armar builds rápido, con party planner integrado. BG3 Compendium para builds que vas a documentar y releer, con notas y sets de inventario en una UI ordenada.",
+  "verdictEn": "EIP Build Planner for building fast, with an integrated party planner. BG3 Compendium for builds you'll document and reread, with notes and inventory sets in a tidy UI.",
+  "useCases": [
+    {
+      "labelEs": "Armar una build de una clase lo más rápido posible",
+      "labelEn": "Building a single-class build as fast as possible",
+      "winner": "eip-build-planner",
+      "reasonEs": "EIP es más inmediato: avanzas raza, stats y clase sin pasos extra de organización.",
+      "reasonEn": "EIP is more immediate: you move through race, stats, and class with no extra organization steps."
+    },
+    {
+      "labelEs": "Documentar el porqué de cada decisión de una build compleja",
+      "labelEn": "Documenting the reasoning behind each decision of a complex build",
+      "winner": "bg3-compendium",
+      "reasonEs": "El panel de notas de Compendium deja registrar el razonamiento para que la build siga teniendo sentido al releerla.",
+      "reasonEn": "Compendium's notes panel lets you record the reasoning so the build still makes sense when you reread it."
+    },
+    {
+      "labelEs": "Separar el equipo por etapa de la partida",
+      "labelEn": "Separating gear by stage of the playthrough",
+      "winner": "bg3-compendium",
+      "reasonEs": "Los sets de inventario de Compendium permiten planear qué equipo va en cada tramo en lugar de una sola lista.",
+      "reasonEn": "Compendium's inventory sets let you plan which gear goes in each stretch instead of one list."
+    },
+    {
+      "labelEs": "Planear los cuatro personajes del grupo juntos",
+      "labelEn": "Planning all four party members together",
+      "winner": "eip-build-planner",
+      "reasonEs": "EIP integra un party planner; Compendium se enfoca en el personaje individual bien documentado.",
+      "reasonEn": "EIP integrates a party planner; Compendium focuses on the well-documented individual character."
+    },
+    {
+      "labelEs": "Mantener un repositorio personal de builds para volver a ellas",
+      "labelEn": "Keeping a personal build repository to return to",
+      "winner": "bg3-compendium",
+      "reasonEs": "Notas y sets hacen que una build guardada en Compendium se entienda de inmediato semanas después.",
+      "reasonEn": "Notes and sets make a build saved in Compendium instantly understandable weeks later."
+    }
+  ]
+}

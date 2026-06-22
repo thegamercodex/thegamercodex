@@ -1,0 +1,44 @@
+{
+  "id": "mobalytics-wuwa",
+  "name": "Mobalytics Wuthering Waves",
+  "shortName": "Mobalytics",
+  "taglineEs": "Tier lists, guias de personajes y team building de WuWa en formato accesible",
+  "taglineEn": "WuWa tier lists, character guides, and team building in an accessible format",
+  "url": "https://mobalytics.gg/blog/wuthering-waves/",
+  "category": "character-builds",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "tier-list",
+    "builds",
+    "team-building",
+    "reroll",
+    "guides"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/common/mobalytics-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "prydwen",
+    "game8-wuwa"
+  ],
+  "alternatives": [
+    "prydwen",
+    "game8-wuwa"
+  ],
+  "createdBy": {
+    "name": "Mobalytics",
+    "url": "https://mobalytics.gg/"
+  }
+}

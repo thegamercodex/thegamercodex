@@ -1,0 +1,80 @@
+{
+  "category": "patch-coverage",
+  "resources": [
+    {
+      "id": "seraph-lore-34-livestream-overview-wuwa",
+      "type": "video",
+      "title": "I'm No Longer Excited for the Cyberpunk Collab | Wuthering Waves Patch 3.4 Livestream Overview",
+      "creator": "Seraph Lore",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=iDKRNbfQ8IQ",
+      "youtubeId": "iDKRNbfQ8IQ",
+      "language": "en",
+      "duration": "11:43",
+      "publishedDate": "2026-05-29",
+      "thumbnail": "https://i.ytimg.com/vi/iDKRNbfQ8IQ/maxresdefault.jpg",
+      "noteEs": "Resumen crítico del livestream de la versión 3.4 (collab Cyberpunk: Edgerunners): Seraph Lore repasa banners, eventos y novedades con una mirada honesta, no solo hype. Para decidir si la versión te interesa.",
+      "noteEn": "Critical recap of the version 3.4 livestream (Cyberpunk: Edgerunners collab): Seraph Lore walks through banners, events, and new features with an honest take, not just hype. To decide if the version interests you."
+    },
+    {
+      "id": "seraph-lore-33-anniversary-livestream-wuwa",
+      "type": "video",
+      "title": "The 2nd Anniversary Livestream Was Rather Whelming | Wuthering Waves 3.3 Livestream Overview",
+      "creator": "Seraph Lore",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=x8vVy7Uck9E",
+      "youtubeId": "x8vVy7Uck9E",
+      "language": "en",
+      "duration": "11:27",
+      "publishedDate": "2026-04-17",
+      "thumbnail": "https://i.ytimg.com/vi/x8vVy7Uck9E/maxresdefault.jpg",
+      "noteEs": "Cobertura del livestream de aniversario y la versión 3.3: qué se anunció, qué recompensas trae y una valoración franca de si estuvo a la altura. Buen registro del pulso de la comunidad.",
+      "noteEn": "Coverage of the anniversary livestream and version 3.3: what was announced, what rewards it brings, and a frank assessment of whether it lived up to expectations. A good read on the community pulse."
+    },
+    {
+      "id": "quirk-should-you-pull-lucilla-wuwa",
+      "type": "video",
+      "title": "Should You Pull For Lucilla? | Wuthering Waves",
+      "creator": "Quirk",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=913Ejzo95_k",
+      "youtubeId": "913Ejzo95_k",
+      "language": "en",
+      "duration": "9:59",
+      "publishedDate": "2026-06-11",
+      "thumbnail": "https://i.ytimg.com/vi/913Ejzo95_k/maxresdefault.jpg",
+      "noteEs": "Análisis de pull para Lucilla: qué aporta, su techo de daño y si vale gastar Astrite en su banner. Quirk da una recomendación clara segmentada por tipo de jugador.",
+      "noteEn": "Pull analysis for Lucilla: what she brings, her damage ceiling, and whether her banner is worth spending Astrite on. Quirk gives a clear recommendation segmented by player type."
+    },
+    {
+      "id": "quirk-best-pull-34-banners-wuwa",
+      "type": "video",
+      "title": "Who's The BEST Pull...? Lucy, Lucilla, Rebecca Or Cartethyia? | Wuthering Waves",
+      "creator": "Quirk",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=faSVLsLg6o0",
+      "youtubeId": "faSVLsLg6o0",
+      "language": "en",
+      "duration": "8:52",
+      "publishedDate": "2026-05-29",
+      "thumbnail": "https://i.ytimg.com/vi/faSVLsLg6o0/maxresdefault.jpg",
+      "noteEs": "Comparativa de prioridad de pull entre los cuatro 5-estrellas de la ventana 3.4: ayuda a decidir dónde poner tu Astrite cuando hay más banners de lo habitual compitiendo.",
+      "noteEn": "Pull-priority comparison among the four 5-stars of the 3.4 window: helps decide where to put your Astrite when there are more competing banners than usual."
+    },
+    {
+      "id": "sevy-cyberpunk-collab-quest-reaction-34",
+      "type": "video",
+      "title": "The Cyberpunk Collab is ACTUALLY INCREDIBLE (Wuthering Waves 3.4 Cyberpunk Quest Reaction)",
+      "creator": "Sevy",
+      "creatorId": "sevy",
+      "url": "https://www.youtube.com/watch?v=CvUb25azuIA",
+      "youtubeId": "CvUb25azuIA",
+      "language": "en",
+      "duration": "2:36:12",
+      "publishedDate": "2026-06-09",
+      "thumbnail": "https://i.ytimg.com/vi/CvUb25azuIA/maxresdefault.jpg",
+      "noteEs": "Playthrough completo y reacción de la quest del collab Cyberpunk de la versión 3.4. Si quieres ver el contenido estrella del patch antes de jugarlo (o revivirlo), Sevy lo cubre entero con comentario.",
+      "noteEn": "Full playthrough and reaction to the version 3.4 Cyberpunk collab quest. If you want to see the patch's headline content before playing it (or relive it), Sevy covers the whole thing with commentary."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "todorpgs",
+  "name": "TodoRPGs",
+  "country": "ES",
+  "languages": ["es"],
+  "active": true,
+  "joinedYear": 2020,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@TodoRPGs",
+      "url": "https://www.youtube.com/@TodoRPGs",
+      "channelId": "UCOr2TC5vRvkc25q4dI6xoZA",
+      "primary": true
+    }
+  ],
+  "specialties": [
+    "builds-en-espanol",
+    "guias-por-clase",
+    "honour-mode",
+    "estrategias-de-boss",
+    "contenido-rpg"
+  ],
+  "games": ["baldurs-gate-3"],
+  "contentTypes": ["videos", "guides", "build-breakdowns"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "TodoRPGs es uno de los pocos canales en español dedicados de lleno a Baldur's Gate 3: builds por clase, builds canónicas del grupo principal, guías temáticas, estrategias de boss y consejos de progresión tanto para Honour Mode como para una primera partida. Para la comunidad hispana que prefiere contenido en su idioma, es la referencia más completa del juego.",
+  "noteEn": "TodoRPGs is one of the few Spanish-language channels fully dedicated to Baldur's Gate 3: builds by class, canonical builds for the main party, themed guides, boss strategies, and progression tips for both Honour Mode and a first playthrough. For the Spanish-speaking community that prefers content in their language, it's the game's most complete reference.",
+  "highlightsEs": [
+    "Builds por clase y builds canónicas del grupo en español",
+    "Guías temáticas y estrategias de boss",
+    "Consejos de progresión para Honour Mode y primera partida",
+    "Cobertura de cambios de patch en español",
+    "La referencia más completa de BG3 para la comunidad hispana"
+  ],
+  "highlightsEn": [
+    "Builds by class and canonical party builds in Spanish",
+    "Themed guides and boss strategies",
+    "Progression tips for Honour Mode and first playthroughs",
+    "Patch-change coverage in Spanish",
+    "The most complete BG3 reference for the Spanish-speaking community"
+  ],
+  "avatar": "/images/creators/todorpgs-avatar.jpg",
+  "banner": "/images/creators/todorpgs-banner.jpg"
+}

@@ -1,0 +1,80 @@
+{
+  "category": "build-guides",
+  "resources": [
+    {
+      "id": "cephalopocalypse-almighty-sorcadin-bg3-2024",
+      "type": "video",
+      "title": "The ALMIGHTY SORCADIN - BG3 Paladin / Sorcerer Honour Build Guide",
+      "creator": "Cephalopocalypse",
+      "creatorId": "cephalopocalypse",
+      "url": "https://www.youtube.com/watch?v=pLI9kZjJHQw",
+      "youtubeId": "pLI9kZjJHQw",
+      "language": "en",
+      "duration": "35:21",
+      "publishedDate": "2024-07-06",
+      "thumbnail": "https://i.ytimg.com/vi/pLI9kZjJHQw/maxresdefault.jpg",
+      "noteEs": "La build más versátil del juego, explicada a fondo: el Sorcadin (Paladin/Sorcerer) que pega, cura, tanquea, lanza hechizos y lidera diálogos con un solo personaje. Análisis de Cephalopocalypse, con el porqué detrás de cada nivel.",
+      "noteEn": "The game's most versatile build, explained in depth: the Sorcadin (Paladin/Sorcerer) that hits, heals, tanks, casts, and leads dialogue with a single character. Cephalopocalypse's breakdown, with the reasoning behind each level."
+    },
+    {
+      "id": "omaha-best-open-hand-monk-bg3-2024",
+      "type": "video",
+      "title": "BG3 - BEST Open Hand Monk for Honor Mode",
+      "creator": "Omaha",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=M6m1o0hVzx4",
+      "youtubeId": "M6m1o0hVzx4",
+      "language": "en",
+      "duration": "27:04",
+      "publishedDate": "2024-02-24",
+      "thumbnail": "https://i.ytimg.com/vi/M6m1o0hVzx4/maxresdefault.jpg",
+      "noteEs": "El Open Hand Monk con Tavern Brawler, una de las builds de mayor daño consistente del juego. Guía de stats, elixires de fuerza y progresión para Honour Mode.",
+      "noteEn": "The Open Hand Monk with Tavern Brawler, one of the highest consistent-damage builds in the game. A guide to stats, strength elixirs, and progression for Honour Mode."
+    },
+    {
+      "id": "story-first-gloomstalker-assassin-bg3-2023",
+      "type": "video",
+      "title": "Baldur's Gate 3 Gloomstalker Assassin Multiclass Build Guide (with Magic Items!)",
+      "creator": "Story First Adventures",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=UrQEoA993qQ",
+      "youtubeId": "UrQEoA993qQ",
+      "language": "en",
+      "duration": "39:57",
+      "publishedDate": "2023-09-19",
+      "thumbnail": "https://i.ytimg.com/vi/UrQEoA993qQ/maxresdefault.jpg",
+      "noteEs": "El Gloomstalker Assassin, especialista en daño de primer turno desde el sigilo. Cubre el multiclase Ranger/Rogue y el equipo mágico que potencia la burst del turno uno.",
+      "noteEn": "The Gloomstalker Assassin, a first-turn burst specialist from stealth. Covers the Ranger/Rogue multiclass and the magic gear that powers the turn-one damage."
+    },
+    {
+      "id": "cephalopocalypse-bear-knuckle-brawler-karlach-bg3-2024",
+      "type": "video",
+      "title": "The BEAR KNUCKLE BRAWLER - BG3 Karlach Honour Build Guide",
+      "creator": "Cephalopocalypse",
+      "creatorId": "cephalopocalypse",
+      "url": "https://www.youtube.com/watch?v=oewBqn0GjW4",
+      "youtubeId": "oewBqn0GjW4",
+      "language": "en",
+      "duration": "23:38",
+      "publishedDate": "2024-02-25",
+      "thumbnail": "https://i.ytimg.com/vi/oewBqn0GjW4/maxresdefault.jpg",
+      "noteEs": "Build de Karlach centrada en el combate sin armas y el Tavern Brawler, pensada como personaje-companion. Una alternativa de melee bruto al Sorcadin, con el análisis detallado de Cephalopocalypse.",
+      "noteEn": "A Karlach build centered on unarmed combat and Tavern Brawler, designed as a companion character. A brute-melee alternative to the Sorcadin, with Cephalopocalypse's detailed breakdown."
+    },
+    {
+      "id": "jay-dunna-pure-gloomstalker-ranger-bg3-2025",
+      "type": "video",
+      "title": "OP PURE 12 GLOOM STALKER Ranger Build in Baldur's Gate 3",
+      "creator": "Jay Dunna",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=GIZMgX3dhYU",
+      "youtubeId": "GIZMgX3dhYU",
+      "language": "en",
+      "duration": "16:43",
+      "publishedDate": "2025-09-08",
+      "thumbnail": "https://i.ytimg.com/vi/GIZMgX3dhYU/maxresdefault.jpg",
+      "noteEs": "Para quien prefiere una build de clase única sin multiclase: el Gloom Stalker Ranger puro a distancia, simple de ejecutar y fuerte. Versión 2025 con el juego ya parcheado.",
+      "noteEn": "For those who prefer a single-class build with no multiclassing: the pure ranged Gloom Stalker Ranger, simple to execute and strong. A 2025 version with the game fully patched."
+    }
+  ]
+}

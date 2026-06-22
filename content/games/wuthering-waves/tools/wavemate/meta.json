@@ -1,0 +1,42 @@
+{
+  "id": "wavemate",
+  "name": "WaveMate",
+  "taglineEs": "Echo scorer que valora tus Echoes y muestra el potencial de tus Resonators",
+  "taglineEn": "Echo scorer that grades your Echoes and shows your Resonators' potential",
+  "url": "https://wavemate.app/",
+  "category": "echo-optimization",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "echo-scorer",
+    "substats",
+    "rating",
+    "optimization",
+    "echoes"
+  ],
+  "essential": false,
+  "difficulty": "intermediate",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/wuthering-waves/wavemate-logo.webp",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "wuwabuilds",
+    "wuwaflex"
+  ],
+  "alternatives": [
+    "wuwabuilds",
+    "wuwaflex"
+  ],
+  "createdBy": {
+    "name": "WaveMate"
+  }
+}

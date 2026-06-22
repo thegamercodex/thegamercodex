@@ -1,0 +1,44 @@
+{
+  "id": "game8-wuwa",
+  "name": "Game8 Wuthering Waves",
+  "shortName": "Game8",
+  "taglineEs": "Wiki masiva de WuWa: builds, materiales, eventos y bases de datos actualizadas por version",
+  "taglineEn": "Massive WuWa wiki: builds, materials, events, and databases updated per version",
+  "url": "https://game8.co/games/Wuthering-Waves",
+  "category": "character-builds",
+  "type": "reference",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "wiki",
+    "builds",
+    "database",
+    "events",
+    "guides"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/common/game-8-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "prydwen",
+    "wuthering-gg"
+  ],
+  "alternatives": [
+    "prydwen",
+    "mobalytics-wuwa"
+  ],
+  "createdBy": {
+    "name": "Game8",
+    "url": "https://game8.co/"
+  }
+}

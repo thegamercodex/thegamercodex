@@ -1,0 +1,46 @@
+{
+  "id": "gamefractal-planner-vs-bg3-compendium",
+  "toolIds": ["gamefractal-planner", "bg3-compendium"],
+  "category": "build-planning",
+  "depth": "short",
+  "lastVerified": "2026-06-10",
+  "verdictEs": "GameFractal si quieres un catálogo de items profundo y un overlay sobre el juego. BG3 Compendium si quieres organizar la build con notas y sets de inventario en una UI minimalista para releerla después.",
+  "verdictEn": "GameFractal if you want a deep item catalog and an in-game overlay. BG3 Compendium if you want to organize the build with notes and inventory sets in a minimalist UI to reread later.",
+  "useCases": [
+    {
+      "labelEs": "Planear alrededor de un catálogo grande de items y boons",
+      "labelEn": "Planning around a large catalog of items and boons",
+      "winner": "gamefractal-planner",
+      "reasonEs": "GameFractal integra un catálogo de equipo más profundo dentro del proceso de build.",
+      "reasonEn": "GameFractal integrates a deeper gear catalog into the build process."
+    },
+    {
+      "labelEs": "Tener la build como overlay encima del juego",
+      "labelEn": "Keeping the build as an overlay on top of the game",
+      "winner": "gamefractal-planner",
+      "reasonEs": "La app de Overwolf de GameFractal ofrece overlay in-game; Compendium es solo web.",
+      "reasonEn": "GameFractal's Overwolf app offers an in-game overlay; Compendium is web-only."
+    },
+    {
+      "labelEs": "Documentar el razonamiento de la build con notas",
+      "labelEn": "Documenting the build's reasoning with notes",
+      "winner": "bg3-compendium",
+      "reasonEs": "El panel de notas de Compendium está pensado para registrar por qué armaste la build así.",
+      "reasonEn": "Compendium's notes panel is built to record why you assembled the build that way."
+    },
+    {
+      "labelEs": "Trabajar en una UI limpia y sin saturación",
+      "labelEn": "Working in a clean, uncluttered UI",
+      "winner": "bg3-compendium",
+      "reasonEs": "Compendium prioriza una interfaz minimalista; el catálogo de GameFractal suma densidad.",
+      "reasonEn": "Compendium prioritizes a minimalist interface; GameFractal's catalog adds density."
+    },
+    {
+      "labelEs": "Evitar instalar software adicional como Overwolf",
+      "labelEn": "Avoiding installing extra software like Overwolf",
+      "winner": "bg3-compendium",
+      "reasonEs": "Compendium corre solo en el browser; el overlay de GameFractal requiere la plataforma Overwolf.",
+      "reasonEn": "Compendium runs only in the browser; GameFractal's overlay requires the Overwolf platform."
+    }
+  ]
+}

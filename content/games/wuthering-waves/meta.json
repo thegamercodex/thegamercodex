@@ -1,0 +1,170 @@
+{
+  "id": "wuthering-waves",
+  "name": "Wuthering Waves",
+  "shortName": "WuWa",
+  "developer": "Kuro Games",
+  "releaseYear": 2024,
+  "officialUrl": "https://wutheringwaves.kurogames.com",
+  "stores": [
+    {
+      "platform": "epic",
+      "url": "https://store.epicgames.com/en-US/p/wuthering-waves-76ebc5",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/concept/10009574",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "app-store",
+      "url": "https://apps.apple.com/us/app/wuthering-waves/id6475033368",
+      "model": "free-to-play"
+    },
+    {
+      "platform": "google-play",
+      "url": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global",
+      "model": "free-to-play"
+    }
+  ],
+  "platforms": [
+    "windows",
+    "macos",
+    "playstation",
+    "ios",
+    "android"
+  ],
+  "genres": ["gacha", "open-world"],
+  "monetization": {
+    "model": "free-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": [
+      "loot-boxes",
+      "battle-pass",
+      "cosmetic",
+      "pay-to-skip",
+      "currency"
+    ],
+    "payToWin": false,
+    "noteEs": "Sistema gacha (Convene) con Resonators y armas obtenibles por azar usando Astrite y tides. El juego se puede completar como F2P, pero conseguir Resonators 5-estrellas específicos o sus Resonance Chains puede requerir gasto significativo. Las microtransacciones incluyen un battle pass por versión, una suscripción mensual de Astrite (Lunite Subscription) y bundles de currency premium.",
+    "noteEn": "Gacha system (Convene) with Resonators and weapons obtained by chance using Astrite and tides. The game can be completed as F2P, but obtaining specific 5-star Resonators or their Resonance Chains can require significant spending. Microtransactions include a per-version battle pass, a monthly Astrite subscription (Lunite Subscription), and premium currency bundles."
+  },
+  "theme": {
+    "primary": "#c2a063",
+    "secondary": "#16181e",
+    "accent": "#3ec9c1",
+    "background": "#0b0d11",
+    "text": "#e9e7e0"
+  },
+  "logo": "/images/games/wuthering-waves-logo.png",
+  "heroImage": "/images/games/wuthering-waves-hero.webp",
+  "toolCategories": [
+    {
+      "id": "character-builds",
+      "nameEs": "Builds de Resonators",
+      "nameEn": "Resonator Builds",
+      "descriptionEs": "Guías, tier lists y builds recomendadas para cada Resonator",
+      "descriptionEn": "Guides, tier lists, and recommended builds for each Resonator",
+      "icon": "⚔️"
+    },
+    {
+      "id": "echo-optimization",
+      "nameEs": "Optimización de Echoes",
+      "nameEn": "Echo Optimization",
+      "descriptionEs": "Scanners, scorers y showcases para optimizar sets de Echoes y substats",
+      "descriptionEn": "Scanners, scorers, and showcases to optimize Echo sets and substats",
+      "icon": "💎"
+    },
+    {
+      "id": "damage-calculation",
+      "nameEs": "Cálculo de Daño",
+      "nameEn": "Damage Calculation",
+      "descriptionEs": "Calculadoras y simuladores de daño y rotaciones para endgame",
+      "descriptionEn": "Damage and rotation calculators and simulators for endgame",
+      "icon": "🧮"
+    },
+    {
+      "id": "convene-tracking",
+      "nameEs": "Tracking de Convene",
+      "nameEn": "Convene Tracking",
+      "descriptionEs": "Trackers de pulls, pity y planificadores de Astrite y materiales",
+      "descriptionEn": "Pull and pity trackers plus Astrite and material planners",
+      "icon": "🎰"
+    },
+    {
+      "id": "exploration-maps",
+      "nameEs": "Mapas Interactivos",
+      "nameEn": "Interactive Maps",
+      "descriptionEs": "Mapas con ubicaciones de chests, Echoes, recolectables y rutas de farmeo",
+      "descriptionEn": "Maps with chest, Echo, collectible locations, and farming routes",
+      "icon": "🗺️"
+    },
+    {
+      "id": "reference",
+      "nameEs": "Referencia",
+      "nameEn": "Reference",
+      "descriptionEs": "Wikis, bases de datos y datamining de contenido beta",
+      "descriptionEn": "Wikis, databases, and beta content datamining",
+      "icon": "📚"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial, subreddit y hubs de discusión de la comunidad",
+      "descriptionEn": "Official Discord, subreddit, and community discussion hubs",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para empezar Wuthering Waves",
+      "descriptionEn": "Essential resources to start Wuthering Waves",
+      "icon": "🌱"
+    },
+    {
+      "id": "character-guides",
+      "nameEs": "Guías de Resonators",
+      "nameEn": "Resonator Guides",
+      "descriptionEs": "Guías detalladas de build, Echoes y rotación por Resonator",
+      "descriptionEn": "Detailed build, Echo, and rotation guides per Resonator",
+      "icon": "🎭"
+    },
+    {
+      "id": "patch-coverage",
+      "nameEs": "Cobertura de Versiones",
+      "nameEn": "Version Coverage",
+      "descriptionEs": "Análisis de cada nueva versión, banner y contenido",
+      "descriptionEn": "Analysis of each new version, banner, and content drop",
+      "icon": "📦"
+    },
+    {
+      "id": "endgame-strategies",
+      "nameEs": "Estrategias de Endgame",
+      "nameEn": "Endgame Strategies",
+      "descriptionEs": "Team comps y clears de Tower of Adversity, Whimpering Wastes y Holograms",
+      "descriptionEn": "Team comps and clears for Tower of Adversity, Whimpering Wastes, and Holograms",
+      "icon": "⚡"
+    },
+    {
+      "id": "lore-and-story",
+      "nameEs": "Lore e Historia",
+      "nameEn": "Lore and Story",
+      "descriptionEs": "Análisis del lore y teorías de historia del Rover y Solaris-3",
+      "descriptionEn": "Lore analysis and story theories of the Rover and Solaris-3",
+      "icon": "📖"
+    }
+  ],
+  "newsFeeds": [
+    {
+      "type": "youtube-channel",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0Bi5KMcECRVYis5Gb_ZYZQ",
+      "nameEs": "Wuthering Waves (YouTube oficial)",
+      "nameEn": "Wuthering Waves (Official YouTube)",
+      "priority": 100
+    }
+  ]
+}

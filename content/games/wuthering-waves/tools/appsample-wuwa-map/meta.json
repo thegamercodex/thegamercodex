@@ -1,0 +1,43 @@
+{
+  "id": "appsample-wuwa-map",
+  "name": "Appsample WuWa Map",
+  "shortName": "Appsample Map",
+  "taglineEs": "Mapa interactivo de WuWa con comentarios y fotos subidas por la comunidad",
+  "taglineEn": "Interactive WuWa map with community-uploaded comments and photos",
+  "url": "https://wuthering-waves-map.appsample.com/",
+  "category": "exploration-maps",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "interactive-map",
+    "collectibles",
+    "community",
+    "comments",
+    "exploration"
+  ],
+  "essential": false,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/wuthering-waves/appsample-wuwa-map-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "qiqis-notebook",
+    "wuthering-gg"
+  ],
+  "alternatives": [
+    "qiqis-notebook"
+  ],
+  "createdBy": {
+    "name": "Appsample",
+    "url": "https://appsample.com/"
+  }
+}

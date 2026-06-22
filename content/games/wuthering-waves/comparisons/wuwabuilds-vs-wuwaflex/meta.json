@@ -1,0 +1,49 @@
+{
+  "id": "wuwabuilds-vs-wuwaflex",
+  "toolIds": [
+    "wuwabuilds",
+    "wuwaflex"
+  ],
+  "category": "echo-optimization",
+  "depth": "short",
+  "lastVerified": "2026-06-20",
+  "verdictEs": "WuWaBuilds para escanear, puntuar y optimizar tus Echoes a fondo, con leaderboards de daño. WuWaFlex para armar y compartir una showcase card linda con poca fricción cuando solo quieres lucir una build terminada.",
+  "verdictEn": "WuWaBuilds to scan, score, and optimize your Echoes in depth, with damage leaderboards. WuWaFlex to build and share a clean showcase card with low friction when you just want to flex a finished build.",
+  "useCases": [
+    {
+      "labelEs": "Escanear tus Echoes con OCR para no tipear stats a mano",
+      "labelEn": "Scan your Echoes with OCR so you don't type stats by hand",
+      "winner": "wuwabuilds",
+      "reasonEs": "WuWaBuilds lee las capturas del juego y rellena las stats automáticamente.",
+      "reasonEn": "WuWaBuilds reads in-game screenshots and fills in stats automatically."
+    },
+    {
+      "labelEs": "Generar una card bonita para mostrar tu build en Discord o Reddit",
+      "labelEn": "Generate a nice card to show your build on Discord or Reddit",
+      "winner": "wuwaflex",
+      "reasonEs": "WuWaFlex está enfocado en producir cards de showcase rápido.",
+      "reasonEn": "WuWaFlex is focused on producing showcase cards fast."
+    },
+    {
+      "labelEs": "Puntuar objetivamente la calidad de tus substats",
+      "labelEn": "Objectively score the quality of your substats",
+      "winner": "wuwabuilds",
+      "reasonEs": "WuWaBuilds calcula crit value y rolls de substats para cada Echo.",
+      "reasonEn": "WuWaBuilds computes crit value and substat rolls for each Echo."
+    },
+    {
+      "labelEs": "Comparar tu daño contra leaderboards de la comunidad",
+      "labelEn": "Compare your damage against community leaderboards",
+      "winner": "wuwabuilds",
+      "reasonEs": "WuWaBuilds publica leaderboards de daño por Resonator.",
+      "reasonEn": "WuWaBuilds publishes damage leaderboards per Resonator."
+    },
+    {
+      "labelEs": "Navegar y compartir builds de otros jugadores rápido",
+      "labelEn": "Browse and share other players' builds quickly",
+      "winner": "wuwaflex",
+      "reasonEs": "WuWaFlex prioriza el descubrimiento y la compartición de builds sobre el análisis.",
+      "reasonEn": "WuWaFlex prioritizes discovering and sharing builds over analysis."
+    }
+  ]
+}

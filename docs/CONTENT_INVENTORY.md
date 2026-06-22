@@ -1,15 +1,16 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-06-10
+> Última generación: 2026-06-22
 
 ## Resumen
 
-29 juegos · 488 tools · 140 creators · 147 categorías · 735 resources items · 163 comparisons · 29 stacks
+31 juegos · 520 tools · 150 creators · 157 categorías · 785 resources items · 176 comparisons · 32 stacks
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons | Stacks |
 |---|---|---:|---:|---:|---:|---:|---:|
 | `apex-legends` | Apex Legends | 13 | 5 | 5 | 25 | 5 | 1 |
+| `baldurs-gate-3` | Baldur's Gate 3 | 16 | 5 | 5 | 25 | 7 | 2 |
 | `counter-strike-2` | Counter-Strike 2 | 17 | 5 | 5 | 25 | 5 | 1 |
 | `cyberpunk-2077` | Cyberpunk 2077 | 17 | 5 | 5 | 25 | 3 | 1 |
 | `destiny-2` | Destiny 2 | 14 | 5 | 5 | 25 | 3 | 1 |
@@ -38,6 +39,7 @@
 | `warframe` | Warframe | 17 | 5 | 5 | 25 | 8 | 1 |
 | `windrose` | Windrose | 14 | 5 | 5 | 25 | 4 | 1 |
 | `world-of-warcraft` | World of Warcraft | 18 | 5 | 6 | 30 | 5 | 1 |
+| `wuthering-waves` | Wuthering Waves | 16 | 5 | 5 | 25 | 6 | 1 |
 
 ## Por juego
 
@@ -57,6 +59,23 @@
 **Comparisons (5)**: `apex-legends-wiki-vs-liquipedia-apex` (short), `apex-tracker-gg-vs-apex-legends-status` (flagship), `apexseasons-weapon-stats-vs-drybear-ttk-calculator` (short), `blitz-apex-vs-stryda-apex` (short), `prosettings-apex-vs-sens-converter-apex` (short)
 
 **Stacks (1)**: `apex-improvement-toolkit` (5 tools)
+
+### Baldur's Gate 3 (`baldurs-gate-3`)
+
+**Tools (16)**: BG3 Compendium (`bg3-compendium`), BG3 Mod Manager (`bg3-mod-manager`), BG3 Modding Community Wiki (`bg3-modding-wiki`), Official Mod Support (mod.io) (`bg3-official-mod-support`), Baldur's Gate 3 Script Extender (`bg3-script-extender`), r/BaldursGate3 (`bg3-subreddit`), bg3.wiki (`bg3-wiki`), EIP Build Planner (`eip-build-planner`), Baldur's Gate 3 Wiki (Fextralife) (`fextralife-bg3`), GameFractal Character Builder (`gamefractal-planner`), ImpUI (ImprovedUI) (`impui`), Larian Studios Official Discord (`larian-discord`), Map Genie: Baldur's Gate 3 (`map-genie-bg3`), Mod Configuration Menu (`mod-configuration-menu`), Nexus Mods (Baldur's Gate 3) (`nexus-mods-bg3`), Vortex (Baldur's Gate 3) (`vortex-mod-manager-bg3`)
+
+**Creators (5)**: Cephalopocalypse (`cephalopocalypse`), ItalianSpartacus (`italianspartacus`), Mortismal Gaming (`mortismal-gaming`), Proxy Gate Tactician (`proxy-gate-tactician`), TodoRPGs (`todorpgs`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `build-guides` — 5 items
+- `companion-and-story-guides` — 5 items
+- `mechanics-and-systems` — 5 items
+- `modding-guides` — 5 items
+
+**Comparisons (7)**: `bg3-mod-manager-vs-bg3-official-mod-support` (short), `bg3-mod-manager-vs-vortex-mod-manager-bg3` (short), `bg3-wiki-vs-fextralife-bg3` (flagship), `eip-build-planner-vs-bg3-compendium` (short), `eip-build-planner-vs-gamefractal-planner` (flagship), `gamefractal-planner-vs-bg3-compendium` (short), `vortex-mod-manager-bg3-vs-bg3-official-mod-support` (short)
+
+**Stacks (2)**: `bg3-first-playthrough-toolkit` (5 tools), `bg3-modding-toolkit` (6 tools)
 
 ### Counter-Strike 2 (`counter-strike-2`)
 
@@ -535,3 +554,20 @@
 **Comparisons (5)**: `curseforge-vs-wago-io` (flagship), `icy-veins-vs-archon-gg` (short), `raidbots-vs-bloodmallet` (short), `wowanalyzer-vs-wipefest` (short), `wowhead-vs-warcraft-wiki` (flagship)
 
 **Stacks (1)**: `wow-endgame-toolkit` (6 tools)
+
+### Wuthering Waves (`wuthering-waves`)
+
+**Tools (16)**: Appsample WuWa Map (`appsample-wuwa-map`), Encore.moe (`encore-moe`), Game8 Wuthering Waves (`game8-wuwa`), Mobalytics Wuthering Waves (`mobalytics-wuwa`), Prydwen Institute (`prydwen`), Qiqi's Notebook (`qiqis-notebook`), Tethys.gg (`tethys`), WaveMate (`wavemate`), Wuthering.gg (`wuthering-gg`), WutheringTools (`wutheringtools`), Wuthering Waves Official Discord (`wuwa-discord`), r/WutheringWaves (`wuwa-subreddit`), Wuthering Waves Wiki (Fandom) (`wuwa-wiki-fandom`), WuWaBuilds (`wuwabuilds`), WuWaFlex (`wuwaflex`), WuWaTracker (`wuwatracker`)
+
+**Creators (5)**: Gacha Gamer (`gacha-gamer`), IWinToLose Gaming (`iwintolose`), Mtashed (`mtashed`), Sevy (`sevy`), TheDarkGosht (`thedarkgosht`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `character-guides` — 5 items
+- `endgame-strategies` — 5 items
+- `lore-and-story` — 5 items
+- `patch-coverage` — 5 items
+
+**Comparisons (6)**: `prydwen-vs-game8-wuwa` (short), `prydwen-vs-mobalytics-wuwa` (flagship), `qiqis-notebook-vs-appsample-wuwa-map` (short), `wutheringtools-vs-tethys` (flagship), `wuwabuilds-vs-wavemate` (short), `wuwabuilds-vs-wuwaflex` (short)
+
+**Stacks (1)**: `wuthering-waves-toolkit` (6 tools)

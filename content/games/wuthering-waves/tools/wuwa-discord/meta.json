@@ -1,0 +1,43 @@
+{
+  "id": "wuwa-discord",
+  "name": "Wuthering Waves Official Discord",
+  "shortName": "Discord WuWa",
+  "taglineEs": "Discord oficial de Wuthering Waves con anuncios first-party, soporte y channels por idioma",
+  "taglineEn": "Official Wuthering Waves Discord with first-party announcements, support, and channels by language",
+  "url": "https://discord.com/invite/wutheringwaves",
+  "category": "community",
+  "type": "discord",
+  "official": true,
+  "free": true,
+  "openSource": false,
+  "platforms": [
+    "web",
+    "windows",
+    "macos",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "languages": [
+    "en"
+  ],
+  "tags": [
+    "discord",
+    "official",
+    "announcements",
+    "community",
+    "support"
+  ],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-06-20",
+  "logo": "/images/tools/common/discord-logo.png",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": [
+    "wuwa-subreddit"
+  ],
+  "alternatives": [
+    "wuwa-subreddit"
+  ]
+}

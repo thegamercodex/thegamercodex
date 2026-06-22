@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "italianspartacus-quick-start-bg3-2024",
+      "type": "video",
+      "title": "ULTIMATE Quick Start Guide (Beginners) for Baldur's Gate 3",
+      "creator": "ItalianSpartacus",
+      "creatorId": "italianspartacus",
+      "url": "https://www.youtube.com/watch?v=grShpUtxUIA",
+      "youtubeId": "grShpUtxUIA",
+      "language": "en",
+      "duration": "46:51",
+      "publishedDate": "2024-07-04",
+      "thumbnail": "https://i.ytimg.com/vi/grShpUtxUIA/maxresdefault.jpg",
+      "noteEs": "Guía de arranque rápida y completa: clases, creación de personaje, combate y primeras decisiones explicadas para que un jugador nuevo no se pierda. El mejor punto de entrada en video al juego.",
+      "noteEn": "A thorough quick-start guide: classes, character creation, combat, and early decisions explained so a new player doesn't get lost. The best video entry point to the game."
+    },
+    {
+      "id": "renfail-ultimate-beginners-guide-bg3-2023",
+      "type": "video",
+      "title": "The Ultimate Beginner's Guide to Baldur's Gate 3 - Everything You NEED To Know About BG3",
+      "creator": "Renfail",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=KeOhiqOaJuI",
+      "youtubeId": "KeOhiqOaJuI",
+      "language": "en",
+      "duration": "37:46",
+      "publishedDate": "2023-07-18",
+      "thumbnail": "https://i.ytimg.com/vi/KeOhiqOaJuI/maxresdefault.jpg",
+      "noteEs": "Repaso amplio de todo lo que un principiante necesita saber antes de empezar: sistemas, vocabulario de D&D 5e y conceptos clave. Denso pero completo.",
+      "noteEn": "A broad rundown of everything a beginner needs to know before starting: systems, D&D 5e vocabulary, and key concepts. Dense but complete."
+    },
+    {
+      "id": "eurogamer-bg3-for-dummies-2023",
+      "type": "video",
+      "title": "Baldur's Gate 3 for dummies: Basics for EVERYTHING You Need to Know",
+      "creator": "Eurogamer",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=X9MOORXyRtI",
+      "youtubeId": "X9MOORXyRtI",
+      "language": "en",
+      "duration": "20:29",
+      "publishedDate": "2023-08-26",
+      "thumbnail": "https://i.ytimg.com/vi/X9MOORXyRtI/maxresdefault.jpg",
+      "noteEs": "Explicación clara y concisa de las bases del juego para quien viene sin experiencia en CRPGs o en D&D. Buen formato corto para entender lo esencial.",
+      "noteEn": "A clear, concise explanation of the game's basics for anyone coming in without CRPG or D&D experience. A good short format to grasp the essentials."
+    },
+    {
+      "id": "lucky-ghost-complete-beginners-guide-bg3-2023",
+      "type": "video",
+      "title": "Baldur's Gate 3 Complete Beginner's Guide - BG3",
+      "creator": "Lucky Ghost",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=GNaVaHBFqX4",
+      "youtubeId": "GNaVaHBFqX4",
+      "language": "en",
+      "duration": "1:34:56",
+      "publishedDate": "2023-08-03",
+      "thumbnail": "https://i.ytimg.com/vi/GNaVaHBFqX4/maxresdefault.jpg",
+      "noteEs": "Guía extensa de hora y media que cubre el juego a fondo para principiantes. Pensada para verla por partes mientras avanzas tus primeras horas.",
+      "noteEn": "A long, hour-and-a-half guide covering the game in depth for beginners. Meant to be watched in parts as you progress through your first hours."
+    },
+    {
+      "id": "eternaltalks-ultimate-beginners-guide-bg3-2025",
+      "type": "video",
+      "title": "Baldur's Gate 3: The ULTIMATE Beginners Guide (2025)",
+      "creator": "EternalTalks",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=ZSZorESjsys",
+      "youtubeId": "ZSZorESjsys",
+      "language": "en",
+      "duration": "12:00",
+      "publishedDate": "2025-01-22",
+      "thumbnail": "https://i.ytimg.com/vi/ZSZorESjsys/maxresdefault.jpg",
+      "noteEs": "Versión actualizada a 2025 con el juego ya completo y parcheado. Formato corto y al grano, ideal si quieres lo esencial sin una guía de hora y media.",
+      "noteEn": "A 2025-updated version with the game complete and patched. Short and to the point, ideal if you want the essentials without an hour-and-a-half guide."
+    }
+  ]
+}
