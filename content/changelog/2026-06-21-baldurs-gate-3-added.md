@@ -1,5 +1,5 @@
 ---
-date: 2026-06-10
+date: 2026-06-21
 titleEs: "Baldur's Gate 3 agregado"
 titleEn: "Baldur's Gate 3 added"
 summaryEs: "Lanzamos Baldur's Gate 3, el CRPG de Larian Studios, con 16 tools en 6 categorías, 5 creators, 25 resources, 7 comparativas y 2 stacks."

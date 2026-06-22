@@ -1,17 +1,17 @@
 ---
-date: 2026-06-20
-titleEs: "Wuthering Waves agregado con 17 herramientas y 7 comparativas"
-titleEn: "Wuthering Waves added with 17 tools and 7 comparisons"
-summaryEs: "Sumamos Wuthering Waves al codex — el action-RPG gacha de mundo abierto de Kuro Games. 17 herramientas (scanners de Echoes, calculadoras de daño, trackers de Convene, mapas y databases), 5 creators, 25 resources, 7 comparativas y un stack de optimización."
-summaryEn: "Added Wuthering Waves to the codex — Kuro Games' open-world gacha action-RPG. 17 tools (Echo scanners, damage calculators, Convene trackers, maps, and databases), 5 creators, 25 resources, 7 comparisons, and an optimization stack."
+date: 2026-06-21
+titleEs: "Wuthering Waves agregado con 16 herramientas y 6 comparativas"
+titleEn: "Wuthering Waves added with 16 tools and 6 comparisons"
+summaryEs: "Sumamos Wuthering Waves al codex — el action-RPG gacha de mundo abierto de Kuro Games. 16 herramientas (scanners de Echoes, calculadoras de daño, trackers de Convene, mapas y databases), 5 creators, 25 resources, 6 comparativas y un stack de optimización."
+summaryEn: "Added Wuthering Waves to the codex — Kuro Games' open-world gacha action-RPG. 16 tools (Echo scanners, damage calculators, Convene trackers, maps, and databases), 5 creators, 25 resources, 6 comparisons, and an optimization stack."
 gameAdded: "wuthering-waves"
 events:
   - type: game
     action: added
     name: "Wuthering Waves"
     gameId: wuthering-waves
-    noteEs: "17 herramientas en 7 categorías (builds de Resonators, optimización de Echoes, cálculo de daño, tracking de Convene, mapas, referencia y comunidad), 5 creators, 25 resources, 7 comparativas y un stack."
-    noteEn: "17 tools across 7 categories (Resonator builds, Echo optimization, damage calculation, Convene tracking, maps, reference, and community), 5 creators, 25 resources, 7 comparisons, and a stack."
+    noteEs: "16 herramientas en 7 categorías (builds de Resonators, optimización de Echoes, cálculo de daño, tracking de Convene, mapas, referencia y comunidad), 5 creators, 25 resources, 6 comparativas y un stack."
+    noteEn: "16 tools across 7 categories (Resonator builds, Echo optimization, damage calculation, Convene tracking, maps, reference, and community), 5 creators, 25 resources, 6 comparisons, and a stack."
   - type: comparison
     action: added
     name: "Prydwen vs Mobalytics"
@@ -48,12 +48,6 @@ events:
     gameId: wuthering-waves
     noteEs: "Mapas: el mapa limpio con checklist para el 100% vs el mapa con comentarios y fotos de la comunidad para markers confusos."
     noteEn: "Maps: the clean map with a 100% checklist vs the map with community comments and photos for confusing markers."
-  - type: comparison
-    action: added
-    name: "Hakush.in vs Encore.moe"
-    gameId: wuthering-waves
-    noteEs: "Referencia: el datamining de contenido beta y leaks vs la base de datos del contenido actual con voicelines y API abierta."
-    noteEn: "Reference: beta content and leaks datamining vs the current-content database with voicelines and an open API."
   - type: stack
     action: added
     name: "El toolkit completo de Wuthering Waves"
