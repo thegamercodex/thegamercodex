@@ -1,0 +1,42 @@
+{
+  "id": "wineblue",
+  "name": "wineblue",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2022,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@wineblue",
+      "url": "https://www.youtube.com/@wineblue",
+      "channelId": "UCiHTga8wgUE7qf4nW73Nmpg",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "wineblue",
+      "url": "https://www.twitch.tv/wineblue"
+    }
+  ],
+  "specialties": ["class-builds", "translations", "news"],
+  "games": ["lost-ark"],
+  "contentTypes": ["guides", "streams", "news"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "wineblue es un streamer y creador de Lost Ark conocido por tender un puente entre los servidores coreano y occidental. Publica traducciones al inglés de los showcases de LOAON e información de clases y balance del lado KR. Su canal mezcla guías de clase con cobertura al minuto del contenido que viene, y es habitual en las watch parties de la comunidad.",
+  "noteEn": "wineblue is a Lost Ark streamer and creator known for bridging the Korean and Western servers. He posts English translations of LOAON showcases and KR-side class and balance information. His channel mixes class-focused guidance with up-to-the-minute coverage of upcoming content, and he's a regular fixture in the community's watch parties.",
+  "highlightsEs": [
+    "Traducciones al inglés de showcases de LOAON y anuncios KR",
+    "Cobertura de clases y cambios de balance directo desde la versión coreana",
+    "Streamer activo y conectado con la comunidad durante eventos grandes",
+    "Cierra la brecha entre la info del servidor KR y los jugadores occidentales"
+  ],
+  "highlightsEn": [
+    "English translations of LOAON showcases and KR announcements",
+    "Class and balance-change coverage straight from the Korean build",
+    "Active streamer engaged with the community during major events",
+    "Bridges the gap between KR-server info and Western players"
+  ],
+  "avatar": "/images/creators/wineblue-avatar.jpg",
+  "banner": "/images/creators/wineblue-banner.jpg"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "saintone",
+  "name": "Saintone",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2012,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@saintone",
+      "url": "https://www.youtube.com/@saintone",
+      "channelId": "UCtXxFskDMeSQBAC3HLShUjQ",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "saintone",
+      "url": "https://www.twitch.tv/saintone"
+    },
+    {
+      "type": "twitter",
+      "handle": "@saintoneLIVE",
+      "url": "https://twitter.com/saintoneLIVE"
+    }
+  ],
+  "specialties": ["class-guides", "raid-guides", "community"],
+  "games": ["lost-ark"],
+  "contentTypes": ["guides", "streams", "commentary"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Saintone es posiblemente la personalidad occidental más reconocible de Lost Ark: streamer y educador de larga data cuyos overviews de clase y tips de raid (incluidas guías de Brelshaza destacadas por Amazon junto a ATK) moldearon cómo aprendieron el juego los jugadores en inglés. Sigue siendo una figura central de la comunidad. Su ritmo de subidas largas en YouTube bajó —ahora es más Twitch-first—, pero su canal guarda una biblioteca profunda y aún vigente de educación de clase y progresión.",
+  "noteEn": "Saintone is arguably the most recognizable Western Lost Ark personality: a long-time streamer and educator whose class overviews and raid tips (including Amazon-featured Brelshaza guides with ATK) shaped how English players learned the game. He remains a central community figure. His long-form YouTube cadence has slowed — he's more Twitch-first now — but his channel holds a deep, still-relevant library of class and progression education.",
+  "highlightsEs": [
+    "El creador de Lost Ark occidental más reconocible y educador del juego",
+    "Guías de raid destacadas oficialmente por Amazon (ej: Brelshaza Hard con ATK)",
+    "Biblioteca completa de overviews de clase y educación para jugadores nuevos",
+    "Pilar de comunidad: watch parties de LOAON y contenido de discusión"
+  ],
+  "highlightsEn": [
+    "The most recognizable Western Lost Ark creator and educator",
+    "Amazon-featured raid guides (e.g. Brelshaza Hard with ATK)",
+    "Comprehensive class-overview and new-player education library",
+    "Community pillar: LOAON watch parties and discussion content"
+  ],
+  "avatar": "/images/creators/saintone-avatar.jpg",
+  "banner": "/images/creators/saintone-banner.jpg"
+}

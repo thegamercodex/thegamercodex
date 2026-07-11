@@ -1,0 +1,80 @@
+{
+  "category": "class-guides",
+  "resources": [
+    {
+      "id": "zealsambitions-wild-soul-meta-build-lost-ark-2025",
+      "type": "video",
+      "title": "Lost Ark | BEST S TIER Wild Soul Meta Build Guide [COMPLETE Wild Instinct Guide]",
+      "creator": "ZealsAmbitions",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=iiqr5h1Z_aE",
+      "youtubeId": "iiqr5h1Z_aE",
+      "language": "en",
+      "duration": "30:00",
+      "publishedDate": "2025-02-23",
+      "thumbnail": "https://i.ytimg.com/vi/iiqr5h1Z_aE/maxresdefault.jpg",
+      "noteEs": "Una guía completa de build meta, skills y Ark Passive para la popular clase Wild Soul, de un creador dedicado a las builds.",
+      "noteEn": "A complete meta build, skills, and Ark Passive guide for the popular Wild Soul class from a dedicated build creator."
+    },
+    {
+      "id": "memorizer92-wild-soul-all-builds-lost-ark-2025",
+      "type": "video",
+      "title": "[Lost Ark] Wild Soul Guide (All builds)",
+      "creator": "Memorizer",
+      "creatorId": "memorizer92",
+      "url": "https://www.youtube.com/watch?v=nJFfUl_iKQA",
+      "youtubeId": "nJFfUl_iKQA",
+      "language": "en",
+      "duration": "26:36",
+      "publishedDate": "2025-02-09",
+      "thumbnail": "https://i.ytimg.com/vi/nJFfUl_iKQA/maxresdefault.jpg",
+      "noteEs": "Cubre todas las variantes viables de build de Wild Soul para que el jugador elija el estilo que le encaje en vez de una sola spec meta.",
+      "noteEn": "Covers every viable Wild Soul build variant so players can pick the playstyle that fits them rather than a single meta spec."
+    },
+    {
+      "id": "memorizer92-valkyrie-dps-lost-ark-2025",
+      "type": "video",
+      "title": "[Lost Ark] DPS Valkyrie Guide",
+      "creator": "Memorizer",
+      "creatorId": "memorizer92",
+      "url": "https://www.youtube.com/watch?v=69e6iKf1FUM",
+      "youtubeId": "69e6iKf1FUM",
+      "language": "en",
+      "duration": "14:52",
+      "publishedDate": "2025-07-08",
+      "thumbnail": "https://i.ytimg.com/vi/69e6iKf1FUM/maxresdefault.jpg",
+      "noteEs": "Una guía enfocada de build y rotación de DPS para la clase Valkyrie recién lanzada, actual a su lanzamiento de 2025.",
+      "noteEn": "A focused DPS build and rotation guide for the newly released Valkyrie class, current as of its 2025 launch."
+    },
+    {
+      "id": "abimouto-valkyrie-dps-paradise-lost-ark-2025",
+      "type": "video",
+      "title": "Lost Ark Valkyrie DPS Paradise Guide & Build",
+      "creator": "Abimouto",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=_r5b_YEl_pE",
+      "youtubeId": "_r5b_YEl_pE",
+      "language": "en",
+      "duration": "8:47",
+      "publishedDate": "2025-08-24",
+      "thumbnail": "https://i.ytimg.com/vi/_r5b_YEl_pE/maxresdefault.jpg",
+      "noteEs": "Una build de DPS de Valkyrie corta y al día, alineada con el parche Paradise para quien quiere el setup más reciente rápido.",
+      "noteEn": "A short, up-to-date Valkyrie DPS build aligned with the Paradise patch for players who want the latest setup fast."
+    },
+    {
+      "id": "saintone-wild-soul-class-explainer-lost-ark-2025",
+      "type": "video",
+      "title": "LOST ARK - What does the Wild Soul specialist class do? (Patched)",
+      "creator": "Saintone",
+      "creatorId": "saintone",
+      "url": "https://www.youtube.com/watch?v=jkG3VTGbLeM",
+      "youtubeId": "jkG3VTGbLeM",
+      "language": "en",
+      "duration": "23:51",
+      "publishedDate": "2025-02-07",
+      "thumbnail": "https://i.ytimg.com/vi/jkG3VTGbLeM/maxresdefault.jpg",
+      "noteEs": "El explainer mechanics-first de Saintone sobre cómo funciona realmente la clase Wild Soul, ideal para decidir si la clase te encaja antes de comprometerte.",
+      "noteEn": "Saintone's mechanics-first explainer of how the Wild Soul class actually functions, great for deciding whether the class suits you before committing."
+    }
+  ]
+}

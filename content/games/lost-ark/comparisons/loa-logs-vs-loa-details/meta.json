@@ -1,0 +1,46 @@
+{
+  "id": "loa-logs-vs-loa-details",
+  "toolIds": ["loa-logs", "loa-details"],
+  "category": "combat-analysis",
+  "depth": "short",
+  "lastVerified": "2026-06-24",
+  "verdictEs": "LOA Logs para el DPS meter más rápido y mantenido hoy (reescritura en Rust). LOA Details es el proyecto original del que nació; sigue funcionando pero la mayoría migró a LOA Logs.",
+  "verdictEn": "LOA Logs for the fastest, most actively maintained DPS meter today (the Rust rewrite). LOA Details is the original it grew from; it still works but most players migrated to LOA Logs.",
+  "useCases": [
+    {
+      "labelEs": "Correr un meter ligero y rápido durante el raid",
+      "labelEn": "Run a light, fast meter during the raid",
+      "winner": "loa-logs",
+      "reasonEs": "Escrito en Rust, LOA Logs es más liviano y rápido que el original en Electron.",
+      "reasonEn": "Written in Rust, LOA Logs is lighter and faster than the Electron original."
+    },
+    {
+      "labelEs": "Recibir actualizaciones y soporte activo parche a parche",
+      "labelEn": "Get active updates and support patch to patch",
+      "winner": "loa-logs",
+      "reasonEs": "LOA Logs es el proyecto con desarrollo más activo de los dos hoy.",
+      "reasonEn": "LOA Logs is the more actively developed of the two today."
+    },
+    {
+      "labelEs": "Entender el linaje y el proyecto original del meter",
+      "labelEn": "Understand the meter's lineage and original project",
+      "winner": "loa-details",
+      "reasonEs": "LOA Details es el meter original en Electron del que LOA Logs hizo el fork.",
+      "reasonEn": "LOA Details is the original Electron meter that LOA Logs forked from."
+    },
+    {
+      "labelEs": "Usar una build que ya tenías configurada de antes",
+      "labelEn": "Use a setup you already had configured before",
+      "winner": "loa-details",
+      "reasonEs": "Si ya venías con LOA Details funcionando, sigue siendo una opción válida sin migrar.",
+      "reasonEn": "If you already had LOA Details working, it remains a valid option without migrating."
+    },
+    {
+      "labelEs": "Empezar de cero con la opción que usa la comunidad",
+      "labelEn": "Start fresh with the option the community uses",
+      "winner": "loa-logs",
+      "reasonEs": "Para una instalación nueva, LOA Logs es lo que la mayoría de los raiders corre hoy.",
+      "reasonEn": "For a fresh install, LOA Logs is what most raiders run today."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "maxroll-lost-ark-vs-lost-ark-nexus",
+  "toolIds": ["maxroll-lost-ark", "lost-ark-nexus"],
+  "category": "build-guides",
+  "depth": "flagship",
+  "lastVerified": "2026-06-24",
+  "verdictEs": "Maxroll si quieres la fuente más completa y autoritativa para builds, raids y sistemas, aunque sea más densa. Lost Ark Nexus si quieres guías limpias y rápidas de leer, sobre todo en celular.",
+  "verdictEn": "Maxroll if you want the most complete, authoritative source for builds, raids, and systems, even if it's denser. Lost Ark Nexus if you want clean, fast-to-read guides, especially on mobile.",
+  "useCases": [
+    {
+      "labelEs": "Aprender un sistema profundo del juego (engravings, Ark Passive, gems)",
+      "labelEn": "Learn a deep game system (engravings, Ark Passive, gems)",
+      "winner": "maxroll-lost-ark",
+      "reasonEs": "Maxroll tiene la cobertura de sistemas más completa y detallada del lado occidental.",
+      "reasonEn": "Maxroll has the most complete and detailed systems coverage on the Western side."
+    },
+    {
+      "labelEs": "Mirar rápido una build de clase desde el celular",
+      "labelEn": "Quickly check a class build from your phone",
+      "winner": "lost-ark-nexus",
+      "reasonEs": "El layout más limpio y mobile-friendly de Nexus se lee más rápido cuando solo quieres el resumen.",
+      "reasonEn": "Nexus's cleaner, mobile-friendly layout reads faster when you just want the summary."
+    },
+    {
+      "labelEs": "Preparar las mecánicas de un raid nuevo gate por gate",
+      "labelEn": "Prep a new raid's mechanics gate by gate",
+      "winner": "maxroll-lost-ark",
+      "reasonEs": "Las guías de raid de Maxroll son las más profundas y se actualizan parche a parche.",
+      "reasonEn": "Maxroll's raid guides are the deepest and update patch by patch."
+    },
+    {
+      "labelEs": "Decidir clase como jugador nuevo sin abrumarte",
+      "labelEn": "Pick a class as a new player without getting overwhelmed",
+      "winner": "lost-ark-nexus",
+      "reasonEs": "Nexus presenta menos información de golpe, lo que baja la fricción para quien recién empieza.",
+      "reasonEn": "Nexus surfaces less information at once, lowering friction for someone just starting."
+    },
+    {
+      "labelEs": "Cruzar tier lists, stat priorities y detalles de tripods",
+      "labelEn": "Cross-check tier lists, stat priorities, and tripod details",
+      "winner": "maxroll-lost-ark",
+      "reasonEs": "Maxroll combina tier lists, prioridades de stats y detalle de tripods en un mismo lugar autoritativo.",
+      "reasonEn": "Maxroll combines tier lists, stat priorities, and tripod detail in one authoritative place."
+    }
+  ]
+}

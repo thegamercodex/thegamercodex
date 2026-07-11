@@ -1,0 +1,37 @@
+{
+  "id": "complete-lost-ark-toolkit",
+  "category": "all-in-one",
+  "lastVerified": "2026-06-24",
+  "items": [
+    {
+      "toolId": "maxroll-lost-ark",
+      "roleEs": "El cerebro del stack: eliges clase y build y aprendes las mecánicas de cada raid antes de entrar.",
+      "roleEn": "The brain of the stack: you pick your class and build and learn each raid's mechanics before you go in."
+    },
+    {
+      "toolId": "maxroll-upgrade-calculator",
+      "roleEs": "Convierte el honing en un presupuesto: cuántos materiales, gold y silver necesitas para llegar a tu item level objetivo.",
+      "roleEn": "Turns honing into a budget: how many materials, gold, and silver you need to reach your target item level."
+    },
+    {
+      "toolId": "lost-ark-codex",
+      "roleEs": "La referencia rápida: stats exactos de ítems, detalles de skills y un skill builder para fijar tu setup.",
+      "roleEn": "The quick reference: exact item stats, skill details, and a skill builder to lock in your setup."
+    },
+    {
+      "toolId": "lost-ark-map",
+      "roleEs": "El mapa de contenido horizontal: rastreas y marcas mokokos, islas y coleccionables que suman poder permanente.",
+      "roleEn": "The horizontal-content map: you track and mark mokokos, islands, and collectibles that add permanent power."
+    },
+    {
+      "toolId": "lostark-bible",
+      "roleEs": "El espejo de progreso: inspeccionas tu roster y el de jugadores top para ver qué te falta y a dónde apuntar.",
+      "roleEn": "The progress mirror: you inspect your roster and top players' to see what you're missing and where to aim."
+    },
+    {
+      "toolId": "lost-ark-helper",
+      "roleEs": "El organizador del día a día: la checklist que mantiene en orden las tareas diarias y semanales de todo tu roster.",
+      "roleEn": "The day-to-day organizer: the checklist that keeps your whole roster's daily and weekly tasks in order."
+    }
+  ]
+}

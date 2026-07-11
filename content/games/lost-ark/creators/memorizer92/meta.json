@@ -1,0 +1,47 @@
+{
+  "id": "memorizer92",
+  "name": "Memorizer92",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2015,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@memorizer92",
+      "url": "https://www.youtube.com/@memorizer92",
+      "channelId": "UCR3vcsjfFI7RH1q7vn05UoA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "memorizer",
+      "url": "https://www.twitch.tv/memorizer"
+    },
+    {
+      "type": "twitter",
+      "handle": "@92Memorizer",
+      "url": "https://twitter.com/92Memorizer"
+    }
+  ],
+  "specialties": ["raid-guides", "mechanics", "news"],
+  "games": ["lost-ark"],
+  "contentTypes": ["guides", "tutorials", "news"],
+  "audienceLevel": ["intermediate", "advanced"],
+  "noteEs": "Memorizer92 es la referencia en inglés para guías de raid y mecánicas de Lost Ark. Desglosa los gates de los Legion y Kazeros Raids con call-outs precisos al frame en los que confía la comunidad de endgame. También sigue la versión coreana y publica breakdowns rápidos de los parches KR para que el público occidental sepa qué viene.",
+  "noteEn": "Memorizer92 is the go-to English source for Lost Ark raid and mechanics guides. He breaks down Legion and Kazeros Raid gates with frame-precise call-outs the endgame community relies on, and he tracks the Korean build, posting fast KR patch breakdowns so the Western audience knows what's coming.",
+  "highlightsEs": [
+    "Fuente principal en inglés de mecánicas de Legion y Kazeros Raids",
+    "Breakdowns rápidos y confiables de los parches coreanos",
+    "De confianza para raiders de progresión que buscan estrategias de prog-clear",
+    "Catálogo profundo cubriendo prácticamente cada gate de raid"
+  ],
+  "highlightsEn": [
+    "Premier English source for Legion and Kazeros Raid mechanics",
+    "Fast, reliable Korean patch-note breakdowns",
+    "Trusted by progression raiders for prog-clear strategies",
+    "Deep back-catalogue covering virtually every raid gate"
+  ],
+  "avatar": "/images/creators/memorizer92-avatar.jpg",
+  "banner": "/images/creators/memorizer92-banner.jpg"
+}

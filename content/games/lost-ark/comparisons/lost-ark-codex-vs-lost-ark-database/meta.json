@@ -1,0 +1,46 @@
+{
+  "id": "lost-ark-codex-vs-lost-ark-database",
+  "toolIds": ["lost-ark-codex", "lost-ark-database"],
+  "category": "database",
+  "depth": "short",
+  "lastVerified": "2026-06-24",
+  "verdictEs": "Lost Ark Codex si quieres una base de datos focalizada y consultas rápidas con skill builder. Lost Ark Database si prefieres un sitio todo-en-uno que suma guías y mapa propio.",
+  "verdictEn": "Lost Ark Codex if you want a focused database with fast lookups and a skill builder. Lost Ark Database if you prefer an all-in-one site that adds guides and its own map.",
+  "useCases": [
+    {
+      "labelEs": "Buscar los stats exactos de un ítem o detalle de una skill",
+      "labelEn": "Look up an item's exact stats or a skill detail",
+      "winner": "lost-ark-codex",
+      "reasonEs": "Codex es la base de datos consultable de larga data, rápida y precisa para datos crudos.",
+      "reasonEn": "Codex is the longstanding searchable database, fast and precise for raw data."
+    },
+    {
+      "labelEs": "Armar y compartir un setup de skills y tripods",
+      "labelEn": "Build and share a skills-and-tripods setup",
+      "winner": "lost-ark-codex",
+      "reasonEs": "El skill builder integrado de Codex funciona como planificador liviano que Database no iguala.",
+      "reasonEn": "Codex's built-in skill builder doubles as a lightweight planner that Database doesn't match."
+    },
+    {
+      "labelEs": "Tener datos, guías y mapa sin abrir tres sitios",
+      "labelEn": "Get database, guides, and a map without opening three sites",
+      "winner": "lost-ark-database",
+      "reasonEs": "Database empaqueta referencia, guías y un mapa propio en un único lugar.",
+      "reasonEn": "Database bundles reference, guides, and its own map in a single place."
+    },
+    {
+      "labelEs": "Consultar la base de datos en español",
+      "labelEn": "Browse the database in Spanish",
+      "winner": "lost-ark-codex",
+      "reasonEs": "Codex expone URLs por región (incluida la española), útil para lectores hispanohablantes.",
+      "reasonEn": "Codex exposes per-region URLs (including a Spanish one), handy for Spanish-speaking readers."
+    },
+    {
+      "labelEs": "Explorar contenido de exploración con un mapa al lado de la base de datos",
+      "labelEn": "Explore exploration content with a map next to the database",
+      "winner": "lost-ark-database",
+      "reasonEs": "El mapa interactivo propio de Database lo hace más cómodo para contenido horizontal en un solo lugar.",
+      "reasonEn": "Database's own interactive map makes it more convenient for horizontal content in one place."
+    }
+  ]
+}
