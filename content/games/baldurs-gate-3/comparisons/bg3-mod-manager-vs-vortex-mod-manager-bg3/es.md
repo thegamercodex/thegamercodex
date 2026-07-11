@@ -28,4 +28,4 @@ Para un setup complejo que sigue guías de la comunidad, BG3MM es la opción que
 
 ## Recomendación
 
-Para BG3 específicamente, BG3MM es el estándar de la comunidad y la opción que asumen las guías; si tu objetivo es un setup serio y estable, empieza ahí. Vortex tiene sentido si ya vivís en el ecosistema Nexus gestionando varios juegos y prefieres una sola app para todo, aceptando algo menos de precisión en el orden específico de BG3. Cada herramienta tiene su análisis completo en el codex.
+Para BG3 específicamente, BG3MM es el estándar de la comunidad y la opción que asumen las guías; si tu objetivo es un setup serio y estable, empieza ahí. Vortex tiene sentido si ya vives en el ecosistema Nexus gestionando varios juegos y prefieres una sola app para todo, aceptando algo menos de precisión en el orden específico de BG3. Cada herramienta tiene su análisis completo en el codex.
