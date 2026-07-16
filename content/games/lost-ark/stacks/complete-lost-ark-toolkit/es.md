@@ -1,6 +1,6 @@
 ---
 title: El toolkit completo de Lost Ark
-description: Las seis herramientas que usas juntas para llevar un personaje y su roster de principio a fin: planificar builds, presupuestar honing, consultar datos, limpiar contenido horizontal, comparar progreso y organizar las tareas diarias.
+description: "Las seis herramientas que usas juntas para llevar un personaje y su roster de principio a fin: planificar builds, presupuestar honing, consultar datos, limpiar contenido horizontal, comparar progreso y organizar las tareas diarias."
 ---
 
 ## Qué resuelve este stack
