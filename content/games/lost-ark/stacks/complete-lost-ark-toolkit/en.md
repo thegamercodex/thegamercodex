@@ -1,6 +1,6 @@
 ---
 title: The complete Lost Ark toolkit
-description: The six tools you use together to carry a character and its roster from start to finish: plan builds, budget honing, look up data, clear horizontal content, benchmark progress, and organize daily chores.
+description: "The six tools you use together to carry a character and its roster from start to finish: plan builds, budget honing, look up data, clear horizontal content, benchmark progress, and organize daily chores."
 ---
 
 ## What this stack solves
