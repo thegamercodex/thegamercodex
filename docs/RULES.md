@@ -61,6 +61,24 @@ grep -rEn '\b(leé|mirá|hacé|poné|fijate|andá|buscá|intentá|configurá|ver
 ```
 Sin matches = limpio. Cualquier match es un bug y bloquea el commit. Cuando aparezca un voseo nuevo no cubierto por el map, agregarlo a `INDICATIVE` o `IMPERATIVE` en el script.
 
+### Frontmatter lint — regla obligatoria
+
+**Todo `.md` de contenido debe tener frontmatter YAML válido.** El sitio parsea el frontmatter con `gray-matter` en build **y** en runtime; un YAML inválido hace throw durante el prerender de páginas y de `sitemap.xml`, y **rompe el build de Vercel entero** — un fallo que ni el typecheck ni el lint de español agarran (solo aparece en build).
+
+El bug más común es un **colon sin comillas** en un valor: `description: ...de principio a fin: planificar builds...`. El `: ` (dos puntos + espacio) hace que js-yaml lea el resto como un mapping anidado y lance excepción. **Fix**: envolver el valor en comillas dobles.
+
+```bash
+npm run check:frontmatter        # valida staged .md; sin staged, todo content/
+```
+
+El proyecto tiene un **git pre-commit hook versionado** en `scripts/hooks/pre-commit` que corre este check y bloquea el commit si algún `.md` staged no parsea. Se activa una vez por clon con:
+
+```bash
+git config core.hooksPath scripts/hooks
+```
+
+Corre en todos los commits (los de Claude y los manuales), a diferencia de un hook de `.claude/settings.local.json` que es personal y gitignored.
+
 ## Un juego = una carpeta
 
 - Cada carpeta bajo `content/games/<game-id>/` corresponde a **un solo juego**. Tools, creators y resources de esa carpeta son específicos de ese juego, no de "el franchise" o "la familia".

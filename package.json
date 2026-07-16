@@ -9,6 +9,7 @@
     "lint": "eslint",
     "verify": "node scripts/verify-tool.mjs",
     "inventory": "node scripts/generate-inventory.mjs",
+    "check:frontmatter": "node scripts/check-frontmatter.mjs",
     "clean": "rm -rf .next/cache",
     "clean:all": "rm -rf .next node_modules/.cache",
     "fresh": "npm run clean && npm run dev"

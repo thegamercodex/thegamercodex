@@ -1,0 +1,14 @@
+#!/bin/sh
+# Pre-commit hook del codex. Versionado en scripts/hooks/ y activado con:
+#   git config core.hooksPath scripts/hooks
+#
+# Valida el frontmatter YAML de los .md staged antes de permitir el commit.
+# Atrapa el error "colon sin comillas" que rompe el build de Vercel al
+# prerenderear sitemap.xml y páginas (ni el typecheck ni el lint de español
+# lo detectan — solo aparece en build).
+
+node scripts/check-frontmatter.mjs || {
+  echo ""
+  echo "Commit bloqueado: frontmatter YAML inválido (ver arriba)."
+  exit 1
+}
