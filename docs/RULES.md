@@ -314,7 +314,7 @@ gameAdded: "diablo-4"      # opcional; matchea un game id. Activa el badge "Nuev
   ```yaml
   events:
     - type: game            # game | comparison | tool | creator | stack | moved
-      action: added         # added | removed | updated | moved
+      action: added         # added | changed | removed | moved
       name: "Diablo 4"      # nombre legible; acá vive el keyword surface (no en el summary)
       gameId: diablo-4
       noteEs: "12 tools en 6 categorías, 5 creators, 25 resources, 7 comparativas y un stack."

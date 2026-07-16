@@ -6,7 +6,7 @@ summaryEs: "Palworld salió de Early Access con la 1.0 (World Tree). Actualizamo
 summaryEn: "Palworld left Early Access with 1.0 (World Tree). We refreshed the game page: PS5 as a platform, updated content model, and the release highlights — Sunreach, the World Tree endgame, 72 new Pals (287 total), Awakening, Mutation, and level cap 80."
 events:
   - type: game
-    action: updated
+    action: changed
     name: "Palworld"
     gameId: palworld
     noteEs: "1.0 (10 jul 2026) sacó al juego de Early Access: agregamos PS5, actualizamos monetización y la sección de estado con World Tree, Sunreach, 72 Pals nuevos, Awakening, Mutation y cap 80."
