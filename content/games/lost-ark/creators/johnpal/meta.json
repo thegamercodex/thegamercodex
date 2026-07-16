@@ -1,0 +1,42 @@
+{
+  "id": "johnpal",
+  "name": "Johnpal",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2018,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@johnpaltv",
+      "url": "https://www.youtube.com/@johnpaltv",
+      "channelId": "UCAnzQQBReaKnQS1DtE_T0FA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "johnpal",
+      "url": "https://www.twitch.tv/johnpal"
+    }
+  ],
+  "specialties": ["news", "meta", "community"],
+  "games": ["lost-ark"],
+  "contentTypes": ["news", "streams", "commentary"],
+  "audienceLevel": ["beginner", "intermediate", "advanced"],
+  "noteEs": "Johnpal es una de las voces más activas en inglés para noticias, reacciones al roadmap y comentario de comunidad de Lost Ark. Ofrece recaps opinados de los showcases de LOAON y los anuncios de parche. Su contenido se inclina hacia el entretenimiento y la discusión más que al tutorial puro, y suele hacer entrevistas a la comunidad y watch parties.",
+  "noteEn": "Johnpal is one of the most active English voices for Lost Ark news, roadmap reactions, and community commentary. He offers opinionated recaps of LOAON showcases and patch announcements. His content leans toward entertainment and discussion rather than pure tutorials, and he frequently runs community interviews and watch parties.",
+  "highlightsEs": [
+    "Cobertura opinada de roadmaps y recaps de LOAON",
+    "Entrevistas a la comunidad y contenido de watch party",
+    "Cadencia de subida constante, varias veces por semana",
+    "Comentario fuerte de 'estado del juego' para todos los niveles"
+  ],
+  "highlightsEn": [
+    "Opinionated roadmap and LOAON recap coverage",
+    "Community interviews and watch-party content",
+    "Consistent, multiple-times-weekly upload cadence",
+    "Strong 'state of the game' meta commentary for all skill levels"
+  ],
+  "avatar": "/images/creators/johnpal-avatar.jpg",
+  "banner": "/images/creators/johnpal-banner.jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "lostark-bible-vs-meta-game-armory",
+  "toolIds": ["lostark-bible", "meta-game-armory"],
+  "category": "character-lookup",
+  "depth": "short",
+  "lastVerified": "2026-06-24",
+  "verdictEs": "lostark.bible para la inspección de roster y personajes más querida y profunda de la comunidad. meta-game.gg si quieres el armory y una calculadora de honing en la misma pestaña.",
+  "verdictEn": "lostark.bible for the community's most beloved, roster-deep character inspection. meta-game.gg if you want the armory and a honing calculator in the same tab.",
+  "useCases": [
+    {
+      "labelEs": "Inspeccionar el roster, gear y gemas de un personaje por nombre",
+      "labelEn": "Inspect a character's roster, gear, and gems by name",
+      "winner": "lostark-bible",
+      "reasonEs": "lostark.bible (ex uwuowo) es el lookup favorito de la comunidad por su profundidad de roster.",
+      "reasonEn": "lostark.bible (formerly uwuowo) is the community-favorite lookup for its roster depth."
+    },
+    {
+      "labelEs": "Revisar un personaje y planear honing sin cambiar de sitio",
+      "labelEn": "Review a character and plan honing without switching sites",
+      "winner": "meta-game-armory",
+      "reasonEs": "meta-game.gg suma una calculadora de honing junto al armory, todo en un mismo lugar.",
+      "reasonEn": "meta-game.gg bundles a honing calculator alongside the armory, all in one place."
+    },
+    {
+      "labelEs": "Vetear a un party member antes de un raid",
+      "labelEn": "Vet a party member before a raid",
+      "winner": "lostark-bible",
+      "reasonEs": "Su presentación clara de gear, engravings y cards hace el vetting más rápido y legible.",
+      "reasonEn": "Its clear presentation of gear, engravings, and cards makes vetting faster and more readable."
+    },
+    {
+      "labelEs": "Estimar el costo de subir tu personaje al siguiente item level",
+      "labelEn": "Estimate the cost of pushing your character to the next item level",
+      "winner": "meta-game-armory",
+      "reasonEs": "La calculadora de honing integrada de meta-game.gg responde esa pregunta sin abrir otra herramienta.",
+      "reasonEn": "meta-game.gg's built-in honing calculator answers that question without opening another tool."
+    },
+    {
+      "labelEs": "Copiar el setup de un jugador top para tu clase",
+      "labelEn": "Copy a top player's setup for your class",
+      "winner": "lostark-bible",
+      "reasonEs": "El detalle de roster y gear de lostark.bible facilita estudiar y replicar builds de referencia.",
+      "reasonEn": "lostark.bible's roster and gear detail makes it easier to study and replicate reference builds."
+    }
+  ]
+}

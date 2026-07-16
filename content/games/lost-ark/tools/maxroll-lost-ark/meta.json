@@ -1,0 +1,34 @@
+{
+  "id": "maxroll-lost-ark",
+  "name": "Maxroll",
+  "shortName": "Maxroll",
+  "taglineEs": "El hub de referencia en inglés para builds, raids y sistemas de Lost Ark",
+  "taglineEn": "The de-facto English hub for Lost Ark builds, raids, and systems",
+  "url": "https://maxroll.gg/lost-ark",
+  "category": "build-guides",
+  "type": "web-app",
+  "official": false,
+  "free": true,
+  "openSource": false,
+  "platforms": ["web"],
+  "languages": ["en"],
+  "tags": ["build-guides", "raid-guides", "engravings", "tier-list", "meta"],
+  "essential": true,
+  "difficulty": "beginner",
+  "lastVerified": "2026-07-16",
+  "logo": "/images/tools/common/maxroll-logo.jpg",
+  "screenshots": [],
+  "videos": [],
+  "relatedTools": ["maxroll-upgrade-calculator", "lost-ark-codex"],
+  "alternatives": ["lost-ark-nexus"],
+  "createdBy": { "name": "Maxroll", "url": "https://maxroll.gg/about" },
+  "multiGame": {
+    "available": true,
+    "otherGames": [
+      { "gameId": "diablo-4", "url": "https://maxroll.gg/d4" },
+      { "gameId": "path-of-exile", "url": "https://maxroll.gg/poe" },
+      { "gameId": "path-of-exile-2", "url": "https://maxroll.gg/poe2" },
+      { "gameId": "last-epoch", "url": "https://maxroll.gg/last-epoch" }
+    ]
+  }
+}

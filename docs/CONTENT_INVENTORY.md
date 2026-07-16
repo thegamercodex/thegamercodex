@@ -1,11 +1,11 @@
 # Content Inventory
 
 > Auto-generado por `npm run inventory`. NO editar a mano. La fuente de verdad es `content/games/`.
-> Última generación: 2026-06-22
+> Última generación: 2026-07-11
 
 ## Resumen
 
-31 juegos · 520 tools · 150 creators · 157 categorías · 785 resources items · 176 comparisons · 32 stacks
+32 juegos · 534 tools · 155 creators · 162 categorías · 810 resources items · 182 comparisons · 33 stacks
 
 | Game ID | Nombre | Tools | Creators | Categorías | Items | Comparisons | Stacks |
 |---|---|---:|---:|---:|---:|---:|---:|
@@ -24,6 +24,7 @@
 | `honkai-star-rail` | Honkai: Star Rail | 16 | 3 | 5 | 25 | 3 | 1 |
 | `last-epoch` | Last Epoch | 17 | 5 | 5 | 25 | 10 | 1 |
 | `league-of-legends` | League of Legends | 18 | 5 | 5 | 25 | 4 | 1 |
+| `lost-ark` | Lost Ark | 14 | 5 | 5 | 25 | 6 | 1 |
 | `marvel-rivals` | Marvel Rivals | 15 | 5 | 5 | 25 | 8 | 1 |
 | `monster-hunter-wilds` | Monster Hunter Wilds | 17 | 5 | 5 | 25 | 7 | 1 |
 | `no-mans-sky` | No Man's Sky | 13 | 5 | 5 | 25 | 5 | 1 |
@@ -298,6 +299,23 @@
 **Comparisons (4)**: `blitz-gg-vs-op-gg` (short), `op-gg-vs-mobalytics` (short), `probuilds-net-vs-u-gg` (short), `u-gg-vs-op-gg` (short)
 
 **Stacks (1)**: `lol-climb-toolkit` (5 tools)
+
+### Lost Ark (`lost-ark`)
+
+**Tools (14)**: LOA Details (`loa-details`), LOA Logs (`loa-logs`), Lost Ark Codex (`lost-ark-codex`), Lost Ark Database (`lost-ark-database`), Official Lost Ark Discord (`lost-ark-discord`), Lost Ark Helper (`lost-ark-helper`), Lost Ark Logs (`lost-ark-logs`), Lost Ark Map (`lost-ark-map`), Lost Ark Nexus (`lost-ark-nexus`), lostark.bible (`lostark-bible`), r/lostarkgame (`lostarkgame-subreddit`), Maxroll (`maxroll-lost-ark`), Maxroll Upgrade Calculator (`maxroll-upgrade-calculator`), Lost Ark Armory (meta-game.gg) (`meta-game-armory`)
+
+**Creators (5)**: ImDefild (`imdefild`), Johnpal (`johnpal`), Memorizer92 (`memorizer92`), Saintone (`saintone`), wineblue (`wineblue`)
+
+**Resources (5 categories · 25 items)**:
+- `beginner-guides` — 5 items
+- `class-guides` — 5 items
+- `gold-making` — 5 items
+- `progression-guides` — 5 items
+- `raid-guides` — 5 items
+
+**Comparisons (6)**: `loa-logs-vs-loa-details` (short), `loa-logs-vs-lost-ark-logs` (short), `lost-ark-codex-vs-lost-ark-database` (short), `lostark-bible-vs-meta-game-armory` (short), `maxroll-lost-ark-vs-lost-ark-nexus` (flagship), `maxroll-upgrade-calculator-vs-meta-game-armory` (short)
+
+**Stacks (1)**: `complete-lost-ark-toolkit` (6 tools)
 
 ### Marvel Rivals (`marvel-rivals`)
 

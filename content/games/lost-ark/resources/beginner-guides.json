@@ -1,0 +1,80 @@
+{
+  "category": "beginner-guides",
+  "resources": [
+    {
+      "id": "stoopzz-ultimate-beginner-guide-lost-ark-2025",
+      "type": "video",
+      "title": "Lost Ark ULTIMATE Beginner's Guide - New/Returning Players (2025)",
+      "creator": "Stoopzz Highlights",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Lh6vjB0syTc",
+      "youtubeId": "Lh6vjB0syTc",
+      "language": "en",
+      "duration": "1:42:16",
+      "publishedDate": "2025-07-23",
+      "thumbnail": "https://i.ytimg.com/vi/Lh6vjB0syTc/maxresdefault.jpg",
+      "noteEs": "El onboarding definitivo de 2025 de uno de los creadores más grandes de la escena: lleva al jugador nuevo o que regresa desde la elección de clase hasta su primer raid.",
+      "noteEn": "The definitive 2025 onboarding from one of the scene's biggest creators, walking a brand-new or returning player from class pick through their first raid."
+    },
+    {
+      "id": "imdefild-10-things-new-returning-lost-ark-2025",
+      "type": "video",
+      "title": "New or Returning to Lost Ark 2025? 10 Things You SHOULD Do!",
+      "creator": "ImDefild",
+      "creatorId": "imdefild",
+      "url": "https://www.youtube.com/watch?v=LX5o2ouFcUk",
+      "youtubeId": "LX5o2ouFcUk",
+      "language": "en",
+      "duration": "16:35",
+      "publishedDate": "2025-07-03",
+      "thumbnail": "https://i.ytimg.com/vi/LX5o2ouFcUk/maxresdefault.jpg",
+      "noteEs": "Una checklist breve y priorizada de las diez acciones tempranas de mayor impacto, ideal para quien quiere dirección sin comprometerse con una guía de largo metraje.",
+      "noteEn": "A tight, prioritized checklist of the ten highest-impact early actions, ideal for players who want direction without committing to a feature-length guide."
+    },
+    {
+      "id": "imdefild-watch-before-playing-lost-ark-2025",
+      "type": "video",
+      "title": "Lost Ark 2025 New & Returning Player Guide *WATCH BEFORE PLAYING*",
+      "creator": "ImDefild",
+      "creatorId": "imdefild",
+      "url": "https://www.youtube.com/watch?v=Iy2YI8ZEDeE",
+      "youtubeId": "Iy2YI8ZEDeE",
+      "language": "en",
+      "duration": "27:39",
+      "publishedDate": "2025-02-22",
+      "thumbnail": "https://i.ytimg.com/vi/Iy2YI8ZEDeE/maxresdefault.jpg",
+      "noteEs": "Un primer antes de instalar que ajusta las expectativas sobre los sistemas, la inversión de tiempo y la planificación del roster para que el jugador evite los errores tempranos más comunes.",
+      "noteEn": "A pre-install primer setting expectations on systems, time investment, and roster planning so returning players avoid common early missteps."
+    },
+    {
+      "id": "johnpal-comprehensive-new-player-guide-lost-ark-2025",
+      "type": "video",
+      "title": "Johnpal's Comprehensive New Player Guide (Chapter 1) | Lost Ark in 2025",
+      "creator": "JOHNPAL TV",
+      "creatorId": "johnpal",
+      "url": "https://www.youtube.com/watch?v=xcvUaUqlZj8",
+      "youtubeId": "xcvUaUqlZj8",
+      "language": "en",
+      "duration": "40:11",
+      "publishedDate": "2025-03-03",
+      "thumbnail": "https://i.ytimg.com/vi/xcvUaUqlZj8/maxresdefault.jpg",
+      "noteEs": "Un deep-dive pausado y por capítulos de los fundamentos de cuenta y roster, para quien prefiere un profesor minucioso antes que una lista de tips rápidos.",
+      "noteEn": "A slower, chaptered deep-dive into account and roster fundamentals for players who prefer a thorough teacher over a quickfire tips list."
+    },
+    {
+      "id": "myca-gear-up-fast-catch-up-lost-ark-2025",
+      "type": "video",
+      "title": "How to Gear Up Fast in Lost Ark (2025 Catch-Up Guide)",
+      "creator": "Myca",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=xWpTrodfwwU",
+      "youtubeId": "xWpTrodfwwU",
+      "language": "en",
+      "duration": "11:51",
+      "publishedDate": "2025-07-30",
+      "thumbnail": "https://i.ytimg.com/vi/xWpTrodfwwU/maxresdefault.jpg",
+      "noteEs": "Una ruta de catch-up concisa que muestra cómo aprovechar los sistemas de express y puesta al día actuales para llegar rápido al item level de endgame; perfecto para quien regresa.",
+      "noteEn": "A concise catch-up route showing how to leverage current express and catch-up systems to reach endgame ilvl quickly — perfect for returners."
+    }
+  ]
+}

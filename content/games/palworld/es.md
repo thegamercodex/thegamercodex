@@ -20,13 +20,15 @@ Cada loop alimenta al otro: necesitas un Pal con Mining para minar el mineral qu
 
 ## El estado del juego en 2026
 
-Palworld sigue oficialmente en Early Access pero recibió tres expansiones gratuitas masivas desde el lanzamiento:
+Después de dos años y medio en Early Access, Palworld llegó a la **versión 1.0 el 10 de julio de 2026** con la actualización World Tree, el update más grande de su historia (27 páginas de patch notes). Salió a la vez en Steam, Microsoft Store, PS5, Xbox Series X|S y Xbox One, con Game Pass day one, y fue gratis para quienes ya tenían el juego. El camino hasta acá pasó por tres expansiones gratuitas masivas:
 
 - **Sakurajima** (2024): nuevo continente con tema japonés, ~25 Pals nuevos, Raid Bosses cooperativos.
 - **Feybreak** (diciembre 2024): segundo continente con tema cyberpunk-fantasy, ~40 Pals nuevos, Passive Skill Tiers (S/A/B/C que cambiaron el meta), Surgery Table para modificar Pals.
 - **Tides of Terraria** (junio 2025): crossover con Terraria, 7 islas nuevas, monstruos de Terraria capturables como Pals, fishing.
 
-Pocketpair confirmó que la **1.0 con la actualización World Tree llega en 2026**, cerrando el arco de Early Access. El modelo es buy-to-play sin microtransacciones — todo el contenido nuevo llegó gratis a quienes ya tenían el juego, y no hay battle pass ni shop in-game. Es uno de los pocos juegos de su escala que sigue ese modelo en 2026.
+La **1.0** cerró el arco de Early Access con dos zonas nuevas: **Sunreach**, un archipiélago de islas flotantes, y la **World Tree**, el árbol gigante visible en el horizonte desde el día uno que ahora es la zona de endgame y el escenario donde termina la historia principal. Trae 72 Pals nuevos (47 originales + 25 variantes) para un total de 287, sube el level cap de 65 a 80, e incorpora mecánicas nuevas: **Awakening** (empujar Pals ya desarrollados más allá de su límite), **Mutation** (breeding raro para crías más poderosas), el **Wing Pack** (planeador que no ocupa slot de combate) y raids de base por oleadas. Reventó los 850.000 jugadores concurrentes en Steam su fin de semana de lanzamiento.
+
+El modelo sigue siendo buy-to-play sin microtransacciones — todo el contenido nuevo llegó gratis a quienes ya tenían el juego, y no hay battle pass ni shop in-game. Es uno de los pocos juegos de su escala que sigue ese modelo en 2026.
 
 ## Por qué un codex de Palworld
 

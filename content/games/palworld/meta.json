@@ -16,6 +16,11 @@
       "platform": "xbox",
       "url": "https://www.xbox.com/en-US/games/store/palworld-game-preview/9NKV34XDW014/0010",
       "model": "buy-to-play"
+    },
+    {
+      "platform": "playstation",
+      "url": "https://store.playstation.com/en-us/product/UP6360-PPSA23126_00-0112788005082769/",
+      "model": "buy-to-play"
     }
   ],
   "monetization": {
@@ -23,10 +28,10 @@
     "hasInGamePurchases": false,
     "purchaseTypes": [],
     "payToWin": false,
-    "noteEs": "Compra única (~$30 USD en Steam, incluido en Xbox Game Pass para PC y consola). Sin microtransacciones, sin battle pass, sin DLC pago. Las expansiones de gran escala (Sakurajima, Feybreak, Tides of Terraria) llegaron gratis y Pocketpair confirmó que la 1.0 con la World Tree mantiene ese modelo. Sigue oficialmente en Early Access — el progreso de cada parche puede romper saves antiguos, leer las patch notes antes de actualizar.",
-    "noteEn": "One-time purchase (~$30 USD on Steam, included with Xbox Game Pass on PC and console). No microtransactions, no battle pass, no paid DLC. The large expansions (Sakurajima, Feybreak, Tides of Terraria) shipped free and Pocketpair confirmed the upcoming 1.0 with the World Tree keeps that model. Still officially in Early Access — major patches can break older saves, read the patch notes before updating."
+    "noteEs": "Compra única (~$30 USD en Steam, PS5 y Microsoft Store, incluido en Xbox Game Pass para PC y consola). Sin microtransacciones, sin battle pass, sin DLC pago. Las expansiones de gran escala (Sakurajima, Feybreak, Tides of Terraria) llegaron gratis, y la 1.0 con la World Tree — que sacó al juego de Early Access el 10 de julio de 2026 — también fue gratis para quienes ya tenían el juego. La 1.0 mantiene los saves viejos pero resetea el progreso de misiones para alinearlo con la nueva estructura de recompensas; leer las patch notes antes de actualizar.",
+    "noteEn": "One-time purchase (~$30 USD on Steam, PS5, and the Microsoft Store, included with Xbox Game Pass on PC and console). No microtransactions, no battle pass, no paid DLC. The large expansions (Sakurajima, Feybreak, Tides of Terraria) shipped free, and the 1.0 update with the World Tree — which took the game out of Early Access on July 10, 2026 — was also free for existing owners. 1.0 keeps old saves but resets main/sub-mission progress to align with the new reward structure; read the patch notes before updating."
   },
-  "platforms": ["windows", "xbox"],
+  "platforms": ["windows", "xbox", "playstation"],
   "genres": ["survival-craft","open-world"],
   "theme": {
     "primary": "#2b5fa1",

@@ -390,16 +390,21 @@ function applyFixes(content) {
       return preserveCase(match, neut);
     });
   }
-  // Restore sentence-start capitalization after the lowercase swap
-  for (const word of SENTENCE_STARTERS) {
-    const capitalized = word[0].toUpperCase() + word.slice(1);
-    const patterns = [
-      new RegExp(`(\\. )${escapeRegex(word)}\\b`, "g"),
-      new RegExp(`(^|\\n\\n)${escapeRegex(word)}\\b`, "g"),
-      new RegExp(`(\\*\\*: )${escapeRegex(word)}\\b`, "g"),
-    ];
-    for (const pat of patterns) {
-      modified = modified.replace(pat, (_, prefix) => prefix + capitalized);
+  // Restore sentence-start capitalization after the lowercase swap.
+  // Only runs when a voseo swap actually happened — never mutate clean files.
+  // Note: no `**: ` (bold-label colon) boundary here on purpose; in this project's
+  // bullet style the text after `**Label**: ` is a lowercase continuation, not a
+  // new sentence, so capitalizing it would corrupt correct content.
+  if (hits.length > 0) {
+    for (const word of SENTENCE_STARTERS) {
+      const capitalized = word[0].toUpperCase() + word.slice(1);
+      const patterns = [
+        new RegExp(`(\\. )${escapeRegex(word)}\\b`, "g"),
+        new RegExp(`(^|\\n\\n)${escapeRegex(word)}\\b`, "g"),
+      ];
+      for (const pat of patterns) {
+        modified = modified.replace(pat, (_, prefix) => prefix + capitalized);
+      }
     }
   }
   return { modified, hits };

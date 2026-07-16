@@ -1,0 +1,46 @@
+{
+  "id": "maxroll-upgrade-calculator-vs-meta-game-armory",
+  "toolIds": ["maxroll-upgrade-calculator", "meta-game-armory"],
+  "category": "calculators",
+  "depth": "short",
+  "lastVerified": "2026-06-24",
+  "verdictEs": "Maxroll Upgrade Calculator para planear el honing de todo el gear como un presupuesto integrado. meta-game.gg si quieres una calculadora de honing rápida pegada a un armory de personaje.",
+  "verdictEn": "Maxroll Upgrade Calculator to plan honing across all your gear as one integrated budget. meta-game.gg if you want a quick honing calculator attached to a character armory.",
+  "useCases": [
+    {
+      "labelEs": "Planear el costo de honing de todos los slots hacia un item level objetivo",
+      "labelEn": "Plan honing cost across every slot toward a target item level",
+      "winner": "maxroll-upgrade-calculator",
+      "reasonEs": "El planificador multi-slot de Maxroll modela todo el gear con bonos de research y artisan's energy.",
+      "reasonEn": "Maxroll's multi-slot planner models all your gear with research bonuses and artisan's energy."
+    },
+    {
+      "labelEs": "Calcular honing partiendo del perfil real de tu personaje",
+      "labelEn": "Calculate honing starting from your character's real profile",
+      "winner": "meta-game-armory",
+      "reasonEs": "meta-game.gg arranca del armory de tu personaje, así que partes de tus números reales.",
+      "reasonEn": "meta-game.gg starts from your character's armory, so you begin from your real numbers."
+    },
+    {
+      "labelEs": "Estimar materiales y gold para una semana de honing",
+      "labelEn": "Estimate materials and gold for a week of honing",
+      "winner": "maxroll-upgrade-calculator",
+      "reasonEs": "Maxroll desglosa materiales, gold y silver con detalle, ideal para presupuestar.",
+      "reasonEn": "Maxroll breaks down materials, gold, and silver in detail, ideal for budgeting."
+    },
+    {
+      "labelEs": "Hacer un cálculo rápido sin armar un plan completo",
+      "labelEn": "Run a quick calc without building a full plan",
+      "winner": "meta-game-armory",
+      "reasonEs": "La calculadora de meta-game.gg es más directa cuando solo quieres un número rápido.",
+      "reasonEn": "meta-game.gg's calculator is more direct when you just want a quick number."
+    },
+    {
+      "labelEs": "Integrar el cálculo con guías, builds y tier lists",
+      "labelEn": "Integrate the calc with guides, builds, and tier lists",
+      "winner": "maxroll-upgrade-calculator",
+      "reasonEs": "Vive dentro del ecosistema de Maxroll, así que saltas del cálculo a la guía sin cambiar de sitio.",
+      "reasonEn": "It lives inside the Maxroll ecosystem, so you jump from the calc to the guide without switching sites."
+    }
+  ]
+}

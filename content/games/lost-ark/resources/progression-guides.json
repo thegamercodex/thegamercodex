@@ -1,0 +1,80 @@
+{
+  "category": "progression-guides",
+  "resources": [
+    {
+      "id": "stoopzz-mid-game-progression-1640-lost-ark-2025",
+      "type": "video",
+      "title": "Lost Ark Mid-Game Progression Guide (1640+) (2025)",
+      "creator": "Stoopzz Highlights",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=NETgsJ66f9A",
+      "youtubeId": "NETgsJ66f9A",
+      "language": "en",
+      "duration": "21:09",
+      "publishedDate": "2025-08-23",
+      "thumbnail": "https://i.ytimg.com/vi/NETgsJ66f9A/maxresdefault.jpg",
+      "noteEs": "El seguimiento natural de la guía para principiantes: mapea el camino de honing y gear de 1640 a 1680 que traba a la mayoría de los jugadores de mid-game.",
+      "noteEn": "The natural follow-up to the beginner guide, mapping the 1640 to 1680 honing and gear path that trips up most mid-game players."
+    },
+    {
+      "id": "imdefild-1640-to-1700-progression-lost-ark-2025",
+      "type": "video",
+      "title": "COMPLETE Lost Ark 1640 to 1700+ Gear & Unlocks Progression Guide",
+      "creator": "ImDefild",
+      "creatorId": "imdefild",
+      "url": "https://www.youtube.com/watch?v=Kv05KvIaEM0",
+      "youtubeId": "Kv05KvIaEM0",
+      "language": "en",
+      "duration": "17:27",
+      "publishedDate": "2025-05-13",
+      "thumbnail": "https://i.ytimg.com/vi/Kv05KvIaEM0/maxresdefault.jpg",
+      "noteEs": "Un roadmap de gear y unlocks de punta a punta desde 1640 hasta 1700+, cubriendo qué priorizar en cada gate de item level.",
+      "noteEn": "An end-to-end gear and unlock roadmap from 1640 to 1700+, covering what to prioritize at each ilvl gate."
+    },
+    {
+      "id": "deathboi523-progression-new-returning-lost-ark-2025",
+      "type": "video",
+      "title": "Lost Ark: Progression Guide for New/Returning Players",
+      "creator": "Deathboi523",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=K6c9HLQ6Hng",
+      "youtubeId": "K6c9HLQ6Hng",
+      "language": "en",
+      "duration": "43:55",
+      "publishedDate": "2025-07-27",
+      "thumbnail": "https://i.ytimg.com/vi/K6c9HLQ6Hng/maxresdefault.jpg",
+      "noteEs": "Un roadmap de progresión de largo metraje para quienes regresan y reaprenden el flujo de honing y optimización de roster desde la base.",
+      "noteEn": "A long-form progression roadmap for returners re-learning the honing and roster optimization flow from the ground up."
+    },
+    {
+      "id": "couplemas-ultimate-progression-lost-ark-2025",
+      "type": "video",
+      "title": "Ultimate Lost Ark Progression Guide for New players and Returners!",
+      "creator": "couplemas",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=6cdaZHL2kRc",
+      "youtubeId": "6cdaZHL2kRc",
+      "language": "en",
+      "duration": "1:13:05",
+      "publishedDate": "2025-02-21",
+      "thumbnail": "https://i.ytimg.com/vi/6cdaZHL2kRc/maxresdefault.jpg",
+      "noteEs": "Un deep-dive de progresión de más de una hora que cubre estrategia de honing, advanced honing y qué priorizar a lo largo de un roster.",
+      "noteEn": "A comprehensive hour-plus progression deep-dive covering honing strategy, advanced honing, and what to prioritize across a roster."
+    },
+    {
+      "id": "atk-poormans-arkpassive-lost-ark-2024",
+      "type": "video",
+      "title": "The Poorman's Arkpassive - How I built it.",
+      "creator": "ATK",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=l71sngqFF40",
+      "youtubeId": "l71sngqFF40",
+      "language": "en",
+      "duration": "17:13",
+      "publishedDate": "2024-08-19",
+      "thumbnail": "https://i.ytimg.com/vi/l71sngqFF40/maxresdefault.jpg",
+      "noteEs": "Un walkthrough de build de Ark Passive con presupuesto ajustado —un sistema clave de progresión— que muestra cómo optimizar poder sin gastar de más.",
+      "noteEn": "A budget-conscious Ark Passive build walkthrough — a key progression system — showing how to optimize power without spending heavily."
+    }
+  ]
+}

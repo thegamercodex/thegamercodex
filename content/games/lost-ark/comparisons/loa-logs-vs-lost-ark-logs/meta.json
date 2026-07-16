@@ -1,0 +1,46 @@
+{
+  "id": "loa-logs-vs-lost-ark-logs",
+  "toolIds": ["loa-logs", "lost-ark-logs"],
+  "category": "combat-analysis",
+  "depth": "short",
+  "lastVerified": "2026-06-24",
+  "verdictEs": "LOA Logs para los números en vivo dentro del raid con un overlay en tiempo real. Lost Ark Logs para subir, estudiar y comparar tus parses en la web después de la pelea. En la práctica se complementan.",
+  "verdictEn": "LOA Logs for live in-raid numbers via a real-time overlay. Lost Ark Logs to upload, study, and compare your parses on the web after the fight. In practice they complement each other.",
+  "useCases": [
+    {
+      "labelEs": "Ver el daño y DPS en tiempo real durante el pull",
+      "labelEn": "See damage and DPS in real time during the pull",
+      "winner": "loa-logs",
+      "reasonEs": "LOA Logs es el overlay en vivo que muestra los números mientras peleas.",
+      "reasonEn": "LOA Logs is the live overlay that shows the numbers while you fight."
+    },
+    {
+      "labelEs": "Estudiar un parse en detalle después del raid",
+      "labelEn": "Study a parse in detail after the raid",
+      "winner": "lost-ark-logs",
+      "reasonEs": "Lost Ark Logs es la capa web persistente para analizar y compartir logs ya terminados.",
+      "reasonEn": "Lost Ark Logs is the persistent web layer to analyze and share finished logs."
+    },
+    {
+      "labelEs": "Compararte contra leaderboards y top parses",
+      "labelEn": "Compare yourself against leaderboards and top parses",
+      "winner": "lost-ark-logs",
+      "reasonEs": "Los leaderboards y rankings de parse viven en Lost Ark Logs, no en el meter en vivo.",
+      "reasonEn": "Leaderboards and parse rankings live on Lost Ark Logs, not the live meter."
+    },
+    {
+      "labelEs": "Chequear tu uptime de buffs y back-attacks en el momento",
+      "labelEn": "Check your buff uptime and back-attacks in the moment",
+      "winner": "loa-logs",
+      "reasonEs": "El overlay en vivo de LOA Logs muestra esos detalles mientras todavía puedes corregir.",
+      "reasonEn": "LOA Logs's live overlay surfaces those details while you can still correct."
+    },
+    {
+      "labelEs": "Guardar un historial de tu rendimiento a lo largo del tiempo",
+      "labelEn": "Keep a history of your performance over time",
+      "winner": "lost-ark-logs",
+      "reasonEs": "Lost Ark Logs conserva tus logs subidos como historial consultable; el overlay es efímero.",
+      "reasonEn": "Lost Ark Logs keeps your uploaded logs as a searchable history; the overlay is ephemeral."
+    }
+  ]
+}

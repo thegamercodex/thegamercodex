@@ -1,0 +1,143 @@
+{
+  "id": "lost-ark",
+  "name": "Lost Ark",
+  "shortName": "Lost Ark",
+  "developer": "Smilegate RPG (Amazon Games en Occidente)",
+  "releaseYear": 2022,
+  "officialUrl": "https://www.playlostark.com",
+  "stores": [
+    {
+      "platform": "steam",
+      "url": "https://store.steampowered.com/app/1599340/Lost_Ark/",
+      "appId": "1599340",
+      "model": "free-to-play"
+    }
+  ],
+  "monetization": {
+    "model": "free-to-play",
+    "hasInGamePurchases": true,
+    "purchaseTypes": ["cosmetics", "skins", "crystals", "pets", "mounts", "conveniences", "crystalline-aura"],
+    "payToWin": true,
+    "noteEs": "Free-to-play financiado con compras opcionales: skins cosméticas, pets, monturas y la suscripción de conveniencia Crystalline Aura, más Royal Crystals que se pueden cambiar por oro dentro del juego. Como ese oro termina comprando materiales de honing y descuentos en la tienda de Mari, la comunidad occidental lo considera soft pay-to-win: pagar acelera la progresión de gear basada en suerte que controla el acceso a los raids. No es power exclusivo, pero sí compra velocidad y conveniencia.",
+    "noteEn": "Free-to-play funded through optional purchases: cosmetic skins, pets, mounts, and the Crystalline Aura convenience subscription, plus Royal Crystals that can be exchanged for in-game gold. Because that gold ultimately buys honing materials and discounts in Mari's shop, the Western community views it as soft pay-to-win: paying accelerates the luck-based gear progression that gates raids. It isn't exclusive power, but it does buy speed and convenience."
+  },
+  "platforms": ["windows"],
+  "genres": ["mmo", "arpg"],
+  "theme": {
+    "primary": "#c9a227",
+    "secondary": "#16191f",
+    "accent": "#e8c34a",
+    "background": "#0c0f12",
+    "text": "#ece6d6"
+  },
+  "logo": "/images/games/lost-ark-logo.png",
+  "heroImage": "/images/games/lost-ark-hero.webp",
+  "toolCategories": [
+    {
+      "id": "build-guides",
+      "nameEs": "Guías de Builds y Raids",
+      "nameEn": "Build & Raid Guides",
+      "descriptionEs": "Builds de clase, engravings, rotaciones y guías de los Legion Raids y endgame",
+      "descriptionEn": "Class builds, engravings, rotations, and Legion Raid + endgame guides",
+      "icon": "📖"
+    },
+    {
+      "id": "calculators",
+      "nameEs": "Calculadoras de Honing",
+      "nameEn": "Honing Calculators",
+      "descriptionEs": "Simuladores de costos de honing y planificación de materiales para subir gear",
+      "descriptionEn": "Honing cost simulators and material planning to upgrade your gear",
+      "icon": "🧮"
+    },
+    {
+      "id": "database",
+      "nameEs": "Bases de Datos y Wikis",
+      "nameEn": "Databases & Wikis",
+      "descriptionEs": "Bases de datos de ítems, quests y skills, más referencias y skill builders",
+      "descriptionEn": "Item, quest, and skill databases plus references and skill builders",
+      "icon": "📚"
+    },
+    {
+      "id": "interactive-map",
+      "nameEs": "Mapas Interactivos",
+      "nameEn": "Interactive Maps",
+      "descriptionEs": "Mapas con trackers de mokokos, coleccionables, vistas y mercaderes itinerantes",
+      "descriptionEn": "Maps tracking mokokos, collectibles, vistas, and wandering merchants",
+      "icon": "🗺️"
+    },
+    {
+      "id": "character-lookup",
+      "nameEs": "Búsqueda de Personajes",
+      "nameEn": "Character Lookup",
+      "descriptionEs": "Inspección estilo armory de roster, gear, gemas y engravings por nombre",
+      "descriptionEn": "Armory-style inspection of roster, gear, gems, and engravings by name",
+      "icon": "🔎"
+    },
+    {
+      "id": "combat-analysis",
+      "nameEs": "Análisis de Combate",
+      "nameEn": "Combat Analysis",
+      "descriptionEs": "DPS meters, parsers y logs de raid para medir y mejorar tu rendimiento",
+      "descriptionEn": "DPS meters, parsers, and raid logs to measure and improve your performance",
+      "icon": "📊"
+    },
+    {
+      "id": "roster-tools",
+      "nameEs": "Gestión de Roster",
+      "nameEn": "Roster Management",
+      "descriptionEs": "Checklists de tareas diarias y semanales para coordinar tu roster de personajes",
+      "descriptionEn": "Daily and weekly task checklists to coordinate your character roster",
+      "icon": "✅"
+    },
+    {
+      "id": "community",
+      "nameEs": "Comunidad",
+      "nameEn": "Community",
+      "descriptionEs": "Discord oficial y subreddit: los puntos de entrada a la comunidad de Lost Ark",
+      "descriptionEn": "Official Discord and subreddit: the entry points to the Lost Ark community",
+      "icon": "💬"
+    }
+  ],
+  "resourceCategories": [
+    {
+      "id": "beginner-guides",
+      "nameEs": "Guías para Principiantes",
+      "nameEn": "Beginner Guides",
+      "descriptionEs": "Recursos esenciales para empezar o volver a Lost Ark",
+      "descriptionEn": "Essential resources to start or return to Lost Ark",
+      "icon": "🌱"
+    },
+    {
+      "id": "raid-guides",
+      "nameEs": "Guías de Raids",
+      "nameEn": "Raid Guides",
+      "descriptionEs": "Mecánicas y estrategias de los Legion Raids, Abyssal Dungeons y Kazeros Raids",
+      "descriptionEn": "Mechanics and strategies for Legion Raids, Abyssal Dungeons, and Kazeros Raids",
+      "icon": "👹"
+    },
+    {
+      "id": "class-guides",
+      "nameEs": "Guías de Clases",
+      "nameEn": "Class Guides",
+      "descriptionEs": "Builds, engravings y rotaciones por clase y clase avanzada",
+      "descriptionEn": "Builds, engravings, and rotations per class and advanced class",
+      "icon": "🛡️"
+    },
+    {
+      "id": "gold-making",
+      "nameEs": "Hacer Oro",
+      "nameEn": "Gold Making",
+      "descriptionEs": "Estrategias de economía, mercado y eficiencia para generar oro en el roster",
+      "descriptionEn": "Economy, market, and efficiency strategies to generate roster gold",
+      "icon": "💰"
+    },
+    {
+      "id": "progression-guides",
+      "nameEs": "Guías de Progresión",
+      "nameEn": "Progression Guides",
+      "descriptionEs": "Honing, gear, item level y optimización de roster para avanzar al endgame",
+      "descriptionEn": "Honing, gear, item level, and roster optimization to push toward endgame",
+      "icon": "⬆️"
+    }
+  ]
+}

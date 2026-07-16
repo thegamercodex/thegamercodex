@@ -1,0 +1,42 @@
+{
+  "id": "imdefild",
+  "name": "ImDefild",
+  "country": "US",
+  "languages": ["en"],
+  "active": true,
+  "joinedYear": 2024,
+  "platforms": [
+    {
+      "type": "youtube",
+      "handle": "@ImDefild",
+      "url": "https://www.youtube.com/@ImDefild",
+      "channelId": "UCczXmz2M7klQ-C3hTZjeeKA",
+      "primary": true
+    },
+    {
+      "type": "twitch",
+      "handle": "imdefild",
+      "url": "https://www.twitch.tv/imdefild"
+    }
+  ],
+  "specialties": ["gold-making", "beginner-guides", "news"],
+  "games": ["lost-ark"],
+  "contentTypes": ["guides", "tutorials", "news"],
+  "audienceLevel": ["beginner", "intermediate"],
+  "noteEs": "ImDefild se enfoca en el lado económico y de accesibilidad de Lost Ark: estrategias de hacer oro, guías para jugadores nuevos y que regresan, y walkthroughs de eventos y express. El canal también sigue el meta con recaps de roadmap y breakdowns de parches de balance KR. Es uno de los canales LOA más prolíficos del momento, orientado a ayudar a ponerse al día y mantenerse rentable.",
+  "noteEn": "ImDefild focuses on the economy and accessibility side of Lost Ark: gold-making strategies, new and returning-player guides, and event and express walkthroughs. The channel also keeps pace with the meta through roadmap recaps and KR balance-patch breakdowns. It's one of the most prolific current LOA channels, aimed at helping players catch up and stay profitable.",
+  "highlightsEs": [
+    "Guías de economía y de ingresos F2P (la 'Ultimate Gold Guide')",
+    "Guías de inicio y catch-up para jugadores nuevos y que regresan",
+    "Walkthroughs de recompensas de eventos y del Express pass",
+    "Recaps de roadmap y breakdowns de parches de balance KR"
+  ],
+  "highlightsEn": [
+    "Economy and F2P income guides (the 'Ultimate Gold Guide')",
+    "New and returning-player starter and catch-up guides",
+    "Event and Express-pass reward walkthroughs",
+    "Roadmap recaps and KR balance-patch breakdowns"
+  ],
+  "avatar": "/images/creators/imdefild-avatar.jpg",
+  "banner": "/images/creators/imdefild-banner.jpg"
+}

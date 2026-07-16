@@ -1,0 +1,80 @@
+{
+  "category": "raid-guides",
+  "resources": [
+    {
+      "id": "memorizer92-kazeros-act2-gate1-lost-ark-2025",
+      "type": "video",
+      "title": "[Lost Ark] Kazeros Raid Act2 Gate1 Guide [Read Comment!]",
+      "creator": "Memorizer",
+      "creatorId": "memorizer92",
+      "url": "https://www.youtube.com/watch?v=ETG4BpyZdAk",
+      "youtubeId": "ETG4BpyZdAk",
+      "language": "en",
+      "duration": "18:36",
+      "publishedDate": "2025-01-01",
+      "thumbnail": "https://i.ytimg.com/vi/ETG4BpyZdAk/maxresdefault.jpg",
+      "noteEs": "El breakdown limpio de mecánicas de Memorizer92 para el Act 2 Gate 1 del Kazeros Raid más nuevo, el tier de raid de vanguardia actual.",
+      "noteEn": "Memorizer92's clean mechanic breakdown of the newest Kazeros Act 2 Gate 1, the current cutting-edge raid tier."
+    },
+    {
+      "id": "imdefild-aegir-dps-t4-lost-ark-2025",
+      "type": "video",
+      "title": "Lost Ark How To DPS Aegir In T4 2025",
+      "creator": "ImDefild",
+      "creatorId": "imdefild",
+      "url": "https://www.youtube.com/watch?v=iIQOa6tO5fA",
+      "youtubeId": "iIQOa6tO5fA",
+      "language": "en",
+      "duration": "20:09",
+      "publishedDate": "2025-04-02",
+      "thumbnail": "https://i.ytimg.com/vi/iIQOa6tO5fA/maxresdefault.jpg",
+      "noteEs": "Una guía enfocada en daño y uptime para el Kazeros Raid de Aegir en T4, orientada a jugadores que empujan los DPS checks de endgame actual.",
+      "noteEn": "A T4-focused damage and uptime guide for the Aegir Kazeros raid, aimed at players pushing current endgame DPS checks."
+    },
+    {
+      "id": "memorizer92-echidna-gate2-lost-ark-2024",
+      "type": "video",
+      "title": "[Lost Ark] Echidna Gate2 Guide [Normal/Hard] (Read my comment!)",
+      "creator": "Memorizer",
+      "creatorId": "memorizer92",
+      "url": "https://www.youtube.com/watch?v=ZEDunNcntug",
+      "youtubeId": "ZEDunNcntug",
+      "language": "en",
+      "duration": "27:36",
+      "publishedDate": "2024-06-11",
+      "thumbnail": "https://i.ytimg.com/vi/ZEDunNcntug/maxresdefault.jpg",
+      "noteEs": "Un walkthrough fase por fase del Echidna Gate 2 que cubre Normal y Hard, todavía la referencia estándar para esta pelea.",
+      "noteEn": "A phase-by-phase Echidna Gate 2 walkthrough covering both Normal and Hard, still the standard reference for this fight."
+    },
+    {
+      "id": "atk-echidna-gate2-lost-ark-2024",
+      "type": "video",
+      "title": "Kazeros Raid Guide - Echidna Gate 2",
+      "creator": "ATK",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=eL_WW_ueHX0",
+      "youtubeId": "eL_WW_ueHX0",
+      "language": "en",
+      "duration": "35:39",
+      "publishedDate": "2024-06-16",
+      "thumbnail": "https://i.ytimg.com/vi/eL_WW_ueHX0/maxresdefault.jpg",
+      "noteEs": "La versión más detallada y orientada a equipos de progresión del Echidna Gate 2, pensada para grupos que aprenden la pelea desde cero.",
+      "noteEn": "ATK's more detailed, prog-team-oriented take on Echidna Gate 2 mechanics for groups learning the fight from scratch."
+    },
+    {
+      "id": "atk-thaemine-g4-2-lost-ark-2024",
+      "type": "video",
+      "title": "THAEMINE Legion Raid - G4-2 Detailed Guide",
+      "creator": "ATK",
+      "creatorId": null,
+      "url": "https://www.youtube.com/watch?v=Yo2SV9_-kpU",
+      "youtubeId": "Yo2SV9_-kpU",
+      "language": "en",
+      "duration": "21:42",
+      "publishedDate": "2024-04-15",
+      "thumbnail": "https://i.ytimg.com/vi/Yo2SV9_-kpU/maxresdefault.jpg",
+      "noteEs": "La guía detallada del gate final de Thaemine, el Legion Raid pináculo anterior y todavía contenido de progresión relevante.",
+      "noteEn": "ATK's detailed final-gate guide for Thaemine, the prior pinnacle Legion Raid and still relevant progression content."
+    }
+  ]
+}
