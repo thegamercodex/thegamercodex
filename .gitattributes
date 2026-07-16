@@ -1,0 +1,5 @@
+# Shell scripts (incl. git hooks) must stay LF — CRLF breaks the shebang
+# interpreter on Linux/macOS ("bad interpreter"). Keeps scripts/hooks/*
+# portable across machines that activate core.hooksPath.
+scripts/hooks/* text eol=lf
+*.sh text eol=lf
