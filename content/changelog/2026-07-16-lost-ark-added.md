@@ -1,5 +1,5 @@
 ---
-date: 2026-06-25
+date: 2026-07-16
 titleEs: "Lost Ark agregado con 14 herramientas y 6 comparativas"
 titleEn: "Lost Ark added with 14 tools and 6 comparisons"
 summaryEs: "Sumamos Lost Ark al codex — el MMOARPG isométrico free-to-play de Smilegate RPG y Amazon Games. 14 herramientas (guías de builds y raids, calculadoras de honing, bases de datos, mapas, búsqueda de personajes y DPS meters), 5 creators, 25 resources, 6 comparativas y un stack."
